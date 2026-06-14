@@ -59,6 +59,16 @@ node scripts/update-news.mjs
 
 如果 GitHub 仓库没有允许 Actions 写入，需要到 `Settings -> Actions -> General -> Workflow permissions` 选择 `Read and write permissions`。
 
+## GitHub Pages 部署
+
+已添加 `.github/workflows/deploy-pages.yml`。推送到 `main` 后，GitHub Actions 会自动部署静态网站。
+
+第一次使用时，到仓库 `Settings -> Pages`，把 Source 设为 `GitHub Actions`。部署完成后，网站通常会出现在：
+
+```text
+https://cantsee999.github.io/everyday-news-reader/
+```
+
 ## 下一步
 
 - 接入 Supabase Auth 和数据库，实现跨设备登录、生词本同步、兴趣同步。
