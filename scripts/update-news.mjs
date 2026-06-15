@@ -34,9 +34,11 @@ const categories = [
   {
     id: "f1",
     label: "Formula 1",
-    query: "(Formula 1 OR F1 OR Grand Prix OR Ferrari OR Red Bull Racing OR McLaren OR Mercedes F1)",
-    rss: "https://www.theguardian.com/sport/formulaone/rss",
-    keywords: ["formula 1", "f1", "grand prix", "verstappen", "ferrari", "mclaren", "mercedes", "red bull"],
+    query: "(\"Formula 1\" OR \"Formula One\" OR \"Grand Prix\" OR \"F1 race\" OR \"F1 driver\" OR \"F1 team\" OR \"F1 qualifying\" OR Verstappen OR Leclerc OR Norris OR Piastri OR Hamilton)",
+    rss: "https://www.motorsport.com/rss/f1/news/",
+    preferRss: true,
+    keywords: ["formula 1", "formula one", "grand prix", "fia", "verstappen", "leclerc", "norris", "piastri", "hamilton"],
+    contextKeywords: ["f1", "race", "racing", "driver", "team", "qualifying", "prix", "championship", "podium", "grid", "pit", "lap"],
   },
   {
     id: "sims",
@@ -80,9 +82,9 @@ const output = {
 };
 
 for (const category of categories) {
-  let articles = await fetchGdeltArticles(category);
+  let articles = category.preferRss ? await fetchRssArticles(category) : await fetchGdeltArticles(category);
   if (!articles.length) {
-    articles = await fetchRssArticles(category);
+    articles = category.preferRss ? await fetchGdeltArticles(category) : await fetchRssArticles(category);
   }
 
   const enriched = [];
@@ -134,7 +136,7 @@ async function fetchGdeltArticles(category) {
     const response = await fetch(url, { signal: AbortSignal.timeout(12000) });
     if (!response.ok) throw new Error(`GDELT ${response.status}`);
     const payload = await response.json();
-    return dedupeByUrl(payload.articles || []).slice(0, 5);
+    return filterCategoryArticles(dedupeByUrl(payload.articles || []), category).slice(0, 5);
   } catch (error) {
     console.warn(`Could not fetch ${category.id}: ${error.message}`);
     return [];
@@ -157,9 +159,7 @@ async function fetchRssArticles(category) {
 
     const xml = await response.text();
     const parsed = parseRssItems(xml, category);
-    const filtered = category.keywords?.length
-      ? parsed.filter((article) => articleMatchesKeywords(article, category.keywords))
-      : parsed;
+    const filtered = filterCategoryArticles(parsed, category);
     return (filtered.length ? filtered : parsed).slice(0, 5);
   } catch (error) {
     console.warn(`Could not fetch RSS for ${category.id}: ${error.message}`);
@@ -252,9 +252,20 @@ function parseRssItems(xml, category) {
     .filter((article) => article.title && article.url);
 }
 
-function articleMatchesKeywords(article, keywords) {
-  const text = `${article.title} ${article.summary}`.toLowerCase();
-  return keywords.some((keyword) => text.includes(keyword.toLowerCase()));
+function filterCategoryArticles(articles, category) {
+  if (!category.keywords?.length) return articles;
+  return articles.filter((article) => articleMatchesCategory(article, category));
+}
+
+function articleMatchesCategory(article, category) {
+  const text = `${article.title} ${article.summary || ""} ${article.domain || ""}`.toLowerCase();
+  const hasKeyword = category.keywords.some((keyword) => text.includes(keyword.toLowerCase()));
+
+  if (category.id !== "f1") return hasKeyword;
+
+  const hasF1Token = /\bf1\b/i.test(text);
+  const hasContext = category.contextKeywords.some((keyword) => text.includes(keyword.toLowerCase()));
+  return hasKeyword || (hasF1Token && hasContext);
 }
 
 function readTag(item, tagName) {

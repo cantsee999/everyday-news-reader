@@ -27,7 +27,9 @@ const categories = [
   {
     id: "f1",
     label: "Formula 1",
-    query: "(Formula 1 OR F1 OR Grand Prix OR Ferrari OR Red Bull Racing OR McLaren OR Mercedes F1)",
+    query: "(\"Formula 1\" OR \"Formula One\" OR \"Grand Prix\" OR \"F1 race\" OR \"F1 driver\" OR \"F1 team\" OR \"F1 qualifying\" OR Verstappen OR Leclerc OR Norris OR Piastri OR Hamilton)",
+    keywords: ["formula 1", "formula one", "grand prix", "fia", "verstappen", "leclerc", "norris", "piastri", "hamilton"],
+    contextKeywords: ["f1", "race", "racing", "driver", "team", "qualifying", "prix", "championship", "podium", "grid", "pit", "lap"],
   },
   {
     id: "sims",
@@ -492,7 +494,7 @@ async function fetchCategory(category, maxRecords) {
     const response = await fetch(url.toString(), { cache: "no-store" });
     if (!response.ok) throw new Error("News source failed");
     const payload = await response.json();
-    const stories = normalizeStories(payload.articles || []);
+    const stories = filterCategoryStories(normalizeStories(payload.articles || []), category);
     return stories.length ? stories : fallbackStories[category.id] || [];
   } catch {
     return fallbackStories[category.id] || [];
@@ -508,6 +510,24 @@ function normalizeStories(articles) {
     seendate: article.seendate || new Date().toISOString(),
     domain: article.domain || "",
   }));
+}
+
+function filterCategoryStories(stories, category) {
+  if (!category.keywords?.length) return stories;
+
+  const filtered = stories.filter((story) => articleMatchesCategory(story, category));
+  return filtered;
+}
+
+function articleMatchesCategory(story, category) {
+  const text = `${story.title} ${story.summary} ${story.domain}`.toLowerCase();
+  const hasKeyword = category.keywords.some((keyword) => text.includes(keyword.toLowerCase()));
+
+  if (category.id !== "f1") return hasKeyword;
+
+  const hasF1Token = /\bf1\b/i.test(text);
+  const hasContext = category.contextKeywords.some((keyword) => text.includes(keyword.toLowerCase()));
+  return hasKeyword || (hasF1Token && hasContext);
 }
 
 function renderNews() {
