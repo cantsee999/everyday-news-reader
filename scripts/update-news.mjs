@@ -32,6 +32,27 @@ const categories = [
     rss: "https://www.theguardian.com/culture/rss",
   },
   {
+    id: "f1",
+    label: "Formula 1",
+    query: "(Formula 1 OR F1 OR Grand Prix OR Ferrari OR Red Bull Racing OR McLaren OR Mercedes F1)",
+    rss: "https://www.theguardian.com/sport/formulaone/rss",
+    keywords: ["formula 1", "f1", "grand prix", "verstappen", "ferrari", "mclaren", "mercedes", "red bull"],
+  },
+  {
+    id: "sims",
+    label: "The Sims",
+    query: "(The Sims OR Sims 4 OR Sims 5 OR Project Rene OR life simulation game)",
+    rss: "https://www.pcgamer.com/rss/",
+    keywords: ["the sims", "sims 4", "sims 5", "project rene", "maxis", "ea"],
+  },
+  {
+    id: "new-tech-products",
+    label: "New Tech Products",
+    query: "(new tech products OR gadget launch OR smartphone launch OR laptop launch OR wearable device)",
+    rss: "https://www.theverge.com/rss/index.xml",
+    keywords: ["phone", "smartphone", "laptop", "gadget", "wearable", "device", "launch", "review", "tablet", "chip"],
+  },
+  {
     id: "technology",
     label: "Technology",
     query: "(technology OR artificial intelligence OR software OR cybersecurity)",
@@ -135,7 +156,11 @@ async function fetchRssArticles(category) {
     if (!response.ok) throw new Error(`RSS ${response.status}`);
 
     const xml = await response.text();
-    return parseRssItems(xml).slice(0, 5);
+    const parsed = parseRssItems(xml, category);
+    const filtered = category.keywords?.length
+      ? parsed.filter((article) => articleMatchesKeywords(article, category.keywords))
+      : parsed;
+    return (filtered.length ? filtered : parsed).slice(0, 5);
   } catch (error) {
     console.warn(`Could not fetch RSS for ${category.id}: ${error.message}`);
     return [];
@@ -203,8 +228,9 @@ function dedupeByUrl(articles) {
   });
 }
 
-function parseRssItems(xml) {
+function parseRssItems(xml, category) {
   const items = [...xml.matchAll(/<item\b[\s\S]*?<\/item>/gi)];
+  const source = new URL(category.rss).hostname.replace(/^www\./, "");
 
   return items
     .map((match) => {
@@ -217,13 +243,18 @@ function parseRssItems(xml) {
       return {
         title,
         summary,
-        sourceCommonName: "The Guardian",
+        sourceCommonName: source,
         url,
         seendate: seendate ? new Date(seendate).toISOString() : generatedAt,
-        domain: "theguardian.com",
+        domain: source,
       };
     })
     .filter((article) => article.title && article.url);
+}
+
+function articleMatchesKeywords(article, keywords) {
+  const text = `${article.title} ${article.summary}`.toLowerCase();
+  return keywords.some((keyword) => text.includes(keyword.toLowerCase()));
 }
 
 function readTag(item, tagName) {

@@ -4,7 +4,7 @@
 
 ## 当前功能
 
-- 按类别展示国际政治、战争情况、经济、文学、娱乐等英文新闻。
+- 按类别展示国际政治、战争情况、经济、文学、娱乐、F1、模拟人生、新科技产品等英文新闻。
 - 默认 B1/B2，可切换 Simple / Standard / Advanced。
 - 娱乐新闻会用更轻的阅读提示，避免不必要的难词。
 - 每条 outline 用 What happened / Why it matters / Watch next 帮你判断大概情况。
@@ -17,6 +17,7 @@
 - 支持 “More categories”。
 - 支持 Done / Hide read stories，读过的新闻可以标记完成并隐藏。
 - 支持 `data/news-data.js` 本地缓存，即使用 `file://` 直接打开也能读取真实新闻缓存。
+- 兴趣模块已加入 Formula 1、The Sims、New Tech Products，并会参与每日自动更新。
 - PWA 离线缓存，可部署到 Vercel 或 Cloudflare Pages 免费额度。
 - 可用 `scripts/update-news.mjs` 生成 `data/news.json`，把公开新闻标题和发布方 meta description 缓存为更真实的摘要来源。
 
