@@ -1,8 +1,32 @@
 window.NEWS_CACHE = {
-  "generatedAt": "2026-06-18T00:06:29.353Z",
+  "generatedAt": "2026-06-19T00:19:18.900Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
+      {
+        "title": "CDC to tap $107m in emergency funding for Ebola response in DRC and Uganda",
+        "summary": "Number of people infected now tops 1,000 though health officials say the global risk remains lowSign up for the Breaking News U",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/jun/18/cdc-emergency-ebola-funding",
+        "seendate": "2026-06-18T18:55:09.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Barbados prime minister announces manifesto for slavery reparations",
+        "summary": "Updated document, which emphasises harm done to African women, is being considered by other Caribbean countriesBarbados’s prime minister, Mia Mottley, has announced a new manifesto from Caribbean leaders asserting the “moral, ethical and legal case” for reparations over damage caused by hundreds of years of enslavement.Mottley was speaking at a “historic” <a href=\"https://www.theguardian.com/news/202",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/news/2026/jun/18/barbados-prime-minister-manifesto-slavery-reparations",
+        "seendate": "2026-06-18T17:52:08.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "South African men sentenced in ‘world’s largest’ rhino horn trafficking case",
+        "summary": "‘Mastermind’ Dawie Groenewald given fine of 2m rand or four-year jail term almost 16 years after arrestTwo traffickers of rhino horns have been sentenced by a South African court in what police said was the world’s largest such case, partly bringing to an end an almost two-decade legal saga.Dawie Groenewald and Tielman Erasmus had faced more than 1,700 charges ranging from illegally hunting and dehor",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/jun/18/south-africa-men-sentenced-rhino-horn-trafficking-case",
+        "seendate": "2026-06-18T16:15:31.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Seven-year-old Abdiqadir was hit in a US airstrike. Without a $750 operation, he may lose his ability to walk",
         "summary": "Abdiqadir Salah was pierced by shrapnel in a bombing that killed 12 in Somalia. But as the US denies civilians were hurt they face no hope of compensationRead more: Killed walking home from school: why did Somali children become targets of US drone strikes?<",
@@ -18,75 +42,67 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/global-development/2026/jun/17/sierra-leones-first-lady-refuses-to-condemn-fgm-without-reliable-data-on-harms",
         "seendate": "2026-06-17T05:00:23.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Ghana to advance reparatory justice at first major gathering since landmark UN resolution",
-        "summary": "Heads of state and participants from more than 80 countries at three-day event in Accra to pursue actionable commitments to reconciliation and restitutionGhana is hosting a conference to advance the continent’s push for reparatory justice after the adoption of the landmark United",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/news/2026/jun/17/ghana-to-advance-reparatory-justice-at-first-major-gathering-since-landmark-un-resolution",
-        "seendate": "2026-06-17T05:00:22.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Lives and incomes lost as Ebola takes toll on Bunia’s public-facing workers",
-        "summary": "A headteacher, a motorcycle taxi driver and a travel agent are among those who are counting the human and economic cost of the virusJustin Keno watches more than 400 pupils stream through the Nelson Mandela school’s gate each morning, and wonders which of them might be carrying Ebola.The institution’s principal has done everything he can to prevent the spread of the virus: installing hand-washing bas",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/jun/17/lives-lost-ebola-bunia-workers-drc",
-        "seendate": "2026-06-17T04:00:21.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "South African jazz pianist Abdullah Ibrahim dies aged 91",
-        "summary": "The accomplished musician, who recorded over 70 albums in his career, died peacefully in Germany after a short illnessThe South African jazz composer and pianist Abdullah Ibrahim has died at the age of 91.His family announced his death in a statement released on Monday. Continue reading...",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/music/2026/jun/15/pianist-abdullah-ibrahim-dies",
-        "seendate": "2026-06-15T17:03:14.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "conflict": [
       {
-        "title": "G7 leaders call for resilient global growth , stress free transit through Strait of Hormuz",
-        "summary": "G7 leaders on Wednesday (local time) called for more balanced, durable and resilient global growth, stressing the need for the swift restoration of free and safe transit through the Strait of Hormuz and a lasting resolution to ongoing conflicts that have heightened uncertainty across the global economy. In a joint statement issued on the final day of the G7 Summit in Evian, the leaders reaffirmed their commitment to ",
-        "source": "mainemirror.com",
-        "url": "http://www.mainemirror.com/news/279129930/g7-leaders-call-for-resilient-global-growth-stress-free-transit-through-strait-of-hormuz",
-        "seendate": "20260617T234500Z",
-        "domain": "mainemirror.com"
+        "title": "CDC to tap $107m in emergency funding for Ebola response in DRC and Uganda",
+        "summary": "Number of people infected now tops 1,000 though health officials say the global risk remains lowSign up for the Breaking News U",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/jun/18/cdc-emergency-ebola-funding",
+        "seendate": "2026-06-18T18:55:09.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Transitional tiny home project aims to serve veterans at risk of homelessness",
-        "summary": "",
-        "source": "stripes.com",
-        "url": "https://www.stripes.com/veterans/2026-06-17/transitional-tiny-homes-serve-veterans-21998233.html",
-        "seendate": "20260617T234500Z",
-        "domain": "stripes.com"
+        "title": "Barbados prime minister announces manifesto for slavery reparations",
+        "summary": "Updated document, which emphasises harm done to African women, is being considered by other Caribbean countriesBarbados’s prime minister, Mia Mottley, has announced a new manifesto from Caribbean leaders asserting the “moral, ethical and legal case” for reparations over damage caused by hundreds of years of enslavement.Mottley was speaking at a “historic” <a href=\"https://www.theguardian.com/news/202",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/news/2026/jun/18/barbados-prime-minister-manifesto-slavery-reparations",
+        "seendate": "2026-06-18T17:52:08.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "US , Iran Sign Memorandum of Understanding to End War",
-        "summary": "Details of the agreement were revealed earlier Wednesday by a senior U.S. official.",
-        "source": "theepochtimes.com",
-        "url": "https://www.theepochtimes.com/world/us-iran-sign-memorandum-of-understanding-to-end-war-6049504",
-        "seendate": "20260617T234500Z",
-        "domain": "theepochtimes.com"
+        "title": "South African men sentenced in ‘world’s largest’ rhino horn trafficking case",
+        "summary": "‘Mastermind’ Dawie Groenewald given fine of 2m rand or four-year jail term almost 16 years after arrestTwo traffickers of rhino horns have been sentenced by a South African court in what police said was the world’s largest such case, partly bringing to an end an almost two-decade legal saga.Dawie Groenewald and Tielman Erasmus had faced more than 1,700 charges ranging from illegally hunting and dehor",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/jun/18/south-africa-men-sentenced-rhino-horn-trafficking-case",
+        "seendate": "2026-06-18T16:15:31.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "  The stuff builds up : Ex - firefighter talks first responder struggles for PTSD Awareness",
-        "summary": "June is PTSD Awareness Month. And a former firefighter is shining a light on first responders, who are at an elevated risk of PTSD.",
-        "source": "abc6onyourside.com",
-        "url": "https://abc6onyourside.com/news/nation-world/the-stuff-builds-up-ex-firefighter-talks-first-responder-struggles-for-ptsd-awareness-ptsd-awareness-month-mental-health-emergency-workers-police-emt-ems-emergency-dispatchers-firefighters",
-        "seendate": "20260617T234500Z",
-        "domain": "abc6onyourside.com"
+        "title": "Seven-year-old Abdiqadir was hit in a US airstrike. Without a $750 operation, he may lose his ability to walk",
+        "summary": "Abdiqadir Salah was pierced by shrapnel in a bombing that killed 12 in Somalia. But as the US denies civilians were hurt they face no hope of compensationRead more: Killed walking home from school: why did Somali children become targets of US drone strikes?<",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/global-development/2026/jun/17/boy-injured-us-strike-somalia-ability-walk-operation-abdiqadir-salah-surgery-civilians-november-attack",
+        "seendate": "2026-06-17T09:00:27.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Scottish soldier brain reunited with his body 85 years after his death",
-        "summary": "German doctors removed tissue samples from Private Donnie MacRae who died in a POW camp in March 1941.",
-        "source": "newburytoday.co.uk",
-        "url": "https://www.newburytoday.co.uk/national/scottish-soldier-s-brain-reunited-with-his-body-85-years-after-his-death-168139/",
-        "seendate": "20260617T234500Z",
-        "domain": "newburytoday.co.uk"
+        "title": "Sierra Leone’s first lady refuses to condemn FGM without ‘reliable data’ on harms",
+        "summary": "Exclusive: health professionals, survivors and politicians voice concerns in open letter over comments by Fatima Maada Bio, who denies supporting the practiceThe first lady of Sierra Leone has denied that she supports female genital mutilation amid rising anger around her perceived approval of the practice.But in an exclusive response to the Guardian, Fatima Maada Bio, the wife of President Julius Ma",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/global-development/2026/jun/17/sierra-leones-first-lady-refuses-to-condemn-fgm-without-reliable-data-on-harms",
+        "seendate": "2026-06-17T05:00:23.000Z",
+        "domain": "theguardian.com"
       }
     ],
     "economy": [
+      {
+        "title": "Fed governor Lisa Cook faced $1.3m in legal and security fees after Trump’s bid to fire her",
+        "summary": "Cook is at the center of a supreme court case focused on whether Trump’s firing of her from the Fed board was legalThe Federal Reserve governor Lisa Cook faced more than $1.3m in legal and security fees after coming under attack from the Trump administration, according to ethics disclosures that were filed on Wednesday.The White House targeted Cook last summer as Donald Trump ramped up his unpreceden",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/business/2026/jun/18/lisa-cook-legal-security-fees-trump-fed",
+        "seendate": "2026-06-18T15:43:40.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Not so empty nesters: record-high number of US adults under 35 live at home, new data says",
+        "summary": "Data shows that the increase in at-home living stems from high housing costs rather than labor market conditionsA record number of the US’s young adults were living with their parents last year, according to new data from Realtor.com, as high housing costs pushed the milestone of independent living out",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/society/2026/jun/18/us-adults-under-35-living-at-home",
+        "seendate": "2026-06-18T15:33:53.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Federal Reserve holds rates steady but signals possible hike before year’s end",
         "summary": "Open markets committee says ‘economic activity is expanding at a solid pace’ in first meeting under new chair Kevin WarshUS stock markets dropped on Wednesday afternoon after the Federal Reserve left interest rates unchanged and signaled a possible rate hike before the end of the year.The Fed was widely expected to keep rates at a range of 3.5% to 3.75%, where they have remained since December. The d",
@@ -110,236 +126,244 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/technology/2026/jun/16/pennsylvania-datacenters-debate-politicians",
         "seendate": "2026-06-16T21:23:59.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "SpaceX overtakes Amazon to become world’s fifth most valuable company",
-        "summary": "Elon Musk’s firm briefly reached $2.97tn valuation days after its IPO following purchase of AI coding startup CursorSpaceX has overtaken Amazon to become the world’s fifth most valuable company days after its stock market debut.The milestone came as Elon Musk’s company agreed to buy the startup behind the AI-pow",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/jun/16/spacex-ai-coding-anysphere-cursor-amazon-market-valuation-xai",
-        "seendate": "2026-06-16T18:37:43.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "US student debt repayment system is being overhauled – here’s what to know",
-        "summary": "Borrowers face stricter payment timelines after Biden-era Save repayment plan was ended by Donald TrumpThe American student loan repayment system is set to undergo a significant overhaul next month, changing the way millions of borrowers pay off their debt.The series of changes, which take effect on 1 July, are a result of the Trump administration’s One Big Beautiful Bill Act that was signed last sum",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/jun/16/us-student-debt-repayment-system-changes-explainer",
-        "seendate": "2026-06-16T11:00:06.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "literature": [
       {
-        "title": "The best books to read in June: new paperbacks from Ian McEwan, Arundhati Roy and Irvine Welsh",
-        "summary": "Looking for a new reading recommendation? Here are some great new paperbacks, from a much-awaited memoir to a climate crisis novel from a literary giant*** Continue reading...",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/ng-interactive/2026/jun/17/the-best-books-to-read-in-june-new-paperbacks-from-ian-mcewan-arundhati-roy-and-irvine-welsh",
-        "seendate": "2026-06-17T16:12:05.000Z",
-        "domain": "theguardian.com"
+        "title": "NSW Libs , Nats Offer $100 Rego Rebate for Drivers",
+        "summary": "Kellie Sloane Leader of the Opposition NSW Liberal LeaderMark Coure Shadow Minister for RoadsA Liberal and Nationals Government will deliver a $100",
+        "source": "miragenews.com",
+        "url": "https://www.miragenews.com/nsw-libs-nats-offer-100-rego-rebate-for-drivers-1695419/",
+        "seendate": "20260618T233000Z",
+        "domain": "miragenews.com"
       },
       {
-        "title": "Morbid by Saul Justin Newman review – why everything you think you know about longevity is wrong",
-        "summary": "Is Japan really full of centenarians? And what about ‘blue zones’? A brilliant skewering of ageing secrets and liesThere is a special place in hell reserved for doctors who trade on their authority, status and medical training to monetise public fear and gullibility. Every time I scroll past a qualified physician touting elixirs that promise youthful vigour, cellulite-free thighs or gut microbiome makeovers",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jun/17/morbid-by-saul-justin-newman-review-why-everything-you-think-you-know-about-longevity-is-wrong",
-        "seendate": "2026-06-17T06:00:24.000Z",
-        "domain": "theguardian.com"
+        "title": "What on in Geelong : Winter Solstice , GSODA , food , market",
+        "summary": "No Cookies",
+        "source": "geelongadvertiser.com.au",
+        "url": "https://www.geelongadvertiser.com.au/news/whats-on-in-geelong-were-rocking-up-for-a-cool-solstice/news-story/83c1b9aad37cc168ec15f0441eb22190?nk=06aae2a9ec5cbfdd8ec132d16caec954-1781824605",
+        "seendate": "20260618T233000Z",
+        "domain": "geelongadvertiser.com.au"
       },
       {
-        "title": "Collapse by Édouard Louis review – coming to terms with a brother’s death",
-        "summary": "In the latest autofictional instalment of his family saga, the French writer makes sense of his sibling’s violent homophobia and short life At 33, the French writer Édouard Louis has already seen all seven of his slim novels translated into English. In his breakout debut, The End of Eddy (2017), and again in",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jun/17/collapse-by-edouard-louis-review-coming-to-terms-with-a-brothers-death",
-        "seendate": "2026-06-17T08:00:26.000Z",
-        "domain": "theguardian.com"
+        "title": "RFDS Welcomes New Aircraft",
+        "summary": "The Australian Government&#039;s investment of $1 billion over 10 years in the Royal Flying Doctor Service (RFDS) has helped to deliver a new aircraft in",
+        "source": "miragenews.com",
+        "url": "https://www.miragenews.com/rfds-welcomes-new-aircraft-1695427/",
+        "seendate": "20260618T233000Z",
+        "domain": "miragenews.com"
       },
       {
-        "title": "Cracking stories, Gromit: Wallace’s long-suffering canine companion to tell all in memoir",
-        "summary": "After ‘bottling everything up for a long time’ the faithful pet, who has remained silent for many years, will spill the beans on the pair’s ‘pet hates and fur-vent passions’Gromit, the canine star of the Wallace and Gromit animations, is “breaking his silence” and writing a memoir.After “bottling everything up for a long time”, the moment has come for him to “spill the beans”, according to publisher",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jun/17/wallace-gromit-long-suffering-pooch-candid-autobiography",
-        "seendate": "2026-06-16T23:01:15.000Z",
-        "domain": "theguardian.com"
+        "title": "Plastic Chemical DEHP Rewires Fetal Brain Anxiety Circuits via GABA , Study Shows",
+        "summary": "DEHP plastic chemical anxiety: New Endocrine Society research found prenatal exposure to DEHP &mdash; found in hospital IV tubing and food packaging &mdash; permanently suppresses the GABA system that brakes fear responses, leaving male rats anxious for life. The findings converge with human evidence linking",
+        "source": "techtimes.com",
+        "url": "https://www.techtimes.com/articles/318646/20260618/plastic-chemical-dehp-rewires-fetal-brain-anxiety-circuits-via-gaba-study-shows.htm",
+        "seendate": "20260618T233000Z",
+        "domain": "techtimes.com"
       },
       {
-        "title": "‘Don DeLillo gave me his blessing’: film director Ben Rivers on how fan mail from the Underworld author led to his latest work",
-        "summary": "When Rivers received a surprise letter from DeLillo, it encouraged him to set the author’s one-act play in an adult-free, postapocalyptic worldNine-year-old girls reciting the gnomic prose of Don DeLillo – it sounds like an extreme English detention, but for film-maker Ben Rivers this was the foundation of his new movie, and the culmination of an unlikely friendship",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jun/16/don-delillo-film-director-ben-rivers-mares-nest",
-        "seendate": "2026-06-16T13:40:28.000Z",
-        "domain": "theguardian.com"
+        "title": "Freddy Snyder : What We Know About Carl Grillmair Suspect",
+        "summary": "The man accused of killing Caltech astrophysicist Carl Grillmair remains a mystery as investigators reveal few answers.",
+        "source": "lamag.com",
+        "url": "https://lamag.com/crimeinla/who-is-freddy-snyder-what-we-know-about-the-man-accused-of-killing-caltechs-carl-grillmair/",
+        "seendate": "20260618T233000Z",
+        "domain": "lamag.com"
       }
     ],
     "entertainment": [
       {
-        "title": "Daveigh Chase, child star known for Lilo & Stitch and The Ring, dies aged 35",
-        "summary": "Los Angeles-based actor’s boyfriend said she died from meningitis and blood infection which in turn led to sepsisThe former US child actor Daveigh Chase has died at age 35.She was best known for voicing Lilo in Disney’s Lilo &amp; Stitch and portraying Samara Morgan, the ghost in the 2002 horror film The Ring. Conti",
+        "title": "Girls Like Girls review – Sapphic teen romance is a precious and predictable yawn-a-thon",
+        "summary": "Singer Hayley Kiyoko misses the mark in a meandering directorial debut packed with groan-inducing dialogue On 26 June 2015, the US supreme court finally declared gay marriage legal nationwide. Two days later, singer-songwriter and former Disney Channel alum Hayley Kiyoko effectively came out to the world with her debut single, Girls Like Girls",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/jun/17/daveigh-chase-dies-aged-35",
-        "seendate": "2026-06-17T20:58:35.000Z",
+        "url": "https://www.theguardian.com/film/2026/jun/18/girls-like-girls-movie-review",
+        "seendate": "2026-06-18T11:00:02.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘Vegetarian Nigella’ and flirty hair flips: John Early and Kate Berlant take on diet culture in new influencer satire",
-        "summary": "In his directorial debut Maddie’s Secret, Early plays a food influencer with bulimia in a wild flip on the modern melodramaThey don’t make film heroines quite like Maddie Ralph any more. As the creation of comedian and actor John Early, the titular character of Maddie’s Secret is a bright-eyed ingenue who greets the day like the sun came out just",
+        "title": "Bongeziwe Mabandla faced addiction, illness and ‘backstabbers’. How has the South African singer stayed so upbeat?",
+        "summary": "An indie star in his homeland, Mabandla’s fame is growing abroad – and his uplifting new album is full of existential insight after some of the toughest years of his lifeAs the camera pulls back from Bongeziwe Mabandla in the video for his recent single Yalwa, the true stars of the show reveal themselves: two women, dressed in a mix of crisp white an",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/jun/17/maddies-secret-john-early-kate-berlant",
-        "seendate": "2026-06-17T10:00:29.000Z",
+        "url": "https://www.theguardian.com/music/2026/jun/18/bongeziwe-mabandla-south-african-singer",
+        "seendate": "2026-06-18T08:30:00.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Lil Nas X shares update after getting mental health care: ‘There’s less fear in my heart’",
-        "summary": "Musician says on Instagram he is ‘doing much better’ and receiving treatment and therapy after 2025 arrestThe musician Lil Nas X posted a moving video update to his Instagram on Wednesday morning. In the nearly three-minute clip, the artist – born Montero Lamar Hill – shared that he “has been in rehab for a few months” and since then, has returned ho",
+        "title": "‘A sacred kind of sound’: inside a solar-powered journey to preserve the music of church organs",
+        "summary": "Musician Michael Cloud Duguay’s new album was born from a mission to capture the sound of the majestic yet increasingly rare instrumentsMichael Cloud Duguay and his band of collaborators were nearing the end of their pipe organ tour of Newfoundland when they encountered a hitch in Aguathuna, a town of about 400 people on a c",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jun/17/lil-nas-x-mental-health-instagram-video",
-        "seendate": "2026-06-17T17:59:17.000Z",
+        "url": "https://www.theguardian.com/music/2026/jun/18/michael-cloud-duguay-album-church-organs",
+        "seendate": "2026-06-18T09:00:01.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Jimmy Kimmel on Trump’s reflecting pool: ‘latest waste of money to promote his glorious reign’",
-        "summary": "Late-night host reviewed Trump’s ‘vanity projects’, secrecy around his Iran peace deal, and RFK Jr’s snake handlingOn Tuesday evening, Jimmy Kimmel discussed Donald Trump’s disastrous renovations of the Lincoln Memorial’s reflecting pool and his “victory lap” over his purported <",
+        "title": "‘The beauty of the useless’: Spain’s super-thin restaurant napkins are throwaway art treasures",
+        "summary": "Forever flimsy and ineffective at cleaning greasy fingers, the servilletas of the Iberian peninsula resist the relentless ‘optimisation’ of our age. A new photo book recognises them as cultural treasures in miniatureIf you have ever eaten a meal in a bar, cafe or restaurant in Spain and grabbed a napkin from the ubiquitous small metal dispensers, you will be familiar with the most intriguing featur",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/culture/2026/jun/17/jimmy-kimmel-trump-reflecting-pool-iran-peace-deal",
-        "seendate": "2026-06-17T15:29:04.000Z",
+        "url": "https://www.theguardian.com/artanddesign/2026/jun/18/the-beauty-of-the-useless-spains-super-thin-restaurant-napkins-are-throwaway-art-treasures",
+        "seendate": "2026-06-18T04:00:02.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘There’s a kind of magic to her work’: Maren Hassinger’s one-of-a-kind sculptures",
-        "summary": "The artist has her most significant retrospective to date in a new exhibition that encourages attenders to take partFor 50 years, the American artist Maren Hassinger has created fascinating site-specific sculptures out of the simplest of actions: tying a square knot, twisting metal into organic shapes, blowing breath into a plastic bag, walking through a room. With Maren Hassinger: Living Moving Growing, th",
+        "title": "As Spielberg confirms whether ET was ‘slimy or dry’, we enter a new age of the celebrity interview",
+        "summary": "Veteran interviewees are forever trotting out the same anecdotes in response to unoriginal questions – until one fearless disruptor dared ask if ET had moist skinFor the most part, Steven Spielberg has avoided most of the indignities of the modern day press tour. He hasn’t had to subject himself to any <a href=\"https://www.theguardian.com/food/2023/jul/29/like-eating-battery-acid-british-tongues-on-fire-as-",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/artanddesign/2026/jun/17/maren-hassinger-retrospective-berkeley-art-museum",
-        "seendate": "2026-06-17T11:00:30.000Z",
+        "url": "https://www.theguardian.com/film/2026/jun/18/steven-spielberg-et-was-moist-but-never-slimy",
+        "seendate": "2026-06-18T06:00:05.000Z",
         "domain": "theguardian.com"
       }
     ],
     "f1": [
       {
-        "title": "The 10 strangest and most shocking retirements in Formula 1 history",
-        "summary": "Formula 1 is a complex series where hundreds of factors can influence the race start, the on-track action and the final result. As such, there are hundreds of things that can also go wrong in a grand prix.Read Also:Formula 1The wild reason behind Nico Hulkenberg's Barcelona GP retirementCase in point, a freak accident this weekend saw a humble chunk of gravel ruin ...<a class=",
+        "title": "F1 fans lose it as Max Verstappen and Isack Hadjar pull off chaotic hotel prank in viral video",
+        "summary": "Formula 1 fans have lost it over a hilarious hidden camera prank video shared by Red Bull of four-time champion Max Verstappen and his team-mate Isack Hadjar.The footage, filmed at the Seminole Hard Rock Hotel and Casino, features Verstappen directing Hadjar and a 'trainee' receptionist, comedian Mr Red, via an earpiece to confuse unsuspecting hotel guests.Operating from a back room ...<a class='more",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/the-10-most-bizarre-retirements-in-formula-1-history/10830885/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-06-17T16:29:50.000Z",
+        "url": "https://www.motorsport.com/f1/news/f1-fans-lose-it-as-max-verstappen-and-isack-hadjar-pull-off-chaotic-hotel-prank-in-viral-video/10831391/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-06-19T00:10:01.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Mercedes granted FIA hearing over George Russell's Monaco F1 penalty",
-        "summary": "The FIA has accepted Mercedes' request for a review of the Monaco Grand Prix result and George Russell's penalties, with a hearing scheduled for this Saturday, following Alpine's successful overturning of Pierre Gasly's penalties.A document published by the FIA on Wednesday confirmed that Mercedes has lodged a Right of Review petition regarding the decision made by the Monaco stewards ...<a class='more'",
+        "title": "Ferrari told to prioritise Lewis Hamilton for chance at 2026 F1 title",
+        "summary": "1997 Formula 1 champion Jacques Villeneuve has argued that Ferrari must throw its full weight behind Lewis Hamilton if the Maranello outfit is to have any chance of winning the 2026 championship, following the British driver's breakthrough victory at the Barcelona-Catalunya Grand Prix.The seven-time champion secured his maiden grand prix victory as a Ferrari driver in Barcelona, which not only ...<a clas",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/mercedes-granted-right-of-review-hearing-over-george-russells-monaco-gp-penalty/10831046/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-06-17T14:27:08.000Z",
+        "url": "https://www.motorsport.com/f1/news/ferrari-told-to-prioritise-lewis-hamilton-for-chance-at-2026-f1-title/10831343/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-06-18T22:35:02.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Red Bull explains FIA engine review: “No data sample indicates an advantage over Mercedes”",
-        "summary": "The handling of Formula 1's first Additional Development and Upgrade Opportunities (ADUO) period, covering the races through the Canadian Grand Prix, continues to dominate discussions in the paddock. The FIA informed all manufacturers of the results in Monaco, but a public announcement is still pending.This is because one manufacturer – logically Red Bull-Ford Powertrains – is highly ...<a class='more' h",
+        "title": "Martin Brundle warns Monaco GP penalty saga has \"no easy solution\"",
+        "summary": "Former Formula 1 driver and Sky Sports analyst Martin Brundle has branded the handling of the Monaco Grand Prix pitlane penalties and Pierre Gasly's reinstated podium \"a mess with no easy solution\".Writing in his regular post-race column following the Barcelona-Catalunya Grand Prix, which saw Lewis Hamilton secure his maiden grand prix victory for Ferrari, Brundle commented on the Monaco ...<a class='mor",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/red-bull-explains-fia-review-no-data-sample-indicates-an-advantage-over-mercedes/10830998/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-06-17T13:08:21.000Z",
+        "url": "https://www.motorsport.com/f1/news/martin-brundle-warns-monaco-gp-penalty-saga-has-no-easy-solution/10831267/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-06-18T21:33:20.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "'No corner quite like it' - How F1 put the mad in Madring",
-        "summary": "Boasting an ambitious plan that pledges to meet Formula 1's targets for entertaining, accessible and sustainable race in destination cities, Madrid earned the right to take over the Spanish Grand Prix from Barcelona for a 10-year-period, held at the IFEMA fairgrounds by the Barajas International airport.With less than three months to go until the so-called Madring's F1 debut, 45 years after ...<a class='",
+        "title": "Mercedes withdraws George Russell Monaco penalty review request",
+        "summary": "The Mercedes F1 team has withdrawn its right of review request over George Russell's Monaco Grand Prix time penalty, the FIA has announced.Russell was one of several cars handed time penalties for speeding in the pitlane, with it later coming to light that there was a timekeeping error at the Monaco pit entry that was throwing up false flags.As a result, Russell was knocked out of podium ...<a class=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/our-first-impressions-of-the-madring-f1-newest-circuit/10830899/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-06-17T12:00:55.000Z",
+        "url": "https://www.motorsport.com/f1/news/mercedes-withdraws-its-right-of-review-request/10831386/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-06-18T18:59:52.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "F1 reports 35% CO2 reduction ahead of 2030 net-zero target",
-        "summary": "Formula 1 says it reduced its carbon emissions by 12% in 2025, keeping it on track to achieve a 50% reduction by 2030.F1 set the goal of becoming \"Net Zero\" by 2030, which it claims would be delivered through a 50% reduction of its own emissions compared with 2018 levels. For the remaining unavoidable emissions that come with putting together a dense 24-race calendar, the championship will use ...<a clas",
+        "title": "Fabio Quartararo still wants F1 test after abandoned Mercedes plans",
+        "summary": "Fabio Quartararo says he is still keen to sample a Formula 1 car after previous plans for a test with Mercedes fell through for the MotoGP star.The Frenchman had been lined up to drive one of Mercedes’ title-winning grand prix cars in a private test at the end of 2022, a year after he secured his maiden MotoGP title with Yamaha.At that time, Mercedes and Yamaha shared two lead sponsors ...<a class='m",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/f1-reports-35-co2-reduction-ahead-of-2030-targets/10830960/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-06-17T09:03:48.000Z",
+        "url": "https://www.motorsport.com/motogp/news/fabio-quartararo-still-wants-f1-test-after-abandoned-mercedes-plans/10831312/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-06-18T14:05:25.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "Quebec digital health records system still facing challenges",
-        "summary": "Health officials, doctors and nurses say the transition to the DSN has been more difficult than expected.",
-        "source": "montrealgazette.com",
-        "url": "https://montrealgazette.com/news/provincial-news/quebec-digital-health-records-system-facing-challenges/",
-        "seendate": "20260617T234500Z",
-        "domain": "montrealgazette.com"
+        "title": "The devs of EVE Online's survival spinoff are on a 'side quest' to get it on Steam Deck: 'Our goal is to get this to as many players as possible'",
+        "summary": "Gamepad support and EVE Frontier's own launcher have been the biggest hurdles so far.",
+        "source": "pcgamer.com",
+        "url": "https://www.pcgamer.com/games/mmo/the-devs-of-eve-onlines-survival-spinoff-are-on-a-side-quest-to-get-it-on-steam-deck-our-goal-is-to-get-this-to-as-many-players-as-possible/",
+        "seendate": "2026-06-19T00:02:01.000Z",
+        "domain": "pcgamer.com"
       },
       {
-        "title": "New York Yankees vs . Chicago White Sox : Lineups , pitchers , how to watch",
-        "summary": "Rodón tangoes with his original team under the Bronx lights.",
-        "source": "pinstripealley.com",
-        "url": "https://www.pinstripealley.com/pinstripe-alley-discussions/193036/yankees-game-thread-white-sox-probable-pitchers-rodon-kay-starting-lineups-tv-channel-how-to-watch-amazon-prime",
-        "seendate": "20260617T234500Z",
-        "domain": "pinstripealley.com"
+        "title": "Instead of wishlisting its game, the developer of my favorite Next Fest demo wants you to play anyone else's: 'There are some genuinely great creators in this fest who deserve the attention'",
+        "summary": "It's an unconventional marketing strategy, but I'll allow it.",
+        "source": "pcgamer.com",
+        "url": "https://www.pcgamer.com/games/sports/instead-of-wishlisting-its-game-the-developer-of-my-favorite-next-fest-demo-wants-you-to-play-anyone-elses-there-are-some-genuinely-great-creators-in-this-fest-who-deserve-the-attention/",
+        "seendate": "2026-06-18T20:54:09.000Z",
+        "domain": "pcgamer.com"
       },
       {
-        "title": "126th U . S . Open : Preview , Trends , Props & Best Bets",
-        "summary": "Bill Streicher-Imagn Images)",
-        "source": "newzealandstar.com",
-        "url": "http://www.newzealandstar.com/news/279130024/126th-us-open-preview-trends-props-best-bets",
-        "seendate": "20260617T234500Z",
-        "domain": "newzealandstar.com"
+        "title": "World of Warcraft players will never have to leave the MMO once Blizzard adds Discord chat for guilds in the next update",
+        "summary": "Looking for a group is about to be a lot easier in patch 12.1 Curse of Ula'tek.",
+        "source": "pcgamer.com",
+        "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-players-will-never-have-to-leave-the-mmo-once-blizzard-adds-discord-chat-for-guilds-in-the-next-update/",
+        "seendate": "2026-06-18T20:50:30.000Z",
+        "domain": "pcgamer.com"
       },
       {
-        "title": "G7 leaders call for resilient global growth , stress free transit through Strait of Hormuz",
-        "summary": "G7 leaders on Wednesday (local time) called for more balanced, durable and resilient global growth, stressing the need for the swift restoration of free and safe transit through the Strait of Hormuz and a lasting resolution to ongoing conflicts that have heightened uncertainty across the global economy. In a joint statement issued on the final day of the G7 Summit in Evian, the leaders reaffirmed their commitment to ",
-        "source": "mainemirror.com",
-        "url": "http://www.mainemirror.com/news/279129930/g7-leaders-call-for-resilient-global-growth-stress-free-transit-through-strait-of-hormuz",
-        "seendate": "20260617T234500Z",
-        "domain": "mainemirror.com"
+        "title": "The director of all six Sharknado movies has a new film, and it's a Dave the Diver live-action short",
+        "summary": "Mintrocket teamed up with Asylum's Anthony C. Ferrante for some silly jungle carnage.",
+        "source": "pcgamer.com",
+        "url": "https://www.pcgamer.com/movies-tv/the-director-of-all-six-sharknado-movies-has-a-new-film-and-its-a-dave-the-diver-live-action-short/",
+        "seendate": "2026-06-18T19:17:31.000Z",
+        "domain": "pcgamer.com"
       },
       {
-        "title": "Grooming gangs hearings in Scottish Child Abuse Inquiry to begin next year",
-        "summary": "Lady Smith’s inquiry will focus on the exploitation of children who were in care.",
-        "source": "standard.co.uk",
-        "url": "https://www.standard.co.uk/news/crime/scottish-scottish-government-scotland-b1286565.html",
-        "seendate": "20260617T234500Z",
-        "domain": "standard.co.uk"
+        "title": "Snapdragon Reality Elite chip aims for 'up to 60% higher GPU performance, up to 30% increase in CPU performance' in VR gaming",
+        "summary": "A stronger case for smartglasses.",
+        "source": "pcgamer.com",
+        "url": "https://www.pcgamer.com/hardware/vr-hardware/snapdragon-reality-elite-chip-aims-for-up-to-60-percent-higher-gpu-performance-up-to-30-percent-increase-in-cpu-performance-in-vr-gaming/",
+        "seendate": "2026-06-18T16:22:31.000Z",
+        "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
       {
-        "title": "France to ditch Palantir’s AI data tools in favour of domestic provider",
-        "summary": "Move to ChapsVision is to avoid ‘strategic dependencies’, says PM amid concern about reliance on US-controlled toolsFrance’s domestic intelligence service is to ditch AI data tools from the US tech company Palantir in favour of a domestic provider in an effort to avoid “strategic dependency”, the prime minister, Sébastien Lecornu, has said.“We must use our own AI models; we cannot accept new strategi",
+        "title": "Farage trying to block ‘Britcoin’ plans that could be costly for billionaire donor",
+        "summary": "Reform UK leader used private meeting at Bank of England to urge governor to drop plans for state-run cryptocurrencyNigel Farage has been trying to block a Bank of England cryptocurrency plan that could be costly for the billionaire bankrolling his party.The Reform UK leader has said Christopher Harborne wants nothing in exchange for the millions he has donated to the party and the undeclared £5m per",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/jun/16/france-ai-data-tools-palantir-chapsvision",
-        "seendate": "2026-06-16T17:08:21.000Z",
+        "url": "https://www.theguardian.com/politics/2026/jun/18/nigel-farage-trying-block-britcoin-crypto-plans-bank-of-england-christopher-harborne",
+        "seendate": "2026-06-18T10:30:00.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "SpaceX overtakes Amazon to become world’s fifth most valuable company",
-        "summary": "Elon Musk’s firm briefly reached $2.97tn valuation days after its IPO following purchase of AI coding startup CursorSpaceX has overtaken Amazon to become the world’s fifth most valuable company days after its stock market debut.The milestone came as Elon Musk’s company agreed to buy the startup behind the AI-pow",
+        "title": "UK critical infrastructure hit by 200 cyber incidents in a year, agency says",
+        "summary": "Head of National Cyber Security Centre says UK in ‘ongoing contest with capable adversaries’ and AI could add to threat The UK’s critical national infrastructure has been hit by more than 200 cyber incidents over the past year and state-linked assailants were behind three-quarters of the attacks, according to the state cybersecurity body.Richard Horne, the chief executive of the National Cyber Securi",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/jun/16/spacex-ai-coding-anysphere-cursor-amazon-market-valuation-xai",
-        "seendate": "2026-06-16T18:37:43.000Z",
+        "url": "https://www.theguardian.com/uk-news/2026/jun/17/uk-critical-infrastructure-cyber-incidents-ncsc",
+        "seendate": "2026-06-17T15:00:35.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "UK ministers lobby Trump to avert backlash against social media ban",
-        "summary": "No 10 is worried about retaliation from White House over restrictions on under-16s’ internet useMinisters have embarked on a concerted lobbying operation to prevent a backlash from the Trump administration to the under-16s social media ban announced by Keir Starmer.Officials said they had spent weeks tryi",
+        "title": "Gig workers are endlessly exploited. AI could make more of us share their fate",
+        "summary": "As companies integrate AI and hire fewer employees, a shift toward a ‘gig economy’ will commenceIn 2024, the buy-now-pay-later company Klarna announced that it would cut hundreds of customer service roles and begin using an artificial intelligence chatbot instead. The move was expected to save the company millions. But a year later, after <a href=\"https://www.bloomberg.com/news/articles/2025-05-08/klarna-tu",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/media/2026/jun/15/uk-ministers-lobby-trump-backlash-social-media-ban",
-        "seendate": "2026-06-16T08:05:09.000Z",
+        "url": "https://www.theguardian.com/technology/2026/jun/18/ai-threatens-gig-work-rise",
+        "seendate": "2026-06-18T08:00:00.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Elon Musk’s unprecendented accumulation of wealth",
-        "summary": "IPO mints Musk as world’s first trillionaire – now SpaceX is public, it will be harder than ever not to have a stake in its future Hi and welcome to TechScape. Nick Robins-Early here, US tech and power reporter at the Guardian. I’m filling in for your usual host Blake Montgomery, who is out this week on vacation.Today, we’ll be talking about the <a href=\"https://www.theguardian.com/science/2026/jun/1",
+        "title": "Inspired by Ukraine, and worried by China: Taiwan teaches its citizens how to fly drones",
+        "summary": "Ordinary Taiwanese, young and old, are joining courses to learn how to fly drones amid looming China military threatIn a small, crowded room in Taipei, Pan Chien-chin is trying to keep a drone hovering steadily. Imagining himself flying a plane, he gently nudges controller joysticks to guide the insect-like device as it hums through the air.Cheers break out as Pan, who has never flown a drone before,",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/jun/16/elon-musk-techscape",
-        "seendate": "2026-06-16T12:55:35.000Z",
+        "url": "https://www.theguardian.com/world/2026/jun/18/taiwan-citizens-learn-fly-pilot-drones-courses-china",
+        "seendate": "2026-06-18T01:14:15.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "How the fight over US datacenters is scrambling this state’s politics: ‘We don’t want it’",
-        "summary": "Josh Shapiro, Pennsylvania’s governor, squares off with state lawmakers over the facilities powering an AI boomA controversial haunted house near Philadelphia, Pennsylvania, taps into its dark history every fall to scare tens of thousands of visitors. In 1968, a local news stat",
+        "title": "Taliban order ban on smartphones as officials shown destroying devices",
+        "summary": "Directive aimed at government workers, but reports of wider implementation spark warnings of future Afghanistan-wide prohibitionThe Taliban have ordered a sweeping ban on the use of smartphones by government officials – in what some analysts say could foreshadow broader, population-level restrictions.In a directive issued by the Taliban’s military courts and reviewed by the Guardian, the ban was to t",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/jun/16/pennsylvania-datacenters-debate-politicians",
-        "seendate": "2026-06-16T21:23:59.000Z",
+        "url": "https://www.theguardian.com/global-development/2026/jun/18/taliban-ban-smartphones-officials-shown-destroying-devices",
+        "seendate": "2026-06-18T05:00:01.000Z",
         "domain": "theguardian.com"
       }
     ],
     "climate": [
+      {
+        "title": "Trump administration reverses decision to scrap ocean monitoring system",
+        "summary": "Move to dismantle $368m sea observatory initiative faced opposition from experts and lawmakersThe Donald Trump administration has reversed its decision to dismantle a $368m deep-sea observation system following an outcry from",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/jun/18/ocean-monitoring-system-reversal-trump-administration",
+        "seendate": "2026-06-18T19:31:44.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Showdown in the desert: the small town fending off a new California gold rush",
+        "summary": "A prospecting company’s search for gold has the town of Lone Pine and Indigenous leaders on edge, as the Trump administration greenlights new projects across the American westLone Pine, population 1,882, lies along a stretch of California highway framed by the vast Inyo mountains and a sweeping desert landscape of sagebrush and dunes.It’s the type of small town tourists drive through en route to Deat",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/jun/18/california-mining-lone-pine",
+        "seendate": "2026-06-18T16:00:07.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Lake Tahoe residents ‘horrified’ by plans to spray cancer-linked glyphosate in public lands",
+        "summary": "Federal agency to use herbicide to clear lands for replanting after 2021 Caldor fire – but public reaction to plan is fierceKatherine Levy remembers a childhood deeply rooted in the natural offerings of Lake Tahoe – water-skiing in the summer and working as ski instructor on the surrounding snow-covered mountains during winter months.She recently moved back to live out her retirement along the lake’s",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/jun/18/lake-tahoe-glyphosate",
+        "seendate": "2026-06-18T13:00:03.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Even as Florida moves detainees from ‘Alligator Alcatraz’, activists fight for its permanent closure",
         "summary": "Groups cite detainee maltreatment and degradation of surrounding land as reasons to close facility permanentlySign up for the B",
@@ -355,71 +379,47 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/us-news/2026/jun/17/tropical-storm-arthur-atlantic-hurricane-season",
         "seendate": "2026-06-17T19:19:55.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "US public still favours action on climate change despite Trump’s fossil fuel drive",
-        "summary": "Two-thirds of Americans say they are worried about climate but level of media coverage does not reflect thisUS political and media discourse has drifted away from the climate crisis amid a frontal assault by Donald Trump upon policies to limit global heating and the president’s",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/2026/jun/17/climate-change-public-opinion-trump-fossil-fuel",
-        "seendate": "2026-06-17T12:00:31.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "The ocean has shielded us from the worst of climate change. Now it is running a fever | Karina Von Schuckmann",
-        "summary": "Nearly every indicator of climate change is flashing red. But we still hold the tools available to bring the planet back into balanceThe ocean is running a fever. In 2025, the number of days of marine heatwaves – prolonged spells when the sea turns abnormally, dangerously warm – was more than triple what it was in the early 1990s.These are not abstract statistics. A severe and persistent marine heatw",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/commentisfree/2026/jun/17/ocean-fever-climate-change",
-        "seendate": "2026-06-17T10:00:28.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Trump’s DoJ intervenes to back Elon Musk in datacenter pollution lawsuit",
-        "summary": "Justice department urges judge to throw out suit brought by NAACP over xAI’s methane-gas turbines in MississippiThe Trump administration is coming to the defense of Elon Musk in a lawsuit over claims that his artificial intelligence company, xAI, is polluting residential neighborhoods in north Mississippi. The justice department told a federal court late on Monday to throw out the case.The lawsuit wa",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/jun/16/elon-musk-xai-datacenters-trump-administration",
-        "seendate": "2026-06-16T23:01:13.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "science": [
       {
-        "title": "Goats can find food by following a human voice, study finds",
-        "summary": "Experiments show 29 animals moved towards a treat-filled bucket 60% of the time when guided by a researcherWhen it comes to following human cues, it seems the greatest of all time might actually be the goat.Researchers have discovered that, like young children, goats are able to follow the direction of a human voice to find an item. <a href=\"https://www.theguardian.com/science/2026/jun/17/goats-c",
+        "title": "Solstice-aligned 5,000-year-old monument ‘once in a lifetime find’, say archaeologists",
+        "summary": "Wessex Archaeology suspect they have uncovered a prototype for world-famous Stonehenge site in WiltshireA 5,000-year-old monument that was aligned with the summer and winter solstices and may have served as a prototype for the later solar alignment at Stonehenge has been discovered close to the famous neolithic site, in what archaeologists have described as a “once in a lifetime” find.The structure a",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/jun/17/goats-can-find-food-following-human-voice-study",
-        "seendate": "2026-06-17T04:00:22.000Z",
+        "url": "https://www.theguardian.com/uk-news/2026/jun/18/solstice-aligned-monument-archaeology-wiltshire-stonehenge-prototype",
+        "seendate": "2026-06-17T23:00:47.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Globally significant volcanic event formed Giant’s Causeway, scientists find",
-        "summary": "Geochronologists say basalt columns in Antrim sprang up during volcanic activity over 5.5m years – 8m less than thoughtFor centuries, the tale has been passed from generation to generation: how the Irish giant Finn McCool built the Giant’s Causeway in Northern Ireland to fight Benandonner, his Scottish rival, by hurling chunks of the Antrim coastline into the sea.Now, scientists have revealed it was",
+        "title": "Apocalypse when? ‘Earth’s Black Box’ to be installed in remote Tasmanian airfield",
+        "summary": "Rouser Lab says the steel structure will record ‘every step’ humanity takes towards climate catastropheFollow our Australia news live blog for latest updatesGet our <a href=\"h",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/jun/15/globally-significant-volcanic-event-giants-causeway-scientists",
-        "seendate": "2026-06-15T14:14:31.000Z",
+        "url": "https://www.theguardian.com/australia-news/2026/jun/18/earth-black-box-climate-apocalypse-tasmania-australia",
+        "seendate": "2026-06-17T15:00:37.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Should we ban social media for under-16s? – podcast",
-        "summary": "The UK prime minister, Keir Starmer, has announced a social media ban for under-16s, as part of an online safety drive that aims to go even further than the world’s first ban, introduced by Australia last year. Many parents have welcomed the proposals, but scientists have pointed to the lack of strong evidence for the efficacy of bans, and some campaigners have argued that the proposal allows social media companie",
+        "title": "A bonanza for fans of the natural world: the digital library sharing 64m pages of scientific knowledge with everyone",
+        "summary": "The Biodiversity Heritage Library is an invaluable online archive of historic texts on species living and lost supplied by the world’s leading museums and universities. Now its future is in doubtSome go there to read about the wood that Victorian manufacturers used to make walking sticks. Others want to see an illustration of a Tasmanian tiger or marvel at the field diary of one of the first known botanists",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/audio/2026/jun/15/should-we-ban-social-media-for-under-16s-podcast",
-        "seendate": "2026-06-15T16:00:07.000Z",
+        "url": "https://www.theguardian.com/environment/2026/jun/18/natural-world-digital-biodiversity-heritage-library-scientific-knowledge-free-access-aoe",
+        "seendate": "2026-06-18T07:00:03.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Antidepressants and antipsychotics could serve as alternatives to opioids, study finds",
-        "summary": "Medications that target depression, anxiety and poor sleep could help treat pain without opioids’ addictive propertiesA range of other medications could serve as alternatives to powerful opioids for pain relief in emergency departments, according to a new study.The review paper examined non-opioid medications available in the emergency de",
+        "title": "The audacious plan to refreeze the Arctic – podcast",
+        "summary": "Sea ice is melting fast and worsening the climate crisis. But what if there were a way to thicken it again? Madeleine Finlay is joined by environment editor Damian Carrington to discuss a bold attempt to refreeze the Arctic which is showing early signs of success. He visited the project to find out how it will work, how much it will cost and whether it really has potential to improve the fate of the Arctic’s ice</",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/society/2026/jun/14/other-medications-opioids-alternatives-study",
-        "seendate": "2026-06-14T12:00:42.000Z",
+        "url": "https://www.theguardian.com/science/audio/2026/jun/18/inside-the-audacious-plan-to-refreeze-the-arctic-podcast",
+        "seendate": "2026-06-18T05:11:33.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Starwatch: Sliver of moon and bright Venus create delightful twilight conjunction",
-        "summary": "Three-day-old moon will be about its own width away from luminous planet in constellation of CancerA silver sliver of moon joins the bright beacon of Venus this week for a delightful twilight conjunction. The moon will be just over three days old and only 11% of its visible surface will be illuminated.Venus will be burning brightly and less than a moon’s width away from our natural satellite. The pai",
+        "title": "HPV jabs cut risk of dying from cervical cancer before 30 to almost zero",
+        "summary": "Study reveals positive news, but experts say deaths and cases may rise again as fewer teenagers get vaccinatedWomen who received an HPV vaccine in early adolescence have virtually zero risk of dying from cervical cancer before the age of 30, according to a groundbreaking study, but falling vaccination rates could see a rise in avoidable deaths.Cervical cancer is the fourth most common cancer in women",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/jun/15/starwatch-sliver-of-moon-and-bright-venus-create-delightful-twilight-conjunction",
-        "seendate": "2026-06-15T05:00:03.000Z",
+        "url": "https://www.theguardian.com/society/2026/jun/17/hpv-jabs-reduce-risk-dying-cervical-cancer-before-30-zero-study-finds",
+        "seendate": "2026-06-17T22:30:46.000Z",
         "domain": "theguardian.com"
       }
     ]
