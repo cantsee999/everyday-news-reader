@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-06-19T23:58:42.964Z",
+  "generatedAt": "2026-06-20T23:58:25.711Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
       {
-        "title": "Global framework for reparatory justice adopted at landmark conference in Ghana",
-        "summary": "Ensuring fair compensation for those affected by legacies of enslavement and measures to address debt burdens, part of 18-point strategic roadmapMore than money: the logic of slavery reparationsA global framework for reparatory justice has been adopted at a conference in Ghana.</",
+        "title": "Global framework for reparatory justice adopted at landmark Ghana conference",
+        "summary": "Call for formal apologies from countries that benefited from transatlantic trade slave included in 19-point roadmapMore than money: the logic of slavery reparationsA global framework for reparatory justice has been adopted at a conference in Ghana, as African and Caribbean leader",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/news/2026/jun/19/global-framework-reparations-justice-adopted-at-landmark-conference-in-accra-ghana",
         "seendate": "2026-06-19T17:26:45.000Z",
@@ -46,8 +46,8 @@
     ],
     "conflict": [
       {
-        "title": "Global framework for reparatory justice adopted at landmark conference in Ghana",
-        "summary": "Ensuring fair compensation for those affected by legacies of enslavement and measures to address debt burdens, part of 18-point strategic roadmapMore than money: the logic of slavery reparationsA global framework for reparatory justice has been adopted at a conference in Ghana.</",
+        "title": "Global framework for reparatory justice adopted at landmark Ghana conference",
+        "summary": "Call for formal apologies from countries that benefited from transatlantic trade slave included in 19-point roadmapMore than money: the logic of slavery reparationsA global framework for reparatory justice has been adopted at a conference in Ghana, as African and Caribbean leader",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/news/2026/jun/19/global-framework-reparations-justice-adopted-at-landmark-conference-in-accra-ghana",
         "seendate": "2026-06-19T17:26:45.000Z",
@@ -88,6 +88,22 @@
     ],
     "economy": [
       {
+        "title": "How do people in the US describe customer service in 2026? ‘Debilitating, depressing, enraging. Ugh’",
+        "summary": "We asked people in the US about their customer service battles and hundreds responded on the financial and emotional costsGuardian readers from across the US wrote in to tell us about their battles with big companies, and the time, expense and emotional toll exacted by businesses they say are prioritizing the bottom line over all else.The top takeaway: people really, really don’t like AI customer ser",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/jun/20/guardian-readers-consumer-battles",
+        "seendate": "2026-06-20T11:00:03.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Datacenters driving US clean energy growth while still threatening climate",
+        "summary": "As datacenters’ connections to electric grids are held up, big tech is forced to throw money at producing its own powerDatacenters are driving unprecedented growth in the US clean energy industry, paradoxically boosting a sector that was sputtering before the artificial intelligence boom even as AI’s rollout creates immense environmental challenges.However, observers caution that while the centers ar",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/jun/19/datacenters-us-clean-energy-growth-climate",
+        "seendate": "2026-06-19T11:00:30.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Fed governor Lisa Cook faced $1.3m in legal and security fees after Trump’s bid to fire her",
         "summary": "Cook is at the center of a supreme court case focused on whether Trump’s firing of her from the Fed board was legalThe Federal Reserve governor Lisa Cook faced more than $1.3m in legal and security fees after coming under attack from the Trump administration, according to ethics disclosures that were filed on Wednesday.The White House targeted Cook last summer as Donald Trump ramped up his unpreceden",
         "source": "theguardian.com",
@@ -110,64 +126,48 @@
         "url": "https://www.theguardian.com/business/2026/jun/17/federal-reserve-interest-rates",
         "seendate": "2026-06-17T20:34:11.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Trump’s Department of Labor claims without data that states defrauded government",
-        "summary": "Acting secretary Keith Sonderling threatens to withhold administrative funds from states for first time in historyKeith Sonderling sent letters to 53 states and US territories demanding action to “combat waste, fraud, and abuse” within the unemployment insurance program, threatening to withhold administrative funds from states for the first time in history.“We are officially putting governors on noti",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jun/17/trump-administration-state-fraud-claims",
-        "seendate": "2026-06-17T13:12:55.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "How the fight over US datacenters is scrambling this state’s politics: ‘We don’t want it’",
-        "summary": "Josh Shapiro, Pennsylvania’s governor, squares off with state lawmakers over the facilities powering an AI boomA controversial haunted house near Philadelphia, Pennsylvania, taps into its dark history every fall to scare tens of thousands of visitors. In 1968, a local news stat",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/jun/16/pennsylvania-datacenters-debate-politicians",
-        "seendate": "2026-06-16T21:23:59.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "literature": [
       {
-        "title": "Where Winds Meet Developer Q & A : Hidden Mountain Vertical Exploration , Future Roadmap , and Ongoing Netcode and Performance Optimization",
-        "summary": "We talked to the developers of Where Winds Meet: learn about the Hidden Mountain expansion, matchmaking upgrades, performance fixes, and more",
-        "source": "wccftech.com",
-        "url": "https://wccftech.com/where-winds-meet-interview-hidden-mountain/",
-        "seendate": "20260619T230000Z",
-        "domain": "wccftech.com"
+        "title": "Candice Carty-Williams: ‘People feel very attached to Queenie’",
+        "summary": "The breakout success of her debut created a publishing scramble for Black writers, but has that appetite for diversity endured? Carty-Williams talks about wanting to quit the TV adaptation, why now is the perfect time for her sequel One of the questions Candice Carty-Williams has spent the past few years batting away is whether she is Queenie. It is perhaps inevitable: her best­selling <a href=\"https://www.",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/jun/20/candice-carty-williams-people-feel-very-attached-to-queenie",
+        "seendate": "2026-06-20T08:00:03.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Dr Bertram McPhee Celebrating 100th Birthday",
-        "summary": "Dr George Bertram McPhee, a physician whose life and career has spanned medicine, military service, golf, the arts and community leadership, is celebrating his 100th birthday. Born on June 19, 1926, Dr McPhee is known for his infectious sense of humour and practised general medicine and surgery for more than 60 years, including time at &hellip;",
-        "source": "bernews.com",
-        "url": "https://bernews.com/2026/06/dr-george-mcphee-celebrating-100th-birthday/",
-        "seendate": "20260619T230000Z",
-        "domain": "bernews.com"
+        "title": "Granta stops publishing short story award winners over AI controversy",
+        "summary": "Literary magazine will no longer engage in ‘external publishing partnerships’ after Commonwealth prize furoreThe prominent literary magazine Granta will no longer publish the winning entries of the annual Commonwealth short story prize after one of this year’s winners drew widespread accusations of AI use.The magazine said it would no longer be involved in “external publishing partnerships” in which",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/jun/20/granta-magazine-commonwealth-short-story-prize-ai",
+        "seendate": "2026-06-20T09:00:04.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Gigabyte X870E AERO X3D DARK Wood Motherboard Review",
-        "summary": "The Gigabyte X870E AERO X3D DARK Wood motherboard is priced at $499, & features DDR5-9000 support, dual Gen5 slots, and premium design.",
-        "source": "wccftech.com",
-        "url": "https://wccftech.com/review/gigabyte-x870e-aero-x3d-dark-wood-motherboard-review-supreme-aesthetics/",
-        "seendate": "20260619T230000Z",
-        "domain": "wccftech.com"
+        "title": "Disability by David Turner review – a revelatory new history",
+        "summary": "This study of the struggle for rights includes incredible personal stories that we should all be more familiar withYou could take two outwardly contradictory lessons from the historian David Turner’s new book on disability in the UK. First, that alarmingly little has changed for disabled people since the beginning of the modern age (the book’s first few stories, of 17th-century men and women having to prove",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/jun/19/disability-by-david-turner-review-a-revelatory-new-history",
+        "seendate": "2026-06-19T06:00:25.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Construction of Lambton ambulance headquarters on track for 2027 start",
-        "summary": "",
-        "source": "chathamdailynews.ca",
-        "url": "https://www.chathamdailynews.ca:443/news/local-news/construction-of-new-lambton-ambulance-hq-on-track-for-2027-start",
-        "seendate": "20260619T230000Z",
-        "domain": "chathamdailynews.ca"
+        "title": "The best recent crime and thrillers – review roundup",
+        "summary": "The Pinnacle by Abir Mukherjee; A Violent Masterpiece by Jordan Harper; Murder on the Red River by Marcie R Rendon; The Devoted by Catherine Cho; The Repentants by Kate FosterThe Pinnacle by Abir Mukherjee (Harvill, £16.99)In the",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/jun/19/the-best-recent-and-thrillers-review-roundup",
+        "seendate": "2026-06-19T11:00:31.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "What known , and unknown , about UM 2024 sex discrimination settlement",
-        "summary": "This story is excerpted from Capitolized, a weekly politics newsletter featuring expert reporting, analysis and insight. Want to see Capitolized in your inbox e",
-        "source": "nbcmontana.com",
-        "url": "https://nbcmontana.com/news/local/whats-known-and-unknown-about-ums-2024-sex-discrimination-settlement",
-        "seendate": "20260619T230000Z",
-        "domain": "nbcmontana.com"
+        "title": "A Little Bit Bad by Cassandra Neyenesch review – a sparkling, subversive debut",
+        "summary": "With its echoes of Miranda July’s All Fours, this tragicomic tale of an American woman’s illicit romance is also a gripping murder mysteryThe plot of A Little Bit Bad sounds like the setup for a joke: “Like, this white lady lusting after her hot Chicano roofer?” Perdita Jungfrau, the narrator, is describing her own situation. “Yuck.”It’s 2009 and Perdita is 39 when she meets 25-year-old Nand",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/jun/18/a-little-bit-bad-by-cassandra-neyenesch-review-a-sparkling-subversive-debut",
+        "seendate": "2026-06-18T06:00:03.000Z",
+        "domain": "theguardian.com"
       }
     ],
     "entertainment": [
@@ -214,90 +214,106 @@
     ],
     "f1": [
       {
-        "title": "Lewis Hamilton Ferrari win draws Michael Schumacher comparison after Barcelona F1 victory",
-        "summary": "Lewis Hamilton's first Formula 1 grand prix victory with Ferrari at the Barcelona-Catalunya Grand Prix has drawn comparisons with fellow seven-time champion Michael Schumacher.F1 journalist and host of the press conferences Tom Clarkson noted a \"lovely symmetry\" between the Briton's triumph and Schumacher's maiden win for the Maranello outfit. Speaking on the F1 Nation podcast, Clarkson ...<a class='",
+        "title": "Daniel Ricciardo shares heartfelt message after first Indy 500 visit brought back \"childhood feelings\"",
+        "summary": "Former Formula 1 driver Daniel Ricciardo has opened up about his first visit to the Indianapolis 500, describing the experience of being a fan as bringing back \"childhood feelings\" in a heartfelt open letter to his fans. Since stepping away from F1, the eight-time grand prix winner has embraced a different lifestyle. Alongside enjoying the perks of being a Ford Racing ambassador, Ricciardo is ...<a class",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/lewis-hamilton-ferrari-win-draws-michael-schumacher-comparison-after-barcelona-f1-victory/10831532/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-06-19T21:59:08.000Z",
+        "url": "https://www.motorsport.com/f1/news/daniel-ricciardo-shares-heartfelt-message-after-first-indy-500-visit-brought-back-childhood-feelings/10831828/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-06-20T16:09:04.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Claire Williams: George Russell deserves F1 title but bad luck may stick",
-        "summary": "Former Williams deputy team principal Claire Williams has shared concerns that George Russell could fall victim to a persistent streak of \"bad luck\" in Formula 1, potentially jeopardising his chances of ever securing a championship title.Speaking on the High Performance Racing podcast alongside broadcaster Jake Humphrey, former F1 engineer Rob Smedley and former Alpine team principal Otmar ...<a class='m",
+        "title": "Lewis Hamilton Ferrari impact compared to Michael Schumacher by Claire Williams",
+        "summary": "Former Williams deputy team principal Claire Williams believes that only a select few drivers in Formula 1 history have the personality type to transform a team.Speaking on the High Performance Racing podcast, Williams reflected on Lewis Hamilton's second season at Ferrari. With the seven-time champion recently securing a landmark 106th career victory, his first for the Maranello outfit ...<a class='more",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/claire-williams-george-russell-deserves-f1-title-but-bad-luck-may-stick/10831645/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-06-19T21:14:26.000Z",
+        "url": "https://www.motorsport.com/f1/news/lewis-hamilton-ferrari-impact-compared-to-michael-schumacher-by-claire-williams/10831777/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-06-20T13:59:29.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Oliver Bearman credits Ferrari relocation for rapid F1 maturity",
-        "summary": "Oliver Bearman believes his teenage relocation to Italy to join the Ferrari Driver Academy and the operational structure the team provided were what shaped him into the person he is today.Bearman made headlines with his sudden Formula 1 debut for Ferrari at the 2024 Saudi Arabian Grand Prix, stepping in at the last moment at just 18 years old and scoring points. Now in his second season with ...<a class=",
+        "title": "As Lewis Hamilton finally scores his first Ferrari F1 win, who took even longer?",
+        "summary": "Lewis Hamilton has finally done it. At the 31st time of asking, the seven-time world champion has taken his maiden victory for Ferrari.A look at the history books shows only three drivers have required even more time before they first triumphed with the Scuderia.Carlos Sainz won at his 32nd attempt, one more than Hamilton. Like his successor, Sainz went winless in his first campaign at ...<a class='m",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/ollie-bearman-credits-ferrari-relocation-for-rapid-f1-maturity/10831611/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-06-19T16:33:05.000Z",
+        "url": "https://www.motorsport.com/f1/news/stats-as-lewis-hamilton-scores-his-first-ferrari-f1-win-who-took-even-longer/10831773/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-06-20T12:49:32.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Guenther Steiner delivers brutal Aston Martin verdict: \"Not F1 standards anymore\"",
-        "summary": "Former Haas Formula 1 team principal Guenther Steiner has delivered a scathing assessment of Aston Martin's performance at the Barcelona-Catalunya Grand Prix, branding its current campaign \"not acceptable\".Speaking on The Red Flags Podcast, Steiner did not mince his words when asked to name his biggest disappointment of the Barcelona race weekend. The Silverstone outfit endured a torrid time ...<a class=",
+        "title": "Lewis Hamilton makes Milan Fashion Week appearance after Ferrari F1 win",
+        "summary": "Seven-time Formula 1 champion Lewis Hamilton has made an appearance at Milan Fashion Week, attending Ralph Lauren's Spring/Summer 2027 menswear show just days after securing his breakthrough first grand prix victory for Ferrari in Barcelona. Taking his seat on the front row, Hamilton joined an exclusive guest list that included actors Colman Domingo, with whom he co-chaired the Met Gala in ...<a class='m",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/guenther-steiner-delivers-brutal-aston-martin-verdict-not-f1-standards-anymore/10831546/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-06-19T15:21:39.000Z",
+        "url": "https://www.motorsport.com/f1/news/lewis-hamilton-makes-milan-fashion-week-appearance-after-ferrari-f1-win/10831845/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-06-20T12:14:30.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Jack Doohan no longer cares what other people think after F1 hardship",
-        "summary": "Former Formula 1 driver Jack Doohan has delved into his “much stronger” state of mind, one year on from his mid-season demotion from the Alpine F1 outfit. Doohan was speaking on the eve of the Le Mans 24 Hours, which he took part in with Nielsen Racing in the LMP2 category. The #24 ORECA he shared with Ed Pearson and David Heinemeier Hansson finished just 18th in class amid a ...<a class='more' href='htt",
+        "title": "Oliver Bearman admits \"wrong mindset\" was behind difficult start to F1 rookie season",
+        "summary": "Oliver Bearman has conceded that he entered his Formula 1 rookie season with the \"wrong mindset,\" leading to a bruising season-opening Australian Grand Prix that was compromised by costly on-track errors.The British driver, who signed with Haas after impressing on debut with Ferrari at the 2024 Saudi Arabian Grand Prix, endured a challenging opening weekend in 2025. Bearman suffered a ...<a class='mo",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/wec/news/jack-doohan-no-longer-cares-what-other-people-think-after-f1-hardship/10831192/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-06-19T15:07:49.000Z",
+        "url": "https://www.motorsport.com/f1/news/oliver-bearman-admits-wrong-mindset-was-behind-difficult-start-to-f1-rookie-season/10831618/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-06-20T12:12:23.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "Guild Wars 3 is 'significantly more' of an MMO than the first game, but that doesn't mean it's like GW2: 'All three of our games can coexist as different experiences'",
-        "summary": "GW3 is definitively an MMO, but ArenaNet says it won't play like either of its predecessors.",
+        "title": "The team behind bullet hell FPS Luna Abyss just got laid off, less than a month after the game's release",
+        "summary": "Another deluge of layoffs in a year full of them.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/mmo/guild-wars-3-is-significantly-more-of-an-mmo-than-the-first-game-but-that-doesnt-mean-its-like-gw2-all-three-of-our-games-can-coexist-as-different-experiences/",
-        "seendate": "2026-06-19T21:44:20.000Z",
+        "url": "https://www.pcgamer.com/games/fps/the-team-behind-bullet-hell-fps-luna-abyss-just-got-laid-off-less-than-a-month-after-the-games-release/",
+        "seendate": "2026-06-20T21:39:18.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Nobody needs to grind for 100 hours to see how Path of Exile 2 has redefined the action RPG loot hunt",
-        "summary": "Grinding Gear Games has filled the world with delicious mysteries to keep you going after the campaign.",
+        "title": "The videogame market is as big as ever, with PC leading growth—global games revenue surpassed the $200 billion mark in 2025",
+        "summary": "Market analyst Michiel Buijsman reckons GTA 6 will be 2026's \"defining commercial catalyst.\"",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/rpg/nobody-needs-to-grind-for-100-hours-to-see-how-path-of-exile-2-has-redefined-the-action-rpg-loot-hunt/",
-        "seendate": "2026-06-19T19:00:00.000Z",
+        "url": "https://www.pcgamer.com/gaming-industry/the-videogame-market-is-as-big-as-ever-with-pc-leading-growth-global-games-revenue-surpassed-the-usd200-billion-mark-in-2025/",
+        "seendate": "2026-06-20T18:50:17.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Bobby Prince, the legendary composer behind Doom and Wolfenstein 3D, has died",
-        "summary": "Prince helped define the sound which characterized the early FPS, as well as classic PC games like Catacomb 3-D.",
+        "title": "The best D&D videogame you've never played is one guy's outsider art, personal Baldur's Gate saga",
+        "summary": "Realheads know Swordflight. Sickos love it.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/bobby-prince-the-legendary-composer-behind-doom-and-wolfenstein-3d-has-died/",
-        "seendate": "2026-06-19T18:47:25.000Z",
+        "url": "https://www.pcgamer.com/games/rpg/the-best-d-and-d-videogame-youve-never-played-is-one-guys-outsider-art-personal-baldurs-gate-saga/",
+        "seendate": "2026-06-20T16:40:29.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "The greatest FPS mode of all time is endangered",
-        "summary": "It never got better than capture the flag.",
+        "title": "5 promising games recently cancelled by Microsoft",
+        "summary": "If you wished for more pizazz at this year's Xbox Showcase, there's lots of it buried in an growing graveyard of cancelled Xbox games.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/fps/the-greatest-fps-mode-of-all-time-is-endangered/",
-        "seendate": "2026-06-19T16:36:12.000Z",
+        "url": "https://www.pcgamer.com/gaming-industry/5-promising-games-recently-cancelled-by-microsoft/",
+        "seendate": "2026-06-20T16:12:19.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Epic says the 'ground-up rebuild' of its launcher offers 5-6.5x improved performance, and the Epic Games Store is getting a big redesign",
-        "summary": "Slides out of Unreal Fest promise \"5x faster cold start (average)\" and \"6.5x faster systray restore to library (average)\" as Epic works on making its store suck less.",
+        "title": "I spent an entire day with a fan-mod of North Korea's homegrown operating system, and I'm sorry to say it's not a Windows killer yet",
+        "summary": "Not the year of RedStar on the desktop.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/software/the-new-epic-games-launcher-might-not-suck-so-much-thanks-to-ground-up-rebuild-with-5-6-5x-improved-performance-still-a-long-way-to-catch-up-with-steam/",
-        "seendate": "2026-06-19T16:27:10.000Z",
+        "url": "https://www.pcgamer.com/software/operating-systems/i-spent-an-entire-day-with-a-fan-mod-of-north-koreas-homegrown-operating-system-and-im-sorry-to-say-its-not-a-windows-killer-yet/",
+        "seendate": "2026-06-20T16:00:00.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
+      {
+        "title": "A viral doomsday scenario aims to shake Europe out of its AI complacency",
+        "summary": "Does a thought-experiment about US ascendancy in the technology say as much about AI jitters as it does about the reality?It’s 2031 and the US and China are about to tear Europe into pieces.The US ploughed vast sums into datacentres and the EU did not. China built robots and Europe did not. American companies “restructured” their workflows around AI and fired people, while EU workers went on long lun",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/jun/20/europe-sleepwalking-ai-disaster-us-china",
+        "seendate": "2026-06-20T09:59:12.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Key Trump allies and Musk on leaked list for secretive Peter Thiel retreat",
+        "summary": "Figures including Jared Kushner and Scott Bessent named in directory of Dialog participants that was exposed onlineA website leak has exposed participants in the secretive, Peter Thiel-founded Dialog retreats which includes top politicians from across the American divide, officials from foreign countries, other titans of the tech industry world and prominent media figures.The annual Dialog retreats,",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/jun/20/trump-elon-musk-peter-thiel-retreat",
+        "seendate": "2026-06-20T12:00:00.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "On the trail of the dotcom queen: how Julie Meyer left a pattern of unpaid bills, missing funds and broken dreams in her wake",
         "summary": "Investigation: The entrepreneur was once the toast of London’s tech scene, a ‘global leader of tomorrow’ who starred on Dragons’ Den and promised untold riches for the startups she championed. But people she worked with in the last decade, from Malta to Switzerland, describe a very different realityJulie Meyer is sitting in a&nbsp;starkly lit attic, surrounded by piles of £50 notes. A Calif",
@@ -321,106 +337,90 @@
         "url": "https://www.theguardian.com/technology/2026/jun/19/telegram-ofcom-arsonist-starmer-linked-properties",
         "seendate": "2026-06-19T06:00:26.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Attorney general tells department to stop using X amid UK disinformation concerns",
-        "summary": "Exclusive: Richard Hermer’s office understood to be first in government to restrict use after recent riotsThe attorney general for England and Wales has told his office to no longer post on X, making it the first UK government department to stop using the Elon Musk-owned platform amid increasing worries about its use to incite violence and racism.Richard Hermer’s office last posted on X on Friday, an",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/jun/18/uk-attorney-general-tells-staff-stop-using-x-disinformation-concerns",
-        "seendate": "2026-06-18T18:00:09.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Farage trying to block ‘Britcoin’ plans that could be costly for billionaire donor",
-        "summary": "Reform UK leader used private meeting at Bank of England to urge governor to drop plans for state-run cryptocurrencyNigel Farage has been trying to block a Bank of England cryptocurrency plan that could be costly for the billionaire bankrolling his party.The Reform UK leader has said Christopher Harborne wants nothing in exchange for the millions he has donated to the party and the undeclared £5m per",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/politics/2026/jun/18/nigel-farage-trying-block-britcoin-crypto-plans-bank-of-england-christopher-harborne",
-        "seendate": "2026-06-18T10:30:00.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "climate": [
       {
-        "title": "Datacenters driving US clean energy growth while still threatening climate",
-        "summary": "As datacenters’ connections to electric grids are held up, big tech is forced to throw money at producing its own powerDatacenters are driving unprecedented growth in the US clean energy industry, paradoxically boosting a sector that was sputtering before the artificial intelligence boom even as AI’s rollout creates immense environmental challenges.However, observers caution that while the centers ar",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jun/19/datacenters-us-clean-energy-growth-climate",
-        "seendate": "2026-06-19T11:00:30.000Z",
-        "domain": "theguardian.com"
+        "title": "What does it mean to be a good neighbor ? ",
+        "summary": "Local News from Osceola and surrounding area.",
+        "source": "osceolaiowa.com",
+        "url": "https://www.osceolaiowa.com:443/article/475,what-does-it-mean-to-be-a-good-neighbor",
+        "seendate": "20260620T230000Z",
+        "domain": "osceolaiowa.com"
       },
       {
-        "title": "Trump administration reverses decision to scrap ocean monitoring system",
-        "summary": "Move to dismantle $368m sea observatory initiative faced opposition from experts and lawmakersThe Donald Trump administration has reversed its decision to dismantle a $368m deep-sea observation system following an outcry from",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jun/18/ocean-monitoring-system-reversal-trump-administration",
-        "seendate": "2026-06-18T19:31:44.000Z",
-        "domain": "theguardian.com"
+        "title": "CCDC board approves nearly $240K in grants",
+        "summary": "Local News from Osceola and surrounding area.",
+        "source": "osceolaiowa.com",
+        "url": "https://www.osceolaiowa.com:443/article/479,ccdc-board-approves-nearly-240k-in-grants",
+        "seendate": "20260620T230000Z",
+        "domain": "osceolaiowa.com"
       },
       {
-        "title": "Showdown in the desert: the small town fending off a new California gold rush",
-        "summary": "A prospecting company’s search for gold has the town of Lone Pine and Indigenous leaders on edge, as the Trump administration greenlights new projects across the American westLone Pine, population 1,882, lies along a stretch of California highway framed by the vast Inyo mountains and a sweeping desert landscape of sagebrush and dunes.It’s the type of small town tourists drive through en route to Deat",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jun/18/california-mining-lone-pine",
-        "seendate": "2026-06-18T16:00:07.000Z",
-        "domain": "theguardian.com"
+        "title": "Financial Survey : Petrofac ( OTCMKTS : POFCF ) vs . Hunting ( OTCMKTS : HNTIF ) ",
+        "summary": "Hunting (OTCMKTS:HNTIF &#8211; Get Free Report) and Petrofac (OTCMKTS:POFCF &#8211; Get Free Report) are both energy companies, but which is the superior investment? We will compare the two businesses based on the strength of their institutional ownership, earnings, valuation, risk, profitability, analyst recommendations and dividends. Institutional & Insider Ownership 46.6% of Hunting shares are held [&hellip;]",
+        "source": "tickerreport.com",
+        "url": "https://www.tickerreport.com/banking-finance/13482494/financial-survey-petrofac-otcmktspofcf-vs-hunting-otcmktshntif.html",
+        "seendate": "20260620T230000Z",
+        "domain": "tickerreport.com"
       },
       {
-        "title": "Lake Tahoe residents ‘horrified’ by plans to spray cancer-linked glyphosate in public lands",
-        "summary": "Federal agency to use herbicide to clear lands for replanting after 2021 Caldor fire – but public reaction to plan is fierceKatherine Levy remembers a childhood deeply rooted in the natural offerings of Lake Tahoe – water-skiing in the summer and working as ski instructor on the surrounding snow-covered mountains during winter months.She recently moved back to live out her retirement along the lake’s",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jun/18/lake-tahoe-glyphosate",
-        "seendate": "2026-06-18T13:00:03.000Z",
-        "domain": "theguardian.com"
+        "title": "Small business , payments system brace for payday super",
+        "summary": "Australia&#x27;s superannuation payment system is set for a major shake-up but small businesses warn unnecessary penalties could mar...",
+        "source": "therural.com.au",
+        "url": "https://www.therural.com.au/story/9295944/small-business-payments-system-brace-for-payday-super/",
+        "seendate": "20260620T230000Z",
+        "domain": "therural.com.au"
       },
       {
-        "title": "Even as Florida moves detainees from ‘Alligator Alcatraz’, activists fight for its permanent closure",
-        "summary": "Groups cite detainee maltreatment and degradation of surrounding land as reasons to close facility permanentlySign up for the B",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jun/17/florida-alligator-alcatraz-activists",
-        "seendate": "2026-06-17T20:28:08.000Z",
-        "domain": "theguardian.com"
+        "title": "International Antarctic Centre : brave the storm experience | The Rural",
+        "summary": "Hold onto your hair for the city&#x27;s take on an Antarctic blizzard.",
+        "source": "therural.com.au",
+        "url": "https://www.therural.com.au/story/9290508/international-antarctic-centre-brave-the-storm-experience/",
+        "seendate": "20260620T230000Z",
+        "domain": "therural.com.au"
       }
     ],
     "science": [
       {
-        "title": "Dr Bertram McPhee Celebrating 100th Birthday",
-        "summary": "Dr George Bertram McPhee, a physician whose life and career has spanned medicine, military service, golf, the arts and community leadership, is celebrating his 100th birthday. Born on June 19, 1926, Dr McPhee is known for his infectious sense of humour and practised general medicine and surgery for more than 60 years, including time at &hellip;",
-        "source": "bernews.com",
-        "url": "https://bernews.com/2026/06/dr-george-mcphee-celebrating-100th-birthday/",
-        "seendate": "20260619T230000Z",
-        "domain": "bernews.com"
+        "title": "My trip to meet the scientists trying to refreeze the Arctic",
+        "summary": "In this week’s newsletter: The melting of the Arctic’s summer sea ice is the most visible upshot of the climate crisis. Refreezing it might be a long shot – but do drastic times call for drastic measures?• Don’t get Down to Earth delivered to your inbox? Sign up hereSpeed",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/environment/2026/jun/19/scientists-refreeze-arctic-melting-sea-ice",
+        "seendate": "2026-06-19T06:00:26.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Jaycee Park splash pad packed as Lee County heat index soars",
-        "summary": "Families in Cape Coral are finding creative ways to beat the heat this summer, and Jaycee Park is one of the most popular spots to do it.",
-        "source": "winknews.com",
-        "url": "https://www.winknews.com/news/lee/jaycee-park-splash-pad-packed-as-lee-county-heat-index-soars/article_c83215ab-31df-4ff8-8c84-724431d4873d.html",
-        "seendate": "20260619T230000Z",
-        "domain": "winknews.com"
+        "title": "Cambridge experts recreate 336-year-old garden to commemorate ‘father of natural history’",
+        "summary": "John Ray, 17th-century botanist who coined words petal and pollen, was a tutor at Cambridge when he created his first gardenHe coined the terms petal and pollen, helped to lay the foundations of modern biology and is widely regarded as the greatest English naturalist of the 17th century.But it was while he was a young college tutor at Cambridge in the 1650s that the botanist John Ray – also known as",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/environment/2026/jun/18/cambridge-experts-recreate-336-year-old-garden-to-commemorate-father-of-natural-history",
+        "seendate": "2026-06-18T08:00:00.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Iran war : Success or disaster ? Mehdi Hasan and David Des Roches - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
-        "summary": "Following the US and Israeli airstrikes on Iran in February, reverberations were felt globally. But is the world really safer and Iranians freer or has the",
-        "source": "dominicanrepublicpost.com",
-        "url": "https://dominicanrepublicpost.com/iran-war-success-or-disaster-mehdi-hasan-and-david-des-roches/",
-        "seendate": "20260619T230000Z",
-        "domain": "dominicanrepublicpost.com"
+        "title": "Solstice-aligned 5,000-year-old monument ‘once in a lifetime find’, say archaeologists",
+        "summary": "Wessex Archaeology suspect they have uncovered a prototype for world-famous Stonehenge site in WiltshireA 5,000-year-old monument that was aligned with the summer and winter solstices and may have served as a prototype for the later solar alignment at Stonehenge has been discovered close to the famous neolithic site, in what archaeologists have described as a “once in a lifetime” find.The structure a",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/uk-news/2026/jun/18/solstice-aligned-monument-archaeology-wiltshire-stonehenge-prototype",
+        "seendate": "2026-06-17T23:00:47.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "VNL Legacy Court Journey Continues in Türkiye and the Philippines",
-        "summary": "",
-        "source": "fivb.com",
-        "url": "https://www.fivb.com/vnl-legacy-court-journey-continues-in-turkiye-and-the-philippines/",
-        "seendate": "20260619T230000Z",
-        "domain": "fivb.com"
+        "title": "Apocalypse when? ‘Earth’s Black Box’ to be installed in remote Tasmanian airfield",
+        "summary": "Rouser Lab says the steel structure will record ‘every step’ humanity takes towards climate catastropheFollow our Australia news live blog for latest updatesGet our <a href=\"h",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/australia-news/2026/jun/18/earth-black-box-climate-apocalypse-tasmania-australia",
+        "seendate": "2026-06-17T15:00:37.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Manitoba Marathon road closures to start Saturday morning",
-        "summary": "Road closures will hit parts of south Winnipeg this weekend as runners lace up for the Manitoba Marathon.",
-        "source": "cbc.ca",
-        "url": "https://www.cbc.ca/news/canada/manitoba/marathon-road-closures-9.7242437",
-        "seendate": "20260619T230000Z",
-        "domain": "cbc.ca"
+        "title": "A bonanza for fans of the natural world: the digital library sharing 64m pages of scientific knowledge with everyone",
+        "summary": "The Biodiversity Heritage Library is an invaluable online archive of historic texts on species living and lost supplied by the world’s leading museums and universities. Now its future is in doubtSome go there to read about the wood that Victorian manufacturers used to make walking sticks. Others want to see an illustration of a Tasmanian tiger or marvel at the field diary of one of the first known botanists",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/environment/2026/jun/18/natural-world-digital-biodiversity-heritage-library-scientific-knowledge-free-access-aoe",
+        "seendate": "2026-06-18T07:00:03.000Z",
+        "domain": "theguardian.com"
       }
     ]
   }
