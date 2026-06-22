@@ -1,8 +1,16 @@
 window.NEWS_CACHE = {
-  "generatedAt": "2026-06-20T23:58:25.711Z",
+  "generatedAt": "2026-06-22T00:02:25.301Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
+      {
+        "title": "Sweat, tears and camaraderie as 20,000 runners take on world’s largest ultramarathon",
+        "summary": "For one day every June, South Africa’s searing racial inequality seems to melt away at Comrades raceIn the early morning dark, thousands of runners waited, jostling with anticipation. South Africa’s national anthem rang out. Then the haunting swell of Shosholoza, first sung by Zimbabwean migrant workers in South Africa’s goldmines. Finally, that unmistakable, spine-tingling piano: Chariots of Fire.",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/jun/21/comrades-ultramarathon-south-africa",
+        "seendate": "2026-06-21T08:00:24.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Global framework for reparatory justice adopted at landmark Ghana conference",
         "summary": "Call for formal apologies from countries that benefited from transatlantic trade slave included in 19-point roadmapMore than money: the logic of slavery reparationsA global framework for reparatory justice has been adopted at a conference in Ghana, as African and Caribbean leader",
@@ -33,19 +41,19 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/world/2026/jun/18/south-africa-men-sentenced-rhino-horn-trafficking-case",
         "seendate": "2026-06-18T16:15:31.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Seven-year-old Abdiqadir was hit in a US airstrike. Without a $750 operation, he may lose his ability to walk",
-        "summary": "Abdiqadir Salah was pierced by shrapnel in a bombing that killed 12 in Somalia. But as the US denies civilians were hurt they face no hope of compensationRead more: Killed walking home from school: why did Somali children become targets of US drone strikes?<",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/global-development/2026/jun/17/boy-injured-us-strike-somalia-ability-walk-operation-abdiqadir-salah-surgery-civilians-november-attack",
-        "seendate": "2026-06-17T09:00:27.000Z",
         "domain": "theguardian.com"
       }
     ],
     "conflict": [
       {
+        "title": "Sweat, tears and camaraderie as 20,000 runners take on world’s largest ultramarathon",
+        "summary": "For one day every June, South Africa’s searing racial inequality seems to melt away at Comrades raceIn the early morning dark, thousands of runners waited, jostling with anticipation. South Africa’s national anthem rang out. Then the haunting swell of Shosholoza, first sung by Zimbabwean migrant workers in South Africa’s goldmines. Finally, that unmistakable, spine-tingling piano: Chariots of Fire.",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/jun/21/comrades-ultramarathon-south-africa",
+        "seendate": "2026-06-21T08:00:24.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Global framework for reparatory justice adopted at landmark Ghana conference",
         "summary": "Call for formal apologies from countries that benefited from transatlantic trade slave included in 19-point roadmapMore than money: the logic of slavery reparationsA global framework for reparatory justice has been adopted at a conference in Ghana, as African and Caribbean leader",
         "source": "theguardian.com",
@@ -76,17 +84,17 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/world/2026/jun/18/south-africa-men-sentenced-rhino-horn-trafficking-case",
         "seendate": "2026-06-18T16:15:31.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Seven-year-old Abdiqadir was hit in a US airstrike. Without a $750 operation, he may lose his ability to walk",
-        "summary": "Abdiqadir Salah was pierced by shrapnel in a bombing that killed 12 in Somalia. But as the US denies civilians were hurt they face no hope of compensationRead more: Killed walking home from school: why did Somali children become targets of US drone strikes?<",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/global-development/2026/jun/17/boy-injured-us-strike-somalia-ability-walk-operation-abdiqadir-salah-surgery-civilians-november-attack",
-        "seendate": "2026-06-17T09:00:27.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "economy": [
+      {
+        "title": "Prediction markets surge in US as public health advocates call for support to combat gambling",
+        "summary": "Platforms like Kalshi and Polymarket operating in areas with limited resources for people with gambling problemsPublic health resources across the US are failing to keep pace with the rapid growth of online gambling, problem health advocates warned, after Donald Trump endorsed the controversial nationwide surge of prediction markets.Prediction market platforms, where users can wager on everything fro",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/jun/21/prediction-markets-health-advocates-on-gambling",
+        "seendate": "2026-06-21T10:00:27.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "How do people in the US describe customer service in 2026? ‘Debilitating, depressing, enraging. Ugh’",
         "summary": "We asked people in the US about their customer service battles and hundreds responded on the financial and emotional costsGuardian readers from across the US wrote in to tell us about their battles with big companies, and the time, expense and emotional toll exacted by businesses they say are prioritizing the bottom line over all else.The top takeaway: people really, really don’t like AI customer ser",
@@ -118,17 +126,17 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/society/2026/jun/18/us-adults-under-35-living-at-home",
         "seendate": "2026-06-18T15:33:53.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Federal Reserve holds rates steady but signals possible hike before year’s end",
-        "summary": "Open markets committee says ‘economic activity is expanding at a solid pace’ in first meeting under new chair Kevin WarshUS stock markets dropped on Wednesday afternoon after the Federal Reserve left interest rates unchanged and signaled a possible rate hike before the end of the year.The Fed was widely expected to keep rates at a range of 3.5% to 3.75%, where they have remained since December. The d",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/jun/17/federal-reserve-interest-rates",
-        "seendate": "2026-06-17T20:34:11.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "literature": [
+      {
+        "title": "M John Harrison: ‘If we met a real alien we’d have no clue what they thought’",
+        "summary": "At 80, SF author M John Harrison is producing some of his best work. He talks about finding his voice, alien intelligence and the advice from Iain Banks that still spurs him onThree years ago, in a greasy spoon on the fringes of the City of London, M John Harrison – Mike to his friends – told me about the novel he was working on. Rather than describing its plot or characters, he spoke purely about the chall",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/jun/21/m-john-harrison-if-we-met-a-real-alien-wed-have-no-clue-what-they-thought",
+        "seendate": "2026-06-21T11:00:29.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Candice Carty-Williams: ‘People feel very attached to Queenie’",
         "summary": "The breakout success of her debut created a publishing scramble for Black writers, but has that appetite for diversity endured? Carty-Williams talks about wanting to quit the TV adaptation, why now is the perfect time for her sequel One of the questions Candice Carty-Williams has spent the past few years batting away is whether she is Queenie. It is perhaps inevitable: her best­selling <a href=\"https://www.",
@@ -154,145 +162,137 @@ window.NEWS_CACHE = {
         "domain": "theguardian.com"
       },
       {
-        "title": "The best recent crime and thrillers – review roundup",
-        "summary": "The Pinnacle by Abir Mukherjee; A Violent Masterpiece by Jordan Harper; Murder on the Red River by Marcie R Rendon; The Devoted by Catherine Cho; The Repentants by Kate FosterThe Pinnacle by Abir Mukherjee (Harvill, £16.99)In the",
+        "title": "Tom Gauld on Christopher Nolan’s The Odyssey – cartoon",
+        "summary": "Continue reading...",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jun/19/the-best-recent-and-thrillers-review-roundup",
-        "seendate": "2026-06-19T11:00:31.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "A Little Bit Bad by Cassandra Neyenesch review – a sparkling, subversive debut",
-        "summary": "With its echoes of Miranda July’s All Fours, this tragicomic tale of an American woman’s illicit romance is also a gripping murder mysteryThe plot of A Little Bit Bad sounds like the setup for a joke: “Like, this white lady lusting after her hot Chicano roofer?” Perdita Jungfrau, the narrator, is describing her own situation. “Yuck.”It’s 2009 and Perdita is 39 when she meets 25-year-old Nand",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jun/18/a-little-bit-bad-by-cassandra-neyenesch-review-a-sparkling-subversive-debut",
-        "seendate": "2026-06-18T06:00:03.000Z",
+        "url": "https://www.theguardian.com/books/picture/2026/jun/21/tom-gauld-on-christopher-nolans-the-odyssey-cartoon",
+        "seendate": "2026-06-21T15:00:34.000Z",
         "domain": "theguardian.com"
       }
     ],
     "entertainment": [
       {
-        "title": "Girls Like Girls review – Sapphic teen romance is a precious and predictable yawn-a-thon",
-        "summary": "Singer Hayley Kiyoko misses the mark in a meandering directorial debut packed with groan-inducing dialogue On 26 June 2015, the US supreme court finally declared gay marriage legal nationwide. Two days later, singer-songwriter and former Disney Channel alum Hayley Kiyoko effectively came out to the world with her debut single, Girls Like Girls",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/jun/18/girls-like-girls-movie-review",
-        "seendate": "2026-06-18T11:00:02.000Z",
-        "domain": "theguardian.com"
+        "title": "Celebrate Pride Month with these 5 underrated LGBTQ+ films",
+        "summary": "Check out these five under-seen queer films plus 10 suggestions",
+        "source": "presstelegram.com",
+        "url": "https://www.presstelegram.com/2026/06/21/celebrate-pride-month-with-these-5-underrated-lgbtq-films/",
+        "seendate": "20260621T233000Z",
+        "domain": "presstelegram.com"
       },
       {
-        "title": "Bongeziwe Mabandla faced addiction, illness and ‘backstabbers’. How has the South African singer stayed so upbeat?",
-        "summary": "An indie star in his homeland, Mabandla’s fame is growing abroad – and his uplifting new album is full of existential insight after some of the toughest years of his lifeAs the camera pulls back from Bongeziwe Mabandla in the video for his recent single Yalwa, the true stars of the show reveal themselves: two women, dressed in a mix of crisp white an",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/music/2026/jun/18/bongeziwe-mabandla-south-african-singer",
-        "seendate": "2026-06-18T08:30:00.000Z",
-        "domain": "theguardian.com"
+        "title": "GitHub - paytonjjones / bsharp",
+        "summary": "Contribute to paytonjjones/bsharp development by creating an account on GitHub.",
+        "source": "github.com",
+        "url": "https://github.com/paytonjjones/bsharp",
+        "seendate": "20260621T233000Z",
+        "domain": "github.com"
       },
       {
-        "title": "‘A sacred kind of sound’: inside a solar-powered journey to preserve the music of church organs",
-        "summary": "Musician Michael Cloud Duguay’s new album was born from a mission to capture the sound of the majestic yet increasingly rare instrumentsMichael Cloud Duguay and his band of collaborators were nearing the end of their pipe organ tour of Newfoundland when they encountered a hitch in Aguathuna, a town of about 400 people on a c",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/music/2026/jun/18/michael-cloud-duguay-album-church-organs",
-        "seendate": "2026-06-18T09:00:01.000Z",
-        "domain": "theguardian.com"
+        "title": "Ariana Grande Reveals Full  Petal  Tracklist : See Here",
+        "summary": "Ariana Grande has revealed the full tracklist for her upcoming album &#x27;Petal&#x27; during her &#x27;Eternal Sunshine Tour&#x27; in Inglewood, California!",
+        "source": "961kissonline.iheart.com",
+        "url": "https://961kissonline.iheart.com/content/2026-06-21-ariana-grande-reveals-full-petal-tracklist-see-here/",
+        "seendate": "20260621T233000Z",
+        "domain": "961kissonline.iheart.com"
       },
       {
-        "title": "‘The beauty of the useless’: Spain’s super-thin restaurant napkins are throwaway art treasures",
-        "summary": "Forever flimsy and ineffective at cleaning greasy fingers, the servilletas of the Iberian peninsula resist the relentless ‘optimisation’ of our age. A new photo book recognises them as cultural treasures in miniatureIf you have ever eaten a meal in a bar, cafe or restaurant in Spain and grabbed a napkin from the ubiquitous small metal dispensers, you will be familiar with the most intriguing featur",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/artanddesign/2026/jun/18/the-beauty-of-the-useless-spains-super-thin-restaurant-napkins-are-throwaway-art-treasures",
-        "seendate": "2026-06-18T04:00:02.000Z",
-        "domain": "theguardian.com"
+        "title": "We are finding Gen X women on TikTok , says live shopping channel QVC",
+        "summary": "The UK arm of the retailer, which has been a mainstay on British linear television for 33 years, is investing in a revamp.",
+        "source": "standard.co.uk",
+        "url": "https://www.standard.co.uk/news/uk/qvc-tiktok-b1287027.html",
+        "seendate": "20260621T233000Z",
+        "domain": "standard.co.uk"
       },
       {
-        "title": "As Spielberg confirms whether ET was ‘slimy or dry’, we enter a new age of the celebrity interview",
-        "summary": "Veteran interviewees are forever trotting out the same anecdotes in response to unoriginal questions – until one fearless disruptor dared ask if ET had moist skinFor the most part, Steven Spielberg has avoided most of the indignities of the modern day press tour. He hasn’t had to subject himself to any <a href=\"https://www.theguardian.com/food/2023/jul/29/like-eating-battery-acid-british-tongues-on-fire-as-",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/jun/18/steven-spielberg-et-was-moist-but-never-slimy",
-        "seendate": "2026-06-18T06:00:05.000Z",
-        "domain": "theguardian.com"
+        "title": "Farkas , Smith trade  fun police  jabs on Stampede noise , liquor prices",
+        "summary": "",
+        "source": "calgaryherald.com",
+        "url": "https://calgaryherald.com:443/news/local-news/jeromy-farkas-danielle-smith-fun-police-calgary-stampede-noise-rules-liquor-prices",
+        "seendate": "20260621T233000Z",
+        "domain": "calgaryherald.com"
       }
     ],
     "f1": [
       {
-        "title": "Daniel Ricciardo shares heartfelt message after first Indy 500 visit brought back \"childhood feelings\"",
-        "summary": "Former Formula 1 driver Daniel Ricciardo has opened up about his first visit to the Indianapolis 500, describing the experience of being a fan as bringing back \"childhood feelings\" in a heartfelt open letter to his fans. Since stepping away from F1, the eight-time grand prix winner has embraced a different lifestyle. Alongside enjoying the perks of being a Ford Racing ambassador, Ricciardo is ...<a class",
+        "title": "George Russell recalls Zhou Guanyu's terrifying first-lap crash at 2022 British GP",
+        "summary": "George Russell has opened up about the harrowing first-lap crash at the 2022 British Grand Prix, explaining that human instinct rapidly kicked in when he rushed to the aid of Alfa Romeo driver Zhou Guanyu.Reflecting on his first 100 races with Mercedes, the 28-year-old pinpointed the Silverstone incident as one of the most terrifying moments of his Formula 1 career. Russell was entering his ...<a class='",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/daniel-ricciardo-shares-heartfelt-message-after-first-indy-500-visit-brought-back-childhood-feelings/10831828/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-06-20T16:09:04.000Z",
+        "url": "https://www.motorsport.com/f1/news/george-russell-recalls-zhou-guanyus-terrifying-first-lap-crash-at-2022-british-gp/10832107/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-06-21T17:00:10.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Lewis Hamilton Ferrari impact compared to Michael Schumacher by Claire Williams",
-        "summary": "Former Williams deputy team principal Claire Williams believes that only a select few drivers in Formula 1 history have the personality type to transform a team.Speaking on the High Performance Racing podcast, Williams reflected on Lewis Hamilton's second season at Ferrari. With the seven-time champion recently securing a landmark 106th career victory, his first for the Maranello outfit ...<a class='more",
+        "title": "Mercedes shoots down favouritism speculation between George Russell and Kimi Antonelli",
+        "summary": "Mercedes technical director James Allison blasted speculation about the team favouring one of its drivers in the Formula 1 world title fight, calling the idea “alien”.In the team’s Nu Silver Arrows Radio Show, it took the unusual step to address online speculation about Mercedes prioritising its drivers – with various comments accusing the team of somehow favouring both George Russell ...<a class='more'",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/lewis-hamilton-ferrari-impact-compared-to-michael-schumacher-by-claire-williams/10831777/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-06-20T13:59:29.000Z",
+        "url": "https://www.motorsport.com/f1/news/mercedes-shoots-down-favouritism-speculation-between-george-russell-and-kimi-antonelli/10831591/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-06-21T13:55:42.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "As Lewis Hamilton finally scores his first Ferrari F1 win, who took even longer?",
-        "summary": "Lewis Hamilton has finally done it. At the 31st time of asking, the seven-time world champion has taken his maiden victory for Ferrari.A look at the history books shows only three drivers have required even more time before they first triumphed with the Scuderia.Carlos Sainz won at his 32nd attempt, one more than Hamilton. Like his successor, Sainz went winless in his first campaign at ...<a class='m",
+        "title": "Lewis Hamilton spotted in rare Ferrari at Fiorano",
+        "summary": "Lewis Hamilton has been seen driving a rather unusual piece of machinery at Ferrari's private Fiorano test track.The seven-time champion was spotted at the wheel of what looks to be the Maranello outfit's legendary Formula 1 three-seater with two passengers.The three-seater F1 car was designed by Rory Byrne in 2003 and was based on the victorious F2002, and it was later revised ...<a class='more' hre",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/stats-as-lewis-hamilton-scores-his-first-ferrari-f1-win-who-took-even-longer/10831773/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-06-20T12:49:32.000Z",
+        "url": "https://www.motorsport.com/f1/news/lewis-hamilton-spotted-in-rare-ferrari-at-fiorano/10832093/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-06-21T10:47:12.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Lewis Hamilton makes Milan Fashion Week appearance after Ferrari F1 win",
-        "summary": "Seven-time Formula 1 champion Lewis Hamilton has made an appearance at Milan Fashion Week, attending Ralph Lauren's Spring/Summer 2027 menswear show just days after securing his breakthrough first grand prix victory for Ferrari in Barcelona. Taking his seat on the front row, Hamilton joined an exclusive guest list that included actors Colman Domingo, with whom he co-chaired the Met Gala in ...<a class='m",
+        "title": "Missing out on Ferrari F1 drive felt like \"bleeding\" to Robert Kubica",
+        "summary": "Robert Kubica revealed that racing – and winning – for AF Corse Ferrari in the World Endurance Championship helped close the deep emotional wound of his rallying accident, which interrupted his Formula 1 career.On 6 February 2011, Kubica was taking part in the Ronde di Andora rally as part of his extracurricular activities when he endured a severe crash, which left him with permanent ...<a class='more' h",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/lewis-hamilton-makes-milan-fashion-week-appearance-after-ferrari-f1-win/10831845/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-06-20T12:14:30.000Z",
+        "url": "https://www.motorsport.com/f1/news/missing-out-on-ferrari-f1-drive-felt-like-bleeding-to-robert-kubica/10831567/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-06-21T10:40:32.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Oliver Bearman admits \"wrong mindset\" was behind difficult start to F1 rookie season",
-        "summary": "Oliver Bearman has conceded that he entered his Formula 1 rookie season with the \"wrong mindset,\" leading to a bruising season-opening Australian Grand Prix that was compromised by costly on-track errors.The British driver, who signed with Haas after impressing on debut with Ferrari at the 2024 Saudi Arabian Grand Prix, endured a challenging opening weekend in 2025. Bearman suffered a ...<a class='mo",
+        "title": "Fernando Alonso opens door to Le Mans return with Max Verstappen",
+        "summary": "Fernando Alonso has left the door open for a sensational return to the 24 Hours of Le Mans, revealing that a future entry would be particularly appealing if he could share a car with four-time Formula 1 champion Max Verstappen. The two-time F1 champion is no stranger to endurance racing. During his brief hiatus from the grand prix paddock, the Spanish driver claimed back-to-back victories at ...<a class=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/oliver-bearman-admits-wrong-mindset-was-behind-difficult-start-to-f1-rookie-season/10831618/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-06-20T12:12:23.000Z",
+        "url": "https://www.motorsport.com/f1/news/fernando-alonso-opens-door-to-le-mans-return-with-max-verstappen/10831898/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-06-21T09:25:06.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "The team behind bullet hell FPS Luna Abyss just got laid off, less than a month after the game's release",
-        "summary": "Another deluge of layoffs in a year full of them.",
+        "title": "Former Unreal Engine 'lead evangelist' Sjoerd De Jong leaves Epic Games, says the industry is reaching a 'pivotal' moment that he must 'come to terms with'",
+        "summary": "\"After 27 years of Unreal Engine, and 12 years at Epic Games and Unreal Engine I have decided to move on.\"",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/fps/the-team-behind-bullet-hell-fps-luna-abyss-just-got-laid-off-less-than-a-month-after-the-games-release/",
-        "seendate": "2026-06-20T21:39:18.000Z",
+        "url": "https://www.pcgamer.com/gaming-industry/former-unreal-engine-evangelist-and-level-design-legend-sjoerd-de-jong-leaves-epic-games/",
+        "seendate": "2026-06-21T20:10:39.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "The videogame market is as big as ever, with PC leading growth—global games revenue surpassed the $200 billion mark in 2025",
-        "summary": "Market analyst Michiel Buijsman reckons GTA 6 will be 2026's \"defining commercial catalyst.\"",
+        "title": "RPG studio Obsidian faces class action lawsuit alleging violations of state wage laws",
+        "summary": "The studio behind Fallout: New Vegas and Avowed denies \"each and every allegation.\"",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/the-videogame-market-is-as-big-as-ever-with-pc-leading-growth-global-games-revenue-surpassed-the-usd200-billion-mark-in-2025/",
-        "seendate": "2026-06-20T18:50:17.000Z",
+        "url": "https://www.pcgamer.com/gaming-industry/rpg-studio-obsidian-faces-class-action-lawsuit-alleging-violations-of-state-wage-laws/",
+        "seendate": "2026-06-21T17:59:16.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "The best D&D videogame you've never played is one guy's outsider art, personal Baldur's Gate saga",
-        "summary": "Realheads know Swordflight. Sickos love it.",
+        "title": "Don't Starve Together hits new concurrent player count peak a decade after release",
+        "summary": "Don't Starve's eatin' good.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/rpg/the-best-d-and-d-videogame-youve-never-played-is-one-guys-outsider-art-personal-baldurs-gate-saga/",
-        "seendate": "2026-06-20T16:40:29.000Z",
+        "url": "https://www.pcgamer.com/games/survival-crafting/dont-starve-together-hits-new-concurrent-player-count-peak-a-decade-after-release/",
+        "seendate": "2026-06-21T16:57:44.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "5 promising games recently cancelled by Microsoft",
-        "summary": "If you wished for more pizazz at this year's Xbox Showcase, there's lots of it buried in an growing graveyard of cancelled Xbox games.",
+        "title": "Data analyst finds 'AI stigma' on Steam can reduce the number of reviews a game gets by around 53%—and the reviews it does get are more negative",
+        "summary": "\"For high-potential games, the 'AI stigma' is real and severely punishes developers who otherwise would have succeeded.\"",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/5-promising-games-recently-cancelled-by-microsoft/",
-        "seendate": "2026-06-20T16:12:19.000Z",
+        "url": "https://www.pcgamer.com/software/ai/data-analyst-finds-ai-stigma-on-steam-can-reduce-the-number-of-reviews-a-game-gets-by-around-53-percent-and-the-reviews-it-does-get-are-more-negative/",
+        "seendate": "2026-06-21T16:23:00.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "I spent an entire day with a fan-mod of North Korea's homegrown operating system, and I'm sorry to say it's not a Windows killer yet",
-        "summary": "Not the year of RedStar on the desktop.",
+        "title": "Bryce Clark, game director of Poppy Playtime, has played 23,000 hours of Steam games: 'I'm a bit obsessed with learning the market'",
+        "summary": "\"I'm always playing somewhere between three and six games at a time.\"",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/software/operating-systems/i-spent-an-entire-day-with-a-fan-mod-of-north-koreas-homegrown-operating-system-and-im-sorry-to-say-its-not-a-windows-killer-yet/",
-        "seendate": "2026-06-20T16:00:00.000Z",
+        "url": "https://www.pcgamer.com/gaming-industry/bryce-clark-game-director-of-poppy-playtime-has-played-23-000-hours-of-steam-games-im-a-bit-obsessed-with-learning-the-market/",
+        "seendate": "2026-06-21T16:00:00.000Z",
         "domain": "pcgamer.com"
       }
     ],
@@ -341,44 +341,44 @@ window.NEWS_CACHE = {
     ],
     "climate": [
       {
-        "title": "What does it mean to be a good neighbor ? ",
-        "summary": "Local News from Osceola and surrounding area.",
-        "source": "osceolaiowa.com",
-        "url": "https://www.osceolaiowa.com:443/article/475,what-does-it-mean-to-be-a-good-neighbor",
-        "seendate": "20260620T230000Z",
-        "domain": "osceolaiowa.com"
+        "title": "Record - breaking heatwave forecast to hit united kingdom as health warnings issued",
+        "summary": "The sweltering heat could last until at least Thursday, said the Met Office, sparking weather warnings and concerns for vulnerable people.",
+        "source": "irvinetimes.com",
+        "url": "https://www.irvinetimes.com/news/national/26214615.record-breaking-heatwave-forecast-hit-uk-health-warnings-issued/",
+        "seendate": "20260621T233000Z",
+        "domain": "irvinetimes.com"
       },
       {
-        "title": "CCDC board approves nearly $240K in grants",
-        "summary": "Local News from Osceola and surrounding area.",
-        "source": "osceolaiowa.com",
-        "url": "https://www.osceolaiowa.com:443/article/479,ccdc-board-approves-nearly-240k-in-grants",
-        "seendate": "20260620T230000Z",
-        "domain": "osceolaiowa.com"
+        "title": "Cory Booker Rejects Trump Iran Deal After Backing End to War",
+        "summary": "Senator Booker’s critique of the Iran deal highlights a growing divide over whether ending the war outweighs the deal’s terms.",
+        "source": "newsweek.com",
+        "url": "https://www.newsweek.com/booker-trump-iran-deal-end-war-opposition-12101278",
+        "seendate": "20260621T233000Z",
+        "domain": "newsweek.com"
       },
       {
-        "title": "Financial Survey : Petrofac ( OTCMKTS : POFCF ) vs . Hunting ( OTCMKTS : HNTIF ) ",
-        "summary": "Hunting (OTCMKTS:HNTIF &#8211; Get Free Report) and Petrofac (OTCMKTS:POFCF &#8211; Get Free Report) are both energy companies, but which is the superior investment? We will compare the two businesses based on the strength of their institutional ownership, earnings, valuation, risk, profitability, analyst recommendations and dividends. Institutional & Insider Ownership 46.6% of Hunting shares are held [&hellip;]",
-        "source": "tickerreport.com",
-        "url": "https://www.tickerreport.com/banking-finance/13482494/financial-survey-petrofac-otcmktspofcf-vs-hunting-otcmktshntif.html",
-        "seendate": "20260620T230000Z",
-        "domain": "tickerreport.com"
+        "title": "Drought , wind and heat fuel wildfires in west and force evacuations",
+        "summary": "Extreme heat and dry, windy conditions are fueling several wildfires in the West, including an uncontained blaze in Utah that forced the evacuation of a small town southwest of Salt Lake City",
+        "source": "wdbo.com",
+        "url": "https://www.wdbo.com/news/heat-wind-drought/SDLMWUYIEA45PKVUYODZMISOA4/",
+        "seendate": "20260621T233000Z",
+        "domain": "wdbo.com"
       },
       {
-        "title": "Small business , payments system brace for payday super",
-        "summary": "Australia&#x27;s superannuation payment system is set for a major shake-up but small businesses warn unnecessary penalties could mar...",
-        "source": "therural.com.au",
-        "url": "https://www.therural.com.au/story/9295944/small-business-payments-system-brace-for-payday-super/",
-        "seendate": "20260620T230000Z",
-        "domain": "therural.com.au"
+        "title": "Extreme heat arrives as region recovers from tornadoes",
+        "summary": "Nine tornadoes impacted the region this weekend, now extreme heat takes over",
+        "source": "fox8live.com",
+        "url": "https://www.fox8live.com/2026/06/21/extreme-heat-arrives-region-recovers-tornadoes/",
+        "seendate": "20260621T233000Z",
+        "domain": "fox8live.com"
       },
       {
-        "title": "International Antarctic Centre : brave the storm experience | The Rural",
-        "summary": "Hold onto your hair for the city&#x27;s take on an Antarctic blizzard.",
-        "source": "therural.com.au",
-        "url": "https://www.therural.com.au/story/9290508/international-antarctic-centre-brave-the-storm-experience/",
-        "seendate": "20260620T230000Z",
-        "domain": "therural.com.au"
+        "title": "Trump threatens to  hit Iran very hard again  while Vance is in Switzerland for talks",
+        "summary": "President Trump has threatened further attacks on Iran while Vice President Vance attended talks with Iranian officials in Switzerland on Sunday.",
+        "source": "northernpublicradio.org",
+        "url": "https://www.northernpublicradio.org/2026-06-21/trump-threatens-to-hit-iran-very-hard-again-while-vance-is-in-switzerland-for-talks",
+        "seendate": "20260621T233000Z",
+        "domain": "northernpublicradio.org"
       }
     ],
     "science": [
