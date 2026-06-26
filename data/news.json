@@ -1,8 +1,16 @@
 {
-  "generatedAt": "2026-06-24T23:57:02.875Z",
+  "generatedAt": "2026-06-26T00:03:23.836Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
+      {
+        "title": "‘Constitutional coup’ claims as Zimbabwe senate approves extending presidential term",
+        "summary": "Opposition figures fear changes will further tighten 83-year-old president Emmerson Mnangagwa’s hold on powerZimbabwe is on the brink of amending its constitution to give the president more time in office, a change that the government says will bring stability but that opponents have labelled a “constitutional coup”.The upper house of Zimbabwe’s parliament voted on Wednesday 75-4 in favour of the con",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/jun/25/constitutional-coup-zimbabwe-senate-approves-presidential-term",
+        "seendate": "2026-06-25T16:04:41.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "France confirms first Ebola case in doctor who had worked in DRC",
         "summary": "French health ministry says patient’s contacts are being traced and that risk to European public is very lowThe first case of Ebola has been confirmed in France, the country’s health ministry has said, in a doctor who had returned from a humanitarian mission to an area affected by the outbreak in the Democratic Republic of the Congo.The patient was transferred to a specialist facility and was in a st",
@@ -33,19 +41,19 @@
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/global-development/2026/jun/23/uk-ties-uae-mass-atrocities-sudan-mps-select-committee-nathaniel-raymond",
         "seendate": "2026-06-23T13:15:28.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Sweat, tears and camaraderie as 20,000 runners take on world’s largest ultramarathon",
-        "summary": "For one day every June, South Africa’s searing racial inequality seems to melt away at Comrades raceIn the early morning dark, thousands of runners waited, jostling with anticipation. South Africa’s national anthem rang out. Then the haunting swell of Shosholoza, first sung by Zimbabwean migrant workers in South Africa’s goldmines. Finally, that unmistakable, spine-tingling piano: Chariots of Fire.",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/jun/21/comrades-ultramarathon-south-africa",
-        "seendate": "2026-06-21T08:00:24.000Z",
         "domain": "theguardian.com"
       }
     ],
     "conflict": [
       {
+        "title": "‘Constitutional coup’ claims as Zimbabwe senate approves extending presidential term",
+        "summary": "Opposition figures fear changes will further tighten 83-year-old president Emmerson Mnangagwa’s hold on powerZimbabwe is on the brink of amending its constitution to give the president more time in office, a change that the government says will bring stability but that opponents have labelled a “constitutional coup”.The upper house of Zimbabwe’s parliament voted on Wednesday 75-4 in favour of the con",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/jun/25/constitutional-coup-zimbabwe-senate-approves-presidential-term",
+        "seendate": "2026-06-25T16:04:41.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "France confirms first Ebola case in doctor who had worked in DRC",
         "summary": "French health ministry says patient’s contacts are being traced and that risk to European public is very lowThe first case of Ebola has been confirmed in France, the country’s health ministry has said, in a doctor who had returned from a humanitarian mission to an area affected by the outbreak in the Democratic Republic of the Congo.The patient was transferred to a specialist facility and was in a st",
         "source": "theguardian.com",
@@ -76,23 +84,226 @@
         "url": "https://www.theguardian.com/global-development/2026/jun/23/uk-ties-uae-mass-atrocities-sudan-mps-select-committee-nathaniel-raymond",
         "seendate": "2026-06-23T13:15:28.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Sweat, tears and camaraderie as 20,000 runners take on world’s largest ultramarathon",
-        "summary": "For one day every June, South Africa’s searing racial inequality seems to melt away at Comrades raceIn the early morning dark, thousands of runners waited, jostling with anticipation. South Africa’s national anthem rang out. Then the haunting swell of Shosholoza, first sung by Zimbabwean migrant workers in South Africa’s goldmines. Finally, that unmistakable, spine-tingling piano: Chariots of Fire.",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/jun/21/comrades-ultramarathon-south-africa",
-        "seendate": "2026-06-21T08:00:24.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "economy": [
       {
-        "title": "Record profits, terrible service: something’s got to give for US consumers",
-        "summary": "Experts say consolidation and market power have left consumers paying more for lessHow do people in the US describe customer service in 2026?When Delta Airlines charged Marie Duggan, an economic historian visiting Oaxaca, Mexico, $1,200 to change a scheduled flight to the United States, s",
+        "title": "Elizabeth Warren says ‘tsunami of anger’ could prompt reversal of Trump-era mega mergers",
+        "summary": "Exclusive: US senator suggests architects behind ‘frenzy’ of blockbuster corporate deals have ‘badly miscalculated’The Democratic senator Elizabeth Warren has warned that corporate mergers approved by the Trump administration – including a pending deal that would put two of America’s largest news outlets under the control of a family sympathetic to the president – could be undone by a future administration.",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jun/24/customer-service-us-consumers",
-        "seendate": "2026-06-24T11:00:42.000Z",
+        "url": "https://www.theguardian.com/us-news/2026/jun/25/elizabeth-warren-trump-mergers",
+        "seendate": "2026-06-25T09:00:10.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "US media regulator Brendan Carr accuses Disney of ‘misinformation’ on investigations",
+        "summary": "Disney-owned ABC launched awareness campaign about two FCC investigations it faces, urging viewers to write inBrendan Carr, the Trump-aligned chairman of the Federal Communications Commission (FCC), has accused Disney of running a “campaign of misinformation” as the media group defends itself against investigations the regulator has initiate",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/media/2026/jun/25/disney-brendan-carr-fcc-investigation",
+        "seendate": "2026-06-25T19:21:34.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Oil price falls to pre-Iran war levels as more tankers exit strait of Hormuz",
+        "summary": "Stock markets on both sides of Atlantic up as concerns ease over prospect of another inflationary shockBusiness live – latest updatesOil prices have fallen to pre-Iran war levels as more oil tankers exited the strait of Hor",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/business/2026/jun/25/oil-price-falls-pre-iran-war-levels-more-tankers-exit-strait-of-hormuz",
+        "seendate": "2026-06-25T15:41:17.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Key Fed inflation gauge rises to three-year high in May after gas prices peaked",
+        "summary": "Consumer prices rose 4.1% in May from a year earlier – a sign rising costs could pose problem for Trump in midtermsThe Federal Reserve’s preferred inflation gauge rose to a new three-year high in May as gas prices peaked, a sign rising costs could pose political problems for Donald Trump and his political party as midterm elections near.Consumer prices rose 4.1% in May from a year earlier, the US com",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/business/2026/jun/25/us-may-inflation-gauge-three-year-high",
+        "seendate": "2026-06-25T16:14:37.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Datacentres are growing target of global climate-related legal cases, report finds",
+        "summary": "LSE analysis highlights litigation linked to energy sources, water consumption and air pollutionThe proliferation of datacentres and AI is increasingly at the forefront of environmental litigation around the world, from the US and UK to Chile to Ireland, a report has found.In an analysis of about 3,600 climate-related lawsuits filed since 2015, the <a href=\"http://www.lse.ac.uk/granthaminstitute/publ",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/environment/2026/jun/25/datacentres-facing-increase-in-global-climate-related-legal-cases-report-finds",
+        "seendate": "2026-06-25T10:03:54.000Z",
+        "domain": "theguardian.com"
+      }
+    ],
+    "literature": [
+      {
+        "title": "Transcription by Ben Lerner wins Orwell prize for political fiction",
+        "summary": "Judging chair calls Lerner’s novel a ‘funny, brainy and timely’ study of our appetite for technology, while Karen Bartlett wins the nonfiction prize for The Escape from Kabul American writer Ben Lerner has won this year’s Orwell prize for political fiction for Transcription, a novel exploring technology and memory.In nonfiction, the prize went to Karen Bartlett for The Escape from Kabul, which looks",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/jun/25/transcription-by-ben-lerner-wins-orwell-prize-for-political-fiction",
+        "seendate": "2026-06-25T20:15:02.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Whistleblower Sarah Wynn-Williams sues Meta over attempts to ‘silence’ her",
+        "summary": "Former employee files complaint accusing company of ‘coercive surveillance’ and first amendment violationThe Meta whistleblower Sarah Wynn-Williams is suing the tech company over its efforts to “silence” her.A 57-page complaint filed to a US district court in California on Thursday argues that an interim arbitration ruling sough",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/jun/25/whistleblower-sarah-wynn-williams-sues-meta-attempts-to-silence-her-careless-people",
+        "seendate": "2026-06-25T17:25:32.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Dooneen by Keith Ridgway review – uncanny visions of dark times in Dublin",
+        "summary": "Ireland is trembling with nascent social unrest in this labyrinthine tale of one man’s homecomingIrish author Keith Ridgway’s latest novel deals, both mischievously and menacingly, in ambivalence. The book’s epigraph is taken from a&nbsp;misty-eyed ballad pining for the “lofty” magnificence of the Cliffs of Dooneen. But these lines are appended with a footnote cautioning that “debate continues concerning th",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/jun/25/dooneen-by-keith-ridgway-review-uncanny-visions-of-dark-times-in-dublin",
+        "seendate": "2026-06-25T06:00:07.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Jesus Christ Kinski by Benjamin Myers review – inside the mind of an actor in meltdown",
+        "summary": "Narrator Rory Kinnear fully inhabits Klaus Kinski’s fury in this depiction of the irascible actor’s ill-fated performance in Berlin In 1971, the German actor Klaus Kinski performed a theatrical monologue called Jesus Christ Saviour at the Deutschlandhalle arena in Berlin, but things didn’t quite go to plan. A controversial figure in his lifetime, Kinski was irascible, egomaniacal and prone to violent temper",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/jun/25/jesus-christ-kinski-by-benjamin-myers-review-inside-the-mind-of-an-actor-in-meltdown",
+        "seendate": "2026-06-25T14:00:51.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Pope Leo XIV to publish collection of early writings",
+        "summary": "Freedom Under Grace will feature previously unpublished homilies and addresses from 2001 to 2013, letting readers ‘observe the development of Prevost’s thinking’Robert Prevost – now Pope Leo XIV – is set to publish a collection of his writings from the 2000s in English later this year.Freedom Under Grace: Reflections on the Spiritual Tradition That Formed Me will be released in September, featuring u",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/jun/25/pope-leo-iv-to-publish-book-freedom-under-grace",
+        "seendate": "2026-06-25T12:41:19.000Z",
+        "domain": "theguardian.com"
+      }
+    ],
+    "entertainment": [
+      {
+        "title": "Josh Johnson on Trump’s allies: ‘He doesn’t care about competence; he wants loyalty’",
+        "summary": "The Daily Show host discussed the power of Zohran Mamdani in New York primaries, Ken Paxton’s scandals and a ‘sauce craze’ for ranch dressingOn The Daily Show last night, Josh Johnson focused on an uptick in ranch dressing sales, the results of New York’s primaries and the different ways that Zohran Mamdani and <a href=\"https://www.theguardian",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/culture/2026/jun/25/josh-johnson-trump-zohran-mamdani",
+        "seendate": "2026-06-25T15:15:38.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "The Bear review - this kitchen nightmare of a show dials it up to 11 for its last ever series",
+        "summary": "It’s won all the awards and now it’s going out in a blaze of comedy. Everything that could possibly go wrong for the restaurant does … but who cares when the fusion of tragedy and laughter is this good?It may not be a gastronomic reference many midwestern gourmands would appreciate, but the last episode of the last season of The Bear was Marmite TV. Set in the back yard of the titular Chicago restaurant – t",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/jun/25/the-bear-finale-review-disney",
+        "seendate": "2026-06-25T15:00:54.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "David Clayton-Thomas, lead singer for Blood, Sweat & Tears, dies aged 84",
+        "summary": "The Canadian musician, who achieved major hits such as Spinning Wheel and You’ve Made Me So Very Happy, died peacefully at a Toronto hospitalDavid Clayton-Thomas, lead singer of 60s and 70s group Blood, Sweat &amp; Tears has died aged 84.According to his publicist, the Canadian singer died peacefully at a hospital in Toronto with no cause of death given. <a href=\"https://www.theguardian.com/music",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/music/2026/jun/25/david-clayton-thomas-singer-dies",
+        "seendate": "2026-06-25T14:40:52.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Jesus Christ Kinski by Benjamin Myers review – inside the mind of an actor in meltdown",
+        "summary": "Narrator Rory Kinnear fully inhabits Klaus Kinski’s fury in this depiction of the irascible actor’s ill-fated performance in Berlin In 1971, the German actor Klaus Kinski performed a theatrical monologue called Jesus Christ Saviour at the Deutschlandhalle arena in Berlin, but things didn’t quite go to plan. A controversial figure in his lifetime, Kinski was irascible, egomaniacal and prone to violent temper",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/jun/25/jesus-christ-kinski-by-benjamin-myers-review-inside-the-mind-of-an-actor-in-meltdown",
+        "seendate": "2026-06-25T14:00:51.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Jackass: Best and Last review – kings of gross-out comedy’s final, funny farewell",
+        "summary": "So-called final outing for Johnny Knoxville and his daring, stunt-hungry pals might be close to a greatest hits reel, but there are enough laughs to warrant the nostalgiaThe boy-men of Jackass, a three-season MTV comedy-stunt show turned periodic and beloved film series, have shown a willingne",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/culture/2026/jun/25/jackass-best-and-last-movie-review",
+        "seendate": "2026-06-25T13:00:29.000Z",
+        "domain": "theguardian.com"
+      }
+    ],
+    "f1": [
+      {
+        "title": "Liam Lawson on why it is \"very hard\" to trust people in F1",
+        "summary": "Liam Lawson has spoken about the cut-throat reality of the Formula 1 paddock and what makes it \"very, very hard\" to trust people in the championship.The Racing Bulls driver spoke about his two-race stint at Red Bull as Max Verstappen's team-mate at the start of 2025 and his time with the Milton Keynes outfit's sister team during an appearance on the High Performance podcast. As he ...<a class='more'",
+        "source": "motorsport.com",
+        "url": "https://www.motorsport.com/f1/news/liam-lawson-on-why-it-is-very-hard-to-trust-people-in-f1/10832617/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-06-25T19:35:03.000Z",
+        "domain": "motorsport.com"
+      },
+      {
+        "title": "Mercedes forced to tweak F1 diffuser after rival complaints",
+        "summary": "Mercedes arrived at the Canadian Grand Prix with its first major upgrade package of the season. The team of championship leader Kimi Antonelli and George Russell revised, among other things, the front wing and floor, although rivals also took an interest in several solutions at the rear of the W17.Since winter testing, teams have been trying to find clever ways to extend the diffuser, for ...<a class='mo",
+        "source": "motorsport.com",
+        "url": "https://www.motorsport.com/f1/news/mercedes-forced-to-tweak-f1-diffuser-after-rival-complaints/10833301/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-06-25T18:41:20.000Z",
+        "domain": "motorsport.com"
+      },
+      {
+        "title": "Liam Lawson shares heartbreaking note from brother about F1 sacrifices",
+        "summary": "Liam Lawson has offered emotional insight into the family sacrifices made in order for him to pursue a career in Formula 1, shedding light on a heartbreaking childhood note written by his younger brother.During an appearance on the High Performance podcast, the New Zealander opened up about the hidden emotional toll his racing ambitions took on his siblings. Not only did Lawson's parents sell ...<a class",
+        "source": "motorsport.com",
+        "url": "https://www.motorsport.com/f1/news/liam-lawson-shares-heartbreaking-note-from-brother-about-f1-sacrifices/10832587/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-06-25T18:11:32.000Z",
+        "domain": "motorsport.com"
+      },
+      {
+        "title": "F1 Austrian GP at Red Bull Ring: Friday schedule, weather forecast and how to watch",
+        "summary": "Formula 1 heads to the Red Bull Ring this weekend with the title fight tightened after Lewis Hamilton’s breakthrough Ferrari win at the Barcelona grand prix.Hamilton’s victory, combined with kimi Antonelli’s late retirement, cut into the Mercedes driver’s championship lead and gave Ferrari fresh momentum heading to Austria. Antonelli still leads the standings, but Hamilton is now 41 ...<a class='more' hr",
+        "source": "motorsport.com",
+        "url": "https://www.motorsport.com/f1/news/f1-austrian-gp-at-red-bull-ring-friday-schedule-weather-forecast-and-how-to-watch/10833263/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-06-25T18:00:04.000Z",
+        "domain": "motorsport.com"
+      },
+      {
+        "title": "How crucial is Red Bull's Austrian GP upgrade for Max Verstappen's F1 future?",
+        "summary": "Ahead of Red Bull's home race in Spielberg, there is once again plenty of attention on Max Verstappen's Formula 1 future, just as there is on the option in George Russell's Mercedes contract – something that has been speculated about in the Italian media.In theory, Verstappen's situation remains the same as it has been in recent weeks: although Red Bull would like him to express his ...<a class='more' hr",
+        "source": "motorsport.com",
+        "url": "https://www.motorsport.com/f1/news/how-crucial-is-red-bulls-austria-upgrade-for-max-verstappens-f1-future/10833270/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-06-25T16:57:44.000Z",
+        "domain": "motorsport.com"
+      }
+    ],
+    "sims": [
+      {
+        "title": "'Generational talent just gone': Developers react in shock at the brutal scale of Bungie layoffs, which has reportedly seen the Destiny 2 team almost completely wiped out",
+        "summary": "Many of those being let go are showing incredible dignity in the face of a gigantic squandering of talent.",
+        "source": "pcgamer.com",
+        "url": "https://www.pcgamer.com/gaming-industry/generational-talent-just-gone-developers-react-in-shock-at-the-brutal-scale-of-bungie-layoffs-which-has-reportedly-seen-the-destiny-2-team-almost-completely-wiped-out/",
+        "seendate": "2026-06-25T22:53:01.000Z",
+        "domain": "pcgamer.com"
+      },
+      {
+        "title": "Deltarune Chapter 5 launches to nearly 300,000 concurrent players on Steam, Chapter 6 is coming in 2027",
+        "summary": "People sure seem to like Deltarune.",
+        "source": "pcgamer.com",
+        "url": "https://www.pcgamer.com/games/rpg/deltarune-chapter-5-launches-to-nearly-300-000-concurrent-players-on-steam-chapter-6-is-coming-in-2027/",
+        "seendate": "2026-06-25T21:45:49.000Z",
+        "domain": "pcgamer.com"
+      },
+      {
+        "title": "1 year after launch, spaceship shooter Wildgate will end development after its next update",
+        "summary": "Thankfully, it's not shutting down, and developer Moonshot Games says no layoffs are planned.",
+        "source": "pcgamer.com",
+        "url": "https://www.pcgamer.com/games/fps/1-year-after-launch-spaceship-shooter-wildgate-will-end-development-after-its-next-update/",
+        "seendate": "2026-06-25T21:27:17.000Z",
+        "domain": "pcgamer.com"
+      },
+      {
+        "title": "I've played countless Doom engine games, so believe me when I say this one that combines the FPS with JRPG combat might be the coolest one in 30 years",
+        "summary": "Free Doom total conversion End of Starlight is part bullet hell, part surprise RPG, all enigma.",
+        "source": "pcgamer.com",
+        "url": "https://www.pcgamer.com/games/fps/ive-played-countless-doom-engine-games-so-believe-me-when-i-say-this-one-that-combines-the-fps-with-jrpg-combat-might-be-the-coolest-one-in-30-years/",
+        "seendate": "2026-06-25T21:24:54.000Z",
+        "domain": "pcgamer.com"
+      },
+      {
+        "title": "PC Gamer's 2025 GOTY is yours for a ludicrous $24 during the Steam Summer Sale",
+        "summary": "Kingdom Come: Deliverance 2 is 60% off, and Warhorse is celebrating with a free quest.",
+        "source": "pcgamer.com",
+        "url": "https://www.pcgamer.com/games/rpg/pc-gamers-2025-goty-is-yours-for-a-ludicrous-usd24-during-the-steam-summer-sale/",
+        "seendate": "2026-06-25T21:08:42.000Z",
+        "domain": "pcgamer.com"
+      }
+    ],
+    "new-tech-products": [],
+    "technology": [
+      {
+        "title": "US opens second federal investigation of deadly Tesla crash into Texas home",
+        "summary": "Driver told authorities he had driver-assistance technology engaged before crash that killed 76-year-old Martha AvilaThe US government has opened a second federal investigation into a recent crash of a Tesla that reportedly had driver-assistance technology engaged, struck a Texas home and killed a resident.<",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/jun/24/texas-tesla-car-crash-investigation",
+        "seendate": "2026-06-24T21:03:24.000Z",
         "domain": "theguardian.com"
       },
       {
@@ -104,200 +315,13 @@
         "domain": "theguardian.com"
       },
       {
-        "title": "Trump says he’s ordered investigation into oil companies over alleged price gouging",
-        "summary": "Trump says he instructed justice department to investigate oil firms over high gas prices amid Middle East conflictDonald Trump said on Wednesday that he had instructed the US Department of Justice to investigate oil companies for alleged price gouging, accusing them of not lowering gas prices enough amid conflict in the Middle East.“The big oil companies are not dropping their price at the pump comm",
+        "title": "AI helps read papyrus scroll burnt to crisp during Vesuvius eruption",
+        "summary": "Previously hidden text revealed without unrolling scroll discusses stoic philosophy on ethics, art and human behaviourThe surviving part of an ancient scroll that was burnt to a crisp when Mount Vesuvius erupted nearly 2,000 years ago has been virtually unwrapped and read with help from artificial intelligence.Researchers uncovered 20 columns of previously hidden text covering more than a metre of ch",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jun/24/trump-doj-investigation-oil-company-price-gouging",
-        "seendate": "2026-06-24T15:21:25.000Z",
+        "url": "https://www.theguardian.com/technology/2026/jun/24/ai-read-papyrus-scroll-burnt-vesuvius-eruption",
+        "seendate": "2026-06-24T15:48:44.000Z",
         "domain": "theguardian.com"
       },
-      {
-        "title": "US AI stock sell-off shakes markets from Wall Street to Asia",
-        "summary": "Losses spread globally as investors questioned soaring valuations and spending on AI infrastructureA tech sell-off shook global markets on Tuesday as attention turned away from developments in the US war with Iran and toward the future of AI companies and chipmakers that have driven stock markets to record highs.The tech-he",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/jun/23/ai-stocks-sell-off-us-markets",
-        "seendate": "2026-06-23T14:16:24.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Will California’s billionaire tax proposal make it to ballots?",
-        "summary": "Despite more than double the needed number of signatures to qualify for ballot, there’s uncertainty it’ll make it to votersHi and welcome to TechScape. Nick Robins-Early and Dara Kerr here, filling in for your usual host Blake Montgomery who is out on vacation. We’ll be talking about the fight over a proposed billionaire tax in California, the UK’s social media ban and SpaceX making a big buy in the AI arms",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/jun/22/california-billionaire-tax-techscape",
-        "seendate": "2026-06-23T12:45:51.000Z",
-        "domain": "theguardian.com"
-      }
-    ],
-    "literature": [
-      {
-        "title": "The Family Man by James Lasdun review – the killings that shocked America",
-        "summary": "Alex Murdaugh’s conviction for the murder of his wife and son was recently overturned. Where does the truth lie?In March 2023, 54-year-old Alex Murdaugh received two life sentences for murdering his wife and younger son at the family’s hunting lodge in Colleton County, South Carolina. Since the early 20th century, three generations of his family had been elected as state prosecutors in the “Lowcountry”, a s",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jun/24/the-family-man-by-james-lasdun-review-the-killings-that-shocked-america",
-        "seendate": "2026-06-24T06:00:38.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "‘Beautiful and terrifying’: the best American LGBTQ+ books, chosen by Samuel R Delany, Kaveh Akbar, Eileen Myles and more",
-        "summary": "From 20th-century classics to little-known treasures, queer authors share their favorite books about LGBTQ+ life‘Sheer outrageousness’: writers on their favourite LGBTQ+ movie charactersYou could debate what the best American <a href=\"https://www.theguardian.com/world/lgbt-ri",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/ng-interactive/2026/jun/24/best-american-lgbtq-books-authors",
-        "seendate": "2026-06-24T08:00:40.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Kin by Tayari Jones review – a haunting tale of motherlessness",
-        "summary": "Two friends, united by their missing mothers, come of age in segregation-era America, in a cautionary tale about the limits of loveAnnie and Vernice (or Niecy, as&nbsp;Annie calls her) are “cradle friends”, brought up in their home town of Honeysuckle, Louisiana, in 1950s America. The protagonists are defined by their motherlessness and their diverging drives to escape their individual tragedies and pre-wri",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jun/24/kin-by-tayari-jones-review-a-haunting-tale-of-motherlessness",
-        "seendate": "2026-06-24T08:00:40.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Reader, I married him: couples tell us how books brought them together",
-        "summary": "From book club meet-cutes to shared English Literature lectures, romance has blossomed beyond the page for these bibliophilesDua Lipa and Callum Turner have been honeymooning in Italy, after throwing a star-studded wedding in Palermo earlier this month. But their relationship began with a book: running",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jun/23/reader-i-married-him-couples-tell-us-how-books-brought-them-together",
-        "seendate": "2026-06-23T09:00:36.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Awake Awake by Fiona Mozley review – in pursuit of false memories",
-        "summary": "From the Booker-shortlisted author, a tantalisingly unreliable account of childhood, history and mental uncertaintyThe historian and novelist Fiona&nbsp;Mozley acknowledged in a 2018 piece for the Guardian that the city of York had a major influence on both her careers. Childhood and adolescence in a place such as York, fu",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jun/23/awake-awake-by-fiona-mozley-review-in-pursuit-of-false-memories",
-        "seendate": "2026-06-23T06:00:33.000Z",
-        "domain": "theguardian.com"
-      }
-    ],
-    "entertainment": [
-      {
-        "title": "Supergirl review – sprightly and sparkling superhero yarn without the usual baffling DC backstory",
-        "summary": "Milly Alcock’s Supergirl joins with Eve Ridley’s Ruthye to fight an evil intergalactic human traffickerThe sexual politics of perceived female maturity has always been a problem in this particular set of superhero films. Quite why Kara Zor-El gets to be a “supergirl” while Kal-El gets to be a “superman”, despite not being that much older, is not obvious. Even that notorious wokester Friedrich Nietzsche went",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/jun/24/supergirl-review-milly-alcock-eve-ridley",
-        "seendate": "2026-06-24T16:00:49.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "‘Beautiful and terrifying’: the best American LGBTQ+ books, chosen by Samuel R Delany, Kaveh Akbar, Eileen Myles and more",
-        "summary": "From 20th-century classics to little-known treasures, queer authors share their favorite books about LGBTQ+ life‘Sheer outrageousness’: writers on their favourite LGBTQ+ movie charactersYou could debate what the best American <a href=\"https://www.theguardian.com/world/lgbt-ri",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/ng-interactive/2026/jun/24/best-american-lgbtq-books-authors",
-        "seendate": "2026-06-24T08:00:40.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Warriors come out to Broadway with Lin-Manuel Miranda musical",
-        "summary": "Miranda and Eisa Davis’s concept album based on the 1979 film is to be realised for the stage, co-directed by Jenny Koons and Hamilton’s Andy BlankenbuehlerLin-Manuel Miranda and Eisa Davis’s concept album based on The Warriors, the cult novel and film about warring New York gangs, is to become a Broadway musical next year.The album, Warriors, was released",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/stage/2026/jun/24/the-warriors-broadway-with-lin-manuel-miranda-musical",
-        "seendate": "2026-06-24T13:01:43.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Josh Johnson on Trump’s reflecting pool drama: ‘the world’s largest kombucha’",
-        "summary": "The Daily Show host weighed in on Scottish soccer fans invading Miami, DC’s ‘Kool-Aid’ green reflecting pool and Fox News defending TrumpOn The Daily Show, Josh Johnson discussed Scottish soccer fans descending on Miami, Donald Trump’s “Kool-Aid” green reflecting pool and the startling appearance of one Fox News host.On Comedy Central last",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/culture/2026/jun/24/josh-johnson-daily-show-trump-ballroom-reflecting-pool",
-        "seendate": "2026-06-24T15:24:45.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Obstinate Daughters: shining a light on the women who sparked the American Revolution",
-        "summary": "A revealing new book, eight years in the making, singles out rebellious women from US history whose stories have often been sidelinedMargaret Corbin was a hero of the American Revolution, the wife of an artilleryman killed at Fort Washington in New York who took over his gun to fight the British. Grievously wounded, she became the first woman to receive a US military pension. In 1926, 150 years after the ba",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jun/24/obstinate-daughters-book-women-american-revolution",
-        "seendate": "2026-06-24T10:00:43.000Z",
-        "domain": "theguardian.com"
-      }
-    ],
-    "f1": [
-      {
-        "title": "Sky Sports F1 broadcaster confirms exit",
-        "summary": "Longtime Sky Sports Formula 1 broadcaster Rachel Brookes has confirmed she has left her role with immediate effect.Brookes joined the media conglomerate in 2009 before becoming an integral part of its F1 team from when Sky Sports obtained the broadcast rights for the United Kingdom in 2012.She is best known for interviewing drivers in the media pen, becoming one of the most famous members ...<a class",
-        "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/sky-sports-f1-broadcaster-confirms-exit/10832939/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-06-24T16:05:34.000Z",
-        "domain": "motorsport.com"
-      },
-      {
-        "title": "Five things to look out for at the F1 Austrian GP",
-        "summary": "Formula 1 enjoyed one of its biggest feel-good stories of the 2026 campaign last time out at the Barcelona Grand Prix, as Lewis Hamilton finally tasted victory for Ferrari.The seven-time world champion took the chequered flag on his 31st start for the Scuderia to give Ferrari its first race win since the end of 2024, ending Mercedes’ perfect start to 2026.It leaves Hamilton second in ...<a class='mor",
-        "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/five-things-to-look-out-for-at-the-f1-austrian-gp/10832903/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-06-24T15:38:16.000Z",
-        "domain": "motorsport.com"
-      },
-      {
-        "title": "Liam Lawson opens up on toxic F1 social media after online abuse",
-        "summary": "Liam Lawson has opened up about the somewhat toxic reality of modern Formula 1 fandom, revealing he was forced to completely mute all F1-related social media accounts after being targeted with horrific online abuse.The New Zealander replaced Daniel Ricciardo at Racing Bulls following the 2024 Singapore Grand Prix. After completing the remainder of the season, he signed with Red Bull to replace ...<a clas",
-        "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/liam-lawson-opens-up-on-toxic-f1-social-media-after-online-abuse/10832601/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-06-24T15:04:29.000Z",
-        "domain": "motorsport.com"
-      },
-      {
-        "title": "How Anthoine Hubert’s death changed Sebastian Vettel",
-        "summary": "It was almost seven years ago. As Formula 1 wrapped up its Saturday running, with the Ferraris of Charles Leclerc and Sebastian Vettel locking out the front row of the Belgian Grand Prix grid ahead of Mercedes’ Lewis Hamilton and Valtteri Bottas, Formula 2 took centre stage for its feature race.Unfortunately, everyone knows what happened next. A chain of events at the top of Raidillon on the ...<a class=",
-        "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/how-anthoine-huberts-death-changed-sebastian-vettel/10832897/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-06-24T13:45:11.000Z",
-        "domain": "motorsport.com"
-      },
-      {
-        "title": "Carlos Sainz: Even without extra weight, Williams is “not where we promised we’d be”",
-        "summary": "After Williams finished fifth in the Formula 1 constructors’ standings last season, team principal James Vowles described that position as a “new baseline” on the journey towards being a genuine world championship contender.But now, less than halfway through the 2026 season, even maintaining that position seems a distant prospect since the team is currently languishing in eighth – and ...<a class='more'",
-        "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/carlos-sainz-even-without-extra-weight-williams-is-not-where-we-promised-wed-be/10832597/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-06-24T12:50:50.000Z",
-        "domain": "motorsport.com"
-      }
-    ],
-    "sims": [
-      {
-        "title": "You can finally turn Riot's Vanguard anti-cheat off when you're not playing a game",
-        "summary": "Most of you, anyway.",
-        "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/you-can-finally-turn-riots-vanguard-anti-cheat-off-when-youre-not-playing-a-game/",
-        "seendate": "2026-06-24T22:16:17.000Z",
-        "domain": "pcgamer.com"
-      },
-      {
-        "title": "Tim Sweeney on the future of games, AI, and whether Valve will ever join forces with Epic: 'It's now clear that nobody's going to end up with an absolute monopoly'",
-        "summary": "The Epic Games CEO discusses his vision for \"Team Open,\" his objections to Steam's AI disclosure requirement, and the huge problems facing AAA game development.",
-        "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/tim-sweeney-on-the-future-of-games-ai-and-whether-valve-will-ever-join-forces-with-epic-its-now-clear-that-nobodys-going-to-end-up-with-an-absolute-monopoly/",
-        "seendate": "2026-06-24T21:22:20.000Z",
-        "domain": "pcgamer.com"
-      },
-      {
-        "title": "John Carmack apologizes after Sandy Petersen says 'Quake ruined id Software,' and for once John Romero doesn't tell Sandy he's wrong",
-        "summary": "Three of the principals from the early days of id Software shared some faintly maudlin but ultimately uplifting reminiscences from those long-ago days.",
-        "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/fps/john-carmack-apologizes-after-sandy-petersen-says-quake-ruined-id-software-and-for-once-john-romero-doesnt-tell-sandy-hes-wrong/",
-        "seendate": "2026-06-24T20:39:33.000Z",
-        "domain": "pcgamer.com"
-      },
-      {
-        "title": "'Don't blame yourselves' for Destiny 2's end, community lead tells players: 'No words can accurately depict how lucky we are to have shared these worlds with you'",
-        "summary": "As Destiny 2 reaches the end, dmg04 has some reassuring words for mourning fans.",
-        "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/fps/dont-blame-yourselves-for-destiny-2s-end-community-lead-tells-players-no-words-can-accurately-depict-how-lucky-we-are-to-have-shared-these-worlds-with-you/",
-        "seendate": "2026-06-24T19:02:39.000Z",
-        "domain": "pcgamer.com"
-      },
-      {
-        "title": "Elden Ring 'profit leakage' has Kadokawa investors looking for a new boss",
-        "summary": "If you've ever wondered why company executives prioritize shareholders over customers, well, here it is.",
-        "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/elden-ring-profit-leakage-has-kadokawa-investors-looking-for-a-new-boss/",
-        "seendate": "2026-06-24T18:55:18.000Z",
-        "domain": "pcgamer.com"
-      }
-    ],
-    "new-tech-products": [],
-    "technology": [
       {
         "title": "Meta pauses employee tracker for AI training amid privacy concerns",
         "summary": "About 1,600 workers signed petition against tool that tracked staff keystrokes, mouse clicks and computer screen contentMark Zuckerberg’s Meta has paused a program that tracked employees’ computer activity amid data privacy concerns and a staff backlash.The owner of Facebook, Instagram and WhatsApp had introduced a tool that tracked staff keystrokes, mouse clicks and content displayed on computer scr",
@@ -313,33 +337,17 @@
         "url": "https://www.theguardian.com/technology/2026/jun/24/china-supercomputer-world-fastest-top500-ranking-lineshine",
         "seendate": "2026-06-24T01:18:11.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "‘You can’t make billions without hurting people’: Cory Doctorow on Elon Musk, the AI bubble and bosses’ cruel fantasies",
-        "summary": "The writer who coined the word ‘enshittification’ tells us why AI will never deliver what it promises – and why it still appeals so much to those in powerA “centaur”, in automation theory, is a person assisted by a machine, and a “reverse centaur”, hero of Cory Doctorow’s new book, <a href=\"https://www.theguardian.com/books/2026/jun/22/the-reverse-centaurs-guide-to-life-after-ai-by-cory-doctorow-review-the-",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/jun/24/cory-doctorow-on-elon-musk-ai-bubble-bosses-cruel-fantasies",
-        "seendate": "2026-06-24T09:00:41.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "‘Navigating the unknown together’: me and my idiot AI boyfriend",
-        "summary": "I believe that chatbots have no place in a decent society, and am repelled by the topic of AI in general. But could I be seduced?I received a text message from my editor: “Um, is it unethical to ask you to get an AI bf?? You can prob say no.”Resentment. Contempt! Sorrow. Unease. I love text messaging. I have text message exchanges with, let’s say, 15 people a day. If you want me to do something, you",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/news/2026/jun/23/navigating-the-unknown-together-me-and-my-idiot-ai-boyfriend",
-        "seendate": "2026-06-23T04:00:30.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Two Britons plead guilty to £39m 2024 cyber-attack on Transport for London",
-        "summary": "Thalha Jubair and Owen Flowers, linked to the Scattered Spider hacking group, change pleas on first day of trialTwo British cybercriminals from the Scattered Spider hacking group have pleaded guilty to a cyber-attack on Transport for London in 2024 that cost £39m and affected 10 million peopl",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/jun/22/two-britons-plead-guilty-to-39m-2024-cyber-attack-on-transport-for-london",
-        "seendate": "2026-06-22T16:49:40.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "climate": [
+      {
+        "title": "US supreme court blocks thousands of lawsuits over Roundup maker’s pesticide warning labels",
+        "summary": "The case, Monsanto v Durnell, specifically dealt with claims that the company failed to warn users of product risksUS politics live – latest updatesThe US supreme court has found",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/business/2026/jun/25/monsanto-supreme-court-pesticide-case",
+        "seendate": "2026-06-25T15:50:23.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "US says chemical giant Chemours to pay $450m to settle ‘forever chemicals’ case",
         "summary": "Agreement is first by federal government to resolve enforcement claims against a major Pfas manufacturerThe Trump administration on Wednesday reached a multi-state settlement with the chemical giant Chemours Co over years-long, illegal discharges of synthetic “forever chemicals” used to make products resistant to water, grease and stains. The settlement is the first by the federal government to resolve enfo",
@@ -371,56 +379,48 @@
         "url": "https://www.theguardian.com/us-news/2026/jun/23/datacenters-climate-hazards-study",
         "seendate": "2026-06-23T11:30:26.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Texas environmentalists lose bid to block Musk’s SpaceX from closing beach",
-        "summary": "Ruling means Boca Chica Beach, located near sprawling Starbase site, likely to close during future rocket launchesA Texas beach can be closed during rocket launches by Elon Musk’s SpaceX after the state’s supreme court ruled unanimously against a bid by environmental organizations to sue o",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jun/20/texas-spacex-musk-beach-environmentalists",
-        "seendate": "2026-06-20T18:17:15.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "science": [
       {
-        "title": "Weather gallery for June 24 , 2026",
-        "summary": "Nature&#x27;s beauty from a weather perspective",
-        "source": "inforum.com",
-        "url": "https://www.inforum.com/weather/weather-gallery-for-june-24-2026",
-        "seendate": "20260624T233000Z",
-        "domain": "inforum.com"
+        "title": "Nasa rover detects potential signatures of ancient microbial life on Mars",
+        "summary": "Perseverance identifies organic carbon molecules in rocks on riverbed that carried water billions of years agoNasa’s Perseverance rover has detected complex carbon molecules in Martian rocks that are already in the spotlight for bearing potential signatures of ancient microbial life.Measurements taken by the rover’s Sherloc instrument identified organic carbon in mudstones from the Bright Angel outcr",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/jun/24/nasa-rover-detects-potential-signatures-ancient-microbial-life-mars",
+        "seendate": "2026-06-24T18:00:51.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "JP Morgan cuts Brent forecast to $78 year - end as demand miss and inventory lag bite",
-        "summary": "JP Morgan has quietly told the oil market that the second half of 2026 belongs to the bears.",
-        "source": "investinglive.com",
-        "url": "https://investinglive.com:443/commodities/jp-morgan-cuts-brent-forecast-to-78-year-end-as-demand-miss-and-inventory-lag-bite-20260624/",
-        "seendate": "20260624T233000Z",
-        "domain": "investinglive.com"
+        "title": "Millions of stars light up largest and most detailed shot of Milky Way’s centre",
+        "summary": "The glittering image, taken by the European Space Agency’s Euclid telescope, heralds a new age of planetary discoveryThe dazzling sight of more than 60m stars at the heart of Earth’s galaxy has been captured by a space telescope designed to reveal the mysterious dark forces that shape the universe.Astronomers used the European Space Agency’s <a href=\"https://www.theguardian.com/science/2023/jun/30/eu",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/jun/24/stars-galactic-bulge-milky-way-euclid-telescope",
+        "seendate": "2026-06-24T10:00:43.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Most Australian young people still on social media despite ban , study suggests",
-        "summary": "The UK is set to have a ban in place on certain social media for under-16s by spring.",
-        "source": "wiltshiretimes.co.uk",
-        "url": "https://www.wiltshiretimes.co.uk/news/national/26226009.australian-young-people-still-social-media-despite-ban-study-suggests/",
-        "seendate": "20260624T233000Z",
-        "domain": "wiltshiretimes.co.uk"
+        "title": "Nature or nurture: can genes shape our behaviour? – podcast",
+        "summary": "How much do our genes determine about our lives, and could they influence traits like risk-taking, antisocial behaviour or even violence? Ian Sample talks to Kathryn Paige Harden, a behavioural geneticist and professor of psychology at the University of Texas at Austin who studies how genetic factors shape human behaviour. In her book Original Sin she explores how nature and nurture combine to influence our likeli",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/audio/2026/jun/25/nature-or-nurture-can-genes-shape-our-behaviour-podcast",
+        "seendate": "2026-06-25T04:00:03.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Gartner warns AI model advantage is shrinking",
-        "summary": "As foundational artificial intelligence capabilities converge, Gartner analysts urge IT leaders to focus on data quality, AI literacy and process integration, among other areas, rather than chasing the latest models.",
-        "source": "computerweekly.com",
-        "url": "https://www.computerweekly.com/news/366645093/Gartner-warns-AI-model-advantage-is-shrinking",
-        "seendate": "20260624T233000Z",
-        "domain": "computerweekly.com"
+        "title": "Could mountains be key to unlocking hydrogen’s potential?",
+        "summary": "Researchers assessed likelihood gas was produced during creation of Alps, Pyrenees and Baetic mountainsHydrogen gas is anticipated to play a central role in phasing out fossil fuels, particularly in industries that are proving more challenging to decarbonise, such as chemical production, shipping and steelmaking. But producing hydrogen syn",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/jun/24/mountains-unlock-hydrogen-gas-study",
+        "seendate": "2026-06-24T05:00:37.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Grant County detectives seek public help identifying toddler in 1992 cold case",
-        "summary": "MATTAWA, Wash. &mdash; Grant County Major Crimes detectives are asking the public to help identify a toddler whose remains were found near Mattawa more than three decades ago, the Grant",
-        "source": "kxly.com",
-        "url": "https://www.kxly.com/news/grant-county-detectives-seek-publics-help-identifying-toddler-in-1992-cold-case/article_e92b39d6-fb80-4386-a97f-f2af6b9c214c.html",
-        "seendate": "20260624T233000Z",
-        "domain": "kxly.com"
+        "title": "A scientist says he can scan prisoners’ brains for signs of evil. Did his disputed science put a man on death row?",
+        "summary": "Kent Kiehl convinced the US legal system he can find violence in prisoners’ brains. His theories have been since used by defense lawyers – with grave consequences for prisoners Continue reading...",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jun/23/scientist-us-legal-system-violence-brain",
+        "seendate": "2026-06-23T16:00:19.000Z",
+        "domain": "theguardian.com"
       }
     ]
   }
