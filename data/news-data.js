@@ -1,50 +1,8 @@
 window.NEWS_CACHE = {
-  "generatedAt": "2026-06-28T23:59:13.773Z",
+  "generatedAt": "2026-06-29T23:52:12.188Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
-      {
-        "title": "BMS : Marine Insurance London Market Outlook | Hellenic Shipping News Worldwide",
-        "summary": "",
-        "source": "hellenicshippingnews.com",
-        "url": "https://www.hellenicshippingnews.com/bms-marine-insurance-london-market-outlook/",
-        "seendate": "20260628T233000Z",
-        "domain": "hellenicshippingnews.com"
-      },
-      {
-        "title": "Burnham to pledge  circuit - breaker  for Britain in devolution and economy speech",
-        "summary": "The Makerfield MP will confirm a flagship proposal to create a ‘No 10’ in the North and ambitions for ‘good growth in every postcode’.",
-        "source": "thisisoxfordshire.co.uk",
-        "url": "https://www.thisisoxfordshire.co.uk/news/national/26235223.burnham-pledge-circuit-breaker-britain-devolution-economy-speech/",
-        "seendate": "20260628T233000Z",
-        "domain": "thisisoxfordshire.co.uk"
-      },
-      {
-        "title": "Johnson Says He Will Send Housing Bill To Trump Monday",
-        "summary": "House Speaker Mike Johnson plans to send a bipartisan housing bill to President Trump on Monday, after a signing ceremony was canceled. Trump demands the Save America Act pass first, emphasizing election integrity. The housing bill&#x27;s future hinges on resolving this legislative impasse.",
-        "source": "klvi.iheart.com",
-        "url": "https://klvi.iheart.com/content/2026-06-28-johnson-says-he-will-send-housing-bill-to-trump-monday/",
-        "seendate": "20260628T233000Z",
-        "domain": "klvi.iheart.com"
-      },
-      {
-        "title": "Jerry Shenk : Drivers , youre getting hosed at the pump",
-        "summary": "The energy value of ethanol is only about 70 percent that of an equivalent volume of petroleum-based motor fuel, so a full E-10 blend reduces mileage on a tank of gasoline.",
-        "source": "timesherald.com",
-        "url": "https://www.timesherald.com/2026/06/28/jerry-shenk-drivers-youre-getting-hosed-at-the-pump/",
-        "seendate": "20260628T233000Z",
-        "domain": "timesherald.com"
-      },
-      {
-        "title": "The Global Favela in the UN report",
-        "summary": "A new UN report says housing is getting less affordable almost everywhere, as shortages, overcrowding and slum populations keep rising Read F",
-        "source": "middleeaststar.com",
-        "url": "http://www.middleeaststar.com/news/279153850/the-global-favela-in-the-un-report",
-        "seendate": "20260628T233000Z",
-        "domain": "middleeaststar.com"
-      }
-    ],
-    "conflict": [
       {
         "title": "‘Everyone is talking about Cape Verde’: World Cup run delights diaspora community in UK",
         "summary": "Cape Verdeans in Britain feeling ‘incredibly proud’ after team’s hard-fought draws against Spain and UruguayWorld Cup live – latest updatesFor as long as she can remember, 13-year-old Lauryn struggled",
@@ -86,49 +44,115 @@ window.NEWS_CACHE = {
         "domain": "theguardian.com"
       }
     ],
+    "conflict": [
+      {
+        "title": "Venezuelans search more earthquake ruins as aftershock rattles rescuers",
+        "summary": "The death toll stood at more than 1,700 people, according to the government.",
+        "source": "runcornandwidnesworld.co.uk",
+        "url": "https://www.runcornandwidnesworld.co.uk/news/national/26238823.venezuelans-search-earthquake-ruins-aftershock-rattles-rescuers/",
+        "seendate": "20260629T234500Z",
+        "domain": "runcornandwidnesworld.co.uk"
+      },
+      {
+        "title": "Wall Street ends higher as US , Iran attacks ease ; major tech - related shares jump",
+        "summary": "SpaceX shares rise on Nasdaq 100 inclusion Read more at The Business Times.",
+        "source": "businesstimes.com.sg",
+        "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/wall-street-ends-higher-us-iran-attacks-ease-major-tech-related-shares-jump",
+        "seendate": "20260629T234500Z",
+        "domain": "businesstimes.com.sg"
+      },
+      {
+        "title": "UN official condemns Israeli attacks on Gaza , occupied West Bank",
+        "summary": "",
+        "source": "middleeasteye.net",
+        "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-official-condemns-israeli-attacks-gaza-occupied-west-bank",
+        "seendate": "20260629T234500Z",
+        "domain": "middleeasteye.net"
+      },
+      {
+        "title": "Police investigate death of 3 - year - old child in Mercer County",
+        "summary": "Officials said an investigation is underway after a 3-year-old child was found dead in Mercer County Saturday afternoon.",
+        "source": "wtae.com",
+        "url": "https://www.wtae.com/article/child-death-investigation-mercer-county/71775032",
+        "seendate": "20260629T234500Z",
+        "domain": "wtae.com"
+      },
+      {
+        "title": "Louisiana Sen . Cassidy fires back at Trump over SAVE America Act post",
+        "summary": "Bill Cassidy on Monday responded to President Donald Trump on X after the president criticized him on TRUTH Social regarding the SAVE America Act.",
+        "source": "foxrochester.com",
+        "url": "https://foxrochester.com/news/nation-world/louisiana-sen-cassidy-fires-back-at-trump-over-save-america-act-post-housing-susan-collins-mitch-mcconnell",
+        "seendate": "20260629T234500Z",
+        "domain": "foxrochester.com"
+      }
+    ],
     "economy": [
       {
-        "title": "When it comes to taxing the super rich, there’s no need to reinvent the wheel",
-        "summary": "Any new tax on the rich won’t raise much money unless many of the exceptions and loopholes are dealt withIn this new era of rampaging oligarchs, nothing may seem as satisfying as slapping a tax on Elon Musk’s new trillion-dollar fortune. What most bothers Americans about federal taxes is that billionaires <a href=\"https://www.pewresearch.org/sho",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jun/28/wealth-tax-super-rich",
-        "seendate": "2026-06-28T11:00:10.000Z",
-        "domain": "theguardian.com"
+        "title": "Wall Street ends higher as US , Iran attacks ease ; major tech - related shares jump",
+        "summary": "SpaceX shares rise on Nasdaq 100 inclusion Read more at The Business Times.",
+        "source": "businesstimes.com.sg",
+        "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/wall-street-ends-higher-us-iran-attacks-ease-major-tech-related-shares-jump",
+        "seendate": "20260629T234500Z",
+        "domain": "businesstimes.com.sg"
       },
       {
-        "title": "Spirit airlines is dead and a bus travel boom looks likely – but will Greyhounds ever be cool again?",
-        "summary": "For most Americans, riding a bus means abandoning expectations of basic dignity – but with an increase in ridership, that could change“It’s a grueling experience,” Greyhound bus enthusiast Miles Taylor explains. “You’re not treated very well. Everyone is yelling at you the entire time. When the bus is late, they blame you for it, like somehow you’ve done something wrong. You just get screamed at for wanting",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jun/28/spirit-airlines-greyhound-bus-travel-boom",
-        "seendate": "2026-06-28T12:00:08.000Z",
-        "domain": "theguardian.com"
+        "title": "Yen hits 40 - year low in historic slide that rattled Japan",
+        "summary": "The currency weakness is boosting the profits of exporters, and in turn helping the nation’s stock market to record highs Read more at The Business Times.",
+        "source": "businesstimes.com.sg",
+        "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/yen-hits-40-year-low-historic-slide-s-rattled-japan",
+        "seendate": "20260629T234500Z",
+        "domain": "businesstimes.com.sg"
       },
       {
-        "title": "Reporter urges US supreme court to halt ruling forcing her to reveal sources or pay $800-a-day fine",
-        "summary": "Catherine Herridge makes final bid to stave off penalty related to series of stories she wrote in 2017 for Fox NewsMore than two years ago, a US district court judge took the extraordinary step of holding the veteran investigative journalist Catherine Herridge in civil contempt, ordering her",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/media/2026/jun/26/us-reporter-supreme-court-sources-fine",
-        "seendate": "2026-06-26T22:43:22.000Z",
-        "domain": "theguardian.com"
+        "title": "Tax cuts , pay rises and text message changes on the way",
+        "summary": "A new financial year brings with it a raft of changes to government payments, tax rates and business...",
+        "source": "cessnockadvertiser.com.au",
+        "url": "https://www.cessnockadvertiser.com.au/story/9301578/tax-cuts-pay-rises-and-text-message-changes-on-the-way/",
+        "seendate": "20260629T234500Z",
+        "domain": "cessnockadvertiser.com.au"
       },
       {
-        "title": "Trump threatens 100% tariff on European countries that impose digital tax",
-        "summary": "US president says levy would be imposed immediately and supersede pre-existing trade deals with the country Donald Trump has threatened to place a 100% import tariff on any European country that imposes a tax on digital services from US companies.Writing on Truth Social on Friday, the US president said that “numerous European countries” had been discussing putting a digital services tax on American c",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jun/27/trump-threatens-tariff-eu-countries-impose-digital-tax",
-        "seendate": "2026-06-27T10:20:46.000Z",
-        "domain": "theguardian.com"
+        "title": "More firings at independent federal agencies after SCOTUS ruling ? ",
+        "summary": "Are more firings coming at independent federal agencies following the Supreme Court ruling?",
+        "source": "kcci.com",
+        "url": "https://www.kcci.com/article/firings-independent-federal-agencies-supreme-court/71775494",
+        "seendate": "20260629T234500Z",
+        "domain": "kcci.com"
       },
       {
-        "title": "Here’s what to do if your StubHub World Cup resale ticket is canceled",
-        "summary": "World Cup StubHub ticket mess shows how weak consumer protections are in the US, but there are steps fans can takeA growing number of World Cup fans who thought they had bought tickets to matches on the ticket reseller StubHub were notified with just days or hours to spare that their tickets did not exist.Horror stor",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jun/27/stubhub-world-cup-resale-ticket",
-        "seendate": "2026-06-27T10:00:01.000Z",
-        "domain": "theguardian.com"
+        "title": "States seek to lower drug prices by targeting the companies that manage them for health plans",
+        "summary": "Legislators across the U.S. are trying to lower prescription costs by reining in big companies that handle drug coverage for health insurers. Their efforts have prompted one of the nation&rsquo;s",
+        "source": "local3news.com",
+        "url": "https://www.local3news.com/local-news/tennessee/states-seek-to-lower-drug-prices-by-targeting-the-companies-that-manage-them-for-health/article_a5513fc9-bf98-5209-9c05-e5ba46ea498d.html",
+        "seendate": "20260629T234500Z",
+        "domain": "local3news.com"
       }
     ],
     "literature": [
+      {
+        "title": "Communion by JD Vance review – a strange, poignant book about faith and the modern world",
+        "summary": "JD Vance’s Christian vision is thoughtful – but impossible to square with the political company he keepsAt the heart of this strange, perhaps rather poignant, book is the biblical question: “What must I do to be saved?” Not in the crude sense of how to secure a place in heaven, but as an urgent challenge to a whole repertoire of destructive assumptions and habits endorsed by the majority culture. Vance’s fa",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/jun/29/communion-finding-my-way-back-to-faith-by-jd-vance-review-veep-behnd-the-curtains",
+        "seendate": "2026-06-29T06:00:30.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Raveheart by Graeme Armstrong review – ravers rebel in a Scottish political satire",
+        "summary": "A veteran techno DJ embarks on a campaign of civil disobedience in this passionate and at times hilarious tale of underground resistanceMidway through his firecracker of a debut, 2020’s The Young Team, Graeme Armstrong hurls the reader into an exuberant account of a rave, from protagonist Azzy’s pre-party phar",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/jun/29/raveheart-by-graeme-armstrong-review-ravers-rebel-in-a-scottish-political-satire",
+        "seendate": "2026-06-29T08:00:34.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Father Alberto and the Flying Girl by Timothy X Atack review – a fable of medieval madness",
+        "summary": "A parish priest cares for the mentally afflicted in an absorbing tale that combines antic comedy with serious moral themesIn 1474, in a fictional location in southern Europe, Father Alberto arrives from Jormel Abbey, where he has failed in his ambition to become a manuscript illuminator at their renowned scriptorium. He is the new parish priest of the villages of Hem and Long, whose congregants are generall",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/jun/29/father-alberto-and-the-flying-girl-by-timothy-x-atack-review-a-fable-of-medieval-madness",
+        "seendate": "2026-06-29T08:00:33.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "What if doing more isn’t always the answer?",
         "summary": "It’s tempting to treat overwhelm with clever fixes – but that might be part of the problemAccording to my Instagram feed, I am not doing enough. Not spending enough, not saying enough, not taking enough care. I feel more sure of this than anything. And it’s bringing out an irrationality I’m not proud of: one afternoon, in between screengrabs of masked men snatching civilians from their homes, videos of well",
@@ -144,160 +168,152 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/books/2026/jun/28/home-is-where-the-art-is-the-rise-of-the-epic-domestic-novel",
         "seendate": "2026-06-28T11:00:07.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Dave Eggers: ‘Once you have a machine think and write for you, you’re cooked as a species’",
-        "summary": "As his new novel is published, the US author talks about nurturing the next generation of creatives, debating Sam Altman – and why he writes on a boat in San Francisco BayAt Dave Eggers’s suggestion, we’re starting the interview by life drawing together. The novelist dropped out of art school but has been drawing for decades, and his new book is set in the art world. Prudence, our model, stands before us wi",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jun/27/dave-eggers-once-you-have-a-machine-think-and-write-for-you-youre-cooked-as-a-species",
-        "seendate": "2026-06-27T08:00:34.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Tom Gauld on presenting cover designs for highbrow literary novels – cartoon",
-        "summary": "Continue reading...",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/picture/2026/jun/28/tom-gauld-on-presenting-cover-designs-for-highbrow-literary-novels-cartoon",
-        "seendate": "2026-06-28T15:00:12.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Claire Fuller: ‘Dylan Thomas showed me that writing could make me feel everything’",
-        "summary": "The novelist on being inspired by Shirley Jackson, discovering the brilliance of Denis Johnson, and finding comfort in Elizabeth StroutMy earliest reading memory When I was five and starting school, I would catch a coach from the Oxfordshire village where I lived. Twice a day I read the little metal plaque screwed to the upholstery, which gave the warning “Mind your&nbsp;head when leavi",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jun/26/claire-fuller-dylan-thomas-showed-me-that-writing-could-make-me-feel-everything",
-        "seendate": "2026-06-26T09:00:16.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "entertainment": [
       {
-        "title": "O what a tangled web: unweaving the weirdest fan rumours surrounding Spider-Man: Brand New Day",
-        "summary": "Will X-Men’s Jean Grey be in the fourth Marvel Spidey film? What about Spider-Girl? Which Hulk will we see? Who is the real villain? And is Marvel fuelling the internet’s frenzied rumour machine on purpose?It’s hard to pinpoint when Marvel trailers stopped being mere hype and started teeing up their own conspiracy theories, but it was probably around the time that early footage from Spider-Man: No Way Home",
+        "title": "John Oliver on redistricting: ‘Putting a thumb on the scale of who gets elected’",
+        "summary": "The host discussed recent limits to the Voting Rights Act and Trump’s efforts to dissolve majority black districtsOn Sunday night’s episode of his HBO show, John Oliver focused on the fight over redistricting that has been “raging” across the US as the midterms approach later this year.In Texas, Republicans currently hold 25 out of 38",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/jun/26/spider-man-brand-new-day-fan-rumours-week-in-geek",
-        "seendate": "2026-06-26T13:30:36.000Z",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/jun/29/john-oliver-redistricting-gerrymandering-louisiana",
+        "seendate": "2026-06-29T15:39:03.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘A beauty pageant in athletic form’: how cheerleading show America’s Sweethearts became a Netflix megahit",
-        "summary": "The film-makers and stars of the Dallas Cowboys Cheerleaders docu-series explain the sisterhood and fights for fair pay behind the pompomsIt’s been 30 years since the Dallas Cowboys – who have long billed themselves as America’s Team – won the Super Bowl. But now, thanks to Greg Whiteley’s Netflix docu-series America’s Sweethearts: Dallas Cowboy",
+        "title": "‘His ability is hard to deny’: is Tom Hardy a secretly good rapper?",
+        "summary": "The unconventional actor is releasing a new hip-hop album, the latest unlikely new string to his bow, but the big surprise is that he might actually be greatAs good as he is as an actor, perhaps the best thing about Tom Hardy is how he will sometimes pop up unannounced and reveal that he is secretly quite good at other non-acting things. In 2022 he surprised the world by <a href=\"https://www.theguardian.com",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/jun/26/americas-sweethearts-dallas-cowboys-cheerleaders",
-        "seendate": "2026-06-26T09:00:16.000Z",
+        "url": "https://www.theguardian.com/film/2026/jun/29/tom-hardy-rap-album",
+        "seendate": "2026-06-29T13:35:49.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘Have more joy! Believe in yourself!’ Legally Blonde is back – as a life-affirming TV prequel",
-        "summary": "Reese Witherspoon’s 00s movie is a beloved cult classic – and now she’s using a spinoff to battle these dark times. The creators of Elle talk miniskirts, car phones and why people need to take teenage girls more seriouslyIf there’s a young adult romance on TV, we millennial women will watch it. Throw in a love triangle or an emotionally available hockey player having an open conversation about consent, and",
+        "title": "Porn star turned late-night TV icon Robin Byrd: ‘Sex is a form of magic’",
+        "summary": "She was a sex-positive star in the 80s and 90s who became an ‘accidental activist’ and her life is explored in a HBO documentary produced by Sarah Jessica ParkerRobin Byrd has no doubt about where the archive of her life should end up. “I think it should be in the Smithsonian,” she said. “I like to think big.”But is such thinking “big” or just plain daft? After all, we’re talking about Robin Byrd, th",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/jun/26/legally-blonde-tv-prequel-prime-video-elle-woods",
-        "seendate": "2026-06-26T12:00:16.000Z",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/jun/29/robin-byrd-documentary-porn-star-late-night-tv-icon",
+        "seendate": "2026-06-29T10:00:41.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Initiation stones, buried recordings, and Ringo Starr’s drumkit: inside the visionary world of reggae master Lee ‘Scratch’ Perry",
-        "summary": "The late production genius’s chaotic reputation has always preceded him. But could two new books, a posthumous album and a flurry of classic reissues change all that – and put the focus back on his music?David Katz’s introduction to the&nbsp;world of Lee “Scratch” Perry was bewildering. The Jamaican producer had&nbsp;been living in London for several years, and Katz, a Jewish reggae historian who had fallen",
+        "title": "‘Nothing less than extraordinary’ – how The Bear pulled off TV’s most almighty comeback",
+        "summary": "The final season of the hit chef show is the most entertaining and purely enjoyable since the first – plus everyone ended up getting what they wanted! What an incredible rollercoasterNo show has ever needed to end like The Bear. The series initially made its name as a vehicle of pure forward momentum, the story of a burned-out high-end chef drafted in to fix up and save his dead brother’s sandwich restauran",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/music/2026/jun/26/lee-scratch-perry-remembered-black-ark-new-books-mouse-on-mars",
-        "seendate": "2026-06-26T12:00:16.000Z",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/jun/29/nothing-less-than-extraordinary-how-the-bear-pulled-off-tvs-most-almighty-comeback",
+        "seendate": "2026-06-29T10:31:54.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Strung review – far-fetched thriller awkwardly mixes Blumhouse and Tyler Perry",
-        "summary": "There are flashes of low-rent fun to be had here but a busy script makes it feel like a limited series inelegantly cut down to movie lengthStrung is a cautionary tale about following your gut. Directed by Malcolm D Lee – the under-heralded virtuoso behind Girls Trip, Barbershop and other fine franchises – the Peacock suspense thriller stars Chloe Bailey as Laila, a classical violinist with her sights set on",
+        "title": "Done Quixote? Film archivists on quest to finish Orson Welles passion project",
+        "summary": "Team hope 30 of hours of footage held by three countries will be enough to bring to life film-maker’s visionMore than 70 years after he shot the first few frames, Orson Welles’s ambitious project to put Don Quixote on the big screen may finally be completed thanks to a consortium of European film archivists.Oja Kodar, the American film-maker’s partner and collaborator, has given her blessing to the p",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/jun/26/strung-movie-review-blumhouse-tyler-perry",
-        "seendate": "2026-06-26T07:00:11.000Z",
+        "url": "https://www.theguardian.com/film/2026/jun/29/orson-welles-unfinished-don-quixote-film",
+        "seendate": "2026-06-29T10:00:41.000Z",
         "domain": "theguardian.com"
       }
     ],
     "f1": [
       {
-        "title": "Juan Pablo Montoya: Lewis Hamilton \"doesn't forget\" Max Verstappen F1 history",
-        "summary": "Former Formula 1 driver Juan Pablo Montoya has argued that Lewis Hamilton's strong defence against Max Verstappen at the Austrian Grand Prix proved that the Ferrari driver \"doesn't forget\" their contentious history.While George Russell commanded the race at the Red Bull Ring with a win from pole position, some of the standout on-track action came from a fierce mid-race battle between old ...<a class='mor",
+        "title": "Red Bull's Austrian GP upgrade package compared to \"B-spec\" F1 car by former mechanic",
+        "summary": "Red Bull's extensive Austrian Grand Prix upgrade package felt like a \"B-spec\" car, according to the team's former mechanic Calum Nicholas, who suspects a hidden weight reduction programme played a big part in the team's return to form.The Milton Keynes outfit arrived at the Red Bull Ring with a substantial list of updates. The official FIA documentation listed seven modifications, heavily ...<a class='mo",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/juan-pablo-montoya-lewis-hamilton-doesnt-forget-max-verstappen-f1-history/10834695/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-06-28T20:39:25.000Z",
+        "url": "https://www.motorsport.com/f1/news/red-bulls-austrian-gp-upgrade-package-compared-to-b-spec-f1-car-by-former-mechanic/10834941/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-06-29T20:43:01.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Winner and losers from F1's blistering Austrian Grand Prix",
-        "summary": "Even the bubble that Formula 1 tends to operate in couldn't escape the latest European heatwave that has gripped the continent over the past week. The challenging conditions on Red Bull's home circuit served up an intriguing war of attrition, offering a different competitive picture compared to Barcelona which is leaving some frontrunners with more questions than answers.Winner: George ...<a class='more'",
+        "title": "Arvid Lindblad reveals emotional hand-drawn helmet for first F1 British GP",
+        "summary": "Racing Bulls rookie Arvid Lindblad will commemorate his first home Formula 1 race at this weekend's British Grand Prix with a special hand-drawn helmet, created in partnership with British-Indian artist Navinder Nangla.The 18-year-old's special helmet design features hand-drawn sketches, which have been purposefully made to look childlike, on a white background. While his usual sponsors sit ...<a class='",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/winner-and-losers-from-f1s-blistering-austrian-grand-prix/10834676/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-06-28T18:29:20.000Z",
+        "url": "https://www.motorsport.com/f1/news/arvid-lindblad-reveals-emotional-hand-drawn-helmet-for-first-f1-british-gp/10834923/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-06-29T15:06:30.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Toto Wolff points to Max Verstappen factor behind Red Bull's Austria pace",
-        "summary": "Max Verstappen came as close as ever to his first win of the season in Austria. The Red Bull driver, having started fifth in Spielberg, emerged as George Russell's main pursuer during the Formula 1 Austrian Grand Prix and finished just over 1.6s behind.Red Bull brought a major upgrade to Austria in an attempt to close the gap to Mercedes and Ferrari, the two teams that appeared to have held ...<a class='",
+        "title": "No reliability and no pace: Carlos Sainz admits Williams doesn’t “have a car capable of scoring points\"",
+        "summary": "Carlos Sainz and Williams are having a rough start to the 2026 Formula 1 season, and the tough times continued in Austria where the Spaniard was forced to admit \"we don't have reliability, we don't have pace, we don't have a car capable of scoring points”.Williams has made no secret of its struggles this year as it battles with a car that is overweight and uncompetitive. It has so far scored ...<a class=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/toto-wolff-points-to-max-verstappen-factor-behind-red-bulls-austria-pace/10834637/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-06-28T17:17:45.000Z",
+        "url": "https://www.motorsport.com/f1/news/no-reliability-and-no-pace-carlos-sainz-admits-williams-doesnt-have-a-car-capable-of-scoring-points/10834823/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-06-29T15:00:03.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Lewis Hamilton, Charles Leclerc confused by woeful Ferrari race pace in Austria",
-        "summary": "Lewis Hamilton and Charles Leclerc are seeking answers on their Ferrari's crippling rear tyre degradation that saw both drivers slide backwards in a sweltering Formula 1 Austrian Grand Prix.Starting from third, Hamilton was keen to put pressure on leader George Russell after getting past his team-mate Leclerc and fighting out an entertaining duel with Red Bull's Max Verstappen early ...<a class='more' hr",
+        "title": "Williams unveils special F1 British GP livery for Silverstone home race",
+        "summary": "Williams has unveiled a special Union Jack-inspired livery for the upcoming British Grand Prix. The Grove outfit will celebrate its home race at Silverstone with the new livery and special edition team kit. Adding to its usual bold, blue look, the new design features red, white and blue accents across the nose cone and chassis side. To accompany the new livery and team kit, Alex Albon ...<a class='mo",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/lewis-hamilton-charles-leclerc-confused-by-woeful-ferrari-race-pace-in-austria/10834628/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-06-28T17:12:43.000Z",
+        "url": "https://www.motorsport.com/f1/news/williams-unveils-special-f1-british-gp-livery-for-silverstone-home-race/10834916/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-06-29T14:35:36.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Kimi Antonelli frustrated by horror start to F1 Austrian GP",
-        "summary": "Formula 1 championship leader Kimi Antonelli was left frustrated by his horrible start to the Austrian Grand Prix as he went off three times across the opening two laps.The Mercedes driver started fourth and carried a lot of speed into Turn 1, forcing him over the sausage kerb and onto the escape road, with similar happening at Turn 3.Antonelli then attempted to overtake Ferrari driver ...<a class='m",
+        "title": "Why Max Verstappen burst out laughing during Silverstone F1 simulator runs",
+        "summary": "After several European Formula 1 weekends where energy management has appeared more natural for drivers, Max Verstappen expects the British Grand Prix to be a completely different story.Monaco represented the most natural experience so far, where drivers could push flat out throughout qualifying thanks to the many slow corners and braking zones.According to Verstappen, the Red Bull Ring ...<a class='",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/kimi-antonelli-left-rueing-horror-start-to-f1-austrian-gp/10834617/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-06-28T16:51:19.000Z",
+        "url": "https://www.motorsport.com/f1/news/why-max-verstappen-burst-out-laughing-during-silverstone-f1-simulator-runs/10834834/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-06-29T13:32:58.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "After a 4-year wait, Netflix announces Cyberpunk: Edgerunners 2 is coming this fall",
-        "summary": "I really want to stay at your house. Again.",
-        "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/rpg/after-a-4-year-wait-netflix-announces-cyberpunk-edgerunners-2-is-coming-this-fall/",
-        "seendate": "2026-06-28T21:40:46.000Z",
-        "domain": "pcgamer.com"
+        "title": "Venezuelans search more earthquake ruins as aftershock rattles rescuers",
+        "summary": "The death toll stood at more than 1,700 people, according to the government.",
+        "source": "runcornandwidnesworld.co.uk",
+        "url": "https://www.runcornandwidnesworld.co.uk/news/national/26238823.venezuelans-search-earthquake-ruins-aftershock-rattles-rescuers/",
+        "seendate": "20260629T234500Z",
+        "domain": "runcornandwidnesworld.co.uk"
       },
       {
-        "title": "Fallout: New Vegas director Josh Sawyer says Obsidian has 'Karma Police' who go through games making sure every skill gets enough cool stuff to do: 'We're not gonna leave you out to dry'",
-        "summary": "\"Some people think I'm preoccupied with balance.\"",
-        "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/fallout/fallout-new-vegas-director-josh-sawyer-says-obsidian-has-karma-police-who-go-through-the-game-making-sure-every-skill-gets-enough-cool-stuff-to-do-were-not-gonna-leave-you-out-to-dry/",
-        "seendate": "2026-06-28T21:02:33.000Z",
-        "domain": "pcgamer.com"
+        "title": "Wall Street ends higher as US , Iran attacks ease ; major tech - related shares jump",
+        "summary": "SpaceX shares rise on Nasdaq 100 inclusion Read more at The Business Times.",
+        "source": "businesstimes.com.sg",
+        "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/wall-street-ends-higher-us-iran-attacks-ease-major-tech-related-shares-jump",
+        "seendate": "20260629T234500Z",
+        "domain": "businesstimes.com.sg"
       },
       {
-        "title": "Mina the Hollower will make her fighting game debut in a crossover next year",
-        "summary": "It's not the first time Rivals of Aether has included a character from Yacht Club's games.",
-        "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/fighting/mina-the-hollower-will-make-her-fighting-game-debut-in-a-crossover-next-year/",
-        "seendate": "2026-06-28T21:01:17.000Z",
-        "domain": "pcgamer.com"
-      },
-      {
-        "title": "Meccha Chameleon proves an explosive hit with over 10 million copies sold",
-        "summary": "The indie evolution of prop hunt is taking Steam by storm.",
-        "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/meccha-chameleon-proves-an-explosive-hit-with-over-10-million-copies-sold/",
-        "seendate": "2026-06-28T18:04:36.000Z",
-        "domain": "pcgamer.com"
-      },
-      {
-        "title": "Here's what you want to see from Grand Theft Auto 6's radio stations: Phil Collins, conspiracy theory parodies, and… Gregorian chanting?",
-        "summary": "Vice City's about to get real weird.",
-        "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/heres-what-you-want-to-see-from-grand-theft-auto-6s-radio-stations-phil-collins-conspiracy-theory-parodies-and-gregorian-chanting/",
-        "seendate": "2026-06-28T17:00:00.000Z",
-        "domain": "pcgamer.com"
+        "title": "Father sentenced to 2 years and 8 months for son manslaughter , to serve 6 months imprisonment",
+        "summary": "38-year-old Savenaca Damuni, the father of the late six-year-old boy, has been sentenced to 2 years and 8 months imprisonment, but will serve a partia",
+        "source": "fijivillage.com",
+        "url": "https://www.fijivillage.com/news/father-sentenced-to-2-years-and-8-months-for-son-s-manslaughter-to-serve-6-months-imprisonment-d0e57b/",
+        "seendate": "20260629T234500Z",
+        "domain": "fijivillage.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
+      {
+        "title": "Ministers likely to support law change to allow delivery robots on England’s paths",
+        "summary": "Exclusive: Safety campaigners concerned about plan for widespread deployment on already crowded pavementsLarge numbers of autonomous delivery robots could be coming to towns and cities across England after ministers signalled they were likely to support a change in the law allowing their use, prompting concern from safety campaigners.Low-speed robots, which mainly deliver groceries or takeaway food,",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/jun/29/ministers-likely-to-support-law-change-to-allow-delivery-robots-on-englands-paths",
+        "seendate": "2026-06-29T13:48:31.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Shares in chipmakers underpinning AI boom rocket in first half of 2026",
+        "summary": "Value of some chip manufacturers have tripled, or more, driving Asia Pacific stock markets sharply higherShares in chipmakers have surged in the first half of this year as investors piled into companies that make the hardware underpinning the AI boom, according to analysis.Investors have driven up the value of semiconductor and memory chip manufacturers, whose profits have soared during 2026, at the",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/business/2026/jun/29/shares-in-chipmakers-underpinning-ai-boom-surge-in-first-half-of-2026",
+        "seendate": "2026-06-29T14:18:09.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "‘We’re up against forces that have all the money in the world’: Erin Brockovich on her battle against AI datacentres",
+        "summary": "In 1993, she squeezed a $333m settlement from a Californian energy company in a scandal over contaminated water. Three decades later, she has a new target in her sights – and it’s globalWhen Erin Brockovich woke to find 30 emails from people from the same town, she realised something was going on. People email Brockovich all the time because of what happened in 1993, when she was instrumental in suing Pacif",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/environment/2026/jun/29/were-up-against-forces-that-have-all-the-money-in-the-world-erin-brockovich-on-her-battle-against-ai-datacentres",
+        "seendate": "2026-06-29T04:00:28.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Ring Video Doorbell Pro review: night and day better with new 4K camera",
+        "summary": "Camera, wifi and design updates bring welcome upgrades to Ring’s top model in wired or battery flavourRing’s recent revamp of its popular video doorbells with a more modern design is led by the top-of-the-line Video Doorbell Pro 3, which gains much-needed upgrades with a 4K camera and better wifi plus new interesting AI features.The new doorbells are sleeker but keep the unmistakable two-tone Ring co",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/jun/29/ring-video-doorbell-pro-review",
+        "seendate": "2026-06-29T06:00:31.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "‘Crypto v community’: 4,000 local US lenders join forces to fight ‘stablecoins’ law",
         "summary": "Up to 4,000 community banks fear looming legislation to regulate digital cash will deprive rural firms and farmers of $850bn-worth of loansOn a quiet summer morning, above a small mid-western town, an American flag is waving in the breeze. The camera cuts to a father helping his son at the wheel of a tractor, and flits to a smiling couple on a grass-lined pavement, moments before flashing to grainy images o",
@@ -305,41 +321,25 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/technology/2026/jun/28/crypto-v-community-local-lenders-fight-stablecoins-law",
         "seendate": "2026-06-28T12:00:08.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Social media bans go global: big tech faces a reckoning after Australia’s crackdown",
-        "summary": "As a host of countries move to rein in social media use by children, could this be technology’s big tobacco moment? Continue reading...",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/news/ng-interactive/2026/jun/27/social-media-bans-go-global-big-tech-reckoning-australia-crackdown",
-        "seendate": "2026-06-27T05:00:31.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Screen time can damage under-twos’ development, landmark study suggests",
-        "summary": "Exclusive: Researchers call for urgent investigation of risks to babies of tablets, smartphones and other digital devicesScreen time for babies and toddlers under the age of two has been linked with long-term negative effects on health and quality of life and should be avoided, according to a landmark study.It warns that usin",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/society/2026/jun/27/screen-time-damage-under-twos-development-study",
-        "seendate": "2026-06-27T07:00:34.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "OpenAI staggers AI model release after Trump administration request",
-        "summary": "Sam Altman announces limited preview of GPT 5.6 in move that echoes launch of Anthropic’s MythosBusiness live – latest updatesOpenAI is staggering the release of its latest AI model after a request from the US",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/jun/26/openai-ai-model-release-trump-us-sam-altman-gpt-anthropic-mythos",
-        "seendate": "2026-06-26T14:06:11.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Apple raises iPad and MacBook prices, blaming cost of chips amid AI boom",
-        "summary": "Company says it cannot shield customers from memory and storage chip costs – and iPhone hikes could be nextApple raised iPad and MacBook prices on Thursday, saying it could no longer shield customers from soaring memory and storage chip costs driven by the AI industry’s data center buildout.The move does not affect Apple’s cash cow, the iPhone. But it would take the starting price of the ⁠Neo, its lo",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/jun/25/apple-price-hike",
-        "seendate": "2026-06-25T23:46:17.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "climate": [
+      {
+        "title": "Trump administration targets California coastal agency in escalation of energy production fight",
+        "summary": "US commerce department accuses state of ‘environmental terrorism’ and plans to evaluate its coastal agencyThe Trump administration plans to evaluate the performance of the California Coastal Commission, in the latest escalation of a dispute between the state’s Democratic leader",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/jun/29/california-trump-administration-energy-production",
+        "seendate": "2026-06-29T12:00:44.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Five Americans die every hour from toxic vehicle emissions, study finds",
+        "summary": "Research suggests 41,800 premature US deaths in 2024 were attributable to road pollutionRoughly five Americans die every hour due to exposure to toxic road vehicle pollution, a new study has found.It’s the latest warning showing fossil-fueled transit is a major driver of mortality. <a href=\"https://www.theguardian.com/us-news/2026/ju",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/jun/29/deaths-vehicle-emissions-pollution",
+        "seendate": "2026-06-29T10:00:42.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Heatwave and high humidity to blast much of US: ‘impactful to anyone’",
         "summary": "Forecasters expect days of high temperatures in central and eastern US before Fourth of July and World Cup festivitiesA long and dangerous heatwave will blast a large swath of the central and eastern United States for the upcoming week, the National Weather Service (NWS) said on Sunday – with temperatures rising ahead of the Fourth of July h",
@@ -363,25 +363,17 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/us-news/2026/jun/26/alligator-alcatraz-environmental-immigrant-inquiry",
         "seendate": "2026-06-26T20:38:07.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Judge declares mistrial in arson case against man accused of sparking Palisades fire",
-        "summary": "Jurors in California deliberated for over 13 hours, before announcing that they were deadlocked A federal judge declared a mistrial in the arson case against the 29-year-old man accused of sparking the deadly 2025 Palisades fire in Los Angeles, after the jury said it could not",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jun/26/mistrial-arson-california-pacific-palisades-wildfire",
-        "seendate": "2026-06-26T16:50:53.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "In pictures: a San Antonio land bridge designed for wildlife and people",
-        "summary": "Spanning a six-lane highway and located in a public park, this crossing is part of a larger restoration of endangered Texas prairie landThe Guardian receives support for visual climate coverage from the Outrider Foundation. The Guardian’s coverage is editorially independent <a href=\"https://www.theguardian.com/environment/gallery/2026/jun/2",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/gallery/2026/jun/26/san-antonio-texas-land-bridge-wildlife",
-        "seendate": "2026-06-26T12:00:15.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "science": [
+      {
+        "title": "Tiny Antarctic sea creature could be key to treating melanoma, researchers say",
+        "summary": "Underwater expedition by Florida-based team supports possible therapeutic use of bacterial toxins from sea squirtsResearchers at a Florida university say bacterial toxins produced by tiny marine organisms they have studied in Antarctica could become an effective treatment for melanoma, the deadliest form of skin cancer.A team from the University of South Florida (USF) recently returned from a six-wee",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/jun/29/sea-squirt-melanoma-treatment-research",
+        "seendate": "2026-06-29T12:00:43.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "What if doing more isn’t always the answer?",
         "summary": "It’s tempting to treat overwhelm with clever fixes – but that might be part of the problemAccording to my Instagram feed, I am not doing enough. Not spending enough, not saying enough, not taking enough care. I feel more sure of this than anything. And it’s bringing out an irrationality I’m not proud of: one afternoon, in between screengrabs of masked men snatching civilians from their homes, videos of well",
@@ -412,14 +404,6 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/science/audio/2026/jun/25/nature-or-nurture-can-genes-shape-our-behaviour-podcast",
         "seendate": "2026-06-25T05:00:03.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Nasa rover detects potential signatures of ancient microbial life on Mars",
-        "summary": "Perseverance identifies organic carbon molecules in rocks on riverbed that carried water billions of years agoNasa’s Perseverance rover has detected complex carbon molecules in Martian rocks that are already in the spotlight for bearing potential signatures of ancient microbial life.Measurements taken by the rover’s Sherloc instrument identified organic carbon in mudstones from the Bright Angel outcr",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/jun/24/nasa-rover-detects-potential-signatures-ancient-microbial-life-mars",
-        "seendate": "2026-06-24T18:00:51.000Z",
         "domain": "theguardian.com"
       }
     ]
