@@ -1,50 +1,24 @@
 window.NEWS_CACHE = {
-  "generatedAt": "2026-06-30T23:57:05.926Z",
+  "generatedAt": "2026-07-02T00:00:52.983Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
       {
-        "title": "New bus route linking Carmarthen and Bangor to launch by autumn",
-        "summary": "The Welsh government say the service will cost about £2m to run in the first year.",
-        "source": "bbc.co.uk",
-        "url": "https://www.bbc.co.uk/news/articles/c5yz5x0glvpo",
-        "seendate": "20260630T193000Z",
-        "domain": "bbc.co.uk"
+        "title": "Sudan’s RSF committed crimes against humanity in El Fasher, Amnesty says",
+        "summary": "Report accuses paramilitary force of crimes including ethnic cleansing in systemic campaign against civiliansThe Sudanese paramilitary Rapid Support Forces committed crimes against humanity and ethnic cleansing during its campaign to capture El Fasher, Amnesty International has alleged.Many of the crimes, including murder, torture, rape, enslavement and sexual slavery, were carried out as part of a w",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/jul/01/sudan-rsf-rapid-support-forces-crimes-against-humanity-el-fasher-amnesty-ethnic-cleansing",
+        "seendate": "2026-07-01T12:45:00.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Drivers brace for impact as brakes hit on fuel tax cut",
-        "summary": "The days of discounted petrol and diesel are ending as the fuel excise relief is cut, but falling...",
-        "source": "southcoastregister.com.au",
-        "url": "https://www.southcoastregister.com.au/story/9302457/drivers-brace-for-impact-as-brakes-hit-on-fuel-tax-cut/",
-        "seendate": "20260630T193000Z",
-        "domain": "southcoastregister.com.au"
+        "title": "‘Witch-hunt’ in Niger as military regime rounds up LGBTQ+ population",
+        "summary": "Fears of resurgence of HIV/Aids amid loss of access to PrEP drugs as at least 40 people arrested in ‘toxic’ climateA “witch-hunt” is under way in Niger, where dozens of people have been arrested for homosexuality in the west African state following the introduction of a new penal code earlier this year.Up to 40 people have been arrested and 16 men, including high-ranking military officials, have been",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/jul/01/witch-hunt-in-niger-as-military-regime-rounds-up-lgbtq-population",
+        "seendate": "2026-07-01T07:00:29.000Z",
+        "domain": "theguardian.com"
       },
-      {
-        "title": "Defence project blowouts blast taxpayers with $29b bill",
-        "summary": "Tens of billions of dollars in taxpayer money has been wasted on Defence contracts blowing out, Defence Industry...",
-        "source": "portstephensexaminer.com.au",
-        "url": "https://www.portstephensexaminer.com.au/story/9302458/defence-project-blowouts-blast-taxpayers-with-29b-bill/",
-        "seendate": "20260630T193000Z",
-        "domain": "portstephensexaminer.com.au"
-      },
-      {
-        "title": "This grieving father and ex - general could test the grip of Israel longest serving prime minister",
-        "summary": "Gadi Eisenkot, a former general, has emerged as a significant challenger to Prime Minister Benjamin Netanyahu in Israel&#x27;s upcoming election.",
-        "source": "clickondetroit.com",
-        "url": "https://www.clickondetroit.com/news/world/2026/06/30/this-grieving-father-and-ex-general-could-test-the-grip-of-israels-longest-serving-prime-minister/",
-        "seendate": "20260630T193000Z",
-        "domain": "clickondetroit.com"
-      },
-      {
-        "title": "Clouds over kharif sowing : Met sees below - normal rain in July",
-        "summary": "July brings a worrying forecast for India as monsoon rains are predicted to be below normal, falling short of 94% of the long-term average. This situation could adversely affect the kharif sowing season critical for crops such as paddy and pulses.",
-        "source": "economictimes.indiatimes.com",
-        "url": "https://economictimes.indiatimes.com/news/economy/agriculture/clouds-over-kharif-sowing-met-sees-below-normal-rain-in-july/articleshow/132100539.cms",
-        "seendate": "20260630T193000Z",
-        "domain": "economictimes.indiatimes.com"
-      }
-    ],
-    "conflict": [
       {
         "title": "‘They will attack me if I stay’: immigrants in South Africa flee for safety amid violence and anti-foreigner protests",
         "summary": "More than 2,000 anti-foreigner protesters march through Durban city centre as the arbitrary deadline passes for undocumented migrants to leave the countrySouth Africa was holding its breath on Tuesday as mass anti-immigration protests were held across the country. They come after a weeks-long campaign against foreigners that has seen at least four killed and tens of thousands fleeing for safety.In th",
@@ -68,67 +42,109 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/world/2026/jun/26/cape-verde-world-cup-run-delights-diaspora-community-uk",
         "seendate": "2026-06-26T12:03:25.000Z",
         "domain": "theguardian.com"
-      },
+      }
+    ],
+    "conflict": [
       {
-        "title": "Whereabouts of nearly 300 people with Ebola unknown in DR Congo",
-        "summary": "Fears over ‘huge community transmission’ as modelling predicts thousands of deaths in DRC by SeptemberThe whereabouts of almost 300 people who have tested positive for Ebola in the Democratic Republic of the Congo is unknown, according to Africa’s top public health official.The humanitarian crisis amid the conflict in the affected areas means more than 1 million people are living in camps to which he",
+        "title": "Sudan’s RSF committed crimes against humanity in El Fasher, Amnesty says",
+        "summary": "Report accuses paramilitary force of crimes including ethnic cleansing in systemic campaign against civiliansThe Sudanese paramilitary Rapid Support Forces committed crimes against humanity and ethnic cleansing during its campaign to capture El Fasher, Amnesty International has alleged.Many of the crimes, including murder, torture, rape, enslavement and sexual slavery, were carried out as part of a w",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/global-development/2026/jun/26/whereabouts-of-nearly-300-people-with-ebola-unknown-in-drc",
-        "seendate": "2026-06-26T10:55:56.000Z",
+        "url": "https://www.theguardian.com/world/2026/jul/01/sudan-rsf-rapid-support-forces-crimes-against-humanity-el-fasher-amnesty-ethnic-cleansing",
+        "seendate": "2026-07-01T12:45:00.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Outrage as woman jailed for three years after criticising Somali government online",
-        "summary": "Sentencing of 27-year-old Sadia Moalim Ali condemned by former president and prime ministers as well as rights groupsA rickshaw driver in Somalia has been sentenced to three years in prison for comments she made on social media, in a case that has caught the public’s attention and provoked outrage in the country.Sadia Moalim Ali, a 27-year-old nursing graduate, was originally charged with insulting g",
+        "title": "‘Witch-hunt’ in Niger as military regime rounds up LGBTQ+ population",
+        "summary": "Fears of resurgence of HIV/Aids amid loss of access to PrEP drugs as at least 40 people arrested in ‘toxic’ climateA “witch-hunt” is under way in Niger, where dozens of people have been arrested for homosexuality in the west African state following the introduction of a new penal code earlier this year.Up to 40 people have been arrested and 16 men, including high-ranking military officials, have been",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/global-development/2026/jun/26/woman-sadia-moalim-ali-three-year-jail-sentence-somalia-online-comments-governement",
-        "seendate": "2026-06-26T10:00:14.000Z",
+        "url": "https://www.theguardian.com/world/2026/jul/01/witch-hunt-in-niger-as-military-regime-rounds-up-lgbtq-population",
+        "seendate": "2026-07-01T07:00:29.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "‘They will attack me if I stay’: immigrants in South Africa flee for safety amid violence and anti-foreigner protests",
+        "summary": "More than 2,000 anti-foreigner protesters march through Durban city centre as the arbitrary deadline passes for undocumented migrants to leave the countrySouth Africa was holding its breath on Tuesday as mass anti-immigration protests were held across the country. They come after a weeks-long campaign against foreigners that has seen at least four killed and tens of thousands fleeing for safety.In th",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/jun/30/they-will-attack-me-if-i-stay-immigrants-in-south-africa-flee-for-safety-amid-violence-and-anti-foreigner-protests",
+        "seendate": "2026-06-30T16:43:32.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Police units deployed across South Africa before anti-immigration marches",
+        "summary": "Government fears repeat of anti-migrant violence in 2008 that led to looting and resulted in deaths of 62 peopleSouth African authorities have deployed police units to towns and cities around the country before planned demonstrations against undocumented foreign nationals.Security",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/jun/30/south-africa-police-anti-immigrant-protests",
+        "seendate": "2026-06-30T10:20:52.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "‘Everyone is talking about Cape Verde’: World Cup run delights diaspora community in UK",
+        "summary": "Cape Verdeans in Britain feeling ‘incredibly proud’ after team’s hard-fought draws against Spain and UruguayWorld Cup live – latest updatesFor as long as she can remember, 13-year-old Lauryn struggled",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/jun/26/cape-verde-world-cup-run-delights-diaspora-community-uk",
+        "seendate": "2026-06-26T12:03:25.000Z",
         "domain": "theguardian.com"
       }
     ],
     "economy": [
       {
-        "title": "US treasury secretary warns oil and gas companies to lower prices: ‘We’re watching’",
-        "summary": "Scott Bessent says he ‘encourages them to be good actors’ after Trump ranted about prices not dropping fast enoughScott Bessent, the US treasury secretary, issued a veiled warning to oil and gas companies to lower their prices on Tuesday, a day after Donald Trump berated those",
+        "title": "Trump refuses to renew US-Canada-Mexico trade pact he once championed",
+        "summary": "Trump and US officials opted to keep USMCA alive on short leash of annual reviews rather than longer term renewalDonald Trump has refused to renew the North American trade pact he once championed as his signature deal, opting instead to keep it alive on a short leash of annual reviews rather than committing to another 16 years.Wednesday wa",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/jun/30/scott-bessent-oil-gas-companies-prices-warning",
-        "seendate": "2026-06-30T15:25:40.000Z",
+        "url": "https://www.theguardian.com/us-news/2026/jul/01/trump-usmca-trade-treaty",
+        "seendate": "2026-07-01T20:09:01.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "NPR retracts ‘inaccurate’ story saying supreme court justice Samuel Alito retiring",
-        "summary": "Story from Nina Totenberg removed and replaced with editor’s note after journalist misheard announcement made by chief justiceThe US public broadcasting organization National Public Radio (NPR) on Tuesday took the unusual step of formally retracting a major news story, after it published what seemed like a bombshell scoop that the supreme court justice Samuel Alito was retiring.The story was written",
+        "title": "Crypto and stock stakes: key takeaways from Trump’s financial disclosures",
+        "summary": "US president raked in more than $1bn from crypto – an industry he has sought to deregulate – and a total of $2.2bn last year, files revealAlarm bells over conflict of interest as filing shows Trump raked in $2bn in 2025Donald Trump’s money-making ventures enriched him by more than $2bn<a h",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/media/2026/jun/30/npr-samuel-alito-supreme-court-story",
-        "seendate": "2026-06-30T21:18:34.000Z",
+        "url": "https://www.theguardian.com/us-news/2026/jul/01/crypto-ventures-stock-key-takeaways-trump-financial-disclosures",
+        "seendate": "2026-07-01T13:30:20.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Return of the ‘greybeards’: AI backfired – so Ford had to rehire humans",
-        "summary": "The US motor company found that the hundreds of AI cameras being used for design and manufacturing checks were prone to pitfallsName: “Greybeards.”Age: There’s a clue in the name. Continue reading...",
+        "title": "US labor board more likely to dismiss worker and union charges under Trump, analysis finds",
+        "summary": "Report points to staffing shortages, procedural changes and lack of a board quorum as contributing factorsDismissals of unfair labor practice charges have surged at the National Labor Relations Board under Donald Trump, according to a <a href=\"https://www.americanprogress.org/article/the-nlrb-is-throwing-out-charges-alleging-employers-engaged-in-",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/jun/30/ai-backfired-so-ford-had-to-rehire-humans-greybeard-engineers",
-        "seendate": "2026-06-30T15:04:58.000Z",
+        "url": "https://www.theguardian.com/us-news/2026/jul/01/trump-labor-board-dismissals",
+        "seendate": "2026-07-01T11:00:33.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "US supreme court rules Trump’s firing of Lisa Cook from Fed was unconstitutional",
-        "summary": "Justices find president does not have constitutional authority to fire Federal Reserve governor without causeUS supreme court decisions – live updates<a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS",
+        "title": "Rapid spread of AI may worsen global inequality, UN warns",
+        "summary": "Panel proses shared framework for responsible AI development as adoption grows unevenly across worldA new United Nations report warns that the development of artificial intelligence may exacerbate global inequality and proposes a shared framework for how to responsibly",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-trump-lisa-cook-ruling",
-        "seendate": "2026-06-29T14:20:22.000Z",
+        "url": "https://www.theguardian.com/technology/2026/jul/01/un-report-ai-inequality",
+        "seendate": "2026-07-01T19:17:11.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "US supreme court rules Trump can fire leaders of independent agencies",
-        "summary": "Case focused on White House’s March 2025 firing of Federal Trade Commission member Rebecca SlaughterSign up for the Breaking Ne",
+        "title": "US cooking oil market shrinking due to Ice pressures on Latino households, Mazola owner says",
+        "summary": "Economic squeeze and anti-immigration raids have hit Hispanic communities, prompting people to shop online and reuse oilBusiness live – latest updatesThe US cooking oil market is shrinking and unlikely to improve",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jun/29/us-supreme-court-ftc-ruling-slaughter",
-        "seendate": "2026-06-29T14:29:11.000Z",
+        "url": "https://www.theguardian.com/business/2026/jul/01/us-cooking-oil-market-shrinking-ice-pressures-latino-households-mazola-owner",
+        "seendate": "2026-07-01T12:52:57.000Z",
         "domain": "theguardian.com"
       }
     ],
     "literature": [
+      {
+        "title": "Short story accused of being AI-written wins overall Commonwealth prize",
+        "summary": "Jamir Nazir’s The Serpent in the Grove, which critics allege has ‘obvious markers’ of AI use, was described as ‘original, poetic and deeply moving’ by the judging chairA story widely accused on social media of being written using AI has gone on to win the overall Commonwealth short story prize.Jamir Nazir’s story The Serpent in the Grove went",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/jul/01/judges-claims-ai-use-commonwealth-short-story-prize-jamir-nazir",
+        "seendate": "2026-07-01T12:44:11.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Depraved by Daisy Dixon review – a history of dark and dangerous art",
+        "summary": "From classical painting to video games, this survey of the taboo and the twisted won’t let you look awayMuseums are damned if they do, damned if they don’t. Ignore the problems of the past and they’re criticised for being problematic. Rewrite their labels according to changing politics and they’re called preachy and woke. The&nbsp;fact is, history is filled with immoral art. But how do we know it when we se",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/jul/01/depraved-by-daisy-dixon-review-a-history-of-dark-and-dangerous-art",
+        "seendate": "2026-07-01T06:00:27.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "What we’re reading: writers and readers on the books they enjoyed in June",
         "summary": "Candice Carty-Williams, Patrick Freyne and Guardian readers discuss the titles they have read over the last month. Join the conversation in the commentsI just finished reading Wimmy Road Boyz by Sufiyaan Salam. I absolutely adored this book, a fantastic combination of violence and vulnerability set on Manchester’s Curry Mile. I became completely attached to the three main boys, and I loved",
@@ -152,194 +168,210 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/books/2026/jun/30/international-freak-by-m-syd-rosen-review-the-british-timothy-leary",
         "seendate": "2026-06-30T08:00:42.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Communion by JD Vance review – a strange, poignant book about faith and the modern world",
-        "summary": "JD Vance’s Christian vision is thoughtful – but impossible to square with the political company he keepsAt the heart of this strange, perhaps rather poignant, book is the biblical question: “What must I do to be saved?” Not in the crude sense of how to secure a place in heaven, but as an urgent challenge to a whole repertoire of destructive assumptions and habits endorsed by the majority culture. Vance’s fa",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jun/29/communion-finding-my-way-back-to-faith-by-jd-vance-review-veep-behnd-the-curtains",
-        "seendate": "2026-06-29T06:00:30.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Raveheart by Graeme Armstrong review – ravers rebel in a Scottish political satire",
-        "summary": "A veteran techno DJ embarks on a campaign of civil disobedience in this passionate and at times hilarious tale of underground resistanceMidway through his firecracker of a debut, 2020’s The Young Team, Graeme Armstrong hurls the reader into an exuberant account of a rave, from protagonist Azzy’s pre-party phar",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jun/29/raveheart-by-graeme-armstrong-review-ravers-rebel-in-a-scottish-political-satire",
-        "seendate": "2026-06-29T08:00:34.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "entertainment": [
       {
-        "title": "Skibidi Toilet Creator Lost In Escalating IP Fight",
-        "summary": "A new video investigation explores the Skibidi Toilet legal battle, copyright claims, and why fans are rallying behind creator DaFuq!?Boom.",
-        "source": "cartoonbrew.com",
-        "url": "https://www.cartoonbrew.com/law/skibidi-toilet-ip-battle-invisible-narratives-dafuqboom-263954.html",
-        "seendate": "20260630T193000Z",
-        "domain": "cartoonbrew.com"
+        "title": "Lethal Weapon star Danny Glover reveals Alzheimer’s diagnosis",
+        "summary": "The 79-year-old actor told media ‘I don’t feel like it’s the end of my life. There’s work to do. Your life continues’Lethal Weapon actor Danny Glover has revealed he has been living with Alzheimer’s for several years.Glover, 79, announced the news during an interview on The Today Show, during which he explained that he had been diagnosed “not long” after receiving an honorary Oscar in 2022. “I could",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/film/2026/jul/01/lethal-weapon-star-danny-glover-reveals-alzheimers-diagnosis",
+        "seendate": "2026-07-01T16:34:17.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "B - 52 Festival Set Canceled Minutes Before Tornado Hit Venue",
-        "summary": "The B-52s&#x27; equipment was destroyed during a storm at a music festival in France, forcing the band to cancel their performance.",
-        "source": "933theeagle.iheart.com",
-        "url": "https://933theeagle.iheart.com/content/2026-06-30-b-52s-festival-set-canceled-minutes-before-tornado-hit-venue/",
-        "seendate": "20260630T193000Z",
-        "domain": "933theeagle.iheart.com"
+        "title": "Sophomore slump: why is Netflix losing so many viewers for second seasons?",
+        "summary": "Hit shows such as Beef, The Four Seasons, Avatar: The Last Airbender and A Man on the Inside have suffered giant drops for their follow-up seasonsIf you haven’t seen the second season of Netflix’s Avatar: The Last Airbender, then at least you can console yourself that you’re not alone. Variety recently <a href=\"https://variety.com/2026/tv/news/avatar-t",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/jul/01/netflix-second-season-drop-in-viewers",
+        "seendate": "2026-07-01T13:47:57.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "New Gladiator rumoured to be joining BBC show is  revealed  ",
-        "summary": "Bodybuilder and fitness instructor Ahmad Rabus, 37, has been cast on the BBC show to replace Giant, according to reports.",
-        "source": "chelmsfordweeklynews.co.uk",
-        "url": "https://www.chelmsfordweeklynews.co.uk/news/national/uk-today/26242267.new-gladiator-rumoured-joining-bbc-show-revealed/",
-        "seendate": "20260630T193000Z",
-        "domain": "chelmsfordweeklynews.co.uk"
+        "title": "Victor Willis, frontman of Village People, dies age 74",
+        "summary": "The co-writer of enduring hits such as YMCA and Macho Man, who struggled with drug use and legal issues for years, passed away after ‘short but aggressive illness’Victor Willis, the lead singer of the Village People, has died age 74. The group shared the news in a statement: “Victor passed on Monday 30 June 2026 of a short but aggressive illness,” they said. “Privacy is requested.”The writer of what",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/music/2026/jul/01/victor-willis-frontman-of-village-people-dies-age-74",
+        "seendate": "2026-07-01T14:03:07.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Robin Byrd on Becoming a Broadcasting Legend , One Porn Star at a Time",
-        "summary": "Ahead of her upcoming HBO documentary Bang My Box: The Robin Byrd Story, the public access legend chatted about broadcast television, porn, and &#039;80s NYC.",
-        "source": "interviewmagazine.com",
-        "url": "https://www.interviewmagazine.com/film/robin-byrd-show-bang-my-box-documentary-hbo",
-        "seendate": "20260630T193000Z",
-        "domain": "interviewmagazine.com"
+        "title": "R&B star Chris Brown ordered to pay $13m to housekeeper mauled by his dog",
+        "summary": "California jury sides with Maria Avila over 2020 attack that left her requiring skin graftsR&amp;B star Chris Brown has been ordered to pay $12.9m in damages to a housekeeper who was mauled by a dog at one of his properties.Maria Avila was working at Brown’s house in Tarzana, California, in 2020 when she was attacked by Hades, a Caucasian shepherd used as a guard dog. At the trial in Van Nuys, Califo",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/music/2026/jul/01/rb-star-chris-brown-ordered-to-pay-13m-to-housekeeper-mauled-by-his-dog",
+        "seendate": "2026-07-01T10:12:52.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Cars , Karaoke , Fireworks & Fun Take Over Humboldt This July 4th",
-        "summary": "Celebrate Independence Day in Humboldt with a weekend packed with music, a vendor fair, kids&#x27; activities, a car show, and a festive parade, wrapping up with fireworks lighting up the summer sky.",
-        "source": "973kkrc.com",
-        "url": "https://973kkrc.com/humboldt-main-street-days/",
-        "seendate": "20260630T193000Z",
-        "domain": "973kkrc.com"
+        "title": "Spielberg’s Disclosure Day is making some wonder: will we have real disclosure soon? | Seth Shostak",
+        "summary": "The short answer is that there’s nothing to disclose. But that doesn’t mean we won’t make contact with extraterrestrial lifeEven before Stephen Spielberg’s latest film, Disclosure Day, began unspooling at local multiplexes, the internet was debating whether we would ever experience a real-life disclosure day – when the US government admits that it’s aware of aliens here on Earth, a secret it has supposedly",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/commentisfree/2026/jul/01/stephen-spielberg-disclosure-day-aliens-extraterrestrial",
+        "seendate": "2026-07-01T10:00:33.000Z",
+        "domain": "theguardian.com"
       }
     ],
     "f1": [
       {
-        "title": "McLaren launches Google Gemini livery for F1 British GP",
-        "summary": "McLaren has launched a one-off Google Gemini Formula 1 livery to be used for its home event this weekend at the British Grand Prix.The Woking outfit will race in a predominantly chrome colour scheme at Silverstone as part of its ongoing partnership with Google from 2022.It also takes inspiration from the livery of the McLaren M2B, which was the team’s debut car at the 1966 Monaco Grand ...<a class='m",
+        "title": "‘Having Max Verstappen in the car cheaper than improving it’ - Bernie Ecclestone on F1 star’s future",
+        "summary": "Max Verstappen’s future in Formula 1 is a hot topic in the paddock at present, as rumours swirl about a possible move to McLaren, the prospect of another year at Red Bull, and even an exit off the back of his disdain for the 2026 regulations.Now, former F1 boss Bernie Ecclestone has waded into the debate and called on the Dutchman to move to Ferrari.Ecclestone was at the helm of the ...<a class='more",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/mclaren-launched-google-gemini-livery-for-f1-british-gp/10835158/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-06-30T16:05:27.000Z",
+        "url": "https://www.motorsport.com/f1/news/having-max-verstappen-in-the-car-cheaper-than-improving-it-bernie-ecclestone-on-the-f1-stars-future/10835364/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-01T16:39:06.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Valtteri Bottas calls for Cadillac reliability fixes: 'We can't learn if we don't finish'",
-        "summary": "Valtteri Bottas says Cadillac must improve its poor Formula 1 reliability record after both he and Sergio Perez retired early from the Austrian Grand Prix with brake fires.The Spielberg race continued a trend as Cadillac suffered a spate of reliability issues and operational errors, with Perez thwarted on Friday by electrical gremlins while Bottas' front floor tray caught fire due to a build ...<a class=",
+        "title": "McLaren searching for answers behind losses to Mercedes on straights, despite same F1 power unit",
+        "summary": "McLaren Formula 1 team principal Andrea Stella says that the team will investigate why it is losing around \"one-and-a-half tenths\" to Mercedes in the straights, despite running with a common power unit.Explaining where the MCL40 is currently stacked against the current championship-leading W17, Stella estimates that the gap between the two cars is around three-to-four tenths per lap, with ...<a class='mo",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/valtteri-bottas-calls-for-cadillac-reliability-fixes-we-cant-learn-if-we-dont-finish/10835114/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-06-30T15:11:14.000Z",
+        "url": "https://www.motorsport.com/f1/news/mclaren-still-to-investigate-why-its-losing-to-mercedes-on-the-straights-despite-same-pu/10835296/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-01T15:00:03.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Toto Wolff: Kimi Antonelli’s mistakes in Austrian GP will never happen again",
-        "summary": "Mercedes Formula 1 team principal Toto Wolff says Kimi Antonelli will never make the same mistakes again, which lost him a better shot at Austrian Grand Prix victory.The Italian saw his world championship lead trimmed to 40 points following George Russell’s win at the Red Bull Ring, as he controlled proceedings from pole position, holding off a late attack from Max Verstappen as Antonelli ...<a class='mo",
+        "title": "Cadillac marks 250 years of American independence with British GP livery",
+        "summary": "The Cadillac Formula 1 team has unveiled a special livery to mark 250 years of American independence, which it will run at the British Grand Prix this weekend.Cadillac, which made its F1 debut this season at the Australian Grand Prix, will swap its signature monochrome look for the stars and stripes when it takes to the Silverstone circuit this weekend. It follows similar special liveries from ...<a clas",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/toto-wolff-kimi-antonellis-mistakes-in-austrian-gp-will-never-happen-again/10834921/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-06-30T14:09:33.000Z",
+        "url": "https://www.motorsport.com/f1/news/cadillac-marks-250-years-of-american-independence-with-british-gp-livery/10835349/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-01T14:49:19.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Max Verstappen's F1 future: Are McLaren talks serious, or a way to put pressure on Red Bull?",
-        "summary": "Max Verstappen is still under contract with Red Bull until the end of 2028, but just like a year ago, his future remains one of the main talking points in the Formula 1 paddock.At the start of this year, the main question was whether the Dutchman would even remain in F1 because of his dissatisfaction with the technical regulations. However, because of the step-by-step adjustments towards a ...<a class='m",
+        "title": "Five things to look out for at the F1 British GP",
+        "summary": "Formula 1 enjoyed an afternoon of chaotic racing last time out in Austria, and Silverstone could be the perfect site for a repeat performance this weekend.The British Grand Prix weekend hosts a sprint race on Saturday, so teams will have just a single practice session at the historic track in which they must dial in their setups to try and extract the best lap time possible.This, coupled ...<a class=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/max-verstappens-f1-future-are-mclaren-talks-serious-or-a-way-to-put-pressure-on-red-bull/10835109/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-06-30T13:15:30.000Z",
+        "url": "https://www.motorsport.com/f1/news/five-things-to-look-out-for-at-the-f1-british-gp/10835307/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-01T13:00:02.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "\"Perfectionist\" Russell has a psychological edge over Antonelli, says his former boss",
-        "summary": "The 2026 Austrian Grand Prix was one of those races where either of the second or third-place finishers could have won, but the victorious driver – Mercedes' George Russell – was the one who best resisted the pressure at the crucial point.He remains behind team-mate Kimi Antonelli, the championship leader, but moved up to second place in the standings and narrowed the gap on a day when ...<a class='more'",
+        "title": "Oliver Bearman warns Haas risks being outdeveloped in F1 2026",
+        "summary": "Oliver Bearman warned that his Haas Formula 1 team could lose out to its rivals if it doesn't speed up its rate of development after he finished 14th and out of the points in Austria.Bearman had a strong start to his second year in Formula 1, making the most of his Haas VF-26 to pick up points in the first two rounds of the year in Australia and China. However, in the six rounds since, the ...<a class='m",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/perfectionist-russell-has-a-psychological-edge-over-antonelli-says-his-former-boss/10834930/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-06-30T11:01:14.000Z",
+        "url": "https://www.motorsport.com/f1/news/oliver-bearman-warns-haas-risks-being-outdeveloped-in-f1-2026/10835276/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-01T11:45:03.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "Steam is getting a jockey simulator next month that reimagines umamusume as normal horses",
-        "summary": "It's an unconventional idea, but I'm willing to withhold judgement.",
+        "title": "July is a little light on the big new game releases, but your co-op horror Discord gang will be feastin'",
+        "summary": "If you've ever wanted to run a haunted business into the ground with your friends, I have good news.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/sports/steam-is-getting-a-jockey-simulator-next-month-that-reimagines-umamusume-as-normal-horses/",
-        "seendate": "2026-06-30T21:24:33.000Z",
+        "url": "https://www.pcgamer.com/games/pc-game-release-dates-july-2026/",
+        "seendate": "2026-07-01T23:50:21.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Fresh off of dumping on Xbox's flailing, former Sony exec says PlayStation's pullback from PC releases doesn't make any sense either",
-        "summary": "Shawn Layden is a man with opinions, and now that he's out of the game he doesn't mind sharing them.",
+        "title": "'They refuse to offer a meaningful alternative': Game preservation leader agrees that piracy is the only preservation option for a discless future",
+        "summary": "The future of preservation is, as usual, on the PC.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/fresh-off-of-dumping-on-xboxs-flailing-former-sony-exec-says-playstations-pullback-from-pc-releases-doesnt-make-any-sense-either/",
-        "seendate": "2026-06-30T20:30:33.000Z",
+        "url": "https://www.pcgamer.com/gaming-industry/they-refuse-to-offer-a-meaningful-alternative-game-preservation-leader-agrees-that-piracy-is-the-only-preservation-option-for-a-discless-future/",
+        "seendate": "2026-07-01T22:40:23.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Ahead of next week's expected Xbox bloodbath, IO Interactive loses funding for its online fantasy RPG",
-        "summary": "The studio says it remains \"100% committed\" to Project Fantasy, but its future is now very uncertain.",
+        "title": "Reinstated Subnautica 2 studio CEO immediately peaces out after Krafton agrees to pay the developer bonuses it went to court to avoid",
+        "summary": "The publisher's ChatGPT advisor could not be reached for comment.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/ahead-of-next-weeks-expected-xbox-bloodbath-io-interactive-loses-funding-for-its-online-fantasy-rpg/",
-        "seendate": "2026-06-30T18:15:27.000Z",
+        "url": "https://www.pcgamer.com/gaming-industry/reinstated-subnautica-2-studio-ceo-immediately-peaces-out-after-krafton-agrees-to-pay-the-developer-bonuses-it-went-to-court-to-avoid/",
+        "seendate": "2026-07-01T17:50:10.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Open source game engine Godot will no longer accept AI-authored code contributions: 'We can't trust heavy users of AI to understand their code enough to fix it'",
-        "summary": "At risk of drowning in AI slop code, Godot is firming up its contribution requirements.",
+        "title": "Former Unreal Engine director retires after 15 years at Epic",
+        "summary": "Nicholas Penwarden joins Sjoerd De Jong at the Dunrealin' retirement home.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
-        "seendate": "2026-06-30T17:36:09.000Z",
+        "url": "https://www.pcgamer.com/gaming-industry/former-unreal-engine-director-retires-after-15-years-at-epic/",
+        "seendate": "2026-07-01T17:05:12.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Before his death in 2025, Half-Life 2 art director Viktor Antonov worked on one last game: A Wild West FPS soulslike that's 'coming soon' to Steam",
-        "summary": "Antonov's bold vision helped define games including Half-Life 2, Dishonored, Weird West, and soon, Guns of Eschaton.",
+        "title": "Dragon Age setting creator says AI push is a delusion of the executive class that's a 'virulent plague' on games",
+        "summary": "\"Honestly, what does it help with?\"",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/fps/before-his-death-in-2025-half-life-2-art-director-viktor-antonov-worked-on-one-last-game-a-wild-west-fps-roguelike-thats-coming-soon-to-steam/",
-        "seendate": "2026-06-30T16:46:18.000Z",
+        "url": "https://www.pcgamer.com/software/ai/dragon-age-setting-creator-says-ai-push-is-a-delusion-of-the-executive-class-thats-a-virulent-plague-on-games/",
+        "seendate": "2026-07-01T16:14:21.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
       {
-        "title": "As wildfires worsen , Trump administration revives discredited policy to stomp out all fires quickly",
-        "summary": "The deaths of three firefighters in Colorado are casting a spotlight on the Trump administration&rsquo;s creation of a new federal fire agency and its revival of a previously discredited policy",
-        "source": "idahopress.com",
-        "url": "http://www.idahopress.com/ap_news/us/as-wildfires-worsen-trump-administration-revives-discredited-policy-to-stomp-out-all-fires-quickly/article_d0c67386-27eb-58f1-84e2-79a01f5ec410.html",
-        "seendate": "20260630T193000Z",
-        "domain": "idahopress.com"
+        "title": "Anthropic says US has lifted export controls on Fable and Mythos AI models after security fears",
+        "summary": "AI company was forced last month to suspend access to its Fable 5 and Mythos 5 models for all foreign nationalsBusiness live – latest updatesAnthropic has restored customer access to its powerful newest AI model,",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/jul/01/anthropic-fable-mythos-ai-models-us-export-controls-lifted",
+        "seendate": "2026-07-01T10:07:20.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Why The Smith Machine Has Become Popular For Muscle - Building Workouts",
-        "summary": "The long-derided gym gear is being embraced by fitness pros for a simple reason.",
-        "source": "menshealth.com",
-        "url": "https://www.menshealth.com/fitness/a71729189/smith-machine-muscle-building-exercises/",
-        "seendate": "20260630T193000Z",
-        "domain": "menshealth.com"
+        "title": "Rapid spread of AI may worsen global inequality, UN warns",
+        "summary": "Panel proses shared framework for responsible AI development as adoption grows unevenly across worldA new United Nations report warns that the development of artificial intelligence may exacerbate global inequality and proposes a shared framework for how to responsibly",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/jul/01/un-report-ai-inequality",
+        "seendate": "2026-07-01T19:17:11.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Initiatives To Bridge The Digital Divide For Small Business",
-        "summary": "Nourish + Bloom Market exemplifies the way small businesses can harness technology to address community needs, and how industry partners such as AT&T can support them.",
-        "source": "forbes.com",
-        "url": "https://www.forbes.com/sites/dawnthilmany/2026/06/30/initiatives-to-bridge-the-digital-divide-for-small-business/",
-        "seendate": "20260630T193000Z",
-        "domain": "forbes.com"
+        "title": "UK watchdog plans to break Apple and Google’s ‘effective duopoly’ on mobile app stores",
+        "summary": "CMA says developers should be able to steer users away from app stores for payments to increase competitionBusiness live – latest updatesThe UK’s competition",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/business/2026/jun/30/uk-apple-google-mobile-app-stores-developers-payment-cma",
+        "seendate": "2026-06-30T14:32:03.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "US citizen arrested in Israel for allegedly spying for Iran",
-        "summary": "Israeli police arrested a U.S. citizen living in the country on June 9 over allegations of spying for Iranian intelligence.",
-        "source": "washingtonexaminer.com",
-        "url": "https://www.washingtonexaminer.com/news/world/4630590/us-citizen-arrested-israel-allegedly-spying-iran/",
-        "seendate": "20260630T193000Z",
-        "domain": "washingtonexaminer.com"
+        "title": "Frequent AI chatbot users more likely to believe anti-vaccine myths, poll finds",
+        "summary": "Poll finds use of AI tools for health advice is correlated with belief in vaccine falsehoods, such as shots causing autismAdults in the US who frequently seek out health advice from artificial intelligence chatbots are more likely to believe myths about vaccines, according to a poll released on Tuesday by health research firm KFF.The survey, which was conducted in May and polled a representative samp",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/jun/30/ai-chatbot-use-anti-vaccine-myths-poll",
+        "seendate": "2026-06-30T19:51:07.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "New BMW iX5 Blows Competition Out With 460 kW Charging , 435 Miles Of Range",
-        "summary": "",
-        "source": "insideevs.com",
-        "url": "https://insideevs.com:443/news/800125/bmw-ix5-neue-klasse-ev-electric-suv/",
-        "seendate": "20260630T193000Z",
-        "domain": "insideevs.com"
+        "title": "Alarm bells over conflict of interest as filing shows Trump raked in $2bn in 2025",
+        "summary": "Crypto ventures eclipse much of property portfolio, with revenue also coming from Trump-branded productsTrump accused of ‘disgusting’ crypto greed after earning over $1bn since return to office<a href=\"https://www.theguardian.com/us-news/live/2026/jul/01/donald-trump-cryptoc",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/jun/30/trump-1bn-crypto-businesses-2025",
+        "seendate": "2026-07-01T11:04:57.000Z",
+        "domain": "theguardian.com"
       }
     ],
     "climate": [
+      {
+        "title": "Scientists fear seabird die-off as El Niño looms: ‘We don’t know how bad this will get’",
+        "summary": "Many seabirds are starving to death as a marine heat wave lingers off California and fish seek deeper, cooler watersWithin minutes of walking on a San Diego beach, marine ornithologist Tammy Russell found the feathered carcasses – one after another.Some were mixed in with washed up kelp. Others were under rocks. Continue",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/jul/01/el-nino-birds-california",
+        "seendate": "2026-07-01T19:37:09.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "New Orleans residents on warning to abandon sinking city: ‘Nobody wants to leave home’",
+        "summary": "After a recent study found New Orleans is at a ‘point of no return’ amid the climate crisis, some locals say they will ‘only leave if forced to’. But what would it take to stay?When a study in May concluded that New Orleans has hit a “point of no return” due to the climate crisis</a",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/jul/01/new-orleans-relocation-reactions-climate",
+        "seendate": "2026-07-01T12:00:37.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Trump to attend opening of Roosevelt library amid overturning conservation efforts",
+        "summary": "Theodore Roosevelt protected swathes of land, while Trump has lifted protections from more than 86m acresDonald Trump will attend a ribbon cutting for the new Theodore Roosevelt Presidential Library on Wednesday, touting the legacy of a president his own administration is attempting to destroy, critics say.While in office from 1901 to 1909, Roosevelt established five new national parks, protected swa",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/jul/01/trump-roosevelt-library-opening",
+        "seendate": "2026-07-01T11:30:34.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "What is the United States of America now? | Rebecca Solnit",
+        "summary": "The United States of America is … so many things, horrific and magnificent, good and evil, promising and cursedThe United States of America is a truck that has driven into a ditch. The United States of America is a program that has been hacked. The United States of America is … so many things, horrific and magnificent, good and evil, promising and cursed, as it approaches its quarter-millennium mark. I say",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/commentisfree/2026/jul/01/what-is-the-united-states-of-america-now",
+        "seendate": "2026-07-01T10:00:33.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "World Cup matches played in potentially dangerous heat as players’ union makes climate warning",
         "summary": "Nine of the group stage games played in severe heat, analysis finds, as union points to lessons for the whole sportNine matches in the World Cup group stage were played amid potentially dangerous heat and humidity, a Guardian analysis shows, as the global players’ union Fifpro warned that heat would have to “play a bigger part” in the spo",
@@ -347,44 +379,36 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/us-news/2026/jun/30/world-cup-matches-extreme-heat",
         "seendate": "2026-06-30T16:00:10.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Trump administration targets California coastal agency in escalation of energy production fight",
-        "summary": "US commerce department accuses state of ‘environmental terrorism’ and plans to evaluate its coastal agencyThe Trump administration plans to evaluate the performance of the California Coastal Commission, in the latest escalation of a dispute between the state’s Democratic leader",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jun/29/california-trump-administration-energy-production",
-        "seendate": "2026-06-29T12:00:44.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Five Americans die every hour from toxic vehicle emissions, study finds",
-        "summary": "Research suggests 41,800 premature US deaths in 2024 were attributable to road pollutionRoughly five Americans die every hour due to exposure to toxic road vehicle pollution, a new study has found.It’s the latest warning showing fossil-fueled transit is a major driver of mortality. <a href=\"https://www.theguardian.com/us-news/2026/ju",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jun/29/deaths-vehicle-emissions-pollution",
-        "seendate": "2026-06-29T10:00:42.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Heatwave and high humidity to blast much of US: ‘impactful to anyone’",
-        "summary": "Forecasters expect days of high temperatures in central and eastern US before Fourth of July and World Cup festivitiesA long and dangerous heatwave will blast a large swath of the central and eastern United States for the upcoming week, the National Weather Service (NWS) said on Sunday – with temperatures rising ahead of the Fourth of July h",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jun/28/heatwave-humidity-fourth-of-july-weather",
-        "seendate": "2026-06-28T20:53:29.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Appeals court rejects Trump EPA bid to abandon rule restricting deadly soot pollution",
-        "summary": "Decision leaves in place Biden-era standard on pollution from coal-fired plants, factories and other industrial sourcesA federal appeals court on Friday rejected the Environmental Protection Agency’s attempt to abandon a Biden-era rule that sets tough standards for deadly soot pollution.<",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/2026/jun/27/trump-epa-court-ruling-soot-pollution",
-        "seendate": "2026-06-27T14:29:32.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "science": [
       {
+        "title": "‘Beautiful blobs’: synthetic life a step closer as scientists make cells using lab-made DNA",
+        "summary": "Tiny, quivering spheres designed to feed and multiply raise prospect of artificial organisms to make drugs, food and fuelResearchers claim they are closer to creating life from scratch after building tiny, quivering blobs that use lab-made DNA to feed, grow and multiply in a dish.The synthetic cells were made from chemical compounds and are believed to be the first to demonstrate the complete cell cy",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/jul/01/synthetic-life-lab-made-dna-spudcells-scientists",
+        "seendate": "2026-07-01T14:00:38.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "‘Happy vowel’ is a key indicator of social class in Manchester accents, study finds",
+        "summary": "Final vowel in words such as happy, baby and chilly varies clearly by social class across the city Pronunciation of the “happy vowel” is one of the key indicators of social class in Mancunian accents, researchers have found.A sociolinguistic study, by Lancaster University and the University of Manchester, found that the final vowel in words such as happy, baby, chilly and city – known to linguists as",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/uk-news/2026/jul/01/happy-vowel-key-indicator-social-class-manchester-accents-study",
+        "seendate": "2026-07-01T07:00:28.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "People with strong chest and back less likely to have a heart attack, analysis suggests",
+        "summary": "Researchers think people with greater muscle density in torso area, who are also less likely to die prematurely, are those who exercise morePeople with strong chest and back muscles are less likely to have a heart attack or die prematurely, analysis using artificial intelligence suggests.Researchers led by the University of Edinburgh used AI to examine hospital scans of 1,722 patients, aged mostly in",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/jun/30/strong-chest-back-less-likely-heart-attack-analysis",
+        "seendate": "2026-06-30T14:00:08.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Tiny Antarctic sea creature could be key to treating melanoma, researchers say",
-        "summary": "Underwater expedition by Florida-based team supports possible therapeutic use of bacterial toxins from sea squirtsResearchers at a Florida university say bacterial toxins produced by tiny marine organisms they have studied in Antarctica could become an effective treatment for melanoma, the deadliest form of skin cancer.A team from the University of South Florida (USF) recently returned from a six-wee",
+        "summary": "Underwater expedition by Florida-based team supports possible therapeutic use of bacterial toxins from sea squirtsResearchers at a Florida university say bacterial toxins produced by tiny marine organisms they have studied in Antarctica could become an effective treatment for melanoma, the deadliest form of skin cancer.A team from the University of South Florida (USF), Desert Research Institute (DRI)",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/science/2026/jun/29/sea-squirt-melanoma-treatment-research",
         "seendate": "2026-06-29T12:00:43.000Z",
@@ -396,30 +420,6 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/science/audio/2026/jun/30/reflecting-pool-algae-science-trump-podcast",
         "seendate": "2026-06-30T04:00:39.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "What if doing more isn’t always the answer?",
-        "summary": "It’s tempting to treat overwhelm with clever fixes – but that might be part of the problemAccording to my Instagram feed, I am not doing enough. Not spending enough, not saying enough, not taking enough care. I feel more sure of this than anything. And it’s bringing out an irrationality I’m not proud of: one afternoon, in between screengrabs of masked men snatching civilians from their homes, videos of well",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/jun/28/what-if-doing-more-isnt-always-the-answer",
-        "seendate": "2026-06-28T11:00:12.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "‘Chock full of incredible animals’: marine expedition uncovers 31 new species in two weeks",
-        "summary": "Experts worked in ocean midwater off Brazil at near-record speeds thanks to cutting-edge techA marine biology expedition in international waters off the coast of Brazil has discovered 31 new species in just two weeks.The researchers believe the speed at which the species were found and identified may be a record, in part because of the cutting-edge technology designed and built by the science and eng",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/2026/jun/26/marine-expedition-uncovers-31-new-species-two-weeks-brazil",
-        "seendate": "2026-06-26T11:06:37.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "A little bird told her: scientist wins $100,000 prize for decoding birdsong",
-        "summary": "Julie Elie worked out how zebra finches announce who they are, what they are doing and use individual signaturesA scientist who decoded the vocalisations that a bird uses to communicate has won a $100,000 prize for making progress towards a world in which humans can talk to the animals – without being met with a blank response.Dr Julie Elie at the University of California, Berkeley, was awarded the 2",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/jun/26/human-animal-communication-step-closer-scientist-wins-prize-for-decoding-birdsong",
-        "seendate": "2026-06-26T06:53:54.000Z",
         "domain": "theguardian.com"
       }
     ]
