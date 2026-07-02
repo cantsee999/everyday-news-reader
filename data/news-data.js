@@ -1,8 +1,24 @@
 window.NEWS_CACHE = {
-  "generatedAt": "2026-07-02T00:00:52.983Z",
+  "generatedAt": "2026-07-02T23:54:17.870Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
+      {
+        "title": "Côte d’Ivoire floods kill 59 as west Africa endures torrential rains",
+        "summary": "Authorities say rainy season getting deadlier, with Ghana reporting 13 dead and floods hitting Benin, Togo and NigeriaFloods in Côte d’Ivoire have killed 59 people since May, the communication minister told a cabinet meeting in Abidjan.There are fears the toll could further rise as rescue teams continue to search for victims during the rainy season, which runs from May until July, the minister, Amado",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/jul/02/cote-d-ivoire-floods-dead-west-africa-rains",
+        "seendate": "2026-07-02T11:01:32.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Understanding Ebola’s wildlife origins is crucial to preventing next big outbreak",
+        "summary": "If we don’t know the source, not only do humans remain at risk but wildlife can suffer needlessly via retaliationWhile virologists and public health departments were palpitating over the news of an Andes virus infectious disease outbreak on a cruise ship (13 cases, three deaths), in the D",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/environment/2026/jul/02/understanding-ebola-wildlife-origins-crucial-preventing-next-big-outbreak",
+        "seendate": "2026-07-02T09:00:00.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Sudan’s RSF committed crimes against humanity in El Fasher, Amnesty says",
         "summary": "Report accuses paramilitary force of crimes including ethnic cleansing in systemic campaign against civiliansThe Sudanese paramilitary Rapid Support Forces committed crimes against humanity and ethnic cleansing during its campaign to capture El Fasher, Amnesty International has alleged.Many of the crimes, including murder, torture, rape, enslavement and sexual slavery, were carried out as part of a w",
@@ -25,27 +41,27 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/world/2026/jun/30/they-will-attack-me-if-i-stay-immigrants-in-south-africa-flee-for-safety-amid-violence-and-anti-foreigner-protests",
         "seendate": "2026-06-30T16:43:32.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Police units deployed across South Africa before anti-immigration marches",
-        "summary": "Government fears repeat of anti-migrant violence in 2008 that led to looting and resulted in deaths of 62 peopleSouth African authorities have deployed police units to towns and cities around the country before planned demonstrations against undocumented foreign nationals.Security",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/jun/30/south-africa-police-anti-immigrant-protests",
-        "seendate": "2026-06-30T10:20:52.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "‘Everyone is talking about Cape Verde’: World Cup run delights diaspora community in UK",
-        "summary": "Cape Verdeans in Britain feeling ‘incredibly proud’ after team’s hard-fought draws against Spain and UruguayWorld Cup live – latest updatesFor as long as she can remember, 13-year-old Lauryn struggled",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/jun/26/cape-verde-world-cup-run-delights-diaspora-community-uk",
-        "seendate": "2026-06-26T12:03:25.000Z",
         "domain": "theguardian.com"
       }
     ],
     "conflict": [
       {
+        "title": "Côte d’Ivoire floods kill 59 as west Africa endures torrential rains",
+        "summary": "Authorities say rainy season getting deadlier, with Ghana reporting 13 dead and floods hitting Benin, Togo and NigeriaFloods in Côte d’Ivoire have killed 59 people since May, the communication minister told a cabinet meeting in Abidjan.There are fears the toll could further rise as rescue teams continue to search for victims during the rainy season, which runs from May until July, the minister, Amado",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/jul/02/cote-d-ivoire-floods-dead-west-africa-rains",
+        "seendate": "2026-07-02T11:01:32.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Understanding Ebola’s wildlife origins is crucial to preventing next big outbreak",
+        "summary": "If we don’t know the source, not only do humans remain at risk but wildlife can suffer needlessly via retaliationWhile virologists and public health departments were palpitating over the news of an Andes virus infectious disease outbreak on a cruise ship (13 cases, three deaths), in the D",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/environment/2026/jul/02/understanding-ebola-wildlife-origins-crucial-preventing-next-big-outbreak",
+        "seendate": "2026-07-02T09:00:00.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Sudan’s RSF committed crimes against humanity in El Fasher, Amnesty says",
         "summary": "Report accuses paramilitary force of crimes including ethnic cleansing in systemic campaign against civiliansThe Sudanese paramilitary Rapid Support Forces committed crimes against humanity and ethnic cleansing during its campaign to capture El Fasher, Amnesty International has alleged.Many of the crimes, including murder, torture, rape, enslavement and sexual slavery, were carried out as part of a w",
         "source": "theguardian.com",
@@ -68,31 +84,31 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/world/2026/jun/30/they-will-attack-me-if-i-stay-immigrants-in-south-africa-flee-for-safety-amid-violence-and-anti-foreigner-protests",
         "seendate": "2026-06-30T16:43:32.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Police units deployed across South Africa before anti-immigration marches",
-        "summary": "Government fears repeat of anti-migrant violence in 2008 that led to looting and resulted in deaths of 62 peopleSouth African authorities have deployed police units to towns and cities around the country before planned demonstrations against undocumented foreign nationals.Security",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/jun/30/south-africa-police-anti-immigrant-protests",
-        "seendate": "2026-06-30T10:20:52.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "‘Everyone is talking about Cape Verde’: World Cup run delights diaspora community in UK",
-        "summary": "Cape Verdeans in Britain feeling ‘incredibly proud’ after team’s hard-fought draws against Spain and UruguayWorld Cup live – latest updatesFor as long as she can remember, 13-year-old Lauryn struggled",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/jun/26/cape-verde-world-cup-run-delights-diaspora-community-uk",
-        "seendate": "2026-06-26T12:03:25.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "economy": [
+      {
+        "title": "US employers added just 57,000 new jobs in June, lower than expected",
+        "summary": "The country’s unemployment rate dropped slightly to 4.2% as US job growth also slowed for the monthSign up for the Breaking New",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/business/2026/jul/02/us-job-growth-slowed-june",
+        "seendate": "2026-07-02T13:21:35.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Trump refuses to renew US-Canada-Mexico trade pact he once championed",
         "summary": "Trump and US officials opted to keep USMCA alive on short leash of annual reviews rather than longer term renewalDonald Trump has refused to renew the North American trade pact he once championed as his signature deal, opting instead to keep it alive on a short leash of annual reviews rather than committing to another 16 years.Wednesday wa",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/us-news/2026/jul/01/trump-usmca-trade-treaty",
         "seendate": "2026-07-01T20:09:01.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Tesla sales surpass expectations for second quarter as Musk backlash seems to cool",
+        "summary": "Strong figures suggest Tesla’s auto business is regaining momentum after two straight annual sales declinesTesla blew past ​Wall Street estimates for second-quarter deliveries on Thursday, posting a record for the period as recovering demand in Europe outweighed persistent weakness in North America.The strong figures suggest Tesla’s ⁠mainstay auto business is regaining momentum after two straight ann",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/jul/02/tesla-sales-second-quarter",
+        "seendate": "2026-07-02T15:23:11.000Z",
         "domain": "theguardian.com"
       },
       {
@@ -110,25 +126,25 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/us-news/2026/jul/01/trump-labor-board-dismissals",
         "seendate": "2026-07-01T11:00:33.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Rapid spread of AI may worsen global inequality, UN warns",
-        "summary": "Panel proses shared framework for responsible AI development as adoption grows unevenly across worldA new United Nations report warns that the development of artificial intelligence may exacerbate global inequality and proposes a shared framework for how to responsibly",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/jul/01/un-report-ai-inequality",
-        "seendate": "2026-07-01T19:17:11.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "US cooking oil market shrinking due to Ice pressures on Latino households, Mazola owner says",
-        "summary": "Economic squeeze and anti-immigration raids have hit Hispanic communities, prompting people to shop online and reuse oilBusiness live – latest updatesThe US cooking oil market is shrinking and unlikely to improve",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/jul/01/us-cooking-oil-market-shrinking-ice-pressures-latino-households-mazola-owner",
-        "seendate": "2026-07-01T12:52:57.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "literature": [
+      {
+        "title": "Long Wave By Daisy Johnson review – a sublime novel of motherhood and loss",
+        "summary": "Covering three generations, this tangled story of secrets, childhood, abandonment and care might be her best work yetIn 2018 Daisy Johnson was the youngest writer ever to be shortlisted for the Booker prize, for her debut novel Everything Under, a&nbsp;gender-fluid reimagining of the Oedipus",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/jul/02/long-wave-by-daisy-johnson-review-a-sublime-novel-of-motherhood-and-loss",
+        "seendate": "2026-07-02T09:48:02.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Honey by Imani Thompson audiobook review – a darkly entertaining campus thriller",
+        "summary": "Racial and gender politics are woven into a clever tale of murder and morals at CambridgeYrsa is a young Black undergraduate supervisor who is studying for a sociology PhD at Cambridge. She is tired of the disappointing men in her orbit: the ones she works with, sleeps with and who abuse her trust and that of her friends. She is also heartily sick of the students who attend her lectures and “the mix of bore",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/jul/02/honey-by-imani-thompson-audiobook-review-a-darkly-entertaining-campus-thriller",
+        "seendate": "2026-07-02T14:00:02.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Short story accused of being AI-written wins overall Commonwealth prize",
         "summary": "Jamir Nazir’s The Serpent in the Grove, which critics allege has ‘obvious markers’ of AI use, was described as ‘original, poetic and deeply moving’ by the judging chairA story widely accused on social media of being written using AI has gone on to win the overall Commonwealth short story prize.Jamir Nazir’s story The Serpent in the Grove went",
@@ -152,158 +168,142 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/books/2026/jun/30/what-were-reading-writers-and-readers-on-the-books-they-enjoyed-in-june-candice-carty-williams",
         "seendate": "2026-06-30T18:24:40.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Queenie Is Working On It by Candice Carty-Williams review – a smart sequel to a breakout bestseller",
-        "summary": "Queenie’s ticking biological clock drives her chaotic misadventures in this sage and funny follow-upA gynaecological examination is a&nbsp;good analogy for the kind of painful self-inspection at which Queenie Jenkins excels. The heroine of Candice Carty-Williams’s 2019 debut Queenie memorably begins that novel",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jun/30/queenie-is-working-on-it-by-candice-carty-williams-review-a-smart-sequel-to-a-breakout-bestseller",
-        "seendate": "2026-06-30T06:00:42.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "International Freak by M Syd Rosen review – the British Timothy Leary",
-        "summary": "Robin Farquharson was a prize-winning game theorist, anti-apartheid activist and countercultural chaos merchantEven as an undergraduate, Robin Farquharson was famous for being erratic. He provoked anxiety and goodwill in equal measure. His aim in life, according to&nbsp;an anonymous writer in an Oxford student&nbsp;newspaper, was “to become a&nbsp;contradiction in terms. Since last October, he has been cutt",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jun/30/international-freak-by-m-syd-rosen-review-the-british-timothy-leary",
-        "seendate": "2026-06-30T08:00:42.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "entertainment": [
       {
-        "title": "Lethal Weapon star Danny Glover reveals Alzheimer’s diagnosis",
-        "summary": "The 79-year-old actor told media ‘I don’t feel like it’s the end of my life. There’s work to do. Your life continues’Lethal Weapon actor Danny Glover has revealed he has been living with Alzheimer’s for several years.Glover, 79, announced the news during an interview on The Today Show, during which he explained that he had been diagnosed “not long” after receiving an honorary Oscar in 2022. “I could",
+        "title": "‘Something is up’: New York prepares for wedding of the century amid Taylor Swift and Travis Kelce rumors",
+        "summary": "Swifties braved a heatwave on Thursday in New York to get a glimpse of preparations at Madison Square GardenOn the streets of New York City, cars are honking, trucks are unloading and wedding bells are ringing. After nearly a year of breathless speculation, Taylor Swift and Travis Kelce",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/jul/01/lethal-weapon-star-danny-glover-reveals-alzheimers-diagnosis",
-        "seendate": "2026-07-01T16:34:17.000Z",
+        "url": "https://www.theguardian.com/music/2026/jul/02/new-york-taylor-swift-travis-kelce-msg-wedding",
+        "seendate": "2026-07-02T18:56:41.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Sophomore slump: why is Netflix losing so many viewers for second seasons?",
-        "summary": "Hit shows such as Beef, The Four Seasons, Avatar: The Last Airbender and A Man on the Inside have suffered giant drops for their follow-up seasonsIf you haven’t seen the second season of Netflix’s Avatar: The Last Airbender, then at least you can console yourself that you’re not alone. Variety recently <a href=\"https://variety.com/2026/tv/news/avatar-t",
+        "title": "‘There’s not a lot of Black stories made by Black creatives in theater’: inside Kwame Kwei-Armah’s new TLC musical",
+        "summary": "CrazySexyCool, the celebrated playwright’s new show in DC, is a vibrant love letter to the hits and sisterhood of the R&amp;B trioCrazySexyCool, an ambitious new musical about the visionary 90s trio TLC at Arena Stage in Washington DC, aspires to make good on its title and then some. C",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/jul/01/netflix-second-season-drop-in-viewers",
-        "seendate": "2026-07-01T13:47:57.000Z",
+        "url": "https://www.theguardian.com/stage/2026/jul/02/crazysexycool-tlc-musical-kwame-kwei-armah-interview",
+        "seendate": "2026-07-02T14:47:24.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Victor Willis, frontman of Village People, dies age 74",
-        "summary": "The co-writer of enduring hits such as YMCA and Macho Man, who struggled with drug use and legal issues for years, passed away after ‘short but aggressive illness’Victor Willis, the lead singer of the Village People, has died age 74. The group shared the news in a statement: “Victor passed on Monday 30 June 2026 of a short but aggressive illness,” they said. “Privacy is requested.”The writer of what",
+        "title": "Breaking hearts and blowing minds:​ Robyn’s 20 greatest songs – ranked!",
+        "summary": "As she tours the UK, we pick the best of an artist who defined the ‘sad banger’ – but also radiates joy and strength from her perfect pop songsRobyn has written and recorded more striking and melodically rich songs than this, but the opening track of Body Talk Part 1 might be this famously unbiddable pop star’s mission statement: an appealingly minimal bit of house music that dismisses a list of eye-rolling",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/music/2026/jul/01/victor-willis-frontman-of-village-people-dies-age-74",
-        "seendate": "2026-07-01T14:03:07.000Z",
+        "url": "https://www.theguardian.com/music/2026/jul/02/robyn-greatest-songs-ranked",
+        "seendate": "2026-07-02T14:17:36.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "R&B star Chris Brown ordered to pay $13m to housekeeper mauled by his dog",
-        "summary": "California jury sides with Maria Avila over 2020 attack that left her requiring skin graftsR&amp;B star Chris Brown has been ordered to pay $12.9m in damages to a housekeeper who was mauled by a dog at one of his properties.Maria Avila was working at Brown’s house in Tarzana, California, in 2020 when she was attacked by Hades, a Caucasian shepherd used as a guard dog. At the trial in Van Nuys, Califo",
+        "title": "‘A female Minion would be the beginning of the end’: Pierre Coffin on creepy memes, decoding Minionese and farting bananas",
+        "summary": "The French animator, director and voice of those lurid yellow assistants to the despicable answers your questionsCould we please have a Minions/Backrooms mashup movie? TaffRaffiaI don’t know if it would work because it would be yellow against yellow. All you’d see would be eyes and even they would be hard to see. It would just be voices coming out of yellow.Will",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/music/2026/jul/01/rb-star-chris-brown-ordered-to-pay-13m-to-housekeeper-mauled-by-his-dog",
-        "seendate": "2026-07-01T10:12:52.000Z",
+        "url": "https://www.theguardian.com/film/2026/jul/02/a-female-minion-would-be-the-beginning-of-the-end-pierre-coffin-on-creepy-memes-decoding-minionese-and-farting-bananas",
+        "seendate": "2026-07-02T11:05:10.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Spielberg’s Disclosure Day is making some wonder: will we have real disclosure soon? | Seth Shostak",
-        "summary": "The short answer is that there’s nothing to disclose. But that doesn’t mean we won’t make contact with extraterrestrial lifeEven before Stephen Spielberg’s latest film, Disclosure Day, began unspooling at local multiplexes, the internet was debating whether we would ever experience a real-life disclosure day – when the US government admits that it’s aware of aliens here on Earth, a secret it has supposedly",
+        "title": "Rhythm Paradise Groove review – exhilarating bitesize beats test your reflexes",
+        "summary": "Nintendo/TNX; Nintendo SwitchA joyful collection of vibrant rhythm games includes catching veggies in mid-air, practising dance choreographies and speaking to an alienIt has been a strange decade for the rhythm game genre. The legendary progenitors Rock Band and Guitar Hero are seemingly gone, yet companies are manufacturing plastic guitars again. Tango Gameworks, a studio best known fo",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/commentisfree/2026/jul/01/stephen-spielberg-disclosure-day-aliens-extraterrestrial",
-        "seendate": "2026-07-01T10:00:33.000Z",
+        "url": "https://www.theguardian.com/games/2026/jul/02/rhythm-paradise-heaven-groove-review-nintendo-switch",
+        "seendate": "2026-07-02T08:30:08.000Z",
         "domain": "theguardian.com"
       }
     ],
     "f1": [
       {
-        "title": "‘Having Max Verstappen in the car cheaper than improving it’ - Bernie Ecclestone on F1 star’s future",
-        "summary": "Max Verstappen’s future in Formula 1 is a hot topic in the paddock at present, as rumours swirl about a possible move to McLaren, the prospect of another year at Red Bull, and even an exit off the back of his disdain for the 2026 regulations.Now, former F1 boss Bernie Ecclestone has waded into the debate and called on the Dutchman to move to Ferrari.Ecclestone was at the helm of the ...<a class='more",
+        "title": "F1 British GP: Friday schedule, weather forecast and how to watch",
+        "summary": "Formula 1 heads to Silverstone this weekend after a chaotic Austrian grand prix, where George Russell took a much-needed win to strengthen his title push.The Mercedes driver arrives at his home race with fresh momentum after cutting into team-mate Kimi Antonelli's championship lead. Antonelli still holds a 40-point advantage, but Russell’s Austria victory means the title fight is ...<a class='more' href=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/having-max-verstappen-in-the-car-cheaper-than-improving-it-bernie-ecclestone-on-the-f1-stars-future/10835364/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-01T16:39:06.000Z",
+        "url": "https://www.motorsport.com/f1/news/f1-british-gp-friday-schedule-weather-forecast-and-how-to-watch/10835597/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-02T18:00:03.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "McLaren searching for answers behind losses to Mercedes on straights, despite same F1 power unit",
-        "summary": "McLaren Formula 1 team principal Andrea Stella says that the team will investigate why it is losing around \"one-and-a-half tenths\" to Mercedes in the straights, despite running with a common power unit.Explaining where the MCL40 is currently stacked against the current championship-leading W17, Stella estimates that the gap between the two cars is around three-to-four tenths per lap, with ...<a class='mo",
+        "title": "\"Deficit could be twice as big\" – Why Ferrari expects “tough” F1 weekends at Silverstone and Spa",
+        "summary": "After Lewis Hamilton's victory in Barcelona, hopes grew that Ferrari could become a genuine contender in this year’s Formula 1 title fight, but the seven-time world champion insists there is still a long way to go.That is partly because of what Hamilton describes as the \"phenomenal\" strength of his former employer Mercedes, but also because Ferrari still lacks outright engine performance ...<a class='mor",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/mclaren-still-to-investigate-why-its-losing-to-mercedes-on-the-straights-despite-same-pu/10835296/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-01T15:00:03.000Z",
+        "url": "https://www.motorsport.com/f1/news/deficit-could-be-twice-as-big-why-ferrari-expects-tough-f1-weekends-at-silverstone-and-spa/10835611/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-02T17:02:49.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Cadillac marks 250 years of American independence with British GP livery",
-        "summary": "The Cadillac Formula 1 team has unveiled a special livery to mark 250 years of American independence, which it will run at the British Grand Prix this weekend.Cadillac, which made its F1 debut this season at the Australian Grand Prix, will swap its signature monochrome look for the stars and stripes when it takes to the Silverstone circuit this weekend. It follows similar special liveries from ...<a clas",
+        "title": "How \"charging station\" Silverstone will really look different in F1 2026",
+        "summary": "If you thought Formula 1's favourite water cooler topic of energy management had gone away because of the band-aid fixes applied in Miami and the bigger changes agreed for 2027, then think again.Recent races at circuits where cars were less energy limited had perhaps put vexatious talk of energy management on the backburner. But the iconic Silverstone circuit has been labelled the \"biggest ...<a class='m",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/cadillac-marks-250-years-of-american-independence-with-british-gp-livery/10835349/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-01T14:49:19.000Z",
+        "url": "https://www.motorsport.com/f1/news/how-charging-station-silverstone-will-really-look-different-in-f1-2026/10835603/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-02T16:47:29.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Five things to look out for at the F1 British GP",
-        "summary": "Formula 1 enjoyed an afternoon of chaotic racing last time out in Austria, and Silverstone could be the perfect site for a repeat performance this weekend.The British Grand Prix weekend hosts a sprint race on Saturday, so teams will have just a single practice session at the historic track in which they must dial in their setups to try and extract the best lap time possible.This, coupled ...<a class=",
+        "title": "Why Kimi Antonelli is more positive about F1 title chance despite \"bad weekend\" in Austria",
+        "summary": "The Austrian Grand Prix actually gave championship leader Kimi Antonelli more confidence that he can win the 2026 Formula 1 world title despite it being a “bad weekend”.Antonelli made a blistering start to round eight by topping two practice sessions and being on provisional pole, but was pipped at the end following Max Verstappen’s crash.The Mercedes driver aborted his final lap ...<a class='more' h",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/five-things-to-look-out-for-at-the-f1-british-gp/10835307/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-01T13:00:02.000Z",
+        "url": "https://www.motorsport.com/f1/news/why-kimi-antonelli-is-more-positive-about-f1-title-chance-despite-bad-weekend-in-austria/10835601/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-02T16:40:49.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Oliver Bearman warns Haas risks being outdeveloped in F1 2026",
-        "summary": "Oliver Bearman warned that his Haas Formula 1 team could lose out to its rivals if it doesn't speed up its rate of development after he finished 14th and out of the points in Austria.Bearman had a strong start to his second year in Formula 1, making the most of his Haas VF-26 to pick up points in the first two rounds of the year in Australia and China. However, in the six rounds since, the ...<a class='m",
+        "title": "Fernando Alonso denies claim that Aston Martin's F1 Hungarian GP upgrade will decide his future",
+        "summary": "Fernando Alonso has confirmed that his Formula 1 future does not rely on Aston Martin’s upcoming upgrade, which team boss Adrian Newey hopes will convince him to stay.The Silverstone outfit has endured a horrible start to the 2026 regulations with just one point across the opening eight rounds and at times being one second behind the rest. A large part of that is down to Aston not ...<a class='more'",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/oliver-bearman-warns-haas-risks-being-outdeveloped-in-f1-2026/10835276/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-01T11:45:03.000Z",
+        "url": "https://www.motorsport.com/f1/news/fernando-alonso-denies-claim-that-aston-martins-f1-hungarian-gp-upgrade-will-decide-his-future/10835576/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-02T15:22:19.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "July is a little light on the big new game releases, but your co-op horror Discord gang will be feastin'",
-        "summary": "If you've ever wanted to run a haunted business into the ground with your friends, I have good news.",
+        "title": "The internet is agog at Captain America's hog",
+        "summary": "NetEase went whole hog with Cap's new Marvel Rivals swimsuit skin.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/pc-game-release-dates-july-2026/",
-        "seendate": "2026-07-01T23:50:21.000Z",
+        "url": "https://www.pcgamer.com/games/fighting/the-internet-is-agog-at-captain-americas-hog/",
+        "seendate": "2026-07-02T23:30:45.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "'They refuse to offer a meaningful alternative': Game preservation leader agrees that piracy is the only preservation option for a discless future",
-        "summary": "The future of preservation is, as usual, on the PC.",
+        "title": "Carcass Clad is less story-heavy than Mouthwashing, but 'a lot of thought' has gone into it: 'We haven't discovered how much we can push it'",
+        "summary": "There's still worldbuilding, and a setting entirely separate from that of Mouthwashing.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/they-refuse-to-offer-a-meaningful-alternative-game-preservation-leader-agrees-that-piracy-is-the-only-preservation-option-for-a-discless-future/",
-        "seendate": "2026-07-01T22:40:23.000Z",
+        "url": "https://www.pcgamer.com/games/horror/carcass-clad-is-less-story-heavy-than-mouthwashing-but-a-lot-of-thought-has-gone-into-it-we-havent-discovered-how-much-we-can-push-it/",
+        "seendate": "2026-07-02T21:56:48.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Reinstated Subnautica 2 studio CEO immediately peaces out after Krafton agrees to pay the developer bonuses it went to court to avoid",
-        "summary": "The publisher's ChatGPT advisor could not be reached for comment.",
+        "title": "Lord of Hatred upgraded Diablo 4 into one of the best action RPGs out there, but its new season ignores everything that made it great",
+        "summary": "The Season of Death Awakening could've been so much more.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/reinstated-subnautica-2-studio-ceo-immediately-peaces-out-after-krafton-agrees-to-pay-the-developer-bonuses-it-went-to-court-to-avoid/",
-        "seendate": "2026-07-01T17:50:10.000Z",
+        "url": "https://www.pcgamer.com/games/rpg/lord-of-hatred-upgraded-diablo-4-into-one-of-the-best-action-rpgs-out-there-but-its-new-season-ignores-everything-that-made-it-great/",
+        "seendate": "2026-07-02T21:52:12.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Former Unreal Engine director retires after 15 years at Epic",
-        "summary": "Nicholas Penwarden joins Sjoerd De Jong at the Dunrealin' retirement home.",
+        "title": "Following the success of Mouthwashing, developer Wrong Organ wasn't ready to make a better 'story game,' so it's making a 'gameplay game' instead",
+        "summary": "\"Mouthwashing isn't better if it's eight hours. Probably.\"",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/former-unreal-engine-director-retires-after-15-years-at-epic/",
-        "seendate": "2026-07-01T17:05:12.000Z",
+        "url": "https://www.pcgamer.com/games/horror/following-the-success-of-mouthwashing-developer-wrong-organ-wasnt-ready-to-make-a-better-story-game-so-its-making-a-gameplay-game-instead/",
+        "seendate": "2026-07-02T21:12:29.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Dragon Age setting creator says AI push is a delusion of the executive class that's a 'virulent plague' on games",
-        "summary": "\"Honestly, what does it help with?\"",
+        "title": "Relax, PC Gamers: We're not getting GTA 6 on November 19, but we've got, um... 'Phantom Vice Auto' launching the same day on Steam",
+        "summary": "That's probably just as good, right?",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/software/ai/dragon-age-setting-creator-says-ai-push-is-a-delusion-of-the-executive-class-thats-a-virulent-plague-on-games/",
-        "seendate": "2026-07-01T16:14:21.000Z",
+        "url": "https://www.pcgamer.com/games/action/relax-pc-gamers-were-not-getting-gta-6-on-november-19-but-weve-got-um-phantom-vice-auto-launching-the-same-day-on-steam/",
+        "seendate": "2026-07-02T17:15:47.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
       {
-        "title": "Anthropic says US has lifted export controls on Fable and Mythos AI models after security fears",
-        "summary": "AI company was forced last month to suspend access to its Fable 5 and Mythos 5 models for all foreign nationalsBusiness live – latest updatesAnthropic has restored customer access to its powerful newest AI model,",
+        "title": "OpenAI ‘in early talks to give 5% stake to US government’",
+        "summary": "CEO Sam Altman argued move would share benefits of AI and it would involve other firms doing similar, report saysBusiness live – latest updatesOpenAI is reportedly in early stage talks to give a 5% stake in the",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/jul/01/anthropic-fable-mythos-ai-models-us-export-controls-lifted",
-        "seendate": "2026-07-01T10:07:20.000Z",
+        "url": "https://www.theguardian.com/technology/2026/jul/02/openai-stake-us-government-ai-sam-altman",
+        "seendate": "2026-07-02T07:31:15.000Z",
         "domain": "theguardian.com"
       },
       {
@@ -315,31 +315,55 @@ window.NEWS_CACHE = {
         "domain": "theguardian.com"
       },
       {
-        "title": "UK watchdog plans to break Apple and Google’s ‘effective duopoly’ on mobile app stores",
-        "summary": "CMA says developers should be able to steer users away from app stores for payments to increase competitionBusiness live – latest updatesThe UK’s competition",
+        "title": "Bitcoin firm advertised by Nigel Farage loses 15% of asset value",
+        "summary": "Exclusive: Finance experts warn against investing in bitcoin treasury companies after Stack BTC assets plungeA bitcoin company that Nigel Farage has advertised lost more than 15% of its asset value, prompting finance experts to warn investors against those types of firms.The Reform UK leader has invested £215,000 in a bitcoin treasury company named Stack BTC. A bitcoin treasury buys the cryptocurrenc",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/jun/30/uk-apple-google-mobile-app-stores-developers-payment-cma",
-        "seendate": "2026-06-30T14:32:03.000Z",
+        "url": "https://www.theguardian.com/politics/2026/jul/02/bitcoin-firm-advertised-by-nigel-farage-loses-15-percent-asset-value",
+        "seendate": "2026-07-02T12:02:04.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Frequent AI chatbot users more likely to believe anti-vaccine myths, poll finds",
-        "summary": "Poll finds use of AI tools for health advice is correlated with belief in vaccine falsehoods, such as shots causing autismAdults in the US who frequently seek out health advice from artificial intelligence chatbots are more likely to believe myths about vaccines, according to a poll released on Tuesday by health research firm KFF.The survey, which was conducted in May and polled a representative samp",
+        "title": "AI summaries of Tripadvisor hotel reviews downplay serious complaints, investigation finds",
+        "summary": "AI-generated overview found to gloss over allegations of sexual harassment and describes hotel being sued over hygiene as ‘spotless’A hotel being sued for mass food poisonings was described as “spotless” and a resort where guests complained of sexual harassment by staff was praised for “friendly” service by an AI intended to summarise millions of Tripadvisor reviews.The overviews of customer feedback",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/jun/30/ai-chatbot-use-anti-vaccine-myths-poll",
-        "seendate": "2026-06-30T19:51:07.000Z",
+        "url": "https://www.theguardian.com/business/2026/jul/02/ai-summaries-tripadvisor-hotel-reviews-downplay-serious-complaints",
+        "seendate": "2026-07-01T23:01:01.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Alarm bells over conflict of interest as filing shows Trump raked in $2bn in 2025",
-        "summary": "Crypto ventures eclipse much of property portfolio, with revenue also coming from Trump-branded productsTrump accused of ‘disgusting’ crypto greed after earning over $1bn since return to office<a href=\"https://www.theguardian.com/us-news/live/2026/jul/01/donald-trump-cryptoc",
+        "title": "Sony will kill PlayStation games on discs in 2028 and offer digital downloads only",
+        "summary": "With the much-anticipated release of Grand Theft Auto VI only available as download, Sony is following suitSony said on Wednesday that it would stop releasing new video games for the PlayStation console on disc in January 2028 following a shift in consumer preferences.“Following this date, new games will be available on PlayStation Store and at retailers in digital formats only,” the company said on",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jun/30/trump-1bn-crypto-businesses-2025",
-        "seendate": "2026-07-01T11:04:57.000Z",
+        "url": "https://www.theguardian.com/games/2026/jul/01/sony-playstation-digital-downloads",
+        "seendate": "2026-07-01T18:56:26.000Z",
         "domain": "theguardian.com"
       }
     ],
     "climate": [
+      {
+        "title": "As seas rise, American history could be washed away",
+        "summary": "In Jamestown, Virginia, one of the most important places in American history is in a race against time from rising watersSean Romo stops digging the moment he sees a faint line emerge in the sandy Virginia soil.It’s just a slight change in color, but to Romo, director of archaeology for Jamestown Rediscovery, it may be another piece of America’s origin story.<a href=\"https://www.climatecentral",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/environment/2026/jul/02/sea-level-rise-jamestown-virginia",
+        "seendate": "2026-07-02T18:00:06.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "‘A sanitized view of America’: inside Trump’s campaign to erase US history from national parks",
+        "summary": "Critics say the Trump administration is trying to rewrite and whitewash history by removing and altering scores of signs on public landsJerry Bransford, a former US National Park Service (NPS) ranger, has always had a deep connection with the land he grew up on – and the land hundreds of feet below it. His great-great-grandfather, Materson “Mat” Bransford, was one of the earliest explorers of Mammoth Cave i",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/02/us-national-parks-history-censorship",
+        "seendate": "2026-07-02T13:00:14.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Forecasters warn of record-breaking US summer heat amid intense El Niño",
+        "summary": "More than 100m people could be affected in week leading to 4 July, with increased risks of droughts and wildfiresMeteorologists are anticipating a tumultuous summer that could rank as one of the US’s hottest ever.New data released on Tuesday showed the first six months of the year were the hottest ever measured for parts",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/jul/02/el-nino-summer-heat-record",
+        "seendate": "2026-07-02T11:30:11.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Scientists fear seabird die-off as El Niño looms: ‘We don’t know how bad this will get’",
         "summary": "Many seabirds are starving to death as a marine heat wave lingers off California and fish seek deeper, cooler watersWithin minutes of walking on a San Diego beach, marine ornithologist Tammy Russell found the feathered carcasses – one after another.Some were mixed in with washed up kelp. Others were under rocks. Continue",
@@ -350,38 +374,22 @@ window.NEWS_CACHE = {
       },
       {
         "title": "New Orleans residents on warning to abandon sinking city: ‘Nobody wants to leave home’",
-        "summary": "After a recent study found New Orleans is at a ‘point of no return’ amid the climate crisis, some locals say they will ‘only leave if forced to’. But what would it take to stay?When a study in May concluded that New Orleans has hit a “point of no return” due to the climate crisis</a",
+        "summary": "After a recent study found New Orleans is at a ‘point of no return’ amid the climate crisis, some locals say they will ‘only leave if forced to’. But what would it take to stay?When a study in May concluded that New Orleans had hit a “point of no return” due to the climate crisis</a",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/us-news/2026/jul/01/new-orleans-relocation-reactions-climate",
         "seendate": "2026-07-01T12:00:37.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Trump to attend opening of Roosevelt library amid overturning conservation efforts",
-        "summary": "Theodore Roosevelt protected swathes of land, while Trump has lifted protections from more than 86m acresDonald Trump will attend a ribbon cutting for the new Theodore Roosevelt Presidential Library on Wednesday, touting the legacy of a president his own administration is attempting to destroy, critics say.While in office from 1901 to 1909, Roosevelt established five new national parks, protected swa",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jul/01/trump-roosevelt-library-opening",
-        "seendate": "2026-07-01T11:30:34.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "What is the United States of America now? | Rebecca Solnit",
-        "summary": "The United States of America is … so many things, horrific and magnificent, good and evil, promising and cursedThe United States of America is a truck that has driven into a ditch. The United States of America is a program that has been hacked. The United States of America is … so many things, horrific and magnificent, good and evil, promising and cursed, as it approaches its quarter-millennium mark. I say",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/commentisfree/2026/jul/01/what-is-the-united-states-of-america-now",
-        "seendate": "2026-07-01T10:00:33.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "World Cup matches played in potentially dangerous heat as players’ union makes climate warning",
-        "summary": "Nine of the group stage games played in severe heat, analysis finds, as union points to lessons for the whole sportNine matches in the World Cup group stage were played amid potentially dangerous heat and humidity, a Guardian analysis shows, as the global players’ union Fifpro warned that heat would have to “play a bigger part” in the spo",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jun/30/world-cup-matches-extreme-heat",
-        "seendate": "2026-06-30T16:00:10.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "science": [
+      {
+        "title": "Statins helping people with obesity match those of healthy weight on key metrics, study finds",
+        "summary": "Differences in unhealthy cholesterol levels and blood pressure found to have ‘narrowed or disappeared’ in over-40sMany adults living with obesity have “indistinguishable” cholesterol and blood pressure levels compared with those who are a healthy weight, largely because of the use of statins, according to a study.In some cases, people with obesity were “better off” than those of a healthy weight, res",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/society/2026/jul/02/over-40s-obesity-normal-bmi-cholesterol-blood-pressure-study-finds",
+        "seendate": "2026-07-02T07:13:10.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "‘Beautiful blobs’: synthetic life a step closer as scientists make cells using lab-made DNA",
         "summary": "Tiny, quivering spheres designed to feed and multiply raise prospect of artificial organisms to make drugs, food and fuelResearchers claim they are closer to creating life from scratch after building tiny, quivering blobs that use lab-made DNA to feed, grow and multiply in a dish.The synthetic cells were made from chemical compounds and are believed to be the first to demonstrate the complete cell cy",
@@ -412,14 +420,6 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/science/2026/jun/29/sea-squirt-melanoma-treatment-research",
         "seendate": "2026-06-29T12:00:43.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Reflecting pool algae: the science Trump needs to know – podcast",
-        "summary": "The Lincoln Memorial reflecting pool in Washington DC has hardly been out of the news since April when President Trump vowed to have it renovated, and painted ‘American flag blue’ by 4 July. Despite the pool being stripped, cleaned, coated and refilled, within days the algae that has plagued it for decades was back. To find out why these blooms happen, what makes them so difficult to tackle and what Trump could tr",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/audio/2026/jun/30/reflecting-pool-algae-science-trump-podcast",
-        "seendate": "2026-06-30T04:00:39.000Z",
         "domain": "theguardian.com"
       }
     ]
