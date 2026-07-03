@@ -1,8 +1,16 @@
 {
-  "generatedAt": "2026-07-02T23:54:17.870Z",
+  "generatedAt": "2026-07-03T23:55:09.782Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
+      {
+        "title": "‘Give him any award, and he’ll come running’: Narendra Modi racks up honours on overseas trips",
+        "summary": "Indian prime minister has a habit of collecting awards on his travels, some as their first and only recipientAs Narendra Modi touched down in Seychelles over the weekend, the archipelago nation in the Indian Ocean swiftly bestowed one of its “highest” honours upon the Indian prime minister.Modi beamed as he accepted the Guardian of the Blue Horizon award from Patrick Herminie, the Se",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/jul/03/narendra-modi-awards-honours-overseas-trips",
+        "seendate": "2026-07-03T00:00:13.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Côte d’Ivoire floods kill 59 as west Africa endures torrential rains",
         "summary": "Authorities say rainy season getting deadlier, with Ghana reporting 13 dead and floods hitting Benin, Togo and NigeriaFloods in Côte d’Ivoire have killed 59 people since May, the communication minister told a cabinet meeting in Abidjan.There are fears the toll could further rise as rescue teams continue to search for victims during the rainy season, which runs from May until July, the minister, Amado",
@@ -33,19 +41,19 @@
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/world/2026/jul/01/witch-hunt-in-niger-as-military-regime-rounds-up-lgbtq-population",
         "seendate": "2026-07-01T07:00:29.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "‘They will attack me if I stay’: immigrants in South Africa flee for safety amid violence and anti-foreigner protests",
-        "summary": "More than 2,000 anti-foreigner protesters march through Durban city centre as the arbitrary deadline passes for undocumented migrants to leave the countrySouth Africa was holding its breath on Tuesday as mass anti-immigration protests were held across the country. They come after a weeks-long campaign against foreigners that has seen at least four killed and tens of thousands fleeing for safety.In th",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/jun/30/they-will-attack-me-if-i-stay-immigrants-in-south-africa-flee-for-safety-amid-violence-and-anti-foreigner-protests",
-        "seendate": "2026-06-30T16:43:32.000Z",
         "domain": "theguardian.com"
       }
     ],
     "conflict": [
       {
+        "title": "‘Give him any award, and he’ll come running’: Narendra Modi racks up honours on overseas trips",
+        "summary": "Indian prime minister has a habit of collecting awards on his travels, some as their first and only recipientAs Narendra Modi touched down in Seychelles over the weekend, the archipelago nation in the Indian Ocean swiftly bestowed one of its “highest” honours upon the Indian prime minister.Modi beamed as he accepted the Guardian of the Blue Horizon award from Patrick Herminie, the Se",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/jul/03/narendra-modi-awards-honours-overseas-trips",
+        "seendate": "2026-07-03T00:00:13.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Côte d’Ivoire floods kill 59 as west Africa endures torrential rains",
         "summary": "Authorities say rainy season getting deadlier, with Ghana reporting 13 dead and floods hitting Benin, Togo and NigeriaFloods in Côte d’Ivoire have killed 59 people since May, the communication minister told a cabinet meeting in Abidjan.There are fears the toll could further rise as rescue teams continue to search for victims during the rainy season, which runs from May until July, the minister, Amado",
         "source": "theguardian.com",
@@ -76,17 +84,17 @@
         "url": "https://www.theguardian.com/world/2026/jul/01/witch-hunt-in-niger-as-military-regime-rounds-up-lgbtq-population",
         "seendate": "2026-07-01T07:00:29.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "‘They will attack me if I stay’: immigrants in South Africa flee for safety amid violence and anti-foreigner protests",
-        "summary": "More than 2,000 anti-foreigner protesters march through Durban city centre as the arbitrary deadline passes for undocumented migrants to leave the countrySouth Africa was holding its breath on Tuesday as mass anti-immigration protests were held across the country. They come after a weeks-long campaign against foreigners that has seen at least four killed and tens of thousands fleeing for safety.In th",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/jun/30/they-will-attack-me-if-i-stay-immigrants-in-south-africa-flee-for-safety-amid-violence-and-anti-foreigner-protests",
-        "seendate": "2026-06-30T16:43:32.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "economy": [
+      {
+        "title": "US residents angry at datacenters ‘being shoved down our throats’ are recalling officials",
+        "summary": "People across the country are pushing for moratoriums, and electeds who approve projects are being punishedLenoxdatacenter.com went live in May, promoting what it called a “proposed advanced technology and data center campus” in Michigan. The site did not state who wanted to build the center. Lenox Towns",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/jul/03/datacenter-recall-elections",
+        "seendate": "2026-07-03T11:00:27.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "US employers added just 57,000 new jobs in June, lower than expected",
         "summary": "The country’s unemployment rate dropped slightly to 4.2% as US job growth also slowed for the monthSign up for the Breaking New",
@@ -118,19 +126,27 @@
         "url": "https://www.theguardian.com/us-news/2026/jul/01/crypto-ventures-stock-key-takeaways-trump-financial-disclosures",
         "seendate": "2026-07-01T13:30:20.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "US labor board more likely to dismiss worker and union charges under Trump, analysis finds",
-        "summary": "Report points to staffing shortages, procedural changes and lack of a board quorum as contributing factorsDismissals of unfair labor practice charges have surged at the National Labor Relations Board under Donald Trump, according to a <a href=\"https://www.americanprogress.org/article/the-nlrb-is-throwing-out-charges-alleging-employers-engaged-in-",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jul/01/trump-labor-board-dismissals",
-        "seendate": "2026-07-01T11:00:33.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "literature": [
       {
-        "title": "Long Wave By Daisy Johnson review – a sublime novel of motherhood and loss",
+        "title": "On the Mark by Florence Hazrat review – a fascinating history of punctuation",
+        "summary": "This lavishly researched book shows that dots and dashes are an essential component of style, whether you’re a medieval monk or Donald TrumpHow do you feel about exclamation marks? Otherwise known as gaspers, screamers, dog’s cocks, or shrieks. In his Modern English Usage, Fowler said that using too many betrays an “uneducated or unpractised writer”. Martin Amis called them “joke badges”, and Theodor Adorno",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/jul/03/on-the-mark-by-florence-hazrat-review-a-fascinating-history-of-punctuation",
+        "seendate": "2026-07-03T06:00:21.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "The best recent poetry – review roundup",
+        "summary": "Cafés by Holly Pester; The Acrobat by Wisława Szymborska; Volvelle by Rachael Boast; Tree of Knowledge by Victoria Chang; Talk a Blue Streak by Lila MatsumotoCafés by Holly Pester (Fitzcarraldo, £12.99)Beginning with a sequence",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/jul/03/the-best-recent-poetry-review-roundup",
+        "seendate": "2026-07-03T11:00:27.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Long Wave by Daisy Johnson review – a sublime novel of motherhood and loss",
         "summary": "Covering three generations, this tangled story of secrets, childhood, abandonment and care might be her best work yetIn 2018 Daisy Johnson was the youngest writer ever to be shortlisted for the Booker prize, for her debut novel Everything Under, a&nbsp;gender-fluid reimagining of the Oedipus",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/books/2026/jul/02/long-wave-by-daisy-johnson-review-a-sublime-novel-of-motherhood-and-loss",
@@ -151,22 +167,6 @@
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/books/2026/jul/01/judges-claims-ai-use-commonwealth-short-story-prize-jamir-nazir",
         "seendate": "2026-07-01T12:44:11.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Depraved by Daisy Dixon review – a history of dark and dangerous art",
-        "summary": "From classical painting to video games, this survey of the taboo and the twisted won’t let you look awayMuseums are damned if they do, damned if they don’t. Ignore the problems of the past and they’re criticised for being problematic. Rewrite their labels according to changing politics and they’re called preachy and woke. The&nbsp;fact is, history is filled with immoral art. But how do we know it when we se",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jul/01/depraved-by-daisy-dixon-review-a-history-of-dark-and-dangerous-art",
-        "seendate": "2026-07-01T06:00:27.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "What we’re reading: writers and readers on the books they enjoyed in June",
-        "summary": "Candice Carty-Williams, Patrick Freyne and Guardian readers discuss the titles they have read over the last month. Join the conversation in the commentsI just finished reading Wimmy Road Boyz by Sufiyaan Salam. I absolutely adored this book, a fantastic combination of violence and vulnerability set on Manchester’s Curry Mile. I became completely attached to the three main boys, and I loved",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jun/30/what-were-reading-writers-and-readers-on-the-books-they-enjoyed-in-june-candice-carty-williams",
-        "seendate": "2026-06-30T18:24:40.000Z",
         "domain": "theguardian.com"
       }
     ],
@@ -214,128 +214,128 @@
     ],
     "f1": [
       {
-        "title": "F1 British GP: Friday schedule, weather forecast and how to watch",
-        "summary": "Formula 1 heads to Silverstone this weekend after a chaotic Austrian grand prix, where George Russell took a much-needed win to strengthen his title push.The Mercedes driver arrives at his home race with fresh momentum after cutting into team-mate Kimi Antonelli's championship lead. Antonelli still holds a 40-point advantage, but Russell’s Austria victory means the title fight is ...<a class='more' href=",
+        "title": "Zak Brown delivers McLaren F1 turnaround timeline",
+        "summary": "McLaren Racing CEO Zak Brown has insisted his team has the capacity to overtake its rivals to produce the fastest car on the Formula 1 grid before the current regulation cycle ends. Speaking to former F1 TV presenter Will Buxton on the Up To Speed podcast, Brown cited the team's previous dramatic recovery from the ninth-fastest team to the constructors' champion as evidence that massive ...<a class='more",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/f1-british-gp-friday-schedule-weather-forecast-and-how-to-watch/10835597/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-02T18:00:03.000Z",
+        "url": "https://www.motorsport.com/f1/news/zak-brown-delivers-mclaren-f1-turnaround-timeline/10835945/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-03T22:35:02.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "\"Deficit could be twice as big\" – Why Ferrari expects “tough” F1 weekends at Silverstone and Spa",
-        "summary": "After Lewis Hamilton's victory in Barcelona, hopes grew that Ferrari could become a genuine contender in this year’s Formula 1 title fight, but the seven-time world champion insists there is still a long way to go.That is partly because of what Hamilton describes as the \"phenomenal\" strength of his former employer Mercedes, but also because Ferrari still lacks outright engine performance ...<a class='mor",
+        "title": "Lando Norris reveals how winning F1 championship changed him",
+        "summary": "Reigning Formula 1 champion Lando Norris believes securing his maiden title has made him a more relaxed and confident driver.Speaking on the F1 Beyond The Grid podcast, the McLaren driver detailed the mental shift that followed his championship victory. After dedicating his whole career to reaching the milestone, Norris said achieving the goal gave him a new level of confidence.Asked if he ...<a clas",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/deficit-could-be-twice-as-big-why-ferrari-expects-tough-f1-weekends-at-silverstone-and-spa/10835611/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-02T17:02:49.000Z",
+        "url": "https://www.motorsport.com/f1/news/lando-norris-reveals-how-winning-f1-championship-changed-him/10835900/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-03T21:35:01.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "How \"charging station\" Silverstone will really look different in F1 2026",
-        "summary": "If you thought Formula 1's favourite water cooler topic of energy management had gone away because of the band-aid fixes applied in Miami and the bigger changes agreed for 2027, then think again.Recent races at circuits where cars were less energy limited had perhaps put vexatious talk of energy management on the backburner. But the iconic Silverstone circuit has been labelled the \"biggest ...<a class='m",
+        "title": "F1 British GP: Saturday schedule, weather forecast and how to watch",
+        "summary": "Formula 1 heads into Saturday at Silverstone with Lewis Hamilton on sprint pole after edging Kimi Antonelli in a tight sprint qualifying session at the British GP.Hamilton beat the Mercedes championship leader by just 0.011s to take his first sprint pole since last year’s Chinese grand prix. Max Verstappen starts third, ahead of Charles Leclerc, George Russell and Lando Norris.Saturday ...<a class='m",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/how-charging-station-silverstone-will-really-look-different-in-f1-2026/10835603/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-02T16:47:29.000Z",
+        "url": "https://www.motorsport.com/f1/news/f1-british-gp-saturday-schedule-weather-forecast-and-how-to-watch/10836007/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-03T19:28:52.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Why Kimi Antonelli is more positive about F1 title chance despite \"bad weekend\" in Austria",
-        "summary": "The Austrian Grand Prix actually gave championship leader Kimi Antonelli more confidence that he can win the 2026 Formula 1 world title despite it being a “bad weekend”.Antonelli made a blistering start to round eight by topping two practice sessions and being on provisional pole, but was pipped at the end following Max Verstappen’s crash.The Mercedes driver aborted his final lap ...<a class='more' h",
+        "title": "Toto Wolff turns heads at Silverstone with rare classic Mercedes estimated at $3.5million",
+        "summary": "Mercedes Formula 1 team chief Toto Wolff turned heads with his entrance to the Silverstone paddock ahead of the only practice session and sprint qualifying today.While Wolff and his wife, F1 Academy managing director Susie Wolff, are frequently seen driving around the streets of Monte Carlo in the Mercedes-Benz 300 SL Roadster, he selected its hard-top predecessor for the British race ...<a class='more'",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/why-kimi-antonelli-is-more-positive-about-f1-title-chance-despite-bad-weekend-in-austria/10835601/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-02T16:40:49.000Z",
+        "url": "https://www.motorsport.com/f1/news/toto-wolff-turns-heads-at-silverstone-with-rare-classic-mercedes-estimated-at-35million/10835999/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-03T18:56:24.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Fernando Alonso denies claim that Aston Martin's F1 Hungarian GP upgrade will decide his future",
-        "summary": "Fernando Alonso has confirmed that his Formula 1 future does not rely on Aston Martin’s upcoming upgrade, which team boss Adrian Newey hopes will convince him to stay.The Silverstone outfit has endured a horrible start to the 2026 regulations with just one point across the opening eight rounds and at times being one second behind the rest. A large part of that is down to Aston not ...<a class='more'",
+        "title": "Jacques Villeneuve defends Lewis Hamilton over F1 retirement claims",
+        "summary": "1997 Formula 1 champion Jacques Villeneuve has defended Lewis Hamilton, dismissing suggestions that the seven-time champion should have considered hanging up his helmet during his struggles in recent years.Following a challenging end to his otherwise successful stint at Mercedes, where he won six of his seven titles, many from inside and outside of the paddock suggested that the Briton should ...<a class",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/fernando-alonso-denies-claim-that-aston-martins-f1-hungarian-gp-upgrade-will-decide-his-future/10835576/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-02T15:22:19.000Z",
+        "url": "https://www.motorsport.com/f1/news/jacques-villeneuve-defends-lewis-hamilton-over-f1-retirement-claims/10835315/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-03T18:53:25.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "The internet is agog at Captain America's hog",
-        "summary": "NetEase went whole hog with Cap's new Marvel Rivals swimsuit skin.",
+        "title": "Epic reaches lawsuit settlement with former contractor who was also a notorious Fortnite leaker",
+        "summary": "No more leaking for you!",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/fighting/the-internet-is-agog-at-captain-americas-hog/",
-        "seendate": "2026-07-02T23:30:45.000Z",
+        "url": "https://www.pcgamer.com/games/epic-reaches-lawsuit-settlement-with-former-contractor-who-was-also-a-notorious-fortnite-leaker/",
+        "seendate": "2026-07-03T22:07:50.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Carcass Clad is less story-heavy than Mouthwashing, but 'a lot of thought' has gone into it: 'We haven't discovered how much we can push it'",
-        "summary": "There's still worldbuilding, and a setting entirely separate from that of Mouthwashing.",
+        "title": "Mouthwashing's follow-up is self-described 'friendsweat' where 3 players struggle to operate a tank in a defiled city: 'We're definitely not quite at Peak, but we're not trying to make Arma either'",
+        "summary": "It sounds stressful as hell, and I can't wait.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/horror/carcass-clad-is-less-story-heavy-than-mouthwashing-but-a-lot-of-thought-has-gone-into-it-we-havent-discovered-how-much-we-can-push-it/",
-        "seendate": "2026-07-02T21:56:48.000Z",
+        "url": "https://www.pcgamer.com/games/horror/mouthwashings-follow-up-is-self-described-friendsweat-where-3-players-struggle-to-operate-a-tank-in-a-defiled-city-were-definitely-not-quite-at-peak-but-were-not-trying-to-make-arma-either/",
+        "seendate": "2026-07-03T21:31:52.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Lord of Hatred upgraded Diablo 4 into one of the best action RPGs out there, but its new season ignores everything that made it great",
-        "summary": "The Season of Death Awakening could've been so much more.",
+        "title": "The latest Chinese PC gaming hit is an indie game that spent the last 8 years growing into something you've never played before",
+        "summary": "The Scroll of Taiwu joins the wave of Chinese-developed games taking over Steam.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/rpg/lord-of-hatred-upgraded-diablo-4-into-one-of-the-best-action-rpgs-out-there-but-its-new-season-ignores-everything-that-made-it-great/",
-        "seendate": "2026-07-02T21:52:12.000Z",
+        "url": "https://www.pcgamer.com/games/rpg/the-latest-chinese-pc-gaming-hit-is-an-indie-game-that-spent-the-last-8-years-growing-into-something-youve-never-played-before/",
+        "seendate": "2026-07-03T18:00:00.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Following the success of Mouthwashing, developer Wrong Organ wasn't ready to make a better 'story game,' so it's making a 'gameplay game' instead",
-        "summary": "\"Mouthwashing isn't better if it's eight hours. Probably.\"",
+        "title": "EVE Online studio Fenris follows through on yearslong promise to make its in-house game engine fully open source",
+        "summary": "Mad respect.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/horror/following-the-success-of-mouthwashing-developer-wrong-organ-wasnt-ready-to-make-a-better-story-game-so-its-making-a-gameplay-game-instead/",
-        "seendate": "2026-07-02T21:12:29.000Z",
+        "url": "https://www.pcgamer.com/games/mmo/eve-online-studio-fenris-follows-through-on-yearslong-promise-to-make-its-in-house-game-engine-fully-open-source/",
+        "seendate": "2026-07-03T17:18:48.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Relax, PC Gamers: We're not getting GTA 6 on November 19, but we've got, um... 'Phantom Vice Auto' launching the same day on Steam",
-        "summary": "That's probably just as good, right?",
+        "title": "New Sims 4 update cuts back on excessive notifications—you can finally silence your phone, and the grim reaper will try to recruit you less",
+        "summary": "You know, the familiar rhythms of contemporary life.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/action/relax-pc-gamers-were-not-getting-gta-6-on-november-19-but-weve-got-um-phantom-vice-auto-launching-the-same-day-on-steam/",
-        "seendate": "2026-07-02T17:15:47.000Z",
+        "url": "https://www.pcgamer.com/games/the-sims/new-sims-4-update-cuts-back-on-excessive-notifications-you-can-finally-silence-your-phone-and-the-grim-reaper-will-try-to-recruit-you-less/",
+        "seendate": "2026-07-03T17:15:33.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
       {
+        "title": "UK parents warned over posting images of children amid AI sexual abuse fears",
+        "summary": "Exclusive: National Crime Agency and safety watchdog issue guidance amid rise in explicit material onlineAI prey: why watchdogs are telling parents to protect children from nudification appsParents should not put photos of their children on public displa",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/society/2026/jul/03/ai-sexual-abuse-fears-uk-parents-warned-posting-images-children-national-crime-agency",
+        "seendate": "2026-07-03T17:22:59.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "3,000% bonuses but a growing wealth divide: South Korea grapples with its AI chip boom",
+        "summary": "Powered by chipmakers Samsung Electronics and SK Hynix, South Korea is seeing a surge in wealth, but there are questions over who gets to share in the profitsWhen South Korea’s most high-profile divorce case returned to court last month, the lawyers were arguing not just about the breakdown of a relationship, but also the exact date at which to value shares in one specific company.The judges’ decisio",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/ng-interactive/2026/jul/03/south-korea-wealth-divide-ai-chip-boom",
+        "seendate": "2026-07-03T02:34:40.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Lisa Nandy quits X over fears Musk-owned site pushes ‘abuse and misinformation’",
+        "summary": "Culture secretary says her department will stop using platform, citing concerns over far-right content fuelling violence and divisionThe UK’s culture and media department will stop using X because the site “now favours abuse and misinformation over meaningful debate”, Lisa Nandy has announced.The culture secretary’s department is the UK’s second to quit the Elon Musk-owned platform over increasing co",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/media/2026/jul/02/lisa-nandy-culture-social-media-x-abuse-misinformation",
+        "seendate": "2026-07-02T17:43:30.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Tesla sales surpass expectations for second quarter as Musk backlash seems to cool",
+        "summary": "Strong figures suggest Tesla’s auto business is regaining momentum after two straight annual sales declinesTesla blew past ​Wall Street estimates for second-quarter deliveries on Thursday, posting a record for the period as recovering demand in Europe outweighed persistent weakness in North America.The strong figures suggest Tesla’s ⁠mainstay auto business is regaining momentum after two straight ann",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/jul/02/tesla-sales-second-quarter",
+        "seendate": "2026-07-02T15:23:11.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "OpenAI ‘in early talks to give 5% stake to US government’",
         "summary": "CEO Sam Altman argued move would share benefits of AI and it would involve other firms doing similar, report saysBusiness live – latest updatesOpenAI is reportedly in early stage talks to give a 5% stake in the",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/technology/2026/jul/02/openai-stake-us-government-ai-sam-altman",
         "seendate": "2026-07-02T07:31:15.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Rapid spread of AI may worsen global inequality, UN warns",
-        "summary": "Panel proses shared framework for responsible AI development as adoption grows unevenly across worldA new United Nations report warns that the development of artificial intelligence may exacerbate global inequality and proposes a shared framework for how to responsibly",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/jul/01/un-report-ai-inequality",
-        "seendate": "2026-07-01T19:17:11.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Bitcoin firm advertised by Nigel Farage loses 15% of asset value",
-        "summary": "Exclusive: Finance experts warn against investing in bitcoin treasury companies after Stack BTC assets plungeA bitcoin company that Nigel Farage has advertised lost more than 15% of its asset value, prompting finance experts to warn investors against those types of firms.The Reform UK leader has invested £215,000 in a bitcoin treasury company named Stack BTC. A bitcoin treasury buys the cryptocurrenc",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/politics/2026/jul/02/bitcoin-firm-advertised-by-nigel-farage-loses-15-percent-asset-value",
-        "seendate": "2026-07-02T12:02:04.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "AI summaries of Tripadvisor hotel reviews downplay serious complaints, investigation finds",
-        "summary": "AI-generated overview found to gloss over allegations of sexual harassment and describes hotel being sued over hygiene as ‘spotless’A hotel being sued for mass food poisonings was described as “spotless” and a resort where guests complained of sexual harassment by staff was praised for “friendly” service by an AI intended to summarise millions of Tripadvisor reviews.The overviews of customer feedback",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/jul/02/ai-summaries-tripadvisor-hotel-reviews-downplay-serious-complaints",
-        "seendate": "2026-07-01T23:01:01.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Sony will kill PlayStation games on discs in 2028 and offer digital downloads only",
-        "summary": "With the much-anticipated release of Grand Theft Auto VI only available as download, Sony is following suitSony said on Wednesday that it would stop releasing new video games for the PlayStation console on disc in January 2028 following a shift in consumer preferences.“Following this date, new games will be available on PlayStation Store and at retailers in digital formats only,” the company said on",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/games/2026/jul/01/sony-playstation-digital-downloads",
-        "seendate": "2026-07-01T18:56:26.000Z",
         "domain": "theguardian.com"
       }
     ],
@@ -383,6 +383,14 @@
     ],
     "science": [
       {
+        "title": "Sitting for more than 30 minutes at a time linked to higher risk of cancer death",
+        "summary": "Study suggests even light activity such as ironing could reduce health risks linked to prolonged sedentary behaviourSitting for longer than half an hour at a time each day raises the risk of dying from cancer, a study suggests.Researchers who tracked more than 90,000 people over a decade found that sitting or lying down while awake for more than 30 minutes in one period each day was associated with a",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/jul/02/sitting-minutes-cancer-death-risk-study",
+        "seendate": "2026-07-02T18:00:07.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Statins helping people with obesity match those of healthy weight on key metrics, study finds",
         "summary": "Differences in unhealthy cholesterol levels and blood pressure found to have ‘narrowed or disappeared’ in over-40sMany adults living with obesity have “indistinguishable” cholesterol and blood pressure levels compared with those who are a healthy weight, largely because of the use of statins, according to a study.In some cases, people with obesity were “better off” than those of a healthy weight, res",
         "source": "theguardian.com",
@@ -412,14 +420,6 @@
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/science/2026/jun/30/strong-chest-back-less-likely-heart-attack-analysis",
         "seendate": "2026-06-30T14:00:08.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Tiny Antarctic sea creature could be key to treating melanoma, researchers say",
-        "summary": "Underwater expedition by Florida-based team supports possible therapeutic use of bacterial toxins from sea squirtsResearchers at a Florida university say bacterial toxins produced by tiny marine organisms they have studied in Antarctica could become an effective treatment for melanoma, the deadliest form of skin cancer.A team from the University of South Florida (USF), Desert Research Institute (DRI)",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/jun/29/sea-squirt-melanoma-treatment-research",
-        "seendate": "2026-06-29T12:00:43.000Z",
         "domain": "theguardian.com"
       }
     ]
