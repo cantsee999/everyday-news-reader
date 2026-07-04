@@ -1,8 +1,32 @@
 window.NEWS_CACHE = {
-  "generatedAt": "2026-07-03T23:55:09.782Z",
+  "generatedAt": "2026-07-04T23:51:54.526Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
+      {
+        "title": "Archaeologists uncover ancient Byzantine city in Egypt’s western desert",
+        "summary": "Well-preserved fourth-century quarters reveal details of daily life, urban development and economic activitiesArchaeologists in Egypt have uncovered a well-preserved Byzantine-era city in the western desert.The fourth-century quarters had residential and religious structures, including a basilica-style church in the Dakhla oasis. Archaeologists also found coins, pottery fragments and tools. <a hr",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/jul/04/archaeologists-uncover-ancient-byzantine-city-in-egypts-western-desert",
+        "seendate": "2026-07-04T20:32:52.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "‘The situation is terrible’: aid workers on life in Sudanese city pummelled by drone strikes",
+        "summary": "El Obeid becomes key battleground in war between Sudan’s armed forces and their paramilitary enemies, the RSFFatima has lost count of the number of drone attacks on the besieged city of El Obeid in Sudan, but said the attacks this past weekend were the most violent so far.The drones hit schools and fuel stations, killing more than 20 people, including students, she said. “Over the past few months, se",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/jul/04/el-obeid-aid-workers-sudan-war-drone-strikes",
+        "seendate": "2026-07-04T15:14:18.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Overseas education project for women and girls axed by UK after two years",
+        "summary": "The programme, aimed at keeping 1m girls in school across Africa, Asia and the Middle East, withdrawn after aid cutsA leading higher education programme, aimed at keeping 1 million girls in school across Africa, Asia and the Middle East, has been axed by the British government just two years after it was announced.The scheme, Strengthening higher education for female empowerment (SHEFE), which was <a",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/global-development/2026/jul/04/overseas-education-project-for-women-and-girls-axed-by-uk-after-two-years",
+        "seendate": "2026-07-04T08:00:08.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "‘Give him any award, and he’ll come running’: Narendra Modi racks up honours on overseas trips",
         "summary": "Indian prime minister has a habit of collecting awards on his travels, some as their first and only recipientAs Narendra Modi touched down in Seychelles over the weekend, the archipelago nation in the Indian Ocean swiftly bestowed one of its “highest” honours upon the Indian prime minister.Modi beamed as he accepted the Guardian of the Blue Horizon award from Patrick Herminie, the Se",
@@ -17,35 +41,35 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/world/2026/jul/02/cote-d-ivoire-floods-dead-west-africa-rains",
         "seendate": "2026-07-02T11:01:32.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Understanding Ebola’s wildlife origins is crucial to preventing next big outbreak",
-        "summary": "If we don’t know the source, not only do humans remain at risk but wildlife can suffer needlessly via retaliationWhile virologists and public health departments were palpitating over the news of an Andes virus infectious disease outbreak on a cruise ship (13 cases, three deaths), in the D",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/2026/jul/02/understanding-ebola-wildlife-origins-crucial-preventing-next-big-outbreak",
-        "seendate": "2026-07-02T09:00:00.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Sudan’s RSF committed crimes against humanity in El Fasher, Amnesty says",
-        "summary": "Report accuses paramilitary force of crimes including ethnic cleansing in systemic campaign against civiliansThe Sudanese paramilitary Rapid Support Forces committed crimes against humanity and ethnic cleansing during its campaign to capture El Fasher, Amnesty International has alleged.Many of the crimes, including murder, torture, rape, enslavement and sexual slavery, were carried out as part of a w",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/jul/01/sudan-rsf-rapid-support-forces-crimes-against-humanity-el-fasher-amnesty-ethnic-cleansing",
-        "seendate": "2026-07-01T12:45:00.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "‘Witch-hunt’ in Niger as military regime rounds up LGBTQ+ population",
-        "summary": "Fears of resurgence of HIV/Aids amid loss of access to PrEP drugs as at least 40 people arrested in ‘toxic’ climateA “witch-hunt” is under way in Niger, where dozens of people have been arrested for homosexuality in the west African state following the introduction of a new penal code earlier this year.Up to 40 people have been arrested and 16 men, including high-ranking military officials, have been",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/jul/01/witch-hunt-in-niger-as-military-regime-rounds-up-lgbtq-population",
-        "seendate": "2026-07-01T07:00:29.000Z",
         "domain": "theguardian.com"
       }
     ],
     "conflict": [
       {
+        "title": "Archaeologists uncover ancient Byzantine city in Egypt’s western desert",
+        "summary": "Well-preserved fourth-century quarters reveal details of daily life, urban development and economic activitiesArchaeologists in Egypt have uncovered a well-preserved Byzantine-era city in the western desert.The fourth-century quarters had residential and religious structures, including a basilica-style church in the Dakhla oasis. Archaeologists also found coins, pottery fragments and tools. <a hr",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/jul/04/archaeologists-uncover-ancient-byzantine-city-in-egypts-western-desert",
+        "seendate": "2026-07-04T20:32:52.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "‘The situation is terrible’: aid workers on life in Sudanese city pummelled by drone strikes",
+        "summary": "El Obeid becomes key battleground in war between Sudan’s armed forces and their paramilitary enemies, the RSFFatima has lost count of the number of drone attacks on the besieged city of El Obeid in Sudan, but said the attacks this past weekend were the most violent so far.The drones hit schools and fuel stations, killing more than 20 people, including students, she said. “Over the past few months, se",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/jul/04/el-obeid-aid-workers-sudan-war-drone-strikes",
+        "seendate": "2026-07-04T15:14:18.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Overseas education project for women and girls axed by UK after two years",
+        "summary": "The programme, aimed at keeping 1m girls in school across Africa, Asia and the Middle East, withdrawn after aid cutsA leading higher education programme, aimed at keeping 1 million girls in school across Africa, Asia and the Middle East, has been axed by the British government just two years after it was announced.The scheme, Strengthening higher education for female empowerment (SHEFE), which was <a",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/global-development/2026/jul/04/overseas-education-project-for-women-and-girls-axed-by-uk-after-two-years",
+        "seendate": "2026-07-04T08:00:08.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "‘Give him any award, and he’ll come running’: Narendra Modi racks up honours on overseas trips",
         "summary": "Indian prime minister has a habit of collecting awards on his travels, some as their first and only recipientAs Narendra Modi touched down in Seychelles over the weekend, the archipelago nation in the Indian Ocean swiftly bestowed one of its “highest” honours upon the Indian prime minister.Modi beamed as he accepted the Guardian of the Blue Horizon award from Patrick Herminie, the Se",
         "source": "theguardian.com",
@@ -60,33 +84,17 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/world/2026/jul/02/cote-d-ivoire-floods-dead-west-africa-rains",
         "seendate": "2026-07-02T11:01:32.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Understanding Ebola’s wildlife origins is crucial to preventing next big outbreak",
-        "summary": "If we don’t know the source, not only do humans remain at risk but wildlife can suffer needlessly via retaliationWhile virologists and public health departments were palpitating over the news of an Andes virus infectious disease outbreak on a cruise ship (13 cases, three deaths), in the D",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/2026/jul/02/understanding-ebola-wildlife-origins-crucial-preventing-next-big-outbreak",
-        "seendate": "2026-07-02T09:00:00.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Sudan’s RSF committed crimes against humanity in El Fasher, Amnesty says",
-        "summary": "Report accuses paramilitary force of crimes including ethnic cleansing in systemic campaign against civiliansThe Sudanese paramilitary Rapid Support Forces committed crimes against humanity and ethnic cleansing during its campaign to capture El Fasher, Amnesty International has alleged.Many of the crimes, including murder, torture, rape, enslavement and sexual slavery, were carried out as part of a w",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/jul/01/sudan-rsf-rapid-support-forces-crimes-against-humanity-el-fasher-amnesty-ethnic-cleansing",
-        "seendate": "2026-07-01T12:45:00.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "‘Witch-hunt’ in Niger as military regime rounds up LGBTQ+ population",
-        "summary": "Fears of resurgence of HIV/Aids amid loss of access to PrEP drugs as at least 40 people arrested in ‘toxic’ climateA “witch-hunt” is under way in Niger, where dozens of people have been arrested for homosexuality in the west African state following the introduction of a new penal code earlier this year.Up to 40 people have been arrested and 16 men, including high-ranking military officials, have been",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/jul/01/witch-hunt-in-niger-as-military-regime-rounds-up-lgbtq-population",
-        "seendate": "2026-07-01T07:00:29.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "economy": [
+      {
+        "title": "As auto costs rise, will the US miss the golden age of electric vehicles?",
+        "summary": "Shifting demands and political ideology have left the industry vulnerable to global competition from cheap Chinese carsEarlier this month, an intriguing new Detroit-based electric vehicle startup hit the market – <a href=\"https://www.google.com/aclk?sa=L&amp;pf=1&amp;ai=DChsSEwir27Cr16yVAxXwisIIHfM9CQ8YACICCAEQABoCamY&amp;co=1&amp;ase=2&amp;gclid=Cj0KCQjwr4jSBhCSARIsAOX1E-IH-4mSX4ivEa1oH1f2RlX0HzST0YjCEXd7c",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/jul/04/electric-cars-vehicles-united-states",
+        "seendate": "2026-07-04T11:00:12.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "US residents angry at datacenters ‘being shoved down our throats’ are recalling officials",
         "summary": "People across the country are pushing for moratoriums, and electeds who approve projects are being punishedLenoxdatacenter.com went live in May, promoting what it called a “proposed advanced technology and data center campus” in Michigan. The site did not state who wanted to build the center. Lenox Towns",
@@ -118,17 +126,17 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/technology/2026/jul/02/tesla-sales-second-quarter",
         "seendate": "2026-07-02T15:23:11.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Crypto and stock stakes: key takeaways from Trump’s financial disclosures",
-        "summary": "US president raked in more than $1bn from crypto – an industry he has sought to deregulate – and a total of $2.2bn last year, files revealAlarm bells over conflict of interest as filing shows Trump raked in $2bn in 2025Donald Trump’s money-making ventures enriched him by more than $2bn<a h",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jul/01/crypto-ventures-stock-key-takeaways-trump-financial-disclosures",
-        "seendate": "2026-07-01T13:30:20.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "literature": [
+      {
+        "title": "How AI is changing language",
+        "summary": "As allegations of LLM use rock the literary and media worlds, linguists explain what really distinguishes human and machine writing, while novelists including Jennifer Egan and Jeanette Winterson reflect on the future of fiction in an age of ChatGPTThree paragraphs, from three different hotel reviews. Can you tell which, if any, were AI‑generated?“The hotel is in a great location for",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/ng-interactive/2026/jul/04/future-of-fiction-next-great-novel-ai-language-chat-gpt",
+        "seendate": "2026-07-04T08:00:07.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "On the Mark by Florence Hazrat review – a fascinating history of punctuation",
         "summary": "This lavishly researched book shows that dots and dashes are an essential component of style, whether you’re a medieval monk or Donald TrumpHow do you feel about exclamation marks? Otherwise known as gaspers, screamers, dog’s cocks, or shrieks. In his Modern English Usage, Fowler said that using too many betrays an “uneducated or unpractised writer”. Martin Amis called them “joke badges”, and Theodor Adorno",
@@ -159,14 +167,6 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/books/2026/jul/02/honey-by-imani-thompson-audiobook-review-a-darkly-entertaining-campus-thriller",
         "seendate": "2026-07-02T14:00:02.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Short story accused of being AI-written wins overall Commonwealth prize",
-        "summary": "Jamir Nazir’s The Serpent in the Grove, which critics allege has ‘obvious markers’ of AI use, was described as ‘original, poetic and deeply moving’ by the judging chairA story widely accused on social media of being written using AI has gone on to win the overall Commonwealth short story prize.Jamir Nazir’s story The Serpent in the Grove went",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jul/01/judges-claims-ai-use-commonwealth-short-story-prize-jamir-nazir",
-        "seendate": "2026-07-01T12:44:11.000Z",
         "domain": "theguardian.com"
       }
     ],
@@ -214,47 +214,79 @@ window.NEWS_CACHE = {
     ],
     "f1": [
       {
-        "title": "Zak Brown delivers McLaren F1 turnaround timeline",
-        "summary": "McLaren Racing CEO Zak Brown has insisted his team has the capacity to overtake its rivals to produce the fastest car on the Formula 1 grid before the current regulation cycle ends. Speaking to former F1 TV presenter Will Buxton on the Up To Speed podcast, Brown cited the team's previous dramatic recovery from the ninth-fastest team to the constructors' champion as evidence that massive ...<a class='more",
+        "title": "Martin Brundle declares Kimi Antonelli the driver to beat after Silverstone sprint win",
+        "summary": "Sky Sports Formula 1 analyst Martin Brundle has argued that Mercedes driver Kimi Antonelli is now the clear benchmark in the 2026 championship after an impressive sprint race victory at Silverstone.Antonelli, now in his second season in the series, has emerged as the man to beat. The 19-year-old became the youngest driver to lead the standings after back-to-back wins at the Chinese and ...<a class='more'",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/zak-brown-delivers-mclaren-f1-turnaround-timeline/10835945/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-03T22:35:02.000Z",
+        "url": "https://www.motorsport.com/f1/news/martin-brundle-declares-kimi-antonelli-the-driver-to-beat-after-silverstone-sprint-win/10836265/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-04T20:35:25.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Lando Norris reveals how winning F1 championship changed him",
-        "summary": "Reigning Formula 1 champion Lando Norris believes securing his maiden title has made him a more relaxed and confident driver.Speaking on the F1 Beyond The Grid podcast, the McLaren driver detailed the mental shift that followed his championship victory. After dedicating his whole career to reaching the milestone, Norris said achieving the goal gave him a new level of confidence.Asked if he ...<a clas",
+        "title": "F1 British GP: Sunday schedule, weather forecast and how to watch",
+        "summary": "Formula 1 heads into Sunday at Silverstone with Kimi Antonelli on pole after a commanding Saturday at the British GP.The Mercedes championship leader passed Lewis Hamilton to win the sprint, then followed it by taking his fifth grand prix pole of the season. Charles Leclerc starts alongside him on the front row, with Hamilton third and George Russell fourth after fading in the final part of ...<a class='",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/lando-norris-reveals-how-winning-f1-championship-changed-him/10835900/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-03T21:35:01.000Z",
+        "url": "https://www.motorsport.com/f1/news/f1-british-gp-sunday-schedule-weather-forecast-and-how-to-watch/10836329/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-04T19:11:36.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "F1 British GP: Saturday schedule, weather forecast and how to watch",
-        "summary": "Formula 1 heads into Saturday at Silverstone with Lewis Hamilton on sprint pole after edging Kimi Antonelli in a tight sprint qualifying session at the British GP.Hamilton beat the Mercedes championship leader by just 0.011s to take his first sprint pole since last year’s Chinese grand prix. Max Verstappen starts third, ahead of Charles Leclerc, George Russell and Lando Norris.Saturday ...<a class='m",
+        "title": "George Russell perplexed by top speed deficit at F1 British GP",
+        "summary": "George Russell is perplexed by the speed deficit he holds to fellow Mercedes-powered cars at this weekend’s Formula 1 British Grand Prix after another disappointing qualifying.The Mercedes driver will start Sunday’s race at Silverstone from fourth on the grid, behind his pole-winning team-mate Kimi Antonelli and the Ferraris of Charles Leclerc and Lewis Hamilton.It continued an ...<a class='more' hre",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/f1-british-gp-saturday-schedule-weather-forecast-and-how-to-watch/10836007/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-03T19:28:52.000Z",
+        "url": "https://www.motorsport.com/f1/news/george-russell-perplexed-by-speed-trap-struggles-at-f1-british-gp/10836370/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-04T18:48:15.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Toto Wolff turns heads at Silverstone with rare classic Mercedes estimated at $3.5million",
-        "summary": "Mercedes Formula 1 team chief Toto Wolff turned heads with his entrance to the Silverstone paddock ahead of the only practice session and sprint qualifying today.While Wolff and his wife, F1 Academy managing director Susie Wolff, are frequently seen driving around the streets of Monte Carlo in the Mercedes-Benz 300 SL Roadster, he selected its hard-top predecessor for the British race ...<a class='more'",
+        "title": "Here's the starting grid for F1 British GP - with a new penalty",
+        "summary": "1 Kimi Antonelli(Mercedes) 2 Charles Leclerc(Ferrari)3 Lewis Hamilton(Ferrari) 4 George ...<a class='more' href='https://www.motorsport.com/f1/news/la-grille-d",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/toto-wolff-turns-heads-at-silverstone-with-rare-classic-mercedes-estimated-at-35million/10835999/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-03T18:56:24.000Z",
+        "url": "https://www.motorsport.com/f1/news/la-grille-de-depart-du-grand-prix-de-grande-bretagne-f1-2026/10836363/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-04T18:28:15.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Jacques Villeneuve defends Lewis Hamilton over F1 retirement claims",
-        "summary": "1997 Formula 1 champion Jacques Villeneuve has defended Lewis Hamilton, dismissing suggestions that the seven-time champion should have considered hanging up his helmet during his struggles in recent years.Following a challenging end to his otherwise successful stint at Mercedes, where he won six of his seven titles, many from inside and outside of the paddock suggested that the Briton should ...<a class",
+        "title": "\"There is no point racing like this\" – Max Verstappen reveals Red Bull power unit issue",
+        "summary": "After surprising even himself with third place in sprint qualifying, Verstappen's qualifying session for the Formula 1 British Grand Prix turned into a major disappointment.For the first time since Baku 2024, Verstappen was beaten by a team-mate in Q3 – back then it was Sergio Perez, this time it was Isack Hadjar, who finished one-and-a-half tenths ahead.However, Verstappen already felt ...<a class='",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/jacques-villeneuve-defends-lewis-hamilton-over-f1-retirement-claims/10835315/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-03T18:53:25.000Z",
+        "url": "https://www.motorsport.com/f1/news/there-is-no-point-racing-like-this-max-verstappen-reveals-red-bull-power-unit-issue/10836338/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-04T18:06:36.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
+      {
+        "title": "Counter-Strike 2 might be the biggest game on Steam, but Global Offensive is breaking player count records since it went standalone again",
+        "summary": "Do not pass GO.",
+        "source": "pcgamer.com",
+        "url": "https://www.pcgamer.com/games/fps/counter-strike-2-might-be-the-biggest-game-on-steam-but-global-offensive-is-breaking-player-count-records-since-it-went-standalone-again/",
+        "seendate": "2026-07-04T16:43:21.000Z",
+        "domain": "pcgamer.com"
+      },
+      {
+        "title": "Crossfire is actually the second singleplayer shooter named after Korea’s Counter-Strike—and the last one was made by Remedy",
+        "summary": "But you might struggle to stay A Wake for it.",
+        "source": "pcgamer.com",
+        "url": "https://www.pcgamer.com/games/fps/crossfire-is-actually-the-second-singleplayer-shooter-named-after-koreas-counter-strike-and-the-last-one-was-made-by-remedy/",
+        "seendate": "2026-07-04T16:00:00.000Z",
+        "domain": "pcgamer.com"
+      },
+      {
+        "title": "Modders made a Fallout 4 quest in a weekend for charity, and it features iconic Elder Scrolls actor Wes Johnson",
+        "summary": "It's raised over $7,000 so far.",
+        "source": "pcgamer.com",
+        "url": "https://www.pcgamer.com/games/fallout/modders-made-a-fallout-4-quest-in-a-weekend-for-charity-and-it-features-iconic-elder-scrolls-actor-wes-johnson/",
+        "seendate": "2026-07-04T15:40:45.000Z",
+        "domain": "pcgamer.com"
+      },
+      {
+        "title": "Dragon Age setting creator David Gaider is pitching a heist RPG that's 'make or break' for his studio",
+        "summary": "Publishers are enthusiastic, but they're not yet stumping up the funds.",
+        "source": "pcgamer.com",
+        "url": "https://www.pcgamer.com/games/rpg/dragon-age-setting-creator-david-gaider-is-pitching-a-heist-rpg-thats-make-or-break-for-his-studio/",
+        "seendate": "2026-07-04T14:00:00.000Z",
+        "domain": "pcgamer.com"
+      },
       {
         "title": "Epic reaches lawsuit settlement with former contractor who was also a notorious Fortnite leaker",
         "summary": "No more leaking for you!",
@@ -262,48 +294,32 @@ window.NEWS_CACHE = {
         "url": "https://www.pcgamer.com/games/epic-reaches-lawsuit-settlement-with-former-contractor-who-was-also-a-notorious-fortnite-leaker/",
         "seendate": "2026-07-03T22:07:50.000Z",
         "domain": "pcgamer.com"
-      },
-      {
-        "title": "Mouthwashing's follow-up is self-described 'friendsweat' where 3 players struggle to operate a tank in a defiled city: 'We're definitely not quite at Peak, but we're not trying to make Arma either'",
-        "summary": "It sounds stressful as hell, and I can't wait.",
-        "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/horror/mouthwashings-follow-up-is-self-described-friendsweat-where-3-players-struggle-to-operate-a-tank-in-a-defiled-city-were-definitely-not-quite-at-peak-but-were-not-trying-to-make-arma-either/",
-        "seendate": "2026-07-03T21:31:52.000Z",
-        "domain": "pcgamer.com"
-      },
-      {
-        "title": "The latest Chinese PC gaming hit is an indie game that spent the last 8 years growing into something you've never played before",
-        "summary": "The Scroll of Taiwu joins the wave of Chinese-developed games taking over Steam.",
-        "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/rpg/the-latest-chinese-pc-gaming-hit-is-an-indie-game-that-spent-the-last-8-years-growing-into-something-youve-never-played-before/",
-        "seendate": "2026-07-03T18:00:00.000Z",
-        "domain": "pcgamer.com"
-      },
-      {
-        "title": "EVE Online studio Fenris follows through on yearslong promise to make its in-house game engine fully open source",
-        "summary": "Mad respect.",
-        "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/mmo/eve-online-studio-fenris-follows-through-on-yearslong-promise-to-make-its-in-house-game-engine-fully-open-source/",
-        "seendate": "2026-07-03T17:18:48.000Z",
-        "domain": "pcgamer.com"
-      },
-      {
-        "title": "New Sims 4 update cuts back on excessive notifications—you can finally silence your phone, and the grim reaper will try to recruit you less",
-        "summary": "You know, the familiar rhythms of contemporary life.",
-        "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/the-sims/new-sims-4-update-cuts-back-on-excessive-notifications-you-can-finally-silence-your-phone-and-the-grim-reaper-will-try-to-recruit-you-less/",
-        "seendate": "2026-07-03T17:15:33.000Z",
-        "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
+      {
+        "title": "OpenAI’s apparent failure to visit key site raises questions over UK investment",
+        "summary": "Exclusive: £20bn of ‘potential’ £30bn AI investment touted by UK ministers appears to have been hypotheticalIt was to be the biggest undertaking in Britain for OpenAI, the company behind ChatGPT. Stargate UK – a multibillion-pound UK datacentre project – would represent “a major step forward in the US-UK technology partnership”.But the <a href=\"https://www.theguardian.com/technology/",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/jul/04/openai-apparent-failure-visit-key-site-questions-stargate-uk-project",
+        "seendate": "2026-07-04T12:00:12.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "UK parents warned over posting images of children amid AI sexual abuse fears",
         "summary": "Exclusive: National Crime Agency and safety watchdog issue guidance amid rise in explicit material onlineAI prey: why watchdogs are telling parents to protect children from nudification appsParents should not put photos of their children on public displa",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/society/2026/jul/03/ai-sexual-abuse-fears-uk-parents-warned-posting-images-children-national-crime-agency",
         "seendate": "2026-07-03T17:22:59.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "How AI is changing language",
+        "summary": "As allegations of LLM use rock the literary and media worlds, linguists explain what really distinguishes human and machine writing, while novelists including Jennifer Egan and Jeanette Winterson reflect on the future of fiction in an age of ChatGPTThree paragraphs, from three different hotel reviews. Can you tell which, if any, were AI‑generated?“The hotel is in a great location for",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/ng-interactive/2026/jul/04/future-of-fiction-next-great-novel-ai-language-chat-gpt",
+        "seendate": "2026-07-04T08:00:07.000Z",
         "domain": "theguardian.com"
       },
       {
@@ -321,25 +337,25 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/media/2026/jul/02/lisa-nandy-culture-social-media-x-abuse-misinformation",
         "seendate": "2026-07-02T17:43:30.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Tesla sales surpass expectations for second quarter as Musk backlash seems to cool",
-        "summary": "Strong figures suggest Tesla’s auto business is regaining momentum after two straight annual sales declinesTesla blew past ​Wall Street estimates for second-quarter deliveries on Thursday, posting a record for the period as recovering demand in Europe outweighed persistent weakness in North America.The strong figures suggest Tesla’s ⁠mainstay auto business is regaining momentum after two straight ann",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/jul/02/tesla-sales-second-quarter",
-        "seendate": "2026-07-02T15:23:11.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "OpenAI ‘in early talks to give 5% stake to US government’",
-        "summary": "CEO Sam Altman argued move would share benefits of AI and it would involve other firms doing similar, report saysBusiness live – latest updatesOpenAI is reportedly in early stage talks to give a 5% stake in the",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/jul/02/openai-stake-us-government-ai-sam-altman",
-        "seendate": "2026-07-02T07:31:15.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "climate": [
+      {
+        "title": "Overcrowded and underfunded: Trump’s cuts to national parks threaten the US’s ‘best idea’",
+        "summary": "This summer, Yosemite national park has been rife with traffic jams and throngs of visitors. Can these popular national treasures withstand a future of strained resources?On a crisp, sunny morning at the end of June, dappled light filtered through the canopy of an ancient grove of giant sequoias, casting a tranquil backdrop for a mule deer as it ambled across the trail. Families from around the world gazed",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/environment/2026/jul/04/trump-national-parks",
+        "seendate": "2026-07-04T14:00:15.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "As auto costs rise, will the US miss the golden age of electric vehicles?",
+        "summary": "Shifting demands and political ideology have left the industry vulnerable to global competition from cheap Chinese carsEarlier this month, an intriguing new Detroit-based electric vehicle startup hit the market – <a href=\"https://www.google.com/aclk?sa=L&amp;pf=1&amp;ai=DChsSEwir27Cr16yVAxXwisIIHfM9CQ8YACICCAEQABoCamY&amp;co=1&amp;ase=2&amp;gclid=Cj0KCQjwr4jSBhCSARIsAOX1E-IH-4mSX4ivEa1oH1f2RlX0HzST0YjCEXd7c",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/jul/04/electric-cars-vehicles-united-states",
+        "seendate": "2026-07-04T11:00:12.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "As seas rise, American history could be washed away",
         "summary": "In Jamestown, Virginia, one of the most important places in American history is in a race against time from rising watersSean Romo stops digging the moment he sees a faint line emerge in the sandy Virginia soil.It’s just a slight change in color, but to Romo, director of archaeology for Jamestown Rediscovery, it may be another piece of America’s origin story.<a href=\"https://www.climatecentral",
@@ -362,22 +378,6 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/us-news/2026/jul/02/el-nino-summer-heat-record",
         "seendate": "2026-07-02T11:30:11.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Scientists fear seabird die-off as El Niño looms: ‘We don’t know how bad this will get’",
-        "summary": "Many seabirds are starving to death as a marine heat wave lingers off California and fish seek deeper, cooler watersWithin minutes of walking on a San Diego beach, marine ornithologist Tammy Russell found the feathered carcasses – one after another.Some were mixed in with washed up kelp. Others were under rocks. Continue",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jul/01/el-nino-birds-california",
-        "seendate": "2026-07-01T19:37:09.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "New Orleans residents on warning to abandon sinking city: ‘Nobody wants to leave home’",
-        "summary": "After a recent study found New Orleans is at a ‘point of no return’ amid the climate crisis, some locals say they will ‘only leave if forced to’. But what would it take to stay?When a study in May concluded that New Orleans had hit a “point of no return” due to the climate crisis</a",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jul/01/new-orleans-relocation-reactions-climate",
-        "seendate": "2026-07-01T12:00:37.000Z",
         "domain": "theguardian.com"
       }
     ],
