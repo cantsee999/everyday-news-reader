@@ -1,8 +1,32 @@
 window.NEWS_CACHE = {
-  "generatedAt": "2026-07-06T23:57:24.659Z",
+  "generatedAt": "2026-07-07T23:44:44.581Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
+      {
+        "title": "Catnip lotion as effective as Deet at repelling mosquitoes, study finds",
+        "summary": "Researchers testing a cheap, homegrown oil in Uganda found what cats knew all along – it worked as well as the artificial chemical used globally A homegrown catnip lotion has proven “just as effective as Deet” as a mosquito repellant in trials carried out in Uganda.Catnip, or Nepeta cataria, is a common herb from the mint family. The chemical in the plant that causes feline euphoria – nepeta",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/global-development/2026/jul/07/catnip-lotion-as-effective-as-deet-at-repelling-mosquitoes-study-finds",
+        "seendate": "2026-07-07T15:17:19.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "What will define Elon Musk’s legacy? Doge cuts to USAID Ebola programs",
+        "summary": "Experts say cuts have hindered the response to DRC’s Ebola outbreak and resulted in ‘significant numbers’ of deathsElon Musk has an Ebola problem. SpaceX stock dropped precipitously after its initial public offering, and Tesla faces a wave of lawsuits. But instead of focusing on his companies, Musk has posted frequently on X about the US Agency for International Development (USAID), which he helped dismantl",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/jul/07/elon-musk-doge-cuts-usaid-ebola",
+        "seendate": "2026-07-07T11:00:06.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Five charged in Liberia after more than 200kg of cocaine seized in drug bust",
+        "summary": "Shipment discovered at airport in Monrovia and valued at £14.2m had been falsely declared as seasoning cubesAuthorities in Liberia have charged five suspects over one of the largest drug seizures in the country’s history, after police found more than 200kg of cocaine falsely declared as Maggi seasoning cubes.The shipment, with an estimated value of $19m (£14.2m), was discovered at th",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/jul/07/charged-liberia-200kg-cocaine-seized-drug-bust",
+        "seendate": "2026-07-07T06:30:31.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Archaeologists uncover ancient Byzantine city in Egypt’s western desert",
         "summary": "Well-preserved fourth-century quarters reveal details of daily life, urban development and economic activitiesArchaeologists in Egypt have uncovered a well-preserved Byzantine-era city in the western desert.The fourth-century quarters had residential and religious structures, including a basilica-style church in the Dakhla oasis. Archaeologists also found coins, pottery fragments and tools. <a hr",
@@ -17,76 +41,60 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/world/2026/jul/04/el-obeid-aid-workers-sudan-war-drone-strikes",
         "seendate": "2026-07-04T15:14:18.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Overseas education project for women and girls axed by UK after two years",
-        "summary": "The programme, aimed at keeping 1m girls in school across Africa, Asia and the Middle East, withdrawn after aid cutsA leading higher education programme, aimed at keeping 1 million girls in school across Africa, Asia and the Middle East, has been axed by the British government just two years after it was announced.The scheme, Strengthening higher education for female empowerment (SHEFE), which was <a",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/global-development/2026/jul/04/overseas-education-project-for-women-and-girls-axed-by-uk-after-two-years",
-        "seendate": "2026-07-04T08:00:08.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "‘Give him any award, and he’ll come running’: Narendra Modi racks up honours on overseas trips",
-        "summary": "Indian prime minister has a habit of collecting awards on his travels, some as their first and only recipientAs Narendra Modi touched down in Seychelles over the weekend, the archipelago nation in the Indian Ocean swiftly bestowed one of its “highest” honours upon the Indian prime minister.Modi beamed as he accepted the Guardian of the Blue Horizon award from Patrick Herminie, the Se",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/jul/03/narendra-modi-awards-honours-overseas-trips",
-        "seendate": "2026-07-03T00:00:13.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Côte d’Ivoire floods kill 59 as west Africa endures torrential rains",
-        "summary": "Authorities say rainy season getting deadlier, with Ghana reporting 13 dead and floods hitting Benin, Togo and NigeriaFloods in Côte d’Ivoire have killed 59 people since May, the communication minister told a cabinet meeting in Abidjan.There are fears the toll could further rise as rescue teams continue to search for victims during the rainy season, which runs from May until July, the minister, Amado",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/jul/02/cote-d-ivoire-floods-dead-west-africa-rains",
-        "seendate": "2026-07-02T11:01:32.000Z",
         "domain": "theguardian.com"
       }
     ],
     "conflict": [
       {
-        "title": "Archaeologists uncover ancient Byzantine city in Egypt’s western desert",
-        "summary": "Well-preserved fourth-century quarters reveal details of daily life, urban development and economic activitiesArchaeologists in Egypt have uncovered a well-preserved Byzantine-era city in the western desert.The fourth-century quarters had residential and religious structures, including a basilica-style church in the Dakhla oasis. Archaeologists also found coins, pottery fragments and tools. <a hr",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/jul/04/archaeologists-uncover-ancient-byzantine-city-in-egypts-western-desert",
-        "seendate": "2026-07-04T20:32:52.000Z",
-        "domain": "theguardian.com"
+        "title": "George E . Johnson Sr ., Black hair care pioneer who created Afro Sheen , dies at 99",
+        "summary": "George E. Johnson Sr., the onetime chemist who built Chicago-based Johnson Products, the nation’s largest producer of cosmetics and hair products for African Americans, died on Monday at his Chicago home.",
+        "source": "chicoer.com",
+        "url": "https://www.chicoer.com/2026/07/07/george-e-johnson-sr-founder-of-johnson-products-company-dies-at-99/",
+        "seendate": "20260707T231500Z",
+        "domain": "chicoer.com"
       },
       {
-        "title": "‘The situation is terrible’: aid workers on life in Sudanese city pummelled by drone strikes",
-        "summary": "El Obeid becomes key battleground in war between Sudan’s armed forces and their paramilitary enemies, the RSFFatima has lost count of the number of drone attacks on the besieged city of El Obeid in Sudan, but said the attacks this past weekend were the most violent so far.The drones hit schools and fuel stations, killing more than 20 people, including students, she said. “Over the past few months, se",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/jul/04/el-obeid-aid-workers-sudan-war-drone-strikes",
-        "seendate": "2026-07-04T15:14:18.000Z",
-        "domain": "theguardian.com"
+        "title": "US launches fresh strikes against Iran after tankers hit in Strait of Hormuz",
+        "summary": "The attacks came just hours after Washington also pulled Tehran’s license to sell oil, which was only approved last month",
+        "source": "northwichguardian.co.uk",
+        "url": "https://www.northwichguardian.co.uk/news/national/26261356.us-launches-fresh-strikes-iran-tankers-hit-strait-hormuz/",
+        "seendate": "20260707T231500Z",
+        "domain": "northwichguardian.co.uk"
       },
       {
-        "title": "Overseas education project for women and girls axed by UK after two years",
-        "summary": "The programme, aimed at keeping 1m girls in school across Africa, Asia and the Middle East, withdrawn after aid cutsA leading higher education programme, aimed at keeping 1 million girls in school across Africa, Asia and the Middle East, has been axed by the British government just two years after it was announced.The scheme, Strengthening higher education for female empowerment (SHEFE), which was <a",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/global-development/2026/jul/04/overseas-education-project-for-women-and-girls-axed-by-uk-after-two-years",
-        "seendate": "2026-07-04T08:00:08.000Z",
-        "domain": "theguardian.com"
+        "title": "Three tankers hit in Strait of Hormuz as US revokes licence on Iranian oil sales",
+        "summary": "The US Treasury issued the 60-day licence last month, waiving sanctions on Iranian oil as part of an interim agreement to end the fighting.",
+        "source": "heraldseries.co.uk",
+        "url": "https://www.heraldseries.co.uk/news/national/26261337.three-tankers-hit-strait-hormuz-us-revokes-licence-iranian-oil-sales/",
+        "seendate": "20260707T231500Z",
+        "domain": "heraldseries.co.uk"
       },
       {
-        "title": "‘Give him any award, and he’ll come running’: Narendra Modi racks up honours on overseas trips",
-        "summary": "Indian prime minister has a habit of collecting awards on his travels, some as their first and only recipientAs Narendra Modi touched down in Seychelles over the weekend, the archipelago nation in the Indian Ocean swiftly bestowed one of its “highest” honours upon the Indian prime minister.Modi beamed as he accepted the Guardian of the Blue Horizon award from Patrick Herminie, the Se",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/jul/03/narendra-modi-awards-honours-overseas-trips",
-        "seendate": "2026-07-03T00:00:13.000Z",
-        "domain": "theguardian.com"
+        "title": "Aspen Acres fire destroys historic , beloved lodge ; fate of surrounding Pueblo Mountain Park uncertain",
+        "summary": "Amid the ruins of the Aspen Acres fire, the future of Pueblo Mountain Park is uncertain.",
+        "source": "gazette.com",
+        "url": "https://gazette.com/2026/07/07/aspen-acres-fire-destroys-historic-beloved-lodge-fate-of-surrounding-pueblo-mountain-park-uncertain/",
+        "seendate": "20260707T231500Z",
+        "domain": "gazette.com"
       },
       {
-        "title": "Côte d’Ivoire floods kill 59 as west Africa endures torrential rains",
-        "summary": "Authorities say rainy season getting deadlier, with Ghana reporting 13 dead and floods hitting Benin, Togo and NigeriaFloods in Côte d’Ivoire have killed 59 people since May, the communication minister told a cabinet meeting in Abidjan.There are fears the toll could further rise as rescue teams continue to search for victims during the rainy season, which runs from May until July, the minister, Amado",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/jul/02/cote-d-ivoire-floods-dead-west-africa-rains",
-        "seendate": "2026-07-02T11:01:32.000Z",
-        "domain": "theguardian.com"
+        "title": "Iran Fires Missiles At Commercial Ships After Funeral Crowds Chant  Death To Trump  And  Death To Bibi  ",
+        "summary": "Iran’s Islamic Revolutionary Guard Corps fired missiles at commercial vessels near the Strait of Hormuz early Tuesday, escalating tensions just hours after massive funeral processions for slain Supreme Leader Ayatollah Ali Khamenei featured chants of “Death to Trump” and “Death to Bibi.”",
+        "source": "worthynews.com",
+        "url": "https://www.worthynews.com/115749-iran-fires-missiles-at-commercial-ships-after-funeral-crowds-chant-death-to-trump-and-death-to-bibi",
+        "seendate": "20260707T231500Z",
+        "domain": "worthynews.com"
       }
     ],
     "economy": [
+      {
+        "title": "Half of Americans struggle to afford groceries and gas, exclusive poll finds",
+        "summary": "About 57% of polled Americans also believe economy is worsening in grim portrait of cost of living crisis, according to Harris survey for the GuardianNinety-five per cent of Americans believe the US is suffering an affordability crisis, as many report trouble with the rising cost of groceries and gas, according to an exclusive new poll conducted for the Guardian.The survey, conducted by Harris Poll,",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/business/2026/jul/07/cost-of-living-poll-groceries-gas",
+        "seendate": "2026-07-07T11:00:06.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "‘Why take those jobs away?’: the unionized workers decrying Trump’s war on wind",
         "summary": "Workers proud of their efforts to grow renewable energy say US president pursuing ‘personal vendetta’ at their expenseDonald Trump has blamed everything – from “national security” issues, the deaths of birds and",
@@ -118,181 +126,173 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/us-news/2026/jul/04/electric-cars-vehicles-united-states",
         "seendate": "2026-07-04T11:00:12.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "US residents angry at datacenters ‘being shoved down our throats’ are recalling officials",
-        "summary": "People across the country are pushing for moratoriums, and electeds who approve projects are being punishedLenoxdatacenter.com went live in May, promoting what it called a “proposed advanced technology and data center campus” in Michigan. The site did not state who wanted to build the center. Lenox Towns",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jul/03/datacenter-recall-elections",
-        "seendate": "2026-07-03T11:00:27.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "literature": [
       {
-        "title": "‘It’s more than just fairy smut’: Inside the UK’s first romantasy bookshop",
-        "summary": "Between enemies-to-lovers and ‘shadow daddies’, BookTok has fallen in love with the spicy stories combining romance and fantasy. But there is more to the subgenre than sex, say the fans who queued for hours outside the brick-and-mortar Oxford store‘We left Warrington at 5.15am this morning to get here,” Emma tells me, standing in a queue that stretches down Walton Street. It is just after 9am on a Saturday",
+        "title": "‘I presumed kids’ books were written by people who were white and dead’: new children’s laureate Patrice Lawrence",
+        "summary": "The author of Orangeboy, Indigo Donut and Is That Your Mama? plans to use her two-year term to ensure children isolated from reading get involvedWhen Patrice Lawrence got the call asking her to become the UK’s next children’s laureate, her first response was disbelief. “I was in absolute shock,” she says, laughing. She is only just beginning to process what it means to join a lineage that includes Jacquelin",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jul/06/inside-the-uks-first-romantasy-shop-bad-girl-books",
-        "seendate": "2026-07-06T16:31:07.000Z",
+        "url": "https://www.theguardian.com/books/2026/jul/07/patrice-lawrence-new-childrens-laureate-interview-orangeboy",
+        "seendate": "2026-07-07T11:30:06.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "The Land and Its People by David Sedaris review – crankiness and charm",
-        "summary": "Sedaris plays up the curmudgeonliness in a collection that nevertheless entertainsI’ll confess my heart sank slightly at the prospect of reading David Sedaris’s new volume of essays, some of them previously published in the New Yorker, and which, relative to his earlier output, strike me as increasingly shticky and reliant on anecdotes too thin for their weight. (From the essay Little America: “Few things d",
+        "title": "Shahrnush Parsipur, Iranian author of Women Without Men, dies at 80",
+        "summary": "The revered writer and political exile’s publisher says her ‘legacy in literary history can’t be compared to anyone else’s’Shahrnush Parsipur, the celebrated Iranian writer whose subversive works of feminist fiction saw her repeatedly imprisoned, has died aged 80.A pioneer of women’s literature in Iran, Parsipur excoriated the country’s patriarchal culture in novels including Women Without Men and To",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jul/06/the-land-and-its-people-by-david-sedaris-review-crankiness-and-charm",
-        "seendate": "2026-07-06T06:00:04.000Z",
+        "url": "https://www.theguardian.com/books/2026/jul/07/shahrnush-parsipur-iranian-author-women-without-men-dies-80",
+        "seendate": "2026-07-07T13:21:00.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Contrapposto by Dave Eggers review – this portrait of an artist falls flat",
-        "summary": "The story of a lifelong friendship between two art-world mavericks from the working-class midwest is disappointingly piousDave Eggers, the author of more than a dozen novels as well as a&nbsp;steady stream of children’s and nonfiction books, grew up wanting to be an artist.As a child he took lessons with a Japanese watercolourist, studied painting at college, worked as a magazine cartoonist and illustrator,",
+        "title": "Rachel Aviv: ‘There’s a way of writing about motherhood that can be very sentimental and boring’",
+        "summary": "As one of today’s greatest essayists, the Pulitzer-nominated writer’s new book investigates why the mother-daughter relationship is the most complex bond of allInterviewing Rachel Aviv is a great way to source reading recommendations. The exacting essayist responds to my questions about her new book by asking if I’ve read her colleague Parul Sehgal on the <a href=\"https://www.newyorker.com/magazine/2022/01/",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jul/06/contrapposto-by-dave-eggers-review-this-portrait-of-an-artist-falls-flat",
-        "seendate": "2026-07-06T08:42:06.000Z",
+        "url": "https://www.theguardian.com/books/2026/jul/07/rachel-aviv-interview",
+        "seendate": "2026-07-07T09:00:37.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Susanna Clarke: ‘I had been ill for 11 years. I felt like I was about to fall off the world’",
-        "summary": "One hundred years after Virginia Woolf explored the limitations of language in On Being Ill, the Piranesi author reflects on the power of storytelling to shape our experience of sicknessIn October 2016 I was in hospital. I had been ill for 11 years with something I called chronic fatigue syndrome, but in the previous six weeks I had been overtaken by a strange, sudden crisis. I was unable to eat – a&nbsp;da",
+        "title": "Country People by Daniel Mason review – a joyful follow-up to North Woods",
+        "summary": "This fantastical journey through family, folktales and a world beneath our feet is witty, uplifting and gorgeously writtenDaniel Mason’s latest novel sees him return to the verdant New England landscape that so captivated readers of 2023’s acclaimed North Woods. This time, though, he hops",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jul/05/susanna-clarke-i-had-been-ill-for-11-years-i-felt-like-i-was-about-to-fall-off-the-world",
-        "seendate": "2026-07-05T11:00:24.000Z",
+        "url": "https://www.theguardian.com/books/2026/jul/07/country-people-by-daniel-mason-review-a-joyful-follow-up-to-north-woods",
+        "seendate": "2026-07-07T06:00:31.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Feeling stuck? Try ‘productivity snacking’",
-        "summary": "Whether you’re learning guitar or trying to get fit, short bursts of effort can work wondersYou could call it the tamest of mid-life crises, but as I turned 40 last year, I decided to devote myself to a long-neglected ambition – learning the guitar. I dutifully set myself the task of practising for 30 minutes a day, with the aim of strumming my way through the Bob Dylan songbook by my 41st birthday.W",
+        "title": "We Are Not Machines by Sarah O’Connor review – can dignity at work survive the tech revolution?",
+        "summary": "A Financial Times journalist ponders the future of labour in world increasingly dominated by AI and automationIt’s never been easy to land and keep a decent job. But it feels like it’s getting harder. In June, the number of job vacancies in the UK fell to a five-year low; headlines warn of a looming AI-employment shock. What might the future of work look like – and who or what will shape its terms? In her n",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jul/05/feeling-stuck-try-productivity-snacking",
-        "seendate": "2026-07-05T11:00:25.000Z",
+        "url": "https://www.theguardian.com/books/2026/jul/07/we-are-not-machines-by-sarah-oconnor-review-can-dignity-at-work-survive-the-tech-revolution",
+        "seendate": "2026-07-07T08:00:34.000Z",
         "domain": "theguardian.com"
       }
     ],
     "entertainment": [
       {
-        "title": "Lauren Bennett, singer on LMFAO’s Party Rock Anthem, dies aged 37",
-        "summary": "British-born vocalist competed on The X-Factor before joining the girl groups Paradiso Girls and G.R.L.Lauren Bennett, member of the girl group G.R.L. and featured artist on LMFAO’s global smash hit Party Rock Anthem, has died at the age of 37.“It is with great sadness that we share the passing of our beloved Lauren,” the group wrote on their Instagr",
+        "title": "Tradwives and ‘anti-woke’ backlash: can Netflix reboot Little House on The Prairie for a new generation?",
+        "summary": "After the classic series became a pandemic-era smash, a glossy new adaptation aims to explore the complexities of frontier lifeEach incarnation of Little House on the Prairie has reflected the fears, hopes and hangups of its time – from Laura Ingalls Wilder’s semi-autobiographical children’s novels,",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/music/2026/jul/06/lauren-bennett-singer-dies",
-        "seendate": "2026-07-06T19:27:44.000Z",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/jul/07/little-house-on-the-prairie-netflix-reboot-controversy",
+        "seendate": "2026-07-07T17:54:12.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘Attacked behind the scenes’: Children of Blood & Bone author Tomi Adeyemi distances herself from film adaptation",
-        "summary": "The Nigerian-American writer says she ‘will not watch’ Gina Prince-Bythewood’s adaptation of her fantasy bestsellerTomi Adeyemi, the author of the popular YA fantasy Children of Blood and Bone, has distanced herself from the forthcoming film adaptation of her book.“There is a reason I will not post anything about the adaptation of my work,” the Nigerian-American author said in group chat messages sha",
+        "title": "Mariska Hargitay to host 78th Emmy awards in September",
+        "summary": "The Law &amp; Order: SVU star will be the first woman to host the ceremony, airing on NBC this year, in 15 yearsMariska Hargitay will host the 78th Primetime Emmy Awards, airing on NBC on 14 September.NBCUniversal announced Hargitay as host on Tuesday, the day before nominations are announced. The show will also stream on Peacock and will b",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jul/06/tomi-adeyemi-children-of-blood-and-bone-film-adaptation",
-        "seendate": "2026-07-06T17:17:57.000Z",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/jul/07/mariska-hargitay-78th-primetime-emmy-awards-host",
+        "seendate": "2026-07-07T17:49:21.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘Cosy competency porn’: why The Post is my feelgood movie",
-        "summary": "A reminder of Steven Spielberg’s prowess and speed in the latest in our series of writers highlighting their go-to comfort watchesSteven Spielberg was never much of a radical. While Francis Ford Coppola made Apocalypse Now and even George Lucas attacked the Vietnam war with Star Wars, the nervy new Hollywood hotshot was more interested in moviem",
+        "title": "Dolly Parton musical set for Broadway this winter: ‘a dream come true’",
+        "summary": "After a run in Nashville, Dolly: A True Original Musical is set to open in New York in DecemberDolly Parton will celebrate turning 81 with the opening of a musical about her life on Broadway later this year.Dolly: A True Original Musical is billed as “a remarkable journey through the life of this trailblazing woman” and is set to begin prev",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/jul/06/why-the-post-is-my-feelgood-movie",
-        "seendate": "2026-07-06T09:00:01.000Z",
+        "url": "https://www.theguardian.com/music/2026/jul/07/dolly-parton-broadway-musical",
+        "seendate": "2026-07-07T15:07:25.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘Flight originated from the imagination’: how artists have captured space travel",
-        "summary": "As the Smithsonian’s National Air and Space Museum turns 50, an expansive exhibition celebrates how art has coincided with spaceWearing a shiny silver spacesuit, Alan Shepard clutches his helmet and looks like an archetypal blue-eyed American hero. The 1961 portrait by Bruce Stevenson paid tribute to the first US astronaut in space. It also planted a seed.</p",
+        "title": "Sunshine: Danny Boyle’s space slasher plays out like an atheist’s worst nightmare",
+        "summary": "This 2007 science-fiction thriller is a who’s-who of brilliant actors right before they made it big, and is basically Project Hail Mary’s older, emo cousinIf you enjoyed Project Hail Mary but couldn’t quite stomach its sickly sweet message of intergalactic compan",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/artanddesign/2026/jul/06/smithsonian-space-museum-exhibition",
-        "seendate": "2026-07-06T10:00:51.000Z",
+        "url": "https://www.theguardian.com/culture/2026/jul/08/sunshine-danny-boyle-science-fiction-space-film",
+        "seendate": "2026-07-07T15:00:06.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘Impossible to be a mom’: new film shines light on how America fails its mothers",
-        "summary": "Documentary No Country for Mothers details how US moms lack support, paid leave and childcare help – and hopes to inspire push for actionWhen Reshma Saujani set out to make a documentary, she was clear from the outset: it would not be released on streaming platforms, or at film festivals.Instead, No Country for Mothers – a new movie about how moms across the US are being failed – is being screened by",
+        "title": "Rachel Aviv: ‘There’s a way of writing about motherhood that can be very sentimental and boring’",
+        "summary": "As one of today’s greatest essayists, the Pulitzer-nominated writer’s new book investigates why the mother-daughter relationship is the most complex bond of allInterviewing Rachel Aviv is a great way to source reading recommendations. The exacting essayist responds to my questions about her new book by asking if I’ve read her colleague Parul Sehgal on the <a href=\"https://www.newyorker.com/magazine/2022/01/",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jul/06/no-country-for-mothers-film",
-        "seendate": "2026-07-06T10:00:52.000Z",
+        "url": "https://www.theguardian.com/books/2026/jul/07/rachel-aviv-interview",
+        "seendate": "2026-07-07T09:00:37.000Z",
         "domain": "theguardian.com"
       }
     ],
     "f1": [
       {
-        "title": "F1 could move away from customer power units 2031",
-        "summary": "The FIA, F1's governing body, is considering offering a third-party supply of engines to customer teams from 2031 as the series looks set to move to cheaper V8 power units.FIA president Mohammed Ben Sulayem and F1 chief Stefano Domenicali have long been aligned on the series moving to cheaper, lighter and louder power units for the next regulations cycle, which should start in 2031.The ...<a class='m",
+        "title": "Martin Brundle points to Kimi Antonelli lesson after \"heartbreaking\" British GP",
+        "summary": "Mercedes' championship leader Kimi Antonelli suffered a harsh but necessary learning experience during the British Grand Prix, with former Formula 1 driver and Sky Sports analyst Martin Brundle noting a communication breakdown that derailed the Italian's charge for victory.The Silverstone weekend initially looked poised to be another strong showing for Antonelli. The 19-year-old had already ...<a class='",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/f1-customer-power-units-2031/10837031/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-06T17:19:47.000Z",
+        "url": "https://www.motorsport.com/f1/news/martin-brundle-points-to-kimi-antonelli-lesson-after-heartbreaking-british-gp/10837261/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-07T23:05:02.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Kimi Antonelli praised for championship mentality after British GP fight",
-        "summary": "Naomi Schiff has praised Kimi Antonelli for demonstrating the fighting mentality required to win a Formula 1 championship during his frustrating British Grand Prix.The Mercedes driver had the race win in his sights as he closed down the gap to Ferrari's Charles Leclerc but saw a potential victory slip away from him due to a bizarre mechanical failure. Running a 10-lap tyre offset strategy ...<a class='mo",
+        "title": "FIA British GP decision questioned as former Alpine boss offers alternative",
+        "summary": "Former Formula 1 team principal Otmar Szafnauer has argued that the FIA missed a prime opportunity to deliver a spectacular finish to the British Grand Prix, insisting the race should have been red-flagged following Max Verstappen's late retirement.The Silverstone race ended behind the safety car. Charles Leclerc secured a much-needed victory, his first of the season, taking the chequered flag ...<a clas",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/kimi-antonelli-praised-for-championship-mentality-after-british-gp-fight/10836967/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-06T15:35:02.000Z",
+        "url": "https://www.motorsport.com/f1/news/fia-british-gp-decision-questioned-as-former-alpine-boss-offers-alternative/10837251/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-07T22:05:02.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "The clever electrical trick that gives Mercedes an edge in qualifying",
-        "summary": "During qualifying for both races over the British Grand Prix weekend, one curious detail caught the eye: both Mercedes drivers completely lifted off the accelerator just a few metres before crossing the finish line. It's unusual behaviour, because drivers normally try to cross the line with the throttle pinned to squeeze out every last hundredth of a second.Paradoxical as it may seem, there ...<a class='",
+        "title": "Charles Leclerc's British GP win could transform F1 title fight, says Juan Pablo Montoya",
+        "summary": "Juan Pablo Montoya believes the battle for the Formula 1 championship could become \"really exciting\" if Charles Leclerc can build on his British Grand Prix victory with the same consistency shown by his Ferrari team-mate Lewis Hamilton. Leclerc took his first grand prix win of the season, and his first at Silverstone, on Sunday. The Monegasque driver took the lead at the start of the race and ...<a class",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/the-clever-electrical-trick-that-gives-mercedes-an-edge-in-qualifying/10837011/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-06T14:51:04.000Z",
+        "url": "https://www.motorsport.com/f1/news/charles-leclercs-british-gp-win-could-transform-f1-title-fight-says-juan-pablo-montoya/10837123/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-07T21:05:02.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Lewis Hamilton 'wouldn't have pitted' under safety car if he knew British GP second was at risk",
-        "summary": "Lewis Hamilton has conceded he wouldn't have pitted for a second time under the late safety car at the British Grand Prix had he known he would have lost second place to George Russell.Seven-time champion Hamilton had been behind Ferrari team-mate and eventual race winner Charles Leclerc when the race was neutralised in the closing stages after Max Verstappen crashed at Stowe, his Red Bull ...<a class='m",
+        "title": "Kimi Antonelli told key Michael Schumacher lesson he needs to learn in F1 title fight",
+        "summary": "Former Alpine team principal Otmar Szafnauer has claimed that championship leader Kimi Antonelli must learn how to manage a compromised car if he wants to secure titles, drawing comparisons to Michael Schumacher's ability to nurse damaged machinery.The 19-year-old driver endured a bruising British Grand Prix at Silverstone, finishing 15th. While he looked in contention to fight Charles Leclerc ...<a clas",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/lewis-hamilton-wouldnt-have-pitted-under-safety-car-if-he-knew-british-gp-second-was-at-risk/10836943/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-06T14:00:04.000Z",
+        "url": "https://www.motorsport.com/f1/news/kimi-antonelli-told-key-michael-schumacher-lesson-he-needs-to-learn-in-f1-title-fight/10837256/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-07T20:05:02.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "David Coulthard points to George Russell concern after British GP P2: \"Knows that was fortunate\"",
-        "summary": "David Coulthard believes that George Russell will leave the British Grand Prix feeling like he \"got away with it\", as his Mercedes team-mate Kimi Antonelli continues to extract a level of performance that the Briton is currently struggling to match.Russell secured his first-ever podium finish at his home grand prix at Silverstone on Sunday. But the milestone result did not truly represent ...<a class='mo",
+        "title": "Ferrari faces Lewis Hamilton-Charles Leclerc decision after British GP victory, says Rob Smedley",
+        "summary": "Former Ferrari race engineer Rob Smedley believes the Maranello outfit might have to make the decision to prioritise seven-time Formula 1 champion Lewis Hamilton over Charles Leclerc if it is to stand any real chance of clinching the 2026 drivers' championship.Smedley's comments came after a dramatic British Grand Prix at Silverstone, where Leclerc took an emotional victory, his first grand ...<a class='",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/david-coulthard-points-to-george-russell-concern-after-british-gp-p2-knows-that-was-fortunate/10836975/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-06T13:42:11.000Z",
+        "url": "https://www.motorsport.com/f1/news/ferrari-faces-lewis-hamilton-charles-leclerc-decision-after-british-gp-victory-says-rob-smedley/10837253/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-07T18:57:54.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "The games industry reacts to Xbox layoffs: 'We are clearly at a turning point'",
-        "summary": "3,200 employees are being put out of work, and people have thoughts.",
+        "title": "Former Elder Scrolls Online designer laments the destruction of layoffs: 'There’s really no one left and no changing it now'",
+        "summary": "ZeniMax Online Studios reportedly lost half its employees in yesterday's Xbox layoffs.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/the-games-industry-reacts-to-xbox-layoffs-we-are-clearly-at-a-turning-point/",
-        "seendate": "2026-07-06T22:10:20.000Z",
+        "url": "https://www.pcgamer.com/games/mmo/former-elder-scrolls-online-designer-laments-the-destruction-of-layoffs-theres-really-no-one-left-and-no-changing-it-now/",
+        "seendate": "2026-07-07T22:12:14.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Legendary former Tekken boss says people don't 'properly evaluate' Hidetaka Miyazaki's 'remarkable' FromSoft career",
-        "summary": "Harada says the Souls series \"was the result of everything Miyazaki and his team had built up through their previous titles.\"",
+        "title": "Xbox layoffs hit accessibility leadership, calling into question Microsoft's continued commitment to accessibility initiatives",
+        "summary": "Accessibility efforts have been some of Microsoft's biggest wins—but that didn't stop it from cutting accessibility leads.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/legendary-former-tekken-boss-says-people-dont-properly-evaluate-hidetaka-miyazakis-remarkable-fromsoft-career/",
-        "seendate": "2026-07-06T20:52:04.000Z",
+        "url": "https://www.pcgamer.com/gaming-industry/xbox-layoffs-hit-accessibility-leadership-calling-into-question-microsofts-continued-commitment-to-accessibility-initiatives/",
+        "seendate": "2026-07-07T21:39:43.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Even Obsidian couldn't escape the Xbox cuts, with losses ranging from a 21-year veteran artist to an engineer who'd only been there 2 months",
-        "summary": "No news was not, in fact, good news.",
+        "title": "How to find all Elvira's clues in her Moonlight Peaks treasure hunt",
+        "summary": "This scavenger hunt starts off with some softballs but the last clues are a bit tough.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/even-obsidian-couldnt-escape-the-xbox-cuts-with-losses-ranging-from-a-21-year-veteran-artist-to-an-engineer-whod-only-been-there-2-months/",
-        "seendate": "2026-07-06T19:44:03.000Z",
+        "url": "https://www.pcgamer.com/games/life-sim/moonlight-peaks-treasure-hunt-clues-location/",
+        "seendate": "2026-07-07T20:15:05.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "French left-wing leader Jean-Luc Mélenchon declares 'Players have rights too!' over the death of physical discs",
-        "summary": "\"Videogames are not mere merchandise—they are cultural assets.\"",
+        "title": "How to go on dates in Moonlight Peaks and start your road to romance",
+        "summary": "Here's how to get started with wooing all the eligible locals.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/french-left-wing-leader-jean-luc-melenchon-declares-players-have-rights-too-over-the-death-of-physical-discs/",
-        "seendate": "2026-07-06T16:58:19.000Z",
+        "url": "https://www.pcgamer.com/games/life-sim/moonlight-peaks-date-how-to/",
+        "seendate": "2026-07-07T19:53:27.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Wisconsin residents file class-action lawsuit against Microsoft, alleging 'unreasonable and excessive noise' from data center",
-        "summary": "'Microsoft prides itself on being a good neighbor in the communities where we operate.'",
+        "title": "Xbox CEO Asha Sharma points the finger at Phil Spencer's strategy for yesterday's sweeping layoffs: 'We simply spread ourselves too thin'",
+        "summary": "Sharma didn't mention Spencer by name, but said Xbox is struggling because it neglected its \"core business.\"",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/software/ai/wisconsin-residents-file-class-action-lawsuit-against-microsoft-alleging-unreasonable-and-excessive-noise-from-data-center/",
-        "seendate": "2026-07-06T16:45:43.000Z",
+        "url": "https://www.pcgamer.com/gaming-industry/xbox-ceo-asha-sharma-points-the-finger-at-phil-spencers-strategy-for-yesterdays-sweeping-layoffs-we-simply-spread-ourselves-too-thin/",
+        "seendate": "2026-07-07T19:29:02.000Z",
         "domain": "pcgamer.com"
       }
     ],
@@ -341,86 +341,86 @@ window.NEWS_CACHE = {
     ],
     "climate": [
       {
-        "title": "Wildfire forces Tour de France to ban fans from stage finale as parts of Europe sizzle again",
-        "summary": "Only essential race vehicles are allowed on the route.",
-        "source": "pilotonline.com",
-        "url": "https://www.pilotonline.com/2026/07/06/europe-wildfires-heat/",
-        "seendate": "20260706T233000Z",
-        "domain": "pilotonline.com"
+        "title": "Lake Powell, a vital reservoir, plunges toward unprecedented low levels as water crisis deepens in US west",
+        "summary": "Experts say the critical reservoir system is careening toward a breaking point as the US west’s climate warms and driesLake Powell, the US’s second-largest reservoir, threatens to plunge to unprecedentedly low levels this year after a historically bleak snowpack failed to raise its water level, scientists and water experts have said, adding renewed urgency to stalled talks over how to conserve a water sourc",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/jul/07/lake-powell-water-crisis",
+        "seendate": "2026-07-07T20:05:17.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "GameChange Energy awarded 380 MWp tracker order in Australia",
-        "summary": "SYDNEY, July 6, 2026 /PRNewswire/ -- GameChange Energy, a global provider of renewable energy infrastructure solutions, today announced that it has been selected to supply its Genius Tracker",
-        "source": "finanznachrichten.de",
-        "url": "https://www.finanznachrichten.de/nachrichten-2026-07/68956080-gamechange-energy-awarded-380-mwp-tracker-order-in-australia-008.htm",
-        "seendate": "20260706T233000Z",
-        "domain": "finanznachrichten.de"
+        "title": "Washington records world’s worst air quality for a city after 850,000 Fourth of July fireworks",
+        "summary": "Hourly concentrations of particulate matter rose to 6.7 times their pre-fireworks levels, according to an analysisWashington DC residents breathed in “unhealthy” air for hours after a 40-minute Independence Day fireworks show over the National Mall on Saturday night, with the country’s capital briefly recording the worst air quality of any major city in the world.The highly emitting display, which th",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/jul/07/washington-air-quality-fireworks-independence-day",
+        "seendate": "2026-07-07T15:00:04.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Sloane Stephens expands youth foundation program in Fresno",
-        "summary": "Tennis champion Sloane Stephens discusses bringing her foundation&#039;s summer program to Fresno, combining tennis, education and wellness for local students.",
-        "source": "thebusinessjournal.com",
-        "url": "https://thebusinessjournal.com/sloane-stephens-foundation-fresno-summer-program/",
-        "seendate": "20260706T233000Z",
-        "domain": "thebusinessjournal.com"
+        "title": "Air pollution may cause childhood obesity by disrupting impulse control, study finds",
+        "summary": "Babies exposed to higher levels of neurotoxin more likely to have difficulty controlling impulses later, research showsExposure to common air pollution may cause childhood obesity because it affects children’s ability to control impulse, new first-of-its-kind peer-reviewed research finds.Particular matter 2.5 (PM2.5) is a neurotoxin tha",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/jul/06/air-pollution-childhood-obesity-study",
+        "seendate": "2026-07-06T11:00:02.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "11 AI prompts every teacher should know",
-        "summary": "The 74 reports on 11 AI prompts that can assist teachers in streamlining tasks and enhancing creativity, helping to improve their work-life balance and effectiveness.",
-        "source": "kissrocks.com",
-        "url": "https://www.kissrocks.com/news/11-ai-prompts-every/XYYEHRNANM6U7C2D6MFRXR6AIE/",
-        "seendate": "20260706T233000Z",
-        "domain": "kissrocks.com"
+        "title": "‘Why take those jobs away?’: the unionized workers decrying Trump’s war on wind",
+        "summary": "Workers proud of their efforts to grow renewable energy say US president pursuing ‘personal vendetta’ at their expenseDonald Trump has blamed everything – from “national security” issues, the deaths of birds and",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/environment/2026/jul/06/workers-unions-trump-wind-energy",
+        "seendate": "2026-07-06T11:00:01.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "What Derby parties can teach Maryland about the Preakness",
-        "summary": "Maryland secures ownership of Preakness Stakes intellectual property, aiming to build a cultural celebration that drives economic growth and benefits Black communities.",
-        "source": "afro.com",
-        "url": "https://afro.com/preakness-black-culture-celebration/",
-        "seendate": "20260706T233000Z",
-        "domain": "afro.com"
+        "title": "At least 25 people die in US as record heatwave scorches swaths of country",
+        "summary": "More than 20 states reported temperatures above 100F as heat dome sits over eastern US during holiday weekendAt least two dozen people have died amid the perilous climate crisis-driven heatwave that has scorched",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/jul/05/heatwave-deaths-weather",
+        "seendate": "2026-07-05T18:49:28.000Z",
+        "domain": "theguardian.com"
       }
     ],
     "science": [
       {
-        "title": "Wildfire forces Tour de France to ban fans from stage finale as parts of Europe sizzle again",
-        "summary": "Only essential race vehicles are allowed on the route.",
-        "source": "pilotonline.com",
-        "url": "https://www.pilotonline.com/2026/07/06/europe-wildfires-heat/",
-        "seendate": "20260706T233000Z",
-        "domain": "pilotonline.com"
+        "title": "Sitting for more than 30 minutes at a time linked to higher risk of cancer death",
+        "summary": "Study suggests even light activity such as ironing could reduce health risks linked to prolonged sedentary behaviourSitting for longer than half an hour at a time each day raises the risk of dying from cancer, a study suggests.Researchers who tracked more than 90,000 people over a decade found that sitting or lying down while awake for more than 30 minutes in one period each day was associated with a",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/jul/02/sitting-minutes-cancer-death-risk-study",
+        "seendate": "2026-07-02T18:00:07.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Molly Jong - Fast Fumes Over Latest Graham Platner Bombshell",
-        "summary": "MS NOW&#039;s Molly Jong-Fast and Ayman Mohyeldin fumed over revelations that Maine Senate candidate Graham Platner (D) alegedly sexually assaulted a woman.",
-        "source": "mediaite.com",
-        "url": "https://www.mediaite.com/media/news/im-baffled-ms-now-panel-fumes-over-latest-graham-platner-bombshell-in-real-time/",
-        "seendate": "20260706T233000Z",
-        "domain": "mediaite.com"
+        "title": "Starwatch: Waning crescent moon pairs up with the Seven Sisters",
+        "summary": "Cluster might look like a mini version of the Plough unless you grab your binocularsIn the early hours of 11 July, the waning crescent moon will be gliding past the beautiful Pleiades star cluster, which is also known as M45 or the Seven Sisters.The chart shows the view looking east-north-east from London at 3am BST. By then, the sky will getting ready to start brightening for the coming day, so a cl",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/jul/06/starwatch-waning-crescent-moon-pairs-up-with-the-seven-sisters",
+        "seendate": "2026-07-06T05:00:02.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Third heatwave of year declared with days of hot weather forecast",
-        "summary": "On Monday, the highest temperature was recorded as 34C in Teddington, south-west London, the Met Office said.",
-        "source": "maldonandburnhamstandard.co.uk",
-        "url": "https://www.maldonandburnhamstandard.co.uk/news/national/26257702.third-heatwave-year-declared-days-hot-weather-forecast/",
-        "seendate": "20260706T233000Z",
-        "domain": "maldonandburnhamstandard.co.uk"
+        "title": "Can you solve it? This TV show is flipping brilliant!",
+        "summary": "A probability puzzleUPDATE: Read the solution hereToday’s puzzle imagines a TV game show.The compere announces that at the end of the show two people will be chosen and each placed in a separate booth. <a href=\"https://www.theguardian.com/science/2026/jul/06/can-you-solve-it-th",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/jul/06/can-you-solve-it-this-tv-show-is-flipping-brilliant",
+        "seendate": "2026-07-06T06:10:03.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Jasmine Crockett Is the Fighter Black America Needs in Congress . ",
-        "summary": "Jasmine Crockett, Byron Donalds, Black America, criminal justice reform, D.C. CRIMES Act, America 250, Freedom 250, Black political representation, wrongful convictions, civil rights, second chances, Black voters, Florida governor race",
-        "source": "thyblackman.com",
-        "url": "https://thyblackman.com/2026/07/06/jasmine-crockett-fighting-for-black-america/",
-        "seendate": "20260706T233000Z",
-        "domain": "thyblackman.com"
+        "title": "Statins helping people with obesity match those of healthy weight on key metrics, study finds",
+        "summary": "Differences in unhealthy cholesterol levels and blood pressure found to have ‘narrowed or disappeared’ in over-40sMany adults living with obesity have “indistinguishable” cholesterol and blood pressure levels compared with those who are a healthy weight, largely because of the use of statins, according to a study.In some cases, people with obesity were “better off” than those of a healthy weight, res",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/society/2026/jul/02/over-40s-obesity-normal-bmi-cholesterol-blood-pressure-study-finds",
+        "seendate": "2026-07-02T07:13:10.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "11 AI prompts every teacher should know",
-        "summary": "The 74 reports on 11 AI prompts that can assist teachers in streamlining tasks and enhancing creativity, helping to improve their work-life balance and effectiveness.",
-        "source": "kissrocks.com",
-        "url": "https://www.kissrocks.com/news/11-ai-prompts-every/XYYEHRNANM6U7C2D6MFRXR6AIE/",
-        "seendate": "20260706T233000Z",
-        "domain": "kissrocks.com"
+        "title": "‘Beautiful blobs’: synthetic life a step closer as scientists make cells using lab-made DNA",
+        "summary": "Tiny, quivering spheres designed to feed and multiply raise prospect of artificial organisms to make drugs, food and fuelResearchers claim they are closer to creating life from scratch after building tiny, quivering blobs that use lab-made DNA to feed, grow and multiply in a dish.The synthetic cells were made from chemical compounds and are believed to be the first to demonstrate the complete cell cy",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/jul/01/synthetic-life-lab-made-dna-spudcells-scientists",
+        "seendate": "2026-07-01T14:00:38.000Z",
+        "domain": "theguardian.com"
       }
     ]
   }
