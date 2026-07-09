@@ -1,8 +1,32 @@
 {
-  "generatedAt": "2026-07-08T23:58:39.594Z",
+  "generatedAt": "2026-07-09T23:56:55.809Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
+      {
+        "title": "Furore in Nigeria over fake federal agency set up in government HQ",
+        "summary": "President orders investigation after fictitious body given funding, triggering renewed scrutiny of alleged corruptionA fictitious federal entity that was allocated 1.3bn naira (£700,000) in Nigeria’s 2026 budget has precipitated a political storm in Africa’s largest democracy in t",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/jul/09/bola-tinubu-under-pressure-fake-nigerian-government-agency-political-storm",
+        "seendate": "2026-07-09T16:20:41.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "LGBTQ+ cruise ship refused entry to Egypt days after Turkey turned it away",
+        "summary": "Scarlet Lady’s 2,000 passengers told of change as one of those onboard says they will ‘sparkle and spend elsewhere’An LGBTQ+ cruise ship blocked from Turkish waters this week has been refused entry into Egypt.The Scarlet Lady’s 2,000 passengers, including the Broadway performer Patti LuPone, woke on Thursday morning to find a note placed un",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/jul/09/lgbtq-cruise-ship-refused-entry-egypt-turkey",
+        "seendate": "2026-07-09T12:59:24.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Species’ ingenious survival strategies no match for human destruction, red list reveals",
+        "summary": "Newly endangered animals include desert frogs and snails in extreme ocean depths, both threatened by miningLife has colonised every corner of the planet by evolving ingenious survival strategies but these are increasingly being overwhelmed by destructive human activities, this year’s red list of endangered species has revealed.Many snails, limpets and clams have adapted to life at crushing depths in",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/environment/2026/jul/09/species-ingenious-survival-strategies-no-match-human-destruction-red-list",
+        "seendate": "2026-07-09T12:20:09.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Catnip lotion as effective as Deet at repelling mosquitoes, study finds",
         "summary": "Researchers testing a cheap, homegrown oil in Uganda found what cats knew all along – it worked as well as the artificial chemical used globally A homegrown catnip lotion has proven “just as effective as Deet” as a mosquito repellant in trials carried out in Uganda.Catnip, or Nepeta cataria, is a common herb from the mint family. The chemical in the plant that causes feline euphoria – nepeta",
@@ -17,35 +41,35 @@
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/technology/2026/jul/07/elon-musk-doge-cuts-usaid-ebola",
         "seendate": "2026-07-07T11:00:06.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Five charged in Liberia after more than 200kg of cocaine seized in drug bust",
-        "summary": "Shipment discovered at airport in Monrovia and valued at £14.2m had been falsely declared as seasoning cubesAuthorities in Liberia have charged five suspects over one of the largest drug seizures in the country’s history, after police found more than 200kg of cocaine falsely declared as Maggi seasoning cubes.The shipment, with an estimated value of $19m (£14.2m), was discovered at th",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/jul/07/charged-liberia-200kg-cocaine-seized-drug-bust",
-        "seendate": "2026-07-07T06:30:31.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Archaeologists uncover ancient Byzantine city in Egypt’s western desert",
-        "summary": "Well-preserved fourth-century quarters reveal details of daily life, urban development and economic activitiesArchaeologists in Egypt have uncovered a well-preserved Byzantine-era city in the western desert.The fourth-century quarters had residential and religious structures, including a basilica-style church in the Dakhla oasis. Archaeologists also found coins, pottery fragments and tools. <a hr",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/jul/04/archaeologists-uncover-ancient-byzantine-city-in-egypts-western-desert",
-        "seendate": "2026-07-04T20:32:52.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "‘The situation is terrible’: aid workers on life in Sudanese city pummelled by drone strikes",
-        "summary": "El Obeid becomes key battleground in war between Sudan’s armed forces and their paramilitary enemies, the RSFFatima has lost count of the number of drone attacks on the besieged city of El Obeid in Sudan, but said the attacks this past weekend were the most violent so far.The drones hit schools and fuel stations, killing more than 20 people, including students, she said. “Over the past few months, se",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/jul/04/el-obeid-aid-workers-sudan-war-drone-strikes",
-        "seendate": "2026-07-04T15:14:18.000Z",
         "domain": "theguardian.com"
       }
     ],
     "conflict": [
       {
+        "title": "Furore in Nigeria over fake federal agency set up in government HQ",
+        "summary": "President orders investigation after fictitious body given funding, triggering renewed scrutiny of alleged corruptionA fictitious federal entity that was allocated 1.3bn naira (£700,000) in Nigeria’s 2026 budget has precipitated a political storm in Africa’s largest democracy in t",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/jul/09/bola-tinubu-under-pressure-fake-nigerian-government-agency-political-storm",
+        "seendate": "2026-07-09T16:20:41.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "LGBTQ+ cruise ship refused entry to Egypt days after Turkey turned it away",
+        "summary": "Scarlet Lady’s 2,000 passengers told of change as one of those onboard says they will ‘sparkle and spend elsewhere’An LGBTQ+ cruise ship blocked from Turkish waters this week has been refused entry into Egypt.The Scarlet Lady’s 2,000 passengers, including the Broadway performer Patti LuPone, woke on Thursday morning to find a note placed un",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/jul/09/lgbtq-cruise-ship-refused-entry-egypt-turkey",
+        "seendate": "2026-07-09T12:59:24.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Species’ ingenious survival strategies no match for human destruction, red list reveals",
+        "summary": "Newly endangered animals include desert frogs and snails in extreme ocean depths, both threatened by miningLife has colonised every corner of the planet by evolving ingenious survival strategies but these are increasingly being overwhelmed by destructive human activities, this year’s red list of endangered species has revealed.Many snails, limpets and clams have adapted to life at crushing depths in",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/environment/2026/jul/09/species-ingenious-survival-strategies-no-match-human-destruction-red-list",
+        "seendate": "2026-07-09T12:20:09.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Catnip lotion as effective as Deet at repelling mosquitoes, study finds",
         "summary": "Researchers testing a cheap, homegrown oil in Uganda found what cats knew all along – it worked as well as the artificial chemical used globally A homegrown catnip lotion has proven “just as effective as Deet” as a mosquito repellant in trials carried out in Uganda.Catnip, or Nepeta cataria, is a common herb from the mint family. The chemical in the plant that causes feline euphoria – nepeta",
         "source": "theguardian.com",
@@ -60,75 +84,67 @@
         "url": "https://www.theguardian.com/technology/2026/jul/07/elon-musk-doge-cuts-usaid-ebola",
         "seendate": "2026-07-07T11:00:06.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Five charged in Liberia after more than 200kg of cocaine seized in drug bust",
-        "summary": "Shipment discovered at airport in Monrovia and valued at £14.2m had been falsely declared as seasoning cubesAuthorities in Liberia have charged five suspects over one of the largest drug seizures in the country’s history, after police found more than 200kg of cocaine falsely declared as Maggi seasoning cubes.The shipment, with an estimated value of $19m (£14.2m), was discovered at th",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/jul/07/charged-liberia-200kg-cocaine-seized-drug-bust",
-        "seendate": "2026-07-07T06:30:31.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Archaeologists uncover ancient Byzantine city in Egypt’s western desert",
-        "summary": "Well-preserved fourth-century quarters reveal details of daily life, urban development and economic activitiesArchaeologists in Egypt have uncovered a well-preserved Byzantine-era city in the western desert.The fourth-century quarters had residential and religious structures, including a basilica-style church in the Dakhla oasis. Archaeologists also found coins, pottery fragments and tools. <a hr",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/jul/04/archaeologists-uncover-ancient-byzantine-city-in-egypts-western-desert",
-        "seendate": "2026-07-04T20:32:52.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "‘The situation is terrible’: aid workers on life in Sudanese city pummelled by drone strikes",
-        "summary": "El Obeid becomes key battleground in war between Sudan’s armed forces and their paramilitary enemies, the RSFFatima has lost count of the number of drone attacks on the besieged city of El Obeid in Sudan, but said the attacks this past weekend were the most violent so far.The drones hit schools and fuel stations, killing more than 20 people, including students, she said. “Over the past few months, se",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/jul/04/el-obeid-aid-workers-sudan-war-drone-strikes",
-        "seendate": "2026-07-04T15:14:18.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "economy": [
       {
-        "title": "Trump’s policy mayhem is making even the Maga faithful consider walking away",
-        "summary": "Even voters who identify as foot soldiers of his political army are increasingly willing to blame Trump for their economic troublesThe political consequences of Donald Trump’s policy mayhem are now coming into view: “Maga” America is getting pissed.It has been a sight to see how every one of the president’s policy initiatives <a href=\"https://www.theguardian.com/business/2026/jul/01/trump-voters-hous",
+        "title": "Trump’s consumer protection head has earned grudging respect – but does he have the authority to do his job?",
+        "summary": "Chris Mufarrige has taken aim at Facebook scams and junk fees, but consumer advocates say he has an uphill climbAs the director of the Federal Trade Commission’s consumer protection bureau, Chris Mufarrige is the top enforcer protecting Americans against predatory companies.He’s got an uphill climb, consumer advocates say. <a href=\"https://www.theguardian.com/us-news/2026/jul/09/trump-ftc-consume",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/jul/08/trump-maga-faithful-economy",
-        "seendate": "2026-07-08T10:00:26.000Z",
+        "url": "https://www.theguardian.com/us-news/2026/jul/09/trump-ftc-consumer-protection-chris-mufarrige",
+        "seendate": "2026-07-09T14:00:07.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Oil prices jump over 5% after Trump suggests ceasefire with Iran has ended following fresh US strikes – as it happened",
-        "summary": "Brent crude spikes to a daily high of $79.26, gas prices rise, stock markets slide and government bond yields surge on inflation and rate hike fearsUS and Iran trade strikes around strait of Hormuz as ceasefire is violated againSummer holiday bookings have bounc",
+        "title": "Licensed to drill? How a Trump-linked Texas oil company is elbowing its way into Greenland",
+        "summary": "Greenland Energy says billions of barrels of crude could lie beneath territory and claims it has permission to bring drilling kit ashore – a claim denied by NuukOn 10 June, a snowy-haired American in his 60s addressed the residents of a remote Greenland hamlet. He was there to tell them about a business venture supported by figures linked to Donald Trump. “So,” Robert Price said via an interpreter, “we have",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/live/2026/jul/08/oil-prices-rise-fresh-us-strikes-iran-return-sanctions-tehran-federal-reserve-minutes-live-updates",
-        "seendate": "2026-07-08T14:18:20.000Z",
+        "url": "https://www.theguardian.com/world/2026/jul/09/licence-to-drill-trump-linked-texas-oil-company-elbowing-into-greenland",
+        "seendate": "2026-07-09T13:52:19.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "The Hill is capitalizing on reader interest in the second Trump administration",
-        "summary": "The Washington-based publication is announcing plans for a new digital subscription product called the Hill InsiderThe most-visited digital-first news publication dedicated to politics wasn’t Politico or Axios in May – it was the Hill, a Washington-based outlet that also still publishes a print product three days a week that gets delivered to the office of every member of Congress.While the Hill is o",
+        "title": "Costco accused in lawsuit of selling protein powder ‘tainted’ with toxic heavy metals",
+        "summary": "Seven consumers sue the retailer, alleging it violated consumer protection and false advertising lawsA group of consumers have filed a proposed class-action lawsuit against Costco Wholesale Corporation, accusing the retailer of selling protein powder “tainted” with toxic heavy metals with no warning to consumers.The lawsuit, <a href=\"https://www.courthousenews.com/wp-content/uploads/2026/07/costco-or",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/media/2026/jul/08/the-hill-insider-trump-bill-sammon",
-        "seendate": "2026-07-08T13:00:32.000Z",
+        "url": "https://www.theguardian.com/us-news/2026/jul/09/costco-lawsuit-protein-powder",
+        "seendate": "2026-07-09T14:00:56.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘Why take those jobs away?’: the unionized workers decrying Trump’s war on wind",
-        "summary": "Workers proud of their efforts to grow renewable energy say US president pursuing ‘personal vendetta’ at their expenseDonald Trump has blamed everything – from “national security” issues, the deaths of birds and",
+        "title": "US chemical accidents rising as Trump rolls back protections, report finds",
+        "summary": "Deaths and injuries up as critics condemn administration’s ‘appalling’ plan to gut federal disaster management systemThe number of US chemical accidents is rising just as the Trump administration guts protections against the disasters, a new analysis of <a href=\"https://www.csb.gov/news/incident-report-ru",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/2026/jul/06/workers-unions-trump-wind-energy",
-        "seendate": "2026-07-06T11:00:01.000Z",
+        "url": "https://www.theguardian.com/us-news/2026/jul/09/us-chemical-accidents-trump",
+        "seendate": "2026-07-09T11:00:03.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Conservative fight against license renewals for ABC stations heats up",
-        "summary": "Prominent organizations accuse network of political, racial and sexual bias and supporting Chinese communist partyA group of prominent conservative organizations has petitioned the Federal Communications Commission (FCC) to deny license renewal requests from the eight local television stations owned and operated by ABC, accusing the network of political, racial and sexual bias and supporting the Chinese com",
+        "title": "Flight of fancy: San Francisco moves to build private luxury airport terminal",
+        "summary": "City seeking bids to build and operate separate terminal, following Los Angeles, London and other citiesSick of the TSA lines? Tired of playing musical chairs at the gate? Rather sit as far from your fellow airplane passengers for as long as possible, in the comfort of your own private, luxury airport terminal?Soon you may get your wish. And San Francisco international airport wants to be your genie",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/media/2026/jul/06/abc-license-renewals-fcc",
-        "seendate": "2026-07-06T11:00:02.000Z",
+        "url": "https://www.theguardian.com/us-news/2026/jul/09/san-francisco-airport-private-terminal",
+        "seendate": "2026-07-09T14:00:06.000Z",
         "domain": "theguardian.com"
       }
     ],
     "literature": [
+      {
+        "title": "The Odyssey by Homer audiobook review – a truly fantastic journey",
+        "summary": "Game of Thrones actor Anton Lesser brings poise and depth to this classic adaptation, conjuring monsters, heroes and GodsWith its gods, monsters and dizzying scale, Homer’s the Odyssey is deemed by many to be unfilmable, though it hasn’t stopped directors from having a go, including Christopher Nolan, whose blockbuster adaptation comes to cinemas next week. An audiobook would seem a smart choice, allowing l",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/jul/09/the-odyssey-by-homer-audiobook-review-a-truly-fantastic-journey",
+        "seendate": "2026-07-09T14:00:07.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Trouble Was by Charlotte Edwardes review – a sharp child’s-eye view of adult neglect",
+        "summary": "A young boy and his two siblings stay with their aunt in the West Country, in this haunting debut set over the long, hot summer of 1976The summer of 1976 calls to my generation of novelists. We don’t remember it, but we remember the textures of daily life in that era, and a heatwave puts daily life under the kind of pressure that fuels fiction. In Guardian journalist Charlotte Edwardes’s first novel, Troubl",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/jul/09/trouble-was-by-charlotte-edwardes-review-a-sharp-childs-eye-view-of-adult-neglect",
+        "seendate": "2026-07-09T06:00:53.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "The Kiss by Katie Barclay review – on passion, power and puckering up",
         "summary": "From Desiderius Erasmus to Luis Rubiales, a cultural history of this most intimate of gesturesIf, on a European holiday, you get flustered greeting people – should you kiss? how many times? – spare a thought for Dutch theologian Desiderius Erasmus. Visiting England in 1499, he found a nation of enthusiastic kissers. “Wherever you go, you are received on all hands with kisses; when you take leave you are dis",
@@ -138,158 +154,158 @@
         "domain": "theguardian.com"
       },
       {
+        "title": "Beat legend, ‘boy lover’: how should we reckon with Allen Ginsberg’s complex legacy?",
+        "summary": "As a series of star-studded events celebrates Ginsberg’s centennial, the keeper of his estate weighs the genius poetry – and provocative views – of the iconic writerIn 1985 Allen Ginsberg sat his friend, an out gay 17-year-old named Peter Hale, down and gave some advice: “Get a wife, settle down, and have kids.” At the time, Hale was enrolled in",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/ng-interactive/2026/jul/09/allen-ginsberg-complex-legacy",
+        "seendate": "2026-07-09T09:00:01.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Service by Lauren Mooney review – a very modern ghost story",
         "summary": "The chills are genuinely spooky in this haunted-house tale about contemporary precarity – a debut that speaks to our timesThere are, MR James tells us, five conditions that must be met for&nbsp;a perfect ghost story: the pretence of truth, a “pleasing terror”, no explanation of the machinery, no gratuitous horror, and that the story belong to the writer’s (and reader’s) “own day”. In Lauren Mooney’s sharply",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/books/2026/jul/08/service-by-lauren-mooney-review-a-very-modern-ghost-story",
         "seendate": "2026-07-08T08:00:24.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "‘I presumed kids’ books were written by people who were white and dead’: new children’s laureate Patrice Lawrence",
-        "summary": "The author of Orangeboy, Indigo Donut and Is That Your Mama? plans to use her two-year term to ensure children isolated from reading get involvedWhen Patrice Lawrence got the call asking her to become the UK’s next children’s laureate, her first response was disbelief. “I was in absolute shock,” she says, laughing. She is only just beginning to process what it means to join a lineage that includes Jacquelin",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jul/07/patrice-lawrence-new-childrens-laureate-interview-orangeboy",
-        "seendate": "2026-07-07T11:30:06.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Shahrnush Parsipur, Iranian author of Women Without Men, dies at 80",
-        "summary": "The revered writer and political exile’s publisher says her ‘legacy in literary history can’t be compared to anyone else’s’Shahrnush Parsipur, the celebrated Iranian writer whose subversive works of feminist fiction saw her repeatedly imprisoned, has died aged 80.A pioneer of women’s literature in Iran, Parsipur excoriated the country’s patriarchal culture in novels including Women Without Men and To",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jul/07/shahrnush-parsipur-iranian-author-women-without-men-dies-80",
-        "seendate": "2026-07-07T13:21:00.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Rachel Aviv: ‘There’s a way of writing about motherhood that can be very sentimental and boring’",
-        "summary": "As one of today’s greatest essayists, the Pulitzer-nominated writer’s new book investigates why the mother-daughter relationship is the most complex bond of allInterviewing Rachel Aviv is a great way to source reading recommendations. The exacting essayist responds to my questions about her new book by asking if I’ve read her colleague Parul Sehgal on the <a href=\"https://www.newyorker.com/magazine/2022/01/",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jul/07/rachel-aviv-interview",
-        "seendate": "2026-07-07T09:00:37.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "entertainment": [
       {
-        "title": "No to Half Man, yes to Matthew Rhys: this year’s biggest Emmy surprises",
-        "summary": "This year’s nominations saw a huge showing for Apple breakout Widow’s Bay but Richard Gadd’s Baby Reindeer follow-up and the final Stranger Things season struggledThe Pitt, Hacks and newcomers Widow’s Bay and Pluribus lead 2026 Emmy nominations<a href=\"https://www.theguardian.com/tv-and-radio/20",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/jul/08/biggest-emmy-nomination-surprises",
-        "seendate": "2026-07-08T17:49:47.000Z",
-        "domain": "theguardian.com"
+        "title": "Reservations now open for new Cuban - Italian restaurant come to the Highlands this month",
+        "summary": "The Cuban-Italian restaurant will hold its soft opening July 15, with reservations now available through OpenTable.",
+        "source": "wdrb.com",
+        "url": "https://www.wdrb.com/news/business/reservations-now-open-for-new-cuban-italian-restaurant-come-to-the-highlands-this-month/article_8d2ed81f-6cbb-46df-9264-f698c7a37786.html",
+        "seendate": "20260709T233000Z",
+        "domain": "wdrb.com"
       },
       {
-        "title": "Evil Dead Burn review – wildly gory horror tears a grieving family to pieces",
-        "summary": "The latest new chapter in Sam Raimi’s classic franchise goes harder than ever before but there’s something missingWith the release of Evil Dead Burn, there are now just as many Evil Dead movies not directed by Sam Raimi or starring Bruce Campbell as there are entries with that original team in place. The next film, Evil Dead Wrath, is already set for a 2028 release, when it will officially tip the balance t",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/jul/08/evil-dead-burn-review",
-        "seendate": "2026-07-08T16:00:35.000Z",
-        "domain": "theguardian.com"
+        "title": "Prince and Princess Of Wales hail  proud Welsh icon  Bonnie Tyler",
+        "summary": "It comes after Chicago star Catherine Zeta-Jones said her ‘heart is broken’ after the Total Eclipse Of The Heart singer’s death.",
+        "source": "readingchronicle.co.uk",
+        "url": "https://www.readingchronicle.co.uk/news/national/26268373.prince-princess-wales-hail-proud-welsh-icon-bonnie-tyler/",
+        "seendate": "20260709T233000Z",
+        "domain": "readingchronicle.co.uk"
       },
       {
-        "title": "Moana review – Dwayne Johnson’s demigod on autopilot in dull live-action remake",
-        "summary": "Johnson reprises his role from the original animation and has fine rapport with his young co-star Catherine Laga’aia, but the whole enterprise feels cynical and pointlessDisney’s animated super-hit Moana from 2016 – having been followed up by <a href=\"https://www.theguardian.com/film/2024/nov/26/moana-2-revie",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/jul/08/moana-review-live-action-dwayne-johnson-rock-catherine-lagaaia",
-        "seendate": "2026-07-08T15:00:34.000Z",
-        "domain": "theguardian.com"
+        "title": "Ella Langley Takes Fans Behind the Scenes of Her Life [ WATCH ] ",
+        "summary": "Ella Langley gave fans an unfiltered look at a typical day on tour, from her wellness routine and workouts to getting glam, singing along to soul classics and preparing to take the stage.",
+        "source": "klaw.com",
+        "url": "https://klaw.com/ixp/204/p/ella-langley-day-in-the-life-tour/",
+        "seendate": "20260709T233000Z",
+        "domain": "klaw.com"
       },
       {
-        "title": "New barnet: why is everyone wigging out over Dwayne Johnson’s Moana hairpiece?",
-        "summary": "The live-action remake of Disney’s hit animation is out this Friday and meme-makers have been speaking bald truths about The Rock’s nylon mopDisney’s new live-action Moana remake might not have a lot to recommend it – like so many of its ilk it carries a creepy unreality that makes the whole thing look like a liminal ChatGPT hallucination – but it does boast one element that may very well carry it towards t",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/jul/08/dwayne-the-rock-johnson-moana-wig-an-alien-being-no-wonder-everyone-is-freaked-out",
-        "seendate": "2026-07-08T12:38:17.000Z",
-        "domain": "theguardian.com"
+        "title": "Al Brown opens up on hand and ear surgeries and focusing on health",
+        "summary": "The chef said surgery for Dupuytren’s has left him with a lightning-shaped scar.",
+        "source": "nzherald.co.nz",
+        "url": "https://www.nzherald.co.nz/lifestyle/al-brown-opens-up-on-hand-and-ear-surgeries-and-focusing-on-health/VCGTANA57BH43FXKU4VDE4CYP4/",
+        "seendate": "20260709T233000Z",
+        "domain": "nzherald.co.nz"
       },
       {
-        "title": "Imagine a world without Wagner … it’s not easy, but let’s try",
-        "summary": "As the Bayreuth festival turns 150, we look at the composer’s huge and enduring influence, and wonder what might have happened to classical music in his absence?One hundred and fifty years ago this summer, Richard Wagner wanted to change the world. Not only the musical world, but nationhood, political thought, even the idea of what it means to be human. The inaugural <a href=\"https://en.wikipedia.org/wiki/B",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/music/2026/jul/08/imagine-a-world-without-wagner-bayreuth-150-liszt-brahms",
-        "seendate": "2026-07-08T11:26:57.000Z",
-        "domain": "theguardian.com"
+        "title": "Warner Bros . Shelves  Batgirl  With No Plans To Release Theatrically",
+        "summary": "The $70 million film was in middle of post-production when decision was made.",
+        "source": "deadline.com",
+        "url": "https://deadline.com/2022/08/warner-bros-batgirl-1235083809/",
+        "seendate": "20260709T233000Z",
+        "domain": "deadline.com"
       }
     ],
     "f1": [
       {
-        "title": "Why Red Bull and Max Verstappen struggled at Silverstone – and expect the same at Spa",
-        "summary": "Although Red Bull topped the initial internal combustion engine rankings – something that is partly due to how each manufacturer has chosen to run its power unit during the opening Formula 1 races of 2026 – the newcomer still appears to be lacking on the electrical side.According to Max Verstappen, that becomes particularly apparent at energy starved circuits, where energy management plays ...<a class='m",
+        "title": "George Russell jokes 2024 Belgian GP pain will stay with him until his \"deathbed\"",
+        "summary": "Mercedes Formula 1 driver George Russell has joked that the memories of the 2024 Belgian Grand Prix will remain with him until his \"deathbed\", as he prepares to return to the Spa-Francorchamps circuit.The iconic track holds some bitter memories for the British driver due to the events two years prior, when he took a spectacular victory only to be disqualified post-race when his Mercedes ...<a class='more",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/why-red-bull-and-max-verstappen-struggled-at-silverstone-and-expect-the-same-at-spa/10837235/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-08T16:29:07.000Z",
+        "url": "https://www.motorsport.com/f1/news/george-russell-jokes-2024-belgian-gp-pain-will-stay-with-him-until-his-deathbed/10837664/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-09T17:30:18.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "How Charles Leclerc has changed his steering wheel software for the first time since joining Ferrari",
-        "summary": "Last weekend’s British Grand Prix victory was almost a moment of relief for Charles Leclerc, who had been looking for answers to the set-up changes introduced after the sprint in an effort to regain the feeling he had lost with the SF‑26. It is a win that carries a far deeper meaning than his smile on the podium suggests, as his gaze settles on a trophy almost weighted by the difficult weeks ...<a class='mor",
+        "title": "Mercedes investigating George Russell's British GP top speed issue",
+        "summary": "Team principal Toto Wolff says Mercedes is looking into the top speed issue that held George Russell back in Formula 1 British Grand Prix qualifying.Russell qualified almost four tenths down on team-mate Kimi Antonelli at Silverstone, losing most of that time on the Hangar Straight as Antonelli was an average of around 6km/h faster. Both Mercedes drivers appeared to use similar energy ...<a class='more'",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/how-charles-leclerc-has-changed-his-steering-wheel-software-for-the-first-time-since-joining-ferrari/10837403/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-08T14:52:44.000Z",
+        "url": "https://www.motorsport.com/f1/news/mercedes-investigating-george-russells-british-gp-top-speed-issue/10837654/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-09T16:10:18.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "George Russell explains mindset after tough start to 2026 F1 campaign",
-        "summary": "Mercedes driver George Russell has insisted that he \"didn't really lose faith\" during a challenging start to his 2026 campaign.While the British driver won the season-opening Australian Grand Prix and the Chinese sprint race, he endured a series of unlucky moments as his teenage team-mate Kimi Antonelli took the championship lead.After winning the sprint race in Shanghai, he faced car ...<a class='mo",
+        "title": "Is Red Bull better or worse off one year after Christian Horner's sacking? Our writers have their say",
+        "summary": "On this day one year ago, Christian Horner was sacked as Red Bull Formula 1 team principal after 20 years in charge.Since then Laurent Mekies was installed as the new team boss, the team enjoyed a resurgence in 2025 in which Max Verstappen came two points off taking a fifth world title and the team began its new era with Red Bull Ford Powertrains.There’s been bumps along the way, from ...<a class='mo",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/george-russell-explains-mindset-after-tough-start-to-2026-f1-campaign/10837336/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-08T14:05:02.000Z",
+        "url": "https://www.motorsport.com/f1/news/one-year-on-from-christian-horner-sacking-is-red-bull-better-or-worse-off-our-writers-have-their-say/10837610/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-09T14:30:03.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Toto Wolff expecting strong Ferrari challenge for 'rest of F1 2026'",
-        "summary": "Toto Wolff expects Ferrari to continue challenging Mercedes' dominance of the 2026 Formula 1 campaign after Charles Leclerc’s victory at the British Grand Prix.The Silver Arrows mastered the switch to the 2026 regulations by winning the opening six grands prix, but then Ferrari closed the gap with a substantial upgrade package for Barcelona.That was the sight of Lewis Hamilton’s maiden ...<a class='m",
+        "title": "One year on: How Red Bull changed post-Christian Horner",
+        "summary": "On 9 July 2025, the news of Christian Horner's shock ousting as Red Bull Racing's F1 boss sent shockwaves through the paddock.Bringing an end to a 20-year period which yielded two dominant, title winning dynasties, Horner was removed following a protracted political battle within Red Bull, with a wide array of dominoes all contributing to a sensational end result.In came Laurent Mekies ...<a class='m",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/toto-wolff-expecting-strong-ferrari-challenge-for-rest-of-f1-2026/10837021/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-08T13:02:17.000Z",
+        "url": "https://www.motorsport.com/f1/news/one-year-on-how-red-bull-changed-post-christian-horner/10837599/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-09T13:34:28.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Fernando Alonso: No \"driver talent\" is needed with F1 2026 cars",
-        "summary": "Fernando Alonso has launched another scathing review of the 2026 Formula 1 regulations by claiming no “driver talent” is required after the British Grand Prix.This year F1 has introduced its latest regulation overhaul with radical changes to both the chassis and power unit, the latter being the more contentious point.That’s because F1 edged towards a 50-50 split between electric ...<a class='more' hr",
+        "title": "George Russell warns F1 drivers face unknown Spa rain challenge",
+        "summary": "Mercedes driver George Russell has warned that Formula 1 drivers face a completely unpredictable challenge when there is finally a wet race this season, admitting it is virtually impossible to properly prepare for running the 2026 machinery in wet conditions.Russell was speaking following a dramatic but dry British Grand Prix at Silverstone, where he salvaged a second-place finish despite ...<a class='mo",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/fernando-alonso-no-driver-talent-is-needed-with-f1-2026-cars/10837348/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-08T11:22:17.000Z",
+        "url": "https://www.motorsport.com/f1/news/george-russell-warns-f1-drivers-face-unknown-spa-rain-challenge/10837512/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-09T10:14:02.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "FDA plans rules to rein in drug ads , enable proactive release of CRLs , and more",
-        "summary": "The Trump administration has released its latest unified agenda, laying out the proposed and final rules its agencies plan to issue in 2026, including 22 final and 43 proposed rules by the US Food and Drug Administration (FDA).",
-        "source": "raps.org",
-        "url": "https://www.raps.org/resource-report/fda-plans-rules-to-rein-in-drug-ads-enable-proactive-release-of-crls-and-more.html",
-        "seendate": "20260708T233000Z",
-        "domain": "raps.org"
+        "title": "Steam was showing a 'too many requests' error, but it's back",
+        "summary": "If Steam said \"You've made too many requests recently,\" don't worry: it's wasn't just you.",
+        "source": "pcgamer.com",
+        "url": "https://www.pcgamer.com/games/steam-is-down-july-9-2026/",
+        "seendate": "2026-07-09T23:16:19.000Z",
+        "domain": "pcgamer.com"
       },
       {
-        "title": "Martin Freeman marks 25 years of The Office united kingdom with BBC documentary",
-        "summary": "Martin Freeman and Mackenzie Crook reunite for a BBC documentary as The Office UK marks 25 years, while Ricky Gervais plans a YouTube retrospective.",
-        "source": "el-balad.com",
-        "url": "https://www.el-balad.com/17030158",
-        "seendate": "20260708T233000Z",
-        "domain": "el-balad.com"
+        "title": "John Carmack reacts to massive layoffs at id Software: 'My 'Microsoft will probably be a good steward of the brand' statement isn't aging well'",
+        "summary": "\"You can't rule out the possibility that executives are idiots, but that shouldn't be your default belief.\"",
+        "source": "pcgamer.com",
+        "url": "https://www.pcgamer.com/gaming-industry/john-carmack-reacts-to-massive-layoffs-at-id-software-my-microsoft-will-probably-be-a-good-steward-of-the-brand-statement-isnt-aging-well/",
+        "seendate": "2026-07-09T22:45:26.000Z",
+        "domain": "pcgamer.com"
       },
       {
-        "title": "FERC Launches Section 206 Proceeding Targeting ISO - NE Treatment of Large Loads | Akin Gump Strauss Hauer & Feld LLP",
-        "summary": "",
-        "source": "jdsupra.com",
-        "url": "https://www.jdsupra.com:443/legalnews/ferc-launches-section-206-proceeding-5410813/",
-        "seendate": "20260708T233000Z",
-        "domain": "jdsupra.com"
+        "title": "US Federal Reserve taps Xbox CEO Asha Sharma, who just laid off 3,200 employees, to lead task force on jobs",
+        "summary": "The Federal Reserve says its newly-announced task forces represent a \"commitment to price stability and maximum employment.\"",
+        "source": "pcgamer.com",
+        "url": "https://www.pcgamer.com/gaming-industry/us-federal-reserve-taps-xbox-ceo-asha-sharma-who-just-laid-off-3-200-employees-to-lead-task-force-on-jobs/",
+        "seendate": "2026-07-09T21:11:00.000Z",
+        "domain": "pcgamer.com"
       },
       {
-        "title": "Trump : NATO Summit Successful | PowerTalk 1460 AM & 101 . 1 FM",
-        "summary": "President Trump praised the NATO summit in Turkey as a success, highlighting increased defense spending among allies. The summit focused on implementing spending targets and supporting Ukraine. Challenges remain, including fiscal constraints in Europe and potential U.S. disengagement.",
-        "source": "powertalk1460.iheart.com",
-        "url": "https://powertalk1460.iheart.com/content/2026-07-08-trump-nato-summit-successful/",
-        "seendate": "20260708T233000Z",
-        "domain": "powertalk1460.iheart.com"
+        "title": "Palworld studio says delete your old mods before the 1.0 release: 'Disabling them is not enough'",
+        "summary": "Old mod data could cause real trouble with all the changes made for the big launch.",
+        "source": "pcgamer.com",
+        "url": "https://www.pcgamer.com/games/survival-crafting/palworld-studio-says-delete-your-old-mods-before-the-1-0-release-disabling-them-is-not-enough/",
+        "seendate": "2026-07-09T18:23:30.000Z",
+        "domain": "pcgamer.com"
+      },
+      {
+        "title": "Roughly 192 Subnautica 2 players have drowned every minute since launch",
+        "summary": "Good job, team.",
+        "source": "pcgamer.com",
+        "url": "https://www.pcgamer.com/games/survival-crafting/roughly-192-subnautica-2-players-have-drowned-every-minute-since-launch/",
+        "seendate": "2026-07-09T18:18:30.000Z",
+        "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
+      {
+        "title": "Low-e windows keep homes cool … but may set neighbours’ property on fire",
+        "summary": "Low-emissivity windows also keep houses warm in winter, but use on bowed glass can have magnifying-glass effectLow-emissivity or low-E window glass is a useful green technology for keeping buildings warm in winter and cool in summer … but a rare side-effect can set the neighbours’ property on fire.The glass is coated with a thin layer of metal or metal oxide which lets visible light through but acts",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/jul/09/low-e-windows-keep-homes-cool-but-may-set-neighbours-property-on-fire",
+        "seendate": "2026-07-09T05:00:53.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Revealed: landmark Scottish AI project has no prospect of meeting renewables promise",
         "summary": "Exclusive: Government and developers privately acknowledged Lanarkshire datacentre site had power provision ‘issue’‘It’s smoke and mirrors’: hope turns to fear in Scottish village chosen for AI datacentre<a href=\"https://www.theguardian.com/technology/2026/jul/06/britain-ai-gro",
@@ -321,17 +337,25 @@
         "url": "https://www.theguardian.com/society/2026/jul/04/nhs-ai-app-patients-appropriate-services-health",
         "seendate": "2026-07-04T21:30:08.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "OpenAI’s apparent failure to visit key site raises questions over UK investment",
-        "summary": "Exclusive: £20bn of ‘potential’ £30bn AI investment touted by UK ministers appears to have been hypotheticalIt was to be the biggest undertaking in Britain for OpenAI, the company behind ChatGPT. Stargate UK – a multibillion-pound UK datacentre project – would represent “a major step forward in the US-UK technology partnership”.But the <a href=\"https://www.theguardian.com/technology/",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/jul/04/openai-apparent-failure-visit-key-site-questions-stargate-uk-project",
-        "seendate": "2026-07-04T12:00:12.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "climate": [
+      {
+        "title": "Historic El Niño able to supercharge extreme weather looks increasingly likely – researchers",
+        "summary": "Models show overwhelming chance that this year’s El Niño to rank among largest going back to 1950El Niño is strengthening and the risks of a historic event with the power to supercharge extreme weather around the world are rising, according to the latest analysis from the US National Weather Service.Mode",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/jul/09/el-nino-risks-extreme-weather",
+        "seendate": "2026-07-09T21:06:22.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "New York sues 3M, DuPont and others over 'forever chemicals' in consumer goods",
+        "summary": "State says companies hid environmental and health risks of Pfas for decades even as they began phasing them outSign up for the",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/jul/09/new-york-sues-3m-dupont-chemicals-consumer-goods",
+        "seendate": "2026-07-09T15:54:11.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Wyoming tightens wastewater rules after Meta datacenter contractor flushed contaminated water",
         "summary": "Meta said it was working with officials to be a ‘good neighbor’ and drinking water supplies were not affectedOfficials in Wyoming said a contractor for Mark Zuckerberg’s tech company, Meta, flushed bacteria-contaminated water into public sewers during construction of a controversial",
@@ -354,22 +378,6 @@
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/us-news/2026/jul/07/lake-powell-water-crisis",
         "seendate": "2026-07-07T20:05:17.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Washington records world’s worst air quality for a city after 850,000 Fourth of July fireworks",
-        "summary": "Hourly concentrations of particulate matter rose to 6.7 times their pre-fireworks levels, according to an analysisWashington DC residents breathed in “unhealthy” air for hours after a 40-minute Independence Day fireworks show over the National Mall on Saturday night, with the country’s capital briefly recording the worst air quality of any major city in the world.The highly emitting display, which th",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jul/07/washington-air-quality-fireworks-independence-day",
-        "seendate": "2026-07-07T15:00:04.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Air pollution may cause childhood obesity by disrupting impulse control, study finds",
-        "summary": "Babies exposed to higher levels of neurotoxin more likely to have difficulty controlling impulses later, research showsExposure to common air pollution may cause childhood obesity because it affects children’s ability to control impulse, new first-of-its-kind peer-reviewed research finds.Particular matter 2.5 (PM2.5) is a neurotoxin tha",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jul/06/air-pollution-childhood-obesity-study",
-        "seendate": "2026-07-06T11:00:02.000Z",
         "domain": "theguardian.com"
       }
     ],
