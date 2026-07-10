@@ -1,8 +1,16 @@
 window.NEWS_CACHE = {
-  "generatedAt": "2026-07-09T23:56:55.809Z",
+  "generatedAt": "2026-07-10T23:46:08.601Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
+      {
+        "title": "Developing countries spend more repaying foreign debt than on education, UN reveals",
+        "summary": "Unesco report shows children lost out to servicing debt in 113 countries, with 18 spending five times more on loansMost developing countries spent less on education than they did repaying debt last year, according to the UN, at the same time as global aid to education is predicted to decline by up to 30%.More was spent on servicing foreign debt than on education in 113 developing countries in 2025, a",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco",
+        "seendate": "2026-07-10T07:00:14.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Furore in Nigeria over fake federal agency set up in government HQ",
         "summary": "President orders investigation after fictitious body given funding, triggering renewed scrutiny of alleged corruptionA fictitious federal entity that was allocated 1.3bn naira (£700,000) in Nigeria’s 2026 budget has precipitated a political storm in Africa’s largest democracy in t",
@@ -33,19 +41,19 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/global-development/2026/jul/07/catnip-lotion-as-effective-as-deet-at-repelling-mosquitoes-study-finds",
         "seendate": "2026-07-07T15:17:19.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "What will define Elon Musk’s legacy? Doge cuts to USAID Ebola programs",
-        "summary": "Experts say cuts have hindered the response to DRC’s Ebola outbreak and resulted in ‘significant numbers’ of deathsElon Musk has an Ebola problem. SpaceX stock dropped precipitously after its initial public offering, and Tesla faces a wave of lawsuits. But instead of focusing on his companies, Musk has posted frequently on X about the US Agency for International Development (USAID), which he helped dismantl",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/jul/07/elon-musk-doge-cuts-usaid-ebola",
-        "seendate": "2026-07-07T11:00:06.000Z",
         "domain": "theguardian.com"
       }
     ],
     "conflict": [
       {
+        "title": "Developing countries spend more repaying foreign debt than on education, UN reveals",
+        "summary": "Unesco report shows children lost out to servicing debt in 113 countries, with 18 spending five times more on loansMost developing countries spent less on education than they did repaying debt last year, according to the UN, at the same time as global aid to education is predicted to decline by up to 30%.More was spent on servicing foreign debt than on education in 113 developing countries in 2025, a",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco",
+        "seendate": "2026-07-10T07:00:14.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Furore in Nigeria over fake federal agency set up in government HQ",
         "summary": "President orders investigation after fictitious body given funding, triggering renewed scrutiny of alleged corruptionA fictitious federal entity that was allocated 1.3bn naira (£700,000) in Nigeria’s 2026 budget has precipitated a political storm in Africa’s largest democracy in t",
         "source": "theguardian.com",
@@ -76,17 +84,41 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/global-development/2026/jul/07/catnip-lotion-as-effective-as-deet-at-repelling-mosquitoes-study-finds",
         "seendate": "2026-07-07T15:17:19.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "What will define Elon Musk’s legacy? Doge cuts to USAID Ebola programs",
-        "summary": "Experts say cuts have hindered the response to DRC’s Ebola outbreak and resulted in ‘significant numbers’ of deathsElon Musk has an Ebola problem. SpaceX stock dropped precipitously after its initial public offering, and Tesla faces a wave of lawsuits. But instead of focusing on his companies, Musk has posted frequently on X about the US Agency for International Development (USAID), which he helped dismantl",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/jul/07/elon-musk-doge-cuts-usaid-ebola",
-        "seendate": "2026-07-07T11:00:06.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "economy": [
+      {
+        "title": "Delta says higher airfares expected to last despite drop in oil prices",
+        "summary": "Company reports $1.4bn profit despite its highest quarterly fuel expense in historyDelta Airlines saidelevated airfares are likely to last despite a recent drop in oil prices, reporting strong appetite for travel and record-high revenue in its quarterly results Friday.Though the company had its highest quarterly fuel expense in its history, demand has been high enough to pass along 60% of its extra f",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/business/2026/jul/10/delta-airfare-prices-quarterly-results",
+        "seendate": "2026-07-10T16:15:22.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "New York City becomes first in the US to ban deceptive subscription practices",
+        "summary": "Rule from Mamdani administration bans companies from trapping customers into paying recurring charges and ‘junk fees’New York City has adopted a new rule that bans companies from using deceptive subscriptions to trap customers into paying for gym memberships, streaming services and other recurring charges, the city’s consumer protection office said.The new rule, which will start on 1 October, promise",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban",
+        "seendate": "2026-07-10T20:15:57.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Democratic Texas AG candidate claims $110m in grants for Elon Musk’s Starlink ‘sure looks’ like corruption",
+        "summary": "Nathan Johnson says if elected he’ll investigate state’s deal with Elon Musk’s SpaceX to provide rural internetUS politics live – latest updatesA Texas Democrat running to become the state’s attorney general has",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/jul/10/democrat-texas-ag-candidate-spacex-starlink-investigation",
+        "seendate": "2026-07-10T18:51:44.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "This program gives Black single moms $1,000 a month for a year. The results are undeniable",
+        "summary": "The Magnolia Mother’s Trust is the first to target low-income families led by Black mothers in Jackson, MississippiThree months after giving birth to her son, Amaya Jones moved into a new apartment complex. She knew no one else in the building, but it was a fresh start for her and her two children. One day, someone put up a flyer on her unit’s door, notifying her about a program called the Magnolia Mother’s",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/jul/10/guaranteed-income-black-single-moms-mississippi",
+        "seendate": "2026-07-10T12:00:20.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Trump’s consumer protection head has earned grudging respect – but does he have the authority to do his job?",
         "summary": "Chris Mufarrige has taken aim at Facebook scams and junk fees, but consumer advocates say he has an uphill climbAs the director of the Federal Trade Commission’s consumer protection bureau, Chris Mufarrige is the top enforcer protecting Americans against predatory companies.He’s got an uphill climb, consumer advocates say. <a href=\"https://www.theguardian.com/us-news/2026/jul/09/trump-ftc-consume",
@@ -94,41 +126,33 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/us-news/2026/jul/09/trump-ftc-consumer-protection-chris-mufarrige",
         "seendate": "2026-07-09T14:00:07.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Licensed to drill? How a Trump-linked Texas oil company is elbowing its way into Greenland",
-        "summary": "Greenland Energy says billions of barrels of crude could lie beneath territory and claims it has permission to bring drilling kit ashore – a claim denied by NuukOn 10 June, a snowy-haired American in his 60s addressed the residents of a remote Greenland hamlet. He was there to tell them about a business venture supported by figures linked to Donald Trump. “So,” Robert Price said via an interpreter, “we have",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/jul/09/licence-to-drill-trump-linked-texas-oil-company-elbowing-into-greenland",
-        "seendate": "2026-07-09T13:52:19.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Costco accused in lawsuit of selling protein powder ‘tainted’ with toxic heavy metals",
-        "summary": "Seven consumers sue the retailer, alleging it violated consumer protection and false advertising lawsA group of consumers have filed a proposed class-action lawsuit against Costco Wholesale Corporation, accusing the retailer of selling protein powder “tainted” with toxic heavy metals with no warning to consumers.The lawsuit, <a href=\"https://www.courthousenews.com/wp-content/uploads/2026/07/costco-or",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jul/09/costco-lawsuit-protein-powder",
-        "seendate": "2026-07-09T14:00:56.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "US chemical accidents rising as Trump rolls back protections, report finds",
-        "summary": "Deaths and injuries up as critics condemn administration’s ‘appalling’ plan to gut federal disaster management systemThe number of US chemical accidents is rising just as the Trump administration guts protections against the disasters, a new analysis of <a href=\"https://www.csb.gov/news/incident-report-ru",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jul/09/us-chemical-accidents-trump",
-        "seendate": "2026-07-09T11:00:03.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Flight of fancy: San Francisco moves to build private luxury airport terminal",
-        "summary": "City seeking bids to build and operate separate terminal, following Los Angeles, London and other citiesSick of the TSA lines? Tired of playing musical chairs at the gate? Rather sit as far from your fellow airplane passengers for as long as possible, in the comfort of your own private, luxury airport terminal?Soon you may get your wish. And San Francisco international airport wants to be your genie",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jul/09/san-francisco-airport-private-terminal",
-        "seendate": "2026-07-09T14:00:06.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "literature": [
+      {
+        "title": "Jenni Fagan: ‘Maya Angelou taught me that I owed myself hope’",
+        "summary": "The Scottish author on loving The Hobbit, fairytales, Frankenstein and the shock of A Clockwork OrangeMy earliest reading&nbsp;memory Fairytales. I was obsessed. I took fairytales very seriously&nbsp;as moral lessons. I soon knew that I’d always help any old lady cross the road, it&nbsp;really is always best&nbsp;to&nbsp;do so.My favourite book&nbsp;growing up<br",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/jul/10/jenni-fagan-maya-angelou-taught-me-that-i-owed-myself-hope",
+        "seendate": "2026-07-10T09:00:17.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "The best recent science fiction, fantasy and horror – review roundup",
+        "summary": "Sublimation by Isabel J Kim; Last Day of a Prior Life by Andrés Barba; Dead But Dreaming of Electric Sheep by Paul Tremblay; The Carrier by Ruth Newton; Time to Burn by Ellery LloydSublimation by Isabel J Kim</",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/jul/10/the-best-recent-science-fiction-fantasy-and-horror-review-roundup",
+        "seendate": "2026-07-10T11:00:19.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Transcendent by Laverne Cox review – success against the odds",
+        "summary": "The actor and activist tells the story of her brutal childhood in the deep south with eloquence and defianceWhen Laverne Cox was eight years old and growing up in Mobile, Alabama, she saved up her pocket money and bought herself a fan decorated with Japanese geishas. The fan became her favourite plaything, a prop to be used while dancing in imaginary music videos or recreating scenes from Gone With the Wind",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/jul/10/transcendent-by-laverne-cox-review-success-against-the-odds",
+        "seendate": "2026-07-10T06:00:12.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "The Odyssey by Homer audiobook review – a truly fantastic journey",
         "summary": "Game of Thrones actor Anton Lesser brings poise and depth to this classic adaptation, conjuring monsters, heroes and GodsWith its gods, monsters and dizzying scale, Homer’s the Odyssey is deemed by many to be unfilmable, though it hasn’t stopped directors from having a go, including Christopher Nolan, whose blockbuster adaptation comes to cinemas next week. An audiobook would seem a smart choice, allowing l",
@@ -144,160 +168,152 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/books/2026/jul/09/trouble-was-by-charlotte-edwardes-review-a-sharp-childs-eye-view-of-adult-neglect",
         "seendate": "2026-07-09T06:00:53.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "The Kiss by Katie Barclay review – on passion, power and puckering up",
-        "summary": "From Desiderius Erasmus to Luis Rubiales, a cultural history of this most intimate of gesturesIf, on a European holiday, you get flustered greeting people – should you kiss? how many times? – spare a thought for Dutch theologian Desiderius Erasmus. Visiting England in 1499, he found a nation of enthusiastic kissers. “Wherever you go, you are received on all hands with kisses; when you take leave you are dis",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jul/08/the-kiss-by-katie-barclay-review-a-history-of-passion-power-and-puckering-up",
-        "seendate": "2026-07-08T06:00:22.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Beat legend, ‘boy lover’: how should we reckon with Allen Ginsberg’s complex legacy?",
-        "summary": "As a series of star-studded events celebrates Ginsberg’s centennial, the keeper of his estate weighs the genius poetry – and provocative views – of the iconic writerIn 1985 Allen Ginsberg sat his friend, an out gay 17-year-old named Peter Hale, down and gave some advice: “Get a wife, settle down, and have kids.” At the time, Hale was enrolled in",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/ng-interactive/2026/jul/09/allen-ginsberg-complex-legacy",
-        "seendate": "2026-07-09T09:00:01.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Service by Lauren Mooney review – a very modern ghost story",
-        "summary": "The chills are genuinely spooky in this haunted-house tale about contemporary precarity – a debut that speaks to our timesThere are, MR James tells us, five conditions that must be met for&nbsp;a perfect ghost story: the pretence of truth, a “pleasing terror”, no explanation of the machinery, no gratuitous horror, and that the story belong to the writer’s (and reader’s) “own day”. In Lauren Mooney’s sharply",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jul/08/service-by-lauren-mooney-review-a-very-modern-ghost-story",
-        "seendate": "2026-07-08T08:00:24.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "entertainment": [
       {
-        "title": "Reservations now open for new Cuban - Italian restaurant come to the Highlands this month",
-        "summary": "The Cuban-Italian restaurant will hold its soft opening July 15, with reservations now available through OpenTable.",
-        "source": "wdrb.com",
-        "url": "https://www.wdrb.com/news/business/reservations-now-open-for-new-cuban-italian-restaurant-come-to-the-highlands-this-month/article_8d2ed81f-6cbb-46df-9264-f698c7a37786.html",
-        "seendate": "20260709T233000Z",
-        "domain": "wdrb.com"
+        "title": "Netflix reportedly among parties in talks to buy Letterboxd",
+        "summary": "Sony Pictures and Paramount are said to also be among potential buyers for the film-focused social platformLetterboxd is reportedly in talks with potential buyers.The owners of the popular social platform for movies are discussing a sale with companies including Netflix, Sony Pictures",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/film/2026/jul/10/letterboxd-netflix-sales-talks",
+        "seendate": "2026-07-10T17:53:47.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Prince and Princess Of Wales hail  proud Welsh icon  Bonnie Tyler",
-        "summary": "It comes after Chicago star Catherine Zeta-Jones said her ‘heart is broken’ after the Total Eclipse Of The Heart singer’s death.",
-        "source": "readingchronicle.co.uk",
-        "url": "https://www.readingchronicle.co.uk/news/national/26268373.prince-princess-wales-hail-proud-welsh-icon-bonnie-tyler/",
-        "seendate": "20260709T233000Z",
-        "domain": "readingchronicle.co.uk"
+        "title": "The Guardian view on Homer: The Odyssey is more modern than we might like to think | Editorial",
+        "summary": "The universal themes addressed by one of humanity’s greatest storytellers more than merit Hollywood box-office treatmentThe Magasphere’s endless appetite for culture wars is wearily familiar. But who could have foreseen that Greek literature would become the new casus belli? Ahead of its much-anticipated general release next week, Christopher Nolan’s adaptation of Homer’s Odyssey has triggered Elon Musk and",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/commentisfree/2026/jul/10/the-guardian-view-on-homer-the-odyssey-is-more-modern-than-we-might-like-to-think-",
+        "seendate": "2026-07-10T17:25:26.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Ella Langley Takes Fans Behind the Scenes of Her Life [ WATCH ] ",
-        "summary": "Ella Langley gave fans an unfiltered look at a typical day on tour, from her wellness routine and workouts to getting glam, singing along to soul classics and preparing to take the stage.",
-        "source": "klaw.com",
-        "url": "https://klaw.com/ixp/204/p/ella-langley-day-in-the-life-tour/",
-        "seendate": "20260709T233000Z",
-        "domain": "klaw.com"
+        "title": "Bon Jovi review – rockers make a surprisingly poignant return to the stage",
+        "summary": "Madison Square Garden, New York CityAfter vocal cord surgery, Jon Bon Jovi and band make a sturdy return with hit-packed showThis time last week, the scene in and around Madison Square Garden was an entirely different affair thanks to a certain superstar’s wedding of the century",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/music/2026/jul/10/bon-jovi-review-return-to-the-stage",
+        "seendate": "2026-07-10T16:40:48.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Al Brown opens up on hand and ear surgeries and focusing on health",
-        "summary": "The chef said surgery for Dupuytren’s has left him with a lightning-shaped scar.",
-        "source": "nzherald.co.nz",
-        "url": "https://www.nzherald.co.nz/lifestyle/al-brown-opens-up-on-hand-and-ear-surgeries-and-focusing-on-health/VCGTANA57BH43FXKU4VDE4CYP4/",
-        "seendate": "20260709T233000Z",
-        "domain": "nzherald.co.nz"
+        "title": "‘He stole the show’: do Oscars beckon for Robert Pattinson, star of four of the year’s biggest films – and Batman?",
+        "summary": "With a standout role in The Odyssey, the Twilight idol turned leading man for arthouse auteurs has become one of the most charismatic and unpredictable actors of his generationToday, former teen idols can no longer disown those projects, no matter how tacky, that turned them into stars. In an age in which even harrowing dramas are promoted by social media reels of actors <a href=\"https://www.youtube.com/@Fi",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/film/2026/jul/10/robert-pattinson-the-odyssey-twilight-oscars",
+        "seendate": "2026-07-10T15:48:49.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Warner Bros . Shelves  Batgirl  With No Plans To Release Theatrically",
-        "summary": "The $70 million film was in middle of post-production when decision was made.",
-        "source": "deadline.com",
-        "url": "https://deadline.com/2022/08/warner-bros-batgirl-1235083809/",
-        "seendate": "20260709T233000Z",
-        "domain": "deadline.com"
+        "title": "‘It says you are a Harry Styles fan’: how ties became a secret language for concert-goers",
+        "summary": "With the singer sporting an array of ties on stage, fans have been customising, repurposing and even creating whole garments from the office neckwear stapleDon’t get Fashion Statement delivered to your inbox? Sign up hereWhen Harry",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/fashion/2026/jul/10/harry-styles-concert-fans-wearing-ties",
+        "seendate": "2026-07-10T06:00:13.000Z",
+        "domain": "theguardian.com"
       }
     ],
     "f1": [
       {
-        "title": "George Russell jokes 2024 Belgian GP pain will stay with him until his \"deathbed\"",
-        "summary": "Mercedes Formula 1 driver George Russell has joked that the memories of the 2024 Belgian Grand Prix will remain with him until his \"deathbed\", as he prepares to return to the Spa-Francorchamps circuit.The iconic track holds some bitter memories for the British driver due to the events two years prior, when he took a spectacular victory only to be disqualified post-race when his Mercedes ...<a class='more",
+        "title": "Red Bull faces fresh driver headache as Isack Hadjar shines, says former F1 TV presenter",
+        "summary": "Will Buxton believes Isack Hadjar is the most competitive Formula 1 team-mate Max Verstappen has faced since Daniel Ricciardo.During the latest episode of the Up To Speed podcast alongside former F1 driver David Coulthard, Buxton evaluated the current state of Red Bull's driver roster.With ongoing paddock speculation regarding an exit clause in Verstappen's contract, Buxton noted that the ...<a class",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/george-russell-jokes-2024-belgian-gp-pain-will-stay-with-him-until-his-deathbed/10837664/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-09T17:30:18.000Z",
+        "url": "https://www.motorsport.com/f1/news/red-bull-faces-fresh-driver-headache-as-isack-hadjar-shines-says-former-f1-tv-presenter/10837947/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-10T21:21:14.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Mercedes investigating George Russell's British GP top speed issue",
-        "summary": "Team principal Toto Wolff says Mercedes is looking into the top speed issue that held George Russell back in Formula 1 British Grand Prix qualifying.Russell qualified almost four tenths down on team-mate Kimi Antonelli at Silverstone, losing most of that time on the Hangar Straight as Antonelli was an average of around 6km/h faster. Both Mercedes drivers appeared to use similar energy ...<a class='more'",
+        "title": "David Coulthard urges F1 to change safety car rules after \"dull\" British GP",
+        "summary": "Following the anticlimactic safety car finish at the British Grand Prix, former Formula 1 driver David Coulthard has heavily criticised the championship's current procedures. During the Up To Speed podcast, the 13-time grand prix winner argued the safety car process is unnecessarily slow and backed a proposal to mandate automatic red flags for incidents within the final 10 laps of a ...<a class='more' hr",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/mercedes-investigating-george-russells-british-gp-top-speed-issue/10837654/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-09T16:10:18.000Z",
+        "url": "https://www.motorsport.com/f1/news/david-coulthard-urges-f1-to-change-safety-car-rules-after-dull-british-gp/10837934/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-10T20:32:56.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Is Red Bull better or worse off one year after Christian Horner's sacking? Our writers have their say",
-        "summary": "On this day one year ago, Christian Horner was sacked as Red Bull Formula 1 team principal after 20 years in charge.Since then Laurent Mekies was installed as the new team boss, the team enjoyed a resurgence in 2025 in which Max Verstappen came two points off taking a fifth world title and the team began its new era with Red Bull Ford Powertrains.There’s been bumps along the way, from ...<a class='mo",
+        "title": "F1 British GP safety car finish defended amid fan backlash",
+        "summary": "Anthony Davidson has defended the decision to finish the British Grand Prix under safety car conditions, insisting that the Formula 1 regulations must be followed regardless of the entertainment factor.The end of the race at Silverstone drew mixed reactions from fans after the drivers crossed the finish line under safety car conditions. The safety car was deployed on lap 48 of 52 when Max ...<a class='mo",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/one-year-on-from-christian-horner-sacking-is-red-bull-better-or-worse-off-our-writers-have-their-say/10837610/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-09T14:30:03.000Z",
+        "url": "https://www.motorsport.com/f1/news/f1-british-gp-safety-car-finish-defended-amid-fan-backlash/10837921/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-10T18:19:18.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "One year on: How Red Bull changed post-Christian Horner",
-        "summary": "On 9 July 2025, the news of Christian Horner's shock ousting as Red Bull Racing's F1 boss sent shockwaves through the paddock.Bringing an end to a 20-year period which yielded two dominant, title winning dynasties, Horner was removed following a protracted political battle within Red Bull, with a wide array of dominoes all contributing to a sensational end result.In came Laurent Mekies ...<a class='m",
+        "title": "Jenson Button identifies key reason behind Lewis Hamilton's Ferrari resurgence",
+        "summary": "Jenson Button has argued that Lewis Hamilton's return to form is primarily down to the latest generation of Formula 1 machinery suiting his driving style, rather than simply settling into his new surroundings at Ferrari.The seven-time champion has bounced back this season. He secured his first grand prix podium finish as a Ferrari driver with third place at the Chinese Grand Prix.He went ...<a class=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/one-year-on-how-red-bull-changed-post-christian-horner/10837599/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-09T13:34:28.000Z",
+        "url": "https://www.motorsport.com/f1/news/jenson-button-identifies-key-reason-behind-lewis-hamiltons-ferrari-resurgence/10837825/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-10T17:10:58.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "George Russell warns F1 drivers face unknown Spa rain challenge",
-        "summary": "Mercedes driver George Russell has warned that Formula 1 drivers face a completely unpredictable challenge when there is finally a wet race this season, admitting it is virtually impossible to properly prepare for running the 2026 machinery in wet conditions.Russell was speaking following a dramatic but dry British Grand Prix at Silverstone, where he salvaged a second-place finish despite ...<a class='mo",
+        "title": "Fernando Alonso has \"no idea\" what he’ll do when he eventually retires from F1",
+        "summary": "Fernando Alonso has “no idea” what he will decide to do once he eventually calls time on his Formula 1 career, as intrigue over his future continues.The two-time F1 world champion has consistently stated he will make a decision on his future in grand prix racing around the summer break, while dismissing the timeline being linked to Aston Martin’s upcoming upgrade package set to arrive ...<a class='more'",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/george-russell-warns-f1-drivers-face-unknown-spa-rain-challenge/10837512/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-09T10:14:02.000Z",
+        "url": "https://www.motorsport.com/f1/news/fernando-alonso-has-no-idea-what-hell-do-when-he-eventually-retires-from-f1/10837637/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-10T15:39:20.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "Steam was showing a 'too many requests' error, but it's back",
-        "summary": "If Steam said \"You've made too many requests recently,\" don't worry: it's wasn't just you.",
+        "title": "'Surprised there was anyone left to post this': Fans react as The Elder Scrolls Online debuts seasonal content days after hundreds laid off from studio",
+        "summary": "Bad timing, or the worst timing?",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/steam-is-down-july-9-2026/",
-        "seendate": "2026-07-09T23:16:19.000Z",
+        "url": "https://www.pcgamer.com/games/mmo/surprised-there-was-anyone-left-to-post-this-fans-react-as-the-elder-scrolls-online-debuts-seasonal-content-days-after-hundreds-laid-off-from-studio/",
+        "seendate": "2026-07-10T23:05:24.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "John Carmack reacts to massive layoffs at id Software: 'My 'Microsoft will probably be a good steward of the brand' statement isn't aging well'",
-        "summary": "\"You can't rule out the possibility that executives are idiots, but that shouldn't be your default belief.\"",
+        "title": "Assassin's Creed Black Flag Resynced sells 2 million copies in 1 day and achieves the 'highest concurrent player count ever recorded for an Assassin's Creed title' on Steam",
+        "summary": "The kids love Kenway.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/john-carmack-reacts-to-massive-layoffs-at-id-software-my-microsoft-will-probably-be-a-good-steward-of-the-brand-statement-isnt-aging-well/",
-        "seendate": "2026-07-09T22:45:26.000Z",
+        "url": "https://www.pcgamer.com/games/assassins-creed/assassins-creed-black-flag-resynced-sells-2-million-copies-in-1-day-and-achieves-the-highest-concurrent-player-count-ever-recorded-for-an-assassins-creed-title-on-steam/",
+        "seendate": "2026-07-10T22:10:28.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "US Federal Reserve taps Xbox CEO Asha Sharma, who just laid off 3,200 employees, to lead task force on jobs",
-        "summary": "The Federal Reserve says its newly-announced task forces represent a \"commitment to price stability and maximum employment.\"",
+        "title": "Microsoft responds to racist Xbox layoff conspiracy theory, says CEO Asha Sharma is 'American born, raised, and educated'",
+        "summary": "There are a lot of good reasons to criticize the people responsible for Xbox layoffs, but racism isn't one of them.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/us-federal-reserve-taps-xbox-ceo-asha-sharma-who-just-laid-off-3-200-employees-to-lead-task-force-on-jobs/",
-        "seendate": "2026-07-09T21:11:00.000Z",
+        "url": "https://www.pcgamer.com/gaming-industry/microsoft-responds-to-racist-xbox-layoff-conspiracy-theory-says-ceo-asha-sharma-is-american-born-raised-and-educated/",
+        "seendate": "2026-07-10T20:38:51.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Palworld studio says delete your old mods before the 1.0 release: 'Disabling them is not enough'",
-        "summary": "Old mod data could cause real trouble with all the changes made for the big launch.",
+        "title": "Palworld revises some of its most egregious creature designs for its 1.0 release",
+        "summary": "Some of Pocketpair's Pals now bear a bit less resemblance to their Pokémon predecessors.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/survival-crafting/palworld-studio-says-delete-your-old-mods-before-the-1-0-release-disabling-them-is-not-enough/",
-        "seendate": "2026-07-09T18:23:30.000Z",
+        "url": "https://www.pcgamer.com/games/survival-crafting/palworld-revises-some-of-its-most-egregious-creature-designs-for-its-1-0-release/",
+        "seendate": "2026-07-10T19:53:18.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Roughly 192 Subnautica 2 players have drowned every minute since launch",
-        "summary": "Good job, team.",
+        "title": "id Software provides proof of life, says it 'still has the crew we need to build the games and tech we're known for' after massive layoffs",
+        "summary": "\"The team today is about the same size we were when making DOOM (2016).\"",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/survival-crafting/roughly-192-subnautica-2-players-have-drowned-every-minute-since-launch/",
-        "seendate": "2026-07-09T18:18:30.000Z",
+        "url": "https://www.pcgamer.com/gaming-industry/id-software-provides-proof-of-life-says-it-still-has-the-crew-we-need-to-build-the-games-and-tech-were-known-for-after-massive-layoffs/",
+        "seendate": "2026-07-10T18:50:32.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
+      {
+        "title": "Alarm over launch of facial recognition in UK shops that instantly alerts police",
+        "summary": "Civil liberties groups say Facewatch system in stores such as Sainsbury’s and B&amp;M is ‘dangerous escalation’Facial recognition technology in shops will soon alert police in real time to the presence of serious offenders, with civil liberties groups warning of a “dangerous escalation” towards surveillance and criminalisation in the retail sector.Facewatch, a facial recognition system used by more t",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/jul/10/facewatch-facial-recognition-uk-shops-instantly-alerts-police-civil-liberties",
+        "seendate": "2026-07-10T10:19:41.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "EU accuses Meta of failing to tackle mental health risks of ‘addictive design’",
+        "summary": "Regulators say Facebook and Instagram features such as autoplay and infinite scroll contribute to ‘compulsive use’EU regulators have accused Meta, the company behind Facebook and Instagram, of failing to tackle the risks of its “addictive design” on the physical and mental health of users.In an official charge sheet against Meta released on Friday, the European Commission said features such as video",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/jul/10/eu-accuses-meta-failing-tackle-mental-health-risks-addictive-design",
+        "seendate": "2026-07-10T11:38:29.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Low-e windows keep homes cool … but may set neighbours’ property on fire",
         "summary": "Low-emissivity windows also keep houses warm in winter, but use on bowed glass can have magnifying-glass effectLow-emissivity or low-E window glass is a useful green technology for keeping buildings warm in winter and cool in summer … but a rare side-effect can set the neighbours’ property on fire.The glass is coated with a thin layer of metal or metal oxide which lets visible light through but acts",
@@ -321,25 +337,41 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/technology/2026/jul/06/ai-altering-meaning-of-users-drafts-on-issues-from-abortion-to-climate-study-finds",
         "seendate": "2026-07-06T11:00:03.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "China wants to solve the hardest problem in robotics – making hands",
-        "summary": "Race to develop ‘embodied AI’ focuses on creating dextrous hands to transform humanoid robots from gimmicks into useful productsHuman hands – nimble, nerve-filled appendages that are the most flexible part of the human skeleton – are exceptionally complex. Many tasks that most people can do largely without thinking, from tying a pair of shoelaces to buttoning up a shirt, in fact require a complex set of neu",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/ng-interactive/2026/jul/06/china-dextrous-robotic-hands-humanoid",
-        "seendate": "2026-07-06T00:31:18.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "NHS to use AI on its app to direct patients to appropriate services",
-        "summary": "Update in England expected to reach about 200,000 patients over the next year as part of £10bn package to overhaul NHS systemsThe NHS will begin using AI on its app to direct patients to the appropriate services, it has been announced.The tool will be used to triage patients and to ascertain if they should be allocated a GP appointment. Some may be advised to attend a pharmacy or their local A&amp;E",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/society/2026/jul/04/nhs-ai-app-patients-appropriate-services-health",
-        "seendate": "2026-07-04T21:30:08.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "climate": [
+      {
+        "title": "‘Death sentence’: Trump’s EPA to open habitats of endangered species to logging and mining",
+        "summary": "Habitat destruction strongest driver of species loss, with legislation keeping 99% of listed species from going extinctThe Trump administration repealed a crucial part of the Endangered Species Act (ESA) on Friday, finalizing a new rule that will open habitats of imperiled wildlife to development, logging, mining and other uses.Fo",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/jul/10/epa-rollback-endangered-habitats-logging-mining",
+        "seendate": "2026-07-10T22:23:14.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Trump taps climate skeptic to run US government’s flagship climate report",
+        "summary": "Matthew Wielicki frequently criticizes established climate science online, including in videos from rightwing PragerUThe Trump administration has tapped a former geochemist who has railed against “climate alarmism” and calls himself an “Earth science professor-in-exile” to oversee the federal government’s flagship report about climate im",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/jul/10/trump-climate-report-matthew-wielicki",
+        "seendate": "2026-07-10T21:01:00.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Pacific gray whales facing ‘catastrophic’ die-off as climate crisis hits food supply",
+        "summary": "Trump administration urged to relist a species in ‘very, very serious trouble’ under Endangered Species ActClimate change is driving a gray whale “catastrophic mortality event” in the Pacific Ocean as melting sea ice depletes food sources and the animals starve, <a href",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/environment/2026/jul/10/pacific-gray-whales-population-climate-change",
+        "seendate": "2026-07-10T13:00:20.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "‘He’s forcing higher bills’: Trump spends billions to kill clean energy and keep coal alive",
+        "summary": "Critics accuse president of ‘fattening the wallets of his cronies’ as working Americans face higher energy ratesThe Trump administration has directly spent $2.7bn of taxpayer money on its crusade against wind power while pouring $1.125bn into boosting coal, which critics say is pushing up Americans’ bills.They say the moves are evidence that the president aims to serve fossil-fuel companies like thos",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/jul/10/bills-trump-clean-energy-coal",
+        "seendate": "2026-07-10T11:30:19.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Historic El Niño able to supercharge extreme weather looks increasingly likely – researchers",
         "summary": "Models show overwhelming chance that this year’s El Niño to rank among largest going back to 1950El Niño is strengthening and the risks of a historic event with the power to supercharge extreme weather around the world are rising, according to the latest analysis from the US National Weather Service.Mode",
@@ -347,79 +379,47 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/us-news/2026/jul/09/el-nino-risks-extreme-weather",
         "seendate": "2026-07-09T21:06:22.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "New York sues 3M, DuPont and others over 'forever chemicals' in consumer goods",
-        "summary": "State says companies hid environmental and health risks of Pfas for decades even as they began phasing them outSign up for the",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jul/09/new-york-sues-3m-dupont-chemicals-consumer-goods",
-        "seendate": "2026-07-09T15:54:11.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Wyoming tightens wastewater rules after Meta datacenter contractor flushed contaminated water",
-        "summary": "Meta said it was working with officials to be a ‘good neighbor’ and drinking water supplies were not affectedOfficials in Wyoming said a contractor for Mark Zuckerberg’s tech company, Meta, flushed bacteria-contaminated water into public sewers during construction of a controversial",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jul/08/meta-datacenter-ai-wyoming-water",
-        "seendate": "2026-07-08T14:08:00.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "European countries top ‘scorecard’ on climate progress while US slips to 27th",
-        "summary": "Estonia, Luxembourg and UK are the top three in biennial Yale University index in tackling pollution and other issuesMuch of the world has made encouraging strides in reducing toxic problems such as water and air pollution that have long plagued communities. But there is still a widespread lack of progress among countries in dealing with the c",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/2026/jul/08/climate-change-crisis-europe-us",
-        "seendate": "2026-07-08T10:00:27.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Lake Powell, a vital reservoir, plunges toward unprecedented low levels as water crisis deepens in US west",
-        "summary": "Experts say the critical reservoir system is careening toward a breaking point as the US west’s climate warms and driesLake Powell, the US’s second-largest reservoir, threatens to plunge to unprecedentedly low levels this year after a historically bleak snowpack failed to raise its water level, scientists and water experts have said, adding renewed urgency to stalled talks over how to conserve a water sourc",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jul/07/lake-powell-water-crisis",
-        "seendate": "2026-07-07T20:05:17.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "science": [
       {
-        "title": "Sitting for more than 30 minutes at a time linked to higher risk of cancer death",
-        "summary": "Study suggests even light activity such as ironing could reduce health risks linked to prolonged sedentary behaviourSitting for longer than half an hour at a time each day raises the risk of dying from cancer, a study suggests.Researchers who tracked more than 90,000 people over a decade found that sitting or lying down while awake for more than 30 minutes in one period each day was associated with a",
+        "title": "Cancer cases expected to soar worldwide, WHO report finds",
+        "summary": "The disease will touch 92% of people globally, finds annual review, while ‘persistent’ inequities found to exist in access to prevention, diagnosis, treatment and careRemarkable scientific progress against cancer has changed very little for millions of patients globally, who face devastating physical, emotional and financial consequences after diagnosis, a new World Health Organization report has warned.</p",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/jul/02/sitting-minutes-cancer-death-risk-study",
-        "seendate": "2026-07-02T18:00:07.000Z",
+        "url": "https://www.theguardian.com/global-development/2026/jul/08/health-who-global-persistent-inequities-progress-cancer-prevention-diagnosis-treatment-care",
+        "seendate": "2026-07-08T12:00:32.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Starwatch: Waning crescent moon pairs up with the Seven Sisters",
-        "summary": "Cluster might look like a mini version of the Plough unless you grab your binocularsIn the early hours of 11 July, the waning crescent moon will be gliding past the beautiful Pleiades star cluster, which is also known as M45 or the Seven Sisters.The chart shows the view looking east-north-east from London at 3am BST. By then, the sky will getting ready to start brightening for the coming day, so a cl",
+        "title": "The missing scientists at the centre of a UFO conspiracy",
+        "summary": "Are the disappearances or deaths of 11 US scientists really linked in a nefarious plot? Or just a conspiracy theory with roots in a bizarre broadcast that rocked Britain in the 1970s?In the last few years, 11 people allegedly tied to top secret US research have died or mysteriously disappeared, sparking a conspiracy that a clandestine operation is silencing those who know too much.As Phil Tin",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/jul/06/starwatch-waning-crescent-moon-pairs-up-with-the-seven-sisters",
-        "seendate": "2026-07-06T05:00:02.000Z",
+        "url": "https://www.theguardian.com/news/audio/2026/jul/10/the-missing-scientists-at-the-centre-of-a-ufo-conspiracy",
+        "seendate": "2026-07-10T02:00:07.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Can you solve it? This TV show is flipping brilliant!",
-        "summary": "A probability puzzleUPDATE: Read the solution hereToday’s puzzle imagines a TV game show.The compere announces that at the end of the show two people will be chosen and each placed in a separate booth. <a href=\"https://www.theguardian.com/science/2026/jul/06/can-you-solve-it-th",
+        "title": "Men’s average testosterone levels have halved in last 50 years, say scientists",
+        "summary": "Exclusive: Researchers warn of ‘major crisis in male reproductive health’ partly driven by obesity and diabetesMen’s average testosterone levels have halved over the past 50 years, according to scientists, who say society is facing a male fertility crisis.Total testosterone levels in men declined by 54% between 1972 and 2019, according to data presented at the annual meeting of the European Society o",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/jul/06/can-you-solve-it-this-tv-show-is-flipping-brilliant",
-        "seendate": "2026-07-06T06:10:03.000Z",
+        "url": "https://www.theguardian.com/society/2026/jul/07/mens-average-testosterone-levels-have-halved-in-last-50-years-say-scientists",
+        "seendate": "2026-07-07T15:41:59.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Statins helping people with obesity match those of healthy weight on key metrics, study finds",
-        "summary": "Differences in unhealthy cholesterol levels and blood pressure found to have ‘narrowed or disappeared’ in over-40sMany adults living with obesity have “indistinguishable” cholesterol and blood pressure levels compared with those who are a healthy weight, largely because of the use of statins, according to a study.In some cases, people with obesity were “better off” than those of a healthy weight, res",
+        "title": "Catnip lotion as effective as Deet at repelling mosquitoes, study finds",
+        "summary": "Researchers testing a cheap, homegrown oil in Uganda found what cats knew all along – it worked as well as the artificial chemical used globally A homegrown catnip lotion has proven “just as effective as Deet” as a mosquito repellant in trials carried out in Uganda.Catnip, or Nepeta cataria, is a common herb from the mint family. The chemical in the plant that causes feline euphoria – nepeta",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/society/2026/jul/02/over-40s-obesity-normal-bmi-cholesterol-blood-pressure-study-finds",
-        "seendate": "2026-07-02T07:13:10.000Z",
+        "url": "https://www.theguardian.com/global-development/2026/jul/07/catnip-lotion-as-effective-as-deet-at-repelling-mosquitoes-study-finds",
+        "seendate": "2026-07-07T15:17:19.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘Beautiful blobs’: synthetic life a step closer as scientists make cells using lab-made DNA",
-        "summary": "Tiny, quivering spheres designed to feed and multiply raise prospect of artificial organisms to make drugs, food and fuelResearchers claim they are closer to creating life from scratch after building tiny, quivering blobs that use lab-made DNA to feed, grow and multiply in a dish.The synthetic cells were made from chemical compounds and are believed to be the first to demonstrate the complete cell cy",
+        "title": "‘A break from scrolling’: how Gen Z fell in love with birding – podcast",
+        "summary": "In the last 50 years, Britain has lost an astonishing 73 million wild birds from its landscape, according to the British Trust for Ornithology. Habitat loss, pesticides, disease, cats and the climate crisis mean there are fewer birds than ever before. For children and young people it can be difficult to appreciate the scale of the loss due to a psychological phenomenon called ‘shifting baseline syndrome’, where ea",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/jul/01/synthetic-life-lab-made-dna-spudcells-scientists",
-        "seendate": "2026-07-01T14:00:38.000Z",
+        "url": "https://www.theguardian.com/science/audio/2026/jul/07/a-break-from-scrolling-how-gen-z-fell-in-love-with-birding-podcast",
+        "seendate": "2026-07-07T04:00:30.000Z",
         "domain": "theguardian.com"
       }
     ]
