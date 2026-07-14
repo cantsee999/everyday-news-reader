@@ -1,8 +1,16 @@
 window.NEWS_CACHE = {
-  "generatedAt": "2026-07-13T23:41:36.703Z",
+  "generatedAt": "2026-07-14T23:41:05.807Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
+      {
+        "title": "New US Ebola patient arrives in Germany for treatment",
+        "summary": "Aid worker flown to Berlin as Trump administration bars Americans from traveling to US on commercial flightsA US national who contracted Ebola in the Democratic Republic of the Congo has arrived in Germany for treatment, the health ministry in Be",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/jul/14/american-ebola-patient-arrives-germany",
+        "seendate": "2026-07-14T12:27:06.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Killings continue on Del Monte farm in Kenya, families say, after G4S hired for security",
         "summary": "Exclusive: Three men killed in incidents over past year allegedly involving G4S guards, who replaced in-house team after previous deathsBereaved families and politicians have raised alarm about continued killings on Del Monte’s pineapple farm in Kenya despite the company hiring a British security firm to replace its in-house security team after previous deaths were exposed by the Guardian.The multina",
@@ -33,19 +41,19 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco",
         "seendate": "2026-07-10T07:00:14.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Furore in Nigeria over fake federal agency set up in government HQ",
-        "summary": "President orders investigation after fictitious body given funding, triggering renewed scrutiny of alleged corruptionA fictitious federal entity that was allocated 1.3bn naira (£700,000) in Nigeria’s 2026 budget has precipitated a political storm in Africa’s largest democracy in t",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/jul/09/bola-tinubu-under-pressure-fake-nigerian-government-agency-political-storm",
-        "seendate": "2026-07-09T16:20:41.000Z",
         "domain": "theguardian.com"
       }
     ],
     "conflict": [
       {
+        "title": "New US Ebola patient arrives in Germany for treatment",
+        "summary": "Aid worker flown to Berlin as Trump administration bars Americans from traveling to US on commercial flightsA US national who contracted Ebola in the Democratic Republic of the Congo has arrived in Germany for treatment, the health ministry in Be",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/jul/14/american-ebola-patient-arrives-germany",
+        "seendate": "2026-07-14T12:27:06.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Killings continue on Del Monte farm in Kenya, families say, after G4S hired for security",
         "summary": "Exclusive: Three men killed in incidents over past year allegedly involving G4S guards, who replaced in-house team after previous deathsBereaved families and politicians have raised alarm about continued killings on Del Monte’s pineapple farm in Kenya despite the company hiring a British security firm to replace its in-house security team after previous deaths were exposed by the Guardian.The multina",
         "source": "theguardian.com",
@@ -76,17 +84,41 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco",
         "seendate": "2026-07-10T07:00:14.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Furore in Nigeria over fake federal agency set up in government HQ",
-        "summary": "President orders investigation after fictitious body given funding, triggering renewed scrutiny of alleged corruptionA fictitious federal entity that was allocated 1.3bn naira (£700,000) in Nigeria’s 2026 budget has precipitated a political storm in Africa’s largest democracy in t",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/jul/09/bola-tinubu-under-pressure-fake-nigerian-government-agency-political-storm",
-        "seendate": "2026-07-09T16:20:41.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "economy": [
+      {
+        "title": "Inflation cools to 3.5% in June in relief brought by brief US-Iran peace deal",
+        "summary": "Recent strikes have sent oil prices climbing again, with average gas price per gallon up by $0.70 compared with 2025Inflation cooled to an annual rate of 3.5% in June as the brief US-Iran ceasefire, which has since ended, brought energy prices down, according to new data from the Bureau of Labor Statistics.The consumer price index (CPI), which measures a basket of goods and services, has been elevate",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/business/2026/jul/14/june-cpi-report-inflation-cools-iran-deal",
+        "seendate": "2026-07-14T16:56:56.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "IBM loses quarter of its value as tech giant’s shares plunge and profits falter",
+        "summary": "IBM issued profit warning after weak second quarter, triggering selloff in software sector including MicrosoftShares in IBM plunged more than 25% on Tuesday after the US tech giant released disappointing preliminary second-quarter results. IBM’s stock was on track for an even steeper single-day decline than it suffered during ⁠the 1987 “Black Monday”",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/jul/14/ibm-shares-profit-drop-value",
+        "seendate": "2026-07-14T16:38:00.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Victims of Trump purge call supreme court ruling a ‘dagger’ at heart of civil service",
+        "summary": "Rebecca Slaughter, fired by Trump from the FTC in 2025, worries agencies will fear defying the US presidentFederal officials fired by the Trump administration are calling a recent supreme court decision a “dagger” at the heart of the civil service that will open independent federal government agencies to corruption and manipulation at the whim of the president.Since Donald Trump took office again in",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/jul/14/federal-officials-fired-by-trump-supreme-court-ruling",
+        "seendate": "2026-07-14T11:00:25.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "US refunds $81bn in Trump tariffs after supreme court ruled them illegal",
+        "summary": "Government has been forced to pay back duties to companies that imported goods into the US that were hit by Trump’s tariffsChina’s monthly car ‌exports top 1m as overall trade soars<a href=\"https://www.theguardian.com/business/live/2026/jul/14/oil-prices-rise-2-middle-east-",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/jul/14/trump-tariffs-us-refunds",
+        "seendate": "2026-07-14T07:03:02.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "US state attorneys general file lawsuit in effort to block Paramount merger",
         "summary": "Bipartisan group argue in lawsuit that $110bn merger would hurt competition and lead to thousands of job lossesA dozen US state attorneys general are seeking to block the $110bn merger of Paramount Skydance and Warner Bros Discovery, arguing in a lawsuit filed",
@@ -94,41 +126,33 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/media/2026/jul/13/paramount-warner-bros-merger-lawsuit",
         "seendate": "2026-07-13T18:36:15.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Is Donald Trump winning his war against the media?",
-        "summary": "President and allies have sued, cut access and issued subpoenas, but experts say media still producing strong workDonald Trump has ramped up his attacks on the media to a level without precedent in American history in the first 17 months of his second presidency.But have Trump and his allies won their war against the media – or at least put the industry on a weaker footing than in the past? The answe",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/media/2026/jul/13/trump-war-on-media",
-        "seendate": "2026-07-13T11:30:45.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "The New York nurses replaced by AI: ‘It should concern every patient who cares about quality of care’",
-        "summary": "The union for 12 nurses laid off by Montefiore hospital say company broke contract they recently won through a strikeMarilyn Shuler has worked as a utilization review nurse for 39 years at Montefiore hospital in the Bronx in New York City, helping to read patient charts and communicate with insurance companies over coverage.After nearly four decades in her job, Shuler is one of 12 nurses who were lai",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/jul/13/nurses-new-york-ai",
-        "seendate": "2026-07-13T12:00:47.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Oil price jumps 3% and UK pump prices rise as the US and Iran trade attacks – as it happened",
-        "summary": "Brent crude remains below $80 a barrel; European shares push cautiously higher while Asian shares tumble with South Korea’s Kospi down nearly 10%People in the UK: have you used prediction markets to bet on the World Cup or other events?<p",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/live/2026/jul/13/oil-price-jumps-gold-slides-us-iran-trade-attacks-live-news-updates",
-        "seendate": "2026-07-13T14:06:36.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Slew of lawsuits over disability access frustrates US cafe and shop owners",
-        "summary": "Small busines owners say they’re being unfairly targeted – but disability advocates say violations must be dealt withRodrigo Nogueira was met with a surprise in April 2025 when lawyers contacted him out of the blue. They asked whether he needed legal assistance over a summons his restaurant received for violating Title III of the Americans with Disabilities Act (ADA).It was the first he had ever hear",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/jul/11/disability-ada-lawsuits-small-businesses",
-        "seendate": "2026-07-11T12:00:49.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "literature": [
+      {
+        "title": "The Art of Opposition by Courttia Newland review – piercing essays on culture and creativity",
+        "summary": "The novelist issues a inspiring call for artists to exercise their autonomy in a world of gatekeepersIn 1988, the late Ghanaian writer and filmmaker Kwesi Owusu edited Storms of the Heart: An Anthology of Black Arts &amp; Culture, a collection of writings and images by Black artists in Britain, including Ben Okri on Shakespeare, Shobana Jeyasingh on Indian dance theatre, Jacob Ross on decolonising language,",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/jul/14/the-art-of-opposition-by-courttia-newland-review-piercing-essays-on-culture-and-creativity",
+        "seendate": "2026-07-14T06:00:21.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Book publishers sue Google for copyright infringement over Gemini AI training",
+        "summary": "Group of major publishers accuses the tech giant of ‘one of the most prolific infringements of copyrighted materials in history’A group of major publishers have filed a lawsuit against Google, accusing the company of illegally using millions of copyrighted books to help build its Gemini artificial intelligence models, in “one of the most prolific infringements of copyrighted materials in history”.The",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/jul/14/publishers-sue-google-gemini-ai-training",
+        "seendate": "2026-07-14T18:16:56.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Goodbye Chinatown by Kit Fan review – a chef’s elegy to London",
+        "summary": "Skipping between London, Shanghai and Hong Kong, this tale of family migration, politics and food has plenty of flavour and fireAmber Fan, the 22-year-old protagonist of Kit Fan’s heartfelt and elegiac second novel, is ready to say goodbye. Goodbye to her parents, who are booked on the midnight flight from London to Hong Kong, there to enjoy their sunset years having sold the family restaurant in London’s C",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/jul/14/goodbye-chinatown-by-kit-fan-review-a-chefs-elegy-to-london",
+        "seendate": "2026-07-14T08:00:24.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "The Anniversary by Andrea Bajani review – meet the terrible parents",
         "summary": "Therapy brings childhood trauma to light in this ambitious tale of family rupture – a smash hit in Italy that fails to live up to its hypeA son leaves home for university and goes on to pay fortnightly visits to his parents for 20 years, dreading every encounter because of the oppressive control exerted by his father and the self-effacing passivity of his mother. Then one day, he changes his phone number an",
@@ -144,160 +168,152 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/books/2026/jul/13/the-brexit-effect-2016-2026-edited-by-anthony-seldon-review-life-without-eu",
         "seendate": "2026-07-13T08:00:41.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "‘People treat each other as disposable’: dating columnist turned novelist Annie Lord on love and sex in the age of apps",
-        "summary": "Her breakup memoir and Vogue column made her the voice of modern dating. As her debut is published, she talks about single life, oversharing and why she still believes she’ll find loveThere is a scene in Annie&nbsp;Lord’s novel that&nbsp;will be instantly familiar to any young person who has spent time at a pub or nightclub recently. Daisy&nbsp;and Maya, two best friends in&nbsp;their mid-20s, are&nbsp;lame",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jul/12/people-treat-each-other-as-disposable-dating-columnist-turned-novelist-annie-lord-on-love-and-sex-in-the-age-of-apps",
-        "seendate": "2026-07-12T11:00:17.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Why do free speech debates make us so angry?",
-        "summary": "We try to pin down definitions and enforce rules – but often what we’re really arguing about is characterIn January 2015, two members of al-Qaida gunned down cartoonists at the satirical French magazine Charlie Hebdo in retaliation for their publication of cartoons of the prophet M",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jul/12/why-do-free-speech-debates-make-us-so-angry",
-        "seendate": "2026-07-12T11:00:16.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Pressed for time? 20 brilliant books you can read in a day",
-        "summary": "From novels by James Baldwin and Han Kang to a guide to quantum physics – a former Booker prize judge recommends immersive one-sitting wondersA one-sitting read is typically the domain of the short story – a form that largely depends on a reader’s pure, unbroken attention. But there is some­thing special about the intensity of beginning and ending an entire book in a single day. Of all my reading experience",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/ng-interactive/2026/jul/11/pressed-for-time-20-brilliant-books-you-can-read-in-a-day",
-        "seendate": "2026-07-11T08:00:44.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "entertainment": [
       {
-        "title": "Sam Neill, actor and star of Jurassic Park, dies aged 78",
-        "summary": "New Zealand actor built career as dashing romantic leads and charismatic villains across film and televisionSam Neill’s final interviewSam Neill’s 20",
+        "title": "Tom Cruise among names set to take part in World Cup closing ceremony",
+        "summary": "Mission: Impossible star to appear in a pre-game show that will also feature Robbie Williams and Jennifer HudsonA wide array of performers, from actor Tom Cruise to streamer IShowSpeed, will help close out the World Cup, Fifa announced on Tuesday.Soccer’s governing body released the lineup for the closing ceremony, which will take place 90 minutes before Sunday’s final. The show is meant to “celebrat",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/jul/13/sam-neill-death-actor-dies-aged-78",
-        "seendate": "2026-07-13T06:41:15.000Z",
+        "url": "https://www.theguardian.com/film/2026/jul/14/tom-cruise-world-cup-closing-ceremony",
+        "seendate": "2026-07-14T17:54:07.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Tom Cruise unveils remarkable transformation in Digger trailer: ‘I’ve never had something that could challenge me in this way’",
-        "summary": "The new Alejandro González Iñárritu film sees Cruise playing an eccentric oil baron on a mission to save the worldThe first full length trailer for Alejandro González Iñárritu’s hotly anticipated comedy-drama Digger has been released, and with it audiences’ first look at Tom Cruise</a",
+        "title": "Andrew Lloyd Webber says Broadway in ‘dire danger’ as Cats musical announces early closing",
+        "summary": "The legendary composer warned theaters could soon meet the same fate as Hollywood’s ‘empty soundstages’Andrew Lloyd Webber has spoken out about the precarious state of Broadway in the wake of the early closing of his revival Cats: The Jellicle Ba",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/jul/13/tom-cruise-digger-trailer-transformation-alejandro-gonzalez-inarritu-film",
-        "seendate": "2026-07-13T16:42:43.000Z",
+        "url": "https://www.theguardian.com/culture/2026/jul/14/andrew-lloyd-webber-cats-jellice-ball-broadway",
+        "seendate": "2026-07-14T17:12:47.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Gracie Abrams: Daughter from Hell review – bloodless anthems hit like a faceful of icing sugar",
-        "summary": "(Interscope)Despite their goth-coded attempts at emotional turbulence, the saccharine songs of Abrams’ third album feel adolescent in their melodramaGracie Abrams’ third album is a full-blown crime scene. Across 16 songs, the US songwriter catalogues slip knots, blades, bullets, knives, more knives, ghosts, cages, drugs, car crashes, blood, burial, flaming tyres, choking, burning houses",
+        "title": "‘A frightening piece to perform’: can Yoko Ono’s Cut Piece still shock?",
+        "summary": "Sixty years after its first staging, performance artist MPA is restaging the provocative piece in Los AngelesYoko Ono: Music of the Mind, a traveling retrospective on view at Los Angeles’s The Broad museum, features black and white footage of Ono’s 1964 Carnegie Hall",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/music/2026/jul/13/gracie-abrams-daughter-from-hell-review",
-        "seendate": "2026-07-13T13:00:47.000Z",
+        "url": "https://www.theguardian.com/culture/2026/jul/14/yoko-ono-cut-piece-the-broad-los-angeles",
+        "seendate": "2026-07-14T16:06:58.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Ladies First has been panned. It’s still an essential watch | Anna Smith",
-        "summary": "The Netflix gender-flip comedy film, in which Sacha Baron Cohen wakes to a world run by female chauvinists, is a valuable testimony to the enduring destructive force of gender bias‘This Movie Is: Absurd.” That’s the descriptive label given to Thea Sharrock’s comedy film Ladies First on Netflix. Damien (Sacha Baron Cohen) is a male chauvinist who knocks his head and wakes up in a world run by women who are l",
+        "title": "Jon Stewart on the advanced age of Congress: ‘This is not right, the stakes are too high’",
+        "summary": "After the death of Lindsey Graham, late-night hosts discussed the problems with an aging government and Trump’s bizarre responseLate-night hosts discussed the death of Lindsey Graham and how the US government is getting increasingly elderly and out of touch. <a href=\"https://www.theguardian.com/culture/2026/ju",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/jul/13/ladies-first-sacha-baron-cohen-netflix-sexism",
-        "seendate": "2026-07-13T12:35:30.000Z",
+        "url": "https://www.theguardian.com/culture/2026/jul/14/jon-stewart-congress-ages-lindsey-graham-trump",
+        "seendate": "2026-07-14T15:21:20.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Christopher Nolan says people ‘disdain’ AI and the idea it will replace humans is ‘nonsense’",
-        "summary": "Odyssey director addresses industry fears over artificial intelligence and says rightwing criticism of Lupita Nyong’o as Helen of Troy is ‘irrelevant’The Oscar-winning director Christopher Nolan believes the kind of movies he makes – big-budget action films shot mostly on location – would survive the spread of artificial intelligence, a technology he says many people “disdain”.The Oppenheimer and The",
+        "title": "‘Fun, propulsive, full of queer joy’: readers’ favourite albums of 2026 so far, from Muna to Raye and J Cole",
+        "summary": "After the Guardian’s music critics chose their best of the half-year, we asked you for your picks – from Brian Jackson and Arlo Parks to Maya Hawke, Flea and more• The best albums of 2026 so far• <a href=\"https://www.theguardian.com/film/2026/jul/09/i-saw-it-seven-times-readers-favourite-films-of-20",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/jul/13/christopher-nolan-odyssey-director-comments-ai-artificial-intelligence",
-        "seendate": "2026-07-13T00:56:38.000Z",
+        "url": "https://www.theguardian.com/music/2026/jul/14/readers-favourite-albums-of-2026-so-far-from-muna-to-raye-and-j-cole",
+        "seendate": "2026-07-14T13:38:40.000Z",
         "domain": "theguardian.com"
       }
     ],
     "f1": [
       {
-        "title": "Sergio Perez reveals personal goal behind Cadillac F1 return after tough Red Bull stint",
-        "summary": "Sergio Perez has revealed that his return to Formula 1 with Cadillac was fuelled by a desire to prove he remains \"one of the best\" in the championship, following a mentally taxing end to his Red Bull tenure. After taking a much-needed year out to recharge from what he described as a \"toxic\" final six months at the Milton Keynes outfit, the Mexican driver returned to the grid with the all-new ...<a class=",
+        "title": "Pierre Gasly tests new A110 Future prototype with Duke of Richmond at Goodwood Festival of Speed",
+        "summary": "Pierre Gasly had the opportunity to get behind the wheel of Alpine's all-electric A110 Future prototype at the Goodwood Festival of Speed.After arriving at the Goodwood estate just days after securing a double points finish for Alpine at the British Grand Prix with his team-mate Franco Colapinto, the Frenchman took the prototype up the famous hillclimb with the Duke of Richmond in the ...<a class='more'",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/sergio-perez-reveals-personal-goal-behind-cadillac-f1-return-after-tough-red-bull-stint-/10838608/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-13T20:44:12.000Z",
+        "url": "https://www.motorsport.com/f1/news/pierre-gasly-tests-new-a110-future-prototype-with-duke-of-richmond-at-goodwood-festival-of-speed/10838675/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-14T19:34:58.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Toto Wolff: I stand by Mercedes' performance focus, but now we must sort reliability",
-        "summary": "Mercedes Formula 1 team principal Toto Wolff says he’d rather have a fast, unreliable car than the opposite, but admits it’s time to weed out the Silver Arrow’s mechanical gremlins.Mercedes has dominated the 2026 season so far, taking all nine pole positions for grand prix races – though it was beaten by McLaren and Ferrari in a couple of sprint qualifying sessions – but has won just ...<a class='more' h",
+        "title": "Ollie Bearman hailed as \"class act\" after emotional Ayrton Senna Lotus drive",
+        "summary": "British Formula 1 driver Ollie Bearman has been praised by fans and branded an all-round \"class act\" after an emotional run in Ayrton Senna's legendary 1985 Lotus. The 21-year-old was invited to drive the famous black-and-gold Lotus 97T around the Silverstone circuit alongside former F1 driver and Sky Sports analyst Karun Chandhok.For Bearman, stepping into the cockpit of the car that ...<a class='mo",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/toto-wolff-i-stand-by-mercedes-performance-focus-but-now-we-must-sort-reliability-out/10838643/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-13T16:23:29.000Z",
+        "url": "https://www.motorsport.com/f1/news/ollie-bearman-hailed-as-class-act-after-emotional-ayrton-senna-lotus-drive/10838625/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-14T18:35:33.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Sergio Perez reveals brutal Christian Horner 'two car' message ahead of Red Bull stint",
-        "summary": "Sergio Perez has revealed that former Red Bull team principal Christian Horner bluntly informed him upon joining the team that they only ran a second car \"because they have to\", admitting they would have been content racing solely with Max Verstappen.During an appearance on the High Performance podcast, the Mexican driver shed light on the reality he faced when entering the Milton Keynes ...<a class='mor",
+        "title": "Exclusive: Pirelli explains the role of wheel‑rim development and driving styles on 2026 F1 tyres",
+        "summary": "Formula 1 is currently going through a phase of transformation that touches every area of the car, and to truly understand it, it’s essential to tell the story through the words of those who are experiencing this revolution from the inside. It’s often said that mastering tyre usage is fundamental, since it is the car’s only contact with the asphalt, but in the search for that perfect ...<a class='more' href=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/sergio-perez-reveals-brutal-christian-horner-two-car-message-ahead-of-red-bull-stint/10838596/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-13T14:08:38.000Z",
+        "url": "https://www.motorsport.com/f1/news/f1-marrafuschi-esclusivo-il-capo-di-pirelli-spiega-il-ruolo-dei-cerchi-liberi-e-dello-stile-di-guid/10838725/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-14T16:00:18.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Arvid Lindblad keen on rally future post-F1 after “amazing” WRC experience",
-        "summary": "Rallying is a discipline Arvid Lindblad would like to potentially pursue in a future post-Formula 1 after tasting World Rally Championship machinery at the Goodwood Festival of Speed.The Racing Bulls F1 rookie jumped aboard an M-Sport-Ford Puma Rally1 car to tackle the event’s tight and twisty 1.9-mile forest gravel stage, designed by the late 1983 world rally champion Hannu ...<a class='more' href='http",
+        "title": "Win the dream ticket to attend every F1 race next season",
+        "summary": "When F1 fan Brandon Burgess spent his entire savings going to every race last season, it gave the sport’s global sponsor Heineken a good idea. They created a carbon fibre season ticket that lets one lucky fan and a friend follow in his footsteps – and next season it could be you.Burgess did the 2025 season on a shoestring so he was shocked when Heineken called to offer him an upgrade. He ...<a class='mor",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/arvid-lindblad-keen-on-rally-future-post-f1-after-amazing-wrc-experience/10838603/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-13T14:06:56.000Z",
+        "url": "https://www.motorsport.com/f1/news/win-the-dream-ticket-to-attend-every-f1-race-next-season/10838702/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-14T13:00:01.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "James Vowles admits Williams F1 British GP upgrade disappointment",
-        "summary": "Williams team principal James Vowles has conceded that the upgrades introduced at the British Grand Prix failed to deliver the expected level of performance, admitting the weekend at Silverstone exposed several new areas of concern for the Grove outfit.Vowles offered an assessment of the team's development progress following a challenging home race during the latest episode of The Vowles ...<a class='mor",
+        "title": "Should F1 really get louder in 2031? Our verdict",
+        "summary": "FIA president Mohammed Ben Sulayem and his Formula 1 counterpart Stefano Domenicali are keen on F1 cars returning to naturally aspirated V8s from 2031 or even 2030.The majority of power unit manufacturers appear to be aligned on advanced sustainable fuels and a modest amount of electrification amounting to a lower-cost and lower-complexity formula.Other than cost, one of the key reasons ...<a class='",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/james-vowles-admits-williams-f1-british-gp-upgrade-disappointment/10838356/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-13T13:47:32.000Z",
+        "url": "https://www.motorsport.com/f1/news/should-f1-actually-get-loud-in-2031-/10838728/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-14T12:00:23.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "Fallout: New Vegas director Josh Sawyer reveals his optimal outcome for the Mojave Wasteland",
-        "summary": "Independence all the way.",
+        "title": "Future Games Show returns to Gamescom with 3 shows",
+        "summary": "The Gamescom showcases will feature \"world premieres, exclusive trailers, developer deep dives and brand-new game demos.\"",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/fallout/fallout-new-vegas-director-josh-sawyer-reveals-his-optimal-outcome-for-the-mojave-wasteland/",
-        "seendate": "2026-07-13T21:07:02.000Z",
+        "url": "https://www.pcgamer.com/gaming-industry/events-conferences/future-games-show-returns-to-gamescom-with-3-shows/",
+        "seendate": "2026-07-14T22:32:03.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "My Chemical Romance front man Gerard Way pauses concert to talk classic RPGs, admits he hasn't played Baldur's Gate 3 yet: 'The first one was a lot of fun, the closest thing at the time to playing D&D'",
-        "summary": "Somebody get this man a Steam Deck.",
+        "title": "Epic Games Store boss quits after 8 years to take up new role at Saber Interactive",
+        "summary": "Steve Allison launched Epic's storefront in 2018 and held the reins until earlier this month.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/baldurs-gate/my-chemical-romance-front-man-gerard-way-pauses-concert-to-talk-classic-rpgs-admits-he-hasnt-played-baldurs-gate-3-yet-the-first-one-was-a-lot-of-fun-the-closest-thing-at-the-time-to-playing-d-and-d/",
-        "seendate": "2026-07-13T20:45:44.000Z",
+        "url": "https://www.pcgamer.com/gaming-industry/epic-games-store-boss-quits-after-8-years-to-take-up-new-role-at-saber-interactive/",
+        "seendate": "2026-07-14T22:25:25.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "'I'm in this whole new world': Here's what Eric Barone had to say about the life-changing Stardew Valley 10 years ago this month",
-        "summary": "Looking back at Stardew Valley's four-year journey to overnight acclaim.",
+        "title": "The best Palworld 1.0 base locations for early game builds, resource-rich farms, or raid safe havens",
+        "summary": "Real estate for new saves, hardwood farming, or a little bit of everything.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/rpg/im-in-this-whole-new-world-heres-what-eric-barone-had-to-say-about-the-life-changing-stardew-valley-10-years-ago-this-month/",
-        "seendate": "2026-07-13T19:59:39.000Z",
+        "url": "https://www.pcgamer.com/games/survival-crafting/palworld-best-base-locations/",
+        "seendate": "2026-07-14T21:35:17.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "How to get married in Moonlight Peaks, or divorced, if your undead heart wanders",
-        "summary": "After dozens of dates and gifts, seal the deal with a supernatural ceremony.",
+        "title": "Dragon's Dogma 2: Dark Arisen's new region and dungeons sound great, but I'm more excited to finally high-five my Pawn on command",
+        "summary": "'Tis one of a servant's many privileges.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/life-sim/moonlight-peaks-marriage-divorce/",
-        "seendate": "2026-07-13T19:31:46.000Z",
+        "url": "https://www.pcgamer.com/games/rpg/dragons-dogma-2-dark-arisens-new-region-and-dungeons-sound-great-but-im-more-excited-to-finally-high-five-my-pawn-on-command/",
+        "seendate": "2026-07-14T20:45:37.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "The GoldenEye homage that left us 'shaken and stirred' in 2022 is finally launching in August",
-        "summary": "A demo for Agent 64: Spies Never Die is still playable on Steam.",
+        "title": "Hollywood still has time to avoid the gaming industry's disastrous consolidation endgame",
+        "summary": "It's already bad times in movies & TV, but blocking the Paramount and Warner Bros. merger would stop another disaster in the making.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/fps/the-goldeneye-homage-that-left-us-shaken-and-stirred-in-2022-is-finally-launching-in-august/",
-        "seendate": "2026-07-13T18:22:09.000Z",
+        "url": "https://www.pcgamer.com/movies-tv/hollywood-still-has-time-to-avoid-the-gaming-industrys-disastrous-consolidation-endgame/",
+        "seendate": "2026-07-14T20:30:52.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
+      {
+        "title": "The UK wants to catch up in the global AI race – but is too wary to go all-in",
+        "summary": "UK fears a ‘triple whammy’: oversized investment in AI stocks, slower adoption of AI than predicted and the breakneck pace of AI’s developmentHello, and welcome to TechScape. I’m your host, Blake Montgomery, US tech editor at the Guardian. Today, we’re discussing the UK’s difficult position in the AI race, new doubts over OpenAI’s path toward a trillion-dollar stock market debut and the changes to IRL tech",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/jul/13/uk-catch-up-global-ai-race-risks",
+        "seendate": "2026-07-14T13:24:31.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Microsoft Surface Laptop 8 review: a quality PC whose trackpad taps you back",
+        "summary": "Snappy performance, long battery life, great keyboard and excellent new haptic touchpad make the best of Windows 11Microsoft’s Surface laptop for consumers is back, faster and with longer battery life and a hefty price increase because of the high cost of memory and chips.The Surface Laptop 8 is a straight replacement for the seventh edition from 2024, which was the first of Microsoft’s new generatio",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/jul/14/microsoft-surface-laptop-8-review",
+        "seendate": "2026-07-14T06:00:22.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "The New York nurses replaced by AI: ‘It should concern every patient who cares about quality of care’",
         "summary": "The union for 12 nurses laid off by Montefiore hospital say company broke contract they recently won through a strikeMarilyn Shuler has worked as a utilization review nurse for 39 years at Montefiore hospital in the Bronx in New York City, helping to read patient charts and communicate with insurance companies over coverage.After nearly four decades in her job, Shuler is one of 12 nurses who were lai",
@@ -307,119 +323,103 @@ window.NEWS_CACHE = {
         "domain": "theguardian.com"
       },
       {
+        "title": "Anthony Albanese promises fast-track approvals for datacentres to shore up AI investment",
+        "summary": "PM to declare Australia the first country worldwide to bring economic, social, security and environmental issues from AI under single office in major speechFollow our Australia new",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/jul/14/anthony-albanese-promises-fast-track-approvals-for-datacentres-to-shore-up-ai-investment",
+        "seendate": "2026-07-14T12:30:25.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Young men report more ‘sextortion’ than any other age group, Australia’s online safety watchdog says",
         "summary": "In six months last year, more than 2,000 such complaints were made to eSafetyFollow our Australia news live blog for latest updatesGet our <a href=\"https://www.th",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/technology/2026/jul/13/young-men-report-more-sextortion-than-any-other-age-group-australias-online-safety-watchdog-says-ntwnfb",
         "seendate": "2026-07-13T12:00:46.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "‘This was a righteous case. A holy war’: the lawyer who took on Meta and Google – and won",
-        "summary": "When Mark Lanier and his young client Kaley faced the tech giants in an LA courtroom earlier this year, it seemed a bigger battle than David v Goliath. But they scored a landmark victory, proving that the social media giants had created ‘addiction machines’ that harmed mental health. How did they pull it off?When Mark Zuckerberg walked into a Los Angeles courtroom on 18 February <a href=\"https://www.theguar",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/media/2026/jul/12/mark-lanier-the-lawyer-who-took-on-meta-and-google-and-won-interview",
-        "seendate": "2026-07-12T11:00:16.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "China’s massive AI rollout - podcast",
-        "summary": "Senior China correspondent Amy Hawkins on China’s embrace of AI, from medical avatars to food delivery drones and state surveillanceWhile the spread of AI has been met perhaps with a lot of scepticism in the west, China has fully embraced the technology, explains Amy Hawkins, from millions of users talking to AI doctors, to the use of intelligent robots in factories, and dr",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/news/audio/2026/jul/13/chinas-massive-ai-rollout-podcast",
-        "seendate": "2026-07-13T02:00:34.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Christopher Nolan says people ‘disdain’ AI and the idea it will replace humans is ‘nonsense’",
-        "summary": "Odyssey director addresses industry fears over artificial intelligence and says rightwing criticism of Lupita Nyong’o as Helen of Troy is ‘irrelevant’The Oscar-winning director Christopher Nolan believes the kind of movies he makes – big-budget action films shot mostly on location – would survive the spread of artificial intelligence, a technology he says many people “disdain”.The Oppenheimer and The",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/jul/13/christopher-nolan-odyssey-director-comments-ai-artificial-intelligence",
-        "seendate": "2026-07-13T00:56:38.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "climate": [
       {
-        "title": "Hello from the outside: heat domes impeding radio and other signals in US midwest",
-        "summary": "Higher temperatures can cause radio, TV and microwave signals to travel hundreds of miles farther, upsetting communicationsIt was 3am in north-east Indiana’s Huntington county when the outdoor emergency alarm <a href=\"https://www.facebook.com/HuntCoHSEM/posts/outdoor-warning-siren-update-huntington-county-emergency-management-and-huntingt/13582474131",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jul/13/heat-dome-radio-signals-us-midwest",
-        "seendate": "2026-07-13T15:00:50.000Z",
-        "domain": "theguardian.com"
+        "title": "Scattered thunderstorms possible Wednesday before turning drier and hotter",
+        "summary": "Another chance of storms is possible before we enter a pattern change",
+        "source": "wdsu.com",
+        "url": "https://www.wdsu.com/article/new-orleans-louisiana-weather-forecast-rain-storms-hotter-drier-mississippi/71934846",
+        "seendate": "20260714T231500Z",
+        "domain": "wdsu.com"
       },
       {
-        "title": "‘As if a hurricane had passed’: Puerto Ricans at breaking point after weeks without water",
-        "summary": "Shortages triggered by pipeline rupture drive up costs and deepen frustrations, as pressure grows on water utilityJonathan Collazo owns two restaurants in a bustling section of San Juan, which has been plagued by water outages, severely disrupting the daily lives of residents and businesses alike.The water scarcity is part of an escalating frustration felt by thousands of customers of Puerto Rico’s w",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jul/13/puerto-rico-water-shortages",
-        "seendate": "2026-07-13T14:00:49.000Z",
-        "domain": "theguardian.com"
+        "title": "Nasdaq surges 0 . 9 % Tuesday as technology leads ; Dow flatlines",
+        "summary": "NEW YORK, New York - U.S. equities closed on Tuesday on a mixed but mostly upbeat note, led by a furious rally in megacap tech names. The NASDAQ Composite was...",
+        "source": "chinanationalnews.com",
+        "url": "http://www.chinanationalnews.com/news/279187746/nasdaq-surges-0-9-tuesday-as-technology-leads-dow-flatlines",
+        "seendate": "20260714T231500Z",
+        "domain": "chinanationalnews.com"
       },
       {
-        "title": "A journey down one of the last wild rivers in the American west: ‘The bullseye will always be on its back’",
-        "summary": "As US water wars rage, a tributary of the Colorado River faces unprecedented pressure. Visitors worry how long this aquatic ‘relict’ will lastOn an early morning in mid-May, a group of near strangers shoved camping gear and clothes into waterproof bags, slathered on sunscreen, and ambled into the bright-yellow rafts that would carry them down one of the last free-flowing rivers in the American west.U",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jul/13/yampa-river-colorado-wild-rivers-us",
-        "seendate": "2026-07-13T13:00:48.000Z",
-        "domain": "theguardian.com"
+        "title": "Birds of Saudi Arabia : Pied Wheatear",
+        "summary": "Whilst birding the Haradh area I found a Pied Wheatear. The bird was very tame suggesting it was a tiered newly arrived...",
+        "source": "birdsofsaudiarabia.com",
+        "url": "https://www.birdsofsaudiarabia.com/2017/02/pied-wheatear-haradh.html",
+        "seendate": "20260714T231500Z",
+        "domain": "birdsofsaudiarabia.com"
       },
       {
-        "title": "Keystone pipeline operator agrees to pay $26.9m penalty over Kansas oil spill",
-        "summary": "Proposed legal settlement over 2022 oil spill would resolve allegations that South Bow violated clean water lawsA proposed legal settlement with the US government would require the Keystone pipeline system’s operator to pay a $26.9m civil penalty over a large oil spill in Kansas in December 2022",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jul/13/keystone-pipeline-operator-settlement-kansas-oil-spill",
-        "seendate": "2026-07-13T12:16:01.000Z",
-        "domain": "theguardian.com"
+        "title": "Massive $5 . 1B data center proposed for Salem draws praise and pushback",
+        "summary": "City leaders say the proposal is still under review as supporters tout economic benefits and residents raise concerns over water, power and public process.",
+        "source": "kval.com",
+        "url": "https://kval.com/news/local/massive-51b-data-center-proposed-for-salem-draws-praise-and-pushback-oregon-environment-local-money-water-energy-local-portland-hillsboro-companies-business-jobs",
+        "seendate": "20260714T231500Z",
+        "domain": "kval.com"
       },
       {
-        "title": "Flash flooding in Missouri leaves one person dead as 200 campers are rescued",
-        "summary": "Woman dies after her home is swept away as heavy rainfall batters parts of state, forcing rescues and evacuationsA woman was found dead in Missouri on Saturday after heavy rainfall battered parts of the state the previous day, forcing numerous emergency rescues and evacuations, including at a <a href=\"https://www.theguardian.com/us-news/2026/jul/11/",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jul/12/flash-flooding-in-missouri-leaves-one-person-dead-as-200-campers-are-rescued",
-        "seendate": "2026-07-12T14:01:35.000Z",
-        "domain": "theguardian.com"
+        "title": "For the record , July 15 , 2026",
+        "summary": "What&#x27;s coming up for Pope/Douglas Solid Waste Management.",
+        "source": "echopress.com",
+        "url": "https://www.echopress.com/news/local/for-the-record-december-11-2024-77",
+        "seendate": "20260714T231500Z",
+        "domain": "echopress.com"
       }
     ],
     "science": [
       {
-        "title": "Mushroom trip: a mycologist’s tour of the Tarkine",
-        "summary": "On a three-day fungi workshop in Australia’s largest cool temperate rainforest, Alexis Buxton-Collins unearths an unexpected appreciation for the third kingdom of lifeRevered as one of Australia’s last true wilderness areas, Takayna/Tarkine is a place of legends. Freshwater crayfish that can reach almost a metre in length lurk in the shade of 2,000-year-old Huon pines, and every few years a",
+        "title": "Can humans hibernate their way to Mars?",
+        "summary": "Scientists are trying to recreate the biology that lets animals survive months without food or water, in hopes of making deep-space travel possibleLong-term space travel is bad for your health. Very bad. Being in space exposes humans to dangerously high levels of radiation; extended exposure to microgravity can damage a range of organ systems, including muscles, bones and eyes. Living for months or years in",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/ng-interactive/2026/jul/13/mushroom-trip-a-mycologists-tour-of-the-tarkine",
-        "seendate": "2026-07-12T15:00:22.000Z",
+        "url": "https://www.theguardian.com/science/ng-interactive/2026/jul/14/human-hibernation-space-mars",
+        "seendate": "2026-07-14T11:00:24.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Young crescent moon to meet Venus in evening twilight",
-        "summary": "Alignment will be one of the prettiest naked-eye sights of the month, if the sky is clearTwo celestial beauties line up on Friday when the young crescent moon meets brilliant Venus in the evening twilight. It will be one of the prettiest naked-eye sights of the month, so long, of course, as the clouds behave.The chart shows the view looking west from London at 10pm BST. By that time the sun will have",
+        "title": "Sale of multimillion-dollar T rex skeleton is big headache for scientists",
+        "summary": "Palaeontologists warn before auction at Sotheby’s in New York that super-rich collectors are harming researchWith its dagger-like teeth, bone-crushing bite and behemothic size, the fearsome Tyrannosaurus rex ruled western North America during the late Cretaceous period. Now its fossilised remains are about to dominate the auction house, with a price tag to terrify punters.On Tuesday, one of the large",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/jul/13/young-crescent-moon-to-meet-venus-in-evening-twilight",
-        "seendate": "2026-07-13T05:00:39.000Z",
+        "url": "https://www.theguardian.com/science/2026/jul/14/t-rex-skeleton-sothebys-auction-new-york-scientists",
+        "seendate": "2026-07-14T04:00:20.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Fastest spider in the world? This huge, hairy-legged Australian arachnid may be the quickest on the planet",
-        "summary": "A brown huntsman is the quickest of more than 250 species analysed by scientists in the UK and GermanyIf arachnophobes were not frightened enough by the horrific ability of Australia’s huntsman spiders to drag dead mice up the sides of fridges, they now have another reason.<",
+        "title": "Giving nature a say: why Scottish marine scientists appointed the ocean to their board",
+        "summary": "As the rights of nature are increasingly being recognised, the Scottish Association for Marine Science is the latest organisation to make the ocean a trusteeIn a boardroom in an office building in Oban, a picturesque town on the west coast of Scotland, trustees attending meetings have long been able to see the breaking waves of the Atlantic through the windows. But since last month, the ocean has also been",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/australia-news/2026/jul/09/fastest-spider-on-the-planet-brown-huntsman",
-        "seendate": "2026-07-11T15:02:21.000Z",
+        "url": "https://www.theguardian.com/global-development/2026/jul/14/scottish-marine-scientists-ocean-board-trustees",
+        "seendate": "2026-07-14T06:00:23.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘Spermageddon’: is the world facing a male reproductive crisis?",
-        "summary": "Reports of falling sperm counts and testosterone levels have fuelled fears over chemicals, pollution and modern lifestyles. But how much do scientists agree on what is affecting male fertility?The world is unwittingly walking into a male reproductive crisis, scientists warned this week as they presented data that revealed an apparent <a href=\"https://www.theguardian.com/society/2026/jul/07/mens-average-test",
+        "title": "Fungi: the invisible force protecting our planet – podcast",
+        "summary": "Scientists often talk about the importance of flora and fauna to the health of our planet, but Dr Toby Kiers, an evolutionary biologist and founder of the Society for the Protection of Underground Networks, wants us to consider another force: fungi. Her work charting the planet’s vital underground systems has earned her numerous awards, including a MacArthur fellowship and a Tyler Prize for Environmental Achieveme",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/society/ng-interactive/2026/jul/11/spermageddon-world-facing-male-reproductive-crisis",
-        "seendate": "2026-07-11T06:09:36.000Z",
+        "url": "https://www.theguardian.com/science/audio/2026/jul/14/fungi-the-invisible-force-protecting-our-planet-podcast",
+        "seendate": "2026-07-14T04:00:19.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Cancer cases expected to soar worldwide, WHO report finds",
-        "summary": "The disease will touch 92% of people globally, finds annual review, while ‘persistent’ inequities found to exist in access to prevention, diagnosis, treatment and careRemarkable scientific progress against cancer has changed very little for millions of patients globally, who face devastating physical, emotional and financial consequences after diagnosis, a new World Health Organization report has warned.</p",
+        "title": "Heat can be deadly, but sunshine itself? Science says we could use more of it | Rowan Jacobsen",
+        "summary": "Extreme exposure should be avoided, but we’ve gone too far the other way – enjoyed safely, the sun can have enormous health benefitsHigh summer has returned to the UK, and with it, the usual warnings about the dangers of sunlight and reminders to seek shade and cover up. After years of such advice, most members of the public natur",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/global-development/2026/jul/08/health-who-global-persistent-inequities-progress-cancer-prevention-diagnosis-treatment-care",
-        "seendate": "2026-07-08T12:00:32.000Z",
+        "url": "https://www.theguardian.com/commentisfree/2026/jul/14/sun-health-outdoors-heatwave-daylight-science",
+        "seendate": "2026-07-14T07:00:23.000Z",
         "domain": "theguardian.com"
       }
     ]
