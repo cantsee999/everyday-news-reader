@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T23:41:05.807Z",
+  "generatedAt": "2026-07-15T23:48:07.936Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
@@ -88,47 +88,71 @@
     ],
     "economy": [
       {
-        "title": "Inflation cools to 3.5% in June in relief brought by brief US-Iran peace deal",
-        "summary": "Recent strikes have sent oil prices climbing again, with average gas price per gallon up by $0.70 compared with 2025Inflation cooled to an annual rate of 3.5% in June as the brief US-Iran ceasefire, which has since ended, brought energy prices down, according to new data from the Bureau of Labor Statistics.The consumer price index (CPI), which measures a basket of goods and services, has been elevate",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/jul/14/june-cpi-report-inflation-cools-iran-deal",
-        "seendate": "2026-07-14T16:56:56.000Z",
-        "domain": "theguardian.com"
+        "title": "South Korea youth employment rate falls for 26th month",
+        "summary": "South Korea",
+        "source": "upi.com",
+        "url": "https://www.upi.com/Top_News/World-News/2026/07/15/youth-employment-rate/2891784155264/",
+        "seendate": "20260715T231500Z",
+        "domain": "upi.com"
       },
       {
-        "title": "IBM loses quarter of its value as tech giant’s shares plunge and profits falter",
-        "summary": "IBM issued profit warning after weak second quarter, triggering selloff in software sector including MicrosoftShares in IBM plunged more than 25% on Tuesday after the US tech giant released disappointing preliminary second-quarter results. IBM’s stock was on track for an even steeper single-day decline than it suffered during ⁠the 1987 “Black Monday”",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/jul/14/ibm-shares-profit-drop-value",
-        "seendate": "2026-07-14T16:38:00.000Z",
-        "domain": "theguardian.com"
+        "title": "UK to Defer Capital Gains Tax on DeFi Lending , Liquidity Pool Deposits",
+        "summary": "Moving crypto into a lending protocol or liquidity pool won’t count as a taxable disposal, deferring the charge until a real cash-out.",
+        "source": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/markets/crypto/articles/uk-defer-capital-gains-tax-150026003.html",
+        "seendate": "20260715T231500Z",
+        "domain": "finance.yahoo.com"
       },
       {
-        "title": "Victims of Trump purge call supreme court ruling a ‘dagger’ at heart of civil service",
-        "summary": "Rebecca Slaughter, fired by Trump from the FTC in 2025, worries agencies will fear defying the US presidentFederal officials fired by the Trump administration are calling a recent supreme court decision a “dagger” at the heart of the civil service that will open independent federal government agencies to corruption and manipulation at the whim of the president.Since Donald Trump took office again in",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jul/14/federal-officials-fired-by-trump-supreme-court-ruling",
-        "seendate": "2026-07-14T11:00:25.000Z",
-        "domain": "theguardian.com"
+        "title": "Herron Todd White : 78 per cent expect property values to drop | Eastern Riverina Chronicle",
+        "summary": "Price fall predictions are growing but that doesn&#x27;t mean you shouldn&#x27;t buy now.",
+        "source": "easternriverinachronicle.com.au",
+        "url": "https://www.easternriverinachronicle.com.au/story/9311154/herron-todd-white-78-per-cent-expect-property-values-to-drop/",
+        "seendate": "20260715T231500Z",
+        "domain": "easternriverinachronicle.com.au"
       },
       {
-        "title": "US refunds $81bn in Trump tariffs after supreme court ruled them illegal",
-        "summary": "Government has been forced to pay back duties to companies that imported goods into the US that were hit by Trump’s tariffsChina’s monthly car ‌exports top 1m as overall trade soars<a href=\"https://www.theguardian.com/business/live/2026/jul/14/oil-prices-rise-2-middle-east-",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jul/14/trump-tariffs-us-refunds",
-        "seendate": "2026-07-14T07:03:02.000Z",
-        "domain": "theguardian.com"
+        "title": "Mortgage Rates Fall to Lowest Levels in a Week",
+        "summary": "Mortgage rates moved lower again today following another lower-than-expected reading on an inflation report. Yesterday's Consumer Price Index (CPI) had a bigger impact on the underlying bond market, but today's Producer Price Index (PPI) wasn't far behind. Additionally, bonds did a better job of holding onto the improvement into the afternoon hours. This allowed mortgage lenders to drop rates even more than they did ",
+        "source": "mortgagenewsdaily.com",
+        "url": "https://www.mortgagenewsdaily.com:443/markets/mortgage-rates-07152026",
+        "seendate": "20260715T231500Z",
+        "domain": "mortgagenewsdaily.com"
       },
       {
-        "title": "US state attorneys general file lawsuit in effort to block Paramount merger",
-        "summary": "Bipartisan group argue in lawsuit that $110bn merger would hurt competition and lead to thousands of job lossesA dozen US state attorneys general are seeking to block the $110bn merger of Paramount Skydance and Warner Bros Discovery, arguing in a lawsuit filed",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/media/2026/jul/13/paramount-warner-bros-merger-lawsuit",
-        "seendate": "2026-07-13T18:36:15.000Z",
-        "domain": "theguardian.com"
+        "title": "  Especially Celtic  - Bhoys Like Left - Sided Fringe Star",
+        "summary": "Celtic are closely monitoring the situation regarding Atalanta winger Mitchel Bakker, who has been drawing interest from multiple clubs.",
+        "source": "insidefutbol.com",
+        "url": "http://insidefutbol.com/2026/07/15/especially-celtic-bhoys-keen-on-fringe-star-likely-to-move/720046/",
+        "seendate": "20260715T231500Z",
+        "domain": "insidefutbol.com"
       }
     ],
     "literature": [
+      {
+        "title": "The First House by Avni Doshi review – an intense portrait of marriage and freedom",
+        "summary": "In the follow-up to the Booker-shortlisted Burnt Sugar, a woman seeks liberation from her controlling relationshipsAvni Doshi’s second novel is narrated by an unnamed woman in the suburban US who&nbsp;is shocked to hear her husband announce that he is leaving her. She isn’t in love with him, exactly, but she sees their marriage as a structure or “container” for her existence. Formerly a novelist, her writin",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/jul/15/the-first-house-by-avni-doshi-review-an-intense-portrait-of-marriage-and-freedom",
+        "seendate": "2026-07-15T06:00:48.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Hidden Creatures by Dino Martins review – the revolting world of parasites",
+        "summary": "From maggots to viruses, this gross-out compendium also manages to celebrate the awe and inventiveness of natureWhen Craig Venter, one of the&nbsp;mappers of the human genome, set out on a sailboat cruise to map DNA in seawater all across the globe, he found that a teaspoon of seawater contained on average 50m viruses. While this doesn’t sound particularly reassuring, the bad news is mitigated by the fact t",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/jul/15/hidden-creatures-by-dino-martins-review-the-revolting-world-of-parasites",
+        "seendate": "2026-07-15T08:00:49.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "‘People are picking the dumbest fights’: the tortured history of America’s culture wars",
+        "summary": "In a new book, Isaac Butler goes back to the 1980s to trace how battles started against the arts, from Piss Christ to Mapplethorpe, and looks at what we can learn for todayIsaac Butler is limbering up for an event at Politics and Prose, an independent bookshop and venerable Washington institution, but still has time to explain his arm tattoos.They v",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/jul/15/culture-wars-isaac-butler-interview",
+        "seendate": "2026-07-15T09:00:51.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "The Art of Opposition by Courttia Newland review – piercing essays on culture and creativity",
         "summary": "The novelist issues a inspiring call for artists to exercise their autonomy in a world of gatekeepersIn 1988, the late Ghanaian writer and filmmaker Kwesi Owusu edited Storms of the Heart: An Anthology of Black Arts &amp; Culture, a collection of writings and images by Black artists in Britain, including Ben Okri on Shakespeare, Shobana Jeyasingh on Indian dance theatre, Jacob Ross on decolonising language,",
@@ -144,244 +168,236 @@
         "url": "https://www.theguardian.com/books/2026/jul/14/publishers-sue-google-gemini-ai-training",
         "seendate": "2026-07-14T18:16:56.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Goodbye Chinatown by Kit Fan review – a chef’s elegy to London",
-        "summary": "Skipping between London, Shanghai and Hong Kong, this tale of family migration, politics and food has plenty of flavour and fireAmber Fan, the 22-year-old protagonist of Kit Fan’s heartfelt and elegiac second novel, is ready to say goodbye. Goodbye to her parents, who are booked on the midnight flight from London to Hong Kong, there to enjoy their sunset years having sold the family restaurant in London’s C",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jul/14/goodbye-chinatown-by-kit-fan-review-a-chefs-elegy-to-london",
-        "seendate": "2026-07-14T08:00:24.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "The Anniversary by Andrea Bajani review – meet the terrible parents",
-        "summary": "Therapy brings childhood trauma to light in this ambitious tale of family rupture – a smash hit in Italy that fails to live up to its hypeA son leaves home for university and goes on to pay fortnightly visits to his parents for 20 years, dreading every encounter because of the oppressive control exerted by his father and the self-effacing passivity of his mother. Then one day, he changes his phone number an",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jul/13/the-anniversary-by-andrea-bajani-review-meet-the-wearily-predictable-parents",
-        "seendate": "2026-07-13T06:00:40.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "The Brexit Effect, 2016-2026 edited by Anthony Seldon review – life without EU",
-        "summary": "Essays by the great and the good address the legacy of Brexit, but ignore the nationalist elephant in the roomThis massive collection of essays by 43 different authors, including seven lords, four baronesses, one dame and three knights of the realm, may be the nearest we will ever get to a semi-official reflection on the causes and consequences of Brexit. Its editor, Sir Anthony Seldon, is honorary historia",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jul/13/the-brexit-effect-2016-2026-edited-by-anthony-seldon-review-life-without-eu",
-        "seendate": "2026-07-13T08:00:41.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "entertainment": [
       {
-        "title": "Tom Cruise among names set to take part in World Cup closing ceremony",
-        "summary": "Mission: Impossible star to appear in a pre-game show that will also feature Robbie Williams and Jennifer HudsonA wide array of performers, from actor Tom Cruise to streamer IShowSpeed, will help close out the World Cup, Fifa announced on Tuesday.Soccer’s governing body released the lineup for the closing ceremony, which will take place 90 minutes before Sunday’s final. The show is meant to “celebrat",
+        "title": "The Odyssey review – Nolan goes god-tier with breathtaking epic of men, monsters and moral metamorphosis",
+        "summary": "Doing full justice to the Homeric legend, Christopher Nolan amasses an epic cast to convey the true cost of war with film-making of thrilling ambitionA classicist’s verdict: soulful hero flatters our times as women and nuance pushed overboardChristopher Nolan",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/jul/14/tom-cruise-world-cup-closing-ceremony",
-        "seendate": "2026-07-14T17:54:07.000Z",
+        "url": "https://www.theguardian.com/film/2026/jul/15/the-odyssey-review-christopher-nolan-matt-damon",
+        "seendate": "2026-07-15T16:00:00.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Andrew Lloyd Webber says Broadway in ‘dire danger’ as Cats musical announces early closing",
-        "summary": "The legendary composer warned theaters could soon meet the same fate as Hollywood’s ‘empty soundstages’Andrew Lloyd Webber has spoken out about the precarious state of Broadway in the wake of the early closing of his revival Cats: The Jellicle Ba",
+        "title": "Michael Kosta on Lindsey Graham’s sister: ‘A senate seat? That’s an inheritance jackpot!’",
+        "summary": "Late night hosts discuss US air strikes in Iran, Trump-Epstein files and companies bringing back the dead with AIOn Tuesday night, late night hosts discussed Lindsey Graham’s sister Darline’s appointment as his interim replacement in the Senate, fumbled <a href=\"https://www.theguardian.com/world/iran\"",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/culture/2026/jul/14/andrew-lloyd-webber-cats-jellice-ball-broadway",
-        "seendate": "2026-07-14T17:12:47.000Z",
+        "url": "https://www.theguardian.com/culture/2026/jul/15/michael-kosta-daily-show-lindsey-darline-graham-sister-senate-seat",
+        "seendate": "2026-07-15T16:05:07.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘A frightening piece to perform’: can Yoko Ono’s Cut Piece still shock?",
-        "summary": "Sixty years after its first staging, performance artist MPA is restaging the provocative piece in Los AngelesYoko Ono: Music of the Mind, a traveling retrospective on view at Los Angeles’s The Broad museum, features black and white footage of Ono’s 1964 Carnegie Hall",
+        "title": "Shakira review – she-wolf roars again in playful victory lap from Colombian superstar",
+        "summary": "Prudential Center, Newark, New JerseyAhead of her World Cup final performance, the singer’s Las Mujeres Ya No Lloran tour whips through exuberant hits In the dark of a sold-out Prudential Center in Newark, New Jersey, a screen lights up on a desert. Around me are girls and their moms in concho shell belts and coined hip scarves, and there are Colombia soccer jerseys and the country’s",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/culture/2026/jul/14/yoko-ono-cut-piece-the-broad-los-angeles",
-        "seendate": "2026-07-14T16:06:58.000Z",
+        "url": "https://www.theguardian.com/music/2026/jul/15/shakira-concert-tour-review",
+        "seendate": "2026-07-15T15:40:42.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Jon Stewart on the advanced age of Congress: ‘This is not right, the stakes are too high’",
-        "summary": "After the death of Lindsey Graham, late-night hosts discussed the problems with an aging government and Trump’s bizarre responseLate-night hosts discussed the death of Lindsey Graham and how the US government is getting increasingly elderly and out of touch. <a href=\"https://www.theguardian.com/culture/2026/ju",
+        "title": "Unheard David Bowie songs from 1965 to be released – including ones with Jimmy Page on guitar",
+        "summary": "Compilation entitled David Bowie: The Shel Talmy Recordings will be released in September, collating material from when he recorded as Davy JonesUnheard 1965 recordings by David Bowie, from when he was starting out in swinging 60s London as Davy Jones, are finally to be released – some featuring a pre-Led Zeppelin Jimmy Page.Before he broke through with 1969’s Space Oddity, and scaled up through The",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/culture/2026/jul/14/jon-stewart-congress-ages-lindsey-graham-trump",
-        "seendate": "2026-07-14T15:21:20.000Z",
+        "url": "https://www.theguardian.com/music/2026/jul/15/david-bowie-unheard-songs-1965-jimmy-page-the-shel-talmy-recordings",
+        "seendate": "2026-07-15T15:46:40.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘Fun, propulsive, full of queer joy’: readers’ favourite albums of 2026 so far, from Muna to Raye and J Cole",
-        "summary": "After the Guardian’s music critics chose their best of the half-year, we asked you for your picks – from Brian Jackson and Arlo Parks to Maya Hawke, Flea and more• The best albums of 2026 so far• <a href=\"https://www.theguardian.com/film/2026/jul/09/i-saw-it-seven-times-readers-favourite-films-of-20",
+        "title": "‘People are picking the dumbest fights’: the tortured history of America’s culture wars",
+        "summary": "In a new book, Isaac Butler goes back to the 1980s to trace how battles started against the arts, from Piss Christ to Mapplethorpe, and looks at what we can learn for todayIsaac Butler is limbering up for an event at Politics and Prose, an independent bookshop and venerable Washington institution, but still has time to explain his arm tattoos.They v",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/music/2026/jul/14/readers-favourite-albums-of-2026-so-far-from-muna-to-raye-and-j-cole",
-        "seendate": "2026-07-14T13:38:40.000Z",
+        "url": "https://www.theguardian.com/books/2026/jul/15/culture-wars-isaac-butler-interview",
+        "seendate": "2026-07-15T09:00:51.000Z",
         "domain": "theguardian.com"
       }
     ],
     "f1": [
       {
-        "title": "Pierre Gasly tests new A110 Future prototype with Duke of Richmond at Goodwood Festival of Speed",
-        "summary": "Pierre Gasly had the opportunity to get behind the wheel of Alpine's all-electric A110 Future prototype at the Goodwood Festival of Speed.After arriving at the Goodwood estate just days after securing a double points finish for Alpine at the British Grand Prix with his team-mate Franco Colapinto, the Frenchman took the prototype up the famous hillclimb with the Duke of Richmond in the ...<a class='more'",
+        "title": "Damon Hill reveals the F1 career lesson he wishes he had learned earlier",
+        "summary": "1996 Formula 1 champion Damon Hill has admitted he realised \"a little bit too late\" in his career how crucial it is for a driver to actively galvanise the workforce around them.Pointing to the likes of Michael Schumacher and Sebastian Vettel as the benchmark, Hill discussed the psychological and leadership demands placed on modern F1 drivers. During a live recording of the Up To Speed ...<a class='mo",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/pierre-gasly-tests-new-a110-future-prototype-with-duke-of-richmond-at-goodwood-festival-of-speed/10838675/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-14T19:34:58.000Z",
+        "url": "https://www.motorsport.com/f1/news/damon-hill-reveals-the-f1-career-lesson-he-wishes-he-had-learned-earlier/10839045/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-15T22:57:53.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Ollie Bearman hailed as \"class act\" after emotional Ayrton Senna Lotus drive",
-        "summary": "British Formula 1 driver Ollie Bearman has been praised by fans and branded an all-round \"class act\" after an emotional run in Ayrton Senna's legendary 1985 Lotus. The 21-year-old was invited to drive the famous black-and-gold Lotus 97T around the Silverstone circuit alongside former F1 driver and Sky Sports analyst Karun Chandhok.For Bearman, stepping into the cockpit of the car that ...<a class='mo",
+        "title": "James Vowles explains how Williams F1 delays could be \"one of the best things\"",
+        "summary": "Williams team principal James Vowles believes the production delays suffered by the Grove outfit over the winter and early stages of the 2026 Formula 1 season could ultimately prove to be \"one of the best things\" to happen to the team.Speaking to a live audience at the Goodwood Festival of Speed during an episode of the Up To Speed podcast, Vowles opened up about the harsh realities of ...<a class='more'",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/ollie-bearman-hailed-as-class-act-after-emotional-ayrton-senna-lotus-drive/10838625/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-14T18:35:33.000Z",
+        "url": "https://www.motorsport.com/f1/news/james-vowles-explains-how-williams-f1-delays-could-be-one-of-the-best-things/10839043/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-15T22:19:32.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Exclusive: Pirelli explains the role of wheel‑rim development and driving styles on 2026 F1 tyres",
-        "summary": "Formula 1 is currently going through a phase of transformation that touches every area of the car, and to truly understand it, it’s essential to tell the story through the words of those who are experiencing this revolution from the inside. It’s often said that mastering tyre usage is fundamental, since it is the car’s only contact with the asphalt, but in the search for that perfect ...<a class='more' href=",
+        "title": "Sergio Perez opens up about mental toll of partnering Max Verstappen at Red Bull",
+        "summary": "Sergio Perez has opened up about the mental toll of partnering Max Verstappen at Red Bull, revealing he sought the help of a psychologist after the team repeatedly suggested his on-track struggles were the result of psychological issues. The Mexican driver, who returned to the Formula 1 grid with Cadillac in 2026 following a year out from the championship, shed fresh light on his turbulent ...<a class='m",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/f1-marrafuschi-esclusivo-il-capo-di-pirelli-spiega-il-ruolo-dei-cerchi-liberi-e-dello-stile-di-guid/10838725/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-14T16:00:18.000Z",
+        "url": "https://www.motorsport.com/f1/news/sergio-perez-reveals-mental-toll-of-partnering-max-verstappen-at-red-bull/10839041/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-15T21:53:28.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Win the dream ticket to attend every F1 race next season",
-        "summary": "When F1 fan Brandon Burgess spent his entire savings going to every race last season, it gave the sport’s global sponsor Heineken a good idea. They created a carbon fibre season ticket that lets one lucky fan and a friend follow in his footsteps – and next season it could be you.Burgess did the 2025 season on a shoestring so he was shocked when Heineken called to offer him an upgrade. He ...<a class='mor",
+        "title": "Franco Colapinto opens up about the toughest moment of his F1 career",
+        "summary": "After Logan Sargeant suffered a heavy crash during the third free practice session at Zandvoort and watched his Williams go up in flames, Formula 1 team principal James Vowles decided it was time to make a change.On 27 August, Sargeant was officially dropped and replaced by Colapinto for the remainder of the 2024 season. At the time, the Argentine was still racing for Dutch outfit MP ...<a class='more' h",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/win-the-dream-ticket-to-attend-every-f1-race-next-season/10838702/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-14T13:00:01.000Z",
+        "url": "https://www.motorsport.com/f1/news/franco-colapinto-opens-up-about-the-toughest-moment-of-his-f1-career/10838753/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-15T14:54:39.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Should F1 really get louder in 2031? Our verdict",
-        "summary": "FIA president Mohammed Ben Sulayem and his Formula 1 counterpart Stefano Domenicali are keen on F1 cars returning to naturally aspirated V8s from 2031 or even 2030.The majority of power unit manufacturers appear to be aligned on advanced sustainable fuels and a modest amount of electrification amounting to a lower-cost and lower-complexity formula.Other than cost, one of the key reasons ...<a class='",
+        "title": "George Russell shares school exam mindset behind his F1 success",
+        "summary": "Mercedes driver George Russell has drawn a unique parallel between preparing for a Formula 1 grand prix and studying for a school exam.The Briton was speaking on the Nu Silver Arrows Radio Show following his home grand prix at Silverstone, where he managed to secure a second-place finish.Following the chaotic race that saw him suffer a slow puncture before recovering to a podium ...<a class='more' hr",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/should-f1-actually-get-loud-in-2031-/10838728/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-14T12:00:23.000Z",
+        "url": "https://www.motorsport.com/f1/news/george-russell-shares-school-exam-mindset-behind-his-f1-success/10838985/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-15T13:54:10.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "Future Games Show returns to Gamescom with 3 shows",
-        "summary": "The Gamescom showcases will feature \"world premieres, exclusive trailers, developer deep dives and brand-new game demos.\"",
-        "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/events-conferences/future-games-show-returns-to-gamescom-with-3-shows/",
-        "seendate": "2026-07-14T22:32:03.000Z",
-        "domain": "pcgamer.com"
+        "title": "Former CCT Chairman Gets N100m Bail",
+        "summary": "Former Chairman of the Code of Conduct Tribunal (CCT), Mr Danladi Umar, has been granted bail by Justice Peter Kekemeke of the Federal Capital Territory High",
+        "source": "leadership.ng",
+        "url": "https://leadership.ng/former-cct-chairman-gets-n100m-bail/",
+        "seendate": "20260715T231500Z",
+        "domain": "leadership.ng"
       },
       {
-        "title": "Epic Games Store boss quits after 8 years to take up new role at Saber Interactive",
-        "summary": "Steve Allison launched Epic's storefront in 2018 and held the reins until earlier this month.",
-        "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/epic-games-store-boss-quits-after-8-years-to-take-up-new-role-at-saber-interactive/",
-        "seendate": "2026-07-14T22:25:25.000Z",
-        "domain": "pcgamer.com"
+        "title": "At - home body piercing kits leading to deformities , expert says",
+        "summary": "From embedded jewellery to scarring and infections, some in the industry want at-home kits banned.",
+        "source": "bbc.co.uk",
+        "url": "https://www.bbc.co.uk/news/articles/cn4d4l4vky1o",
+        "seendate": "20260715T231500Z",
+        "domain": "bbc.co.uk"
       },
       {
-        "title": "The best Palworld 1.0 base locations for early game builds, resource-rich farms, or raid safe havens",
-        "summary": "Real estate for new saves, hardwood farming, or a little bit of everything.",
-        "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/survival-crafting/palworld-best-base-locations/",
-        "seendate": "2026-07-14T21:35:17.000Z",
-        "domain": "pcgamer.com"
+        "title": "Ariana Grande Not  Rushing  Into Rumored Reunion With Ex Ricky Alvarez",
+        "summary": "The pair, who split in 2016, are reportedly \"taking things very slowly.\"",
+        "source": "q92hv.iheart.com",
+        "url": "https://q92hv.iheart.com/content/2026-07-15-ariana-grande-not-rushing-into-rumored-reunion-with-ex-ricky-alvarez/",
+        "seendate": "20260715T231500Z",
+        "domain": "q92hv.iheart.com"
       },
       {
-        "title": "Dragon's Dogma 2: Dark Arisen's new region and dungeons sound great, but I'm more excited to finally high-five my Pawn on command",
-        "summary": "'Tis one of a servant's many privileges.",
-        "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/rpg/dragons-dogma-2-dark-arisens-new-region-and-dungeons-sound-great-but-im-more-excited-to-finally-high-five-my-pawn-on-command/",
-        "seendate": "2026-07-14T20:45:37.000Z",
-        "domain": "pcgamer.com"
-      },
-      {
-        "title": "Hollywood still has time to avoid the gaming industry's disastrous consolidation endgame",
-        "summary": "It's already bad times in movies & TV, but blocking the Paramount and Warner Bros. merger would stop another disaster in the making.",
-        "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/movies-tv/hollywood-still-has-time-to-avoid-the-gaming-industrys-disastrous-consolidation-endgame/",
-        "seendate": "2026-07-14T20:30:52.000Z",
-        "domain": "pcgamer.com"
+        "title": "Anthropic Gears Up for Potential October IPO With Investor Meetings ( CORRECTED ) ",
+        "summary": "Anthropic is meeting with investors ahead of a potential blockbuster IPO as it prepares to capitalize on strong demand for AI listings.",
+        "source": "benzinga.com",
+        "url": "https://www.benzinga.com/markets/private-markets/26/07/60482699/anthropic-openai-are-making-other-ai-bets-feel-like-second-prize",
+        "seendate": "20260715T231500Z",
+        "domain": "benzinga.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
       {
-        "title": "The UK wants to catch up in the global AI race – but is too wary to go all-in",
-        "summary": "UK fears a ‘triple whammy’: oversized investment in AI stocks, slower adoption of AI than predicted and the breakneck pace of AI’s developmentHello, and welcome to TechScape. I’m your host, Blake Montgomery, US tech editor at the Guardian. Today, we’re discussing the UK’s difficult position in the AI race, new doubts over OpenAI’s path toward a trillion-dollar stock market debut and the changes to IRL tech",
+        "title": "UK 16- and 17-year-olds to be encouraged to follow midnight social media curfew",
+        "summary": "Midnight to 6am block on some apps is latest stage of Labour’s bid to protect young people from online harmsSixteen and 17-year-olds are to be encouraged to observe a midnight social media curfew, in the latest stage of Labour’s bid “to protect the next generation” from online harms, including poor sleep caused by night-time scrolling.From next spring, Britain’s oldest children will be urged to refra",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/jul/13/uk-catch-up-global-ai-race-risks",
-        "seendate": "2026-07-14T13:24:31.000Z",
+        "url": "https://www.theguardian.com/technology/2026/jul/14/uk-16-17-year-olds-midnight-social-media-curfew",
+        "seendate": "2026-07-14T21:30:36.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Microsoft Surface Laptop 8 review: a quality PC whose trackpad taps you back",
-        "summary": "Snappy performance, long battery life, great keyboard and excellent new haptic touchpad make the best of Windows 11Microsoft’s Surface laptop for consumers is back, faster and with longer battery life and a hefty price increase because of the high cost of memory and chips.The Surface Laptop 8 is a straight replacement for the seventh edition from 2024, which was the first of Microsoft’s new generatio",
+        "title": "Meta used AI to tag workers who took leave to be laid off, lawsuit claims",
+        "summary": "Lawsuit filed by dozens of employees says people who took maternity or disability leave were disproportionately selected for layoffsDozens of Meta employees have sued the social media company over claims that it used artificial intelligence tools to tag workers for mass layoffs. The workers allege that those AI tools targeted them after they asked for protected or maternity leave or disability accommodation",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/jul/14/microsoft-surface-laptop-8-review",
-        "seendate": "2026-07-14T06:00:22.000Z",
+        "url": "https://www.theguardian.com/technology/2026/jul/14/meta-ai-mass-layoffs-lawsuit",
+        "seendate": "2026-07-14T23:36:20.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "The New York nurses replaced by AI: ‘It should concern every patient who cares about quality of care’",
-        "summary": "The union for 12 nurses laid off by Montefiore hospital say company broke contract they recently won through a strikeMarilyn Shuler has worked as a utilization review nurse for 39 years at Montefiore hospital in the Bronx in New York City, helping to read patient charts and communicate with insurance companies over coverage.After nearly four decades in her job, Shuler is one of 12 nurses who were lai",
+        "title": "‘Not up for grabs’: Albanese establishes AI office and vows to protect Australian creatives from copyright ‘theft’",
+        "summary": "PM lays out plan for datacentre development and rejects prospect tech companies will be given free use of Australian dataFollow our Australia news live blog for latest updates<",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/jul/13/nurses-new-york-ai",
-        "seendate": "2026-07-13T12:00:47.000Z",
+        "url": "https://www.theguardian.com/technology/2026/jul/15/office-of-ai-artificial-intelligence-copyright-australia-government",
+        "seendate": "2026-07-15T06:18:06.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Anthony Albanese promises fast-track approvals for datacentres to shore up AI investment",
-        "summary": "PM to declare Australia the first country worldwide to bring economic, social, security and environmental issues from AI under single office in major speechFollow our Australia new",
+        "title": "Global cooperation needed to tackle AI threats, says Bank of England governor",
+        "summary": "Andrew Bailey warns that US will not be able to achieve its ambitions aloneThe Bank of England governor has called for international cooperation to tackle growing AI threats, warning that the US and Trump administration would not be able to achieve their ambitions alone.Andrew Bailey’s comments come weeks after the US president, Donald Trump, temporarily banned foreigners from using Anthropic’s power",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/jul/14/anthony-albanese-promises-fast-track-approvals-for-datacentres-to-shore-up-ai-investment",
-        "seendate": "2026-07-14T12:30:25.000Z",
+        "url": "https://www.theguardian.com/technology/2026/jul/14/global-cooperation-needed-to-tackle-ai-threats-says-bank-of-england-governor",
+        "seendate": "2026-07-14T20:10:34.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Young men report more ‘sextortion’ than any other age group, Australia’s online safety watchdog says",
-        "summary": "In six months last year, more than 2,000 such complaints were made to eSafetyFollow our Australia news live blog for latest updatesGet our <a href=\"https://www.th",
+        "title": "IBM loses quarter of its value as tech giant’s shares plunge and profits falter",
+        "summary": "IBM issued profit warning after weak second quarter, triggering selloff in software sector including MicrosoftShares in IBM plunged more than 25% on Tuesday after the US tech giant released disappointing preliminary second-quarter results. IBM’s stock was on track for an even steeper single-day decline than it suffered during ⁠the 1987 “Black Monday”",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/jul/13/young-men-report-more-sextortion-than-any-other-age-group-australias-online-safety-watchdog-says-ntwnfb",
-        "seendate": "2026-07-13T12:00:46.000Z",
+        "url": "https://www.theguardian.com/technology/2026/jul/14/ibm-shares-profit-drop-value",
+        "seendate": "2026-07-14T16:38:00.000Z",
         "domain": "theguardian.com"
       }
     ],
     "climate": [
       {
-        "title": "Scattered thunderstorms possible Wednesday before turning drier and hotter",
-        "summary": "Another chance of storms is possible before we enter a pattern change",
-        "source": "wdsu.com",
-        "url": "https://www.wdsu.com/article/new-orleans-louisiana-weather-forecast-rain-storms-hotter-drier-mississippi/71934846",
-        "seendate": "20260714T231500Z",
-        "domain": "wdsu.com"
+        "title": "‘I’ve never worked with so many conservatives’: the Texans fighting the Big Bend border wall",
+        "summary": "Residents across party lines say Trump’s proposed wall threatens their homes, livelihoods and wilderness along the Rio GrandeLast February, 41-year-old Molly Walker posted an Instagram story: a photo of herself standing in the desert, sunglasses hooked over the front of her shirt, jeans slung low beneath her exposed midriff. She held a protest sign fashioned from a pizza box, a hand-drawn heart framing the",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/jul/15/big-bend-wall-texas-bipartisan",
+        "seendate": "2026-07-15T13:00:55.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Nasdaq surges 0 . 9 % Tuesday as technology leads ; Dow flatlines",
-        "summary": "NEW YORK, New York - U.S. equities closed on Tuesday on a mixed but mostly upbeat note, led by a furious rally in megacap tech names. The NASDAQ Composite was...",
-        "source": "chinanationalnews.com",
-        "url": "http://www.chinanationalnews.com/news/279187746/nasdaq-surges-0-9-tuesday-as-technology-leads-dow-flatlines",
-        "seendate": "20260714T231500Z",
-        "domain": "chinanationalnews.com"
+        "title": "Surviving extreme heat increasingly boils down to this: access to air conditioning | Mark Wolfe",
+        "summary": "The next great climate divide will be between countries that have the resources to adapt and those that don’tThis summer, much of the media’s attention has focused on record temperatures across Europe and the United States. Television coverage has been filled with familiar images: heat maps shaded deep red, schools closing, rail lines slowing, wildfires spreading and emergency rooms treating growing numbers",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/commentisfree/2026/jul/15/air-conditioning-access-extreme-heat",
+        "seendate": "2026-07-15T12:00:55.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Birds of Saudi Arabia : Pied Wheatear",
-        "summary": "Whilst birding the Haradh area I found a Pied Wheatear. The bird was very tame suggesting it was a tiered newly arrived...",
-        "source": "birdsofsaudiarabia.com",
-        "url": "https://www.birdsofsaudiarabia.com/2017/02/pied-wheatear-haradh.html",
-        "seendate": "20260714T231500Z",
-        "domain": "birdsofsaudiarabia.com"
+        "title": "US trial could reveal who paid hackers to target Exxon climate critics: ‘on the edge of our seats’",
+        "summary": "Oil giant has denied involvement, but climate activists are closely watching court case against Israeli private investigator for answersA group of American climate activists are closely watching a US court case that could reveal who hired hackers to target their inboxes a decade ago.In 2015, a set of explosive media reports",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/15/climate-activists-exxon-hired-hackers-trial",
+        "seendate": "2026-07-15T10:00:53.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Massive $5 . 1B data center proposed for Salem draws praise and pushback",
-        "summary": "City leaders say the proposal is still under review as supporters tout economic benefits and residents raise concerns over water, power and public process.",
-        "source": "kval.com",
-        "url": "https://kval.com/news/local/massive-51b-data-center-proposed-for-salem-draws-praise-and-pushback-oregon-environment-local-money-water-energy-local-portland-hillsboro-companies-business-jobs",
-        "seendate": "20260714T231500Z",
-        "domain": "kval.com"
+        "title": "California faces highest shark numbers in years as great whites head north",
+        "summary": "El Niño climate phenomenon heating waters off Mexico but incidents with humans remain a rarityCalifornia is set to see one of its sharkiest summers in a decade, with large numbers of juvenile great whites already on a reverse vacation from the warm waters of Mexico to cooler pastures along the western United States.The marine predator has become more common along the west coast in recent years, with",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/environment/2026/jul/14/california-sharks-el-nino",
+        "seendate": "2026-07-14T14:00:27.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "For the record , July 15 , 2026",
-        "summary": "What&#x27;s coming up for Pope/Douglas Solid Waste Management.",
-        "source": "echopress.com",
-        "url": "https://www.echopress.com/news/local/for-the-record-december-11-2024-77",
-        "seendate": "20260714T231500Z",
-        "domain": "echopress.com"
+        "title": "Hello from the outside: heat domes impeding radio and other signals in US midwest",
+        "summary": "Higher temperatures can cause radio, TV and microwave signals to travel hundreds of miles farther, upsetting communicationsIt was 3am in north-east Indiana’s Huntington county when the outdoor emergency alarm <a href=\"https://www.facebook.com/HuntCoHSEM/posts/outdoor-warning-siren-update-huntington-county-emergency-management-and-huntingt/13582474131",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/jul/13/heat-dome-radio-signals-us-midwest",
+        "seendate": "2026-07-13T15:00:50.000Z",
+        "domain": "theguardian.com"
       }
     ],
     "science": [
+      {
+        "title": "Shipwrecks of Shackleton and Scott recreated in 3D digital form after deep sea expedition",
+        "summary": "Canadian scientists visit remains of polar exploration vessels in ‘golden era for shipwreck investigating’Moments after devouring the final glimmers of light, the seafloor offered nothing but darkness and silt. Then the bow appeared.More than 1,000ft (305 metres) below the surface of the Labrador Sea, off the coast of Canada, the skeleton of the final ship used by the <a href=\"https://www.theguardian",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/jul/15/deep-sea-expedition-builds-digital-twins-shipwrecks-scott-shackleton",
+        "seendate": "2026-07-15T08:00:49.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Ancient DNA analysis reveals Wiltshire’s Upton Lovell Shaman was a woman",
+        "summary": "Exclusive: Analysis offers ‘smoking gun evidence’ that overturns previous assumption that bronze age individual was maleThe Upton Lovell Shaman, a bronze age individual who has been depicted in museum exhibits as a bearded spiritual leader and metalworker, was female, an ancient DNA analysis has revealed.The 4,000-year-old skeleton, along with the extensive collection of stone axes, metalworking tool",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/jul/14/ancient-dna-analysis-reveals-upton-lovell-shaman-was-woman-wiltshire",
+        "seendate": "2026-07-14T19:01:47.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Plantwatch: Beware a tasty mushroom with a powerful hallucinogen",
+        "summary": "Anyone eating Lanmaoa asiatica could have visions for days of tiny people running and jumping aroundLanmaoa asiatica is a bolete mushroom, prized for its delicious taste and hugely popular in Yunnan province, China, where it is found growing in a symbiotic relationship with pine trees. But anyone eating the mushroom needs to be careful because it also gives hallucinations of lots of tiny p",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/jul/15/plantwatch-mushroom-hallucinogen-lanmaoa-asiatica",
+        "seendate": "2026-07-15T05:00:46.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Can humans hibernate their way to Mars?",
         "summary": "Scientists are trying to recreate the biology that lets animals survive months without food or water, in hopes of making deep-space travel possibleLong-term space travel is bad for your health. Very bad. Being in space exposes humans to dangerously high levels of radiation; extended exposure to microgravity can damage a range of organ systems, including muscles, bones and eyes. Living for months or years in",
@@ -396,30 +412,6 @@
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/science/2026/jul/14/t-rex-skeleton-sothebys-auction-new-york-scientists",
         "seendate": "2026-07-14T04:00:20.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Giving nature a say: why Scottish marine scientists appointed the ocean to their board",
-        "summary": "As the rights of nature are increasingly being recognised, the Scottish Association for Marine Science is the latest organisation to make the ocean a trusteeIn a boardroom in an office building in Oban, a picturesque town on the west coast of Scotland, trustees attending meetings have long been able to see the breaking waves of the Atlantic through the windows. But since last month, the ocean has also been",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/global-development/2026/jul/14/scottish-marine-scientists-ocean-board-trustees",
-        "seendate": "2026-07-14T06:00:23.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Fungi: the invisible force protecting our planet – podcast",
-        "summary": "Scientists often talk about the importance of flora and fauna to the health of our planet, but Dr Toby Kiers, an evolutionary biologist and founder of the Society for the Protection of Underground Networks, wants us to consider another force: fungi. Her work charting the planet’s vital underground systems has earned her numerous awards, including a MacArthur fellowship and a Tyler Prize for Environmental Achieveme",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/audio/2026/jul/14/fungi-the-invisible-force-protecting-our-planet-podcast",
-        "seendate": "2026-07-14T04:00:19.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Heat can be deadly, but sunshine itself? Science says we could use more of it | Rowan Jacobsen",
-        "summary": "Extreme exposure should be avoided, but we’ve gone too far the other way – enjoyed safely, the sun can have enormous health benefitsHigh summer has returned to the UK, and with it, the usual warnings about the dangers of sunlight and reminders to seek shade and cover up. After years of such advice, most members of the public natur",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/commentisfree/2026/jul/14/sun-health-outdoors-heatwave-daylight-science",
-        "seendate": "2026-07-14T07:00:23.000Z",
         "domain": "theguardian.com"
       }
     ]
