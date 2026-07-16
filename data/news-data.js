@@ -1,333 +1,341 @@
 window.NEWS_CACHE = {
-  "generatedAt": "2026-07-15T23:48:07.936Z",
+  "generatedAt": "2026-07-16T23:47:08.438Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
+      {
+        "title": "UK aid cuts ‘reduce bilateral support to some African countries by 90%’",
+        "summary": "Critics say Foreign Office figures send ‘global message about the role the country wants to play on international stage’Labour’s foreign aid cuts mean reductions of as much as 90% in the bilateral support the UK will give to some African countries, Foreign Office figures show.The department’s annual repo",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/politics/2026/jul/16/uk-aid-cuts-bilateral-support-african-countries",
+        "seendate": "2026-07-16T15:20:58.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Uganda calls for travel restrictions to be lifted after last Ebola patient discharged",
+        "summary": "Country begins 42-day countdown to outbreak being declared officially over, as numbers continue to rise in neighbouring Democratic Republic of the CongoUganda has started lobbying countries to lift Ebola-related travel restrictions after discharging its last confirmed Ebola patient from hospital.The discharge of a Congolese national from the Mulago national referral hospital’s isolation centre in Kam",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/global-development/2026/jul/16/uganda-travel-restrictions-last-ebola-patient-discharged",
+        "seendate": "2026-07-16T11:33:27.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Moroccan intelligence insider reveals widespread use of Pegasus hacking software",
+        "summary": "Whistleblower suggests internal security services deployed spyware from 2017 against key domestic and foreign targetsA former member of Morocco’s domestic intelligence service has helped to provide an unprecedented insight into how the north African state used hacking software – including Pegasus spyware – to target journalists, human rights defenders, French politicians and Spanish cabinet ministers and po",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/news/2026/jul/16/morocco-intelligence-insider-reveals-widespread-use-hacking-software-pegasus",
+        "seendate": "2026-07-16T04:30:13.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "How global heating supercharged floods in West Africa, displacing thousands",
+        "summary": "Adaptation to frightening new normal and reducing emissions further and faster is critical, scientists warnDozens of people drowned, hundreds had to be rescued and thousands were displaced when floods struck the coasts of west Africa last month.Now scientists have concluded that the rains that caused the floods were supercharged by climate breakdown. Global heating, they say, turned what should have",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/jul/16/how-global-heating-supercharged-floods-west-africa-displacing-thousands",
+        "seendate": "2026-07-16T00:01:08.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "New US Ebola patient arrives in Germany for treatment",
         "summary": "Aid worker flown to Berlin as Trump administration bars Americans from traveling to US on commercial flightsA US national who contracted Ebola in the Democratic Republic of the Congo has arrived in Germany for treatment, the health ministry in Be",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/world/2026/jul/14/american-ebola-patient-arrives-germany",
         "seendate": "2026-07-14T12:27:06.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Killings continue on Del Monte farm in Kenya, families say, after G4S hired for security",
-        "summary": "Exclusive: Three men killed in incidents over past year allegedly involving G4S guards, who replaced in-house team after previous deathsBereaved families and politicians have raised alarm about continued killings on Del Monte’s pineapple farm in Kenya despite the company hiring a British security firm to replace its in-house security team after previous deaths were exposed by the Guardian.The multina",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/jul/13/del-monte-pineapple-farm-kenya-deaths-g4s",
-        "seendate": "2026-07-13T14:00:49.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "First patients enrolled in record-breaking Ebola treatment trial in DRC",
-        "summary": "Two drugs are being trialled in the Ituri region in a programme set up just six weeks after the outbreak was declared, with hopes it will reduce mortality ratesThere is no approved drug to help the medical teams scrabbling to save lives in the Ebola outbreak in the Democratic Republic of the Congo – but there are hopes that could change within months as the first patients are enrolled in a treatment trial.<",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/global-development/2026/jul/12/record-breaking-ebola-treatment-trial-drc",
-        "seendate": "2026-07-12T08:00:12.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Nigeria says army has killed 300 bandits in north-western state of Zamfara",
-        "summary": "Vigilantes also took part in the fight that raged all night and the following morning, residents sayNigerian soldiers killed more than 300 members of kidnapping and cattle bandit gangs in the north-western state of Zamfara this week, according to a government official.Government troops targeted the gangs in Gummi district in a two-day operation that “led to the elimination of more than 300 terrorists",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/jul/11/nigeria-army-kills-bandits-north-western-state-zamfara",
-        "seendate": "2026-07-11T11:59:11.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Developing countries spend more repaying foreign debt than on education, UN reveals",
-        "summary": "Unesco report shows children lost out to servicing debt in 113 countries, with 18 spending five times more on loansMost developing countries spent less on education than they did repaying debt last year, according to the UN, at the same time as global aid to education is predicted to decline by up to 30%.More was spent on servicing foreign debt than on education in 113 developing countries in 2025, a",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco",
-        "seendate": "2026-07-10T07:00:14.000Z",
         "domain": "theguardian.com"
       }
     ],
     "conflict": [
       {
+        "title": "UK aid cuts ‘reduce bilateral support to some African countries by 90%’",
+        "summary": "Critics say Foreign Office figures send ‘global message about the role the country wants to play on international stage’Labour’s foreign aid cuts mean reductions of as much as 90% in the bilateral support the UK will give to some African countries, Foreign Office figures show.The department’s annual repo",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/politics/2026/jul/16/uk-aid-cuts-bilateral-support-african-countries",
+        "seendate": "2026-07-16T15:20:58.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Uganda calls for travel restrictions to be lifted after last Ebola patient discharged",
+        "summary": "Country begins 42-day countdown to outbreak being declared officially over, as numbers continue to rise in neighbouring Democratic Republic of the CongoUganda has started lobbying countries to lift Ebola-related travel restrictions after discharging its last confirmed Ebola patient from hospital.The discharge of a Congolese national from the Mulago national referral hospital’s isolation centre in Kam",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/global-development/2026/jul/16/uganda-travel-restrictions-last-ebola-patient-discharged",
+        "seendate": "2026-07-16T11:33:27.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Moroccan intelligence insider reveals widespread use of Pegasus hacking software",
+        "summary": "Whistleblower suggests internal security services deployed spyware from 2017 against key domestic and foreign targetsA former member of Morocco’s domestic intelligence service has helped to provide an unprecedented insight into how the north African state used hacking software – including Pegasus spyware – to target journalists, human rights defenders, French politicians and Spanish cabinet ministers and po",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/news/2026/jul/16/morocco-intelligence-insider-reveals-widespread-use-hacking-software-pegasus",
+        "seendate": "2026-07-16T04:30:13.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "How global heating supercharged floods in West Africa, displacing thousands",
+        "summary": "Adaptation to frightening new normal and reducing emissions further and faster is critical, scientists warnDozens of people drowned, hundreds had to be rescued and thousands were displaced when floods struck the coasts of west Africa last month.Now scientists have concluded that the rains that caused the floods were supercharged by climate breakdown. Global heating, they say, turned what should have",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/jul/16/how-global-heating-supercharged-floods-west-africa-displacing-thousands",
+        "seendate": "2026-07-16T00:01:08.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "New US Ebola patient arrives in Germany for treatment",
         "summary": "Aid worker flown to Berlin as Trump administration bars Americans from traveling to US on commercial flightsA US national who contracted Ebola in the Democratic Republic of the Congo has arrived in Germany for treatment, the health ministry in Be",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/world/2026/jul/14/american-ebola-patient-arrives-germany",
         "seendate": "2026-07-14T12:27:06.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Killings continue on Del Monte farm in Kenya, families say, after G4S hired for security",
-        "summary": "Exclusive: Three men killed in incidents over past year allegedly involving G4S guards, who replaced in-house team after previous deathsBereaved families and politicians have raised alarm about continued killings on Del Monte’s pineapple farm in Kenya despite the company hiring a British security firm to replace its in-house security team after previous deaths were exposed by the Guardian.The multina",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/jul/13/del-monte-pineapple-farm-kenya-deaths-g4s",
-        "seendate": "2026-07-13T14:00:49.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "First patients enrolled in record-breaking Ebola treatment trial in DRC",
-        "summary": "Two drugs are being trialled in the Ituri region in a programme set up just six weeks after the outbreak was declared, with hopes it will reduce mortality ratesThere is no approved drug to help the medical teams scrabbling to save lives in the Ebola outbreak in the Democratic Republic of the Congo – but there are hopes that could change within months as the first patients are enrolled in a treatment trial.<",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/global-development/2026/jul/12/record-breaking-ebola-treatment-trial-drc",
-        "seendate": "2026-07-12T08:00:12.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Nigeria says army has killed 300 bandits in north-western state of Zamfara",
-        "summary": "Vigilantes also took part in the fight that raged all night and the following morning, residents sayNigerian soldiers killed more than 300 members of kidnapping and cattle bandit gangs in the north-western state of Zamfara this week, according to a government official.Government troops targeted the gangs in Gummi district in a two-day operation that “led to the elimination of more than 300 terrorists",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/jul/11/nigeria-army-kills-bandits-north-western-state-zamfara",
-        "seendate": "2026-07-11T11:59:11.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Developing countries spend more repaying foreign debt than on education, UN reveals",
-        "summary": "Unesco report shows children lost out to servicing debt in 113 countries, with 18 spending five times more on loansMost developing countries spent less on education than they did repaying debt last year, according to the UN, at the same time as global aid to education is predicted to decline by up to 30%.More was spent on servicing foreign debt than on education in 113 developing countries in 2025, a",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco",
-        "seendate": "2026-07-10T07:00:14.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "economy": [
       {
-        "title": "South Korea youth employment rate falls for 26th month",
-        "summary": "South Korea",
-        "source": "upi.com",
-        "url": "https://www.upi.com/Top_News/World-News/2026/07/15/youth-employment-rate/2891784155264/",
-        "seendate": "20260715T231500Z",
-        "domain": "upi.com"
+        "title": "Kalshi to offer betting on drug trial results and FDA regulatory decisions",
+        "summary": "Move comes as prediction platforms rapidly gain popularity and offer opportunities to bet on virtually anythingKalshi is expanding its wagers to include bets on drug trial results, an expansion into new predictions territory as platforms continue to rapidly gain popularity and offer opportunities to bet on virtually anything.The betting platform said the expansion into clinical trials and FDA regulat",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/jul/16/kalshi-betting-drug-trial-results",
+        "seendate": "2026-07-16T21:11:36.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "UK to Defer Capital Gains Tax on DeFi Lending , Liquidity Pool Deposits",
-        "summary": "Moving crypto into a lending protocol or liquidity pool won’t count as a taxable disposal, deferring the charge until a real cash-out.",
-        "source": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/markets/crypto/articles/uk-defer-capital-gains-tax-150026003.html",
-        "seendate": "20260715T231500Z",
-        "domain": "finance.yahoo.com"
+        "title": "US gas prices edge up again as US-Iran tensions heighten over strait of Hormuz",
+        "summary": "Diesel tops $5 a gallon as regular gas reaches almost $4, nearly a dollar and a quarter more than a year agoThe average price of diesel fuel in the US has increased again to more than $5 a gallon, according to the AAA, and the average price of gas is almost $4, returning to their highs before the June memorandum of understanding between the US and <a href=\"https://ww",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/jul/16/us-gas-prices-rise-strait-of-hormuz",
+        "seendate": "2026-07-16T12:26:57.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Herron Todd White : 78 per cent expect property values to drop | Eastern Riverina Chronicle",
-        "summary": "Price fall predictions are growing but that doesn&#x27;t mean you shouldn&#x27;t buy now.",
-        "source": "easternriverinachronicle.com.au",
-        "url": "https://www.easternriverinachronicle.com.au/story/9311154/herron-todd-white-78-per-cent-expect-property-values-to-drop/",
-        "seendate": "20260715T231500Z",
-        "domain": "easternriverinachronicle.com.au"
+        "title": "Largest landlord in the US accused of civil rights violations",
+        "summary": "Fair housing complaints accuse Greystar of refusing to take tenants who use federal rent vouchersGreystar, the largest owner and manager of apartments in the US, systematically flouts local laws designed to make housing affordable to the poor, according to civil rights complaints filed with authorities in six states and the District of Columbia.The complaints – filed this week with government agencie",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/jul/16/greystar-landlord-civil-rights-violations",
+        "seendate": "2026-07-16T18:09:28.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Mortgage Rates Fall to Lowest Levels in a Week",
-        "summary": "Mortgage rates moved lower again today following another lower-than-expected reading on an inflation report. Yesterday's Consumer Price Index (CPI) had a bigger impact on the underlying bond market, but today's Producer Price Index (PPI) wasn't far behind. Additionally, bonds did a better job of holding onto the improvement into the afternoon hours. This allowed mortgage lenders to drop rates even more than they did ",
-        "source": "mortgagenewsdaily.com",
-        "url": "https://www.mortgagenewsdaily.com:443/markets/mortgage-rates-07152026",
-        "seendate": "20260715T231500Z",
-        "domain": "mortgagenewsdaily.com"
+        "title": "Democrats allege Trump administration stalled US-Canada bridge opening as a favor to billionaire donor",
+        "summary": "Delay seen as move to protect interests of Matthew Moroun, the owner of nearby Ambassador Bridge and a Trump donorThe Trump administration for months blocked a $4.7bn publicly owned bridge between Detroit and Windsor, Ontario, a move critics allege is a quid pro quo for a billionaire Donald Trump donor.A ribbon-cutting ceremony for the Gordie Howe",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/business/2026/jul/16/trump-administration-canada-gordie-howe-bridge",
+        "seendate": "2026-07-16T11:00:37.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "  Especially Celtic  - Bhoys Like Left - Sided Fringe Star",
-        "summary": "Celtic are closely monitoring the situation regarding Atalanta winger Mitchel Bakker, who has been drawing interest from multiple clubs.",
-        "source": "insidefutbol.com",
-        "url": "http://insidefutbol.com/2026/07/15/especially-celtic-bhoys-keen-on-fringe-star-likely-to-move/720046/",
-        "seendate": "20260715T231500Z",
-        "domain": "insidefutbol.com"
+        "title": "Brazil vows to retaliate if US imposes 25% tariffs on some of its products",
+        "summary": "President Lula’s office says US move is result of pressure on White House by family of predecessor Jair BolsonaroBrazil has vowed to retaliate against Washington’s decision to impose 25% tariffs on imports of some Brazilian products.The office of the president, Luiz Inácio Lula da Silva, described the tariffs as “a regrettable milestone” in the history of relations between the two countries and said",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/jul/16/brazil-us-tariffs",
+        "seendate": "2026-07-16T05:01:23.000Z",
+        "domain": "theguardian.com"
       }
     ],
     "literature": [
       {
-        "title": "The First House by Avni Doshi review – an intense portrait of marriage and freedom",
-        "summary": "In the follow-up to the Booker-shortlisted Burnt Sugar, a woman seeks liberation from her controlling relationshipsAvni Doshi’s second novel is narrated by an unnamed woman in the suburban US who&nbsp;is shocked to hear her husband announce that he is leaving her. She isn’t in love with him, exactly, but she sees their marriage as a structure or “container” for her existence. Formerly a novelist, her writin",
+        "title": "National Year of Reading should extend to a decade, inquiry says",
+        "summary": "The education committee also proposed a National Reading Guarantee, ensuring all children have frequent opportunities to enjoy readingThe National Year of Reading should be extended to a National Decade of Reading, an education committee inquiry into reading for pleasure has concluded.The government should also commit to a National Reading Guarantee that would ensure all children have regular opportu",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jul/15/the-first-house-by-avni-doshi-review-an-intense-portrait-of-marriage-and-freedom",
-        "seendate": "2026-07-15T06:00:48.000Z",
+        "url": "https://www.theguardian.com/books/2026/jul/17/national-year-of-reading-should-extend-to-a-decade-inquiry-says",
+        "seendate": "2026-07-16T23:01:51.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Hidden Creatures by Dino Martins review – the revolting world of parasites",
-        "summary": "From maggots to viruses, this gross-out compendium also manages to celebrate the awe and inventiveness of natureWhen Craig Venter, one of the&nbsp;mappers of the human genome, set out on a sailboat cruise to map DNA in seawater all across the globe, he found that a teaspoon of seawater contained on average 50m viruses. While this doesn’t sound particularly reassuring, the bad news is mitigated by the fact t",
+        "title": "Rebecca Perry wins Waterstones debut fiction prize for ‘delicious and dream-like’ novel",
+        "summary": "May We Feed the King, about a museum curator and a medieval monarch, was praised by judges for its ‘crisp, cool prose’ and ‘poet’s eye for detail’Author and poet Rebecca Perry has won the 2026 Waterstones debut fiction prize for May We Feed the King, praised as a “delicious and dream-like tale”.Chosen from a shortlist of six novels, May We Feed the King follows a present-day curator whose job is to d",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jul/15/hidden-creatures-by-dino-martins-review-the-revolting-world-of-parasites",
-        "seendate": "2026-07-15T08:00:49.000Z",
+        "url": "https://www.theguardian.com/books/2026/jul/16/rebecca-perry-waterstones-debut-fiction-prize-may-we-feed-the-king",
+        "seendate": "2026-07-16T19:00:46.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘People are picking the dumbest fights’: the tortured history of America’s culture wars",
-        "summary": "In a new book, Isaac Butler goes back to the 1980s to trace how battles started against the arts, from Piss Christ to Mapplethorpe, and looks at what we can learn for todayIsaac Butler is limbering up for an event at Politics and Prose, an independent bookshop and venerable Washington institution, but still has time to explain his arm tattoos.They v",
+        "title": "A voyage of discovery: an idiot’s guide to reading The Odyssey",
+        "summary": "Christopher Nolan’s film adaptation of the ancient Greek epic has sparked a new appetite for an old classic. Here are the translations, podcasts and audiobooks that make the Homeric world more approachableThe Odyssey was once all Greek to me. I struggled to keep up with the characters, the mass of heroes and villains, the swarms of sons and daughters. I found the Homeric formula – repeated stock phrases pas",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jul/15/culture-wars-isaac-butler-interview",
-        "seendate": "2026-07-15T09:00:51.000Z",
+        "url": "https://www.theguardian.com/books/2026/jul/16/a-voyage-of-discovery-an-idiots-guide-to-reading-the-odyssey",
+        "seendate": "2026-07-16T12:45:28.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "The Art of Opposition by Courttia Newland review – piercing essays on culture and creativity",
-        "summary": "The novelist issues a inspiring call for artists to exercise their autonomy in a world of gatekeepersIn 1988, the late Ghanaian writer and filmmaker Kwesi Owusu edited Storms of the Heart: An Anthology of Black Arts &amp; Culture, a collection of writings and images by Black artists in Britain, including Ben Okri on Shakespeare, Shobana Jeyasingh on Indian dance theatre, Jacob Ross on decolonising language,",
+        "title": "‘I felt Holden was talking to me alone’: The Catcher in the Rye at 75",
+        "summary": "JD Salinger’s wry, subversive classic inspired novelist Joseph O’Connor to be a writer. He reflects on why this story of a disaffected teenager remains as fresh and transgressive as everIn 1981, when I was 17, my first girlfriend gave me a paperback of her dad’s favourite novel. I’d&nbsp;never heard of it despite living in a home full of books. My parents loved the work of&nbsp;Edna O’Brien, Muriel Spark, J",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jul/14/the-art-of-opposition-by-courttia-newland-review-piercing-essays-on-culture-and-creativity",
-        "seendate": "2026-07-14T06:00:21.000Z",
+        "url": "https://www.theguardian.com/books/2026/jul/16/i-felt-holden-was-talking-to-me-alone-the-catcher-in-the-rye-at-75",
+        "seendate": "2026-07-16T07:00:17.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Book publishers sue Google for copyright infringement over Gemini AI training",
-        "summary": "Group of major publishers accuses the tech giant of ‘one of the most prolific infringements of copyrighted materials in history’A group of major publishers have filed a lawsuit against Google, accusing the company of illegally using millions of copyrighted books to help build its Gemini artificial intelligence models, in “one of the most prolific infringements of copyrighted materials in history”.The",
+        "title": "Worry Doll by Laura McPhee-Browne review – a sensual, sinister novel about the horrors of desire",
+        "summary": "Two women meet on a train and tumble into an all-consuming affair told from both sides – who have very different stories I’ve been craving a sandwich: soft white roll, roast chicken, sharp cheese. A bright little cut of tomato. After I finish this review I’ll walk up to the supermarket and buy myself a hot chook. Sink my teeth in.It wasn’t my idea. I caught the craving from Laura McPhee-Browne’s Worr",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jul/14/publishers-sue-google-gemini-ai-training",
-        "seendate": "2026-07-14T18:16:56.000Z",
+        "url": "https://www.theguardian.com/books/2026/jul/17/worry-doll-by-laura-mcphee-browne-review-a-sensual-sinister-novel-about-the-horrors-of-desire",
+        "seendate": "2026-07-16T22:00:50.000Z",
         "domain": "theguardian.com"
       }
     ],
     "entertainment": [
       {
-        "title": "The Odyssey review – Nolan goes god-tier with breathtaking epic of men, monsters and moral metamorphosis",
-        "summary": "Doing full justice to the Homeric legend, Christopher Nolan amasses an epic cast to convey the true cost of war with film-making of thrilling ambitionA classicist’s verdict: soulful hero flatters our times as women and nuance pushed overboardChristopher Nolan",
+        "title": "‘Disorderly’ intruder removed from NBC’s Today show after security breach",
+        "summary": "Unauthorized interloper was arrested after reportedly hurling racial slur at host Craig MelvinA man was arrested after breaking on to the set of NBC’s Today show on Thursday morning and allegedly hurling a racial slur at a host.NYPD officers at New York’s midtown north precinct responded to a report of a disorderly person at the show’s 30 Rockefelle",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/jul/15/the-odyssey-review-christopher-nolan-matt-damon",
-        "seendate": "2026-07-15T16:00:00.000Z",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/jul/16/nbc-today-show-racial-slur-craig-melvin",
+        "seendate": "2026-07-16T18:06:21.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Michael Kosta on Lindsey Graham’s sister: ‘A senate seat? That’s an inheritance jackpot!’",
-        "summary": "Late night hosts discuss US air strikes in Iran, Trump-Epstein files and companies bringing back the dead with AIOn Tuesday night, late night hosts discussed Lindsey Graham’s sister Darline’s appointment as his interim replacement in the Senate, fumbled <a href=\"https://www.theguardian.com/world/iran\"",
+        "title": "‘A masterpiece in every way’: The Odyssey earns near universal acclaim as full reviews published",
+        "summary": "Christopher Nolan’s epic was given five stars by the Guardian, Independent and Telegraph, while the New York Times called it a ‘monumental adaptation’Christopher Nolan’s $250m Imax blockbuster version of Homer’s epic poem the Odyssey looks set to be among the director’s best-received of his career, and could be a frontrunner for next year’s best picture Oscar.The Guardian’s <a href=\"https://www.thegu",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/culture/2026/jul/15/michael-kosta-daily-show-lindsey-darline-graham-sister-senate-seat",
-        "seendate": "2026-07-15T16:05:07.000Z",
+        "url": "https://www.theguardian.com/film/2026/jul/16/the-odyssey-earns-near-universal-acclaim-as-full-reviews-published",
+        "seendate": "2026-07-16T17:16:03.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Shakira review – she-wolf roars again in playful victory lap from Colombian superstar",
-        "summary": "Prudential Center, Newark, New JerseyAhead of her World Cup final performance, the singer’s Las Mujeres Ya No Lloran tour whips through exuberant hits In the dark of a sold-out Prudential Center in Newark, New Jersey, a screen lights up on a desert. Around me are girls and their moms in concho shell belts and coined hip scarves, and there are Colombia soccer jerseys and the country’s",
+        "title": "Ava DuVernay to make Netflix documentary 14th on birthright citizenship",
+        "summary": "The film-maker behind Selma and 13th will focus on the 14th amendment for a new film out later this year as Donald Trump targets those protected by itAva DuVernay announced on Thursday that she has made a documentary for Netflix on the 14th amendment, which gave liberty and rights to formerly",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/music/2026/jul/15/shakira-concert-tour-review",
-        "seendate": "2026-07-15T15:40:42.000Z",
+        "url": "https://www.theguardian.com/film/2026/jul/16/ava-duvernay-netflix-birthright-citizenship",
+        "seendate": "2026-07-16T17:04:40.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Unheard David Bowie songs from 1965 to be released – including ones with Jimmy Page on guitar",
-        "summary": "Compilation entitled David Bowie: The Shel Talmy Recordings will be released in September, collating material from when he recorded as Davy JonesUnheard 1965 recordings by David Bowie, from when he was starting out in swinging 60s London as Davy Jones, are finally to be released – some featuring a pre-Led Zeppelin Jimmy Page.Before he broke through with 1969’s Space Oddity, and scaled up through The",
+        "title": "‘From the father of the guy who made Obsession’: is the nepo dad the new nepo baby?",
+        "summary": "With Dane Cook set to star in his new film, Curry Barker’s dad joins Lana Del Rey’s dad and Tom Holland’s dad in a new wave of nepo daddiesA generational shift is happening in Hollywood. The two big breakout films of the spring – Backrooms and <a href=\"https://www.theg",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/music/2026/jul/15/david-bowie-unheard-songs-1965-jimmy-page-the-shel-talmy-recordings",
-        "seendate": "2026-07-15T15:46:40.000Z",
+        "url": "https://www.theguardian.com/film/2026/jul/16/nepo-dad-curry-barker-father",
+        "seendate": "2026-07-16T15:07:42.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘People are picking the dumbest fights’: the tortured history of America’s culture wars",
-        "summary": "In a new book, Isaac Butler goes back to the 1980s to trace how battles started against the arts, from Piss Christ to Mapplethorpe, and looks at what we can learn for todayIsaac Butler is limbering up for an event at Politics and Prose, an independent bookshop and venerable Washington institution, but still has time to explain his arm tattoos.They v",
+        "title": "Seth Meyers on the second Trump presidency: ‘No one feels better, everyone’s miserable’",
+        "summary": "Late-night host covered the dire state of the US economy and how the president is distracted by other prioritiesSeth Meyers discussed Donald Trump’s many weaknesses as president as the US economy continues to tumble.On Late Night, the host started by covering how Donald Trump re",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jul/15/culture-wars-isaac-butler-interview",
-        "seendate": "2026-07-15T09:00:51.000Z",
+        "url": "https://www.theguardian.com/culture/2026/jul/16/late-night-roundup-seth-meyers-second-trump-presidency",
+        "seendate": "2026-07-16T15:07:10.000Z",
         "domain": "theguardian.com"
       }
     ],
     "f1": [
       {
-        "title": "Damon Hill reveals the F1 career lesson he wishes he had learned earlier",
-        "summary": "1996 Formula 1 champion Damon Hill has admitted he realised \"a little bit too late\" in his career how crucial it is for a driver to actively galvanise the workforce around them.Pointing to the likes of Michael Schumacher and Sebastian Vettel as the benchmark, Hill discussed the psychological and leadership demands placed on modern F1 drivers. During a live recording of the Up To Speed ...<a class='mo",
+        "title": "Williams under fire as Carlos Sainz is \"getting nowhere\" in bid to turn team around",
+        "summary": "Former Formula 1 driver Jolyon Palmer believes Carlos Sainz is \"getting nowhere\" in his determined attempts to lead Williams out of its current performance slump.Palmer addressed recent comments from Sainz, who admitted to feeling frustrated and concerned after an upgraded front wing on the FW48 failed to produce the anticipated performance gains at the British Grand Prix.\"They're ...<a class='more'",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/damon-hill-reveals-the-f1-career-lesson-he-wishes-he-had-learned-earlier/10839045/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-15T22:57:53.000Z",
+        "url": "https://www.motorsport.com/f1/news/williams-under-fire-as-carlos-sainz-is-getting-nowhere-in-bid-to-turn-team-around/10839297/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-16T22:18:57.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "James Vowles explains how Williams F1 delays could be \"one of the best things\"",
-        "summary": "Williams team principal James Vowles believes the production delays suffered by the Grove outfit over the winter and early stages of the 2026 Formula 1 season could ultimately prove to be \"one of the best things\" to happen to the team.Speaking to a live audience at the Goodwood Festival of Speed during an episode of the Up To Speed podcast, Vowles opened up about the harsh realities of ...<a class='more'",
+        "title": "\"Not the same challenge\" or an \"interesting\" exercise? - Drivers on Spa's appeal in F1 2026",
+        "summary": "Formula 1's current battery-driven formula has changed the face of a number of iconic tracks and corners this year, but nowhere is the difference expected to be as striking as at driver favourite Spa-Francorchamps.Despite various mitigating measures, including reduced energy deployment limits and additional active aero zones, the relative lack of time spent on the brakes around the 7km ...<a class='more'",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/james-vowles-explains-how-williams-f1-delays-could-be-one-of-the-best-things/10839043/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-15T22:19:32.000Z",
+        "url": "https://www.motorsport.com/f1/news/not-the-same-challenge-or-an-interesting-exercise-drivers-on-spas-appeal-in-f1-2026/10839259/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-16T17:47:14.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Sergio Perez opens up about mental toll of partnering Max Verstappen at Red Bull",
-        "summary": "Sergio Perez has opened up about the mental toll of partnering Max Verstappen at Red Bull, revealing he sought the help of a psychologist after the team repeatedly suggested his on-track struggles were the result of psychological issues. The Mexican driver, who returned to the Formula 1 grid with Cadillac in 2026 following a year out from the championship, shed fresh light on his turbulent ...<a class='m",
+        "title": "F1 Belgian GP: Friday schedule, weather forecast and how to watch",
+        "summary": "Formula 1 heads to Spa-Francorchamps this weekend after Charles Leclerc's British grand prix win gave Ferrari another sign of momentum in the fight with Mercedes.Kimi Antonelli still leads the championship, but his advantage over George Russell has been cut to 25 points after a difficult run since Monaco. Spa gives the Mercedes driver a chance to respond at a circuit where he has enjoyed ...<a class='mor",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/sergio-perez-reveals-mental-toll-of-partnering-max-verstappen-at-red-bull/10839041/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-15T21:53:28.000Z",
+        "url": "https://www.motorsport.com/f1/news/f1-belgian-gp-friday-schedule-weather-forecast-and-how-to-watch/10839227/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-16T16:55:58.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Franco Colapinto opens up about the toughest moment of his F1 career",
-        "summary": "After Logan Sargeant suffered a heavy crash during the third free practice session at Zandvoort and watched his Williams go up in flames, Formula 1 team principal James Vowles decided it was time to make a change.On 27 August, Sargeant was officially dropped and replaced by Colapinto for the remainder of the 2024 season. At the time, the Argentine was still racing for Dutch outfit MP ...<a class='more' h",
+        "title": "What Max Verstappen did – and didn't – say about his F1 future and McLaren at Spa",
+        "summary": "When Max Verstappen took his seat on the red sofa for Thursday afternoon's official FIA press conference, it was immediately clear what the next half hour would largely revolve around.Earlier that morning, Verstappen had announced a collaboration with McLaren junior Dries Van Langendonck, but most of those in attendance were interested in something else: Verstappen's own future and the ...<a class='more'",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/franco-colapinto-opens-up-about-the-toughest-moment-of-his-f1-career/10838753/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-15T14:54:39.000Z",
+        "url": "https://www.motorsport.com/f1/news/what-max-verstappen-did-and-didnt-say-about-his-f1-future-and-mclaren-at-spa/10839233/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-16T16:11:49.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "George Russell shares school exam mindset behind his F1 success",
-        "summary": "Mercedes driver George Russell has drawn a unique parallel between preparing for a Formula 1 grand prix and studying for a school exam.The Briton was speaking on the Nu Silver Arrows Radio Show following his home grand prix at Silverstone, where he managed to secure a second-place finish.Following the chaotic race that saw him suffer a slow puncture before recovering to a podium ...<a class='more' hr",
+        "title": "Lewis Hamilton still avoiding Ferrari’s F1 sim: ‘It’s helped me massively’",
+        "summary": "Lewis Hamilton has maintained his approach of not using Ferrari’s Formula 1 simulator – and that’s for the better, according to him.Ahead of the Canadian Grand Prix in May, Hamilton decided to stop using the simulator in Maranello because he felt the correlation was not good enough and he couldn’t prepare properly with that tool.Since then, the seven-time world champion has ...<a class='more' href='h",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/george-russell-shares-school-exam-mindset-behind-his-f1-success/10838985/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-15T13:54:10.000Z",
+        "url": "https://www.motorsport.com/f1/news/lewis-hamilton-still-avoiding-ferraris-f1-sim-its-helped-me-massively/10839221/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-16T15:28:00.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "Former CCT Chairman Gets N100m Bail",
-        "summary": "Former Chairman of the Code of Conduct Tribunal (CCT), Mr Danladi Umar, has been granted bail by Justice Peter Kekemeke of the Federal Capital Territory High",
-        "source": "leadership.ng",
-        "url": "https://leadership.ng/former-cct-chairman-gets-n100m-bail/",
-        "seendate": "20260715T231500Z",
-        "domain": "leadership.ng"
+        "title": "The follow-up to one of last year's best detective games is off to an 'overwhelmingly positive' start on Steam after just 2 days",
+        "summary": "Itch.io hit Type Help is now Steam hit The Incident at Galley House.",
+        "source": "pcgamer.com",
+        "url": "https://www.pcgamer.com/games/puzzle/the-follow-up-to-one-of-last-years-best-detective-games-is-off-to-an-overwhelmingly-positive-start-on-steam-after-just-2-days/",
+        "seendate": "2026-07-16T22:52:09.000Z",
+        "domain": "pcgamer.com"
       },
       {
-        "title": "At - home body piercing kits leading to deformities , expert says",
-        "summary": "From embedded jewellery to scarring and infections, some in the industry want at-home kits banned.",
-        "source": "bbc.co.uk",
-        "url": "https://www.bbc.co.uk/news/articles/cn4d4l4vky1o",
-        "seendate": "20260715T231500Z",
-        "domain": "bbc.co.uk"
+        "title": "Marathon's 'experimental' PvE mode will only be playable for 2 weeks when it goes live in July, full rollout expected to happen sometime in Season 3",
+        "summary": "A new update from Bungie provides a closer look at what's coming in the new Vault Breaker mode.",
+        "source": "pcgamer.com",
+        "url": "https://www.pcgamer.com/games/fps/marathons-experimental-pve-mode-will-only-be-playable-for-2-weeks-when-it-goes-live-in-july-full-rollout-expected-to-happen-sometime-in-season-3/",
+        "seendate": "2026-07-16T21:52:54.000Z",
+        "domain": "pcgamer.com"
       },
       {
-        "title": "Ariana Grande Not  Rushing  Into Rumored Reunion With Ex Ricky Alvarez",
-        "summary": "The pair, who split in 2016, are reportedly \"taking things very slowly.\"",
-        "source": "q92hv.iheart.com",
-        "url": "https://q92hv.iheart.com/content/2026-07-15-ariana-grande-not-rushing-into-rumored-reunion-with-ex-ricky-alvarez/",
-        "seendate": "20260715T231500Z",
-        "domain": "q92hv.iheart.com"
+        "title": "After 13 years, Path of Exile's devs are finally ready to ditch one of its most iconic and frustrating mechanics",
+        "summary": "Grinding Gear Games wants to find ways to get new players into the old action RPG.",
+        "source": "pcgamer.com",
+        "url": "https://www.pcgamer.com/games/rpg/after-13-years-path-of-exiles-devs-are-finally-ready-to-ditch-one-of-its-most-iconic-and-frustrating-mechanics/",
+        "seendate": "2026-07-16T21:30:00.000Z",
+        "domain": "pcgamer.com"
       },
       {
-        "title": "Anthropic Gears Up for Potential October IPO With Investor Meetings ( CORRECTED ) ",
-        "summary": "Anthropic is meeting with investors ahead of a potential blockbuster IPO as it prepares to capitalize on strong demand for AI listings.",
-        "source": "benzinga.com",
-        "url": "https://www.benzinga.com/markets/private-markets/26/07/60482699/anthropic-openai-are-making-other-ai-bets-feel-like-second-prize",
-        "seendate": "20260715T231500Z",
-        "domain": "benzinga.com"
+        "title": "Closed game studio returns to un-live service its game with community servers before shutdown: 'We don't believe Deceive Inc. should quietly disappear'",
+        "summary": "Deceive Inc. was great, and now it'll live on.",
+        "source": "pcgamer.com",
+        "url": "https://www.pcgamer.com/games/fps/closed-game-studio-returns-to-un-live-service-its-game-with-community-servers-before-shutdown-we-dont-believe-deceive-inc-should-quietly-disappear/",
+        "seendate": "2026-07-16T20:47:09.000Z",
+        "domain": "pcgamer.com"
+      },
+      {
+        "title": "I love that Matt Damon once turned down 'a bunch of money' to appear in a Bourne game because they wouldn't make it more like Myst",
+        "summary": "A Fortnite skin based Damon's character in The Odyssey seems to be the actor's first official videogame likeness.",
+        "source": "pcgamer.com",
+        "url": "https://www.pcgamer.com/movies-tv/matt-damon-now-a-fortnite-skin-once-turned-down-a-bunch-of-money-to-appear-in-a-bourne-game-because-they-wouldnt-make-it-more-like-myst/",
+        "seendate": "2026-07-16T20:29:56.000Z",
+        "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
       {
-        "title": "UK 16- and 17-year-olds to be encouraged to follow midnight social media curfew",
-        "summary": "Midnight to 6am block on some apps is latest stage of Labour’s bid to protect young people from online harmsSixteen and 17-year-olds are to be encouraged to observe a midnight social media curfew, in the latest stage of Labour’s bid “to protect the next generation” from online harms, including poor sleep caused by night-time scrolling.From next spring, Britain’s oldest children will be urged to refra",
+        "title": "TikTok facing UK investigation amid fears over age checks and harm to children",
+        "summary": "Ofcom concerned TikTok’s age verification is ineffective, leaving some exposed to posts on suicide, self-harm and pornographyTikTok is under formal investigation over concerns it has failed to protect children from harmful content, the UK’s online regulator, Ofcom, has announced.The social media platform’s approach to checking the ages of users has sparked “particular concerns” at the watchdog, almos",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/jul/14/uk-16-17-year-olds-midnight-social-media-curfew",
-        "seendate": "2026-07-14T21:30:36.000Z",
+        "url": "https://www.theguardian.com/technology/2026/jul/16/tiktok-uk-investigation-ofcom-child-protection-self-harm-suicide",
+        "seendate": "2026-07-16T13:02:10.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Meta used AI to tag workers who took leave to be laid off, lawsuit claims",
-        "summary": "Lawsuit filed by dozens of employees says people who took maternity or disability leave were disproportionately selected for layoffsDozens of Meta employees have sued the social media company over claims that it used artificial intelligence tools to tag workers for mass layoffs. The workers allege that those AI tools targeted them after they asked for protected or maternity leave or disability accommodation",
+        "title": "‘Keys to the kingdom’: hackers who gained access to heart of London transport network jailed",
+        "summary": "Thalha Jubair, 20, and Owen Flowers, 19, sentenced to five and a half years each for cyber-attack that cost Transport for London £39mThe data of millions of commuters was stolen, Londoners were left out of pocket and 27,000 Transport for London staff were forced to reset their passwords.Over four days in 2024 a pair of teenage hackers had London’s transport network at their mercy. Thalha Jubair and O",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/jul/14/meta-ai-mass-layoffs-lawsuit",
-        "seendate": "2026-07-14T23:36:20.000Z",
+        "url": "https://www.theguardian.com/technology/2026/jul/16/hackers-2024-cyber-attack-transport-for-london-tfl-jailed",
+        "seendate": "2026-07-16T12:01:51.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘Not up for grabs’: Albanese establishes AI office and vows to protect Australian creatives from copyright ‘theft’",
-        "summary": "PM lays out plan for datacentre development and rejects prospect tech companies will be given free use of Australian dataFollow our Australia news live blog for latest updates<",
+        "title": "Moroccan intelligence insider reveals widespread use of Pegasus hacking software",
+        "summary": "Whistleblower suggests internal security services deployed spyware from 2017 against key domestic and foreign targetsA former member of Morocco’s domestic intelligence service has helped to provide an unprecedented insight into how the north African state used hacking software – including Pegasus spyware – to target journalists, human rights defenders, French politicians and Spanish cabinet ministers and po",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/jul/15/office-of-ai-artificial-intelligence-copyright-australia-government",
-        "seendate": "2026-07-15T06:18:06.000Z",
+        "url": "https://www.theguardian.com/news/2026/jul/16/morocco-intelligence-insider-reveals-widespread-use-hacking-software-pegasus",
+        "seendate": "2026-07-16T04:30:13.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Global cooperation needed to tackle AI threats, says Bank of England governor",
-        "summary": "Andrew Bailey warns that US will not be able to achieve its ambitions aloneThe Bank of England governor has called for international cooperation to tackle growing AI threats, warning that the US and Trump administration would not be able to achieve their ambitions alone.Andrew Bailey’s comments come weeks after the US president, Donald Trump, temporarily banned foreigners from using Anthropic’s power",
+        "title": "Robots, AI and drones: how the Dutch navy is using tech to transform its sea defences",
+        "summary": "Uncrewed systems are the future for armed forces and the Netherlands is leading the way ‘to keep people out of danger zones’On each side of the target ship, a black vessel keeps a watchful distance. Defender 1 and Defender 2 are the eyes and ears of the navy – but they have nobody onboard, and their paths are controlled by a computer system.This is the future of the Royal Netherlands Navy, according",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/jul/14/global-cooperation-needed-to-tackle-ai-threats-says-bank-of-england-governor",
-        "seendate": "2026-07-14T20:10:34.000Z",
+        "url": "https://www.theguardian.com/environment/2026/jul/16/robots-ai-and-drones-how-the-dutch-navy-is-using-tech-to-transform-its-sea-defences",
+        "seendate": "2026-07-16T04:00:14.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "IBM loses quarter of its value as tech giant’s shares plunge and profits falter",
-        "summary": "IBM issued profit warning after weak second quarter, triggering selloff in software sector including MicrosoftShares in IBM plunged more than 25% on Tuesday after the US tech giant released disappointing preliminary second-quarter results. IBM’s stock was on track for an even steeper single-day decline than it suffered during ⁠the 1987 “Black Monday”",
+        "title": "George Lucas likens AI sceptics to luddites clinging to horses and carts",
+        "summary": "Star Wars director calls AI technology ‘the future’ of film-making and says ‘there’s nothing you can do about it’The Star Wars director, George Lucas, has added his voice to the growing chorus of film-makers receptive to the rising use of AI tools in moviemaking.Speaking in an interview with <a href=\"https://a-rabbitsfoot.com/editorial/confessions/the-last-picture-show-a-conversation-with-george-luca",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/jul/14/ibm-shares-profit-drop-value",
-        "seendate": "2026-07-14T16:38:00.000Z",
+        "url": "https://www.theguardian.com/film/2026/jul/15/george-lucas-likens-ai-sceptics-to-luddites-clinging-to-horses-and-carts",
+        "seendate": "2026-07-15T14:13:44.000Z",
         "domain": "theguardian.com"
       }
     ],
@@ -375,6 +383,22 @@ window.NEWS_CACHE = {
     ],
     "science": [
       {
+        "title": "One small pen for one giant fee: Buzz Aldrin’s mission-saving felt-tip sells for over $850,000",
+        "summary": "Second man on moon’s Duro Rocket pen, crucial to Apollo 11 return, reaches astronomical sum at Sotheby’s auctionThe felt-tip pen Buzz Aldrin used to fix a broken circuit-breaker and escape from the moon in 1969 has sold at auction in New York for more than $850,000 (£630,000).The dented silver plastic Duro Rocket pen – used by the second m",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/jul/15/buzz-aldrin-apollo-astronaut-mission-felt-tip-pen-auction",
+        "seendate": "2026-07-15T15:17:34.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Can a world-first gene therapy reverse ageing? – podcast",
+        "summary": "The first person has been treated with a highly anticipated new gene therapy that aims to turn back the clock on ageing cells. The trial is aimed at retinal cells, with the hope that encouraging them to behave as if they were young again could improve sight in the affected patients. If it proves to be safe, it could open the door to a whole raft of therapies based on the emerging field of cellular rejuvenation. To",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/audio/2026/jul/16/can-a-world-first-gene-therapy-reverse-ageing-podcast",
+        "seendate": "2026-07-16T04:00:13.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Shipwrecks of Shackleton and Scott recreated in 3D digital form after deep sea expedition",
         "summary": "Canadian scientists visit remains of polar exploration vessels in ‘golden era for shipwreck investigating’Moments after devouring the final glimmers of light, the seafloor offered nothing but darkness and silt. Then the bow appeared.More than 1,000ft (305 metres) below the surface of the Labrador Sea, off the coast of Canada, the skeleton of the final ship used by the <a href=\"https://www.theguardian",
         "source": "theguardian.com",
@@ -396,22 +420,6 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/science/2026/jul/15/plantwatch-mushroom-hallucinogen-lanmaoa-asiatica",
         "seendate": "2026-07-15T05:00:46.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Can humans hibernate their way to Mars?",
-        "summary": "Scientists are trying to recreate the biology that lets animals survive months without food or water, in hopes of making deep-space travel possibleLong-term space travel is bad for your health. Very bad. Being in space exposes humans to dangerously high levels of radiation; extended exposure to microgravity can damage a range of organ systems, including muscles, bones and eyes. Living for months or years in",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/ng-interactive/2026/jul/14/human-hibernation-space-mars",
-        "seendate": "2026-07-14T11:00:24.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Sale of multimillion-dollar T rex skeleton is big headache for scientists",
-        "summary": "Palaeontologists warn before auction at Sotheby’s in New York that super-rich collectors are harming researchWith its dagger-like teeth, bone-crushing bite and behemothic size, the fearsome Tyrannosaurus rex ruled western North America during the late Cretaceous period. Now its fossilised remains are about to dominate the auction house, with a price tag to terrify punters.On Tuesday, one of the large",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/jul/14/t-rex-skeleton-sothebys-auction-new-york-scientists",
-        "seendate": "2026-07-14T04:00:20.000Z",
         "domain": "theguardian.com"
       }
     ]
