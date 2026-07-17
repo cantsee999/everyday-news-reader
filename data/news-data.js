@@ -1,8 +1,16 @@
 window.NEWS_CACHE = {
-  "generatedAt": "2026-07-16T23:47:08.438Z",
+  "generatedAt": "2026-07-17T23:41:20.631Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
+      {
+        "title": "Seven Americans quarantining at Kenya Ebola facility after US travel ban, says aid group",
+        "summary": "Aid workers are first known people to quarantine at facility, which sparked huge opposition in Kenya Seven American aid workers who had been in Congo to fight the Ebola outbreak are quarantining at a new isolation facility in ⁠Kenya after the US government introduced travel ⁠restrictions, the head of a US charity ​employing them told Reuters.The aid workers are the first known people to quarantine at",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/jul/17/ebola-us-aid-workers-kenya",
+        "seendate": "2026-07-17T12:17:14.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "UK aid cuts ‘reduce bilateral support to some African countries by 90%’",
         "summary": "Critics say Foreign Office figures send ‘global message about the role the country wants to play on international stage’Labour’s foreign aid cuts mean reductions of as much as 90% in the bilateral support the UK will give to some African countries, Foreign Office figures show.The department’s annual repo",
@@ -33,19 +41,19 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/world/2026/jul/16/how-global-heating-supercharged-floods-west-africa-displacing-thousands",
         "seendate": "2026-07-16T00:01:08.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "New US Ebola patient arrives in Germany for treatment",
-        "summary": "Aid worker flown to Berlin as Trump administration bars Americans from traveling to US on commercial flightsA US national who contracted Ebola in the Democratic Republic of the Congo has arrived in Germany for treatment, the health ministry in Be",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/jul/14/american-ebola-patient-arrives-germany",
-        "seendate": "2026-07-14T12:27:06.000Z",
         "domain": "theguardian.com"
       }
     ],
     "conflict": [
       {
+        "title": "Seven Americans quarantining at Kenya Ebola facility after US travel ban, says aid group",
+        "summary": "Aid workers are first known people to quarantine at facility, which sparked huge opposition in Kenya Seven American aid workers who had been in Congo to fight the Ebola outbreak are quarantining at a new isolation facility in ⁠Kenya after the US government introduced travel ⁠restrictions, the head of a US charity ​employing them told Reuters.The aid workers are the first known people to quarantine at",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/jul/17/ebola-us-aid-workers-kenya",
+        "seendate": "2026-07-17T12:17:14.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "UK aid cuts ‘reduce bilateral support to some African countries by 90%’",
         "summary": "Critics say Foreign Office figures send ‘global message about the role the country wants to play on international stage’Labour’s foreign aid cuts mean reductions of as much as 90% in the bilateral support the UK will give to some African countries, Foreign Office figures show.The department’s annual repo",
         "source": "theguardian.com",
@@ -76,17 +84,25 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/world/2026/jul/16/how-global-heating-supercharged-floods-west-africa-displacing-thousands",
         "seendate": "2026-07-16T00:01:08.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "New US Ebola patient arrives in Germany for treatment",
-        "summary": "Aid worker flown to Berlin as Trump administration bars Americans from traveling to US on commercial flightsA US national who contracted Ebola in the Democratic Republic of the Congo has arrived in Germany for treatment, the health ministry in Be",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/jul/14/american-ebola-patient-arrives-germany",
-        "seendate": "2026-07-14T12:27:06.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "economy": [
+      {
+        "title": "‘Laws were broken’: multistate effort to stop Paramount’s $111bn merger heads to court",
+        "summary": "Attorneys general from 12 states are suing to block the Paramount-Warner Bros deal they say violates antitrust lawA last-ditch effort to block the merger between Paramount Skydance and Warner Bros Discovery (WBD) is heading to court as 12 Democratic state attorneys general attempt to stop the $111bn deal they say violates antitrust law and reduces competition in both the film and cable television industries",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/media/2026/jul/17/paramount-warner-bros-merger",
+        "seendate": "2026-07-17T11:00:06.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "How do you actually shop local in New York City?",
+        "summary": "Shopping local ensures a future for cultures and communities, says Caroline Weaver, creator of the Locavore Guide digital directory When I signed the lease for my new apartment in Brooklyn, the relief of having survived the brutal New York City real estate market was short-lived when my next task became clear: I needed to furnish the place.My first instinct was to check everything off my list by shop",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/jul/17/how-to-shop-local-nyc",
+        "seendate": "2026-07-17T12:00:07.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Kalshi to offer betting on drug trial results and FDA regulatory decisions",
         "summary": "Move comes as prediction platforms rapidly gain popularity and offer opportunities to bet on virtually anythingKalshi is expanding its wagers to include bets on drug trial results, an expansion into new predictions territory as platforms continue to rapidly gain popularity and offer opportunities to bet on virtually anything.The betting platform said the expansion into clinical trials and FDA regulat",
@@ -110,200 +126,208 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/us-news/2026/jul/16/greystar-landlord-civil-rights-violations",
         "seendate": "2026-07-16T18:09:28.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Democrats allege Trump administration stalled US-Canada bridge opening as a favor to billionaire donor",
-        "summary": "Delay seen as move to protect interests of Matthew Moroun, the owner of nearby Ambassador Bridge and a Trump donorThe Trump administration for months blocked a $4.7bn publicly owned bridge between Detroit and Windsor, Ontario, a move critics allege is a quid pro quo for a billionaire Donald Trump donor.A ribbon-cutting ceremony for the Gordie Howe",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/jul/16/trump-administration-canada-gordie-howe-bridge",
-        "seendate": "2026-07-16T11:00:37.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Brazil vows to retaliate if US imposes 25% tariffs on some of its products",
-        "summary": "President Lula’s office says US move is result of pressure on White House by family of predecessor Jair BolsonaroBrazil has vowed to retaliate against Washington’s decision to impose 25% tariffs on imports of some Brazilian products.The office of the president, Luiz Inácio Lula da Silva, described the tariffs as “a regrettable milestone” in the history of relations between the two countries and said",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jul/16/brazil-us-tariffs",
-        "seendate": "2026-07-16T05:01:23.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "literature": [
       {
-        "title": "National Year of Reading should extend to a decade, inquiry says",
-        "summary": "The education committee also proposed a National Reading Guarantee, ensuring all children have frequent opportunities to enjoy readingThe National Year of Reading should be extended to a National Decade of Reading, an education committee inquiry into reading for pleasure has concluded.The government should also commit to a National Reading Guarantee that would ensure all children have regular opportu",
+        "title": "Every year 6 student to be given Katherine Rundell book for Christmas",
+        "summary": "More than 800,000 copies of Impossible Creatures will be distributed to year 6 and P6 children through The Queen’s Christmas Present initiativeEvery child in year 6 in England, Wales and Northern Ireland, and P6 in Scotland, will be given the bestselling book Impossible Creatures by Katherine Rundell this Christmas, to coincide with the end of the government’s National Year of Reading.Queen Camilla a",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jul/17/national-year-of-reading-should-extend-to-a-decade-inquiry-says",
-        "seendate": "2026-07-16T23:01:51.000Z",
+        "url": "https://www.theguardian.com/books/2026/jul/17/every-year-6-student-to-be-given-katherine-rundell-book-for-christmas",
+        "seendate": "2026-07-17T16:51:24.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Rebecca Perry wins Waterstones debut fiction prize for ‘delicious and dream-like’ novel",
-        "summary": "May We Feed the King, about a museum curator and a medieval monarch, was praised by judges for its ‘crisp, cool prose’ and ‘poet’s eye for detail’Author and poet Rebecca Perry has won the 2026 Waterstones debut fiction prize for May We Feed the King, praised as a “delicious and dream-like tale”.Chosen from a shortlist of six novels, May We Feed the King follows a present-day curator whose job is to d",
+        "title": "Andrew Motion: ‘Wilfred Owen became a kind of sacred text for me’",
+        "summary": "The former poet laureate on growing up with Lawrence Durrell, rereading Henry James and getting to grips with the genius of Alexander PopeMy earliest reading&nbsp;memory My parents were country people who thought that looking after or chasing animals was more fun than reading: my father used to say that he’d read half a book in his life (The Lonely Skier by Hammond Innes), and while my",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jul/16/rebecca-perry-waterstones-debut-fiction-prize-may-we-feed-the-king",
-        "seendate": "2026-07-16T19:00:46.000Z",
+        "url": "https://www.theguardian.com/books/2026/jul/17/andrew-motion-wilfred-owen-became-a-kind-of-sacred-text-for-me",
+        "seendate": "2026-07-17T09:00:05.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "A voyage of discovery: an idiot’s guide to reading The Odyssey",
-        "summary": "Christopher Nolan’s film adaptation of the ancient Greek epic has sparked a new appetite for an old classic. Here are the translations, podcasts and audiobooks that make the Homeric world more approachableThe Odyssey was once all Greek to me. I struggled to keep up with the characters, the mass of heroes and villains, the swarms of sons and daughters. I found the Homeric formula – repeated stock phrases pas",
+        "title": "‘No stuffy vibes … just good books’: Matt Haig to open bookshop in Brighton",
+        "summary": "‘My belief, as someone who grew up in a town without a bookshop, is that all communities should have one,’ says author of The Midnight LibraryMatt Haig, the bestselling author of titles including The Midnight Library and <a href=\"https://www.theguardian.com/books/2016/jan",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jul/16/a-voyage-of-discovery-an-idiots-guide-to-reading-the-odyssey",
-        "seendate": "2026-07-16T12:45:28.000Z",
+        "url": "https://www.theguardian.com/books/2026/jul/17/matt-haig-bookshop-brighton",
+        "seendate": "2026-07-17T12:29:59.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘I felt Holden was talking to me alone’: The Catcher in the Rye at 75",
-        "summary": "JD Salinger’s wry, subversive classic inspired novelist Joseph O’Connor to be a writer. He reflects on why this story of a disaffected teenager remains as fresh and transgressive as everIn 1981, when I was 17, my first girlfriend gave me a paperback of her dad’s favourite novel. I’d&nbsp;never heard of it despite living in a home full of books. My parents loved the work of&nbsp;Edna O’Brien, Muriel Spark, J",
+        "title": "The Red Mouth by Sheila Armstrong review – profound exploration of Ireland’s deep time",
+        "summary": "Sinister bogland discoveries haunt the intersecting lives of four characters in this meditative, exquisitely written taleAlmost 14% of Ireland is bog: vast swathes of moss-carpeted land, below which layers of&nbsp;ancient history have been compounded into mulch-black turf. Captivated by their otherworldly beauty, Seamus Heaney wrote some of&nbsp;his finest poetry about bogs – and the bodies discovered, perf",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jul/16/i-felt-holden-was-talking-to-me-alone-the-catcher-in-the-rye-at-75",
-        "seendate": "2026-07-16T07:00:17.000Z",
+        "url": "https://www.theguardian.com/books/2026/jul/17/the-red-mouth-by-sheila-armstrong-review-profound-exploration-of-irelands-deep-time",
+        "seendate": "2026-07-17T06:00:01.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Worry Doll by Laura McPhee-Browne review – a sensual, sinister novel about the horrors of desire",
-        "summary": "Two women meet on a train and tumble into an all-consuming affair told from both sides – who have very different stories I’ve been craving a sandwich: soft white roll, roast chicken, sharp cheese. A bright little cut of tomato. After I finish this review I’ll walk up to the supermarket and buy myself a hot chook. Sink my teeth in.It wasn’t my idea. I caught the craving from Laura McPhee-Browne’s Worr",
+        "title": "The best recent crime and thrillers – review roundup",
+        "summary": "The Runner by Scarlett Thomas; The Madman by Henning Mankell; Everything She Didn’t Say by Jane Casey; The Spy and the Snake by MJ Robotham; Murder at the End of the World by Akane ArakiThe Runner by Scarlett Thomas (Scribner, £16.99)</strong",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jul/17/worry-doll-by-laura-mcphee-browne-review-a-sensual-sinister-novel-about-the-horrors-of-desire",
-        "seendate": "2026-07-16T22:00:50.000Z",
+        "url": "https://www.theguardian.com/books/2026/jul/17/the-best-recent-and-thrillers-review-roundup",
+        "seendate": "2026-07-17T11:00:06.000Z",
         "domain": "theguardian.com"
       }
     ],
     "entertainment": [
       {
-        "title": "‘Disorderly’ intruder removed from NBC’s Today show after security breach",
-        "summary": "Unauthorized interloper was arrested after reportedly hurling racial slur at host Craig MelvinA man was arrested after breaking on to the set of NBC’s Today show on Thursday morning and allegedly hurling a racial slur at a host.NYPD officers at New York’s midtown north precinct responded to a report of a disorderly person at the show’s 30 Rockefelle",
+        "title": "Jill Scott review – joyous phones-free show is a taste of how all concerts should be",
+        "summary": "Kings Theatre, BrooklynThe queen of Philly soul is on phenomenal form in a saucy and effortlessly virtuosic show celebrating 26 years in musicAt one point during her triumphant phones-free show at Brooklyn’s Kings Theater, Jill Scott takes a moment to introduce Dwayne Wright,",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/jul/16/nbc-today-show-racial-slur-craig-melvin",
-        "seendate": "2026-07-16T18:06:21.000Z",
+        "url": "https://www.theguardian.com/music/2026/jul/17/jill-scott-concert-review",
+        "seendate": "2026-07-17T16:09:31.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘A masterpiece in every way’: The Odyssey earns near universal acclaim as full reviews published",
-        "summary": "Christopher Nolan’s epic was given five stars by the Guardian, Independent and Telegraph, while the New York Times called it a ‘monumental adaptation’Christopher Nolan’s $250m Imax blockbuster version of Homer’s epic poem the Odyssey looks set to be among the director’s best-received of his career, and could be a frontrunner for next year’s best picture Oscar.The Guardian’s <a href=\"https://www.thegu",
+        "title": "Brenda Fricker, Oscar winner for My Left Foot, dies aged 81",
+        "summary": "The acclaimed Irish actor started her career in Coronation Street and Casualty before a string of high-profile Hollywood rolesBrenda Fricker, who became the first female Irish Oscar winner for acting with My Left Foot, has died aged 81. Her agent Phil Belfield told the BBC in a statement: “We will never see her like again and the world is lesser",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/jul/16/the-odyssey-earns-near-universal-acclaim-as-full-reviews-published",
-        "seendate": "2026-07-16T17:16:03.000Z",
+        "url": "https://www.theguardian.com/film/2026/jul/17/brenda-fricker-oscar-winner-for-my-left-foot-dies",
+        "seendate": "2026-07-17T14:48:53.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Ava DuVernay to make Netflix documentary 14th on birthright citizenship",
-        "summary": "The film-maker behind Selma and 13th will focus on the 14th amendment for a new film out later this year as Donald Trump targets those protected by itAva DuVernay announced on Thursday that she has made a documentary for Netflix on the 14th amendment, which gave liberty and rights to formerly",
+        "title": "Seth Meyers on Trump 2.0: ‘Every day is a constant stream of humiliation’",
+        "summary": "Late-night host criticised the Trump administration’s obsessions with testosterone and wet magnets as more important issues are ignoredSeth Meyers took aim at Donald Trump’s bizarre priorities and obsessions as many Americans continue to struggle with rising costs.On Late Night, the host said that despite the failing US economy, the president is instead “laser-focused” on “important stuff” such as “m",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/jul/16/ava-duvernay-netflix-birthright-citizenship",
-        "seendate": "2026-07-16T17:04:40.000Z",
+        "url": "https://www.theguardian.com/culture/2026/jul/17/seth-meyers-trump-testosterone-magnets",
+        "seendate": "2026-07-17T14:29:47.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘From the father of the guy who made Obsession’: is the nepo dad the new nepo baby?",
-        "summary": "With Dane Cook set to star in his new film, Curry Barker’s dad joins Lana Del Rey’s dad and Tom Holland’s dad in a new wave of nepo daddiesA generational shift is happening in Hollywood. The two big breakout films of the spring – Backrooms and <a href=\"https://www.theg",
+        "title": "‘It’s a spiritual experience’: docuseries goes behind the spectacular chaos of Burning Man",
+        "summary": "In HBO’s four-part series The Man Will Burn, the psychedelic, uber-expensive festival is granted a deep diveIn 1986, a group of starving artists seeking release amid a devastating economic downturn built an oversized wooden stick figure, hauled it on to a San Francisco beach and set it ablaze as police officers and passersby looked on in disbelief. Forty years later, Burning Man is the festival to end all f",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/jul/16/nepo-dad-curry-barker-father",
-        "seendate": "2026-07-16T15:07:42.000Z",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/jul/17/hbo-burning-man-series",
+        "seendate": "2026-07-17T09:00:03.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Seth Meyers on the second Trump presidency: ‘No one feels better, everyone’s miserable’",
-        "summary": "Late-night host covered the dire state of the US economy and how the president is distracted by other prioritiesSeth Meyers discussed Donald Trump’s many weaknesses as president as the US economy continues to tumble.On Late Night, the host started by covering how Donald Trump re",
+        "title": "The Hunt for Gollum is being criticised for its all-white cast. Blaming Tolkien is the wrong answer",
+        "summary": "The Lord of the Rings author’s debt to Norse mythology is simply irrelevant when it comes to the appearance of hobbits and elves on screen todayCasting has come a long way since the early 1980s when it was somehow still acceptable to sign up Max von Sydow to play Ming the Merciless in Flash Gordon in 1980, or hire Peter Ustinov as the lead in Charlie Chan and the Curse of the Dragon Queen in 1981 (<a href=\"",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/culture/2026/jul/16/late-night-roundup-seth-meyers-second-trump-presidency",
-        "seendate": "2026-07-16T15:07:10.000Z",
+        "url": "https://www.theguardian.com/film/2026/jul/17/hunt-for-gollum-criticised-white-cast-blaming-tolkien-wrong-answer-andy-serkis",
+        "seendate": "2026-07-17T12:59:16.000Z",
         "domain": "theguardian.com"
       }
     ],
     "f1": [
       {
-        "title": "Williams under fire as Carlos Sainz is \"getting nowhere\" in bid to turn team around",
-        "summary": "Former Formula 1 driver Jolyon Palmer believes Carlos Sainz is \"getting nowhere\" in his determined attempts to lead Williams out of its current performance slump.Palmer addressed recent comments from Sainz, who admitted to feeling frustrated and concerned after an upgraded front wing on the FW48 failed to produce the anticipated performance gains at the British Grand Prix.\"They're ...<a class='more'",
+        "title": "Lewis Hamilton has Michael Jordan mentality, says \"F1\" movie star Damson Idris",
+        "summary": "British actor Damson Idris has likened seven-time Formula 1 champion Lewis Hamilton to basketball icon Michael Jordan.Idris, who starred as rookie driver Joshua Pearce alongside Brad Pitt in F1 The Movie, recently appeared on the F1 Beyond The Grid podcast. Having spent two years immersed in the grand prix paddock, the actor forged a close relationship with Hamilton, who served as an executive ...<a clas",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/williams-under-fire-as-carlos-sainz-is-getting-nowhere-in-bid-to-turn-team-around/10839297/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-16T22:18:57.000Z",
+        "url": "https://www.motorsport.com/f1/news/lewis-hamilton-has-michael-jordan-mentality-says-f1-movie-star-damson-idris/10839641/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-17T23:26:24.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "\"Not the same challenge\" or an \"interesting\" exercise? - Drivers on Spa's appeal in F1 2026",
-        "summary": "Formula 1's current battery-driven formula has changed the face of a number of iconic tracks and corners this year, but nowhere is the difference expected to be as striking as at driver favourite Spa-Francorchamps.Despite various mitigating measures, including reduced energy deployment limits and additional active aero zones, the relative lack of time spent on the brakes around the 7km ...<a class='more'",
+        "title": "Arvid Lindblad shares driving test update ahead of F1 Belgian GP",
+        "summary": "Arvid Lindblad joined the Racing Bulls Formula 1 team in 2026 at just 18 years old, but he has yet to pass his driving test.Speaking to beIN Sports ahead of the Belgian Grand Prix, the British driver shared an update on his progress towards gaining his driving licence after completing his first lesson.Lindblad believes he is ready to take his test after one lesson, so long as he keeps an ...<a class=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/not-the-same-challenge-or-an-interesting-exercise-drivers-on-spas-appeal-in-f1-2026/10839259/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-16T17:47:14.000Z",
+        "url": "https://www.motorsport.com/f1/news/arvid-lindblad-shares-driving-test-update-ahead-of-f1-belgian-gp/10839638/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-17T22:22:01.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "F1 Belgian GP: Friday schedule, weather forecast and how to watch",
-        "summary": "Formula 1 heads to Spa-Francorchamps this weekend after Charles Leclerc's British grand prix win gave Ferrari another sign of momentum in the fight with Mercedes.Kimi Antonelli still leads the championship, but his advantage over George Russell has been cut to 25 points after a difficult run since Monaco. Spa gives the Mercedes driver a chance to respond at a circuit where he has enjoyed ...<a class='mor",
+        "title": "Long-run analysis: Can anyone beat Kimi Antonelli in Belgium?",
+        "summary": "Championship leader Kimi ended Friday’s practice sessions in Belgium at the top of the timesheets. With a lap of 1:45.944, he finished 0.190 seconds ahead of McLaren’s Lando Norris, while Red Bull driver Max Verstappen was 0.472 seconds adrift in third. The Italian also set the benchmark during the high-fuel race simulations.After correcting the second free practice long-run data for ...<a class='more' h",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/f1-belgian-gp-friday-schedule-weather-forecast-and-how-to-watch/10839227/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-16T16:55:58.000Z",
+        "url": "https://www.motorsport.com/f1/news/long-run-analysis-can-anyone-beat-kimi-antonelli-in-belgium/10839636/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-17T22:09:39.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "What Max Verstappen did – and didn't – say about his F1 future and McLaren at Spa",
-        "summary": "When Max Verstappen took his seat on the red sofa for Thursday afternoon's official FIA press conference, it was immediately clear what the next half hour would largely revolve around.Earlier that morning, Verstappen had announced a collaboration with McLaren junior Dries Van Langendonck, but most of those in attendance were interested in something else: Verstappen's own future and the ...<a class='more'",
+        "title": "\"We're not getting ahead of ourselves\" - Why Lando Norris was downbeat despite Belgium F1 practice pace",
+        "summary": "Practice pace on Friday at Spa-Francorchamps presented a more muddled picture than you would normally expect at what has traditionally been a ‘power' circuit. Nearly a full second separated the top six cars during their soft-tyre qualifying simulations during the second practice session, and only Lando Norris came within two tenths of the benchmark set by championship leader Kimi ...<a class='more' href='htt",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/what-max-verstappen-did-and-didnt-say-about-his-f1-future-and-mclaren-at-spa/10839233/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-16T16:11:49.000Z",
+        "url": "https://www.motorsport.com/f1/news/were-not-getting-ahead-of-ourselves-why-norris-was-downbeat-despite-practice-pace-in-belgium/10839588/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-17T19:00:09.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Lewis Hamilton still avoiding Ferrari’s F1 sim: ‘It’s helped me massively’",
-        "summary": "Lewis Hamilton has maintained his approach of not using Ferrari’s Formula 1 simulator – and that’s for the better, according to him.Ahead of the Canadian Grand Prix in May, Hamilton decided to stop using the simulator in Maranello because he felt the correlation was not good enough and he couldn’t prepare properly with that tool.Since then, the seven-time world champion has ...<a class='more' href='h",
+        "title": "Alpine explains Pierre Gasly crash that red-flagged FP2",
+        "summary": "Alpine and Pierre Gasly have weighed in on the Frenchman’s crash at the end of Free Practice 2 ahead of Formula 1’s Belgian Grand Prix.The incident occurred in the final stages of Friday’s second session, as Gasly experienced a snap of oversteer at the exit of the Les Fagnes section. This narrowly sent him into the gravel and he clipped the outside barrier, which sent him into a spin and ...<a class='mor",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/lewis-hamilton-still-avoiding-ferraris-f1-sim-its-helped-me-massively/10839221/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-16T15:28:00.000Z",
+        "url": "https://www.motorsport.com/f1/news/alpine-explains-pierre-gasly-crash-that-red-flagged-fp2/10839584/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-17T18:39:26.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "The follow-up to one of last year's best detective games is off to an 'overwhelmingly positive' start on Steam after just 2 days",
-        "summary": "Itch.io hit Type Help is now Steam hit The Incident at Galley House.",
+        "title": "Does anyone know how to drive this thing?",
+        "summary": "It's increasingly looking like nobody remembers how videogames work—or cares to.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/puzzle/the-follow-up-to-one-of-last-years-best-detective-games-is-off-to-an-overwhelmingly-positive-start-on-steam-after-just-2-days/",
-        "seendate": "2026-07-16T22:52:09.000Z",
+        "url": "https://www.pcgamer.com/gaming-industry/does-anyone-know-how-to-drive-this-thing/",
+        "seendate": "2026-07-17T22:23:03.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Marathon's 'experimental' PvE mode will only be playable for 2 weeks when it goes live in July, full rollout expected to happen sometime in Season 3",
-        "summary": "A new update from Bungie provides a closer look at what's coming in the new Vault Breaker mode.",
+        "title": "2 months after releasing Zero Parades, Studio ZA/UM is laying off employees: 'Its commercial performance has not enabled us to sustain a studio of our current size'",
+        "summary": "Up to 32 people will be put out of work.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/fps/marathons-experimental-pve-mode-will-only-be-playable-for-2-weeks-when-it-goes-live-in-july-full-rollout-expected-to-happen-sometime-in-season-3/",
-        "seendate": "2026-07-16T21:52:54.000Z",
+        "url": "https://www.pcgamer.com/games/rpg/2-months-after-releasing-zero-parades-studio-za-um-is-laying-off-employees-its-commercial-performance-has-not-enabled-us-to-sustain-a-studio-of-our-current-size/",
+        "seendate": "2026-07-17T21:56:29.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "After 13 years, Path of Exile's devs are finally ready to ditch one of its most iconic and frustrating mechanics",
-        "summary": "Grinding Gear Games wants to find ways to get new players into the old action RPG.",
+        "title": "Hytale releases massive preview of upcoming content including 22 videos and 37 new images",
+        "summary": "Plus about 4,000 words!",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/rpg/after-13-years-path-of-exiles-devs-are-finally-ready-to-ditch-one-of-its-most-iconic-and-frustrating-mechanics/",
-        "seendate": "2026-07-16T21:30:00.000Z",
+        "url": "https://www.pcgamer.com/games/survival-crafting/hytale-releases-massive-preview-of-upcoming-content-including-22-videos-and-37-new-images/",
+        "seendate": "2026-07-17T20:44:48.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Closed game studio returns to un-live service its game with community servers before shutdown: 'We don't believe Deceive Inc. should quietly disappear'",
-        "summary": "Deceive Inc. was great, and now it'll live on.",
+        "title": "Retiring Valve programmer says 'at least one' of the studio's beloved game modes was made in secret to avoid pushback from peers",
+        "summary": "Valve's mythical flat corporate structure might be somewhat less than 100% self-directed.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/fps/closed-game-studio-returns-to-un-live-service-its-game-with-community-servers-before-shutdown-we-dont-believe-deceive-inc-should-quietly-disappear/",
-        "seendate": "2026-07-16T20:47:09.000Z",
+        "url": "https://www.pcgamer.com/gaming-industry/retiring-valve-programmer-says-at-least-one-of-the-studios-beloved-game-modes-was-made-in-secret-to-avoid-pushback-from-peers/",
+        "seendate": "2026-07-17T20:40:40.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "I love that Matt Damon once turned down 'a bunch of money' to appear in a Bourne game because they wouldn't make it more like Myst",
-        "summary": "A Fortnite skin based Damon's character in The Odyssey seems to be the actor's first official videogame likeness.",
+        "title": "How much RAM do you need for an 'ultimate gaming machine?' July in PC Gamer 10, 20, and 30 years ago",
+        "summary": "Here's what was happening in PC gaming in July 1996, 2006 and 2016.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/movies-tv/matt-damon-now-a-fortnite-skin-once-turned-down-a-bunch-of-money-to-appear-in-a-bourne-game-because-they-wouldnt-make-it-more-like-myst/",
-        "seendate": "2026-07-16T20:29:56.000Z",
+        "url": "https://www.pcgamer.com/gaming-industry/how-much-ram-do-you-need-for-an-ultimate-gaming-machine-july-in-pc-gamer-10-20-and-30-years-ago/",
+        "seendate": "2026-07-17T20:24:16.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
       {
-        "title": "TikTok facing UK investigation amid fears over age checks and harm to children",
-        "summary": "Ofcom concerned TikTok’s age verification is ineffective, leaving some exposed to posts on suicide, self-harm and pornographyTikTok is under formal investigation over concerns it has failed to protect children from harmful content, the UK’s online regulator, Ofcom, has announced.The social media platform’s approach to checking the ages of users has sparked “particular concerns” at the watchdog, almos",
+        "title": "Thousands of Google workers demand layoff protections amid AI boom in petition to CEO",
+        "summary": "The petition to Sundar Pichai, the CEO, included more than 4,500 signatures and included calls for buyout optionsGoogle workers on Thursday delivered a petition calling for layoff protections as tech giants continue to slash their workforces while pouring billions into AI.“Make no mistake: this is a company that is enjoying massive, unprecedented success,” Parul Koul, Google software engineer and Alp",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/jul/16/tiktok-uk-investigation-ofcom-child-protection-self-harm-suicide",
-        "seendate": "2026-07-16T13:02:10.000Z",
+        "url": "https://www.theguardian.com/technology/2026/jul/16/google-workers-layoff-protections-ai",
+        "seendate": "2026-07-16T22:22:06.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Trump made $1.4bn from crypto in one year. Is Justin Sun the man who helped him do it?",
+        "summary": "The entrepreneur is known in Washington as the financial power behind the president’s crypto fortune. How did Sun’s business love-in with the Trump family spiral into dueling lawsuits?The most infamous financial scandal in US presidential history – the 1920s Teapot Dome affair – involved then president Warren G Harding’s interior secretary, Albert Fall, taking roughly $400,000 in bribes. Adjusted for inflat",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/ng-interactive/2026/jul/16/justin-sun-trump-family-crypto",
+        "seendate": "2026-07-16T16:19:56.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "‘There’s this deep mystery of what, actually, is this thing?’: the philosopher inside Google DeepMind AI – podcast",
+        "summary": "Since 2017, Iason Gabriel has worked at the tech giant, trying to anticipate – and think through – the impact of AI. But as commercial and geopolitical pressures escalate, can ethicists make any difference?By Robert P Baird. Read by Simon Darwen<a href=\"https://www.theguardian.com/news/ng-interactive/2026/jun/30/theres-this-deep-mystery-of-what-actually-is-this-thing-the-philosopher-inside-go",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/news/audio/2026/jul/17/theres-this-deep-mystery-of-what-actually-is-this-thing-the-philosopher-inside-google-deepmind-ai-podcast",
+        "seendate": "2026-07-17T04:00:58.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Musk’s xAI sues user who allegedly used Grok to create child sexual abuse material",
+        "summary": "Case is one of first brought by an AI company against a user ⁠for allegedly using a tool to generate child abuse materialElon Musk’s artificial-intelligence startup xAI has sued a South Carolina man arrested ⁠earlier this year on charges of sexually exploiting minors, alleging he misused the company’s AI system Grok to ⁠create child sexual abuse ⁠material.xAI ​alleged in the lawsuit, filed in federal",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/jul/16/elon-musk-xai-sue-user-grok-csam",
+        "seendate": "2026-07-16T15:19:27.000Z",
         "domain": "theguardian.com"
       },
       {
@@ -313,33 +337,33 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/technology/2026/jul/16/hackers-2024-cyber-attack-transport-for-london-tfl-jailed",
         "seendate": "2026-07-16T12:01:51.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Moroccan intelligence insider reveals widespread use of Pegasus hacking software",
-        "summary": "Whistleblower suggests internal security services deployed spyware from 2017 against key domestic and foreign targetsA former member of Morocco’s domestic intelligence service has helped to provide an unprecedented insight into how the north African state used hacking software – including Pegasus spyware – to target journalists, human rights defenders, French politicians and Spanish cabinet ministers and po",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/news/2026/jul/16/morocco-intelligence-insider-reveals-widespread-use-hacking-software-pegasus",
-        "seendate": "2026-07-16T04:30:13.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Robots, AI and drones: how the Dutch navy is using tech to transform its sea defences",
-        "summary": "Uncrewed systems are the future for armed forces and the Netherlands is leading the way ‘to keep people out of danger zones’On each side of the target ship, a black vessel keeps a watchful distance. Defender 1 and Defender 2 are the eyes and ears of the navy – but they have nobody onboard, and their paths are controlled by a computer system.This is the future of the Royal Netherlands Navy, according",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/2026/jul/16/robots-ai-and-drones-how-the-dutch-navy-is-using-tech-to-transform-its-sea-defences",
-        "seendate": "2026-07-16T04:00:14.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "George Lucas likens AI sceptics to luddites clinging to horses and carts",
-        "summary": "Star Wars director calls AI technology ‘the future’ of film-making and says ‘there’s nothing you can do about it’The Star Wars director, George Lucas, has added his voice to the growing chorus of film-makers receptive to the rising use of AI tools in moviemaking.Speaking in an interview with <a href=\"https://a-rabbitsfoot.com/editorial/confessions/the-last-picture-show-a-conversation-with-george-luca",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/jul/15/george-lucas-likens-ai-sceptics-to-luddites-clinging-to-horses-and-carts",
-        "seendate": "2026-07-15T14:13:44.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "climate": [
+      {
+        "title": "More Canadian wildfire smoke shrouds US midwest, mid-Atlantic and north-east",
+        "summary": "109 million people face another day of poor air quality as smoke from blazes in Ontario drifts over the USSign up for the Break",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/jul/17/canada-wildfire-smoke-midwest-mid-atlantic-north-east",
+        "seendate": "2026-07-17T20:31:59.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "California braces for its sharkiest summer in a decade – but experts say don’t panic",
+        "summary": "Young great white sharks are returning in large numbers, but researchers say humans are not on the menuSurfers, swimmers and fishermen across California will be sharing the waves with an influx of visitors this summer: young great white sharks.Juvenile white sharks are already appearing along the coastline, fleeing warmer than usual waters",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/environment/2026/jul/17/california-sharks-spike",
+        "seendate": "2026-07-17T10:00:04.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Climate change driving more rains that lead to deadly flash floods, experts say",
+        "summary": "Over the last month, states across the country have experienced record rainfall and flash floodingClimate change is driving increasingly common bouts of heavy rain in the US that cause deadly and damaging flash floods that will only become more frequent and intense as the crisis worsens, experts say.A year after deadly flooding in central Texas that swept through a children’s summer camp, the state a",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/jul/17/climate-change-rains-flash-floods",
+        "seendate": "2026-07-17T10:00:04.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "‘I’ve never worked with so many conservatives’: the Texans fighting the Big Bend border wall",
         "summary": "Residents across party lines say Trump’s proposed wall threatens their homes, livelihoods and wilderness along the Rio GrandeLast February, 41-year-old Molly Walker posted an Instagram story: a photo of herself standing in the desert, sunglasses hooked over the front of her shirt, jeans slung low beneath her exposed midriff. She held a protest sign fashioned from a pizza box, a hand-drawn heart framing the",
@@ -355,33 +379,25 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/commentisfree/2026/jul/15/air-conditioning-access-extreme-heat",
         "seendate": "2026-07-15T12:00:55.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "US trial could reveal who paid hackers to target Exxon climate critics: ‘on the edge of our seats’",
-        "summary": "Oil giant has denied involvement, but climate activists are closely watching court case against Israeli private investigator for answersA group of American climate activists are closely watching a US court case that could reveal who hired hackers to target their inboxes a decade ago.In 2015, a set of explosive media reports",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/15/climate-activists-exxon-hired-hackers-trial",
-        "seendate": "2026-07-15T10:00:53.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "California faces highest shark numbers in years as great whites head north",
-        "summary": "El Niño climate phenomenon heating waters off Mexico but incidents with humans remain a rarityCalifornia is set to see one of its sharkiest summers in a decade, with large numbers of juvenile great whites already on a reverse vacation from the warm waters of Mexico to cooler pastures along the western United States.The marine predator has become more common along the west coast in recent years, with",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/2026/jul/14/california-sharks-el-nino",
-        "seendate": "2026-07-14T14:00:27.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Hello from the outside: heat domes impeding radio and other signals in US midwest",
-        "summary": "Higher temperatures can cause radio, TV and microwave signals to travel hundreds of miles farther, upsetting communicationsIt was 3am in north-east Indiana’s Huntington county when the outdoor emergency alarm <a href=\"https://www.facebook.com/HuntCoHSEM/posts/outdoor-warning-siren-update-huntington-county-emergency-management-and-huntingt/13582474131",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jul/13/heat-dome-radio-signals-us-midwest",
-        "seendate": "2026-07-13T15:00:50.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "science": [
+      {
+        "title": "Earth-like exoplanet found to have an atmosphere",
+        "summary": "Scientists discover the first confirmed atmosphere around rocky planet outside our solar system that is within the habitable zoneThe search for life outside our solar system has taken another twist as researchers revealed they have discovered an atmosphere around an Earth-like planet 49 light years away that could have liquid water on its surface.Atmospheres have <a href=\"https://www.theguardian.com/",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/jul/16/atmosphere-lhs-1140b-exoplanet-could-water-scientists",
+        "seendate": "2026-07-16T18:00:45.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Brain implant helps paralysed man to feed himself and drink from cup",
+        "summary": "Keith Thomas can move arms and hands, and feel sensation of touch after ‘double neural bypass’ and months of trainingA man who was paralysed from the chest down in a swimming accident six years ago has been able to feed himself and drink from a cup thanks to a brain implant that bypasses his spinal cord injury.Keith Thomas of Massapequa, New York, could not lift his arms off his wheelchair when he ag",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/jul/16/neural-bypass-brain-implant-paralysed-man-feed-himself-drink-from-cup",
+        "seendate": "2026-07-16T15:00:41.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "One small pen for one giant fee: Buzz Aldrin’s mission-saving felt-tip sells for over $850,000",
         "summary": "Second man on moon’s Duro Rocket pen, crucial to Apollo 11 return, reaches astronomical sum at Sotheby’s auctionThe felt-tip pen Buzz Aldrin used to fix a broken circuit-breaker and escape from the moon in 1969 has sold at auction in New York for more than $850,000 (£630,000).The dented silver plastic Duro Rocket pen – used by the second m",
@@ -404,22 +420,6 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/science/2026/jul/15/deep-sea-expedition-builds-digital-twins-shipwrecks-scott-shackleton",
         "seendate": "2026-07-15T08:00:49.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Ancient DNA analysis reveals Wiltshire’s Upton Lovell Shaman was a woman",
-        "summary": "Exclusive: Analysis offers ‘smoking gun evidence’ that overturns previous assumption that bronze age individual was maleThe Upton Lovell Shaman, a bronze age individual who has been depicted in museum exhibits as a bearded spiritual leader and metalworker, was female, an ancient DNA analysis has revealed.The 4,000-year-old skeleton, along with the extensive collection of stone axes, metalworking tool",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/jul/14/ancient-dna-analysis-reveals-upton-lovell-shaman-was-woman-wiltshire",
-        "seendate": "2026-07-14T19:01:47.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Plantwatch: Beware a tasty mushroom with a powerful hallucinogen",
-        "summary": "Anyone eating Lanmaoa asiatica could have visions for days of tiny people running and jumping aroundLanmaoa asiatica is a bolete mushroom, prized for its delicious taste and hugely popular in Yunnan province, China, where it is found growing in a symbiotic relationship with pine trees. But anyone eating the mushroom needs to be careful because it also gives hallucinations of lots of tiny p",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/jul/15/plantwatch-mushroom-hallucinogen-lanmaoa-asiatica",
-        "seendate": "2026-07-15T05:00:46.000Z",
         "domain": "theguardian.com"
       }
     ]
