@@ -1,8 +1,16 @@
 window.NEWS_CACHE = {
-  "generatedAt": "2026-07-17T23:41:20.631Z",
+  "generatedAt": "2026-07-18T23:41:03.851Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
+      {
+        "title": "‘We are preserving a tradition’: how Ghana’s sensationalist film posters became collectible art",
+        "summary": "Hand-painted works are often wildly unfaithful to the movies they portray – reinterpretations that sometimes resulted in threats, insults and even physical attacks from viewers who felt dupedSitting on his porch in Teshie near Accra, Heavy J dipped a brush into red oil paint and dabbed it carefully on to his canvas – a flour sack – adding blood to a knife being wielded by a man. Higher on the canvas, he had",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/jul/18/ghana-sensationalist-film-posters-collectible-art",
+        "seendate": "2026-07-18T04:00:47.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Seven Americans quarantining at Kenya Ebola facility after US travel ban, says aid group",
         "summary": "Aid workers are first known people to quarantine at facility, which sparked huge opposition in Kenya Seven American aid workers who had been in Congo to fight the Ebola outbreak are quarantining at a new isolation facility in ⁠Kenya after the US government introduced travel ⁠restrictions, the head of a US charity ​employing them told Reuters.The aid workers are the first known people to quarantine at",
@@ -33,19 +41,19 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/news/2026/jul/16/morocco-intelligence-insider-reveals-widespread-use-hacking-software-pegasus",
         "seendate": "2026-07-16T04:30:13.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "How global heating supercharged floods in West Africa, displacing thousands",
-        "summary": "Adaptation to frightening new normal and reducing emissions further and faster is critical, scientists warnDozens of people drowned, hundreds had to be rescued and thousands were displaced when floods struck the coasts of west Africa last month.Now scientists have concluded that the rains that caused the floods were supercharged by climate breakdown. Global heating, they say, turned what should have",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/jul/16/how-global-heating-supercharged-floods-west-africa-displacing-thousands",
-        "seendate": "2026-07-16T00:01:08.000Z",
         "domain": "theguardian.com"
       }
     ],
     "conflict": [
       {
+        "title": "‘We are preserving a tradition’: how Ghana’s sensationalist film posters became collectible art",
+        "summary": "Hand-painted works are often wildly unfaithful to the movies they portray – reinterpretations that sometimes resulted in threats, insults and even physical attacks from viewers who felt dupedSitting on his porch in Teshie near Accra, Heavy J dipped a brush into red oil paint and dabbed it carefully on to his canvas – a flour sack – adding blood to a knife being wielded by a man. Higher on the canvas, he had",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/jul/18/ghana-sensationalist-film-posters-collectible-art",
+        "seendate": "2026-07-18T04:00:47.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Seven Americans quarantining at Kenya Ebola facility after US travel ban, says aid group",
         "summary": "Aid workers are first known people to quarantine at facility, which sparked huge opposition in Kenya Seven American aid workers who had been in Congo to fight the Ebola outbreak are quarantining at a new isolation facility in ⁠Kenya after the US government introduced travel ⁠restrictions, the head of a US charity ​employing them told Reuters.The aid workers are the first known people to quarantine at",
         "source": "theguardian.com",
@@ -76,59 +84,59 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/news/2026/jul/16/morocco-intelligence-insider-reveals-widespread-use-hacking-software-pegasus",
         "seendate": "2026-07-16T04:30:13.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "How global heating supercharged floods in West Africa, displacing thousands",
-        "summary": "Adaptation to frightening new normal and reducing emissions further and faster is critical, scientists warnDozens of people drowned, hundreds had to be rescued and thousands were displaced when floods struck the coasts of west Africa last month.Now scientists have concluded that the rains that caused the floods were supercharged by climate breakdown. Global heating, they say, turned what should have",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/jul/16/how-global-heating-supercharged-floods-west-africa-displacing-thousands",
-        "seendate": "2026-07-16T00:01:08.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "economy": [
       {
-        "title": "‘Laws were broken’: multistate effort to stop Paramount’s $111bn merger heads to court",
-        "summary": "Attorneys general from 12 states are suing to block the Paramount-Warner Bros deal they say violates antitrust lawA last-ditch effort to block the merger between Paramount Skydance and Warner Bros Discovery (WBD) is heading to court as 12 Democratic state attorneys general attempt to stop the $111bn deal they say violates antitrust law and reduces competition in both the film and cable television industries",
+        "title": "Andy Burnham considers radical shake-up to cut energy bills",
+        "summary": "Labour leader examining proposals to overhaul gas standing charges and make heat pumps cheaper to run than boilersAndy Burnham is considering radical plans that could cut household energy bills by £130 a year and make running a heat pump cheaper than a gas boiler.In his speech on Friday as he became the <a href=\"https://www.theguardian.com/politics/2026/jul/17/andy-burnham-becomes-labour-leader-final",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/media/2026/jul/17/paramount-warner-bros-merger",
-        "seendate": "2026-07-17T11:00:06.000Z",
+        "url": "https://www.theguardian.com/money/2026/jul/18/andy-burnham-cut-energy-bills-gas-heat-pumps",
+        "seendate": "2026-07-18T10:45:01.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "How do you actually shop local in New York City?",
-        "summary": "Shopping local ensures a future for cultures and communities, says Caroline Weaver, creator of the Locavore Guide digital directory When I signed the lease for my new apartment in Brooklyn, the relief of having survived the brutal New York City real estate market was short-lived when my next task became clear: I needed to furnish the place.My first instinct was to check everything off my list by shop",
+        "title": "Fifa to announce record $15bn World Cup revenue, smashing expectations",
+        "summary": "Hospitality and secondary ticket market help fuel riseGianni Infantino will feel this shores up his positionFifa will announce record $15bn (£11.2bn) revenues from this summer’s World Cup, significantly exceeding the targets set before the tournament.Fifa’s member associations were informed of the boost in income by Gianni Infantino on Saturday. Originally the govern",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jul/17/how-to-shop-local-nyc",
-        "seendate": "2026-07-17T12:00:07.000Z",
+        "url": "https://www.theguardian.com/football/2026/jul/18/fifa-record-15bn-world-cup-revenue",
+        "seendate": "2026-07-18T22:30:09.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Kalshi to offer betting on drug trial results and FDA regulatory decisions",
-        "summary": "Move comes as prediction platforms rapidly gain popularity and offer opportunities to bet on virtually anythingKalshi is expanding its wagers to include bets on drug trial results, an expansion into new predictions territory as platforms continue to rapidly gain popularity and offer opportunities to bet on virtually anything.The betting platform said the expansion into clinical trials and FDA regulat",
+        "title": "Wessex Water chief pockets above-inflation pay rise despite bonus ban over sewage spills",
+        "summary": "CEO’s pay packet surges to £791,000 as union says public ‘sick of obscene pay’ and bosses ‘feathering own nests’Wessex Water awarded its chief executive an above-inflation pay increase even as the company was banned from paying bonuses because of sewage spills, it has emerged.Ruth Jefferson received a 14% base salary increase in October, from £590,000 to £670,000, before other benefits, according to",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/jul/16/kalshi-betting-drug-trial-results",
-        "seendate": "2026-07-16T21:11:36.000Z",
+        "url": "https://www.theguardian.com/business/2026/jul/18/wessex-water-chief-pay-rise-bonus-ban",
+        "seendate": "2026-07-18T07:00:51.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "US gas prices edge up again as US-Iran tensions heighten over strait of Hormuz",
-        "summary": "Diesel tops $5 a gallon as regular gas reaches almost $4, nearly a dollar and a quarter more than a year agoThe average price of diesel fuel in the US has increased again to more than $5 a gallon, according to the AAA, and the average price of gas is almost $4, returning to their highs before the June memorandum of understanding between the US and <a href=\"https://ww",
+        "title": "London Underground users should know about toxic dust risk, whistleblower says",
+        "summary": "Former tube network cleaner says tribunal vindicated his health concerns, including about asbestos, that could affect publicA London Underground worker who was unfairly sacked after whistleblowing about his concerns over exposure to asbestos and other toxic dust has said he wants all tube passengers to know about the potential hazards his case has revealed.Micky Steeds, a former professional boxer fr",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/jul/16/us-gas-prices-rise-strait-of-hormuz",
-        "seendate": "2026-07-16T12:26:57.000Z",
+        "url": "https://www.theguardian.com/uk-news/2026/jul/18/london-underground-passengers-should-know-about-toxic-dust-risks-whistleblower-says",
+        "seendate": "2026-07-18T06:58:47.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Largest landlord in the US accused of civil rights violations",
-        "summary": "Fair housing complaints accuse Greystar of refusing to take tenants who use federal rent vouchersGreystar, the largest owner and manager of apartments in the US, systematically flouts local laws designed to make housing affordable to the poor, according to civil rights complaints filed with authorities in six states and the District of Columbia.The complaints – filed this week with government agencie",
+        "title": "Cuba edges toward breakdown as power cuts and US meddling push society to brink",
+        "summary": "As Cuba swelters under six-month oil blockade imposed by US, tempers are fraying and unrest is growingWhen Cuba’s national grid collapses, as it did for the third time in 10 days on Tuesday, a collective groan spreads across its cities and people wonder, again, whether the island’s antiquated electricity system may soon become unrecoverable.The 777-mile Caribbean island of 9.5 million people has been",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jul/16/greystar-landlord-civil-rights-violations",
-        "seendate": "2026-07-16T18:09:28.000Z",
+        "url": "https://www.theguardian.com/world/2026/jul/18/cuba-edges-toward-breakdown-as-power-cuts-and-us-meddling-push-society-to-brink",
+        "seendate": "2026-07-18T13:14:57.000Z",
         "domain": "theguardian.com"
       }
     ],
     "literature": [
+      {
+        "title": "Hagitude author Sharon Blackie: ‘At 60 I wasn’t ready to give up, I was just starting’",
+        "summary": "The writer of cult hit If Women Rose Rooted is on a mission to bring folklore to modern readers. She talks about confronting her fears, communing with nature – and the power that comes with ageLike many of the wise women in her books, Sharon Blackie lives miles from anyone. Hers is the only house on the road winding through a valley deep in&nbsp;the Yorkshire Dales. The River Eden runs along the bottom of h",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/jul/18/hagitude-author-sharon-blackie-at-60-i-wasnt-ready-to-give-up-i-was-just-starting",
+        "seendate": "2026-07-18T08:00:52.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Every year 6 student to be given Katherine Rundell book for Christmas",
         "summary": "More than 800,000 copies of Impossible Creatures will be distributed to year 6 and P6 children through The Queen’s Christmas Present initiativeEvery child in year 6 in England, Wales and Northern Ireland, and P6 in Scotland, will be given the bestselling book Impossible Creatures by Katherine Rundell this Christmas, to coincide with the end of the government’s National Year of Reading.Queen Camilla a",
@@ -160,139 +168,131 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/books/2026/jul/17/the-red-mouth-by-sheila-armstrong-review-profound-exploration-of-irelands-deep-time",
         "seendate": "2026-07-17T06:00:01.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "The best recent crime and thrillers – review roundup",
-        "summary": "The Runner by Scarlett Thomas; The Madman by Henning Mankell; Everything She Didn’t Say by Jane Casey; The Spy and the Snake by MJ Robotham; Murder at the End of the World by Akane ArakiThe Runner by Scarlett Thomas (Scribner, £16.99)</strong",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jul/17/the-best-recent-and-thrillers-review-roundup",
-        "seendate": "2026-07-17T11:00:06.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "entertainment": [
       {
-        "title": "Jill Scott review – joyous phones-free show is a taste of how all concerts should be",
-        "summary": "Kings Theatre, BrooklynThe queen of Philly soul is on phenomenal form in a saucy and effortlessly virtuosic show celebrating 26 years in musicAt one point during her triumphant phones-free show at Brooklyn’s Kings Theater, Jill Scott takes a moment to introduce Dwayne Wright,",
+        "title": "‘An overnight success after 25 years? Delicious’: Ted Lasso’s Hannah Waddingham on sexism, stunts and stardom at 51",
+        "summary": "The actor seemed destined for a long but unflashy career in musical theatre – until a role as a football club owner in the TV hit changed everything. She talks about her new Hollywood era, calling out misogyny and why she’s ‘more than just camp’Hannah Waddingham clears her throat. Her voice is a little scratchy. Two days before we meet, the star of Ted Lasso hosted the TV comedy show Saturday Night Live UK.",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/music/2026/jul/17/jill-scott-concert-review",
-        "seendate": "2026-07-17T16:09:31.000Z",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/jul/18/an-overnight-success-after-25-years-delicious-ted-lassos-hannah-waddingham-on-sexism-stunts-and-stardom-at-51",
+        "seendate": "2026-07-18T05:00:49.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Brenda Fricker, Oscar winner for My Left Foot, dies aged 81",
-        "summary": "The acclaimed Irish actor started her career in Coronation Street and Casualty before a string of high-profile Hollywood rolesBrenda Fricker, who became the first female Irish Oscar winner for acting with My Left Foot, has died aged 81. Her agent Phil Belfield told the BBC in a statement: “We will never see her like again and the world is lesser",
+        "title": "Pompeii: Out of Time With Tom Hiddleston – the tale of ordinary Romans’ hopeless heroism is tearjerking television",
+        "summary": "The Avengers star teams up with real-life scholars for a look at the eruption of Vesuvius. At points it’s elegiac and moving, at others it’s majestic and brutalIt’s always funny when documentaries strategically pair a possibly boring topic with a famous face, just to sex them up. A History of NCP Car Parks By Tinie Tempah, say, or World’s Deadliest Sleep Disorders With Anna Maxwell Martin. So when I saw tha",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/jul/17/brenda-fricker-oscar-winner-for-my-left-foot-dies",
-        "seendate": "2026-07-17T14:48:53.000Z",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/jul/18/pompeii-out-of-time-with-tom-hiddleston-tearjerking-television-disney",
+        "seendate": "2026-07-18T06:00:50.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Seth Meyers on Trump 2.0: ‘Every day is a constant stream of humiliation’",
-        "summary": "Late-night host criticised the Trump administration’s obsessions with testosterone and wet magnets as more important issues are ignoredSeth Meyers took aim at Donald Trump’s bizarre priorities and obsessions as many Americans continue to struggle with rising costs.On Late Night, the host said that despite the failing US economy, the president is instead “laser-focused” on “important stuff” such as “m",
+        "title": "Ann Droid review – Diane Morgan and Sue Johnston’s fresh, funny robot comedy is just wonderful",
+        "summary": "It’s silly, singular and occasionally tearjerking: this tale of a mechanical companion to an elderly widow is shot through with love and careThe home, warns Jamaican nurse Brianna (Michelle Greenidge), can be a “lethal” environment for elderly people. “You lucky like plucky you never smash your head on the corner of the coffee table, or land teeth first on the iron doorstep!” she says, fatalistically, as Su",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/culture/2026/jul/17/seth-meyers-trump-testosterone-magnets",
-        "seendate": "2026-07-17T14:29:47.000Z",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/jul/17/ann-droid-review-diane-morgan-sue-johnston-robot-comedy-bbc",
+        "seendate": "2026-07-17T21:00:39.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘It’s a spiritual experience’: docuseries goes behind the spectacular chaos of Burning Man",
-        "summary": "In HBO’s four-part series The Man Will Burn, the psychedelic, uber-expensive festival is granted a deep diveIn 1986, a group of starving artists seeking release amid a devastating economic downturn built an oversized wooden stick figure, hauled it on to a San Francisco beach and set it ablaze as police officers and passersby looked on in disbelief. Forty years later, Burning Man is the festival to end all f",
+        "title": "The Odyssey to Gracie Abrams: your complete entertainment guide to the week ahead",
+        "summary": "Matt Damon dons the sword and sandals in Christopher Nolan’s epic, while the LA singer-songwriter shares more arena-friendly scream-along anthemsThe OdysseyOut nowChristopher Nolan tackles one of the granddaddies of the western canon – Homer’s meaty tale of Odysseus (Matt Damon) and his long trip home after 10 years in the Trojan war. Also starring Robert Pattinson, Lupita",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/jul/17/hbo-burning-man-series",
-        "seendate": "2026-07-17T09:00:03.000Z",
+        "url": "https://www.theguardian.com/culture/2026/jul/18/entertainment-week-ahead-odyssey-latitude-festival-simon-amstell-undeclared-war",
+        "seendate": "2026-07-18T05:00:51.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "The Hunt for Gollum is being criticised for its all-white cast. Blaming Tolkien is the wrong answer",
-        "summary": "The Lord of the Rings author’s debt to Norse mythology is simply irrelevant when it comes to the appearance of hobbits and elves on screen todayCasting has come a long way since the early 1980s when it was somehow still acceptable to sign up Max von Sydow to play Ming the Merciless in Flash Gordon in 1980, or hire Peter Ustinov as the lead in Charlie Chan and the Curse of the Dragon Queen in 1981 (<a href=\"",
+        "title": "From Evolution to The Odyssey: the week in rave reviews",
+        "summary": "Chris Packham takes us back to the beginning in awe-inspiring fashion, while Christopher Nolan heads for Homer with a grand adaptation. Here’s the pick of the week’s culture, taken from the Guardian’s best-rated reviews Continue reading...",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/jul/17/hunt-for-gollum-criticised-white-cast-blaming-tolkien-wrong-answer-andy-serkis",
-        "seendate": "2026-07-17T12:59:16.000Z",
+        "url": "https://www.theguardian.com/culture/2026/jul/18/from-evolution-to-the-odyssey-the-week-in-rave-reviews",
+        "seendate": "2026-07-18T05:00:48.000Z",
         "domain": "theguardian.com"
       }
     ],
     "f1": [
       {
-        "title": "Lewis Hamilton has Michael Jordan mentality, says \"F1\" movie star Damson Idris",
-        "summary": "British actor Damson Idris has likened seven-time Formula 1 champion Lewis Hamilton to basketball icon Michael Jordan.Idris, who starred as rookie driver Joshua Pearce alongside Brad Pitt in F1 The Movie, recently appeared on the F1 Beyond The Grid podcast. Having spent two years immersed in the grand prix paddock, the actor forged a close relationship with Hamilton, who served as an executive ...<a clas",
+        "title": "Lewis Hamilton hailed as a \"legend\" after emotional fan interaction at F1 Belgian GP",
+        "summary": "Seven-time Formula 1 champion Lewis Hamilton has once again drawn widespread praise from fans after footage of a wholesome interaction with one of his avid supporters during the Belgian Grand Prix weekend surfaced online.The video, which recently gained traction on social media, shows the British driver taking time out to speak with a visibly emotional fan in the Spa-Francorchamps ...<a class='more' href",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/lewis-hamilton-has-michael-jordan-mentality-says-f1-movie-star-damson-idris/10839641/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-17T23:26:24.000Z",
+        "url": "https://www.motorsport.com/f1/news/lewis-hamilton-hailed-as-a-legend-after-emotional-fan-interaction-at-f1-belgian-gp/10839846/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-18T21:21:23.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Arvid Lindblad shares driving test update ahead of F1 Belgian GP",
-        "summary": "Arvid Lindblad joined the Racing Bulls Formula 1 team in 2026 at just 18 years old, but he has yet to pass his driving test.Speaking to beIN Sports ahead of the Belgian Grand Prix, the British driver shared an update on his progress towards gaining his driving licence after completing his first lesson.Lindblad believes he is ready to take his test after one lesson, so long as he keeps an ...<a class=",
+        "title": "Damson Idris teases \"exciting conversations\" over \"F1 The Movie\" sequel",
+        "summary": "F1 The Movie star Damson Idris has confirmed that \"exciting conversations\" are already taking place regarding a potential sequel for the Formula 1-based blockbuster.During an appearance on the F1 Beyond The Grid podcast, the British actor, who portrayed rookie driver Joshua Pearce alongside Brad Pitt as Sonny Hayes, opened up about the impact that the project has had on his life and ...<a class='more' hr",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/arvid-lindblad-shares-driving-test-update-ahead-of-f1-belgian-gp/10839638/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-17T22:22:01.000Z",
+        "url": "https://www.motorsport.com/f1/news/damson-idris-teases-exciting-conversations-over-f1-sequel/10840000/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-18T20:20:06.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Long-run analysis: Can anyone beat Kimi Antonelli in Belgium?",
-        "summary": "Championship leader Kimi ended Friday’s practice sessions in Belgium at the top of the timesheets. With a lap of 1:45.944, he finished 0.190 seconds ahead of McLaren’s Lando Norris, while Red Bull driver Max Verstappen was 0.472 seconds adrift in third. The Italian also set the benchmark during the high-fuel race simulations.After correcting the second free practice long-run data for ...<a class='more' h",
+        "title": "Lando Norris earns emotional praise from MotoGP icon Valentino Rossi",
+        "summary": "MotoGP legend Valentino Rossi has revealed his immense pride in Lando Norris following the British driver's Formula 1 championship victory.The motorcycle champion reflected on the F1 driver's journey during a joint appearance at the Goodwood Festival of Speed.Norris, who has openly idolised the Italian since his childhood, secured his maiden championship at the 2025 Abu Dhabi Grand Prix ...<a class='",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/long-run-analysis-can-anyone-beat-kimi-antonelli-in-belgium/10839636/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-17T22:09:39.000Z",
+        "url": "https://www.motorsport.com/f1/news/lando-norris-earns-emotional-praise-from-motogp-icon-valentino-rossi/10839996/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-18T19:45:26.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "\"We're not getting ahead of ourselves\" - Why Lando Norris was downbeat despite Belgium F1 practice pace",
-        "summary": "Practice pace on Friday at Spa-Francorchamps presented a more muddled picture than you would normally expect at what has traditionally been a ‘power' circuit. Nearly a full second separated the top six cars during their soft-tyre qualifying simulations during the second practice session, and only Lando Norris came within two tenths of the benchmark set by championship leader Kimi ...<a class='more' href='htt",
+        "title": "McLaren on Max Verstappen: ‘We’d need a third car for him’",
+        "summary": "There may be no concrete evidence that Max Verstappen is seriously considering joining McLaren for the 2027 Formula 1 season, but team principal Andrea Stella failed to unequivocally deny it on Saturday at the Belgian Grand Prix.Reports of mere informal talks between Verstappen and McLaren emerged at the Austrian Grand Prix, which was acknowledged by the team, but the rumours have only swelled ...<a clas",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/were-not-getting-ahead-of-ourselves-why-norris-was-downbeat-despite-practice-pace-in-belgium/10839588/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-17T19:00:09.000Z",
+        "url": "https://www.motorsport.com/f1/news/mclaren-on-max-verstappen-wed-need-a-third-car-for-him/10839973/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-18T19:07:12.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Alpine explains Pierre Gasly crash that red-flagged FP2",
-        "summary": "Alpine and Pierre Gasly have weighed in on the Frenchman’s crash at the end of Free Practice 2 ahead of Formula 1’s Belgian Grand Prix.The incident occurred in the final stages of Friday’s second session, as Gasly experienced a snap of oversteer at the exit of the Les Fagnes section. This narrowly sent him into the gravel and he clipped the outside barrier, which sent him into a spin and ...<a class='mor",
+        "title": "‘Only Oliver Bearman’s car works as it should’ - Esteban Ocon explains another Q1 knockout",
+        "summary": "For the fifth time in the last six Formula 1 grands prix, Esteban Ocon failed to make it through Q1 in qualifying, setting the 18th-fastest time – penalties will see him start from 17th on the grid.At the Belgian Grand Prix – the race that marked his Formula 1 debut just under 10 years ago, with the now-defunct Manor team – the Haas driver was once again soundly beaten in qualifying by ...<a class='more'",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/alpine-explains-pierre-gasly-crash-that-red-flagged-fp2/10839584/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-17T18:39:26.000Z",
+        "url": "https://www.motorsport.com/f1/news/eliminated-in-q1-again-ocon-resigned-the-car-thats-performing-normally-is-ollies/10839961/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-18T18:11:54.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
+      {
+        "title": "For years, survival games have convinced us that chopping down 400 trees is somehow part of the fantasy—Palworld proves them wrong",
+        "summary": "With a little help from my Pals.",
+        "source": "pcgamer.com",
+        "url": "https://www.pcgamer.com/games/survival-crafting/for-years-survival-games-have-convinced-us-that-chopping-down-400-trees-is-somehow-part-of-the-fantasy-palworld-proves-them-wrong/",
+        "seendate": "2026-07-18T14:00:00.000Z",
+        "domain": "pcgamer.com"
+      },
+      {
+        "title": "Valve reassures Team Fortress 2 players that it's still working on the Mann vs Machine update it announced last year: 'We promise we're making progress'",
+        "summary": "\"It's taking a lot longer to sort through the new content and changes than we'd originally anticipated.\"",
+        "source": "pcgamer.com",
+        "url": "https://www.pcgamer.com/games/fps/valve-reassures-team-fortress-2-players-that-its-still-working-on-the-mann-vs-machine-update-it-announced-last-year-we-promise-were-making-progress/",
+        "seendate": "2026-07-18T13:36:10.000Z",
+        "domain": "pcgamer.com"
+      },
+      {
+        "title": "Valve says there's no end in sight to the memory crisis, and prices are only going to increase: 'Honestly, it's still getting worse'",
+        "summary": "Retail availability is lagging bulk supply by \"at least three to six months\" according to a Valve engineer.",
+        "source": "pcgamer.com",
+        "url": "https://www.pcgamer.com/hardware/steam-machines/valve-says-theres-no-end-in-sight-to-the-memory-crisis-and-prices-are-only-going-to-increase-honestly-its-still-getting-worse/",
+        "seendate": "2026-07-18T10:03:29.000Z",
+        "domain": "pcgamer.com"
+      },
+      {
+        "title": "Fallout 5: Confirmed details (and speculation) about Bethesda's next post-nuclear RPG",
+        "summary": "Bethesda is finally returning to the irradiated wastes.",
+        "source": "pcgamer.com",
+        "url": "https://www.pcgamer.com/games/fallout/fallout-5-guide/",
+        "seendate": "2026-07-18T09:00:00.000Z",
+        "domain": "pcgamer.com"
+      },
       {
         "title": "Does anyone know how to drive this thing?",
         "summary": "It's increasingly looking like nobody remembers how videogames work—or cares to.",
         "source": "pcgamer.com",
         "url": "https://www.pcgamer.com/gaming-industry/does-anyone-know-how-to-drive-this-thing/",
         "seendate": "2026-07-17T22:23:03.000Z",
-        "domain": "pcgamer.com"
-      },
-      {
-        "title": "2 months after releasing Zero Parades, Studio ZA/UM is laying off employees: 'Its commercial performance has not enabled us to sustain a studio of our current size'",
-        "summary": "Up to 32 people will be put out of work.",
-        "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/rpg/2-months-after-releasing-zero-parades-studio-za-um-is-laying-off-employees-its-commercial-performance-has-not-enabled-us-to-sustain-a-studio-of-our-current-size/",
-        "seendate": "2026-07-17T21:56:29.000Z",
-        "domain": "pcgamer.com"
-      },
-      {
-        "title": "Hytale releases massive preview of upcoming content including 22 videos and 37 new images",
-        "summary": "Plus about 4,000 words!",
-        "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/survival-crafting/hytale-releases-massive-preview-of-upcoming-content-including-22-videos-and-37-new-images/",
-        "seendate": "2026-07-17T20:44:48.000Z",
-        "domain": "pcgamer.com"
-      },
-      {
-        "title": "Retiring Valve programmer says 'at least one' of the studio's beloved game modes was made in secret to avoid pushback from peers",
-        "summary": "Valve's mythical flat corporate structure might be somewhat less than 100% self-directed.",
-        "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/retiring-valve-programmer-says-at-least-one-of-the-studios-beloved-game-modes-was-made-in-secret-to-avoid-pushback-from-peers/",
-        "seendate": "2026-07-17T20:40:40.000Z",
-        "domain": "pcgamer.com"
-      },
-      {
-        "title": "How much RAM do you need for an 'ultimate gaming machine?' July in PC Gamer 10, 20, and 30 years ago",
-        "summary": "Here's what was happening in PC gaming in July 1996, 2006 and 2016.",
-        "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/how-much-ram-do-you-need-for-an-ultimate-gaming-machine-july-in-pc-gamer-10-20-and-30-years-ago/",
-        "seendate": "2026-07-17T20:24:16.000Z",
         "domain": "pcgamer.com"
       }
     ],
@@ -341,43 +341,43 @@ window.NEWS_CACHE = {
     ],
     "climate": [
       {
-        "title": "More Canadian wildfire smoke shrouds US midwest, mid-Atlantic and north-east",
-        "summary": "109 million people face another day of poor air quality as smoke from blazes in Ontario drifts over the USSign up for the Break",
+        "title": "‘It’s only going to get worse’: wildfires forcing firefighters to make impossible choices",
+        "summary": "As the climate crisis fuels more intense blazes, pushing them to new parts of the world, those tackling them are forced to ration resources and decide which to fightCésar Alcaraz had only just become a firefighter in the late 1990s when he found himself ambushed by a fast-moving blaze. Barely able to breathe and with no more water left in his truck, he and his colleagues fled an inferno ravaging Spain’s Mon",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jul/17/canada-wildfire-smoke-midwest-mid-atlantic-north-east",
-        "seendate": "2026-07-17T20:31:59.000Z",
+        "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/18/the-impossible-choices-of-a-deadly-wildfire-season",
+        "seendate": "2026-07-18T15:24:42.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "California braces for its sharkiest summer in a decade – but experts say don’t panic",
-        "summary": "Young great white sharks are returning in large numbers, but researchers say humans are not on the menuSurfers, swimmers and fishermen across California will be sharing the waves with an influx of visitors this summer: young great white sharks.Juvenile white sharks are already appearing along the coastline, fleeing warmer than usual waters",
+        "title": "Country diary: Breeding ferrets is a wonderfully chaotic business | Michael White",
+        "summary": "Cranbrook, Kent: Right now the young are hellbent on seeking adventure, much to the dismay of their mothersProgression through the country year here is not marked by numbers on paper or buzzing phone notifications, but by the burning chill of a first frost in the nostrils, the scent of southern climes on our native breeze or, sometimes, a barely perceptible squeal emanating from my shed. I",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/2026/jul/17/california-sharks-spike",
-        "seendate": "2026-07-17T10:00:04.000Z",
+        "url": "https://www.theguardian.com/environment/2026/jul/18/country-diary-breeding-ferrets-is-a-wonderfully-chaotic-business",
+        "seendate": "2026-07-18T04:30:48.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Climate change driving more rains that lead to deadly flash floods, experts say",
-        "summary": "Over the last month, states across the country have experienced record rainfall and flash floodingClimate change is driving increasingly common bouts of heavy rain in the US that cause deadly and damaging flash floods that will only become more frequent and intense as the crisis worsens, experts say.A year after deadly flooding in central Texas that swept through a children’s summer camp, the state a",
+        "title": "Jackdaw gasfield would create only 27 direct full-time jobs, documents show",
+        "summary": "Campaigners say field will bring minimal benefit for UK economy, as industry lobbies Burnham for go-aheadMore people can fit on to the top deck of a standard London bus than will be directly employed on the new Jackdaw gasfield in the North Sea, industry documents show.Only 27 direct full-time jobs would be created by <a href=\"https://www.theguardian.com/environment/2026/apr/04/new-north-sea-drilling",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jul/17/climate-change-rains-flash-floods",
-        "seendate": "2026-07-17T10:00:04.000Z",
+        "url": "https://www.theguardian.com/business/2026/jul/17/jackdaw-gasfield-north-sea-drilling-andy-burnham",
+        "seendate": "2026-07-17T12:30:23.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘I’ve never worked with so many conservatives’: the Texans fighting the Big Bend border wall",
-        "summary": "Residents across party lines say Trump’s proposed wall threatens their homes, livelihoods and wilderness along the Rio GrandeLast February, 41-year-old Molly Walker posted an Instagram story: a photo of herself standing in the desert, sunglasses hooked over the front of her shirt, jeans slung low beneath her exposed midriff. She held a protest sign fashioned from a pizza box, a hand-drawn heart framing the",
+        "title": "Southern Water fined £7m after illegally dumping sewage off Kent coast",
+        "summary": "Firm pleaded guilty to 13 offences over discharges at Margate and Broadstairs wastewater pumping stationsSouthern Water has been fined more than £7m after illegally dumping sewage off the Kent coast between 2019 and 2021.The company, described by the judge as having a “record of criminality” that was “an exceptionally serious aggravating factor”, pleaded guilty to 13 offences at Medway magistrates co",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jul/15/big-bend-wall-texas-bipartisan",
-        "seendate": "2026-07-15T13:00:55.000Z",
+        "url": "https://www.theguardian.com/environment/2026/jul/17/southern-water-fined-7m-dumping-sewage-kent-coast",
+        "seendate": "2026-07-17T14:56:01.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Surviving extreme heat increasingly boils down to this: access to air conditioning | Mark Wolfe",
-        "summary": "The next great climate divide will be between countries that have the resources to adapt and those that don’tThis summer, much of the media’s attention has focused on record temperatures across Europe and the United States. Television coverage has been filled with familiar images: heat maps shaded deep red, schools closing, rail lines slowing, wildfires spreading and emergency rooms treating growing numbers",
+        "title": "Biodiversity fears as human-bred hybrid fish integrate into Philippines lake",
+        "summary": "Escaped flowerhorn cichlids are causing concern for native species and about parasites capable of infecting humansEscaped ornamental aquarium fish have integrated into a local ecosystem in the Philippines, but scientists say they may be threatening the native biodiversity of the lake.Flowerhorn cichlids – human-bred hybrid fish prized for their bright-gold colour and prominent head humps – are believ",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/commentisfree/2026/jul/15/air-conditioning-access-extreme-heat",
-        "seendate": "2026-07-15T12:00:55.000Z",
+        "url": "https://www.theguardian.com/environment/2026/jul/17/biodiversity-fears-flowerhorn-cichlids-philippines-lake",
+        "seendate": "2026-07-17T14:00:31.000Z",
         "domain": "theguardian.com"
       }
     ],
