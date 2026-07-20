@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T23:45:13.011Z",
+  "generatedAt": "2026-07-20T23:45:18.070Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
@@ -130,6 +130,191 @@
     ],
     "literature": [
       {
+        "title": "A Sudden Flicker of Light by David Thomson review – a brilliantly eccentric history of the movies",
+        "summary": "From the golden age of Hollywood to harder times today, this is a rapturous account of more than a century of cinemaFilm critic, historian and author of more than 40 books, David Thomson is back with another three-hour free jazz solo on the subject of the movies, though it’s a performance delivered with the magnificent elan of a 1940s big band leader. He’s as brilliant, eccentric, exasperating and absorbing",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/jul/20/a-sudden-flicker-of-light-by-david-thomson-review-a-brilliantly-eccentric-history-of-the-movies",
+        "seendate": "2026-07-20T06:00:49.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Yellow Pine by Claire Vaye Watkins review – messy portrait of protest subculture",
+        "summary": "Watkins should have been the ideal writer for this sympathetic take on new age spirituality and desert eco-activism – but the results are confusingRose, the protagonist of Claire Vaye Watkins’s latest novel, has retreated from the world to live in Nothingness Flats, a cinder-block cabin in the Nevada desert. On indefinite leave from her job at an environmental organisation, Rose works on her Al-Anon recover",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/jul/20/yellow-pine-by-claire-vaye-watkins-review-messy-portrait-of-protest-subculture",
+        "seendate": "2026-07-20T08:00:50.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Tell us: what have you been reading this month?",
+        "summary": "We would like to hear about the books you’ve particularly enjoyed this monthAs part of The Guardian’s “what we’re reading” series, we would like to hear about the books you’ve particularly enjoyed this month.Have you read a book in recent weeks – fiction or non-fiction – that you’d recommend? Tell us all about it below. <a",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2022/feb/23/tell-us-what-have-you-been-reading-this-month",
+        "seendate": "2026-07-20T12:44:13.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Sphinxes, movie stars and 3m books: inside Los Angeles’s beloved art deco library",
+        "summary": "The showcase library’s centenary was celebrated by thousands who filled the still-relevant public institutionThe central library in downtown Los Angeles has seen its fair share of colorful moments.The architectural gem, which turned 100 this week, has been the backdrop to the epic street battle between Pacino, De Niro et al in Heat, and wa",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/jul/19/los-angeles-central-libarary-centenary",
+        "seendate": "2026-07-19T12:00:27.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Could AI be conscious?",
+        "summary": "Experts believe it’s at least possible. We urgently need a plan to navigate the ethical implicationsIn January, the AI company Anthropic published a new constitution for Claude, its most advanced large language model (LLM), which contained the comment: “We are caught in a difficult position where we neither want&nbsp;to&nbsp;overstate the likelihood of Cl",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/jul/19/could-ai-be-conscious",
+        "seendate": "2026-07-19T11:00:25.000Z",
+        "domain": "theguardian.com"
+      }
+    ],
+    "entertainment": [
+      {
+        "title": "Judge orders pause on Paramount-Warner merger after challenge from 12 states",
+        "summary": "$81bn merger halted for at least two weeks after US states sued to block deal, saying it would ‘extinguish competition’A federal judge on Monday ordered Paramount and Warner Bros Discovery to halt their $81bn merger for at least two weeks, allowing states that are <a href=\"https://www",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/film/2026/jul/20/judge-pause-paramount-warner-bros-merger",
+        "seendate": "2026-07-20T18:03:21.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Avengers: Doomsday trailer reveals star-packed Marvel adventure",
+        "summary": "The first full look at the big-budget December tentpole features returning heroes such as Chris Hemsworth, Patrick Stewart, Florence Pugh and Chris EvansThe first full trailer for Avengers: Doomsday has been released online offering a look at Marvel’s big-budget big hope.“Something’s coming, something we may not be able to deter,” is the first line heard in the new preview which proceeds to bring bac",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/film/2026/jul/20/avengers-doomsday-trailer",
+        "seendate": "2026-07-20T14:17:20.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Toronto film festival: Helen Mirren, Chris Rock and Seth Rogen lead lineup",
+        "summary": "The 51st edition of the Canadian festival will also feature world premieres starring Taron Egerton, Amanda Seyfried and Chase InfinitiWorld premieres of films led by Helen Mirren, Seth Rogen and Chris Rock lead the lineup for this year’s Toronto film festival.The September festival, taking place after the Venice film festival, has pre",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/film/2026/jul/20/toronto-film-festival-helen-mirren-chris-rock-seth-rogen",
+        "seendate": "2026-07-20T14:00:43.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Acting the fool: why have Hollywood press tours become so gimmicky?",
+        "summary": "From playing would you rather to ranking snacks, A-listers navigating the promo trail are now forced on a set schedule of sillinessThis summer, we’ve been blessed with new movies from the legendary director Steven Spielberg and one of his biggest and most beloved successors, Christopher Nolan. In both cases, the movies have been heavily sold on the directors’ names, and, befitting two of the most famous fil",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/film/2026/jul/20/hollywood-press-tours-gimmicky",
+        "seendate": "2026-07-20T10:00:54.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "‘We didn’t want him to be punchable!’: Matthew Broderick and Alan Ruck on Ferris Bueller’s Day Off",
+        "summary": "‘Alan and I have neat hair because we’d both just been in a military play. If we’d had crazy 1980s mullets, it wouldn’t have become a timeless classic’I’d done WarGames and Ladyhawke and was getting sent a lot of “young guy” parts. I was a little concerned at first because Ferris talks to the audience – I’d done that in two plays and didn’t want to it to seem like that’s all I could do. Meanwhile, my agent",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/culture/2026/jul/20/matthew-broderick-alan-ruck-on-ferris-buellers-day-off",
+        "seendate": "2026-07-20T12:58:17.000Z",
+        "domain": "theguardian.com"
+      }
+    ],
+    "f1": [
+      {
+        "title": "Liam Lawson and Arvid Lindblad surprise fans on easyJet flight after Belgian GP",
+        "summary": "Following the Belgian Grand Prix, Racing Bulls team-mates Liam Lawson and Arvid Lindblad were spotted returning home on an easyJet flight.Formula 1 is typically associated with luxury travel, VIP hospitality and private jets. But the Racing Bulls pair opted for a more budget-friendly option after the race at Spa-Francorchamps.Lawson shared a selfie alongside his rookie team-mate on his ...<a class='m",
+        "source": "motorsport.com",
+        "url": "https://www.motorsport.com/f1/news/liam-lawson-and-arvid-lindblad-surprise-fans-on-easyjet-flight-after-belgian-gp/10840563/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-20T16:02:34.000Z",
+        "domain": "motorsport.com"
+      },
+      {
+        "title": "What makes Kimi Antonelli such a good F1 driver now, as per Toto Wolff",
+        "summary": "What a difference a year makes. Twelve months ago at Spa-Francorchamps, a teary-eyed Kimi Antonelli struggled to maintain his composure in the media pen, amid an ordeal of a sprint weekend where he was twice out in Q1 and finished both races well down the order.Now, Antonelli is Italy’s second-most successful driver in Formula 1 history, having triumphed in Sunday’s Belgian Grand Prix – ...<a class='more",
+        "source": "motorsport.com",
+        "url": "https://www.motorsport.com/f1/news/what-makes-kimi-antonelli-such-a-good-f1-driver-now-as-per-toto-wolff/10840482/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-20T15:02:20.000Z",
+        "domain": "motorsport.com"
+      },
+      {
+        "title": "Ferrari should have signed Gianpiero Lambiase for Lewis Hamilton, says F1 broadcaster",
+        "summary": "Formula 1 broadcaster and host of the official press conferences Tom Clarkson believes Ferrari missed a trick by not signing Gianpiero Lambiase to work alongside seven-time champion Lewis Hamilton, describing the engineer as the ideal \"buffer\" for the British driver.Hamilton endured a frustrating Belgian Grand Prix at Spa-Francorchamps. Although he recovered to finish fourth, his race was ...<a class='mo",
+        "source": "motorsport.com",
+        "url": "https://www.motorsport.com/f1/news/ferrari-should-have-signed-gianpiero-lambiase-for-lewis-hamilton-says-f1-broadcaster/10840555/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-20T14:53:54.000Z",
+        "domain": "motorsport.com"
+      },
+      {
+        "title": "George Russell told \"low\" moments are \"really good thing for him\" after Belgian GP blow",
+        "summary": "Former Formula 1 driver Juan Pablo Montoya believes George Russell's difficult 2026 campaign will ultimately benefit him in the long term.Russell suffered another retirement at the Belgian Grand Prix at Spa-Francorchamps after an opening-lap clash with seven-time champion Lewis Hamilton. In addition to the collision, which left him beached in the gravel, Russell had already encountered an ...<a class='mo",
+        "source": "motorsport.com",
+        "url": "https://www.motorsport.com/f1/news/george-russell-told-low-moments-are-really-good-thing-for-him-after-belgian-gp-blow/10840543/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-20T14:20:34.000Z",
+        "domain": "motorsport.com"
+      },
+      {
+        "title": "McLaren: Lando Norris had outright pace for second in F1 Belgian GP",
+        "summary": "McLaren team principal Andrea Stella said his team has been positively surprised by its pace in the Formula 1 Belgian Grand Prix, feeling seventh-placed Lando Norris could have finished second without his grid penalty.Norris took a 10-place grid drop after taking a new Mercedes battery for the Spa weekend, exceeding his allowance for the year due to previous reliability issues.While ...<a class='more",
+        "source": "motorsport.com",
+        "url": "https://www.motorsport.com/f1/news/mclaren-lando-norris-had-outright-pace-for-second-in-f1-belgian-gp/10840468/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-20T14:00:29.000Z",
+        "domain": "motorsport.com"
+      }
+    ],
+    "sims": [
+      {
+        "title": "Ubisoft promises Ghost Recon news in August, and if you're hoping that means an update on the Splinter Cell remake then I admire your optimism but sorry, no",
+        "summary": "A week after cautioning fans about a \"quieter year\" in new game releases, Ubisoft is teasing an update to mark the series' 25th anniversary.",
+        "source": "pcgamer.com",
+        "url": "https://www.pcgamer.com/games/third-person-shooter/ubisoft-promises-ghost-recon-news-in-august-and-if-youre-hoping-that-means-an-update-on-the-splinter-cell-remake-then-i-admire-your-optimism-but-sorry-no/",
+        "seendate": "2026-07-20T21:58:21.000Z",
+        "domain": "pcgamer.com"
+      },
+      {
+        "title": "There's a dinosaur soulslike launching on Steam this week where you're a spinosaurus swinging a greatsword with your mouth who just might be able to parry the meteor",
+        "summary": "Just in case that's of interest to you.",
+        "source": "pcgamer.com",
+        "url": "https://www.pcgamer.com/games/action/theres-a-dinosaur-soulslike-launching-on-steam-this-week-where-youre-a-spinosaurus-swinging-a-greatsword-with-your-mouth-who-just-might-be-able-to-parry-the-meteor/",
+        "seendate": "2026-07-20T21:19:50.000Z",
+        "domain": "pcgamer.com"
+      },
+      {
+        "title": "Jennifer English, star of Baldur's Gate 3 and Clair Obscur: Expedition 33, leaves Tides of Annihilation lead role",
+        "summary": "English, who won a BAFTA award for her work on Clair Obscur in 2026, says the decision was difficult but \"personally necessary.\"",
+        "source": "pcgamer.com",
+        "url": "https://www.pcgamer.com/games/jennifer-english-star-of-baldurs-gate-3-and-clair-obscur-expedition-33-leaves-tides-of-annihilation-lead-role/",
+        "seendate": "2026-07-20T20:18:50.000Z",
+        "domain": "pcgamer.com"
+      },
+      {
+        "title": "FBI arrests 21-year-old who allegedly stole $200,000 with malware-infected Steam games and spent the money on traceable UberEats gift cards",
+        "summary": "Alleged cybercriminals have to eat, too.",
+        "source": "pcgamer.com",
+        "url": "https://www.pcgamer.com/gaming-industry/fbi-arrests-21-year-old-who-allegedly-stole-usd200-000-with-malware-infected-steam-games-and-spent-the-money-on-traceable-ubereats-gift-cards/",
+        "seendate": "2026-07-20T20:18:45.000Z",
+        "domain": "pcgamer.com"
+      },
+      {
+        "title": "Steam's Train Fest sale means all 790 pieces of Train Simulator Classic DLC can be yours for a mere $6,993 instead of $15,621",
+        "summary": "Choo-choo-choose savings!",
+        "source": "pcgamer.com",
+        "url": "https://www.pcgamer.com/games/sim/steams-train-fest-sale-means-all-790-pieces-of-train-simulator-classic-dlc-can-be-yours-for-a-mere-usd6-993-instead-of-usd15-621/",
+        "seendate": "2026-07-20T19:49:05.000Z",
+        "domain": "pcgamer.com"
+      }
+    ],
+    "new-tech-products": [],
+    "technology": [
+      {
+        "title": "Jeff Bezos and UK government invest in £2bn British startup CuspAI",
+        "summary": "Company aims to develop AI software that cuts research times and use of rare metals in chipmakers’ supply chainsBusiness live – latest updatesAmazon’s founder, Jeff Bezos, and the UK government have invested in a £2bn British arti",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/jul/20/jeff-bezos-uk-government-invest-in-2bn-british-startup-cuspai",
+        "seendate": "2026-07-20T08:37:52.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Experts warn of rise in sadistic online exploitation of vulnerable children",
+        "summary": "Global increase in cases of predators coercing children to harm themselves or produce child sexual abuse materialCases of predators coercing children into producing sexual photos and videos of themselves have surged globally in the past year, a cruel phenomenon known as “sadistic online exploitation”, child safety experts and law enforcement officials warn.In cases of sadistic online exploitation, pe",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/jul/20/online-exploitation-children-warning",
+        "seendate": "2026-07-20T11:00:03.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Could AI be conscious?",
         "summary": "Experts believe it’s at least possible. We urgently need a plan to navigate the ethical implicationsIn January, the AI company Anthropic published a new constitution for Claude, its most advanced large language model (LLM), which contained the comment: “We are caught in a difficult position where we neither want&nbsp;to&nbsp;overstate the likelihood of Cl",
         "source": "theguardian.com",
@@ -138,288 +323,103 @@
         "domain": "theguardian.com"
       },
       {
-        "title": "Hagitude author Sharon Blackie: ‘At 60 I wasn’t ready to give up, I was just starting’",
-        "summary": "The writer of cult hit If Women Rose Rooted is on a mission to bring folklore to modern readers. She talks about confronting her fears, communing with nature – and the power that comes with ageLike many of the wise women in her books, Sharon Blackie lives miles from anyone. Hers is the only house on the road winding through a valley deep in&nbsp;the Yorkshire Dales. The River Eden runs along the bottom of h",
+        "title": "AI-altered images on birdwatching forums putting research at risk",
+        "summary": "Experts warn increase in enhanced photos on birding platforms creating fake sightings, threatening credibility of tool used by scientistsFor many birdwatchers, recording a species outside its normal range is the holy grail. In the UK, the discoveries often make national headlines. The western reef heron, for example, usually found in Africa and southern Europe, <a href=\"https://www.theguardian.com/environme",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jul/18/hagitude-author-sharon-blackie-at-60-i-wasnt-ready-to-give-up-i-was-just-starting",
-        "seendate": "2026-07-18T08:00:52.000Z",
+        "url": "https://www.theguardian.com/environment/2026/jul/20/ai-slop-manipulated-fake-images-birds-citizen-science-aoe",
+        "seendate": "2026-07-20T04:00:45.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Every year 6 student to be given Katherine Rundell book for Christmas",
-        "summary": "More than 800,000 copies of Impossible Creatures will be distributed to year 6 and P6 children through The Queen’s Christmas Present initiativeEvery child in year 6 in England, Wales and Northern Ireland, and P6 in Scotland, will be given the bestselling book Impossible Creatures by Katherine Rundell this Christmas, to coincide with the end of the government’s National Year of Reading.Queen Camilla a",
+        "title": "UK tech advocates alarmed by Burnham plan to scrap technology department",
+        "summary": "MPs and industry experts say potential reorganisation will waste time at critical moment for AI and economic growthAndy Burnham’s plan to scrap the government’s technology department has triggered an angry backlash from MPs, Whitehall officials and tech experts.The incoming prime minister has asked officials to draw up plans to a",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jul/17/every-year-6-student-to-be-given-katherine-rundell-book-for-christmas",
-        "seendate": "2026-07-17T16:51:24.000Z",
+        "url": "https://www.theguardian.com/politics/2026/jul/18/burnham-plan-to-scrap-technology-department-triggers-backlash",
+        "seendate": "2026-07-18T13:42:43.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Andrew Motion: ‘Wilfred Owen became a kind of sacred text for me’",
-        "summary": "The former poet laureate on growing up with Lawrence Durrell, rereading Henry James and getting to grips with the genius of Alexander PopeMy earliest reading&nbsp;memory My parents were country people who thought that looking after or chasing animals was more fun than reading: my father used to say that he’d read half a book in his life (The Lonely Skier by Hammond Innes), and while my",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jul/17/andrew-motion-wilfred-owen-became-a-kind-of-sacred-text-for-me",
-        "seendate": "2026-07-17T09:00:05.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "‘No stuffy vibes … just good books’: Matt Haig to open bookshop in Brighton",
-        "summary": "‘My belief, as someone who grew up in a town without a bookshop, is that all communities should have one,’ says author of The Midnight LibraryMatt Haig, the bestselling author of titles including The Midnight Library and <a href=\"https://www.theguardian.com/books/2016/jan",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jul/17/matt-haig-bookshop-brighton",
-        "seendate": "2026-07-17T12:29:59.000Z",
-        "domain": "theguardian.com"
-      }
-    ],
-    "entertainment": [
-      {
-        "title": "Jill Scott review – joyous phones-free show is a taste of how all concerts should be",
-        "summary": "Kings Theatre, BrooklynThe queen of Philly soul is in phenomenal form in a saucy and effortlessly virtuosic show celebrating 26 years in musicAt one point during her triumphant phones-free show at Brooklyn’s Kings Theater, Jill Scott takes a moment to introduce Dwayne Wright,",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/music/2026/jul/17/jill-scott-concert-review",
-        "seendate": "2026-07-17T16:09:31.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Brenda Fricker, Oscar winner for My Left Foot, dies aged 81",
-        "summary": "The acclaimed Irish actor started her career in Coronation Street and Casualty before a string of high-profile Hollywood rolesBrenda Fricker, who became the first female Irish Oscar winner for acting with My Left Foot, has died aged 81. Her agent Phil Belfield told the BBC in a statement: “We will never see her like again and the world is lesser",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/jul/17/brenda-fricker-oscar-winner-for-my-left-foot-dies",
-        "seendate": "2026-07-17T14:48:53.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Seth Meyers on Trump 2.0: ‘Every day is a constant stream of humiliation’",
-        "summary": "Late-night host criticised the Trump administration’s obsessions with testosterone and wet magnets as more important issues are ignoredSeth Meyers took aim at Donald Trump’s bizarre priorities and obsessions as many Americans continue to struggle with rising costs.On Late Night, the host said that despite the failing US economy, the president is instead “laser-focused” on “important stuff” such as “m",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/culture/2026/jul/17/seth-meyers-trump-testosterone-magnets",
-        "seendate": "2026-07-17T14:29:47.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "‘It’s a spiritual experience’: docuseries goes behind the spectacular chaos of Burning Man",
-        "summary": "In HBO’s four-part series The Man Will Burn, the psychedelic, uber-expensive festival is granted a deep diveIn 1986, a group of starving artists seeking release amid a devastating economic downturn built an oversized wooden stick figure, hauled it on to a San Francisco beach and set it ablaze as police officers and passersby looked on in disbelief. Forty years later, Burning Man is the festival to end all f",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/jul/17/hbo-burning-man-series",
-        "seendate": "2026-07-17T09:00:03.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "The Hunt for Gollum is being criticised for its all-white cast. Blaming Tolkien is the wrong answer",
-        "summary": "The Lord of the Rings author’s debt to Norse mythology is simply irrelevant when it comes to the appearance of hobbits and elves on screen todayCasting has come a long way since the early 1980s when it was somehow still acceptable to sign up Max von Sydow to play Ming the Merciless in Flash Gordon in 1980, or hire Peter Ustinov as the lead in Charlie Chan and the Curse of the Dragon Queen in 1981 (<a href=\"",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/jul/17/hunt-for-gollum-criticised-white-cast-blaming-tolkien-wrong-answer-andy-serkis",
-        "seendate": "2026-07-17T12:59:16.000Z",
-        "domain": "theguardian.com"
-      }
-    ],
-    "f1": [
-      {
-        "title": "Kimi Antonelli champagne bottle message earns praise after F1 Belgian GP win",
-        "summary": "Mercedes driver Kimi Antonelli celebrated his Belgian Grand Prix victory with a public birthday message for his father, Marco.Antonelli, who started from pole position, secured his sixth win of the season at Spa-Francorchamps after fending off Ferrari's Charles Leclerc. Following his post-race interview, the 19-year-old signed the bottle of Moët & Chandon champagne with the message, \"Happy ...<a class='m",
-        "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/kimi-antonelli-champagne-bottle-message-goes-viral-after-f1-belgian-gp-win/10840366/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-19T22:23:49.000Z",
-        "domain": "motorsport.com"
-      },
-      {
-        "title": "Winners and loser from F1's Belgian Grand Prix",
-        "summary": "One week on from Kimi Antonelli hitting trouble and George Russell being brought back into the fight, the tables turned once more in the Ardennes hills. Meanwhile, some of Mercedes' closest rivals all turned up with improved performance to add a little zest to the 2026 season.Read Also:Formula 1F1 Belgian GP: Kimi Antonelli takes sixth 2026 win as George Russell crashes ...<a class='more' hre",
-        "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/winners-and-loser-from-f1s-belgian-grand-prix/10840357/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-19T19:19:52.000Z",
-        "domain": "motorsport.com"
-      },
-      {
-        "title": "Isack Hadjar lauded after impressive Red Bull recovery at F1 Belgian GP",
-        "summary": "Bernie Collins and Karun Chandhok have praised Red Bull's Isack Hadjar after a stellar weekend at the Belgian Grand Prix.The Sky Sports Formula 1 pundits applauded the French-Algerian driver for being the ultimate team player in qualifying and his charge from the back of the grid to finish sixth in the race.Entering the 10th round of the 2026 season at Spa-Francorchamps, Hadjar faced a ...<a class='m",
-        "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/isack-hadjar-lauded-after-impressive-red-bull-recovery-at-f1-belgian-gp/10840352/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-19T18:31:28.000Z",
-        "domain": "motorsport.com"
-      },
-      {
-        "title": "\"Kimi can buy me dinner.\" Valtteri Bottas jokes about his part in Antonelli’s Belgian GP win",
-        "summary": "Negotiating traffic is a fact of life in Formula 1 racing, all the more so given the current pace differential between the front and back of the grid in a new regulatory era.It was especially unfortunate for Charles Leclerc to be locked in a battle for the lead of the Belgian Grand Prix when he came up to lap one of the slowest cars on the grid – in a particularly awkward location on ...<a class='more' h",
-        "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/kimi-can-buy-me-dinner-valtteri-bottas-jokes-about-his-part-in-antonellis-belgian-gp-win/10840347/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-19T18:23:42.000Z",
-        "domain": "motorsport.com"
-      },
-      {
-        "title": "All Mercedes cars struggled with power issue at Belgian GP start, reveals Toto Wolff",
-        "summary": "Mercedes Formula 1 chief Toto Wolff revealed all Mercedes powered cars suffered with a lack of energy deployment at the Belgian Grand Prix start, with George Russell the biggest victim of an unknown battery glitch.Russell started third at Spa-Francorchamps but soon fell back into the pack on the Kemmel straight as he lacked battery charge from Eau Rouge onwards, suffering a charging issue ...<a class='mo",
-        "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/all-mercedes-cars-struggled-with-power-issue-at-belgian-gp-start-reveals-toto-wolff/10840329/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-19T17:49:02.000Z",
-        "domain": "motorsport.com"
-      }
-    ],
-    "sims": [
-      {
-        "title": "Riot quickly backpedals on paid old-school skins in League of Legends Classic after backlash",
-        "summary": "\"Let's talk about the elephant on the rift.\"",
-        "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/moba/riot-quickly-backpedals-on-paid-old-school-skins-in-league-of-legends-classic-after-backlash/",
-        "seendate": "2026-07-19T17:25:05.000Z",
-        "domain": "pcgamer.com"
-      },
-      {
-        "title": "Cliff Bleszinski says ego played a role in LawBreakers' failure: 'People are loyal to the game, but they're not necessarily loyal to the person'",
-        "summary": "\"I wanted it to be my show, and that was the first step of my ego creeping in right there.\"",
-        "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/fps/cliff-bleszinski-says-ego-played-a-role-in-lawbreakers-failure-people-are-loyal-to-the-game-but-theyre-not-necessarily-loyal-to-the-person/",
-        "seendate": "2026-07-19T17:23:49.000Z",
-        "domain": "pcgamer.com"
-      },
-      {
-        "title": "What's the best summer-themed videogame track?",
-        "summary": "Get your ukuleles and steel pan drums at the ready.",
-        "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/whats-the-best-summer-themed-videogame-track/",
-        "seendate": "2026-07-19T17:00:00.000Z",
-        "domain": "pcgamer.com"
-      },
-      {
-        "title": "'The mid-2000s was the golden era of first-person shooters': David Szymanski, creator of Dusk and Iron Lung, discusses the games on his PC",
-        "summary": "The New Blood dev guides us through the games in his Steam library.",
-        "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/the-mid-2000s-was-the-golden-era-of-first-person-shooters-david-syzmankski-creator-of-dusk-and-iron-lung-discusses-the-games-on-his-pc/",
-        "seendate": "2026-07-19T15:00:00.000Z",
-        "domain": "pcgamer.com"
-      },
-      {
-        "title": "God of War Laufey star Deborah Ann Woll isn't phased by the negative reactions to its announcement: 'I feel totally unbothered'",
-        "summary": "\"I just know it's great.\"",
-        "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/action/god-of-war-laufey-star-deborah-ann-woll-isnt-phased-by-the-negative-reactions-to-its-announcement-i-feel-totally-unbothered/",
-        "seendate": "2026-07-19T13:41:41.000Z",
-        "domain": "pcgamer.com"
-      }
-    ],
-    "new-tech-products": [],
-    "technology": [
-      {
-        "title": "Walmart reshuffles leadership with new US COO appointment",
-        "summary": "Walmart said on July 17 that Kieran Shanahan, chief operating officer of its U.S. operations, is leaving the company and will be succeeded by Kyle Kinnard, the current chief operating officer of its international division",
-        "source": "milwaukeesun.com",
-        "url": "http://www.milwaukeesun.com/news/279194616/walmart-reshuffles-leadership-with-new-us-coo-appointment",
-        "seendate": "20260719T233000Z",
-        "domain": "milwaukeesun.com"
-      },
-      {
-        "title": "Samsung Biologics announces all - cash offer to acquire PolyPeptide , accelerating multi - modality strategy and expanding global network across U . S ., Europe , and India",
-        "summary": "Samsung Biologics to launch an all-cash public tender offer for 100% of PolyPeptide&#039;s fully diluted share capital (excluding therefrom any treasury shares) at CHF 44.31 per share, representing an equity value of approximately CHF 1.46 billion. Strong transaction support, with a unanimous recommendation from PolyPeptide&#039;s Board members (acting through its&hellip;",
-        "source": "thailand-business-news.com",
-        "url": "https://www.thailand-business-news.com/pr-news/samsung-biologics-announces-all-cash-offer-to-acquire-polypeptide-accelerating-multi-modality-strategy-and-expanding-global-network-across-u-s-europe-and-india",
-        "seendate": "20260719T233000Z",
-        "domain": "thailand-business-news.com"
-      },
-      {
-        "title": "Kidnap Syndicate Bust : Soldiers Recover Ransom in Imo",
-        "summary": "Nigerian soldiers operating under Operation UDO KA have successfully busted a kidnap syndicate in Imo State, recovering ransom and a vehicle. Read more abo",
-        "source": "punchng.com",
-        "url": "https://punchng.com/soldiers-bust-kidnap-syndicate-recover-ransom-in-imo/",
-        "seendate": "20260719T233000Z",
-        "domain": "punchng.com"
-      },
-      {
-        "title": "Iran retaliates against US allies again after being hit",
-        "summary": "Iran carried out more attacks on U.S. allies in the Gulf and on Jordan on July 18, after the United States launched strikes on Iranian military targets for the seventh night in a row.",
-        "source": "brazilsun.com",
-        "url": "http://www.brazilsun.com/news/279195987/iran-attacks-logistics-hubs-air-bases-of-us-allies-after-being-hit",
-        "seendate": "20260719T233000Z",
-        "domain": "brazilsun.com"
-      },
-      {
-        "title": "ASIC sounds alarm on Australian exposure to growing risks in private credit",
-        "summary": "The corporate regulator is concerned about the risks posed by private credit for Australians with superannuation.",
-        "source": "abc.net.au",
-        "url": "https://www.abc.net.au/news/2026-07-20/asic-raises-alarm-on-private-credit/106929244",
-        "seendate": "20260719T233000Z",
-        "domain": "abc.net.au"
       }
     ],
     "climate": [
       {
-        "title": "Five family members found dead after flash flood in Utah canyon, police say",
-        "summary": "Victims were Provo’s fire captain, his wife and their three sons, who were hiking in Bicknell amid heavy rainsFive family members who had set out for a day of hiking were killed after a flash flood swept through canyons of southern Utah on Friday, law enforcement officials said.The victims were a captain in the Provo fire department, his wife and",
+        "title": "Weather warnings as tropical depression develops along US Gulf coast",
+        "summary": "Depression set to become tropical storm later on Monday as separate storm strengthens off Mexico’s Pacific coastA tropical depression was continuing to develop along the US Gulf coast on Monday as Tropical Storm Fausto strengthened off Mexico’s south-west Pacific coast.The National Hurr",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jul/19/utah-flash-flood-deaths-family",
-        "seendate": "2026-07-19T22:24:04.000Z",
+        "url": "https://www.theguardian.com/us-news/2026/jul/20/bertha-tropical-depression-us-gulf-coast",
+        "seendate": "2026-07-20T16:55:04.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Majority of US voters link extreme weather to climate crisis, study finds",
-        "summary": "Top Democrat says findings show public ‘way ahead of the politicians’ as Trump dismisses global heating as ‘hoax’Amid a summer of dangerous heat, drought and <a href=\"https://www.theguardian.com/us-news/2026/jun/27/kentucky-",
+        "title": "Big Bear’s missing bald eagle believed to have been found alive but injured",
+        "summary": "Bald eagle found hurt in California after fight with other birds, says group, as eagle called Jackie not seen on camerasA beloved female bald eagle missing for several days in California’s Big Bear Lake is believed to have been found alive but injured after",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/2026/jul/19/climate-crisis-us-voters-study",
-        "seendate": "2026-07-19T11:00:26.000Z",
+        "url": "https://www.theguardian.com/us-news/2026/jul/20/bald-eagle-jackie-big-bear-lake",
+        "seendate": "2026-07-20T14:36:39.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "How Trump and his administration have mired the US in multiple crises",
-        "summary": "From manufactured election insecurity to an outbreak of ‘explosive’ diarrhea, Americans are bearing the brunt of harmful policiesBetween widespread cuts to vital government agencies, various disease and illness outbreaks, and new environmental disaster vulnerabilities, the United States is facing a convergence of crises with widespread repercussions.Yet the Trump administration has hamstrung the fede",
+        "title": "‘A public health emergency waiting to occur’: how US industry groups spent years fighting who gets to measure toxic air",
+        "summary": "Air polluters try to ensure toxic emissions happen far from monitors – but the people who live nearby still feel itKimbrelle Kyereh lives just a few hundred feet from the massive chemical storage tanks in St Rose, in south-eastern Louisiana. Oily fumes sometimes drift into her home, bringing headaches, nausea and insomnia. On one such night, she gr",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jul/19/how-trump-and-his-administration-have-mired-the-us-in-multiple-crises",
-        "seendate": "2026-07-19T11:00:25.000Z",
+        "url": "https://www.theguardian.com/environment/2026/jul/20/louisiana-toxic-air-floodlight",
+        "seendate": "2026-07-20T14:00:43.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Flash flood warnings strike north-east US amid wildfire smoke from Canada",
-        "summary": "Poor air quality from wildfires continues to plague New York City as several neighborhoods hit by thunderstormsSaturday is delivering a double dose of dangerous weather across the north-eastern US, with smoky skies from Canadian wildfires giving way to severe thunderstorms that have already triggered a flash flood warning as torrential rain pounds parts of the region.After a brief break on Friday, sm",
+        "title": "On a Colorado farm, solar panels bring shade for plants, power – and cash: in pictures",
+        "summary": "More than 3,000 solar panels power Jack’s Solar Garden, cool the land and help it turn a profitThe Guardian receives support for visual climate coverage from the Outrider Foundation. The Guardian’s coverage is editorially independent Continue reading...",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jul/18/flash-flood-weather-north-east-us",
-        "seendate": "2026-07-18T19:11:13.000Z",
+        "url": "https://www.theguardian.com/environment/gallery/2026/jul/20/colorado-farming-solar-panels-in-pictures",
+        "seendate": "2026-07-20T12:00:40.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "More Canadian wildfire smoke shrouds US midwest, mid-Atlantic and north-east",
-        "summary": "109 million people face another day of poor air quality as smoke from blazes in Ontario drifts over the USSign up for the Break",
+        "title": "Trump officials kill proposed rules for Pfas-contaminated sewage fertilizer",
+        "summary": "EPA tosses out scientific research carried out under Biden and says toxic sludge not a significant threat to publicThe Trump administration has killed proposed regulations for sewage sludge contaminated with Pfas and spread on farmland as fertilizer, a practice that has <a href=\"https://",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jul/17/canada-wildfire-smoke-midwest-mid-atlantic-north-east",
-        "seendate": "2026-07-17T20:31:59.000Z",
+        "url": "https://www.theguardian.com/environment/2026/jul/20/trump-pfas-sewage-farm-fertilizer",
+        "seendate": "2026-07-20T12:00:40.000Z",
         "domain": "theguardian.com"
       }
     ],
     "science": [
+      {
+        "title": "AI-altered images on birdwatching forums putting research at risk",
+        "summary": "Experts warn increase in enhanced photos on birding platforms creating fake sightings, threatening credibility of tool used by scientistsFor many birdwatchers, recording a species outside its normal range is the holy grail. In the UK, the discoveries often make national headlines. The western reef heron, for example, usually found in Africa and southern Europe, <a href=\"https://www.theguardian.com/environme",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/environment/2026/jul/20/ai-slop-manipulated-fake-images-birds-citizen-science-aoe",
+        "seendate": "2026-07-20T04:00:45.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Could AI be conscious?",
+        "summary": "Experts believe it’s at least possible. We urgently need a plan to navigate the ethical implicationsIn January, the AI company Anthropic published a new constitution for Claude, its most advanced large language model (LLM), which contained the comment: “We are caught in a difficult position where we neither want&nbsp;to&nbsp;overstate the likelihood of Cl",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/jul/19/could-ai-be-conscious",
+        "seendate": "2026-07-19T11:00:25.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Monday briefing: 50 years after Viking landed on Mars, did Nasa overlook evidence of life?",
+        "summary": "In today’s newsletter: ​Breakthroughs increasingly hinge not on finding something new, but on recognising what was​ missed. A leading scientist tells us why it mattersGood morning. As Andy Burnham’s search for intelligent life to appoint to cabinet continues (more on that from Libby tomorrow), First Edition sets our sights further afield, to the search for life on another red planet.It’s 50 ye",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/jul/20/monday-briefing-50-years-after-viking-landed-on-mars-did-nasa-overlook-evidence-of-life",
+        "seendate": "2026-07-20T05:48:17.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Starwatch: Identifying the Scorpion, mythical adversary of Orion",
+        "summary": "The full constellation can be frustrating to track down in the UK owing to its low presence in the southern skyThis week we will take the opportunity to identify Scorpius, the Scorpion, one of the famous zodiacal constellations.In mythology, Scorpius is the creature sent to kill Orion, the hunter. The two constellations are therefore on opposite sides of the sky from one another, so that when Scorpiu",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/jul/20/starwatch-identifying-the-scorpion-mythical-adversary-of-orion",
+        "seendate": "2026-07-20T05:00:47.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Molten salt and human sweat: the weird batteries that could store renewable energy",
         "summary": "From Nevada to Manchester, developers are trialling innovative solutions to clean energy’s biggest challengeIn the deserts of the United Arab Emirates a sprawling clean energy project, stretching across an area roughly the size of 12,600 football fiel",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/environment/2026/jul/19/molten-salt-human-sweat-weird-batteries-store-renewable-energy",
         "seendate": "2026-07-19T11:00:25.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Weatherwatch: How English summer clouds can warn of trouble ahead",
-        "summary": "Mackerel skies and mare’s tails signal arrival of warm fronts that push moisture to high altitudes and creates distinctive clouds“Mare’s tails and mackerel scales make lofty ships to carry low sails,” runs an old English saying about summer skies.Mackerel skies are cirrocumulus or altocumulus clouds in regular but patchy rows, resembling the light and dark-scale pattern on a mackerel. The cirrocumulu",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/news/2026/jul/17/weatherwatch-english-summer-clouds-warn-bumps-ahead",
-        "seendate": "2026-07-17T05:00:59.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Earth-like exoplanet found to have an atmosphere",
-        "summary": "Scientists discover the first confirmed atmosphere around rocky planet outside our solar system that is within the habitable zoneThe search for life outside our solar system has taken another twist as researchers revealed they have discovered an atmosphere around an Earth-like planet 49 light years away that could have liquid water on its surface.Atmospheres have <a href=\"https://www.theguardian.com/",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/jul/16/atmosphere-lhs-1140b-exoplanet-could-water-scientists",
-        "seendate": "2026-07-16T18:00:45.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Brain implant helps paralysed man to feed himself and drink from cup",
-        "summary": "Keith Thomas can move arms and hands, and feel sensation of touch after ‘double neural bypass’ and months of trainingA man who was paralysed from the chest down in a swimming accident six years ago has been able to feed himself and drink from a cup thanks to a brain implant that bypasses his spinal cord injury.Keith Thomas of Massapequa, New York, could not lift his arms off his wheelchair when he ag",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/jul/16/neural-bypass-brain-implant-paralysed-man-feed-himself-drink-from-cup",
-        "seendate": "2026-07-16T15:00:41.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "One small pen for one giant fee: Buzz Aldrin’s mission-saving felt-tip sells for over $850,000",
-        "summary": "Second man on moon’s Duro Rocket pen, crucial to Apollo 11 return, reaches astronomical sum at Sotheby’s auctionThe felt-tip pen Buzz Aldrin used to fix a broken circuit-breaker and escape from the moon in 1969 has sold at auction in New York for more than $850,000 (£630,000).The dented silver plastic Duro Rocket pen – used by the second m",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/jul/15/buzz-aldrin-apollo-astronaut-mission-felt-tip-pen-auction",
-        "seendate": "2026-07-15T15:17:34.000Z",
         "domain": "theguardian.com"
       }
     ]
