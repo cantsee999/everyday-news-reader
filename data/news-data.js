@@ -1,5 +1,5 @@
 window.NEWS_CACHE = {
-  "generatedAt": "2026-07-21T23:46:23.415Z",
+  "generatedAt": "2026-07-22T23:53:12.182Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
@@ -88,119 +88,69 @@ window.NEWS_CACHE = {
     ],
     "economy": [
       {
-        "title": "Redwood AI Announces Closing of $3 . 5 Million Private Placement",
-        "summary": "Not for distribution to U.S. news wire services or dissemination in the United States. VANCOUVER, BC / ACCESS Newswire / July 21, 2026 / Redwood AI Corp. (CSE:A",
-        "source": "saltlakecitysun.com",
-        "url": "http://www.saltlakecitysun.com/news/279201895/redwood-ai-announces-closing-of-35-million-private-placement",
-        "seendate": "20260721T231500Z",
-        "domain": "saltlakecitysun.com"
+        "title": "Donald Trump to impose 50% tariff on most Canadian goods, White House says",
+        "summary": "Turmoil likely as Trump officials say Canada unfairly discriminated against US autos, alcohol and dairy productsDonald Trump is imposing 50% tariffs on most Canadian goods in response to the country retaliating against previous US tariffs, the White House announced on Monday, declaring Canada",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/jul/20/trump-canada-tariffs",
+        "seendate": "2026-07-21T02:29:47.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Ukraine Zelenskyy fires his military chief after protests and names a replacement",
-        "summary": "President Volodymyr Zelenskyy has fired Gen. Oleksandr Syrskyi as commander-in-chief of Ukraine&#x27;s armed forces.",
-        "source": "newsday.com",
-        "url": "https://www.newsday.com/news/nation/ukraine-zelenskyy-syrskyi-army-chief-n86883",
-        "seendate": "20260721T231500Z",
-        "domain": "newsday.com"
+        "title": "Judge orders pause on Paramount-Warner merger after challenge from 12 states",
+        "summary": "$81bn merger halted for at least two weeks after US states sued to block deal, saying it would ‘extinguish competition’A federal judge on Monday ordered Paramount and Warner Bros Discovery to halt their $81bn merger for at least two weeks, allowing states that are <a href=\"https://www",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/film/2026/jul/20/judge-pause-paramount-warner-bros-merger",
+        "seendate": "2026-07-20T18:03:21.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "US sends food for Cuban residents while still pressuring island government",
-        "summary": "Tuesday’s shipment is a portion of the $100 million the U.S. offered to Cuba.",
-        "source": "thetimes-tribune.com",
-        "url": "https://www.thetimes-tribune.com/2026/07/21/united-states-cuba-aid/",
-        "seendate": "20260721T231500Z",
-        "domain": "thetimes-tribune.com"
+        "title": "Trump has normalized crypto. Is it the path to the next financial collapse? | Eduardo Porter",
+        "summary": "Cheerleading by the president, who made $1.2bn last year off uninsured currency, does not bode well for US economyThe scale of the graft is decidedly off the charts, but the revelation that Donald Trump raked in a personal fortune of <a href=\"https://www.theguardian.com/us-news/2026/jul/01/trump-earnings-as-presid",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/business/2026/jul/18/trump-crypto-us-economy",
+        "seendate": "2026-07-18T10:00:02.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Trump Canada tariffs update : Is the president new import duty a ruse ? ",
-        "summary": "The president is once again attacking our neighbor to the north. But is this just more bluster?",
-        "source": "slate.com",
-        "url": "https://slate.com/news-and-politics/2026/07/trump-canada-tariffs-taco.html",
-        "seendate": "20260721T231500Z",
-        "domain": "slate.com"
+        "title": "‘Laws were broken’: multistate effort to stop Paramount’s $111bn merger heads to court",
+        "summary": "Attorneys general from 12 states are suing to block the Paramount-Warner Bros deal they say violates antitrust lawA last-ditch effort to block the merger between Paramount Skydance and Warner Bros Discovery (WBD) is heading to court as 12 Democratic state attorneys general attempt to stop the $111bn deal they say violates antitrust law and reduces competition in both the film and cable television industries",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/media/2026/jul/17/paramount-warner-bros-merger",
+        "seendate": "2026-07-17T11:00:06.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "CC free breakfast and lunch program results in engaged students",
-        "summary": "During staff meetings, as well as while observing students dining in Cleveland City Schools&rsquo; cafeterias, Kathy Barry, CCS&rsquo; supervisor of school nutrition, said she and other district employees have shared",
-        "source": "clevelandbanner.com",
-        "url": "https://www.clevelandbanner.com/news/ccs-free-breakfast-and-lunch-program-results-in-engaged-students/article_94bac036-64da-5bd2-abcb-d4eeadc1a6b0.html",
-        "seendate": "20260721T231500Z",
-        "domain": "clevelandbanner.com"
+        "title": "Apple dethrones Nvidia to regain title of world’s most valuable company",
+        "summary": "Shift in pecking order illustrates that investors are reassessing outlook for artificial intelligenceApple overtook Nvidia on Friday to become the world’s most valuable company, reshuffling the top ranks of tech heavyweights as investors reassess the outlook for artificial intelligence.Apple was last valued at $4.88tn as ⁠its shares held steady, while Nvidia ⁠was roughly at $4.86tn, ​after a 3.5% dec",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/jul/17/apple-nvidia-most-valuable-company",
+        "seendate": "2026-07-17T15:01:09.000Z",
+        "domain": "theguardian.com"
       }
     ],
     "literature": [
       {
-        "title": "Cool Machine by Colson Whitehead review – final part of the Harlem Trilogy is freewheeling fun",
-        "summary": "The grit and grandeur of 80s New York drive this rollicking story of an underground wheeler-dealerIn the summer of 1977 a bolt of lightning struck a substation on the Hudson River, knocking out power across New York City. Two nights of darkness sparked a wave of looting as Harlem and Bronx teenagers swiped high-end items from the downtown stores. They took speaker systems and turntables to experiment with a",
+        "title": "Salman Rushdie attacker faces US terrorism trial",
+        "summary": "Hadi Matar, already serving 25 years for attempted murder, denies federal charges that could bring a life sentenceThe man who stabbed Salman Rushdie in the eye on stage in 2022 is standing trial for a second time – this time facing terrorism charges after being found guilty of attempted murder and <a href=\"http",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jul/21/cool-machine-by-colson-whitehead-review-final-part-of-the-harlem-trilogy-is-freewheeling-fun",
-        "seendate": "2026-07-21T06:00:02.000Z",
+        "url": "https://www.theguardian.com/books/2026/jul/22/salman-rushdie-attacker-faces-us-terrorism-trial",
+        "seendate": "2026-07-22T14:23:44.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "These Wild English by Nicola Wilding review – explaining a mother’s drift to the far right",
-        "summary": "A documentary-maker probes family history and the darker corners of the internet to solve an urgent political puzzleWhen Sandra Forsyth began marching in support of the English Defence League, her daughter Nicola Wilding hoped it was a phase. The Cumbria-bred, Dover-dwelling Sandra was about to turn 60 and had been dealing with a lot of stress. Not only had her son been sentenced to two years in prison for",
+        "title": "On Thin Ice by Charlie Walker review – a Siberian adventure goes off the rails",
+        "summary": "Moments of beauty and horror punctuate this account of an ill-timed sub-zero camping trip In late February 2022, Charlie Walker set off on a hiking holiday&nbsp;in northern Siberia. In temperatures as low as -50C, he intended to trek a thousand miles north along the frozen surface of the river Lena, then out across the solid Laptev Sea to the port town of Tiksi, before finally flying home to London. “The pl",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jul/21/these-wild-english-by-nicola-wilding-review-explaining-a-mothers-drift-to-the-far-right",
-        "seendate": "2026-07-21T09:30:06.000Z",
+        "url": "https://www.theguardian.com/books/2026/jul/22/on-thin-ice-by-charlie-walker-review-a-siberian-adventure-goes-off-the-rails",
+        "seendate": "2026-07-22T06:00:08.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "A Sudden Flicker of Light by David Thomson review – a brilliantly eccentric history of the movies",
-        "summary": "From the golden age of Hollywood to harder times today, this is a rapturous account of more than a century of cinemaFilm critic, historian and author of more than 40 books, David Thomson is back with another three-hour free jazz solo on the subject of the movies, though it’s a performance delivered with the magnificent elan of a 1940s big band leader. He’s as brilliant, eccentric, exasperating and absorbing",
+        "title": "Venus, Vanishing by Rebecca Birrell review – art, desire and the rise of the Third Reich",
+        "summary": "This portrait of a Jewish painter in bohemian Berlin is filled with insightful observationsIn the summer of 1937, two exhibitions sponsored by the Nazis opened in Munich. For the Degenerate Art exhibition, hundreds of confiscated works by banned modern artists – including Paul Klee, Wassily Kandinsky, Pablo Picasso – were gathered: a derisive demonstration of the supposedly anti-German spirit of contemporar",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jul/20/a-sudden-flicker-of-light-by-david-thomson-review-a-brilliantly-eccentric-history-of-the-movies",
-        "seendate": "2026-07-20T06:00:49.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Yellow Pine by Claire Vaye Watkins review – messy portrait of protest subculture",
-        "summary": "Watkins should have been the ideal writer for this sympathetic take on new age spirituality and desert eco-activism – but the results are confusingRose, the protagonist of Claire Vaye Watkins’s latest novel, has retreated from the world to live in Nothingness Flats, a cinder-block cabin in the Nevada desert. On indefinite leave from her job at an environmental organisation, Rose works on her Al-Anon recover",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jul/20/yellow-pine-by-claire-vaye-watkins-review-messy-portrait-of-protest-subculture",
-        "seendate": "2026-07-20T08:00:50.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Tell us: what have you been reading this month?",
-        "summary": "We would like to hear about the books you’ve particularly enjoyed this monthAs part of The Guardian’s “what we’re reading” series, we would like to hear about the books you’ve particularly enjoyed this month.Have you read a book in recent weeks – fiction or non-fiction – that you’d recommend? Tell us all about it below. <a",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2022/feb/23/tell-us-what-have-you-been-reading-this-month",
-        "seendate": "2026-07-20T12:44:13.000Z",
-        "domain": "theguardian.com"
-      }
-    ],
-    "entertainment": [
-      {
-        "title": "Saxophonist Plas Johnson, known for solo on The Pink Panther Theme, dies aged 94",
-        "summary": "Jazz saxophonist – who recorded with artists Frank Sinatra, BB King and more – died in Los Angeles, reports sayThe US jazz saxophonist Plas Johnson, best known for his solo riff on the timeless classic The Pink Panther Theme, has died at the age of 94, according to reports.The native of Donaldsonville, Louisiana, died on 15 July",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jul/21/plas-johnson-saxophonist-dead",
-        "seendate": "2026-07-21T18:41:18.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Godzilla vs Kong actor Kaylee Hottle dies aged 18",
-        "summary": "The deaf actor, who played a major role in Godzilla vs Kong and its 2024 sequel, was killed in a car crash in MarylandKaylee Hottle, who played a major role in Godzilla vs Kong and the sequel Godzilla x Kong: The New Empire, has died at the age of 18.Her death was confirmed by her father, Joshua, in a video",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/jul/21/godzilla-v-kong-actor-kaylee-hottle-dies-aged-18",
-        "seendate": "2026-07-21T16:17:49.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "The Dink review – Jake Johnson’s pickleball comedy serves up engagingly silly laughs",
-        "summary": "Johnson is delusional ex-tennis player The Hammer, who has to switch to the sport he loathes after injuryThere’s some funny stuff here in this engagingly silly sports comedy from producer-star Jake Johnson about the world of pickleball, and how this (allegedly) facile pseudo-tennis game for children and old people threatens to infantilise and dumb down the world of tennis itself.Dusty (Johnson) is a",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/jul/21/the-dink-review-pickleball-comedy-serves-up-engagingly-silly-laughs",
-        "seendate": "2026-07-21T16:00:50.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Seth Meyers on Trump at the World Cup: ‘They’re going to have to sage the stadium’",
-        "summary": "The late-night host discussed the president getting booed at the final, his grudge against Spain and the enduring Iran warOn Monday night, Seth Meyers discussed Donald Trump getting booed at this weekend’s World Cup",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/culture/2026/jul/21/seth-meyers-recap-trump-world-cup-spain",
-        "seendate": "2026-07-21T14:53:26.000Z",
+        "url": "https://www.theguardian.com/books/2026/jul/22/venus-vanishing-by-rebecca-birrell-review-art-desire-and-the-rise-of-the-third-reich",
+        "seendate": "2026-07-22T08:00:09.000Z",
         "domain": "theguardian.com"
       },
       {
@@ -210,216 +160,266 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/books/2026/jul/21/kim-phillips-fein-country-of-lords",
         "seendate": "2026-07-21T10:00:43.000Z",
         "domain": "theguardian.com"
+      },
+      {
+        "title": "Cool Machine by Colson Whitehead review – final part of the Harlem Trilogy is freewheeling fun",
+        "summary": "The grit and grandeur of 80s New York drive this rollicking story of an underground wheeler-dealerIn the summer of 1977 a bolt of lightning struck a substation on the Hudson River, knocking out power across New York City. Two nights of darkness sparked a wave of looting as Harlem and Bronx teenagers swiped high-end items from the downtown stores. They took speaker systems and turntables to experiment with a",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/jul/21/cool-machine-by-colson-whitehead-review-final-part-of-the-harlem-trilogy-is-freewheeling-fun",
+        "seendate": "2026-07-21T06:00:02.000Z",
+        "domain": "theguardian.com"
+      }
+    ],
+    "entertainment": [
+      {
+        "title": "Charles Gaines, whose book Pumping Iron helped to popularize bodybuilding, dies at 84",
+        "summary": "1974 book led to making of seminal documentary and introduced Arnold Schwarzenegger to the worldCharles Gaines, the author whose book and documentary Pumping Iron helped bring professional bodybuilding into the mainstream and introduce Arnold Schwarzenegger to the world, has died. He was 84.Gaines died on Tuesday, according to Greta Gaines, the author’s daughter. She did not reveal a cause. <a hr",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/jul/22/charles-gaines-pumping-iron-author-arnold-schwarzenegger",
+        "seendate": "2026-07-22T17:58:19.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Possible bloodstains were detected at D4vd’s home, law enforcement testify",
+        "summary": "Gory details about tarp, mats and inflatable pool come to light during hearing over death of Celeste Rivas HernandezAt singer D4vd’s former Hollywood Hills home, law enforcement detected possible bloodstains – invisible to the naked eye – on items including a green tarp, black rubber mats and a crumpled inflatable pool that had the odor of fresh laundry.The gory details came to light on Wednesday, th",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/jul/22/d4vd-murder-case-financial-motivation",
+        "seendate": "2026-07-22T23:40:11.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Seth Meyers on Trump calling Canadian wildfire cost incalculable: ‘So he didn’t write that post’",
+        "summary": "Late-night host spoke about president’s recent social media posts, including comments on the World Cup and CanadaSeth Meyers discussed Donald Trump’s most recent comments on the World Cup, including his claim that players don’t work hard enough.On Late Night, the host spoke",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/culture/2026/jul/22/seth-meyers-trump-canada-wildfires-world-cup",
+        "seendate": "2026-07-22T14:31:47.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Go woke, get rich: why rightwing hate campaigns don’t affect the box office",
+        "summary": "After a bigoted online backlash, led by Elon Musk, The Odyssey achieved a monster weekend – the latest example of a targeted takedown that didn’t workThe Odyssey: jaw-dropping action, dark magic and dolphin cameos – discuss with spoilersElon Musk was a man on a mission. Yes, he’s supposed",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/film/2026/jul/22/the-odyssey-elon-musk-campaign",
+        "seendate": "2026-07-22T10:00:13.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "‘I come from a murderer’: the woman who found out Charles Manson was her grandfather",
+        "summary": "Difficult new Hulu documentary follows a 26-year-old woman’s startling discovery that she’s related to the notorious, murderous cult leaderSophia Maddox spent her life hearing from her father about how he had never met his father. He would tuck her into bed as a child, she said, and tell her about how much he wanted to know him.Four years ago, following a match on a genealogy website, they finally le",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/film/2026/jul/22/my-grandfather-charles-manson-documentary-interview",
+        "seendate": "2026-07-22T09:00:11.000Z",
+        "domain": "theguardian.com"
       }
     ],
     "f1": [
       {
-        "title": "McLaren brings long-awaited Hungary F1 upgrade, trials 'Macarena' rear wing",
-        "summary": "The McLaren Formula 1 team will finally trial its upside-down rear wing at this weekend's Hungarian Grand Prix, where it unleashes a significant upgrade package to improve its competitiveness.McLaren has long earmarked this weekend's Budapest round as its next major opportunity to add performance to the MCL40, a car which it admitted has been two to three months behind in terms of aero ...<a class='more'",
+        "title": "‘It’s been a while since we were truly racing’ - Aston Martin pins F1 hopes on Hungarian GP upgrades",
+        "summary": "The Belgian Grand Prix brought yet another disappointment for Aston Martin in a season that has already been miserable for the Formula 1 team. Lance Stroll failed to see the chequered flag after suffering a clutch failure and two-time champion Fernando Alonso finished last – humiliated, two laps down, and unable to challenge even Valtteri Bottas in Cadillac's brand-new works team.On Sunday ...<a class='m",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/mclaren-brings-long-awaited-hungary-f1-upgrade-trials-macarena-rear-wing/10840774/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-21T16:21:59.000Z",
+        "url": "https://www.motorsport.com/f1/news/its-been-a-while-since-we-were-truly-racing-aston-martin-hopes-upgrades-will-turn-around-its-f1-sea/10840917/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-22T15:51:45.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Oscar Piastri among drivers skipping FP1 as rookies join F1 Hungary weekend",
-        "summary": "McLaren junior Leonardo Fornaroli will get his second opportunity of 2026 to take part in a grand prix weekend, deputising for Oscar Piastri in FP1 at the Hungaroring.The highly-rated Italian, who is the reigning F2 champion, took over Lando Norris' MCL40 in Barcelona last month, and will now get his second practice outing with the squad at this weekend's Hungarian Grand Prix, taking over ...<a class='mo",
+        "title": "Five things to look out for at the F1 Hungarian GP",
+        "summary": "Formula 1 is set for its final race before the annual summer break with this weekend’s Hungarian Grand Prix, which comes just a week after Belgium.It will be the 11th round of the 2026 campaign and marks the halfway point after the earlier cancellations of Bahrain and Saudi Arabia due to conflict in the Middle East.Read Also:Formula 1F1 to decide before summer break on ...<a class='more'",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/piastri-colapinto-bearman-to-skip-fp1-as-rookie-drivers-join-f1-hungary-weekend/10840763/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-21T15:41:43.000Z",
+        "url": "https://www.motorsport.com/f1/news/five-things-to-look-out-for-at-the-f1-hungarian-gp/10840924/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-22T14:43:03.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "F2 title race takes shape as F1 juniors shine at Spa",
-        "summary": "Eight rounds into the 14 events of the 2026 Formula 2 season, three Formula 1 juniors have emerged as clear title contenders – with another one a dark horse.Red Bull Junior Team member Nikola Tsolov currently leads the standings on 161 points from Alpine Academy racer Gabriele Mini (134), Rafael Camara (125) from the Ferrari Driver Academy, and Alpine’s Alex Dunne (108).Campos ...<a class='more' href",
+        "title": "Why Aston Martin’s updated F1 car holds the key to the 2027 driver market",
+        "summary": "In just a few days, Aston Martin will debut the B-spec version of the AMR26, a car that has been well below expectations in the first half of the Formula 1 season.Some describe the AMR26B as a major evolution, while others even consider it an entirely new car, given that the project has undergone a fresh round of crash tests – a sign that key structural areas of the chassis have been ...<a class='more' h",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/fia-f2/news/f2-title-race-takes-shape-as-f1-juniors-shine-at-spa/10840739/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-21T14:34:38.000Z",
+        "url": "https://www.motorsport.com/f1/news/f1-the-new-aston-martin-is-the-key-to-the-2027-driver-market/10840875/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-22T13:00:18.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Fernando Alonso: F1 future decision hinges on rules, not Aston Martin’s performance",
-        "summary": "Fernando Alonso insists his Formula 1 future will not depend upon Aston Martin’s performance over the remainder of 2026, but whether he can enjoy driving the current hybrid cars.The Spaniard’s future has become a major talking point in recent months, with his contract with the Silverstone-based squad due to expire at the end of the year.Aston Martin is banking on a major upgrade at ...<a class='more'",
+        "title": "Explained: Are drivers really being beaten by AI elements in F1's 2026 power units?",
+        "summary": "When the assembled media gathered in the McLaren hospitality on Saturday for Andrea Stella's media session, the Italian team boss shared one of the most revealing quotes of this Formula 1 season:\"When we try to analyse this, it gets immediately quite complicated. In fact, when I left the debrief to come here for this media session, there were still discussions ongoing as to why we see ...<a class='more'",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/fernando-alonso-f1-future-decision-hinges-on-rules-not-aston-martins-performance/10840712/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-21T11:52:27.000Z",
+        "url": "https://www.motorsport.com/f1/news/explained-are-drivers-really-being-beaten-by-ai-elements-in-f1s-2026-power-units/10840877/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-22T11:18:23.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Red Bull finds successors to Gianpiero Lambiase and Helmut Marko – what does it say about the team's F1 future?",
-        "summary": "After months dominated by headlines about departing personnel – with reports surrounding Paul Monaghan's expected move to Cadillac still continuing – two more positive stories emerged for Red Bull during the Formula 1 Belgian Grand Prix weekend.First of all, the Milton Keynes-based team managed to convince Tom Hart not to complete his move to Williams and instead remain with Red Bull ...<a class='more' h",
+        "title": "Why Kimi Antonelli’s aggressive driving style works so well in F1 2026",
+        "summary": "Six wins, six pole positions and the Formula 1 championship lead. Where a year ago Kimi Antonelli faced one of his toughest weekends in Formula 1, he has now taken a sweet revenge, claiming a victory that will mathematically allow him to head into the summer break as the championship leader. But the meaning of Spa goes well beyond that.The Belgian round, where last season he struggled with a ...<a class=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/red-bull-finds-successors-to-gianpiero-lambiase-and-helmut-marko-what-does-it-say-about-the-teams-f/10840697/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-21T10:34:26.000Z",
+        "url": "https://www.motorsport.com/f1/news/f1-antonelli-inside-the-secrets-of-the-aggressive-driving-style-that-makes-him-so-fast-in-the-2026-/10840852/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-22T10:00:53.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "Hasbro takes $56 million hit over multiple game cancellations, but it's still talking about how Baldur's Gate 3 is key to its future success",
-        "summary": "Just a few years after going big on videogames, Hasbro is pulling an Xbox by narrowing its focus on its biggest brands and franchises.",
+        "title": "Count Binface threatens to nationalize Sega if it doesn't come across with a Shenmue 4 update",
+        "summary": "The UK's most famous novelty politician took time out from his campaign against Nigel Farage to address a real national problem.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/hasbro-takes-usd56-million-hit-over-multiple-game-cancellations-but-its-still-talking-about-how-baldurs-gate-3-is-key-to-its-future-success/",
-        "seendate": "2026-07-21T20:59:32.000Z",
+        "url": "https://www.pcgamer.com/games/count-binface-threatens-to-nationalize-sega-if-it-doesnt-come-across-with-a-shenmue-4-update/",
+        "seendate": "2026-07-22T21:31:24.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "A new friendslop game is already Steam's 12th-most wishlisted game a mere week after it was announced",
-        "summary": "The takeoff hasn't been without some turbulence, however.",
+        "title": "Steam update makes gifting much easier, adds wishlist organization features",
+        "summary": "Aunts and uncles rejoice: Sending gifts on Steam has been simplified.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/action/a-new-friendslop-game-is-already-steams-12th-most-wishlisted-game-a-mere-week-after-it-was-announced/",
-        "seendate": "2026-07-21T18:54:48.000Z",
+        "url": "https://www.pcgamer.com/games/steam-update-makes-gifting-much-easier-adds-wishlist-organization-features/",
+        "seendate": "2026-07-22T20:58:24.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "For the first time, Unity demonstrates 'an Unreal character running through a Unity world'",
-        "summary": "\"Connect ALL the engines!\" exclaims Epic CEO Tim Sweeney.",
+        "title": "Blizzard is investigating a World of Warcraft cheating scandal after game master 'death-touched' bosses for friends without realizing it was being recorded",
+        "summary": "One of the players then went on a Twitch stream to spill the beans.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/game-development/unity-demonstrates-an-unreal-character-running-through-a-unity-world-for-the-first-time/",
-        "seendate": "2026-07-21T18:39:57.000Z",
+        "url": "https://www.pcgamer.com/games/world-of-warcraft/blizzard-is-investigating-a-world-of-warcraft-cheating-scandal-after-game-master-death-touched-bosses-for-friends-without-realizing-it-was-being-recorded/",
+        "seendate": "2026-07-22T20:47:59.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Palworld players have harnessed the power of selective breeding to create 'infinite bomb' Pals that can blow themselves up, repeatedly, forever",
-        "summary": "Is that good?",
+        "title": "Indie game gets last minute Steam delay while Valve reviews its 'dozens of untextured polygons depicting ass and boobs'",
+        "summary": "Future? No Thanks! is the latest game to get caught up in Steam's ambiguous content guidelines.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/survival-crafting/palworld-players-have-harnessed-the-power-of-selective-breeding-to-create-infinite-bomb-pals-that-can-blow-themselves-up-repeatedly-forever/",
-        "seendate": "2026-07-21T18:35:28.000Z",
+        "url": "https://www.pcgamer.com/gaming-industry/indie-game-gets-last-minute-steam-delay-while-valve-reviews-its-dozens-of-untextured-polygons-depicting-ass-and-boobs/",
+        "seendate": "2026-07-22T19:04:30.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Splitgate studio 1047 Games is laying off more people just a month after releasing its latest game",
-        "summary": "Multiple employees say they've been let go in a new round of cuts.",
+        "title": "Faker becomes an honorary Korean police officer to help discourage online gambling",
+        "summary": "A year after Riot embraced \"betting sponsorships\" for League of Legends, the famous esports pro is now an \"ambassador for cyber-gambling prevention.\"",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/fps/splitgate-studio-1047-games-is-laying-off-more-people-just-a-month-after-releasing-its-latest-game/",
-        "seendate": "2026-07-21T18:14:30.000Z",
+        "url": "https://www.pcgamer.com/games/moba/faker-becomes-an-honorary-korean-police-officer-to-help-discourage-online-gambling/",
+        "seendate": "2026-07-22T18:34:44.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
       {
-        "title": "Election voting advice from AI chatbots ‘inaccurate and unreliable’",
-        "summary": "Research during Hungary election shows AI recommended parties not running and gave highly volatile answers to identical promptsAI chatbots provide inaccurate, inconsistent and unreliable guidance to voters asking which party they should back, a study suggests, often recommending the wrong party, not mentioning the right one, or listing parties not even running.“The results raise serious concerns abou",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/jul/21/election-voting-advice-ai-chatbots-inaccurate-unreliable-hungary",
-        "seendate": "2026-07-21T05:00:01.000Z",
-        "domain": "theguardian.com"
+        "title": "SpaceX Plans Starship Launch For Tomorrow . Here What Investors Need To Know",
+        "summary": "SpaceX is targeting a July 23 launch date for its Starship megarocket.",
+        "source": "fool.com",
+        "url": "https://www.fool.com/investing/2026/07/22/spacex-plans-starship-launch-for-tomorrow-heres-what-investors-need-to-know/?source=iedfolrf0000001",
+        "seendate": "20260722T233000Z",
+        "domain": "fool.com"
       },
       {
-        "title": "Inside the horrifying online network where children extort others to commit violence and self-harm",
-        "summary": "The 764 network is just one part of a growing online ecosystem that pushes young members into brutal and degrading acts. It has perpetrators and victims in dozens of countriesIn late 2024, in a quiet suburb of Stockholm, a 14-year-old boy approached a man in his 80s who was using a walker. He stabbed the man three times in the back.The video of the attack in Hässelby was streamed and spread quickly.",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/ng-interactive/2026/jul/21/764-network-gamification-of-harm-the-com-cybercrime-ntwnfb",
-        "seendate": "2026-07-20T15:00:45.000Z",
-        "domain": "theguardian.com"
+        "title": "Save $1 , 500 Off an Alienware Area - 51 Ryzen X3D Gaming PC With RTX 5090 GPU and 64GB of RAM",
+        "summary": "Still expensive, but a competitive price point in today&#x27;s market for an extremely powerful gaming PC.",
+        "source": "ign.com",
+        "url": "https://www.ign.com/articles/dell-alienware-area-51-rtx-5090-gaming-pc-deal-july-2026",
+        "seendate": "20260722T233000Z",
+        "domain": "ign.com"
       },
       {
-        "title": "Headaches for Silicon Valley as China chips away at the US’s lead in the AI race",
-        "summary": "Google’s AI struggles scream trouble as new Chinese models (again) throw US tech dominance into questionHello, I’m Blake Montgomery, writing to you after a double-header feature of Christopher Nolan’s The Odyssey and the World Cup final. What a great Sunday. Today in tech, we’re discussing how China is chipping away at the US’s lead in the AI race and how Silicon Valley’s workers are taking action to protec",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/jul/20/china-google-ai-race",
-        "seendate": "2026-07-21T12:08:43.000Z",
-        "domain": "theguardian.com"
+        "title": "The Mile World Record Falls In Brook  Hyperion 222  Super Spikes",
+        "summary": "Josh Kerr breaks 27-year-old record in the most iconic of distances",
+        "source": "gearjunkie.com",
+        "url": "https://gearjunkie.com/news/hyperion-222-super-spike-helped-break-27-year-old-world-record",
+        "seendate": "20260722T233000Z",
+        "domain": "gearjunkie.com"
       },
       {
-        "title": "How AI may drive union-resistant tech workers to the bargaining table",
-        "summary": "Tech workers are increasingly unionizing, trading Silicon Valley’s myth of exceptionalism for collective bargaining to contest the corporate deployment of artificial intelligenceFor decades, the technology industry was a fortress that labor unions couldn’t breach. Tech workers already had cushy compensation packages, dream benefits like unlimited vacation and free lunch, and a flat corporate hierarchy that",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/jul/21/ai-tech-workers-unionize",
-        "seendate": "2026-07-21T11:00:44.000Z",
-        "domain": "theguardian.com"
+        "title": "Doeren Mayhew adds another Florida firm",
+        "summary": "The Top 50 Firm acquired McMillan, Whiteman & Associates, expanding its presence along Florida&#x27;s Gulf Coast and marking its third deal in the state this year.",
+        "source": "accountingtoday.com",
+        "url": "https://www.accountingtoday.com/news/doeren-mayhew-adds-another-florida-firm",
+        "seendate": "20260722T233000Z",
+        "domain": "accountingtoday.com"
       },
       {
-        "title": "Meta’s smartglasses mean any child can be covertly filmed. In the age of AI, how do we tackle that risk?",
-        "summary": "The company argues that it’s for individuals to ensure they don’t ‘actively exploit’ this technology. That won’t keep children safeIt took me a while to realise what the man sitting next to me on the train was doing. He was flicking through pictures of a little girl on his phone; zooming in on some, cropping the images. Hardly unusual, of course, except that on closer inspection the pictures were very clear",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/commentisfree/2026/jul/21/meta-smartglasses-child-filmed-ai-risk-technology",
-        "seendate": "2026-07-21T05:00:02.000Z",
-        "domain": "theguardian.com"
+        "title": "Trump administration signs commercial nuclear deal with Saudi Arabia",
+        "summary": "The agreement gives American companies priority access to nuclear reactors and fuel to Saudi Arabia. It&#x27;s expected to last decades and be worth billions of dollars.",
+        "source": "mynspr.org",
+        "url": "https://www.mynspr.org/npr-news/2026-07-22/trump-administration-signs-commercial-nuclear-deal-with-saudi-arabia",
+        "seendate": "20260722T233000Z",
+        "domain": "mynspr.org"
       }
     ],
     "climate": [
       {
-        "title": "Tick bites are on the rise in the US and UK. Here’s how to protect yourself",
-        "summary": "Experts share tips to avoid the blood-sucking pests that can transmit Lyme disease and other illnesses on to humansI won’t go into gory detail about the tick I found latched behind my ear approximately 35 hours after a hike in early June. Suffice it to say, the parasite was well fed, and I was horrified.I am far from alone in making such a disgusting discovery. According to the Centers for Disease Co",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/wellness/2026/jul/21/tick-bites-how-to-protect-yourself",
-        "seendate": "2026-07-21T16:00:50.000Z",
-        "domain": "theguardian.com"
+        "title": "SpaceX Plans Starship Launch For Tomorrow . Here What Investors Need To Know",
+        "summary": "SpaceX is targeting a July 23 launch date for its Starship megarocket.",
+        "source": "fool.com",
+        "url": "https://www.fool.com/investing/2026/07/22/spacex-plans-starship-launch-for-tomorrow-heres-what-investors-need-to-know/?source=iedfolrf0000001",
+        "seendate": "20260722T233000Z",
+        "domain": "fool.com"
       },
       {
-        "title": "Tropical Storm Bertha heads for land as Hurricane Fausto forms in eastern Pacific",
-        "summary": "Bertha could bring heavy rain on US Gulf coast, with its center located 110 miles south of Panama City, FloridaTropical Storm Bertha formed on Monday evening in the Gulf of Mexico south of the Florida Panhandle as it drifts erratically toward populated coastal areas, bringing a threat of heavy rain, storm surge and damaging wind gusts.Meanwhile, in the eastern Pacific Ocean, Hurricane Fausto formed f",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jul/20/bertha-tropical-depression-us-gulf-coast",
-        "seendate": "2026-07-21T02:05:29.000Z",
-        "domain": "theguardian.com"
+        "title": "The Mile World Record Falls In Brook  Hyperion 222  Super Spikes",
+        "summary": "Josh Kerr breaks 27-year-old record in the most iconic of distances",
+        "source": "gearjunkie.com",
+        "url": "https://gearjunkie.com/news/hyperion-222-super-spike-helped-break-27-year-old-world-record",
+        "seendate": "20260722T233000Z",
+        "domain": "gearjunkie.com"
       },
       {
-        "title": "Big Bear’s missing bald eagle believed to have been found alive but injured",
-        "summary": "Bald eagle found hurt in California after fight with other birds, says group, as eagle called Jackie not seen on camerasA beloved female bald eagle missing for several days in California’s Big Bear Lake is believed to have been found alive but injured after",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jul/20/bald-eagle-jackie-big-bear-lake",
-        "seendate": "2026-07-20T14:36:39.000Z",
-        "domain": "theguardian.com"
+        "title": "Line painting planned tonight on Route 222 ramps at Route 772",
+        "summary": "Line painting is scheduled tonight on the northbound Route 222 on and off ramps at the Route 772 (Brownstown/Rothsville) exit in West Earl Township, the Pennsylvania Department of Transportation announced",
+        "source": "lancasteronline.com",
+        "url": "https://lancasteronline.com/news/local/line-painting-planned-tonight-on-route-222-ramps-at-route-772/article_bc428b28-dbc1-40c4-b592-763415e7ef33.html",
+        "seendate": "20260722T233000Z",
+        "domain": "lancasteronline.com"
       },
       {
-        "title": "‘A public health emergency waiting to occur’: how US industry groups spent years fighting who gets to measure toxic air",
-        "summary": "Air polluters try to ensure toxic emissions happen far from monitors – but the people who live nearby still feel itKimbrelle Kyereh lives just a few hundred feet from the massive chemical storage tanks in St Rose, in south-eastern Louisiana. Oily fumes sometimes drift into her home, bringing headaches, nausea and insomnia. On one such night, she gr",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/2026/jul/20/louisiana-toxic-air-floodlight",
-        "seendate": "2026-07-20T14:00:43.000Z",
-        "domain": "theguardian.com"
+        "title": "Tropical Storm Bertha Makes Landfall In Louisiana",
+        "summary": "A Tropical Storm Warning was in effect from the Florida Panhandle to Morgan City, Louisiana.",
+        "source": "whnz.iheart.com",
+        "url": "https://whnz.iheart.com/content/2026-07-22-tropical-storm-bertha-makes-landfall-in-louisiana/",
+        "seendate": "20260722T233000Z",
+        "domain": "whnz.iheart.com"
       },
       {
-        "title": "On a Colorado farm, solar panels bring shade for plants, power – and cash: in pictures",
-        "summary": "More than 3,000 solar panels power Jack’s Solar Garden, cool the land and help it turn a profitThe Guardian receives support for visual climate coverage from the Outrider Foundation. The Guardian’s coverage is editorially independent Continue reading...",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/gallery/2026/jul/20/colorado-farming-solar-panels-in-pictures",
-        "seendate": "2026-07-20T12:00:40.000Z",
-        "domain": "theguardian.com"
+        "title": "Trump administration signs commercial nuclear deal with Saudi Arabia",
+        "summary": "The agreement gives American companies priority access to nuclear reactors and fuel to Saudi Arabia. It&#x27;s expected to last decades and be worth billions of dollars.",
+        "source": "mynspr.org",
+        "url": "https://www.mynspr.org/npr-news/2026-07-22/trump-administration-signs-commercial-nuclear-deal-with-saudi-arabia",
+        "seendate": "20260722T233000Z",
+        "domain": "mynspr.org"
       }
     ],
     "science": [
+      {
+        "title": "Sperm whales change ‘vowel’ sounds when boats are nearby, scientists discover",
+        "summary": "Researchers listening off the Caribbean island of Dominica found variations in the mammals’ audible clicks when marine traffic was closeSperm whales produce a specific pattern of clicking noises when they hear the noise of boats, researchers have found. The pattern is so distinct that the scientists who identified it said they can now use it to predict when ships are nearby.Researchers from <a href=\"",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/environment/2026/jul/22/sperm-whales-dominica-clicks-vowels-language-changes-shipping-noise-project-ceti",
+        "seendate": "2026-07-22T13:00:15.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Milky Way flipped in collision with dwarf galaxy 10bn years ago, astronomers say",
+        "summary": "Durham University researchers find cataclysmic direct hit with Gaia Sausage sent Milky Way into its current positionAstronomers have found evidence that the Milky Way was flipped on its side following a direct hit from a wayward galaxy long before the solar system was born.The cataclysmic collision took place about 10bn years ago when the Milky Way was struck head-on by an incoming dwarf galaxy known",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/jul/21/milky-way-disc-flip-collision-dwarf-galaxy-astronomers",
+        "seendate": "2026-07-21T15:00:48.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Rivers of magma once bubbled beneath crust of Mars, research suggests",
+        "summary": "Finding widens selection of rocky planets that may once have been habitableMars once had rivers of magma bubbling beneath its crust, new research suggests. The surprise find makes it more probable that Mars could have supported life and widens the selection of rocky planets that may once have been",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/jul/22/magma-rivers-beneath-mars-crust-study",
+        "seendate": "2026-07-22T05:00:07.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "‘Most people don’t know we’ve set up a doomsday system’: physicist Laura Grego on satellites, nuclear weapons and the battle for our skies",
+        "summary": "Elon Musk is trying to own it, competing powers are trying to fight in it and nobody seems to be regulating it. So who does space really belong to?The last time I saw Laura Grego was in a tent in a baking field on the Welsh borders in May. The conversation on stage ranged from the dangers of <a href=\"https://www.theguardian.com/science/ng-interactive/2026/mar/31/this-feels-fragile-how-a-satellite-smashing-c",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/lifeandstyle/2026/jul/20/doomsday-system-physicist-laura-grego-satellites-nuclear-weapons-battle-skies-space-elon-musk",
+        "seendate": "2026-07-20T13:09:33.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Slowdown in Arctic ice melt ends after largest winter decline on record",
         "summary": "Scientists recorded slower reduction over past 20 years, but study finds this was ‘temporary rather than sustained’A previously recorded slowdown in Arctic sea ice decline has ended, according to a new study, with the largest year-to-year wintertime reduction ever recorded.In a stu",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/environment/2026/jul/20/slowdown-arctic-sea-ice-melt-largest-winter-decline-record",
         "seendate": "2026-07-20T19:00:48.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Antibiotic-resistant bacteria increasingly leaving children vulnerable to common infections, global study finds",
-        "summary": "Exclusive: Research spanning 82 countries finds antibiotic resistance increased in every region between 2004 and 2022Harry Booth has had a rough run through Australia’s coldest months. The 13-year-old has been in and out of hospital with a range of common chest and urinary tract infections that his doctors found challenging to treat.Harry was born with kidney failure and began dialys",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/australia-news/2026/jul/21/antibiotic-resistant-bacteria-increasingly-leaving-children-vulnerable-to-common-infections-global-study-finds",
-        "seendate": "2026-07-20T16:00:45.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "AI-altered images on birdwatching forums putting research at risk",
-        "summary": "Experts warn increase in enhanced photos on birding platforms creating fake sightings, threatening credibility of tool used by scientistsFor many birdwatchers, recording a species outside its normal range is the holy grail. In the UK, the discoveries often make national headlines. The western reef heron, for example, usually found in Africa and southern Europe, <a href=\"https://www.theguardian.com/environme",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/2026/jul/20/ai-slop-manipulated-fake-images-birds-citizen-science-aoe",
-        "seendate": "2026-07-20T04:00:45.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Google wants to release 32 million sterile mosquitoes. Our Australian tests offer a valuable lesson | Nigel Beebe for the Conversation",
-        "summary": "Google’s ‘Debug’ project in California and Florida aims to reduce mosquito numbers by releasing millions of sterilised malesIn the United States, Google’s (now Alphabet) Debug initiative has asked the federal government for permission to release up to 32 million sterilised male mosquitoes",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/2026/jul/21/google-mosquito-project-release-debug-australia-test",
-        "seendate": "2026-07-21T01:53:04.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Could AI be conscious?",
-        "summary": "Experts believe it’s at least possible. We urgently need a plan to navigate the ethical implicationsIn January, the AI company Anthropic published a new constitution for Claude, its most advanced large language model (LLM), which contained the comment: “We are caught in a difficult position where we neither want&nbsp;to&nbsp;overstate the likelihood of Cl",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/jul/19/could-ai-be-conscious",
-        "seendate": "2026-07-19T11:00:25.000Z",
         "domain": "theguardian.com"
       }
     ]
