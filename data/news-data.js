@@ -1,5 +1,5 @@
 window.NEWS_CACHE = {
-  "generatedAt": "2026-07-23T23:49:26.154Z",
+  "generatedAt": "2026-07-24T23:53:40.090Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
@@ -130,6 +130,22 @@ window.NEWS_CACHE = {
     ],
     "literature": [
       {
+        "title": "Lucy Caldwell: ‘Even your text messages fizz after reading James Joyce’",
+        "summary": "The author on the power of folktales, being inspired by Ulysses – and the book that every woman should readMy earliest reading&nbsp;memory The summer my middle sister was born, my mum and I would walk&nbsp;to the shops at&nbsp;Cherryvalley, in east&nbsp;Belfast, to do her messages, and she’d buy me the latest issue of Storyteller, illustrated tales from around the world. It came with a",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/jul/24/lucy-caldwell-even-your-text-messages-fizz-after-reading-james-joyce",
+        "seendate": "2026-07-24T09:00:09.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Unsayable by Michael Cunningham review – The Hours author on the insecurities that powered his creative life",
+        "summary": "The American novelist and screenwriter’s memoir covers sex work, Virginia Woolf and Hollywood successAs an eight-year-old in comfortable, solid, suburban California, Michael Cunningham felt compelled to make art before he quite understood what it was, or could do: a painting of souls ascending to heaven, for example, in which paradise resembled the Griffith Park Observatory and the dead were all depicted in",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/jul/24/unsayable-by-michael-cunningham-review-the-hours-author-on-the-insecurities-that-powered-his-creative-life",
+        "seendate": "2026-07-24T06:00:07.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Air by Christian Kracht review – a metaphysical jigsaw puzzle",
         "summary": "A portal opens from our modern world of data centres and interior design into a medieval fantasy realm, in this playfully surreal tale from the author of EurotrashA reclusive interior designer named Paul travels from his&nbsp;home in Orkney to the Norwegian coastal city of Stavanger for a most unusual commission. A data­centre housing a vast internet server is located by a fjord on the outskirts of the city",
         "source": "theguardian.com",
@@ -152,152 +168,168 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/books/2026/jul/23/raymond-briggs-library-goes-on-sale-at-his-local-oxfam-shop",
         "seendate": "2026-07-23T16:52:51.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Children’s literature festival criticised after requests that comments on diversity be deleted",
-        "summary": "John McLay, one of the founders of the festival in Bath, contacted writers who had noted a lack of diversity in the programme to request they remove comments posted to social mediaBath children’s literature festival is facing criticism after its founder emailed authors asking them to delete social media posts about the festival’s lack of diver",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jul/23/bath-childrens-literature-festival-requests-lack-of-diversity-comments-removed",
-        "seendate": "2026-07-23T12:58:35.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Salman Rushdie attacker faces US terrorism trial",
-        "summary": "Hadi Matar, already serving 25 years for attempted murder, denies federal charges that could bring a life sentenceThe man who stabbed Salman Rushdie in the eye on stage in 2022 is standing trial for a second time – this time facing terrorism charges after being found guilty of attempted murder and <a href=\"http",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jul/22/salman-rushdie-attacker-faces-us-terrorism-trial",
-        "seendate": "2026-07-22T14:23:44.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "entertainment": [
       {
-        "title": "Seth Meyers on Trump’s approval ratings: ‘Worse than Bush during the Iraq war’",
-        "summary": "Late-night host discussed Trump’s claims of a rigged 2020 election, push for voting changes and new Canadian tariffsLast night, Seth Meyers focused on Donald Trump’s claims that China swayed the 2020 election, new tariffs on Canadian imports and his attempt to impose voting restri",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/culture/2026/jul/23/seth-meyers-trump-approval-ratings-2020-election",
-        "seendate": "2026-07-23T15:12:05.000Z",
-        "domain": "theguardian.com"
+        "title": "Trump To Deliver  Unifying Yet Viciou Remarks At Rescheduled WHCD",
+        "summary": "President Donald Trump will deliver remarks at the rescheduled White House Correspondents’ Dinner Friday, months after an attempted attack halted the original event.",
+        "source": "whp580.iheart.com",
+        "url": "https://whp580.iheart.com/content/2026-07-24-trump-to-deliver-unifying-yet-vicious-remarks-at-rescheduled-whcd/",
+        "seendate": "20260724T233000Z",
+        "domain": "whp580.iheart.com"
       },
       {
-        "title": "The roaring 20s: how the current decade revolutionised cinema",
-        "summary": "Pre-Covid, the movie landscape was dramatically different: YouTubers weren’t dominating the box office, video game spin-offs rarely made an impact and Winnie-the-Pooh wasn’t yet the star of a slasher movie. Why such a flurry of innovation – and what will be next? Cinema has always been a medium of research and development. At any given point, the industry is searching for yet another breakthrough that can d",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/jul/23/how-2020s-decade-revolutionised-cinema",
-        "seendate": "2026-07-23T15:00:48.000Z",
-        "domain": "theguardian.com"
+        "title": "Chris Brown Pleads Guilty To Affray Charge Over U . K . Nightclub Brawl",
+        "summary": "Chris Brown and his associate have pleaded guilty to a charge connected to their alleged involvement in a fight at a nightclub in the U.K.",
+        "source": "929tomfm.iheart.com",
+        "url": "https://929tomfm.iheart.com/content/2026-07-24-chris-brown-pleads-guilty-to-affray-charge-over-uk-nightclub-brawl/",
+        "seendate": "20260724T233000Z",
+        "domain": "929tomfm.iheart.com"
       },
       {
-        "title": "Murdoch and Musk in the crosshairs at Venice film festival",
-        "summary": "Danny Boyle’s drama about the acquisition of the Sun and a four-hour Elon Musk documentary will premiere alongside new films from Martin McDonagh and Werner Herzog – but only one female director has a movie in competitionThe Venice film festival promises to take a swing at media moguls of the print and digital era this year, with Trainspotting director Danny Boyle’s new film about Rupert Murdoch’s acquisiti",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/jul/23/venice-film-festival-lineup-2026-danny-boyle",
-        "seendate": "2026-07-23T14:58:18.000Z",
-        "domain": "theguardian.com"
+        "title": "Pearl Jam guitarist Mike McCready unveils his debut graphic novel at San Diego Comic - Con",
+        "summary": "Pearl Jam guitarist and rock legend Mike McCready has written a graphic novel and rock opera called \"Mike McCready&#x27;s Farewell to Seasons\". It&#x27;ll be available worldwide Oct. 6.",
+        "source": "abc7.com",
+        "url": "https://abc7.com/post/pearl-jam-guitarist-mike-mccready-unveils-debut-graphic-novel-san-diego-comic-con/19570427/",
+        "seendate": "20260724T233000Z",
+        "domain": "abc7.com"
       },
       {
-        "title": "A grief therapist told me I should live to honor my son. How would I do that?",
-        "summary": "After my 22-month-old child died, music and poetry brought catharsis and comfortThe day Renzo had his aneurysm, in the afternoon before it happened, I distinctly remember telling him that it was going to be a pleasure to watch him grow up. It seems ridiculous to write that here, the foreshadowing so on the nose as to be unbelievable. But it’s true. To him and my wife Allegra, I said, “I love our little fami",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/ng-interactive/2026/jul/23/matthew-schnipper-rise-above-grief",
-        "seendate": "2026-07-23T11:00:43.000Z",
-        "domain": "theguardian.com"
+        "title": "Paramount agrees to delay closing its Warner Bros buyout for months while judge considers challenge",
+        "summary": "A judge had just granted a temporary restraining order to freeze the transaction.",
+        "source": "sun-sentinel.com",
+        "url": "https://www.sun-sentinel.com/2026/07/24/warner-bros-delay/",
+        "seendate": "20260724T233000Z",
+        "domain": "sun-sentinel.com"
       },
       {
-        "title": "The end of Heartstopper is a bittersweet loss – it’s never felt scarier to be young and queer | Alim Kheraj",
-        "summary": "The gay Netflix romance maintained a political edge despite rollbacks to queer and trans rightsAfter six books, three seasons of television and a film-length finale, Heartstopper has come to an end. Often dubbed the most wholesome show on TV, Netflix’s adaptation of <a href=\"https://www.theguardian.com/culture/alice",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/jul/23/heartstopper-netflix-end",
-        "seendate": "2026-07-23T09:00:41.000Z",
-        "domain": "theguardian.com"
+        "title": "ABC - Adult Contemporary News - Xtra 99 . 1 FM - Today Hits and Yesterday Favorites",
+        "summary": "Sheryl Crow,",
+        "source": "xtra99.com",
+        "url": "https://xtra99.com/abc-adult-contemporary-news/ef057911fcc1d0e393c18e72c5aa04b1",
+        "seendate": "20260724T233000Z",
+        "domain": "xtra99.com"
       }
     ],
     "f1": [
       {
-        "title": "Guenther Steiner: Ferrari focus is limiting Kimi Antonelli's Italian support",
-        "summary": "Former Haas Formula 1 team principal Guenther Steiner feels Italian fans are yet to fully embrace Kimi Antonelli, suggesting the nation's traditional focus on Ferrari is currently overshadowing the 19-year-old's achievements.Speaking on The Red Flags Podcast following Antonelli's sixth victory of the season at Spa-Francorchamps, Steiner shared his view on the dynamic within the Italian ...<a class='more'",
+        "title": "Hungarian GP long runs: Kimi Antonelli hits back at Ferrari",
+        "summary": "At first glance, Ferrari enjoyed an impressive day of practice at the Hungarian Grand Prix. The Scuderia dominated both Friday sessions with an advantage of around half a second over their closest challengers. However, appearances are deceptive, as the competitive order actually seems to be much closer than the timesheets suggest.The long runs with high fuel loads at the end of the second ...<a class='mo",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/guenther-steiner-ferrari-focus-is-limiting-kimi-antonellis-italian-support/10841222/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-23T17:49:31.000Z",
+        "url": "https://www.motorsport.com/f1/news/hungarian-gp-long-runs-kimi-antonelli-hits-back-at-ferrari/10841569/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-24T19:01:23.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Max Verstappen: \"At first they said I was complaining – now more people see what F1 2026 is like\"",
-        "summary": "Following the race weekend at Spa-Francorchamps, and particularly Oscar Piastri's strong comments, one topic dominates media day in Budapest: energy management, more specifically the self-learning aspects of the 2026 power unit.Piastri called it \"crap\" that drivers can be caught out by forward-thinking algorithms which adapt based on what they learn over time. It means that extremely small ...<a class='m",
+        "title": "Charles Leclerc: \"I don't expect us to have today's gap\" in F1 Hungary qualifying",
+        "summary": "Ferrari has made its strongest start to a Formula 1 grand prix weekend in a long time, but Charles Leclerc isn't expecting that advantage to last into qualifying in Hungary.In tricky, windy conditions on a bumpy Hungaroring, Lewis Hamilton topped Friday's second practice, with Leclerc 0.148s behind in second as Ferrari enjoyed a half-second advantage over McLaren's Lando Norris.Read ...<a class='more",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/max-verstappen-at-first-they-said-i-was-complaining-now-more-people-see-what-f1-2026-is-like/10841197/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-23T17:00:16.000Z",
+        "url": "https://www.motorsport.com/f1/news/charles-leclerc-i-dont-expect-us-to-have-todays-gap-in-f1-hungary-qualifying/10841548/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-24T18:46:18.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "F1 Hungarian GP: Friday schedule, weather forecast and how to watch",
-        "summary": "Formula 1 heads to Budapest this weekend for the final race before the summer break, with Kimi Antonelli back in control of the championship after his Belgian Grand Prix win. Antonelli’s sixth victory of the season stretched his lead over George Russell to 50 points, after the Briton's race ended early following a first lap collision with Lewis Hamilton at Spa. Hamilton also remains in the ...<a class='more'",
+        "title": "Red Bull: \"No miracles\" for Max Verstappen and Isack Hadjar after \"a lot of complaints\" in Hungarian GP practice",
+        "summary": "Heading into the weekend, Red Bull had hoped the Hungaroring would offer a better opportunity than Silverstone and Spa, as the shortcomings on the electrical side of the power unit are exposed to a lesser extent at the Formula 1 Hungarian Grand Prix venue.Friday's practice sessions, however, proved to be challenging. That was partly due to the condition of the track surface, but both Red Bull ...<a class",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/f1-hungarian-gp-friday-schedule-weather-forecast-and-how-to-watch/10841179/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-23T17:00:03.000Z",
+        "url": "https://www.motorsport.com/f1/news/red-bull-no-miracles-for-max-verstappen-and-isack-hadjar-after-a-lot-of-complaints-in-hungarian-gp-/10841554/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-24T18:42:02.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "“I’m gonna stretch your neck like a chicken” – Kimi Antonelli explains tough love from his father after F1 mistakes",
-        "summary": "In Formula 1, it’s often said that nothing is unimprovable, only unimproved. Even a grand prix-winning driver can have cause to believe they could have done better.That’s a lesson Kimi Antonelli is absorbing from his team and his family, having collected two warnings for straying beyond track limits on his way to winning last weekend’s Belgian Grand Prix. And as Antonelli revealed, his ...<a class='more'",
+        "title": "F1 Hungarian GP: Saturday schedule, weather forecast and how to watch",
+        "summary": "Formula 1 heads into Saturday at the Hungaroring with Ferrari on top after Lewis Hamilton led Charles Leclerc in second practice for the Hungarian Grand Prix.Hamilton ended Friday fastest as drivers struggled with low grip, gusty wind and a difficult track surface around the twisty Budapest circuit. Franco Colapinto also brought out red flags after crashing at the final corner, while several ...<a class=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/im-gonna-stretch-your-neck-like-a-chicken-kimi-antonelli-explains-tough-love-from-his-father-after-/10841195/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-23T16:59:11.000Z",
+        "url": "https://www.motorsport.com/f1/news/f1-hungarian-gp-saturday-schedule-weather-forecast-and-how-to-watch/10841505/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-24T17:46:16.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "David Coulthard praises Toto Wolff's leadership amid Mercedes pressure",
-        "summary": "Former Formula 1 driver David Coulthard has praised Mercedes team principal Toto Wolff's handling of difficult situations, lauding the Austrian's willingness to face the media and maintain professionalism during tough moments.Speaking on the Up To Speed podcast alongside co-host Jolie Sharpe, Coulthard was asked exactly how Wolff would internally manage the recent public criticism surrounding ...<a class",
+        "title": "George Russell: What Mercedes 'feared' from Ferrari came true in F1 Hungarian GP practice",
+        "summary": "Although Ferrari's drivers were keen to play down expectations ahead of the Hungarian Grand Prix, the SF-26 confirmed its superiority around slower corners on the opening day of Formula 1 track action. Charles Leclerc went fastest in FP1 while team-mate Lewis Hamilton led Leclerc in a Ferrari 1-2 in FP2.In contrast, both Mercedes drivers reported confidence-sapping balance issues and a lack ...<a class='",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/david-coulthard-praises-toto-wolffs-leadership-amid-mercedes-pressure/10841203/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-23T16:56:44.000Z",
+        "url": "https://www.motorsport.com/f1/news/russell-what-mercedes-feared-from-ferrari-came-true-in-f1-hungarian-gp-practice/10841519/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-24T17:43:19.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "Star Wars Zero Company reveals cast, including fan favorite actors from Clone Wars animated series",
-        "summary": "The crowd is going nuts, they want their Dee Bradley Baker, they're chanting Matt Lanter's name: \"Lan-ter, Lan-ter, Lan-ter!\"",
+        "title": "Hell Let Loose: Vietnam is open to all this weekend for a free playtest",
+        "summary": "The 50v50 military shooter is gearing up for its full release in August.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/strategy/star-wars-zero-company-reveals-cast-including-fan-favorite-actors-from-clone-wars-animated-series/",
-        "seendate": "2026-07-23T23:18:15.000Z",
+        "url": "https://www.pcgamer.com/games/fps/hell-let-loose-vietnam-is-open-to-all-this-weekend-for-a-free-playtest/",
+        "seendate": "2026-07-24T22:01:09.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "The full trailer for Zach Cregger's Resident Evil is here, and holy cow I think this one might actually be good",
-        "summary": "The director of Weapons and Barbarian is doing his own thing with Resident Evil, and it looks horrific but darkly funny too.",
+        "title": "Saudi Arabia's takeover of EA gets approval from European Commission",
+        "summary": "The commission has ruled that the buyout will not cause \"competition concerns.\"",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/movies-tv/the-full-trailer-for-zach-creggers-resident-evil-is-here-and-holy-cow-i-think-this-one-might-actually-be-good/",
-        "seendate": "2026-07-23T21:32:40.000Z",
+        "url": "https://www.pcgamer.com/gaming-industry/saudi-arabias-takeover-of-ea-gets-approval-from-european-commission/",
+        "seendate": "2026-07-24T18:56:42.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "A new expansion and the ability to be a crow wizard has me enjoying a 10-year-old action RPG for the first time",
-        "summary": "Grim Dawn's Fangs of Asterkarn expansion pulled me in despite its old age.",
+        "title": "Amazon Gaming boss says high hardware prices could be good news for its Luna cloud gaming program",
+        "summary": "In a world of $1,000 Steam Machines, a hardware-free gaming option might have wider appeal.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/rpg/a-new-expansion-and-the-ability-to-be-a-crow-wizard-has-me-enjoying-a-10-year-old-action-rpg-for-the-first-time/",
-        "seendate": "2026-07-23T21:31:52.000Z",
+        "url": "https://www.pcgamer.com/gaming-industry/amazon-gaming-boss-says-high-hardware-prices-could-be-good-news-for-its-luna-cloud-gaming-program/",
+        "seendate": "2026-07-24T18:48:01.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Atari signs 10-game deal with Universal for movies based on Pong, Breakout, Centipede, and yes, really, Pong",
-        "summary": "Get ready for 90 minutes of Liam Neeson punching holes in brick walls, or... something.",
+        "title": "The fourth biggest memory manufacturer could break into America soon, and chances are you've never heard of it",
+        "summary": "DRAM-ing up support.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/movies-tv/atari-signs-10-game-deal-with-universal-for-movies-based-on-pong-breakout-centipede-and-more/",
-        "seendate": "2026-07-23T20:07:34.000Z",
+        "url": "https://www.pcgamer.com/hardware/memory/the-fourth-biggest-memory-manufacturer-could-break-into-america-soon-and-chances-are-youve-never-heard-of-it/",
+        "seendate": "2026-07-24T15:10:27.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Ubisoft chief says Sony's decision to kill game discs isn't going to be a big deal",
-        "summary": "Yves Guillemot reckons the lack of physical discs might even be a good thing.",
+        "title": "Bethesda says layoffs haven't affected 'the roadmap' for The Elder Scrolls 6, it hasn't forgotten Oblivion Remastered, and it's not telling you this because Asha Sharma forced it to",
+        "summary": "Well, that clears that up.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/ubisoft-chief-says-sonys-decision-to-kill-game-discs-isnt-going-to-be-a-big-deal/",
-        "seendate": "2026-07-23T19:58:06.000Z",
+        "url": "https://www.pcgamer.com/games/the-elder-scrolls/bethesda-says-layoffs-havent-affected-the-roadmap-for-the-elder-scrolls-6-it-hasnt-forgotten-oblivion-remastered-and-its-not-telling-you-this-because-asha-sharma-forced-it-to/",
+        "seendate": "2026-07-24T15:07:25.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
+      {
+        "title": "Space datacenters proposed by Musk and Bezos ‘catastrophic’ for planet, experts warn",
+        "summary": "New US petition demands review of plans from tech companies amid fears of environmental destructionSpace datacenters proposed by SpaceX, Jeff Bezos’s Blue Origin and others would release staggering levels of pollution that would probably alter the Earth’s atmosphere and be “catastrophic” fo",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/jul/23/space-datacenters-bezos-blue-origin",
+        "seendate": "2026-07-23T11:00:43.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Elon Musk says he got ‘carried away’ with Trump – but still holds on to contentious political views",
+        "summary": "In interview, billionaire says instead of running ‘Doge’ he should’ve ‘worked on my companies’ and shares extreme predictionsElon Musk has admitted he became too consumed by politics during his volatile alliance with Donald Trump and his brief appointment as the president’s financial axman, running the so-called “department of government efficiency” (Doge).The world’s richest person, and briefly its",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/jul/23/elon-musk-regret-trump-doge-ai",
+        "seendate": "2026-07-23T15:27:52.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Customers prefer AI chatbots, says British Gas owner as 1,300 call centre and back office jobs axed",
+        "summary": "CEO Chris O’Shea defends Centrica’s plans as it reports rise in retail profits following focus on bigger marginsThe owner of British Gas has claimed that most households would rather speak with an AI chatbot than deal with the company’s staff as it prepares to cut 1,300 jobs from its call centres and back office.Centrica, the supplier’s FTSE 100 owner, plans to cut 800 jobs as the company carries out",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/business/2026/jul/23/customers-prefer-ai-chatbots-says-chris-oshea-british-gas-centrica-boss",
+        "seendate": "2026-07-23T16:45:56.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Should you use AI for a task? Here’s a simple way to decide | Bruce Schneier",
+        "summary": "Sometimes, what matters isn’t your output but what you put into the process. Think of it like work v the gymI teach public policy at the Harvard Kennedy School and the Munk School at the University of Toronto. And it will come as no surprise to you that my students regularly <a href=\"https://www.insidehighered.com/news/faculty/learning-assessment/2026/07/08/brown-professor-suspects-most-his-class-used-ai-ch",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/commentisfree/2026/jul/24/should-you-use-ai",
+        "seendate": "2026-07-24T12:00:14.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "EU fines Google €890m for competition breaches over search and apps",
         "summary": "Firm told to treat third-party services that appear in its results in ‘fair and non-discriminatory manner’Google has been fined a total of €890m (£760m) by the EU for breaches of online competition laws by its search and app store services.The European Commission, the EU’s executive arm, said Google had broken the Digital Markets Act by giving priority to its own services, such as shopping and hotel",
@@ -305,41 +337,25 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/technology/2026/jul/23/eu-fines-google-for-competition-breaches-over-search-and-apps",
         "seendate": "2026-07-23T10:00:42.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Personal and banking details among customer data stolen in Origin Energy hack",
-        "summary": "Hackers access Australian customers’ names, addresses, dates of birth, phone numbers and some bank account details, company saysFollow our Australia news live blog for latest updatesGet our <a href=\"htt",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/australia-news/2026/jul/23/personal-and-banking-details-among-customer-data-stolen-in-origin-energy-hack",
-        "seendate": "2026-07-23T09:55:27.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Chasing new skills, going back to basics and pushing for collective action: how software engineers are adapting to AI",
-        "summary": "Software engineering was one of the best-paying professions in the US in 2022, but the advent of AI has disrupted it, leading to several layoffs and underemploymentEvery weekday, Matt, a software engineer, looks forward to his four-hour train commute to Pawling, New York. It’s time he uses to work on his own project: a browser-based video game for which he writes every line of code himself.“I am acti",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/ng-interactive/2026/jul/12/software-developers-engineers-ai",
-        "seendate": "2026-07-22T23:18:52.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "US teen drops Meta lawsuit on social media addiction days before trial",
-        "summary": "Withdrawn case marks a victory for the social media giant after earlier landmark loss at trial over addictive claimsA Florida teen whose lawsuit claimed Meta’s platforms were to blame ⁠for his depression ⁠and anxiety ​dropped his case against the company just days before the trial in <a href=\"",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/jul/22/florida-teen-drops-meta-lawsuit",
-        "seendate": "2026-07-22T22:33:43.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Tesla’s profits slide despite growing revenue as it pivots to robotics and AI",
-        "summary": "Shares in Elon Musk company fall more 3% in after-hours trading, as earnings per share miss Wall Street expectationsTesla reported its second-quarter earnings on Wednesday, disclosing far lower profits than expected. The company’s already beleaguered stock, which had fallen about 14% this year to date, dipped further following the earnings report.Elon Musk’s automaker, once the pinnacle of his tech e",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/jul/22/tesla-profits-earnings",
-        "seendate": "2026-07-22T23:00:17.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "climate": [
+      {
+        "title": "This desert oasis is a biological wonderland. Trump’s border wall threatens to destroy it",
+        "summary": "Environmental groups are sounding the alarm over plans that threaten a desert spring that’s home to rare fish and turtles and sacred to the O’odham peopleQuitobaquito Springs in south-west Arizona has been called a biological wonderland with few equals.The springs are an oasis in the vast Sonoran desert along the US-Mexico border, held sacred by the O’odham people, who call it A’al Vaipia. Here, wate",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/jul/24/arizona-border-wall-endangered-species",
+        "seendate": "2026-07-24T20:36:43.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Scientists decry Trump’s ‘blame game’ after he claims Canada ‘poisoning’ US air",
+        "summary": "Trump told Mark Carney ‘you got to stop these fires from coming in’ as experts say wildfires symptom of climate crisisScientists have reacted with incredulity after Donald Trump accused Canada of “poisoning” the US’s air with smoke billowing from a slew of forest fires and threatened sanctions upon the country’s northern neighbor.The US president has said that he raised the issue of smoke waft",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/jul/24/trump-canada-wildfires-smoke-scientists",
+        "seendate": "2026-07-24T10:00:10.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Trump says nearly 200 firms have signed pledge to protect Americans from costs arising from datacenters",
         "summary": "‘Ratepayer Protection Pledge’ president has touted is non-binding as people continue to struggle with rising billsDonald Trump has announced that about 200 entities have signed on to his non-binding “Ratepayer Protection Pledge”, expanding a voluntary commitment which claims to ensure US consumers will not bear the cost of the AI datacenter build-out.Trump delivered remarks on Thursday at the Environ",
@@ -363,64 +379,48 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/us-news/2026/jul/22/tornadoes-flooding-kentucky-west-virginia",
         "seendate": "2026-07-22T19:31:11.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Tick bites are on the rise in the US and UK. Here’s how to protect yourself",
-        "summary": "Experts share tips to avoid the blood-sucking pests that can transmit Lyme disease and other illnesses on to humansI won’t go into gory detail about the tick I found latched behind my ear approximately 35 hours after a hike in early June. Suffice it to say, the parasite was well fed, and I was horrified.I am far from alone in making such a disgusting discovery. According to the Centers for Disease Co",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/wellness/2026/jul/21/tick-bites-how-to-protect-yourself",
-        "seendate": "2026-07-21T16:00:50.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Tropical Storm Bertha heads for land as Hurricane Fausto forms in eastern Pacific",
-        "summary": "Bertha could bring heavy rain on US Gulf coast, with its center located 110 miles south of Panama City, FloridaTropical Storm Bertha formed on Monday evening in the Gulf of Mexico south of the Florida Panhandle as it drifts erratically toward populated coastal areas, bringing a threat of heavy rain, storm surge and damaging wind gusts.Meanwhile, in the eastern Pacific Ocean, Hurricane Fausto formed f",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jul/20/bertha-tropical-depression-us-gulf-coast",
-        "seendate": "2026-07-21T02:05:29.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "science": [
       {
-        "title": "Orcas seen ramming prey so hard it explodes may be playing game",
-        "summary": "Scientists believe sunfish-smashing behaviour could be form of entertainment or to help younger whales feedOrcas have been observed ramming into giant fish so hard that the prey explode, possibly as a form of gory entertainment.On several occasions, orcas were observed to hold sunfish in their jaws while a second whale smashed into the target at high speed, causing it to break into thousands of piece",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/2026/jul/23/orcas-ramming-prey-hard-explodes-playing-game",
-        "seendate": "2026-07-23T04:00:34.000Z",
-        "domain": "theguardian.com"
+        "title": "Palm Beach County reports Florida first  flesh - eating bacteria  death this year",
+        "summary": "Florida health officials are alerting residents to Vibrio vulnificus, a rare bacteria found in warm saltwater and brackish water, which has caused one death and 11 cases statewide this year.",
+        "source": "wpbf.com",
+        "url": "https://www.wpbf.com/article/florida-palm-beach-county-flesh-eating-bacteria-death/73259996",
+        "seendate": "20260724T233000Z",
+        "domain": "wpbf.com"
       },
       {
-        "title": "Space datacenters proposed by Musk and Bezos ‘catastrophic’ for planet, experts warn",
-        "summary": "New US petition demands review of plans from tech companies amid fears of environmental destructionSpace datacenters proposed by SpaceX, Jeff Bezos’s Blue Origin and others would release staggering levels of pollution that would probably alter the Earth’s atmosphere and be “catastrophic” fo",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/jul/23/space-datacenters-bezos-blue-origin",
-        "seendate": "2026-07-23T11:00:43.000Z",
-        "domain": "theguardian.com"
+        "title": "New Development Coming to Union Gap Restaurant Property",
+        "summary": "What&#x2019;s being built at the old restaurant property in Union Gap? After years of rumors, we may finally have an answer!",
+        "source": "katsfm.com",
+        "url": "https://katsfm.com/union-gap-former-sharis-construction/",
+        "seendate": "20260724T233000Z",
+        "domain": "katsfm.com"
       },
       {
-        "title": "Sperm whales change ‘vowel’ sounds when boats are nearby, scientists discover",
-        "summary": "Researchers listening off the Caribbean island of Dominica found variations in the mammals’ audible clicks when marine traffic was closeSperm whales produce a specific pattern of clicking noises when they hear the noise of boats, researchers have found. The pattern is so distinct that the scientists who identified it said they can now use it to predict when ships are nearby.Researchers from <a href=\"",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/2026/jul/22/sperm-whales-dominica-clicks-vowels-language-changes-shipping-noise-project-ceti",
-        "seendate": "2026-07-22T13:00:15.000Z",
-        "domain": "theguardian.com"
+        "title": "Summer swimming is fun , but beware",
+        "summary": "With summer temperatures rising and more families heading to pools, beaches and lakes, health officials are reminding residents to practice water safety. According to the Centers for Disease Control and Prevention, drowning is the leading cause of injury-related death among children ages 1 to 4 and the second leading cause among children under 14. More than 4,000 fatal unintentional drownings <a href=\"https://www.mpa",
+        "source": "mpacorn.com",
+        "url": "https://www.mpacorn.com/articles/summer-swimming-is-fun-but-beware/",
+        "seendate": "20260724T233000Z",
+        "domain": "mpacorn.com"
       },
       {
-        "title": "Rivers of magma once bubbled beneath crust of Mars, research suggests",
-        "summary": "Finding widens selection of rocky planets that may once have been habitableMars once had rivers of magma bubbling beneath its crust, new research suggests. The surprise find makes it more probable that Mars could have supported life and widens the selection of rocky planets that may once have been",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/jul/22/magma-rivers-beneath-mars-crust-study",
-        "seendate": "2026-07-22T05:00:07.000Z",
-        "domain": "theguardian.com"
+        "title": "The footprints of every building in NYC",
+        "summary": "The landscape of NYC changes so much that the New York City Office of Technology and Innovation updates a dataset of building footprint shapes weekly.",
+        "source": "beautifulpublicdata.com",
+        "url": "https://www.beautifulpublicdata.com/the-footprints-of-every-building-in-nyc/",
+        "seendate": "20260724T233000Z",
+        "domain": "beautifulpublicdata.com"
       },
       {
-        "title": "‘Most people don’t know we’ve set up a doomsday system’: physicist Laura Grego on satellites, nuclear weapons and the battle for our skies",
-        "summary": "Elon Musk is trying to own it, competing powers are trying to fight in it and nobody seems to be regulating it. So who does space really belong to?The last time I saw Laura Grego was in a tent in a baking field on the Welsh borders in May. The conversation on stage ranged from the dangers of <a href=\"https://www.theguardian.com/science/ng-interactive/2026/mar/31/this-feels-fragile-how-a-satellite-smashing-c",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/lifeandstyle/2026/jul/20/doomsday-system-physicist-laura-grego-satellites-nuclear-weapons-battle-skies-space-elon-musk",
-        "seendate": "2026-07-20T13:09:33.000Z",
-        "domain": "theguardian.com"
+        "title": "Healing Reins Receives $25 , 000 Donation from First Interstate Bank - The Source",
+        "summary": "Healing Reins recently received a $25,000 gift from First Interstate Bank and the First Interstate BancSystem Foundation as part of their fifth-annual Believe in Local grant campaign. Serving children, teens, and adults ages 4 to 94, Healing Reins provides adaptive equine and outdoor-based therapeutic services designed to support emotional, physical, and mental well-being. Each week, [&hellip;]",
+        "source": "bendsource.com",
+        "url": "https://www.bendsource.com/business/businessnews/healing-reins-receives-25000-donation-from-first-interstate-bank/",
+        "seendate": "20260724T233000Z",
+        "domain": "bendsource.com"
       }
     ]
   }
