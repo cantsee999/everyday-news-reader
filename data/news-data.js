@@ -1,5 +1,5 @@
 window.NEWS_CACHE = {
-  "generatedAt": "2026-07-24T23:53:40.090Z",
+  "generatedAt": "2026-07-25T23:49:48.501Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
@@ -130,6 +130,14 @@ window.NEWS_CACHE = {
     ],
     "literature": [
       {
+        "title": "The perfect books for the beach … picked by Freida McFadden, Mick Herron, Robert Harris and more",
+        "summary": "From a transporting historical saga to a tale of small-town betrayal, the authors of our favourite page-turners reveal the books they take on holiday – introduced by Jenny ColganIt is important to follow a balanced diet on holiday. Too many “My Wife’s Sister’s Husband’s Psychopath”, and you’ll get confused and grumpy. Too much sugary romance and your teeth will fall out. Something too big a",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/ng-interactive/2026/jul/25/the-perfect-books-for-the-beach-picked-by-freida-mcfadden-mick-herron-robert-harris-and-more",
+        "seendate": "2026-07-25T08:00:36.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Lucy Caldwell: ‘Even your text messages fizz after reading James Joyce’",
         "summary": "The author on the power of folktales, being inspired by Ulysses – and the book that every woman should readMy earliest reading&nbsp;memory The summer my middle sister was born, my mum and I would walk&nbsp;to the shops at&nbsp;Cherryvalley, in east&nbsp;Belfast, to do her messages, and she’d buy me the latest issue of Storyteller, illustrated tales from around the world. It came with a",
         "source": "theguardian.com",
@@ -160,150 +168,158 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/books/2026/jul/23/the-midnight-train-by-matt-haig-audiobook-review-a-cosy-feelgood-journey",
         "seendate": "2026-07-23T15:00:48.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Raymond Briggs’s library goes on sale at his local Oxfam shop",
-        "summary": "Books belonging to the beloved creator of The Snowman and When the Wind Blows were donated by his estate after his deathThe book collection of the creator of The Snowman and Fungus the Bogeyman has gone on sale at Oxfam’s Hove bookshop in East Sussex and <a href=\"https://onlineshop.oxfam.org.uk/raymond-briggs-estate-book-collection/category/raymond-briggs-estate-book-collection?N=1514170236&amp;Ns=product.c",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jul/23/raymond-briggs-library-goes-on-sale-at-his-local-oxfam-shop",
-        "seendate": "2026-07-23T16:52:51.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "entertainment": [
       {
-        "title": "Trump To Deliver  Unifying Yet Viciou Remarks At Rescheduled WHCD",
-        "summary": "President Donald Trump will deliver remarks at the rescheduled White House Correspondents’ Dinner Friday, months after an attempted attack halted the original event.",
-        "source": "whp580.iheart.com",
-        "url": "https://whp580.iheart.com/content/2026-07-24-trump-to-deliver-unifying-yet-vicious-remarks-at-rescheduled-whcd/",
-        "seendate": "20260724T233000Z",
-        "domain": "whp580.iheart.com"
+        "title": "Rebel Wilson had a legal win but didn’t come out of The Deb defamation trial unscathed",
+        "summary": "Judgment dismissing Charlotte MacInnes’s case expressed doubts about credibility of three key witnesses, and is likely to be appealedRebel Wilson’s self-styled brand as a truth teller was put to the test during a fiery defamation feud where rivals called her a bully.But the Hollywood A-lister, referred to as “very difficult to be around” and “fucking nuts” during an at-times bruising trial, emerged f",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/film/2026/jul/25/rebel-wilson-had-a-legal-win-but-didnt-come-out-of-the-deb-defamation-trial-unscathed",
+        "seendate": "2026-07-24T20:30:22.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Chris Brown Pleads Guilty To Affray Charge Over U . K . Nightclub Brawl",
-        "summary": "Chris Brown and his associate have pleaded guilty to a charge connected to their alleged involvement in a fight at a nightclub in the U.K.",
-        "source": "929tomfm.iheart.com",
-        "url": "https://929tomfm.iheart.com/content/2026-07-24-chris-brown-pleads-guilty-to-affray-charge-over-uk-nightclub-brawl/",
-        "seendate": "20260724T233000Z",
-        "domain": "929tomfm.iheart.com"
+        "title": "Johnny Depp is playing Scrooge? I am not here for his big Hollywood comeback",
+        "summary": "‘It’s good to be back,’ says the actor in a new trailer for the forthcoming Ebenezer. Has everyone forgotten about the ghosts of his past?It is fair to say that, professionally speaking, Johnny Depp has had a quiet few years. Since he and Amber Heard sued each other amid a whirlwind of genuinely ugly accusations in 2019, and went to trial in 2022, Depp has struggled to reclaim his position in Hollywood.",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/film/2026/jul/24/johnny-depp-is-playing-scrooge-i-am-not-here-for-his-big-hollywood-comeback",
+        "seendate": "2026-07-24T15:51:49.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Pearl Jam guitarist Mike McCready unveils his debut graphic novel at San Diego Comic - Con",
-        "summary": "Pearl Jam guitarist and rock legend Mike McCready has written a graphic novel and rock opera called \"Mike McCready&#x27;s Farewell to Seasons\". It&#x27;ll be available worldwide Oct. 6.",
-        "source": "abc7.com",
-        "url": "https://abc7.com/post/pearl-jam-guitarist-mike-mccready-unveils-debut-graphic-novel-san-diego-comic-con/19570427/",
-        "seendate": "20260724T233000Z",
-        "domain": "abc7.com"
+        "title": "Seth Meyers on Elon Musk’s AI Odyssey movie: ‘I can’t wait for that to suck’",
+        "summary": "The late-night host ridiculed the right’s ‘alternate reality’ where Christopher Nolan’s blockbuster is a flop and the Iran war is overSeth Meyers took aim at Elon Musk and the right over their inconsequential attempts to bring down Christopher Nolan’s hit adventure The Odyssey.On Late Night, Meyers said that with the second presidency of Donald Trump, it had been pushed that “the era of woke was over",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/culture/2026/jul/24/seth-meyers-odyssey-movie-elon-musk-ai",
+        "seendate": "2026-07-24T14:03:24.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Paramount agrees to delay closing its Warner Bros buyout for months while judge considers challenge",
-        "summary": "A judge had just granted a temporary restraining order to freeze the transaction.",
-        "source": "sun-sentinel.com",
-        "url": "https://www.sun-sentinel.com/2026/07/24/warner-bros-delay/",
-        "seendate": "20260724T233000Z",
-        "domain": "sun-sentinel.com"
+        "title": "‘I know what it’s like to be vulnerable’: musician This Is Lorelei AKA Nate Amos on addiction and finding peace",
+        "summary": "The singer-songwriter and Water from Your Eyes guitarist was unstoppably prolific, despite a growing dependence on substances. Now sober, he reflects on his new album and the songs that helped him turn his life roundFor most of his life, Nate Amos made music just to&nbsp;get through the day. There was plenty of it: dozens of self-produced albums and EPs uploaded – since his This Is Lorelei project launched",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/music/2026/jul/24/nate-amos-music-interview-singer-in-my-band-album-water-from-your-eyes-this-is-lorelai",
+        "seendate": "2026-07-24T12:00:13.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "ABC - Adult Contemporary News - Xtra 99 . 1 FM - Today Hits and Yesterday Favorites",
-        "summary": "Sheryl Crow,",
-        "source": "xtra99.com",
-        "url": "https://xtra99.com/abc-adult-contemporary-news/ef057911fcc1d0e393c18e72c5aa04b1",
-        "seendate": "20260724T233000Z",
-        "domain": "xtra99.com"
+        "title": "‘An anthem for the co-dependent’: Bad Magpie’s corvid carnage with a side of existential angst",
+        "summary": "Going by the mantra, if you want to make someone laugh, make them cry first, the game’s developers have created a lonely magpie who fills the void by wreaking havocAmid the gleeful anarchy of Bad Magpie’s debut trailer, there’s a striking note of melancholy. The game’s protagonist – a wounded corvid that creates havoc wherever she goes – calls out forlornly as a flock of her kind passes above, with a conspi",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/games/2026/jul/24/bad-magpie-preview-milktooth",
+        "seendate": "2026-07-24T12:00:13.000Z",
+        "domain": "theguardian.com"
       }
     ],
     "f1": [
       {
-        "title": "Hungarian GP long runs: Kimi Antonelli hits back at Ferrari",
-        "summary": "At first glance, Ferrari enjoyed an impressive day of practice at the Hungarian Grand Prix. The Scuderia dominated both Friday sessions with an advantage of around half a second over their closest challengers. However, appearances are deceptive, as the competitive order actually seems to be much closer than the timesheets suggest.The long runs with high fuel loads at the end of the second ...<a class='mo",
+        "title": "F1 fans argue Lewis Hamilton \"can't catch a break\" after Hungarian GP penalty",
+        "summary": "Formula 1 fans have argued that Lewis Hamilton 'cannot catch a break' after the seven-time champion was hit with a three-place grid penalty for the Hungarian Grand Prix. The Briton was handed the penalty for impeding McLaren's Oscar Piastri during the final phase of qualifying. As Hamilton was going down the main straight at a reduced speed, he failed to move off the racing line to allow the ...<a class=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/hungarian-gp-long-runs-kimi-antonelli-hits-back-at-ferrari/10841569/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-24T19:01:23.000Z",
+        "url": "https://www.motorsport.com/f1/news/f1-fans-argue-lewis-hamilton-cant-catch-a-break-after-hungarian-gp-penalty/10841933/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-25T19:31:17.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Charles Leclerc: \"I don't expect us to have today's gap\" in F1 Hungary qualifying",
-        "summary": "Ferrari has made its strongest start to a Formula 1 grand prix weekend in a long time, but Charles Leclerc isn't expecting that advantage to last into qualifying in Hungary.In tricky, windy conditions on a bumpy Hungaroring, Lewis Hamilton topped Friday's second practice, with Leclerc 0.148s behind in second as Ferrari enjoyed a half-second advantage over McLaren's Lando Norris.Read ...<a class='more",
+        "title": "Bernd Mayländer reveals upgrades to F1's new Mercedes safety car",
+        "summary": "Formula 1 has debuted its new safety car at the 2026 Hungarian Grand Prix, introducing the Mercedes-AMG GT 63 PRO 4MATIC+ to the grid.Replacing the AMG GT Black Series that had served the championship since 2022, the new iteration is the first safety car to feature fully variable all-wheel drive, designed to improve traction and stability during wet-weather conditions. The car also features a ...<a class",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/charles-leclerc-i-dont-expect-us-to-have-todays-gap-in-f1-hungary-qualifying/10841548/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-24T18:46:18.000Z",
+        "url": "https://www.motorsport.com/f1/news/bernd-maylander-reveals-upgrades-to-f1s-new-mercedes-safety-car/10841925/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-25T19:11:57.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Red Bull: \"No miracles\" for Max Verstappen and Isack Hadjar after \"a lot of complaints\" in Hungarian GP practice",
-        "summary": "Heading into the weekend, Red Bull had hoped the Hungaroring would offer a better opportunity than Silverstone and Spa, as the shortcomings on the electrical side of the power unit are exposed to a lesser extent at the Formula 1 Hungarian Grand Prix venue.Friday's practice sessions, however, proved to be challenging. That was partly due to the condition of the track surface, but both Red Bull ...<a class",
+        "title": "Carlos Sainz makes sobering Williams prediction before arrival of major upgrades",
+        "summary": "Carlos Sainz has admitted he doubts that Williams's upcoming B-spec Formula 1 car will be enough to bridge the one-second gap required to challenge for points on pure merit this season.Speaking on The Fast And The Curious podcast, the Spaniard offered a sobering assessment of the Grove outfit's current performance, explaining how far the team must climb to rejoin the midfield ...<a class='more' href='htt",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/red-bull-no-miracles-for-max-verstappen-and-isack-hadjar-after-a-lot-of-complaints-in-hungarian-gp-/10841554/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-24T18:42:02.000Z",
+        "url": "https://www.motorsport.com/f1/news/carlos-sainz-makes-sobering-williams-prediction-before-arrival-of-major-upgrades/10841903/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-25T17:51:48.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "F1 Hungarian GP: Saturday schedule, weather forecast and how to watch",
-        "summary": "Formula 1 heads into Saturday at the Hungaroring with Ferrari on top after Lewis Hamilton led Charles Leclerc in second practice for the Hungarian Grand Prix.Hamilton ended Friday fastest as drivers struggled with low grip, gusty wind and a difficult track surface around the twisty Budapest circuit. Franco Colapinto also brought out red flags after crashing at the final corner, while several ...<a class=",
+        "title": "Kimi Antonelli handed grid drop for yellow flag infringement in F1 Hungarian GP qualifying",
+        "summary": "Kimi Antonelli has been given a three-place grid drop for Formula 1's Hungarian Grand Prix after being penalised for not heeding yellow flags.Antonelli took fourth on the grid at the Hungaroring as Mercedes was beaten by both McLaren's polesitter Lando Norris and the two Ferraris. On his final qualifying run, however, Antonelli caught yellow flags in the final corner - where Red Bull's Max ...<a class='m",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/f1-hungarian-gp-saturday-schedule-weather-forecast-and-how-to-watch/10841505/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-24T17:46:16.000Z",
+        "url": "https://www.motorsport.com/f1/news/kimi-antonelli-handed-grid-drop-for-yellow-flag-infringement-in-f1-hungarian-gp-qualifying/10841895/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-25T17:42:34.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "George Russell: What Mercedes 'feared' from Ferrari came true in F1 Hungarian GP practice",
-        "summary": "Although Ferrari's drivers were keen to play down expectations ahead of the Hungarian Grand Prix, the SF-26 confirmed its superiority around slower corners on the opening day of Formula 1 track action. Charles Leclerc went fastest in FP1 while team-mate Lewis Hamilton led Leclerc in a Ferrari 1-2 in FP2.In contrast, both Mercedes drivers reported confidence-sapping balance issues and a lack ...<a class='",
+        "title": "\"It's our mistake\" Ferrari takes blame for Lewis Hamilton penalty in F1 Hungarian GP qualifying",
+        "summary": "Lewis Hamilton's Ferrari team has accepted responsibility for him being hit with a three-place grid drop for the Formula 1 Hungarian Grand Prix after accidentally blocking Oscar Piastri at the beginning of the McLaren driver's final push lap.It's a double blow for Hamilton, who parked in the number one spot in parc ferme, unaware that he had been relieved of pole position by Piastri's ...<a class='more'",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/russell-what-mercedes-feared-from-ferrari-came-true-in-f1-hungarian-gp-practice/10841519/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-24T17:43:19.000Z",
+        "url": "https://www.motorsport.com/f1/news/its-our-mistake-ferrari-takes-blame-for-lewis-hamilton-penalty-in-f1-hungarian-gp-qualifying/10841872/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-25T17:27:00.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "Hell Let Loose: Vietnam is open to all this weekend for a free playtest",
-        "summary": "The 50v50 military shooter is gearing up for its full release in August.",
+        "title": "Larian once again reminds us it's 'not involved in any BG3-related projects' in response to Karlach comic reveal",
+        "summary": "Dispelling any doubt on the matter.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/fps/hell-let-loose-vietnam-is-open-to-all-this-weekend-for-a-free-playtest/",
-        "seendate": "2026-07-24T22:01:09.000Z",
+        "url": "https://www.pcgamer.com/games/baldurs-gate/larian-once-again-reminds-us-its-not-involved-in-any-bg3-related-projects-in-response-to-karlach-comic-reveal/",
+        "seendate": "2026-07-25T21:48:31.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Saudi Arabia's takeover of EA gets approval from European Commission",
-        "summary": "The commission has ruled that the buyout will not cause \"competition concerns.\"",
+        "title": "New report alleges it took a week for OpenAI to realize a prototype had gone rogue and hacked another company",
+        "summary": "Is that good?",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/saudi-arabias-takeover-of-ea-gets-approval-from-european-commission/",
-        "seendate": "2026-07-24T18:56:42.000Z",
+        "url": "https://www.pcgamer.com/software/ai/new-report-alleges-it-took-a-week-for-openai-to-realize-a-prototype-had-gone-rogue-and-hacked-another-company/",
+        "seendate": "2026-07-25T19:17:54.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Amazon Gaming boss says high hardware prices could be good news for its Luna cloud gaming program",
-        "summary": "In a world of $1,000 Steam Machines, a hardware-free gaming option might have wider appeal.",
+        "title": "Silent Hill f producer says its writers were pushed 'to read at least 100 to 200 books a year'",
+        "summary": "Now that's a KPI I can get behind.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/amazon-gaming-boss-says-high-hardware-prices-could-be-good-news-for-its-luna-cloud-gaming-program/",
-        "seendate": "2026-07-24T18:48:01.000Z",
+        "url": "https://www.pcgamer.com/games/horror/silent-hill-f-producer-says-its-writers-were-pushed-to-read-at-least-100-to-200-books-a-year/",
+        "seendate": "2026-07-25T16:44:08.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "The fourth biggest memory manufacturer could break into America soon, and chances are you've never heard of it",
-        "summary": "DRAM-ing up support.",
+        "title": "Conceived in a secure military facility, this Jedi Knight fansite has been running consistently for almost 30 years: 'It looks really close to what it did back in 1998'",
+        "summary": "The story of The Massassi Temple.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/hardware/memory/the-fourth-biggest-memory-manufacturer-could-break-into-america-soon-and-chances-are-youve-never-heard-of-it/",
-        "seendate": "2026-07-24T15:10:27.000Z",
+        "url": "https://www.pcgamer.com/games/action/conceived-in-a-secure-military-facility-this-jedi-knight-fansite-has-been-running-consistently-for-almost-30-years-it-looks-really-close-to-what-it-did-back-in-1998/",
+        "seendate": "2026-07-25T16:00:00.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Bethesda says layoffs haven't affected 'the roadmap' for The Elder Scrolls 6, it hasn't forgotten Oblivion Remastered, and it's not telling you this because Asha Sharma forced it to",
-        "summary": "Well, that clears that up.",
+        "title": "It's taken 13 years, but Final Fantasy 14 has finally broken the Sephiroth-shaped emergency glass",
+        "summary": "Final Fantasy 7 is showing up in Evercold in a big way.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/the-elder-scrolls/bethesda-says-layoffs-havent-affected-the-roadmap-for-the-elder-scrolls-6-it-hasnt-forgotten-oblivion-remastered-and-its-not-telling-you-this-because-asha-sharma-forced-it-to/",
-        "seendate": "2026-07-24T15:07:25.000Z",
+        "url": "https://www.pcgamer.com/games/final-fantasy/its-taken-13-years-but-final-fantasy-14-has-finally-broken-the-sephiroth-shaped-emergency-glass/",
+        "seendate": "2026-07-25T15:54:40.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
       {
+        "title": "‘I thought, I’ve tried everything else, why not give AI a shot?’: the long-lost family reunited by ChatGPT",
+        "summary": "Avtar spent decades wondering what happened to the mother he never got to know. Thousands of miles away, Nicci was haunted by the story of a half-brother given away before she was born. How did a chatbot bring them together?As a small boy growing up in Amritsar, India, in the 1960s, Avtar Singh used to hear whispers. Your mum isn’t really your mum, the rumours would say. Your mum lives abroad.<",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/jul/25/long-lost-family-reunited-chatgpt-artificial-intelligence-ai",
+        "seendate": "2026-07-25T05:00:35.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Space datacenters proposed by Musk and Bezos ‘catastrophic’ for planet, experts warn",
         "summary": "New US petition demands review of plans from tech companies amid fears of environmental destructionSpace datacenters proposed by SpaceX, Jeff Bezos’s Blue Origin and others would release staggering levels of pollution that would probably alter the Earth’s atmosphere and be “catastrophic” fo",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/science/2026/jul/23/space-datacenters-bezos-blue-origin",
         "seendate": "2026-07-23T11:00:43.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "The AI jobs apocalypse probably isn’t coming anytime soon",
+        "summary": "Artificial intelligence may not deliver on its promise of vast economic opportunity at a price that humanity is willing to payIn March, Anthropic, the cutting-edge artificial intelligence business that gave us the chatbot Claude, published an analysis on the impact of AI on employment, to help us assess the claim that intelligent robots w",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
+        "seendate": "2026-07-25T13:00:43.000Z",
         "domain": "theguardian.com"
       },
       {
@@ -321,25 +337,17 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/business/2026/jul/23/customers-prefer-ai-chatbots-says-chris-oshea-british-gas-centrica-boss",
         "seendate": "2026-07-23T16:45:56.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Should you use AI for a task? Here’s a simple way to decide | Bruce Schneier",
-        "summary": "Sometimes, what matters isn’t your output but what you put into the process. Think of it like work v the gymI teach public policy at the Harvard Kennedy School and the Munk School at the University of Toronto. And it will come as no surprise to you that my students regularly <a href=\"https://www.insidehighered.com/news/faculty/learning-assessment/2026/07/08/brown-professor-suspects-most-his-class-used-ai-ch",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/commentisfree/2026/jul/24/should-you-use-ai",
-        "seendate": "2026-07-24T12:00:14.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "EU fines Google €890m for competition breaches over search and apps",
-        "summary": "Firm told to treat third-party services that appear in its results in ‘fair and non-discriminatory manner’Google has been fined a total of €890m (£760m) by the EU for breaches of online competition laws by its search and app store services.The European Commission, the EU’s executive arm, said Google had broken the Digital Markets Act by giving priority to its own services, such as shopping and hotel",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/jul/23/eu-fines-google-for-competition-breaches-over-search-and-apps",
-        "seendate": "2026-07-23T10:00:42.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "climate": [
+      {
+        "title": "Scorching US heatwave to hit 70 million people with third ‘heat dome’ in month",
+        "summary": "Temperatures of 95-105F (35-40C) are expected, spanning Gulf of Mexico coast to the Great Plains and the midwestAbout 70 million people in the US are set to face excessive heat advisories as dangerously hot temperatures scorch much of the country’s southern and central states.The third major “heat dome” event to hit the US in the past month is gathering strength over the weekend, spanning a vast swat",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/jul/25/scorching-us-heat-wave",
+        "seendate": "2026-07-25T18:34:53.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "This desert oasis is a biological wonderland. Trump’s border wall threatens to destroy it",
         "summary": "Environmental groups are sounding the alarm over plans that threaten a desert spring that’s home to rare fish and turtles and sacred to the O’odham peopleQuitobaquito Springs in south-west Arizona has been called a biological wonderland with few equals.The springs are an oasis in the vast Sonoran desert along the US-Mexico border, held sacred by the O’odham people, who call it A’al Vaipia. Here, wate",
@@ -371,56 +379,48 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/us-news/2026/jul/23/national-guard-west-virginia-flash-floods",
         "seendate": "2026-07-23T16:06:19.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Tropical storm Bertha makes landfall in Louisiana with 45mph winds",
-        "summary": "In Kentucky and West Virginia, rescuers freed trapped residents as states face catastrophic floods and damageTropical storm Bertha made ‌landfall in ‌St Bernard parish, on the Gulf coast south-east of New Orleans, Louisiana, on Wednesday afternoon, the ⁠US national ⁠hurricane ⁠center said.The Miami-based forecaster ‌added that maximum ​sustained winds were estimated ⁠to be ​45mph (75km/h) ‌with highe",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jul/22/tornadoes-flooding-kentucky-west-virginia",
-        "seendate": "2026-07-22T19:31:11.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "science": [
       {
-        "title": "Palm Beach County reports Florida first  flesh - eating bacteria  death this year",
-        "summary": "Florida health officials are alerting residents to Vibrio vulnificus, a rare bacteria found in warm saltwater and brackish water, which has caused one death and 11 cases statewide this year.",
-        "source": "wpbf.com",
-        "url": "https://www.wpbf.com/article/florida-palm-beach-county-flesh-eating-bacteria-death/73259996",
-        "seendate": "20260724T233000Z",
-        "domain": "wpbf.com"
+        "title": "‘Ozempic face’ and hair loss: what evidence is there for weight-loss drug side-effects?",
+        "summary": "Research into GLP-1 medications is not always robust but complaints such as digestive problems are well knownWeight loss jabs such as Wegovy and Mounjaro have boomed in popularity, and so have reports of myriad side-effects. This week researchers have suggested GLP-1 medications could be associated with hair loss.It can be hard to keep tabs on which of these unintentional outcomes have been the subje",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/jul/25/weight-loss-drug-side-effects-evidence-nausea-ozempic-face",
+        "seendate": "2026-07-25T07:00:36.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "New Development Coming to Union Gap Restaurant Property",
-        "summary": "What&#x2019;s being built at the old restaurant property in Union Gap? After years of rumors, we may finally have an answer!",
-        "source": "katsfm.com",
-        "url": "https://katsfm.com/union-gap-former-sharis-construction/",
-        "seendate": "20260724T233000Z",
-        "domain": "katsfm.com"
+        "title": "Four types of thinker have been identified. Which one are you?",
+        "summary": "Investigation finds evidence of distinct groups, from big-picture thinkers to those who sweat the small stuff. Illustrations by Michael ParkinAn investigation into what people think about has put the spotlight on the modern mind, revealing thoughts dominated by work, the need for coffee and a strong desire to go back to bed.It also found evidence for four distinct groups of thinkers w",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/jul/25/four-types-of-thinker-which-one-are-you",
+        "seendate": "2026-07-25T06:00:35.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Summer swimming is fun , but beware",
-        "summary": "With summer temperatures rising and more families heading to pools, beaches and lakes, health officials are reminding residents to practice water safety. According to the Centers for Disease Control and Prevention, drowning is the leading cause of injury-related death among children ages 1 to 4 and the second leading cause among children under 14. More than 4,000 fatal unintentional drownings <a href=\"https://www.mpa",
-        "source": "mpacorn.com",
-        "url": "https://www.mpacorn.com/articles/summer-swimming-is-fun-but-beware/",
-        "seendate": "20260724T233000Z",
-        "domain": "mpacorn.com"
+        "title": "Nutrients in our food are declining. Can regenerative agriculture save it?",
+        "summary": "Approach focuses on rebuilding soil health, increasing biodiversity and restoring natural ecosystemsFor the last few decades, the nutrient content of our crops has been declining. In the late 90s, the US Department of Agriculture found the vitamin C content of lemons had decreased by almost a third over the previous 22 year",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/food/2026/jul/24/nutrition-food-declining-can-regenerative-agriculture-save-it",
+        "seendate": "2026-07-24T12:34:46.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "The footprints of every building in NYC",
-        "summary": "The landscape of NYC changes so much that the New York City Office of Technology and Innovation updates a dataset of building footprint shapes weekly.",
-        "source": "beautifulpublicdata.com",
-        "url": "https://www.beautifulpublicdata.com/the-footprints-of-every-building-in-nyc/",
-        "seendate": "20260724T233000Z",
-        "domain": "beautifulpublicdata.com"
+        "title": "What can the Galápagos Islands’ animals teach us about the threats of El Niño?",
+        "summary": "In this week’s newsletter: the archipelago at the centre of the extreme weather phenomenon could help scientists predict how other marine ecosystems will adapt to our warming climate• Don’t get Down to Earth delivered to your inbox? Sign up hereThe ocean waters around the",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/environment/2026/jul/23/what-can-the-galapagos-islands-animals-teach-us-about-the-threats-of-el-nino",
+        "seendate": "2026-07-24T06:00:07.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Healing Reins Receives $25 , 000 Donation from First Interstate Bank - The Source",
-        "summary": "Healing Reins recently received a $25,000 gift from First Interstate Bank and the First Interstate BancSystem Foundation as part of their fifth-annual Believe in Local grant campaign. Serving children, teens, and adults ages 4 to 94, Healing Reins provides adaptive equine and outdoor-based therapeutic services designed to support emotional, physical, and mental well-being. Each week, [&hellip;]",
-        "source": "bendsource.com",
-        "url": "https://www.bendsource.com/business/businessnews/healing-reins-receives-25000-donation-from-first-interstate-bank/",
-        "seendate": "20260724T233000Z",
-        "domain": "bendsource.com"
+        "title": "Racy short story by Alan Turing offers glimpse of ‘playful, funny, cheeky’ side",
+        "summary": "Writing from year after gross indecency arrest challenges ‘isolated mathematician’ image, says Cambridge academicWhen people think of Alan Turing, they might imagine he was arrogant, isolated, humourless, tortured. A better way of remembering the father of modern computing would be, an academic argues, as “playful, funny, cheeky, literary, and someone who really liked sex”.The Cambridge University <a",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/jul/24/alan-turing-short-story",
+        "seendate": "2026-07-24T04:00:05.000Z",
+        "domain": "theguardian.com"
       }
     ]
   }
