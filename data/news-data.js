@@ -1,5 +1,5 @@
 window.NEWS_CACHE = {
-  "generatedAt": "2026-07-25T23:49:48.501Z",
+  "generatedAt": "2026-07-26T23:51:01.973Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
@@ -46,44 +46,44 @@ window.NEWS_CACHE = {
     ],
     "conflict": [
       {
-        "title": "Two Russian men jailed in Angola for terrorism and spying",
-        "summary": "The men were convicted over alleged plan to stage coup and organise deadly demonstrations over fuel prices last yearTwo Russian men have been found guilty by an Angolan court of terrorism and spying after being accused of planning a coup and helping to organise deadly demonstrations in the southern African country last year.Lev Lakshtanov and Igor Ratchin were sentenced to eight and 11 years in jail",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/jul/23/two-russian-men-jailed-angola-terrorism-and-spying",
-        "seendate": "2026-07-23T14:24:01.000Z",
-        "domain": "theguardian.com"
+        "title": "Donald Trump Foreign Policy : A Page Out of Satanism : The Canadian Business Daily",
+        "summary": "The foundational bedrock of American foreign policy since World War II rests upon a stated commitment to democratic idealism, human rights, and the pr Read more...",
+        "source": "agoracosmopolitan.com",
+        "url": "https://www.agoracosmopolitan.com/news/international/2026/07/26/14997-donald-trumps-foreign-policy-a-page-out-of-satanism.html",
+        "seendate": "20260726T234500Z",
+        "domain": "agoracosmopolitan.com"
       },
       {
-        "title": "MoD cancels army training in Kenya over powers to prosecute British soldiers",
-        "summary": "September exercise called off after Kenya raises concerns over funding and jurisdiction for criminal offencesThe British army has been forced to cancel training for its troops in Kenya after the Kenyan government refused to ratify a bilateral defence agreement.While the UK government wanted to renew the existing agreement, Kenyan lawmakers had sought changes to give local authorities greater powers t",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/uk-news/2026/jul/23/british-army-cancel-training-kenya-defence-agreement-dispute",
-        "seendate": "2026-07-23T14:06:01.000Z",
-        "domain": "theguardian.com"
+        "title": "Iran war casualty count eclipses 600 as Pentagon quietly changes accounting",
+        "summary": "(CNN) &mdash; The Pentagon updated its war casualty database Saturday, recording more than 140 additionally wounded and restoring the four soldiers killed due to Iranian strikes last weekend.",
+        "source": "kimt.com",
+        "url": "https://www.kimt.com/news/iran-war-casualty-count-eclipses-600-as-pentagon-quietly-changes-accounting/article_b4d6dae0-6cc6-5608-a84e-a17478544664.html",
+        "seendate": "20260726T234500Z",
+        "domain": "kimt.com"
       },
       {
-        "title": "Health worker monitored for Ebola in London hospital after working in DRC",
-        "summary": "UK resident was evacuated from Democratic Republic of the Congo where there is an outbreak of the diseaseA humanitarian worker is being monitored at a specialist hospital in London after potential exposure to the Ebola virus.The UK resident was medically evacuated from the Democratic Republic of the Congo (DRC) where the worker had been treating patients with the disease, the UK Health Security Agenc",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/jul/21/health-worker-being-monitored-for-ebola-in-london-hospital-after-working-in-drc",
-        "seendate": "2026-07-21T22:39:00.000Z",
-        "domain": "theguardian.com"
+        "title": "Rising oil prices could force up united kingdom interest rates , say economists",
+        "summary": "Bank of England expected to keep rates on hold on Thursday but renewed Iran conflict casts shadow over energy costs",
+        "source": "aol.co.uk",
+        "url": "https://www.aol.co.uk/articles/rising-oil-prices-could-force-230123000.html",
+        "seendate": "20260726T234500Z",
+        "domain": "aol.co.uk"
       },
       {
-        "title": "Healthy diet too expensive for one in three people globally, UN report finds",
-        "summary": "Global hunger declined for the third year in a row in 2025 but experts call for action to bring down costs of fruit, vegetables and dairy as report shows 2.69bn people can’t afford to eat wellOne in three people cannot afford to eat a healthy diet, a new report has found, prompting calls for urgent action on food affordability.There are 2.69 billion people unable to afford a diverse diet that meets t",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/global-development/2026/jul/21/healthy-diet-too-expensive-for-one-in-three-people-globally-un-report-finds",
-        "seendate": "2026-07-21T10:00:42.000Z",
-        "domain": "theguardian.com"
+        "title": "Uncivil democracy",
+        "summary": "New Zealand’s a place where comments that raise eyebrows tend to be forgiven if they also raise a smile",
+        "source": "interest.co.nz",
+        "url": "https://www.interest.co.nz/public-policy/139538/new-zealand%E2%80%99s-place-where-comments-raise-eyebrows-tend-be-forgiven-if-they",
+        "seendate": "20260726T234500Z",
+        "domain": "interest.co.nz"
       },
       {
-        "title": "São Tomé and Príncipe heads to polls in tense presidential election",
-        "summary": "Incumbent Carlos Vila Nova hopes to defeat his former party and secure second term as independentVoters in São Tomé and Príncipe go to the polls for a presidential election on Sunday as one of Africa’s least populous countries seeks to burnish its democratic credentials.According to the National Election Commission, about 142,000 p",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/jul/19/sao-tome-and-principe-presidential-election",
-        "seendate": "2026-07-19T04:00:16.000Z",
-        "domain": "theguardian.com"
+        "title": "Palestinian minor wounded by Israeli force live fire during military raid on Qalandiya Refugee Camp",
+        "summary": "",
+        "source": "english.wafa.ps",
+        "url": "https://english.wafa.ps/Pages/Details/172960",
+        "seendate": "20260726T234500Z",
+        "domain": "english.wafa.ps"
       }
     ],
     "economy": [
@@ -130,44 +130,44 @@ window.NEWS_CACHE = {
     ],
     "literature": [
       {
-        "title": "The perfect books for the beach … picked by Freida McFadden, Mick Herron, Robert Harris and more",
-        "summary": "From a transporting historical saga to a tale of small-town betrayal, the authors of our favourite page-turners reveal the books they take on holiday – introduced by Jenny ColganIt is important to follow a balanced diet on holiday. Too many “My Wife’s Sister’s Husband’s Psychopath”, and you’ll get confused and grumpy. Too much sugary romance and your teeth will fall out. Something too big a",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/ng-interactive/2026/jul/25/the-perfect-books-for-the-beach-picked-by-freida-mcfadden-mick-herron-robert-harris-and-more",
-        "seendate": "2026-07-25T08:00:36.000Z",
-        "domain": "theguardian.com"
+        "title": "Greg Laden , liar . | ScienceBlogs",
+        "summary": "I know, right? Anthony Watts, of the science-denialist Whats Up with That blog, has got his shorts in a knot because of a post I wrote indicating that he is a boob. He is upset because in a screen shot of him talking about a totally absurd pseudo-scientific claim that should have been rejected out of hand, I failed to include enough of the post to show that he was skeptical about the claim.",
+        "source": "scienceblogs.com",
+        "url": "https://scienceblogs.com/gregladen/2013/01/17/greg-laden-liar",
+        "seendate": "20260726T234500Z",
+        "domain": "scienceblogs.com"
       },
       {
-        "title": "Lucy Caldwell: ‘Even your text messages fizz after reading James Joyce’",
-        "summary": "The author on the power of folktales, being inspired by Ulysses – and the book that every woman should readMy earliest reading&nbsp;memory The summer my middle sister was born, my mum and I would walk&nbsp;to the shops at&nbsp;Cherryvalley, in east&nbsp;Belfast, to do her messages, and she’d buy me the latest issue of Storyteller, illustrated tales from around the world. It came with a",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jul/24/lucy-caldwell-even-your-text-messages-fizz-after-reading-james-joyce",
-        "seendate": "2026-07-24T09:00:09.000Z",
-        "domain": "theguardian.com"
+        "title": "Fact from fiction : boomers to spot AI traps in one hour",
+        "summary": "A first-of-its-kind, 60-minute course designed to help older people look out for fake news shows more than a...",
+        "source": "dungogchronicle.com.au",
+        "url": "https://www.dungogchronicle.com.au/story/9317865/fact-from-fiction-boomers-to-spot-ai-traps-in-one-hour/",
+        "seendate": "20260726T234500Z",
+        "domain": "dungogchronicle.com.au"
       },
       {
-        "title": "Unsayable by Michael Cunningham review – The Hours author on the insecurities that powered his creative life",
-        "summary": "The American novelist and screenwriter’s memoir covers sex work, Virginia Woolf and Hollywood successAs an eight-year-old in comfortable, solid, suburban California, Michael Cunningham felt compelled to make art before he quite understood what it was, or could do: a painting of souls ascending to heaven, for example, in which paradise resembled the Griffith Park Observatory and the dead were all depicted in",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jul/24/unsayable-by-michael-cunningham-review-the-hours-author-on-the-insecurities-that-powered-his-creative-life",
-        "seendate": "2026-07-24T06:00:07.000Z",
-        "domain": "theguardian.com"
+        "title": "10 Best Shows Like Every Year After",
+        "summary": "If you",
+        "source": "tvline.com",
+        "url": "https://www.tvline.com/2222602/best-tv-shows-like-every-year-after/",
+        "seendate": "20260726T234500Z",
+        "domain": "tvline.com"
       },
       {
-        "title": "Air by Christian Kracht review – a metaphysical jigsaw puzzle",
-        "summary": "A portal opens from our modern world of data centres and interior design into a medieval fantasy realm, in this playfully surreal tale from the author of EurotrashA reclusive interior designer named Paul travels from his&nbsp;home in Orkney to the Norwegian coastal city of Stavanger for a most unusual commission. A data­centre housing a vast internet server is located by a fjord on the outskirts of the city",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jul/23/air-by-christian-kracht-review-a-metaphysical-jigsaw-puzzle",
-        "seendate": "2026-07-23T06:00:36.000Z",
-        "domain": "theguardian.com"
+        "title": "Fact from fiction : boomers to spot AI traps in one hour",
+        "summary": "A first-of-its-kind, 60-minute course designed to help older people look out for fake news shows more than a...",
+        "source": "mandurahmail.com.au",
+        "url": "https://www.mandurahmail.com.au/story/9317865/fact-from-fiction-boomers-to-spot-ai-traps-in-one-hour/",
+        "seendate": "20260726T234500Z",
+        "domain": "mandurahmail.com.au"
       },
       {
-        "title": "The Midnight Train by Matt Haig audiobook review – a cosy, feelgood journey",
-        "summary": "Actor James Norton brings a sense of gentle longing to this tale of an octogenarian looking back on the life he’s departedThe latest novel from the Reasons to Stay Alive author Matt Haig begins with an octogenarian man having a heart attack. Former business magnate Wilbur Budd is already feeling a bit peculiar when he receives a phone call from his ex-wife, Maggie, who he hasn’t heard from in years. “I want",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jul/23/the-midnight-train-by-matt-haig-audiobook-review-a-cosy-feelgood-journey",
-        "seendate": "2026-07-23T15:00:48.000Z",
-        "domain": "theguardian.com"
+        "title": "California homeowners could end up subsidizing wildfire risk in 9 wealthy ZIP codes",
+        "summary": "\"It is a real challenge in terms of how to undo this escalation of liability that we’re seeing.\"",
+        "source": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/real-estate/articles/california-homeowners-could-end-subsidizing-231200938.html",
+        "seendate": "20260726T234500Z",
+        "domain": "finance.yahoo.com"
       }
     ],
     "entertainment": [
@@ -214,90 +214,98 @@ window.NEWS_CACHE = {
     ],
     "f1": [
       {
-        "title": "F1 fans argue Lewis Hamilton \"can't catch a break\" after Hungarian GP penalty",
-        "summary": "Formula 1 fans have argued that Lewis Hamilton 'cannot catch a break' after the seven-time champion was hit with a three-place grid penalty for the Hungarian Grand Prix. The Briton was handed the penalty for impeding McLaren's Oscar Piastri during the final phase of qualifying. As Hamilton was going down the main straight at a reduced speed, he failed to move off the racing line to allow the ...<a class=",
+        "title": "Lando Norris would have won Hungarian GP even without Oscar Piastri's problems, says F1 TV pundit",
+        "summary": "Former IndyCar Series driver and F1 TV pundit James Hinchcliffe believes Lando Norris would have comfortably defeated his McLaren team-mate Oscar Piastri at the Hungarian Grand Prix, regardless of the Australian's contact with backmarker Carlos Sainz.The reigning Formula 1 champion delivered a commanding drive at the Hungaroring to claim his first victory of the 2026 season. While Norris ...<a class='mor",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/f1-fans-argue-lewis-hamilton-cant-catch-a-break-after-hungarian-gp-penalty/10841933/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-25T19:31:17.000Z",
+        "url": "https://www.motorsport.com/f1/news/lando-norris-would-have-won-hungarian-gp-even-without-oscar-piastris-problems-says-f1-tv-pundit/10842281/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-26T22:57:55.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Bernd Mayländer reveals upgrades to F1's new Mercedes safety car",
-        "summary": "Formula 1 has debuted its new safety car at the 2026 Hungarian Grand Prix, introducing the Mercedes-AMG GT 63 PRO 4MATIC+ to the grid.Replacing the AMG GT Black Series that had served the championship since 2022, the new iteration is the first safety car to feature fully variable all-wheel drive, designed to improve traction and stability during wet-weather conditions. The car also features a ...<a class",
+        "title": "Ralf Schumacher takes aim at Ferrari after Lewis Hamilton Hungarian GP disappointment",
+        "summary": "Former Formula 1 driver Ralf Schumacher has delivered a scathing assessment of Ferrari's performance at the Hungarian Grand Prix, taking aim at the Maranello outfit's strategy.The weekend at the Hungaroring proved frustrating for Ferrari. After showing strong pace in free practice, Hamilton initially qualified second, narrowly missing out on pole position to McLaren's Lando Norris.But a ...<a class='",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/bernd-maylander-reveals-upgrades-to-f1s-new-mercedes-safety-car/10841925/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-25T19:11:57.000Z",
+        "url": "https://www.motorsport.com/f1/news/ralf-schumacher-takes-aim-at-ferrari-after-lewis-hamilton-hungarian-gp-disappointment/10842210/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-26T21:53:05.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Carlos Sainz makes sobering Williams prediction before arrival of major upgrades",
-        "summary": "Carlos Sainz has admitted he doubts that Williams's upcoming B-spec Formula 1 car will be enough to bridge the one-second gap required to challenge for points on pure merit this season.Speaking on The Fast And The Curious podcast, the Spaniard offered a sobering assessment of the Grove outfit's current performance, explaining how far the team must climb to rejoin the midfield ...<a class='more' href='htt",
+        "title": "Winners and losers from F1's heated Hungarian Grand Prix",
+        "summary": "As F1 prepares for its annual summer shutdown, the 2026 season saw a new winner as McLaren joined Mercedes and Ferrari in the victor column off the back of an impressive car upgrade. The campaign looks set to be decided by which top team has the most bullets left in its chamber as the development war rages on. But some drivers and teams will head to the beach with a better feeling than ...<a class='more' hre",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/carlos-sainz-makes-sobering-williams-prediction-before-arrival-of-major-upgrades/10841903/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-25T17:51:48.000Z",
+        "url": "https://www.motorsport.com/f1/news/winners-and-losers-from-f1s-heated-hungarian-grand-prix/10842265/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-26T19:12:04.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Kimi Antonelli handed grid drop for yellow flag infringement in F1 Hungarian GP qualifying",
-        "summary": "Kimi Antonelli has been given a three-place grid drop for Formula 1's Hungarian Grand Prix after being penalised for not heeding yellow flags.Antonelli took fourth on the grid at the Hungaroring as Mercedes was beaten by both McLaren's polesitter Lando Norris and the two Ferraris. On his final qualifying run, however, Antonelli caught yellow flags in the final corner - where Red Bull's Max ...<a class='m",
+        "title": "The error that led to Lewis Hamilton's Hungarian GP penalty",
+        "summary": "Formula 1 is a game of fine margins and there is no greater example than the five-second penalty Lewis Hamilton received at the Hungarian Grand Prix for pitlane speeding.The seven-time world champion was second at the Hungaroring before pitting on lap 56 under virtual safety car conditions due to a gearbox failure forcing Oscar Piastri to stop before Turn 4.It was a costly stop for two ...<a class='m",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/kimi-antonelli-handed-grid-drop-for-yellow-flag-infringement-in-f1-hungarian-gp-qualifying/10841895/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-25T17:42:34.000Z",
+        "url": "https://www.motorsport.com/f1/news/the-error-that-led-to-lewis-hamiltons-hungarian-gp-penalty/10842258/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-26T18:43:34.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "\"It's our mistake\" Ferrari takes blame for Lewis Hamilton penalty in F1 Hungarian GP qualifying",
-        "summary": "Lewis Hamilton's Ferrari team has accepted responsibility for him being hit with a three-place grid drop for the Formula 1 Hungarian Grand Prix after accidentally blocking Oscar Piastri at the beginning of the McLaren driver's final push lap.It's a double blow for Hamilton, who parked in the number one spot in parc ferme, unaware that he had been relieved of pole position by Piastri's ...<a class='more'",
+        "title": "Explained: McLaren's view of Oscar Piastri's explosive F1 Hungarian GP radio outburst",
+        "summary": "McLaren team principal Andrea Stella has explained the Formula 1 squad's thinking behind its second pitstop sequence in the Hungarian Grand Prix amid frustration from Oscar Piastri over his run-in with backmarker Carlos Sainz.In their quest to deliver a first grand prix win of the season, both Piastri and team-mate Lando Norris showed frustration in the heat of the moment, belying the sense of ...<a clas",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/its-our-mistake-ferrari-takes-blame-for-lewis-hamilton-penalty-in-f1-hungarian-gp-qualifying/10841872/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-25T17:27:00.000Z",
+        "url": "https://www.motorsport.com/f1/news/explained-mclarens-view-of-oscar-piastris-explosive-f1-hungarian-gp-radio-outburst/10842231/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-26T18:30:25.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "Larian once again reminds us it's 'not involved in any BG3-related projects' in response to Karlach comic reveal",
-        "summary": "Dispelling any doubt on the matter.",
+        "title": "One of the best shooters around just got a barely recognizable second episode, and it's only $12",
+        "summary": "I love checking in on a New Blood game and seeing it completely transform in early access.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/baldurs-gate/larian-once-again-reminds-us-its-not-involved-in-any-bg3-related-projects-in-response-to-karlach-comic-reveal/",
-        "seendate": "2026-07-25T21:48:31.000Z",
+        "url": "https://www.pcgamer.com/games/fps/one-of-the-best-shooters-around-just-got-a-barely-recognizable-second-episode-and-its-only-usd12/",
+        "seendate": "2026-07-26T22:26:18.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "New report alleges it took a week for OpenAI to realize a prototype had gone rogue and hacked another company",
-        "summary": "Is that good?",
+        "title": "Capcom wants to release a Resident Evil every year and sees remakes as the way to make it happen",
+        "summary": "It's worked well so far.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/software/ai/new-report-alleges-it-took-a-week-for-openai-to-realize-a-prototype-had-gone-rogue-and-hacked-another-company/",
-        "seendate": "2026-07-25T19:17:54.000Z",
+        "url": "https://www.pcgamer.com/games/resident-evil/capcom-wants-to-release-a-resident-evil-every-year-and-sees-remakes-as-the-way-to-make-it-happen/",
+        "seendate": "2026-07-26T21:40:41.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Silent Hill f producer says its writers were pushed 'to read at least 100 to 200 books a year'",
-        "summary": "Now that's a KPI I can get behind.",
+        "title": "The new 'backward compatible' Xbox games on PC run on an OG Xbox emulator inside an Xbox 360 emulator, and people have already used it to run other Xbox 360 games",
+        "summary": "Emulator turducken.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/horror/silent-hill-f-producer-says-its-writers-were-pushed-to-read-at-least-100-to-200-books-a-year/",
-        "seendate": "2026-07-25T16:44:08.000Z",
+        "url": "https://www.pcgamer.com/gaming-industry/game-development/the-new-backward-compatible-xbox-games-on-pc-run-on-an-og-xbox-emulator-inside-an-xbox-360-emulator-and-people-have-already-used-it-to-run-other-xbox-360-games/",
+        "seendate": "2026-07-26T20:22:42.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Conceived in a secure military facility, this Jedi Knight fansite has been running consistently for almost 30 years: 'It looks really close to what it did back in 1998'",
-        "summary": "The story of The Massassi Temple.",
+        "title": "Final Fantasy 14 boss Yoshi-P doesn't get the deal with Chort",
+        "summary": "Yoshi-P is not chortin' it.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/action/conceived-in-a-secure-military-facility-this-jedi-knight-fansite-has-been-running-consistently-for-almost-30-years-it-looks-really-close-to-what-it-did-back-in-1998/",
-        "seendate": "2026-07-25T16:00:00.000Z",
+        "url": "https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-boss-yoshi-p-doesnt-get-the-deal-with-chort/",
+        "seendate": "2026-07-26T18:05:43.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "It's taken 13 years, but Final Fantasy 14 has finally broken the Sephiroth-shaped emergency glass",
-        "summary": "Final Fantasy 7 is showing up in Evercold in a big way.",
+        "title": "J.K. Simmons hasn't played Baldur's Gate 3 or any of his games, but he loves Portal 2: 'I could have done the feature film, or the play, or whatever'",
+        "summary": "Fair is fair.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/final-fantasy/its-taken-13-years-but-final-fantasy-14-has-finally-broken-the-sephiroth-shaped-emergency-glass/",
-        "seendate": "2026-07-25T15:54:40.000Z",
+        "url": "https://www.pcgamer.com/games/baldurs-gate/j-k-simmons-hasnt-played-baldurs-gate-3-or-any-of-his-games-but-he-loves-portal-2-i-could-have-done-the-feature-film-or-the-play-or-whatever/",
+        "seendate": "2026-07-26T17:31:42.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
+      {
+        "title": "Mega datacentre planned for outer Melbourne will be six times bigger than a large shopping centre",
+        "summary": "More than 3,600 people sign petition for careful assessment of proposed AI hub, now a flashpoint for national debate on datacentre boomFollow our Australia news live blog for latest updatesGet our <a href",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/australia-news/2026/jul/26/mega-datacentre-planned-for-outer-melbourne-will-be-almost-six-times-the-size-of-chadstone-shopping-centre",
+        "seendate": "2026-07-25T20:00:53.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "‘I thought, I’ve tried everything else, why not give AI a shot?’: the long-lost family reunited by ChatGPT",
         "summary": "Avtar spent decades wondering what happened to the mother he never got to know. Thousands of miles away, Nicci was haunted by the story of a half-brother given away before she was born. How did a chatbot bring them together?As a small boy growing up in Amritsar, India, in the 1960s, Avtar Singh used to hear whispers. Your mum isn’t really your mum, the rumours would say. Your mum lives abroad.<",
@@ -328,14 +336,6 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/technology/2026/jul/23/elon-musk-regret-trump-doge-ai",
         "seendate": "2026-07-23T15:27:52.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Customers prefer AI chatbots, says British Gas owner as 1,300 call centre and back office jobs axed",
-        "summary": "CEO Chris O’Shea defends Centrica’s plans as it reports rise in retail profits following focus on bigger marginsThe owner of British Gas has claimed that most households would rather speak with an AI chatbot than deal with the company’s staff as it prepares to cut 1,300 jobs from its call centres and back office.Centrica, the supplier’s FTSE 100 owner, plans to cut 800 jobs as the company carries out",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/jul/23/customers-prefer-ai-chatbots-says-chris-oshea-british-gas-centrica-boss",
-        "seendate": "2026-07-23T16:45:56.000Z",
         "domain": "theguardian.com"
       }
     ],
@@ -383,11 +383,19 @@ window.NEWS_CACHE = {
     ],
     "science": [
       {
-        "title": "‘Ozempic face’ and hair loss: what evidence is there for weight-loss drug side-effects?",
-        "summary": "Research into GLP-1 medications is not always robust but complaints such as digestive problems are well knownWeight loss jabs such as Wegovy and Mounjaro have boomed in popularity, and so have reports of myriad side-effects. This week researchers have suggested GLP-1 medications could be associated with hair loss.It can be hard to keep tabs on which of these unintentional outcomes have been the subje",
+        "title": "Restricted eating hours may reduce cognitive decline in older age, researchers find",
+        "summary": "Preliminary study shows older people who avoided food four hours before bed did better in problem solving testsConfining mealtimes and snacks to a nine-hour window and avoiding food for four hours before bed may help stave off cognitive decline in older age, researchers say.A pilot study of older women living with overweight or obesity found hints of improvement in mental skills among those who ate w",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/jul/25/weight-loss-drug-side-effects-evidence-nausea-ozempic-face",
-        "seendate": "2026-07-25T07:00:36.000Z",
+        "url": "https://www.theguardian.com/science/2026/jul/26/restricted-eating-hours-may-reduce-cognitive-decline-in-older-age-researchers-find",
+        "seendate": "2026-07-26T13:30:12.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Millions of people are losing weight using GLP-1s. How do the drugs affect their love lives?",
+        "summary": "Prescribing doctors often warn of the medications’ potential side-effects – but unexpected impacts on romantic relationships are less understoodFor Jennifer, obesity was the obvious culprit for most of her problems.The litigation attorney told herself it was the reason why she wasn’t being invited to parties, and why she and her husband struggled with physical intimacy in their otherwise “solid” marr",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/jul/26/glp1-drugs-weight-loss-side-effects-relationship",
+        "seendate": "2026-07-25T20:00:52.000Z",
         "domain": "theguardian.com"
       },
       {
@@ -412,14 +420,6 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/environment/2026/jul/23/what-can-the-galapagos-islands-animals-teach-us-about-the-threats-of-el-nino",
         "seendate": "2026-07-24T06:00:07.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Racy short story by Alan Turing offers glimpse of ‘playful, funny, cheeky’ side",
-        "summary": "Writing from year after gross indecency arrest challenges ‘isolated mathematician’ image, says Cambridge academicWhen people think of Alan Turing, they might imagine he was arrogant, isolated, humourless, tortured. A better way of remembering the father of modern computing would be, an academic argues, as “playful, funny, cheeky, literary, and someone who really liked sex”.The Cambridge University <a",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/jul/24/alan-turing-short-story",
-        "seendate": "2026-07-24T04:00:05.000Z",
         "domain": "theguardian.com"
       }
     ]
