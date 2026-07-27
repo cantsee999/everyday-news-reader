@@ -1,8 +1,16 @@
 {
-  "generatedAt": "2026-07-26T23:51:01.973Z",
+  "generatedAt": "2026-07-27T23:53:43.502Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
+      {
+        "title": "Uganda begins emergency food handouts after 19 die from hunger",
+        "summary": "Government move follows months of drought and crop failures in Karamoja, with 1.5m people facing malnutritionUganda has launched emergency food relief distribution after at least 19 deaths from hunger were reported in an area of prolonged drought in",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/global-development/2026/jul/27/uganda-begins-emergency-food-handouts-after-19-die-from-hunger",
+        "seendate": "2026-07-27T07:00:34.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Two Russian men jailed in Angola for terrorism and spying",
         "summary": "The men were convicted over alleged plan to stage coup and organise deadly demonstrations over fuel prices last yearTwo Russian men have been found guilty by an Angolan court of terrorism and spying after being accused of planning a coup and helping to organise deadly demonstrations in the southern African country last year.Lev Lakshtanov and Igor Ratchin were sentenced to eight and 11 years in jail",
@@ -34,312 +42,328 @@
         "url": "https://www.theguardian.com/global-development/2026/jul/21/healthy-diet-too-expensive-for-one-in-three-people-globally-un-report-finds",
         "seendate": "2026-07-21T10:00:42.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "São Tomé and Príncipe heads to polls in tense presidential election",
-        "summary": "Incumbent Carlos Vila Nova hopes to defeat his former party and secure second term as independentVoters in São Tomé and Príncipe go to the polls for a presidential election on Sunday as one of Africa’s least populous countries seeks to burnish its democratic credentials.According to the National Election Commission, about 142,000 p",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/jul/19/sao-tome-and-principe-presidential-election",
-        "seendate": "2026-07-19T04:00:16.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "conflict": [
       {
-        "title": "Donald Trump Foreign Policy : A Page Out of Satanism : The Canadian Business Daily",
-        "summary": "The foundational bedrock of American foreign policy since World War II rests upon a stated commitment to democratic idealism, human rights, and the pr Read more...",
-        "source": "agoracosmopolitan.com",
-        "url": "https://www.agoracosmopolitan.com/news/international/2026/07/26/14997-donald-trumps-foreign-policy-a-page-out-of-satanism.html",
-        "seendate": "20260726T234500Z",
-        "domain": "agoracosmopolitan.com"
+        "title": "Uganda begins emergency food handouts after 19 die from hunger",
+        "summary": "Government move follows months of drought and crop failures in Karamoja, with 1.5m people facing malnutritionUganda has launched emergency food relief distribution after at least 19 deaths from hunger were reported in an area of prolonged drought in",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/global-development/2026/jul/27/uganda-begins-emergency-food-handouts-after-19-die-from-hunger",
+        "seendate": "2026-07-27T07:00:34.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Iran war casualty count eclipses 600 as Pentagon quietly changes accounting",
-        "summary": "(CNN) &mdash; The Pentagon updated its war casualty database Saturday, recording more than 140 additionally wounded and restoring the four soldiers killed due to Iranian strikes last weekend.",
-        "source": "kimt.com",
-        "url": "https://www.kimt.com/news/iran-war-casualty-count-eclipses-600-as-pentagon-quietly-changes-accounting/article_b4d6dae0-6cc6-5608-a84e-a17478544664.html",
-        "seendate": "20260726T234500Z",
-        "domain": "kimt.com"
+        "title": "Two Russian men jailed in Angola for terrorism and spying",
+        "summary": "The men were convicted over alleged plan to stage coup and organise deadly demonstrations over fuel prices last yearTwo Russian men have been found guilty by an Angolan court of terrorism and spying after being accused of planning a coup and helping to organise deadly demonstrations in the southern African country last year.Lev Lakshtanov and Igor Ratchin were sentenced to eight and 11 years in jail",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/jul/23/two-russian-men-jailed-angola-terrorism-and-spying",
+        "seendate": "2026-07-23T14:24:01.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Rising oil prices could force up united kingdom interest rates , say economists",
-        "summary": "Bank of England expected to keep rates on hold on Thursday but renewed Iran conflict casts shadow over energy costs",
-        "source": "aol.co.uk",
-        "url": "https://www.aol.co.uk/articles/rising-oil-prices-could-force-230123000.html",
-        "seendate": "20260726T234500Z",
-        "domain": "aol.co.uk"
+        "title": "MoD cancels army training in Kenya over powers to prosecute British soldiers",
+        "summary": "September exercise called off after Kenya raises concerns over funding and jurisdiction for criminal offencesThe British army has been forced to cancel training for its troops in Kenya after the Kenyan government refused to ratify a bilateral defence agreement.While the UK government wanted to renew the existing agreement, Kenyan lawmakers had sought changes to give local authorities greater powers t",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/uk-news/2026/jul/23/british-army-cancel-training-kenya-defence-agreement-dispute",
+        "seendate": "2026-07-23T14:06:01.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Uncivil democracy",
-        "summary": "New Zealand’s a place where comments that raise eyebrows tend to be forgiven if they also raise a smile",
-        "source": "interest.co.nz",
-        "url": "https://www.interest.co.nz/public-policy/139538/new-zealand%E2%80%99s-place-where-comments-raise-eyebrows-tend-be-forgiven-if-they",
-        "seendate": "20260726T234500Z",
-        "domain": "interest.co.nz"
+        "title": "Health worker monitored for Ebola in London hospital after working in DRC",
+        "summary": "UK resident was evacuated from Democratic Republic of the Congo where there is an outbreak of the diseaseA humanitarian worker is being monitored at a specialist hospital in London after potential exposure to the Ebola virus.The UK resident was medically evacuated from the Democratic Republic of the Congo (DRC) where the worker had been treating patients with the disease, the UK Health Security Agenc",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/jul/21/health-worker-being-monitored-for-ebola-in-london-hospital-after-working-in-drc",
+        "seendate": "2026-07-21T22:39:00.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Palestinian minor wounded by Israeli force live fire during military raid on Qalandiya Refugee Camp",
-        "summary": "",
-        "source": "english.wafa.ps",
-        "url": "https://english.wafa.ps/Pages/Details/172960",
-        "seendate": "20260726T234500Z",
-        "domain": "english.wafa.ps"
+        "title": "Healthy diet too expensive for one in three people globally, UN report finds",
+        "summary": "Global hunger declined for the third year in a row in 2025 but experts call for action to bring down costs of fruit, vegetables and dairy as report shows 2.69bn people can’t afford to eat wellOne in three people cannot afford to eat a healthy diet, a new report has found, prompting calls for urgent action on food affordability.There are 2.69 billion people unable to afford a diverse diet that meets t",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/global-development/2026/jul/21/healthy-diet-too-expensive-for-one-in-three-people-globally-un-report-finds",
+        "seendate": "2026-07-21T10:00:42.000Z",
+        "domain": "theguardian.com"
       }
     ],
     "economy": [
       {
-        "title": "Oil prices near $100 a barrel after US attacks Iran and Houthis hit tankers in Red Sea – as it happened",
-        "summary": "Live, rolling coverage of business, economics and financial markets as traders fear attacks from Yemen and Iran creating ‘two-chokepoint problem’The Houthi attacks off the coast of Yemen targeted Saudi Arabian tankers, but two Chinese vessels carrying Saudi oil appear to be trying to exit the Bab el-Mandeb strait, Reuters reports.From Reuters:Two Chinese super",
+        "title": "Cracker Barrel CEO to step down after overseeing logo backlash last year",
+        "summary": "Julie Masino faced criticism as restaurant chain was called ‘woke’ and ‘soulless’ after unveiling modernized logoCracker Barrel’s CEO, Julie Masino, is stepping down, the restaurant announced on Monday, nearly a year after the company was swept into a political maelstrom over proposed modernizations to its branding.Cr",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/live/2026/jul/23/andy-burnham-business-rates-pubs-clubs-live-music-vape-shops-european-central-bank-ecb-interest-rates-latest-news-updates",
-        "seendate": "2026-07-23T11:27:00.000Z",
+        "url": "https://www.theguardian.com/business/2026/jul/27/julie-masino-cracker-barrel-steps-down",
+        "seendate": "2026-07-27T17:28:12.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "US senator accuses Barclays of ‘failure’ to investigate ex-CEO’s ties to Epstein",
-        "summary": "Exclusive: Elizabeth Warren claims bank did not ‘meaningfully investigate’ Jes Staley’s links with sex offenderThe leading US senator Elizabeth Warren has called for urgent answers from Barclays over what she claimed was its “apparent failure to meaningfully investigate” ties between the bank’s former boss, Jes Staley, and the late sex offender Jeffrey Epstein.In a letter sent privately to Barclays’s",
+        "title": "Tariffs are Trump’s favorite plaything – and his justifications are absurd | Steven Greenhouse",
+        "summary": "The president is using forced labor as a pretext to slap tariffs on countries around the worldWith the midterm elections less than four months away, it’s a precarious time for Donald Trump and Republicans: Trump’s war against Iran is going badly, his approval ratings are in the toilet, gas prices",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/jul/23/us-senator-barclays-jes-staley-jeffrey-epstein-failure-links-elizabeth-warren",
-        "seendate": "2026-07-23T10:22:15.000Z",
+        "url": "https://www.theguardian.com/commentisfree/2026/jul/27/tariffs-are-trumps-favorite-plaything-and-his-justifications-are-absurd",
+        "seendate": "2026-07-27T14:00:11.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Tesla’s profits slide despite growing revenue as it pivots to robotics and AI",
-        "summary": "Shares in Elon Musk company fall more 3% in after-hours trading, as earnings per share miss Wall Street expectationsTesla reported its second-quarter earnings on Wednesday, disclosing far lower profits than expected. The company’s already beleaguered stock, which had fallen about 14% this year to date, dipped further following the earnings report.Elon Musk’s automaker, once the pinnacle of his tech e",
+        "title": "Oil prices fall as US pauses strikes on Iran over strait of Hormuz",
+        "summary": "Brent crude drops 9% to below $88 a barrel, prompting UK government bond yields to fallOil prices have dropped sharply as traders bet that a pause in US attacks on Iran could prevent an escalation in the conflict that would further restrict global supply.Brent crude, the international benchmark for oil, initially fell 9% to below $88 a barrel on Monday after climbing to $100 last week, when the Iran-",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/jul/22/tesla-profits-earnings",
-        "seendate": "2026-07-22T23:00:17.000Z",
+        "url": "https://www.theguardian.com/business/2026/jul/27/oil-prices-fall-us-strikes-iran-brent-crude-bp-shell-ftse-100",
+        "seendate": "2026-07-27T17:30:46.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Harry Potter publisher to receive millions in Anthropic copyright settlement",
-        "summary": "Bloomsbury has 14,087 titles listed in agreement between AI startup and authors over use of their work The publisher of Harry Potter has received a multimillion-pound payout as a beneficiary of a $1.5bn (£1.12bn) copyright settlement between the AI startup Anthropic and thousands of authors over the use of their protected work to power chatbots.Bloomsbury, which is home to the bestselling novelists S",
+        "title": "Corporate America may be using AI to cut jobs, but small businesses are using it to keep them | Gene Marks",
+        "summary": "Reports of wide-scale replacement of workers by AI are overblown. Small businesses use it to help workersI recently met the owner of a company that sells windows and doors. He told me he invested about $10,000 in an AI application that is used by his salespeople in his showroom. The application listens to the conversations between",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/jul/22/bloomsbury-book-publisher-anthropic-copyright-settlement",
-        "seendate": "2026-07-22T13:28:09.000Z",
+        "url": "https://www.theguardian.com/business/2026/jul/26/small-businesses-ai",
+        "seendate": "2026-07-26T12:00:11.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "US trade chief defends tariffs as Democrats say Trump ‘in denial’ over price hikes",
-        "summary": "Jamieson Greer denies tariffs have pushed up prices during grilling from lawmakers over cost-of-living concernsDonald Trump’s chief trade official denied the president’s sweeping tariffs have increased prices for US families, as lawmakers challenged him over cost-of-living concerns a",
+        "title": "Trump imposes fresh tariffs on UK, EU and dozens of other trading partners",
+        "summary": "New tariffs will replace 10% global duty and come after US supreme court declared many of the earlier levies illegalDonald Trump has imposed a fresh round of tariffs on more than 80 countries to replace a 10% global duty that was due to expire, provoking a wave of criticism and protests from US allies and major trading partners.In the late",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jul/22/trump-tariffs-inflation-jamieson-greer",
-        "seendate": "2026-07-22T19:43:28.000Z",
+        "url": "https://www.theguardian.com/us-news/2026/jul/23/trump-administration-trade-tariffs",
+        "seendate": "2026-07-24T04:03:27.000Z",
         "domain": "theguardian.com"
       }
     ],
     "literature": [
       {
-        "title": "Greg Laden , liar . | ScienceBlogs",
-        "summary": "I know, right? Anthony Watts, of the science-denialist Whats Up with That blog, has got his shorts in a knot because of a post I wrote indicating that he is a boob. He is upset because in a screen shot of him talking about a totally absurd pseudo-scientific claim that should have been rejected out of hand, I failed to include enough of the post to show that he was skeptical about the claim.",
-        "source": "scienceblogs.com",
-        "url": "https://scienceblogs.com/gregladen/2013/01/17/greg-laden-liar",
-        "seendate": "20260726T234500Z",
-        "domain": "scienceblogs.com"
+        "title": "Gaining Ground by Joan Barfoot review – Anne Enright celebrates a landmark feminist novel",
+        "summary": "Half a century on, this tale of a woman who abandons her children in search of her self remains thrillingly originalThere is a growing literature of maternal flight: novels about women who leave not just their husbands but also the children they have made. In the real world, men are the more frequent deserters; the connection of the father to family life is seen as contingent, while motherhood is revered as",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/jul/27/gaining-ground-by-joan-barfoot-review-anne-enright-celebrates-a-landmark-feminist-novel",
+        "seendate": "2026-07-27T06:00:33.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Fact from fiction : boomers to spot AI traps in one hour",
-        "summary": "A first-of-its-kind, 60-minute course designed to help older people look out for fake news shows more than a...",
-        "source": "dungogchronicle.com.au",
-        "url": "https://www.dungogchronicle.com.au/story/9317865/fact-from-fiction-boomers-to-spot-ai-traps-in-one-hour/",
-        "seendate": "20260726T234500Z",
-        "domain": "dungogchronicle.com.au"
+        "title": "What If We Got AI Right? by Eleanor Drage review – avoiding apocalypse",
+        "summary": "The academic’s ambitious guide to the ethics of tech falls short of its promise to provide meaningful answersThe AI ethicist Eleanor Drage believes that to thrive alongside artificial intelligence, humans need to recognise AI’s “humanity”. She means that while we often speak of AI as though it were some mystical, formless thing, it is the product of hours of human labour, in silicon and&nbsp;quartz mines, m",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/jul/27/what-if-we-got-ai-right-by-eleanor-drage-review-avoiding-apocalypse",
+        "seendate": "2026-07-27T08:00:34.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "10 Best Shows Like Every Year After",
-        "summary": "If you",
-        "source": "tvline.com",
-        "url": "https://www.tvline.com/2222602/best-tv-shows-like-every-year-after/",
-        "seendate": "20260726T234500Z",
-        "domain": "tvline.com"
+        "title": "From author to anime hero: the unlikely revival of a Japanese literary star",
+        "summary": "More than seven decades after they were first released, the dark novels of Osamu Dazai have become a publishing sensation, as a new generation of readers engage with his bleakness, humour and brillianceThere’s no question that&nbsp;Japanese literature has&nbsp;been one of the outstanding successes for British bookshops in&nbsp;recent years: in 2024 close to half of the bestselling translated fiction titles",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/jul/26/from-author-to-anime-hero-the-unlikely-revival-of-a-japanese-literary-star",
+        "seendate": "2026-07-26T11:00:10.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Fact from fiction : boomers to spot AI traps in one hour",
-        "summary": "A first-of-its-kind, 60-minute course designed to help older people look out for fake news shows more than a...",
-        "source": "mandurahmail.com.au",
-        "url": "https://www.mandurahmail.com.au/story/9317865/fact-from-fiction-boomers-to-spot-ai-traps-in-one-hour/",
-        "seendate": "20260726T234500Z",
-        "domain": "mandurahmail.com.au"
+        "title": "The perfect books for the beach … picked by Freida McFadden, Mick Herron, Robert Harris and more",
+        "summary": "From a transporting historical saga to a tale of small-town betrayal, the authors of our favourite page-turners reveal the books they take on holiday – introduced by Jenny ColganIt is important to follow a balanced diet on holiday. Too many “My Wife’s Sister’s Husband’s Psychopath”, and you’ll get confused and grumpy. Too much sugary romance and your teeth will fall out. Something too big a",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/ng-interactive/2026/jul/25/the-perfect-books-for-the-beach-picked-by-freida-mcfadden-mick-herron-robert-harris-and-more",
+        "seendate": "2026-07-25T08:00:36.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "California homeowners could end up subsidizing wildfire risk in 9 wealthy ZIP codes",
-        "summary": "\"It is a real challenge in terms of how to undo this escalation of liability that we’re seeing.\"",
-        "source": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/real-estate/articles/california-homeowners-could-end-subsidizing-231200938.html",
-        "seendate": "20260726T234500Z",
-        "domain": "finance.yahoo.com"
+        "title": "Lucy Caldwell: ‘Even your text messages fizz after reading James Joyce’",
+        "summary": "The author on the power of folktales, being inspired by Ulysses – and the book that every woman should readMy earliest reading&nbsp;memory The summer my middle sister was born, my mum and I would walk&nbsp;to the shops at&nbsp;Cherryvalley, in east&nbsp;Belfast, to do her messages, and she’d buy me the latest issue of Storyteller, illustrated tales from around the world. It came with a",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/jul/24/lucy-caldwell-even-your-text-messages-fizz-after-reading-james-joyce",
+        "seendate": "2026-07-24T09:00:09.000Z",
+        "domain": "theguardian.com"
       }
     ],
     "entertainment": [
       {
-        "title": "Rebel Wilson had a legal win but didn’t come out of The Deb defamation trial unscathed",
-        "summary": "Judgment dismissing Charlotte MacInnes’s case expressed doubts about credibility of three key witnesses, and is likely to be appealedRebel Wilson’s self-styled brand as a truth teller was put to the test during a fiery defamation feud where rivals called her a bully.But the Hollywood A-lister, referred to as “very difficult to be around” and “fucking nuts” during an at-times bruising trial, emerged f",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/jul/25/rebel-wilson-had-a-legal-win-but-didnt-come-out-of-the-deb-defamation-trial-unscathed",
-        "seendate": "2026-07-24T20:30:22.000Z",
-        "domain": "theguardian.com"
+        "title": "Georgia Okefenokee Swamp becomes a UNESCO World Heritage site",
+        "summary": "The Okefenokee Swamp in Georgia has joined the list of UNESCO World Heritage sites.",
+        "source": "waer.org",
+        "url": "https://www.waer.org/2026-07-27/georgias-okefenokee-swamp-becomes-a-unesco-world-heritage-site",
+        "seendate": "20260727T233000Z",
+        "domain": "waer.org"
       },
       {
-        "title": "Johnny Depp is playing Scrooge? I am not here for his big Hollywood comeback",
-        "summary": "‘It’s good to be back,’ says the actor in a new trailer for the forthcoming Ebenezer. Has everyone forgotten about the ghosts of his past?It is fair to say that, professionally speaking, Johnny Depp has had a quiet few years. Since he and Amber Heard sued each other amid a whirlwind of genuinely ugly accusations in 2019, and went to trial in 2022, Depp has struggled to reclaim his position in Hollywood.",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/jul/24/johnny-depp-is-playing-scrooge-i-am-not-here-for-his-big-hollywood-comeback",
-        "seendate": "2026-07-24T15:51:49.000Z",
-        "domain": "theguardian.com"
+        "title": "Sparks Fly : Mrunal Thakur and Yashasvi Jaiswal Cafe Encounter Sets Rumor Mills Abuzz – The Bubble",
+        "summary": "The worlds of Bollywood glitz and cricketing glory have collided once again, creating a buzz that fans can&#039;t stop talking about. This time, the spotlight shines on a fresh pairing...",
+        "source": "bubblear.com",
+        "url": "https://bubblear.com/sparks-fly-mrunal-thakur-and-yashasvi-jaiswals-cafe-encounter-sets-rumor-mills-abuzz/32052/",
+        "seendate": "20260727T233000Z",
+        "domain": "bubblear.com"
       },
       {
-        "title": "Seth Meyers on Elon Musk’s AI Odyssey movie: ‘I can’t wait for that to suck’",
-        "summary": "The late-night host ridiculed the right’s ‘alternate reality’ where Christopher Nolan’s blockbuster is a flop and the Iran war is overSeth Meyers took aim at Elon Musk and the right over their inconsequential attempts to bring down Christopher Nolan’s hit adventure The Odyssey.On Late Night, Meyers said that with the second presidency of Donald Trump, it had been pushed that “the era of woke was over",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/culture/2026/jul/24/seth-meyers-odyssey-movie-elon-musk-ai",
-        "seendate": "2026-07-24T14:03:24.000Z",
-        "domain": "theguardian.com"
+        "title": "D4vd Murder Case Heading To Trial | NewsRadio 800 WVHU",
+        "summary": "Singer D4vd, real name David Burke, will face trial for the murder of 14-year-old Celeste Rivas Hernandez. A judge ruled sufficient evidence exists, including digital and forensic data, linking him to the crime. Burke, who pleads not guilty, remains in custody, with the trial set to start with...",
+        "source": "800wvhu.iheart.com",
+        "url": "https://800wvhu.iheart.com/content/2026-07-27-d4vd-murder-case-heading-to-trial/",
+        "seendate": "20260727T233000Z",
+        "domain": "800wvhu.iheart.com"
       },
       {
-        "title": "‘I know what it’s like to be vulnerable’: musician This Is Lorelei AKA Nate Amos on addiction and finding peace",
-        "summary": "The singer-songwriter and Water from Your Eyes guitarist was unstoppably prolific, despite a growing dependence on substances. Now sober, he reflects on his new album and the songs that helped him turn his life roundFor most of his life, Nate Amos made music just to&nbsp;get through the day. There was plenty of it: dozens of self-produced albums and EPs uploaded – since his This Is Lorelei project launched",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/music/2026/jul/24/nate-amos-music-interview-singer-in-my-band-album-water-from-your-eyes-this-is-lorelai",
-        "seendate": "2026-07-24T12:00:13.000Z",
-        "domain": "theguardian.com"
+        "title": "Brunei No . 1 News Website",
+        "summary": "",
+        "source": "brudirect.com",
+        "url": "https://brudirect.com/post/Xinhua-Headlines:-Traditional-Chinese-culture-fuels-immersive-summer-travel-fervor",
+        "seendate": "20260727T233000Z",
+        "domain": "brudirect.com"
       },
       {
-        "title": "‘An anthem for the co-dependent’: Bad Magpie’s corvid carnage with a side of existential angst",
-        "summary": "Going by the mantra, if you want to make someone laugh, make them cry first, the game’s developers have created a lonely magpie who fills the void by wreaking havocAmid the gleeful anarchy of Bad Magpie’s debut trailer, there’s a striking note of melancholy. The game’s protagonist – a wounded corvid that creates havoc wherever she goes – calls out forlornly as a flock of her kind passes above, with a conspi",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/games/2026/jul/24/bad-magpie-preview-milktooth",
-        "seendate": "2026-07-24T12:00:13.000Z",
-        "domain": "theguardian.com"
+        "title": "Belfast Fleadh entertainment approved for Bank Square , Castle Street and cathedral car parks",
+        "summary": "Entertainment will be in front of Kelly&#x27;s Cellars, at the cathedral car parks, and off Castle Street",
+        "source": "belfastlive.co.uk",
+        "url": "https://www.belfastlive.co.uk/news/belfast-news/belfast-fleadh-entertainment-approved-bank-34361122",
+        "seendate": "20260727T233000Z",
+        "domain": "belfastlive.co.uk"
       }
     ],
     "f1": [
       {
-        "title": "Lando Norris would have won Hungarian GP even without Oscar Piastri's problems, says F1 TV pundit",
-        "summary": "Former IndyCar Series driver and F1 TV pundit James Hinchcliffe believes Lando Norris would have comfortably defeated his McLaren team-mate Oscar Piastri at the Hungarian Grand Prix, regardless of the Australian's contact with backmarker Carlos Sainz.The reigning Formula 1 champion delivered a commanding drive at the Hungaroring to claim his first victory of the 2026 season. While Norris ...<a class='mor",
+        "title": "George Russell sends defiant message after challenging F1 season start",
+        "summary": "George Russell insists he will focus on the positives as he reflects on the first half of the 2026 Formula 1 season, following a seventh-place finish at the Hungarian Grand Prix. As the F1 paddock packs up for the mandatory summer shutdown, the Mercedes driver is determined to maintain a glass-half-full perspective. The Briton concluded the first 11 races with a hard-fought seventh place at ...<a class='",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/lando-norris-would-have-won-hungarian-gp-even-without-oscar-piastris-problems-says-f1-tv-pundit/10842281/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-26T22:57:55.000Z",
+        "url": "https://www.motorsport.com/f1/news/george-russell-sends-defiant-message-after-challenging-f1-season-start/10842522/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-27T16:54:34.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Ralf Schumacher takes aim at Ferrari after Lewis Hamilton Hungarian GP disappointment",
-        "summary": "Former Formula 1 driver Ralf Schumacher has delivered a scathing assessment of Ferrari's performance at the Hungarian Grand Prix, taking aim at the Maranello outfit's strategy.The weekend at the Hungaroring proved frustrating for Ferrari. After showing strong pace in free practice, Hamilton initially qualified second, narrowly missing out on pole position to McLaren's Lando Norris.But a ...<a class='",
+        "title": "\"Monumental\" Red Bull Ford Powertrains project has exceeded expectations, says Calum Nicholas",
+        "summary": "Former Red Bull mechanic Calum Nicholas says the Milton Keynes outfit's Red Bull Ford Powertrains project has surpassed internal expectations.Ahead of the introduction of Formula 1's new regulations in 2026, which feature an almost 50:50 split between the internal combustion engine and electrical power, Red Bull took on the task of manufacturing its own power units in a works partnership with ...<a class",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/ralf-schumacher-takes-aim-at-ferrari-after-lewis-hamilton-hungarian-gp-disappointment/10842210/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-26T21:53:05.000Z",
+        "url": "https://www.motorsport.com/f1/news/monumental-red-bull-ford-powertrains-project-has-exceeded-expectations-says-team-insider/10842517/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-27T16:26:02.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Winners and losers from F1's heated Hungarian Grand Prix",
-        "summary": "As F1 prepares for its annual summer shutdown, the 2026 season saw a new winner as McLaren joined Mercedes and Ferrari in the victor column off the back of an impressive car upgrade. The campaign looks set to be decided by which top team has the most bullets left in its chamber as the development war rages on. But some drivers and teams will head to the beach with a better feeling than ...<a class='more' hre",
+        "title": "How engine software issue caused George Russell's slow start at Hungarian GP",
+        "summary": "George Russell suffered a Mercedes Formula 1 engine software issue that put the revs out of control while on the Hungarian Grand Prix grid and triggered his slow start.On Saturday, a water leak caused by hitting a kerb destroyed his engine, forcing Mercedes into an engine change ahead of the race. But on the grid an issue at the start triggered anti‑stall, costing him several positions and ...<a class='m",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/winners-and-losers-from-f1s-heated-hungarian-grand-prix/10842265/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-26T19:12:04.000Z",
+        "url": "https://www.motorsport.com/f1/news/how-engine-software-issue-caused-george-russells-slow-start-at-hungarian-gp/10842492/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-27T15:10:36.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "The error that led to Lewis Hamilton's Hungarian GP penalty",
-        "summary": "Formula 1 is a game of fine margins and there is no greater example than the five-second penalty Lewis Hamilton received at the Hungarian Grand Prix for pitlane speeding.The seven-time world champion was second at the Hungaroring before pitting on lap 56 under virtual safety car conditions due to a gearbox failure forcing Oscar Piastri to stop before Turn 4.It was a costly stop for two ...<a class='m",
+        "title": "Toto Wolff refuses to call Kimi Antonelli F1 title favourite",
+        "summary": "Mercedes boss Toto Wolff refused to call Kimi Antonelli the Formula 1 world championship favourite despite increasing his points lead at the Hungarian Grand Prix.Antonelli fought back from a grid penalty to take third place at the Hungaroring and coupled with Lewis Hamilton’s poor race and penalty that left him fifth, plus George Russell’s nightmare start and recovery drive to seventh, the ...<a class='m",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/the-error-that-led-to-lewis-hamiltons-hungarian-gp-penalty/10842258/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-26T18:43:34.000Z",
+        "url": "https://www.motorsport.com/f1/news/toto-wolff-refuses-to-call-kimi-antonelli-f1-title-favourite-/10842429/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-27T14:30:04.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Explained: McLaren's view of Oscar Piastri's explosive F1 Hungarian GP radio outburst",
-        "summary": "McLaren team principal Andrea Stella has explained the Formula 1 squad's thinking behind its second pitstop sequence in the Hungarian Grand Prix amid frustration from Oscar Piastri over his run-in with backmarker Carlos Sainz.In their quest to deliver a first grand prix win of the season, both Piastri and team-mate Lando Norris showed frustration in the heat of the moment, belying the sense of ...<a clas",
+        "title": "Carlos Sainz hit with Community Note on X after Oscar Piastri Hungarian GP collision",
+        "summary": "Williams driver Carlos Sainz has been subjected to a humbling 'Community Note' on social media platform X after explaining his collision with Oscar Piastri during the Hungarian Grand Prix. The incident occurred on lap 38 at the Hungaroring. McLaren's Piastri, who had taken the lead on the opening lap from his team-mate Lando Norris, was attempting to lap Sainz as the Williams driver was in ...<a class='m",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/explained-mclarens-view-of-oscar-piastris-explosive-f1-hungarian-gp-radio-outburst/10842231/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-26T18:30:25.000Z",
+        "url": "https://www.motorsport.com/f1/news/carlos-sainz-hit-with-community-note-on-x-after-oscar-piastri-hungarian-gp-collision/10842483/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-27T14:25:58.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "One of the best shooters around just got a barely recognizable second episode, and it's only $12",
-        "summary": "I love checking in on a New Blood game and seeing it completely transform in early access.",
+        "title": "Zach Cregger may have made the best Resident Evil movie yet, but a faction of fans aren't happy about it",
+        "summary": "The latest reboot of the Resident Evil movie series is taking some heat for not looking Resident Evil-ey enough.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/fps/one-of-the-best-shooters-around-just-got-a-barely-recognizable-second-episode-and-its-only-usd12/",
-        "seendate": "2026-07-26T22:26:18.000Z",
+        "url": "https://www.pcgamer.com/movies-tv/zach-cregger-may-have-made-the-best-resident-evil-movie-yet-but-a-faction-of-fans-arent-happy-about-it/",
+        "seendate": "2026-07-27T22:41:27.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Capcom wants to release a Resident Evil every year and sees remakes as the way to make it happen",
-        "summary": "It's worked well so far.",
+        "title": "After leaving Epic Games last month, its former 'Unreal evangelist' is now building his own game engine",
+        "summary": "Sjoerd De Jong aims to combat game development \"stagnation\" he says has emerged from Epic and Unity market dominance.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/resident-evil/capcom-wants-to-release-a-resident-evil-every-year-and-sees-remakes-as-the-way-to-make-it-happen/",
-        "seendate": "2026-07-26T21:40:41.000Z",
+        "url": "https://www.pcgamer.com/gaming-industry/after-leaving-epic-games-last-month-its-former-unreal-evangelist-is-now-building-his-own-game-engine/",
+        "seendate": "2026-07-27T21:37:19.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "The new 'backward compatible' Xbox games on PC run on an OG Xbox emulator inside an Xbox 360 emulator, and people have already used it to run other Xbox 360 games",
-        "summary": "Emulator turducken.",
+        "title": "'Wtf is going on': Indie dev discovers their neglected Steam game is powering an Undertale multiplayer mod following its freak 1700% jump in player activity",
+        "summary": "Little-known platformer Crashphalt is enjoying an unexpected popularity—but its players are enjoying something else.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/game-development/the-new-backward-compatible-xbox-games-on-pc-run-on-an-og-xbox-emulator-inside-an-xbox-360-emulator-and-people-have-already-used-it-to-run-other-xbox-360-games/",
-        "seendate": "2026-07-26T20:22:42.000Z",
+        "url": "https://www.pcgamer.com/games/rpg/wtf-is-going-on-indie-dev-discovers-their-neglected-steam-game-is-powering-an-undertale-multiplayer-mod-after-noticing-its-freak-1700-percent-jump-in-player-activity/",
+        "seendate": "2026-07-27T21:36:05.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Final Fantasy 14 boss Yoshi-P doesn't get the deal with Chort",
-        "summary": "Yoshi-P is not chortin' it.",
+        "title": "EA is 'a hedge fund with a videogame hobby,' former Dragon Age boss says, and that's why he reckons the series is probably dead and buried",
+        "summary": "Mark Darrah doesn't think there's anyone left at BioWare who would pitch a new Dragon Age game, and he doesn't think studio executives would let anyone else do it either.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-boss-yoshi-p-doesnt-get-the-deal-with-chort/",
-        "seendate": "2026-07-26T18:05:43.000Z",
+        "url": "https://www.pcgamer.com/games/dragon-age/ea-is-a-hedge-fund-with-a-videogame-hobby-former-dragon-age-boss-says-and-thats-why-he-reckons-the-series-is-probably-dead-and-buried/",
+        "seendate": "2026-07-27T20:15:37.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "J.K. Simmons hasn't played Baldur's Gate 3 or any of his games, but he loves Portal 2: 'I could have done the feature film, or the play, or whatever'",
-        "summary": "Fair is fair.",
+        "title": "Cyan releases teaser for the first new Myst game in 20 years, then breaks the news that it's not actually being made",
+        "summary": "Project Anglerfish looks great, but publishers apparently aren't interested.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/baldurs-gate/j-k-simmons-hasnt-played-baldurs-gate-3-or-any-of-his-games-but-he-loves-portal-2-i-could-have-done-the-feature-film-or-the-play-or-whatever/",
-        "seendate": "2026-07-26T17:31:42.000Z",
+        "url": "https://www.pcgamer.com/games/adventure/cyan-releases-teaser-for-the-first-new-myst-game-in-20-years-then-breaks-the-news-that-its-not-actually-being-made/",
+        "seendate": "2026-07-27T19:26:42.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
       {
-        "title": "Mega datacentre planned for outer Melbourne will be six times bigger than a large shopping centre",
-        "summary": "More than 3,600 people sign petition for careful assessment of proposed AI hub, now a flashpoint for national debate on datacentre boomFollow our Australia news live blog for latest updatesGet our <a href",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/australia-news/2026/jul/26/mega-datacentre-planned-for-outer-melbourne-will-be-almost-six-times-the-size-of-chadstone-shopping-centre",
-        "seendate": "2026-07-25T20:00:53.000Z",
-        "domain": "theguardian.com"
+        "title": "RIAs lose 5 % of AUM a year . Here how to win it back",
+        "summary": "Research from Cerulli Associates indicates that marketing and referrals are the best ways to bring in new clients. Yet few firms devote much time or money to either.",
+        "source": "financial-planning.com",
+        "url": "https://www.financial-planning.com/news/rias-lose-5-of-aum-a-year-heres-how-to-win-it-back",
+        "seendate": "20260727T233000Z",
+        "domain": "financial-planning.com"
       },
       {
-        "title": "‘I thought, I’ve tried everything else, why not give AI a shot?’: the long-lost family reunited by ChatGPT",
-        "summary": "Avtar spent decades wondering what happened to the mother he never got to know. Thousands of miles away, Nicci was haunted by the story of a half-brother given away before she was born. How did a chatbot bring them together?As a small boy growing up in Amritsar, India, in the 1960s, Avtar Singh used to hear whispers. Your mum isn’t really your mum, the rumours would say. Your mum lives abroad.<",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/jul/25/long-lost-family-reunited-chatgpt-artificial-intelligence-ai",
-        "seendate": "2026-07-25T05:00:35.000Z",
-        "domain": "theguardian.com"
+        "title": "Brunei No . 1 News Website",
+        "summary": "",
+        "source": "brudirect.com",
+        "url": "https://brudirect.com/post/Column:-Duty-beyond-dispute:-maritime-search-and-rescue-in-South-China-Sea",
+        "seendate": "20260727T233000Z",
+        "domain": "brudirect.com"
       },
       {
-        "title": "Space datacenters proposed by Musk and Bezos ‘catastrophic’ for planet, experts warn",
-        "summary": "New US petition demands review of plans from tech companies amid fears of environmental destructionSpace datacenters proposed by SpaceX, Jeff Bezos’s Blue Origin and others would release staggering levels of pollution that would probably alter the Earth’s atmosphere and be “catastrophic” fo",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/jul/23/space-datacenters-bezos-blue-origin",
-        "seendate": "2026-07-23T11:00:43.000Z",
-        "domain": "theguardian.com"
+        "title": "ARCPOINT PROVIDES UPDATE ON MANAGEMENT CEASE TRADE ORDER APPLICATION AND DELAY IN FILING ANNUAL FINANCIAL STATEMENTS",
+        "summary": "GREENVILLE, South Carolina, July 27, 2026 (GLOBE NEWSWIRE) -- ARCpoint Inc. (TSXV: ARC) (the",
+        "source": "manilatimes.net",
+        "url": "https://www.manilatimes.net/2026/07/28/tmt-newswire/globenewswire/arcpoint-provides-update-on-management-cease-trade-order-application-and-delay-in-filing-annual-financial-statements/2392596",
+        "seendate": "20260727T233000Z",
+        "domain": "manilatimes.net"
       },
       {
-        "title": "The AI jobs apocalypse probably isn’t coming anytime soon",
-        "summary": "Artificial intelligence may not deliver on its promise of vast economic opportunity at a price that humanity is willing to payIn March, Anthropic, the cutting-edge artificial intelligence business that gave us the chatbot Claude, published an analysis on the impact of AI on employment, to help us assess the claim that intelligent robots w",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
-        "seendate": "2026-07-25T13:00:43.000Z",
-        "domain": "theguardian.com"
+        "title": "Paank alleges four fresh enforced disappearances in Balochistan , demands accountability from Pakistan",
+        "summary": "Paank, the human rights wing of the Baloch National Movement (BNM), has alleged that four Baloch individuals were forcibly disappeared in separate incidents across Balochistan, accusing Pakistani security forces and intelligence agencies of carrying out the detentions. In a statement posted on social media platform X, Paank said, \"Paank strongly condemns the enforced disappearances of four Baloch individuals, carried",
+        "source": "southeastasiapost.com",
+        "url": "http://www.southeastasiapost.com/news/279212377/paank-alleges-four-fresh-enforced-disappearances-in-balochistan-demands-accountability-from-pakistan",
+        "seendate": "20260727T233000Z",
+        "domain": "southeastasiapost.com"
       },
       {
-        "title": "Elon Musk says he got ‘carried away’ with Trump – but still holds on to contentious political views",
-        "summary": "In interview, billionaire says instead of running ‘Doge’ he should’ve ‘worked on my companies’ and shares extreme predictionsElon Musk has admitted he became too consumed by politics during his volatile alliance with Donald Trump and his brief appointment as the president’s financial axman, running the so-called “department of government efficiency” (Doge).The world’s richest person, and briefly its",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/jul/23/elon-musk-regret-trump-doge-ai",
-        "seendate": "2026-07-23T15:27:52.000Z",
-        "domain": "theguardian.com"
+        "title": "Articura Launches a New Chapter for Sovereign Healthcare AI in Indonesia",
+        "summary": "PT Articura Tech Indonesia (\"Articura\") today announced the foundation of its Sovereign Healthcare AI Platform, bringing together institutions across clinical care, academia, research and industry to support the responsible development of healthcare AI for Indonesia. The platform connects AI infrastructure, sovereign medical intelligence, clinical applications and healthcare institutions within one integrated environ",
+        "source": "southeastasiapost.com",
+        "url": "http://www.southeastasiapost.com/news/279212434/articura-launches-a-new-chapter-for-sovereign-healthcare-ai-in-indonesia",
+        "seendate": "20260727T233000Z",
+        "domain": "southeastasiapost.com"
       }
     ],
     "climate": [
+      {
+        "title": "‘It came out of real frustration’: the 90s activist network that set fires to save a burning planet",
+        "summary": "Matthew Wolfe’s Fires in the Night examines Earth Liberation Front, a US eco-anarchist movement, and its legacy of radical environmentalismAre echoes of 1990s radical environmentalism returning louder or fading away? It’s a question posed by Fires in the Night, a new book on the history of the Earth Liberation Front (ELF), a loosely grouped band of U",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/jul/27/fires-in-the-night-earth-liberation-front-environment",
+        "seendate": "2026-07-27T12:00:09.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "US environmental groups urge EPA to reject new Pfas to cool datacenters",
+        "summary": "Coalition says Chemours downplayed health and climate risks in bid to fast-track the compound’s useA coalition of 17 environmental groups is demanding the Environmental Protection Agency reject a new Pfas that chemical giant Chemours is attempting to fast-track for approval for use in cooling",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/jul/27/pfas-datacenter-cooling-epa",
+        "seendate": "2026-07-27T12:00:09.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "‘Extraordinarily hot’: US heatwave stretches on with millions still under warnings",
+        "summary": "Southern and central states from California to Mississippi face heat indexes above 100F amid another heat domeAt least 40 million people were under extreme heat warnings across central and southern parts of the United States on Sunday as high temperatures and severe humidity gripped large swaths of the country for a <a href=\"https://www.theg",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/jul/26/us-heat-wave-dome-weather",
+        "seendate": "2026-07-27T00:04:47.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Scorching US heatwave to hit 70 million people with third ‘heat dome’ in month",
         "summary": "Temperatures of 95-105F (35-40C) are expected, spanning Gulf of Mexico coast to the Great Plains and the midwestAbout 70 million people in the US are set to face excessive heat advisories as dangerously hot temperatures scorch much of the country’s southern and central states.The third major “heat dome” event to hit the US in the past month is gathering strength over the weekend, spanning a vast swat",
@@ -355,71 +379,47 @@
         "url": "https://www.theguardian.com/us-news/2026/jul/24/arizona-border-wall-endangered-species",
         "seendate": "2026-07-24T20:36:43.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Scientists decry Trump’s ‘blame game’ after he claims Canada ‘poisoning’ US air",
-        "summary": "Trump told Mark Carney ‘you got to stop these fires from coming in’ as experts say wildfires symptom of climate crisisScientists have reacted with incredulity after Donald Trump accused Canada of “poisoning” the US’s air with smoke billowing from a slew of forest fires and threatened sanctions upon the country’s northern neighbor.The US president has said that he raised the issue of smoke waft",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jul/24/trump-canada-wildfires-smoke-scientists",
-        "seendate": "2026-07-24T10:00:10.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Trump says nearly 200 firms have signed pledge to protect Americans from costs arising from datacenters",
-        "summary": "‘Ratepayer Protection Pledge’ president has touted is non-binding as people continue to struggle with rising billsDonald Trump has announced that about 200 entities have signed on to his non-binding “Ratepayer Protection Pledge”, expanding a voluntary commitment which claims to ensure US consumers will not bear the cost of the AI datacenter build-out.Trump delivered remarks on Thursday at the Environ",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jul/23/trump-datacenter-costs-big-tech",
-        "seendate": "2026-07-23T19:56:50.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "At least two people missing in West Virginia after torrential rain causes flash floods",
-        "summary": "State’s governor had declared a state of emergency for all 55 counties, and deployed 500 national guard membersPatrick Morrisey, the West Virginia governor, said at least two people were unaccounted for in Upshur county, after torrential rain caused flash floods in parts of the state.Speaking at a <a href=\"https://x.com/wvgovernor/status",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jul/23/national-guard-west-virginia-flash-floods",
-        "seendate": "2026-07-23T16:06:19.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "science": [
+      {
+        "title": "Jodrell Bank Observatory facing closure after major funder cuts support",
+        "summary": "Scientists say decision is blow to UK astronomy as deep space observatory is home to world-leading facilitiesJodrell Bank Observatory, the hub of a world-leading network of radio telescopes, is facing closure after government funding for the facility was slashed.The deep space observatory includes the Grade I-listed Lovell tel",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/jul/27/jodrell-bank-observatory-facing-closure-uk",
+        "seendate": "2026-07-27T15:39:38.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "‘It’s not rocket science’: a day in the life of a Nasa behavioral health scientist",
+        "summary": "Dr Suzanne Bell helps astronauts perform in a high-stress environment. To do that, she wakes up at 5am – without an alarmTell us: what impact have GLP-1s had on your relationships?Dr Suzanne Bell, an organizational psychologist, leads the Behavioral Health and Performance Laboratory at Nasa’s Jo",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/wellness/2026/jul/26/suzanne-bell-nasa-behavorial-health-scientist",
+        "seendate": "2026-07-26T16:00:16.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Gunther von Hagens, creator of Body Worlds and plastination, dies aged 81",
+        "summary": "Controversial anatomist’s body ‘will definitely be plastinated’ in line with his wishes, a spokesperson saidGunther von Hagens, who developed a technique for permanently preserving human bodies in rigid states and toured the world with his controversial Body Worlds exhibition, has moved closer to fulfilling a long-held wish to be sliced up and displayed in a museum after dying aged 81.“It is with dee",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/jul/27/gunther-von-hagens-creator-of-body-worlds-and-plastination-dies-aged-81",
+        "seendate": "2026-07-27T13:52:49.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Starwatch: The summer triangle returns to the northern sky",
+        "summary": "One of the easiest patterns to spot, combination of Vega, Deneb and Altair is also visible in the southern hemisphereIn the northern hemisphere we know that summer is truly upon us when the summer triangle appears overhead. Although not an official constellation, it is one of the easiest patterns to find in the northern summer sky.The chart shows the view looking high in the south-east from London at",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/jul/27/starwatch-summer-triangle-returns-northern-sky",
+        "seendate": "2026-07-27T05:00:33.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Restricted eating hours may reduce cognitive decline in older age, researchers find",
         "summary": "Preliminary study shows older people who avoided food four hours before bed did better in problem solving testsConfining mealtimes and snacks to a nine-hour window and avoiding food for four hours before bed may help stave off cognitive decline in older age, researchers say.A pilot study of older women living with overweight or obesity found hints of improvement in mental skills among those who ate w",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/science/2026/jul/26/restricted-eating-hours-may-reduce-cognitive-decline-in-older-age-researchers-find",
         "seendate": "2026-07-26T13:30:12.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Millions of people are losing weight using GLP-1s. How do the drugs affect their love lives?",
-        "summary": "Prescribing doctors often warn of the medications’ potential side-effects – but unexpected impacts on romantic relationships are less understoodFor Jennifer, obesity was the obvious culprit for most of her problems.The litigation attorney told herself it was the reason why she wasn’t being invited to parties, and why she and her husband struggled with physical intimacy in their otherwise “solid” marr",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/jul/26/glp1-drugs-weight-loss-side-effects-relationship",
-        "seendate": "2026-07-25T20:00:52.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Four types of thinker have been identified. Which one are you?",
-        "summary": "Investigation finds evidence of distinct groups, from big-picture thinkers to those who sweat the small stuff. Illustrations by Michael ParkinAn investigation into what people think about has put the spotlight on the modern mind, revealing thoughts dominated by work, the need for coffee and a strong desire to go back to bed.It also found evidence for four distinct groups of thinkers w",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/jul/25/four-types-of-thinker-which-one-are-you",
-        "seendate": "2026-07-25T06:00:35.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Nutrients in our food are declining. Can regenerative agriculture save it?",
-        "summary": "Approach focuses on rebuilding soil health, increasing biodiversity and restoring natural ecosystemsFor the last few decades, the nutrient content of our crops has been declining. In the late 90s, the US Department of Agriculture found the vitamin C content of lemons had decreased by almost a third over the previous 22 year",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/food/2026/jul/24/nutrition-food-declining-can-regenerative-agriculture-save-it",
-        "seendate": "2026-07-24T12:34:46.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "What can the Galápagos Islands’ animals teach us about the threats of El Niño?",
-        "summary": "In this week’s newsletter: the archipelago at the centre of the extreme weather phenomenon could help scientists predict how other marine ecosystems will adapt to our warming climate• Don’t get Down to Earth delivered to your inbox? Sign up hereThe ocean waters around the",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/2026/jul/23/what-can-the-galapagos-islands-animals-teach-us-about-the-threats-of-el-nino",
-        "seendate": "2026-07-24T06:00:07.000Z",
         "domain": "theguardian.com"
       }
     ]
