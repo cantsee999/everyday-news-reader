@@ -1,341 +1,341 @@
 window.NEWS_CACHE = {
-  "generatedAt": "2026-07-29T23:51:59.794Z",
+  "generatedAt": "2026-07-30T23:52:10.877Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
+      {
+        "title": "US government map of Africa mislabels every country at global conference",
+        "summary": "State department ‘takes full responsibility’ for erroneous, widely shared chart displayed at Aids conference in BrazilA US government map of Africa mislabeled every country during a state department presentation at a ⁠global conference in Brazil ⁠this week, ​causing a stir among attenders who took screenshots and posted them online.Reuters viewed a video of the presentation given at the Aids 2026 con",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/jul/30/government-map-mislabels-african-countries",
+        "seendate": "2026-07-30T22:48:02.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Fifteen elephant deaths at Kenya park may be due to cyanide poisoning",
+        "summary": "Analysis of samples collected from carcasses found traces of toxic chemical compound, says Kenya Wildlife ServiceThe recent deaths of 15 elephants near a park in southern Kenya in the past month were likely caused by the animals ingesting pesticides used on nearby tomato farms, the Kenya Wildlife Service (KWS) has said.Erustus Kanga, the agency’s director general, told Citizen TV that analysis of sam",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/environment/2026/jul/30/elephant-deaths-kenya-park-cyanide-poisoning-wildlife",
+        "seendate": "2026-07-30T12:46:50.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Fifty-three days and counting: 93-year-old leader’s record absence fuels health speculation",
+        "summary": "Cameroon’s Paul Biya has not made a statement or been seen since leaving for ‘brief private stay’ at Swiss hotel on 7 JuneA record 53-day absence by the world’s oldest head of state has renewed speculation in his native Cameroon about whether he is dead or alive, even though dis",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/jul/30/record-absence-paul-biya-cameroon-president-health-speculation",
+        "seendate": "2026-07-30T12:36:02.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "A quarter of young Africans believe USAID cuts could be positive, survey finds",
+        "summary": "Losing funds should force leaders to confront their own challenges, they said, while many voiced concerns over increasing foreign influence A quarter of young Africans believe aid cuts by the US could have a positive impact, saying that losing foreign money will force leaders to confront and solve their own challenges, according to a new survey.In Ghana and Nigeria, almost half (41% and 40% respectiv",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/global-development/2026/jul/30/a-quarter-of-young-africans-believe-usaid-cuts-could-be-positive-survey-finds",
+        "seendate": "2026-07-30T05:00:53.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Kenya investigating unexpected deaths of 15 elephants in national park",
         "summary": "Potential toxic substance detected in several of 15 elephants found dead in Kenya’s Amboseli national parkOfficials are investigating the deaths of 15 elephants over the past month in Kenya’s Amboseli national park.The Kenya Wildlife Service (KWS) said 10 of the elephants showed signs of partial paralysis before dying within two days. <a href=\"https://www.theguardian.com/world/2026/jul/29/",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/world/2026/jul/29/elephant-deaths-kenya-amboseli-national-park",
         "seendate": "2026-07-29T00:48:07.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Uganda begins emergency food handouts after 19 die from hunger",
-        "summary": "Government move follows months of drought and crop failures in Karamoja, with 1.5m people facing malnutritionUganda has launched emergency food relief distribution after at least 19 deaths from hunger were reported in an area of prolonged drought in",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/global-development/2026/jul/27/uganda-begins-emergency-food-handouts-after-19-die-from-hunger",
-        "seendate": "2026-07-27T07:00:34.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Two Russian men jailed in Angola for terrorism and spying",
-        "summary": "The men were convicted over alleged plan to stage coup and organise deadly demonstrations over fuel prices last yearTwo Russian men have been found guilty by an Angolan court of terrorism and spying after being accused of planning a coup and helping to organise deadly demonstrations in the southern African country last year.Lev Lakshtanov and Igor Ratchin were sentenced to eight and 11 years in jail",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/jul/23/two-russian-men-jailed-angola-terrorism-and-spying",
-        "seendate": "2026-07-23T14:24:01.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "MoD cancels army training in Kenya over powers to prosecute British soldiers",
-        "summary": "September exercise called off after Kenya raises concerns over funding and jurisdiction for criminal offencesThe British army has been forced to cancel training for its troops in Kenya after the Kenyan government refused to ratify a bilateral defence agreement.While the UK government wanted to renew the existing agreement, Kenyan lawmakers had sought changes to give local authorities greater powers t",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/uk-news/2026/jul/23/british-army-cancel-training-kenya-defence-agreement-dispute",
-        "seendate": "2026-07-23T14:06:01.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Health worker monitored for Ebola in London hospital after working in DRC",
-        "summary": "UK resident was evacuated from Democratic Republic of the Congo where there is an outbreak of the diseaseA humanitarian worker is being monitored at a specialist hospital in London after potential exposure to the Ebola virus.The UK resident was medically evacuated from the Democratic Republic of the Congo (DRC) where the worker had been treating patients with the disease, the UK Health Security Agenc",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/jul/21/health-worker-being-monitored-for-ebola-in-london-hospital-after-working-in-drc",
-        "seendate": "2026-07-21T22:39:00.000Z",
         "domain": "theguardian.com"
       }
     ],
     "conflict": [
       {
+        "title": "US government map of Africa mislabels every country at global conference",
+        "summary": "State department ‘takes full responsibility’ for erroneous, widely shared chart displayed at Aids conference in BrazilA US government map of Africa mislabeled every country during a state department presentation at a ⁠global conference in Brazil ⁠this week, ​causing a stir among attenders who took screenshots and posted them online.Reuters viewed a video of the presentation given at the Aids 2026 con",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/jul/30/government-map-mislabels-african-countries",
+        "seendate": "2026-07-30T22:48:02.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Fifteen elephant deaths at Kenya park may be due to cyanide poisoning",
+        "summary": "Analysis of samples collected from carcasses found traces of toxic chemical compound, says Kenya Wildlife ServiceThe recent deaths of 15 elephants near a park in southern Kenya in the past month were likely caused by the animals ingesting pesticides used on nearby tomato farms, the Kenya Wildlife Service (KWS) has said.Erustus Kanga, the agency’s director general, told Citizen TV that analysis of sam",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/environment/2026/jul/30/elephant-deaths-kenya-park-cyanide-poisoning-wildlife",
+        "seendate": "2026-07-30T12:46:50.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Fifty-three days and counting: 93-year-old leader’s record absence fuels health speculation",
+        "summary": "Cameroon’s Paul Biya has not made a statement or been seen since leaving for ‘brief private stay’ at Swiss hotel on 7 JuneA record 53-day absence by the world’s oldest head of state has renewed speculation in his native Cameroon about whether he is dead or alive, even though dis",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/jul/30/record-absence-paul-biya-cameroon-president-health-speculation",
+        "seendate": "2026-07-30T12:36:02.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "A quarter of young Africans believe USAID cuts could be positive, survey finds",
+        "summary": "Losing funds should force leaders to confront their own challenges, they said, while many voiced concerns over increasing foreign influence A quarter of young Africans believe aid cuts by the US could have a positive impact, saying that losing foreign money will force leaders to confront and solve their own challenges, according to a new survey.In Ghana and Nigeria, almost half (41% and 40% respectiv",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/global-development/2026/jul/30/a-quarter-of-young-africans-believe-usaid-cuts-could-be-positive-survey-finds",
+        "seendate": "2026-07-30T05:00:53.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Kenya investigating unexpected deaths of 15 elephants in national park",
         "summary": "Potential toxic substance detected in several of 15 elephants found dead in Kenya’s Amboseli national parkOfficials are investigating the deaths of 15 elephants over the past month in Kenya’s Amboseli national park.The Kenya Wildlife Service (KWS) said 10 of the elephants showed signs of partial paralysis before dying within two days. <a href=\"https://www.theguardian.com/world/2026/jul/29/",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/world/2026/jul/29/elephant-deaths-kenya-amboseli-national-park",
         "seendate": "2026-07-29T00:48:07.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Uganda begins emergency food handouts after 19 die from hunger",
-        "summary": "Government move follows months of drought and crop failures in Karamoja, with 1.5m people facing malnutritionUganda has launched emergency food relief distribution after at least 19 deaths from hunger were reported in an area of prolonged drought in",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/global-development/2026/jul/27/uganda-begins-emergency-food-handouts-after-19-die-from-hunger",
-        "seendate": "2026-07-27T07:00:34.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Two Russian men jailed in Angola for terrorism and spying",
-        "summary": "The men were convicted over alleged plan to stage coup and organise deadly demonstrations over fuel prices last yearTwo Russian men have been found guilty by an Angolan court of terrorism and spying after being accused of planning a coup and helping to organise deadly demonstrations in the southern African country last year.Lev Lakshtanov and Igor Ratchin were sentenced to eight and 11 years in jail",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/jul/23/two-russian-men-jailed-angola-terrorism-and-spying",
-        "seendate": "2026-07-23T14:24:01.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "MoD cancels army training in Kenya over powers to prosecute British soldiers",
-        "summary": "September exercise called off after Kenya raises concerns over funding and jurisdiction for criminal offencesThe British army has been forced to cancel training for its troops in Kenya after the Kenyan government refused to ratify a bilateral defence agreement.While the UK government wanted to renew the existing agreement, Kenyan lawmakers had sought changes to give local authorities greater powers t",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/uk-news/2026/jul/23/british-army-cancel-training-kenya-defence-agreement-dispute",
-        "seendate": "2026-07-23T14:06:01.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Health worker monitored for Ebola in London hospital after working in DRC",
-        "summary": "UK resident was evacuated from Democratic Republic of the Congo where there is an outbreak of the diseaseA humanitarian worker is being monitored at a specialist hospital in London after potential exposure to the Ebola virus.The UK resident was medically evacuated from the Democratic Republic of the Congo (DRC) where the worker had been treating patients with the disease, the UK Health Security Agenc",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/jul/21/health-worker-being-monitored-for-ebola-in-london-hospital-after-working-in-drc",
-        "seendate": "2026-07-21T22:39:00.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "economy": [
       {
-        "title": "60 Minutes adds new correspondents and contributors after key departures",
-        "summary": "New York Times opinion columnist Ross Douthat has been named a correspondent, while Sebastian Junger, Gianna Toboni and Trevor Phillips have been named contributorsThe CBS broadcast 60 Minutes announced a new slate of correspondents and contributors on Tuesday that will help replace a group of longtime correspondents, including Scott Pelley, Sharyn Alfonsi and Cecilia Vega, who were fired this spring.<p",
+        "title": "ABC argues that early license review by FCC is ‘retaliation’ for network’s coverage",
+        "summary": "In filing, network’s lawyers urged FCC to reject petitions to deny license renewals for eight ABC-owned local stationsUS politics live – latest updatesABC has pushed back aggressively against the Federal Communications Commission (FCC) for put",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/media/2026/jul/28/60-minutes-new-correspondent-nyt-ross-douthat",
-        "seendate": "2026-07-28T21:05:39.000Z",
+        "url": "https://www.theguardian.com/media/2026/jul/30/abc-fcc-license-renewal-tv-stations",
+        "seendate": "2026-07-30T17:06:24.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Ex-FCC officials warn agency sending ‘chilling message’ with ABC license review",
-        "summary": "Ex-officials ask FCC to reject petitions to deny renewal of broadcast licenses for eight stations owned by ABCA group of prominent former Federal Communications Commission (FCC) officials, including key staffers and commissioners appointed by both Democratic and Republican presidents, issued a filing on Tuesday that warns the agency is trying to send a “chilling message” to broadcasters after it received pe",
+        "title": "New survey reveals fears of US farm workers amid Trump’s immigration raids",
+        "summary": "Vast majority of farm workers say raids and deportations have affected their jobs and 61% report shopping lessSign up for the B",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jul/28/fcc-former-officials-abc-licenses",
-        "seendate": "2026-07-28T14:00:05.000Z",
+        "url": "https://www.theguardian.com/us-news/2026/jul/30/farm-workers-survey-trump-immigration",
+        "seendate": "2026-07-30T19:46:05.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Apple becomes second $5tn company as investors flee AI stocks",
-        "summary": "Share price rally driven by strong product demand as well as decision to sit out AI spending race, amid wider tech sell-offApple has become only the second company to pass the $5tn valuation mark, as it benefited from investors fleeing AI and semiconductor stocks amid a wider tech sell-off.The iPhone maker’s shares hit a session high ⁠of $342.89 on Tuesday, giving it a market ⁠capitalisation of $5.04",
+        "title": "US economy grows sluggish 1.5% in second quarter as inflation tops Fed target",
+        "summary": "Consumer spending remained resilient even as policymakers kept interest rates on holdThe US economy expanded at a sluggish 1.5% pace from April through June as rising imports weighed on growth. But consumer spending rose. And the Federal Reserve’s favored measure of <a href=\"https:",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/jul/28/apple-second-ever-5tn-company-as-investors-flee-ai-stocks",
-        "seendate": "2026-07-28T20:33:14.000Z",
+        "url": "https://www.theguardian.com/business/2026/jul/30/us-economy-growth-inflation-second-quarter",
+        "seendate": "2026-07-30T13:21:19.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "South Korean stock market at three-month low as AI sell-off intensifies",
-        "summary": "Samsung and SK Hynix fall by more than 10% amid renewed fears over AI spending and Chinese competitionBusiness live – latest updatesThe sell-off in AI stocks has intensified, driving South Korea’s stock market down to its lowest level in thre",
+        "title": "Fed holds interest rates steady despite Trump’s renewed calls to lower them",
+        "summary": "Rates remain unchanged for fifth time since December as tenuous Iran peace deal pushes energy prices up againThe US Federal Reserve held interest rates steady on Wednesday in a divided vote, indicating growing pressure on the central bank to address heightened inflation.The Fed’s federal open market committee voted 9-3 to maintain rates, with three dissenting members indicating a preference to raise",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/jul/28/ai-sell-off-chip-stocks-sk-hynix-samsung",
-        "seendate": "2026-07-28T17:43:46.000Z",
+        "url": "https://www.theguardian.com/business/2026/jul/29/federal-reserve-interest-rates",
+        "seendate": "2026-07-29T21:06:08.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Johnson & Johnson to pay $5.5bn settlement in talc cancer lawsuit",
-        "summary": "Landmark deal covers about 76,000 claims and could end contentious, decade-long legal battleJohnson &amp; Johnson said it would pay an estimated $5.5bn to resolve tens of thousands of lawsuits alleging its baby ⁠powder and other talc products caused ⁠ovarian cancer, in a landmark ​deal that could end a co",
+        "title": "Let them eat SUVs: Trump White House orders fleet of luxury cars as Americans struggle",
+        "summary": "Americans are facing a deepening affordability crisis but at least Trump and co have ... 250 new Cadillac EscaladesThis was originally published in This Week in Trumpland. Sign up to receive it in your inbox every WednesdayGas prices are up almost",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/jul/28/johnson-johnson-5bn-settlement-talc-cancer-lawsuit",
-        "seendate": "2026-07-28T05:03:39.000Z",
+        "url": "https://www.theguardian.com/us-news/2026/jul/29/trump-general-motors-escalades",
+        "seendate": "2026-07-30T11:00:13.000Z",
         "domain": "theguardian.com"
       }
     ],
     "literature": [
       {
-        "title": "Beginning Middle End by Valeria Luiselli review – a mother and daughter’s odyssey",
-        "summary": "This journey of discovery from the US to Sicily tackles urgent themes, but is increasingly inward-lookingIn Grace Paley’s short story A Conversation With My Father, a request is made of the Paley-like narrator. “I would like you to write a simple story just once more,” her father says, “the kind Maupassant wrote, or Chekhov … Just recognisable people and then write down what happened to them next.” Her atte",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jul/29/beginning-middle-end-by-valeria-luiselli-review-a-mother-and-daughters-odyssey",
-        "seendate": "2026-07-29T06:00:25.000Z",
-        "domain": "theguardian.com"
+        "title": "110+ Charged in North West Sydney Retail Crime Surge",
+        "summary": "More than 110 people have been charged during a two-day Operation Percentile surge targeting retail crime in Sydney&#039;s north west.Operation Percentile",
+        "source": "miragenews.com",
+        "url": "https://www.miragenews.com/110-charged-in-north-west-sydney-retail-crime-1719506/",
+        "seendate": "20260730T233000Z",
+        "domain": "miragenews.com"
       },
       {
-        "title": "Dua Lipa to interview Zadie Smith at London Literature festival",
-        "summary": "The pop star is curating the 2026 festival, which also features Patti Smith, Mustafa and Ta-Nehisi Coates, as part of the Southbank Centre’s anniversary yearZadie Smith, Patti Smith and Mustafa are among the star names lined up to be interviewed by Dua Lipa, as the pop star reveals her curation of this year’s London Literature festival at the So",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jul/29/dua-lipa-to-interview-zadie-smith-at-london-literature-festival",
-        "seendate": "2026-07-29T09:00:29.000Z",
-        "domain": "theguardian.com"
+        "title": "Clueless - IGN",
+        "summary": "Everything you need to know about Clueless.",
+        "source": "ign.com",
+        "url": "https://www.ign.com/movies/clueless",
+        "seendate": "20260730T233000Z",
+        "domain": "ign.com"
       },
       {
-        "title": "Alive by Melanie Challenger review – a maverick study of what it means to have a body",
-        "summary": "In this disorienting book, a poet argues we have been looking at nature – and ourselves – the wrong wayThe eastern breakwater of Granton harbour is almost 1km long, and swimmers can follow its crooked finger, heading straight out&nbsp;into the Firth of Forth, while benefiting from its reassuring presence. One Thursday lunchtime, I&nbsp;thought: why not, let’s give it a go, and headed for its tip. I felt col",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jul/29/alive-by-melanie-challenger-review-a-maverick-study-of-what-it-means-to-have-a-body",
-        "seendate": "2026-07-29T08:00:26.000Z",
-        "domain": "theguardian.com"
+        "title": "Jonathan Taylor Thomas Today : Inside the Life of the  90s Star Now",
+        "summary": "From the &#039;Home Improvement&#039; star&#039;s rare reunion with Patricia Richardson to his life away from Hollywood, everything to know about the teen heartthrob.",
+        "source": "womansworld.com",
+        "url": "https://www.womansworld.com/entertainment/celebrities/jonathan-taylor-thomas-today-inside-the-life-of-the-star-now",
+        "seendate": "20260730T233000Z",
+        "domain": "womansworld.com"
       },
       {
-        "title": "Previous winners Douglas Stuart and Marlon James lead Booker prize longlist",
-        "summary": "Chair of judges Mary Beard said each of the 13 books in contention for the £50,000 award ‘takes the reader to new places’Comment: This Booker longlist may have two previous winners, but it’s keen to experimentDouglas Stuart and <a href=\"https://ww",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jul/28/previous-winners-douglas-stuart-and-marlon-james-lead-a-brit-heavy-booker-prize-longlist",
-        "seendate": "2026-07-28T13:00:04.000Z",
-        "domain": "theguardian.com"
+        "title": "Monkeys sometimes have  pet like humans",
+        "summary": "And it may explain why we love ours so much.",
+        "source": "popsci.com",
+        "url": "https://www.popsci.com/environment/monkeys-have-pets-evolution/",
+        "seendate": "20260730T233000Z",
+        "domain": "popsci.com"
       },
       {
-        "title": "This Booker longlist may have two previous winners, but it’s keen to experiment",
-        "summary": "Marlon James, Douglas Stuart and Elizabeth Strout are names we know, but there’s a welcome element of surprise elsewhere Previous winners Douglas Stuart and Marlon James lead Booker prize longlistThis year’s Booker longlist is led by tw",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jul/28/this-booker-longlist-may-have-two-previous-winners-but-its-keen-to-experiment",
-        "seendate": "2026-07-28T13:00:04.000Z",
-        "domain": "theguardian.com"
+        "title": "Lubbock Junior Ambassador Program : 40 Years In Japan",
+        "summary": "Did you know Lubbock has been sending local middle school students to Japan for 40 years? The City of Lubbock is hosting a public celebration on July 31 to mark the milestone and welcome visiting students from Musashino City!",
+        "source": "lonestar995fm.com",
+        "url": "https://lonestar995fm.com/ixp/192/p/lubbock-japan-student-exchange-40-years/",
+        "seendate": "20260730T233000Z",
+        "domain": "lonestar995fm.com"
       }
     ],
     "entertainment": [
       {
-        "title": "BTS boycott Grammys after introduction of new Asian pop prize",
-        "summary": "K-pop superstars will not submit Arirang album or its songs for 2027 ceremonyBTS, the biggest pop act in east Asia, have withdrawn themselves from the 2027 Grammy awards, intimating that their decision is due to the addition of a new award for best Asian pop music performance.Writing on Instagram, each of the South Korean group’s seven members said: “We have decided not to enter the Grammys this year",
+        "title": "Netflix sued for $105m over stolen Nicolas Cage war thriller",
+        "summary": "Makers of unreleased $45m film Fortitude sue after hard drive stolen from streamer’s Los Angeles officeNetflix is being sued for $105m over the theft of a hard drive including an unreleased Nicolas Cage war movie.The streamer’s Los Angeles office was the target of a theft involving a num",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/music/2026/jul/29/bts-withdraw-grammys-asian-pop-category",
-        "seendate": "2026-07-29T16:47:11.000Z",
+        "url": "https://www.theguardian.com/film/2026/jul/30/netflix-sued-nicolas-cage-war-thriller",
+        "seendate": "2026-07-30T19:37:20.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Tony review – knives out in tasty reheat of Anthony Bourdain’s memoir",
-        "summary": "Dominic Sessa stars as a conceited yet vulnerable young chef alongside Antonio Banderas – but the feelgood factor is compromised by what we know of the authorFor all the drugs and punch-ups, this is an unexpectedly sentimental coming-of-age story – or maybe origin myth – about the formative youthful kitchen experiences of legendary badass chef Anthony Bourdain. It is taken from the opening chapters in his b",
+        "title": "‘I was hyperventilating and sobbing’: Tomi Adeyemi says Children of Blood and Bone film ‘the worst thing I’ve ever lived through’",
+        "summary": "Author of books behind forthcoming film starring Viola Davis and Idris Elba appears to have had disagreement with cast member Amandla StenbergTomi Adeyemi, the author of Children of Blood and Bone, has spoken further on the difficult process behind adapting her novel for this big screen, calling it “the worst thing I have e",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/jul/29/tony-review-anthony-bourdain-bestselling-memoir-dominic-sessa-antonio-banderas",
-        "seendate": "2026-07-29T16:00:36.000Z",
+        "url": "https://www.theguardian.com/film/2026/jul/30/tomi-adeyemi-children-of-blood-and-bone-film-adaptation-worst-thing-ive-ever-lived-through-hyperventilating-sobbing",
+        "seendate": "2026-07-30T16:34:35.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Jordan Klepper on Trump being heckled: ‘That’s President Pedophile Protector’",
-        "summary": "Late-night hosts speak about Trump’s trip to Michigan, where a local again shouted the same name at himLate-night hosts spoke about Donald Trump’s recent Michigan visit and his attendance at Lindsey Graham’s funeral. <a href=\"https://www.theguardian.com/culture/2026/jul/29/jordan-klep",
+        "title": "George and Amal Clooney evacuate from French house: ‘We do not know whether our beautiful home will survive’",
+        "summary": "In a letter to the local mayor, the actor added that ‘whatever happens, they remain fully part of this community’ and will ‘contribute to its rebuilding’George and Amal Clooney have been forced to evacuate their home in south-eastern France as a wildfire burned nearby, his agent confirmed to Associated Press on Thursday.The Clooneys bought their hil",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/culture/2026/jul/29/jordan-klepper-trump-heckled",
-        "seendate": "2026-07-29T14:56:42.000Z",
+        "url": "https://www.theguardian.com/film/2026/jul/30/george-clooney-amal-evacuate-french-house",
+        "seendate": "2026-07-30T15:24:57.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Four women accuse Jared Leto of criminal sexual conduct when they were teenagers",
-        "summary": "BBC documentary reports incidents alleged to have taken place when actor and musician was in 30s and 40sThe actor and singer Jared Leto has been accused in a BBC documentary of criminal sexual conduct by four women, with the alleged offences taking place when the",
+        "title": "Seth Meyers on Trump being heckled: ‘just can’t get away from this Epstein thing’",
+        "summary": "The late-night host discussed reminders for the president that he was closely associated with the disgraced financierSeth Meyers discussed Donald Trump’s unfortunate week of Jeffrey Epstein reminders from his attendance at the White House correspondents’ dinner to being heckled in Michigan.On Late Night, Meyers spoke about Trump’s “rough reception” at the past weekend’s dinner where his comedy routin",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/media/2026/jul/29/four-women-accuse-jared-leto-criminal-sexual-conduct-teenagers",
-        "seendate": "2026-07-29T13:12:34.000Z",
+        "url": "https://www.theguardian.com/culture/2026/jul/30/seth-meyers-trump-epstein",
+        "seendate": "2026-07-30T14:35:39.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘It sounds good next to almost anything’: how Choosin’ Texas became the biggest song of the year",
-        "summary": "Ella Langley’s country single has spent 15 weeks as US number one thanks to its retro-modern sound, a viral misheard lyric – and a boost from the Ella FellasThis week, Ella Langley beat a chart record held by Whitney Houston and Mariah Carey. The country singer’s <a href=\"https://www.y",
+        "title": "‘It’s the Meryl Streep of the orchestra’: why cinema loves the cello",
+        "summary": "From Audrey Hepburn to Pedro Pascal, cellists have become a movie shorthand for sensitivity, intensity and emotional depth. But why has Hollywood turned one orchestral instrument into a character in its own right?There’s a throwaway line in 2012’s The Avengers, after a character’s death, when his partner is alluded to. “There was a cellist, I think,” muses Robert Downey Jr’s Tony Stark. It’s a spot of patho",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/music/2026/jul/29/ella-langley-choosin-texas-song-of-the-year",
-        "seendate": "2026-07-29T09:00:27.000Z",
+        "url": "https://www.theguardian.com/film/2026/jul/30/its-the-meryl-streep-of-the-orchestra-why-cinema-loves-the-cello",
+        "seendate": "2026-07-30T14:00:16.000Z",
         "domain": "theguardian.com"
       }
     ],
     "f1": [
       {
-        "title": "MotoGP eyes Austin showcase during F1 GP weekend",
-        "summary": "The long-held dream of many motorsport fans – seeing Formula 1 and MotoGP share the same stage during a single race weekend – may be a step closer to becoming reality.Motorsport.com understands that Liberty Media, the commercial rights holder of both championships, is exploring the possibility of putting MotoGP machinery on track at the United States Grand Prix, which is scheduled to take ...<a class='mo",
+        "title": "George Russell linked to potential 2028 Audi F1 switch",
+        "summary": "Former Haas Formula 1 team principal Guenther Steiner believes George Russell is already exploring options outside of Mercedes, suggesting the British driver could be evaluating a potential switch to Audi for the 2028 F1 season.Despite holding a seat at Mercedes, Russell's future at the Brackley outfit has become a topic of debate following the impressive performance of his teenage ...<a class='more' hre",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/motogp/news/motogp-eyes-austin-showcase-during-united-states-grand-prix-weekend/10842845/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-29T16:00:46.000Z",
+        "url": "https://www.motorsport.com/f1/news/george-russell-linked-to-potential-2028-audi-f1-switch/10843198/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-30T22:33:59.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Franco Colapinto’s ominous warning on Aston Martin’s upgraded F1 car",
-        "summary": "Franco Colapinto has warned that Aston Martin has become “a lot quicker” than Alpine in corners, as the Silverstone-based team recovers from a tricky start in Formula 1’s new era.As F1 switched to new machinery featuring greater emphasis on energy management with a 53/47 split between combustion and electrical power, Aston Martin has struggled, with an overhauled Honda F1 squad designing ...<a class='mor",
+        "title": "Max Verstappen and Toto Wolff holiday photos fuel fresh Mercedes speculation",
+        "summary": "Max Verstappen and Mercedes Formula 1 team principal Toto Wolff have been photographed together on holiday during the first week of the summer break, sparking fresh paddock speculation regarding the four-time champion's long-term future. Images have been circulating across social media showing the Dutchman and his partner Kelly Piquet with Wolff and his wife, F1 Academy managing director ...<a class='mor",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/franco-colapintos-ominous-warning-on-aston-martins-upgraded-f1-car/10842858/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-29T15:01:24.000Z",
+        "url": "https://www.motorsport.com/f1/news/max-verstappen-and-toto-wolff-holiday-photos-fuel-fresh-mercedes-speculation/10843161/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-30T17:10:40.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Red Bull admits budget cap will slow its F1 development in remainder of 2026",
-        "summary": "Red Bull heads into the Formula 1 summer break fourth in the constructors' championship, but that does not tell the whole story. Since the season opener in Melbourne, the Milton Keynes-based team has made significant progress.Figures from data partner Paceteq show that Red Bull was as much as 1.3 seconds per lap down in terms of outright race pace in both Australia and China, meaning it was ...<a class='",
+        "title": "Kimi Antonelli: ‘Mercedes picked me for 2025 F1 season before I’d even raced in F2’",
+        "summary": "Kimi Antonelli has given new insight into how Mercedes handled Lewis Hamilton’s departure ahead of the 2025 Formula 1 campaign.On 1 February 2024, it was announced that Hamilton was going to leave his longtime Mercedes squad to join Ferrari from the 2025 season onwards.The move was a direct consequence of Mercedes not giving the seven-time world champion a firm contract for 2025 – the ...<a class='mo",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/red-bull-admits-budget-cap-will-slow-its-f1-development-in-remainder-of-2026/10842788/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-29T12:50:07.000Z",
+        "url": "https://www.motorsport.com/f1/news/kimi-antonelli-mercedes-picked-me-for-2025-f1-season-before-id-even-raced-in-f2/10843108/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-30T15:29:59.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "\"We don't want to put tape on anyone's mouth\" – F1 boss reacts to driver criticism of 2026 rules",
-        "summary": "Halfway through the 2026 Formula 1 season, the new technical regulations – with a much greater emphasis on electric power and energy management – continue to divide opinion among fans and drivers.F1 says its fanbase has responded largely positively to the races so far, according to its Formula 1 Fan Voice programme. This consists of a group of 60,000 fans who rate the entertainment value ...<a class='mor",
+        "title": "Esteban Ocon attends \"Spider-Man: Brand New Day\" premiere after special F1 helmet collaboration",
+        "summary": "Haas Formula 1 driver Esteban Ocon attended the premiere for Spider-Man: Brand New Day, celebrating an official collaboration that saw the Frenchman sport a bespoke helmet design during the Belgian and Hungarian Grands Prix. Ocon, accompanied by his partner Flavy Barla, appeared at the exclusive screening ahead of the film's global theatrical release on 31 July 2026. The 29-year-old was ...<a class='",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/we-dont-want-to-put-tape-on-anyones-mouth-f1-boss-reacts-to-driver-criticism-of-2026-rules/10842817/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-29T11:31:24.000Z",
+        "url": "https://www.motorsport.com/f1/news/esteban-ocon-attends-spider-man-premiere-after-special-f1-helmet-collaboration/10843126/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-30T15:12:17.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "2026 season won't end in Las Vegas, F1 boss confirms",
-        "summary": "In arranging for Malaysia to host the 2026 Bahrain Grand Prix, Formula 1 has creatively resolved one of the problems generated by the ongoing conflict in the Middle East.Read Also:Formula 1Where to next after the Bahraysian Grand Prix?But two more are looming, as is the deadline for making a decision on them: Qatar and Abu Dhabi, the rounds currently scheduled after ...<a clas",
+        "title": "\"It reminds me of the old days\" - Drivers cherish flat out F1 Hungary GP",
+        "summary": "Formula 1's 2026 energy deployment rules and the lack of available energy from the battery mean that high-speed circuits with limited braking zones have been a tough watch in qualifying, and equally painful for drivers as they resorted to harvesting energy through some of F1's fastest corners.But with Budapest's Hungaroring offering plenty of braking zones connected by some of the shortest ...<a class='m",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/season-wont-end-in-las-vegas-f1-boss-confirms/10842807/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-07-29T11:00:26.000Z",
+        "url": "https://www.motorsport.com/f1/news/it-reminds-me-of-the-old-days-drivers-cherish-flat-out-f1-hungary-gp/10843031/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-07-30T14:30:04.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "An innocent man spent 18 months in prison because police misread his Skyrim user name",
-        "summary": "The error came to light while lawyers were working on his appeal.",
+        "title": "Saudi Arabia's $55 billion takeover of Electronic Arts will happen next week",
+        "summary": "EA says all regulatory hurdles are cleared, so all that's left to do is to do it.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/an-innocent-man-spent-18-months-in-prison-because-police-misread-his-skyrim-user-name/",
-        "seendate": "2026-07-29T23:10:12.000Z",
+        "url": "https://www.pcgamer.com/gaming-industry/saudi-arabias-usd55-billion-takeover-of-electronic-arts-will-happen-next-week/",
+        "seendate": "2026-07-30T22:08:00.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Hololive vtuber says new rhythm game on Steam is surprisingly true to their personas for a reason: 'We had tons of involvement with the script and dialogue'",
-        "summary": "Hololive vtuber Shiori Novella says she had a lot of input on Hololive Dreams.",
+        "title": "Xbox revenues dipped $1.7 billion last year, but Asha Sharma predicts a 'return to growth' by mid-2027",
+        "summary": "The numbers are big and impressive, but the main message appears to be that Xbox isn't going anywhere.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/rhythm/hololive-vtuber-says-new-rhythm-game-on-steam-is-surprisingly-true-to-their-personas-for-a-reason-we-had-tons-of-involvement-with-the-script-and-dialogue/",
-        "seendate": "2026-07-29T23:00:00.000Z",
+        "url": "https://www.pcgamer.com/gaming-industry/xbox-revenues-dipped-usd1-7-billion-last-year-but-asha-sharma-predicts-a-return-to-growth-by-mid-2027/",
+        "seendate": "2026-07-30T22:01:21.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Latest Palworld patch keeps Victor & Shadowbeak from accidentally teleporting out of existence, prevents Panthalus from breaking everything",
-        "summary": "Palworld's bosses should be a bit more predictable.",
+        "title": "Godot natively supports coding in Sumero-Akkadian Cuneiform, if you needed another reason to switch game engines",
+        "summary": "Take cognizance that (from now on) I will not accept here any code that is not of fine quality.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/survival-crafting/latest-palworld-patch-keeps-victor-and-shadowbeak-from-accidentally-teleporting-out-of-existence-prevents-panthalus-from-breaking-everything/",
-        "seendate": "2026-07-29T20:04:17.000Z",
+        "url": "https://www.pcgamer.com/gaming-industry/godot-supports-coding-in-sumero-akkadian-cuneiform-if-you-needed-another-reason-to-switch-game-engines/",
+        "seendate": "2026-07-30T21:56:34.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Steam Machine reservation queue should be caught up by the end of 2026, Valve says",
-        "summary": "Whether this is good news or bad news is a matter of individual perspective.",
+        "title": "Valve finally gives Deadlock a proper ranked mode, warns that matches will be 'very rocky' to start",
+        "summary": "Yoshi has delivered.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/hardware/steam-machines/steam-machine-reservation-queue-should-be-caught-up-by-the-end-of-2026-valve-says/",
-        "seendate": "2026-07-29T19:30:57.000Z",
+        "url": "https://www.pcgamer.com/games/moba/valve-finally-gives-deadlock-a-proper-ranked-mode-warns-that-matches-will-be-very-rocky-to-start/",
+        "seendate": "2026-07-30T21:42:59.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "After laying off Battlefield 6 developers, EA pays its CEO $38 million because Battlefield 6 did so well",
-        "summary": "That's an $8 million raise over 2025.",
+        "title": "Blizzard is keeping secrets about Diablo 4's next season until BlizzCon, but you can still try some of it out next week",
+        "summary": "There are still plenty of new toys to play with though.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/after-laying-off-battlefield-6-developers-ea-pays-its-ceo-usd38-million-because-battlefield-6-did-so-well/",
-        "seendate": "2026-07-29T17:03:01.000Z",
+        "url": "https://www.pcgamer.com/games/rpg/blizzard-is-keeping-secrets-about-diablo-4s-next-season-until-blizzcon-but-you-can-still-try-some-of-it-out-next-week/",
+        "seendate": "2026-07-30T21:14:04.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
       {
-        "title": "Rogue OpenAI agent that hacked startup tried to attack other firms",
-        "summary": "ChatGPT developer says activity by autonomous tool was not at severity or scale of what occurred at Hugging FaceOpenAI has revealed that a cyber-attack carried out by a rogue AI agent had more than one victim.The ChatGPT developer said the agent – an autonomo",
+        "title": "Raids across UK in crackdown on nuisance car finance texts",
+        "summary": "Laptops, phones and documents seized as information commissioner acts on messages about mis-selling scandalLaptops, mobile phones and documents have been seized after officials carried out search warrants in a crackdown on claims companies plaguing people with spam text messages about the car finance mis-selling scandal.The UK’s Information Commissioner’s Office (ICO) <a href=\"https://ico.org.uk/abou",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/jul/29/rogue-openai-agent-that-hacked-startup-tried-to-attack-other-firms",
-        "seendate": "2026-07-29T12:38:38.000Z",
+        "url": "https://www.theguardian.com/technology/2026/jul/30/crackdown-claims-firms-spam-car-finance-scandal-payouts",
+        "seendate": "2026-07-30T13:39:46.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "AI tool will lead to more child refugees being treated as adults, charity warns",
-        "summary": "‘Racist bias’ overestimating ages in Home Office’s facial-recognition software will lead to solo children being housed with adults, says Human Rights NetworkFlawed and racialised models that underpin the AI-powered age-detection systems to be introduced by the British government will endanger children, rights groups and children’s charities have warned.Urging ministers to reverse plans to introduce f",
+        "title": "Excessive time spent online linked to stress and worse mood – study",
+        "summary": "German study surveyed adults who engage in gaming, pornography and online shoppingSpending excessive time online is associated with higher stress levels, worse mood, and greater neglect of other activities, according to analysis.The new study by academics at the University of Duisburg-Essen published in the journal PLOS One, surveyed 900 German adults in 2025 who",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/global-development/2026/jul/29/uk-immigration-ai-age-facial-recognition-child-refugees-adults-bias",
-        "seendate": "2026-07-29T04:00:22.000Z",
+        "url": "https://www.theguardian.com/technology/2026/jul/29/excessive-time-spent-online-linked-to-stress-and-worse-mood-study",
+        "seendate": "2026-07-29T18:05:59.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Apple becomes second $5tn company as investors flee AI stocks",
-        "summary": "Share price rally driven by strong product demand as well as decision to sit out AI spending race, amid wider tech sell-offApple has become only the second company to pass the $5tn valuation mark, as it benefited from investors fleeing AI and semiconductor stocks amid a wider tech sell-off.The iPhone maker’s shares hit a session high ⁠of $342.89 on Tuesday, giving it a market ⁠capitalisation of $5.04",
+        "title": "Elon Musk’s xAI sues Minnesota over law banning ‘nudification’ technology",
+        "summary": "First-in-nation law sets up test on states’ power to regulate use of AI as it tries to outlaw fake nude images of real peopleElon Musk’s company xAI has sued Minnesota over the state’s first-in-the-nation law banning “nudification” technology on websites and apps, potentially providing a test for how far states can go in constitutionally regulating the use of artificial intelligence.Musk’s company su",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/jul/28/apple-second-ever-5tn-company-as-investors-flee-ai-stocks",
-        "seendate": "2026-07-28T20:33:14.000Z",
+        "url": "https://www.theguardian.com/technology/2026/jul/29/xai-sues-minnesota-nudification-technology",
+        "seendate": "2026-07-30T00:02:03.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "US bans humanoid robots from China, citing ‘unacceptable risks’",
-        "summary": "Move comes as the Trump administration has increasingly sought to keep Chinese technology out of the USThe Federal Communications Commission announced a ban on humanoid robots from China on Tuesday, saying that the technology poses “unacceptable risks” to the country’s national security. The move comes as the Trump administration has inc",
+        "title": "Meta misses earnings forecasts after Zuckerberg media push to promote AI",
+        "summary": "Stock tumbles nearly 8% after weaker-than-expected results, despite CEO’s blitz to tout positive effects of AIMark Zuckerberg’s media spree touting the positive effects of artificial intelligence did little to cushion the blow of Meta’s second-quarter earnings, which sent its stock tumbling on Wednesday.In a Wall Street Jour",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jul/28/fcc-ban-humanoid-robots-china",
-        "seendate": "2026-07-28T23:24:15.000Z",
+        "url": "https://www.theguardian.com/technology/2026/jul/29/meta-earnings-mark-zuckerberg",
+        "seendate": "2026-07-29T21:26:49.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Ebay and ex-executives to pay $55.7m to couple sent cockroaches in harassment campaign",
-        "summary": "Bloggers David and Ina Steiner were stalked by eBay executives over their critical coverage of the companyEbay and three former top executives have agreed to pay $55.7m to resolve a lawsuit by a Massachusetts couple who fell victim ⁠to a bizarre stalking and ⁠harassment campaign carried out ​by several of its employees in retaliation for their coverage of the e-commerce company in a newsletter they publish.",
+        "title": "Atlassian tightens tracking of staff AI use as other technology firms encourage ‘tokenmaxxing’",
+        "summary": "Some companies reportedly using leaderboards for employees who used the most AI in their workFollow our Australia news live blog for latest updatesGet our <a href",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/jul/28/ebay-harassment-lawsuit-settlement",
-        "seendate": "2026-07-28T18:55:17.000Z",
+        "url": "https://www.theguardian.com/technology/2026/jul/30/atlassian-tightens-tracking-of-staff-ai-use-as-other-technology-firms-encourage-tokenmaxxing",
+        "seendate": "2026-07-29T15:00:36.000Z",
         "domain": "theguardian.com"
       }
     ],
@@ -383,6 +383,22 @@ window.NEWS_CACHE = {
     ],
     "science": [
       {
+        "title": "Excessive time spent online linked to stress and worse mood – study",
+        "summary": "German study surveyed adults who engage in gaming, pornography and online shoppingSpending excessive time online is associated with higher stress levels, worse mood, and greater neglect of other activities, according to analysis.The new study by academics at the University of Duisburg-Essen published in the journal PLOS One, surveyed 900 German adults in 2025 who",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/jul/29/excessive-time-spent-online-linked-to-stress-and-worse-mood-study",
+        "seendate": "2026-07-29T18:05:59.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Repeated use of saunas could help people cope better in heatwaves, scientists say",
+        "summary": "Growing number of studies assessing whether heat training can help people prepare for scorching temperaturesEven as summer temperatures soar, the sauna trend is booming, with some venues <a href=\"https://www.community-sauna.co.uk/blog/sauna-in-summer\"",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/society/2026/jul/29/repeated-use-of-saunas-could-help-people-cope-better-in-heatwaves-scientists-say",
+        "seendate": "2026-07-29T13:00:33.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Trump administration needs to stop ‘public harassment’ of Fauci and scientists, open letter says",
         "summary": "Letter, published before Anthony Fauci will appear before Congress, accuses Republicans of ‘waging a war on individual scientists’US politics live – latest updatesMore than 155 scientists,",
         "source": "theguardian.com",
@@ -404,22 +420,6 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/environment/2026/jul/28/matthew-myerscough-fossil-hunting-avalanche-discovery-sea-dragon-wales",
         "seendate": "2026-07-28T09:00:35.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Industrial chicken farming accelerating spread of diarrhoea bacteria, study finds",
-        "summary": "Intensive nature of modern chicken farming creates ideal conditions for campylobacter, allowing bacteria to evolveIndustrial chicken farming is accelerating the spread of the world’s most common bacterial cause of diarrhoea, scientists have found.The study found a dramatic increase in the exchange of campylobacter strains between wild birds and chickens as farming has intensified, c",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/food/2026/jul/27/industrial-chicken-farming-accelerating-spread-of-diarrhoea-bacteria-study-finds",
-        "seendate": "2026-07-27T19:00:17.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "‘It’s not rocket science’: a day in the life of a Nasa behavioral health scientist",
-        "summary": "Dr Suzanne Bell helps astronauts perform in a high-stress environment. To do that, she wakes up at 5am – without an alarmTell us: what impact have GLP-1s had on your relationships?Dr Suzanne Bell, an organizational psychologist, leads the Behavioral Health and Performance Laboratory at Nasa’s Jo",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/wellness/2026/jul/26/suzanne-bell-nasa-behavorial-health-scientist",
-        "seendate": "2026-07-26T16:00:16.000Z",
         "domain": "theguardian.com"
       }
     ]
