@@ -1,8 +1,24 @@
 window.NEWS_CACHE = {
-  "generatedAt": "2026-08-01T23:46:12.792Z",
+  "generatedAt": "2026-08-02T23:48:08.103Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
+      {
+        "title": "Chaos of border crossing gives way to limbo for Moroccans on Ceuta’s streets",
+        "summary": "People among the more than 50,000 who entered Spanish enclave this week describe the journey and their prospectsFour days ago, Youssef El Abbas saw an opportunity to reclaim the life he had lost seven years earlier. News was circulating that about 400 people had swum from Morocco to the neighbouring Spanish enclave of Ceuta on the north African coast, approximately 12 miles (19km) across the strait of Gibra",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/aug/02/ceuta-border-crossing-spain-morocco",
+        "seendate": "2026-08-02T13:11:56.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Anti-LGBTQ+ laws are on the rise across west Africa, campaigners warn",
+        "summary": "Activists in the region say politicians regard LGBTQ+ people as ‘the easiest scapegoats to maintain their power’A growing number of west African countries are implementing or strengthening anti-LGBTQ+ laws, amid local political pressures and a global pushback against LGBTQ+ rights.In March, Senegal <a href=\"https://www.theguardian.com/global-development/2026/apr/07/senegal-harsh-anti-gay-law-hiv-prog",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/aug/02/anti-lgbtq-laws-are-on-the-rise-across-west-africa-campaigners-warn",
+        "seendate": "2026-08-02T04:00:11.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "EU to hold urgent meeting of interior ministers on Tuesday over Ceuta crisis",
         "summary": "Divisions remain in the bloc over mass crossing of migrants into Spanish territory in north AfricaThe EU is to hold an urgent meeting of interior ministers on Tuesday amid continued divisions in the bloc over the arrival of more than 50,000 migrants in the Spanish territory of Ceuta in north Africa.The decision was taken by officials representing EU member states and Frontex border agency experts at",
@@ -26,64 +42,48 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/news/2026/jul/31/archbishop-of-canterbury-support-pledge-helping-communities-enslavement",
         "seendate": "2026-07-31T11:38:46.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Ebola outbreak in DRC the fastest growing in the history of the virus",
-        "summary": "As the death toll rises to almost 1,500, and with a vaccine against the Bundibugyo strain potentially still months away, health workers face a battle to slow the outbreakThe latest numbers of confirmed cases of Ebola in the Democratic Republic of the Congo has made this latest outbreak the fastest growing in the known history of the virus.At <a href=\"https://www.ecdc.europa.eu/en/ebola-outbreak-democ",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/global-development/2026/jul/31/ebola-outbreak-in-drc-the-fastest-growing-in-the-history-of-the-virus",
-        "seendate": "2026-07-31T08:00:08.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "US government map of Africa mislabels every country at global conference",
-        "summary": "State department ‘takes full responsibility’ for erroneous, widely shared chart displayed at Aids conference in BrazilA US government map of Africa mislabeled every country during a state department presentation at a ⁠global conference in Brazil ⁠this week, ​causing a stir among attenders who took screenshots and posted them online.Reuters viewed a video of the presentation given at the Aids 2026 con",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jul/30/government-map-mislabels-african-countries",
-        "seendate": "2026-07-30T22:48:02.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "conflict": [
       {
-        "title": "Top US General warns Pentagon he lacks enough naval forces to protect Israel from Iranian attacks : Report",
-        "summary": "A top American military commander stationed in Europe has cautioned the Pentagon that Washington may soon confront hard decisions on missile defence resources as the ongoing conflict with Iran continues to place heavy pressure on American military stockpiles. The development was reported by The Washington Post, which noted that the chief of US European Command, Gen. Alexus Grynkewich, informed Pentagon officials earl",
-        "source": "milwaukeesun.com",
-        "url": "http://www.milwaukeesun.com/news/279218950/top-us-general-warns-pentagon-he-lacks-enough-naval-forces-to-protect-israel-from-iranian-attacks-report",
-        "seendate": "20260801T233000Z",
-        "domain": "milwaukeesun.com"
+        "title": "Chaos of border crossing gives way to limbo for Moroccans on Ceuta’s streets",
+        "summary": "People among the more than 50,000 who entered Spanish enclave this week describe the journey and their prospectsFour days ago, Youssef El Abbas saw an opportunity to reclaim the life he had lost seven years earlier. News was circulating that about 400 people had swum from Morocco to the neighbouring Spanish enclave of Ceuta on the north African coast, approximately 12 miles (19km) across the strait of Gibra",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/aug/02/ceuta-border-crossing-spain-morocco",
+        "seendate": "2026-08-02T13:11:56.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Sopranos star lonely death in New York apartment",
-        "summary": "Vincent Pastore, who found fame playing mobsters, including Tony Sopranos&#x27; best pal in the iconic HBO TV series,...",
-        "source": "bunburymail.com.au",
-        "url": "https://www.bunburymail.com.au/story/9322014/sopranos-stars-lonely-death-in-new-york-apartment/",
-        "seendate": "20260801T233000Z",
-        "domain": "bunburymail.com.au"
+        "title": "Anti-LGBTQ+ laws are on the rise across west Africa, campaigners warn",
+        "summary": "Activists in the region say politicians regard LGBTQ+ people as ‘the easiest scapegoats to maintain their power’A growing number of west African countries are implementing or strengthening anti-LGBTQ+ laws, amid local political pressures and a global pushback against LGBTQ+ rights.In March, Senegal <a href=\"https://www.theguardian.com/global-development/2026/apr/07/senegal-harsh-anti-gay-law-hiv-prog",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/aug/02/anti-lgbtq-laws-are-on-the-rise-across-west-africa-campaigners-warn",
+        "seendate": "2026-08-02T04:00:11.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "TSA finds stolen Civil War - era cannonballs in passenger suitcase at Gulf Shores International Airport",
-        "summary": "A TSA agent discovered a set of stolen Civil War-era cannonballs in a passenger’s suitcase during a routine security screening at an Alabama airport earlier this month, law enforcement officials said.",
-        "source": "wvtm13.com",
-        "url": "https://www.wvtm13.com/article/tsa-stolen-civil-war-cannonballs-suitcase-gulf-shores-airport-alabama/73323716",
-        "seendate": "20260801T233000Z",
-        "domain": "wvtm13.com"
+        "title": "EU to hold urgent meeting of interior ministers on Tuesday over Ceuta crisis",
+        "summary": "Divisions remain in the bloc over mass crossing of migrants into Spanish territory in north AfricaThe EU is to hold an urgent meeting of interior ministers on Tuesday amid continued divisions in the bloc over the arrival of more than 50,000 migrants in the Spanish territory of Ceuta in north Africa.The decision was taken by officials representing EU member states and Frontex border agency experts at",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing",
+        "seendate": "2026-08-01T19:03:39.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Ex - Army Chief General Sharma cremated with full military honours in Delhi",
-        "summary": "The Indian Army paid its final tribute to former Chief General Vishwa Nath Sharma (retired), who died of natural causes on Friday. His last rites were conducted with full military honours at Brar Square Crematorium, New Delhi.",
-        "source": "tribuneindia.com",
-        "url": "https://www.tribuneindia.com/news/delhi/ex-army-chief-general-sharma-cremated-with-full-military-honours-in-delhi/",
-        "seendate": "20260801T233000Z",
-        "domain": "tribuneindia.com"
+        "title": "At least 57 people die as tens of thousands cross to Spanish enclave of Ceuta from Morocco",
+        "summary": "Pedro Sánchez decries ‘violation of territorial integrity’ as other EU countries criticise Madrid over incidentAt least 57 people have died trying to reach the Spanish enclave of Ceuta after as many as 50,000 migrants entered the tiny territory from Morocco in what Spain’s prime minister, Pedro Sánchez, called “a violation of Spain’s territorial integrity”.The huge influx, which took place over the c",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths",
+        "seendate": "2026-07-31T17:52:11.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Military Surplus Store New Orleans",
-        "summary": "%Begin Military Surplus Store New Orleans an Military Surplus Store New Orleans exciting journey through a Military Surplus Store New Orleans vast world of manga on our website! Enjoy the Military Surplus Store New Orleans latest manga online with Military Surplus Store New Orleans free and Military Surplus Store New Orleans lightning-fast access. Our comprehensive Military Surplus Store New Orleans library contains ",
-        "source": "unitaid.eu",
-        "url": "https://www.unitaid.eu/military-surplus-store-new-orleans-7d8d.html",
-        "seendate": "20260801T233000Z",
-        "domain": "unitaid.eu"
+        "title": "Archbishop of Canterbury vows to support £100m pledge helping communities affected by enslavement",
+        "summary": "During visit to Ghana, Sarah Mullally expresses regret and says controversial fund symbolises Christian belief in repentanceAt a former British castle where thousands of enslaved Africans were held before being shipped across the Atlantic, the archbishop of Canterbury expressed “lament” for the Church of England’s involvement in transatlantic chattel slavery and reaffirmed her commitment to a controversial",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/news/2026/jul/31/archbishop-of-canterbury-support-pledge-helping-communities-enslavement",
+        "seendate": "2026-07-31T11:38:46.000Z",
+        "domain": "theguardian.com"
       }
     ],
     "economy": [
@@ -130,6 +130,14 @@ window.NEWS_CACHE = {
     ],
     "literature": [
       {
+        "title": "Could a couch-to-5k for books get you back into reading?",
+        "summary": "With smartphones stealing our attention, we’re picking up fewer books than ever. A novelist shares her eight-week scheme to get you back into the habitDo you feel that it’s harder to read than it used to be? Not harder to read emails, texts and social media posts, of course. We’re reading those all day long. Harder to sit down and lose yourself in a book? How long is it since you even sat down with a weeken",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/aug/02/could-a-couch-to-5k-for-books-get-you-back-into-reading",
+        "seendate": "2026-08-02T11:00:19.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "​What makes a good comic novel? Andrew Sean Greer on the joy of funny writing",
         "summary": "The Pulitzer-winning author of Less and Villa Coco explores the art of writing humour – plus 10 of the best novels to make you laughIn March 2020, when the mayor of San Francisco instructed all citizens to remain in their houses due to a pandemic, the first thing I did was order all the books of Agatha Christie. I was not alone; I think many of us immersed ourselves in reliable narratives to drown out the c",
         "source": "theguardian.com",
@@ -146,158 +154,158 @@ window.NEWS_CACHE = {
         "domain": "theguardian.com"
       },
       {
+        "title": "Tom Gauld on how to be a top reader – cartoon",
+        "summary": "Continue reading...",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/picture/2026/aug/02/tom-gauld-on-how-to-be-a-top-reader-cartoon",
+        "seendate": "2026-08-02T15:00:26.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "$2m crime novel deal collapses amid questions over AI use",
         "summary": "Agents withdraw Jerry Falade’s hotly anticipated debut after saying they can no longer authenticate ‘how the manuscript evolved’A high-profile publishing deal for a debut crime novel has collapsed after doubts emerged over whether artificial intelligence played a role in writing it.The hotly anticipated manuscript Call Me, I’ll Hide the Body, by Jerry Falade, was withdrawn from sale by its agent desp",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/books/2026/jul/31/crime-novel-deal-collapses-questions-ai-jerry-falade-call-me-ill-hide-the-body",
         "seendate": "2026-07-31T16:45:04.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Jacaranda by Gaël Faye review – the limits of forgiveness after Rwanda",
-        "summary": "This bold family saga explores a search for healing and truth in the aftermath of the Rwanda genocideHow to forgive the unforgivable? How to live in the aftermath of atrocity? Following 2016’s Small Country, French-Rwandan rapper and writer Gaël Faye takes on huge questions in his second novel, Jacaranda, which exp",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jul/31/jacaranda-by-gael-faye-review-the-limits-of-forgiveness-after-rwanda",
-        "seendate": "2026-07-31T06:00:06.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Jacqueline Crooks: ‘Toni Morrison’s voice made me want to find my own’",
-        "summary": "The novelist on learning empathy from Charles Dickens, the playfulness of Irenosen Okojie and avoiding Jane AustenMy earliest reading&nbsp;memory I was eight when I was given The Water-Babies by Charles Kingsley, after being moved from my grand­mother’s care to live with my mother and her husband, who I barely knew. The story is about leaving one world, adapting to another. Surviving. I",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jul/31/jacqueline-crooks-toni-morrisons-voice-made-me-want-to-find-my-own",
-        "seendate": "2026-07-31T09:00:10.000Z",
         "domain": "theguardian.com"
       }
     ],
     "entertainment": [
       {
-        "title": "Gregg Araki on sex, film and queer resistance: ‘All the terrible shit in the world is because of sexual repression’",
-        "summary": "As his 12th feature film, I Want Your Sex, hits theaters, the cult gay film-maker is as fired up as everIs straight sex the most perverse sex of all? Gregg Araki’s new film makes a convincing case. Titled I Want Your Sex, the movie is a deliriously fun and often hilarious study of desire, power and art that features bondage, full-frontal and a vagin",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/aug/01/gregg-araki-film-i-want-your-sex",
-        "seendate": "2026-08-01T09:00:49.000Z",
-        "domain": "theguardian.com"
+        "title": "Spider - Man , Odyssey Make Box Office History",
+        "summary": "&#x27;Spider-Man: Brand New Day&#x27; earns $355M in North America, second only to &#x27;Endgame.&#x27; It sets records with $72M in previews. Christopher Nolan&#x27;s &#x27;The Odyssey&#x27; adds $51M, making this weekend the biggest in box office history with $430M total.",
+        "source": "wiod.iheart.com",
+        "url": "https://wiod.iheart.com/content/2026-08-02-spider-man-odyssey-make-box-office-history/",
+        "seendate": "20260802T233000Z",
+        "domain": "wiod.iheart.com"
       },
       {
-        "title": "‘A towering piece of monoculture’: how The Odyssey discourse has dominated this summer",
-        "summary": "Christopher Nolan’s smash hit epic has continued to excite and enrage everyone from rightwingers to academics, an old-fashioned throwback to a uniting big-screen eventPeter Bradshaw reviews The Odyssey<a href=\"https://www.theguardian.com/film/2026/jul/21/odyssey-christopher-nola",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/aug/01/the-odyssey-movie-discourse",
-        "seendate": "2026-08-01T08:00:47.000Z",
-        "domain": "theguardian.com"
+        "title": "Ariana Grande  taking a step back from visibility  ",
+        "summary": "Three-time Grammy winner Ariana Grande is retreating from the spotlight after relentless public scrutiny about the Wicked star&#x27;s...",
+        "source": "dailyadvertiser.com.au",
+        "url": "https://www.dailyadvertiser.com.au/story/9322406/ariana-grande-taking-a-step-back-from-visibility/",
+        "seendate": "20260802T233000Z",
+        "domain": "dailyadvertiser.com.au"
       },
       {
-        "title": "Alley Cats: Ricky Gervais is back with a boorish, sweary comedy – and I didn’t laugh once",
-        "summary": "Animated cats banter tediously in a show that’s determined to shock, but which leaves you checking your watch to see how long is left. It’s lazy, dated and far too pleased with itselfAccording to multiverse theory, there are parallel realities in which news of a new Ricky Gervais project instils a feeling other than dread. But we don’t live in them. Having seen his new series, Alley Cats (Netflix, from Frid",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/aug/01/alley-cats-ricky-gervais-review-back-boorish-sweary-comedy",
-        "seendate": "2026-08-01T06:00:45.000Z",
-        "domain": "theguardian.com"
+        "title": "Charli XCX Celebrates Her 34th Birthday With a Lollapalooza Style Streak",
+        "summary": "And a whole streak of Lollapalooza style",
+        "source": "harpersbazaar.com",
+        "url": "https://www.harpersbazaar.com/celebrity/latest/a73327696/charli-xcx-celebrates-34-birthday-striped-pantless-look-lollapalooza-party-photos/",
+        "seendate": "20260802T233000Z",
+        "domain": "harpersbazaar.com"
       },
       {
-        "title": "Mahershala Ali on Marvel’s collapsed Blade reboot: ‘If they wanted to do it, we would’ve done it’",
-        "summary": "Two-time Oscar winner was to take on role of vampire-hunting antihero but said project is no longer happeningThe two-time Oscar winner Mahershala Ali has confirmed that his Blade reboot is no longer going forward.The star of Moonlight and Green Book had been attached to play Marvel’s vam",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/jul/31/mahershala-ali-marvel-blade-reboot",
-        "seendate": "2026-07-31T16:50:54.000Z",
-        "domain": "theguardian.com"
+        "title": "Martha Reeves National Anthem Performance Goes Viral at Women Pro Baseball League Debut",
+        "summary": "The Women&#039;s Pro Baseball League officially made history with its inaugural game Saturday ... but it wasn&#039;t just the action on the field getting people talking as Motown icon Martha Reeves took center stage.",
+        "source": "tmz.com",
+        "url": "https://www.tmz.com/2026/08/02/martha-reeves-viral-national-anthem-performance/",
+        "seendate": "20260802T233000Z",
+        "domain": "tmz.com"
       },
       {
-        "title": "$2m crime novel deal collapses amid questions over AI use",
-        "summary": "Agents withdraw Jerry Falade’s hotly anticipated debut after saying they can no longer authenticate ‘how the manuscript evolved’A high-profile publishing deal for a debut crime novel has collapsed after doubts emerged over whether artificial intelligence played a role in writing it.The hotly anticipated manuscript Call Me, I’ll Hide the Body, by Jerry Falade, was withdrawn from sale by its agent desp",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jul/31/crime-novel-deal-collapses-questions-ai-jerry-falade-call-me-ill-hide-the-body",
-        "seendate": "2026-07-31T16:45:04.000Z",
-        "domain": "theguardian.com"
+        "title": "Music , dancing and fireworks as Glasgow brings Commonwealth Games to a close",
+        "summary": "The 2026 Commonwealth Games have been brought to an end in spectacular fashion with music, dancing and a fireworks display over the River Clyde. Thousands of spectators packed into the Glasgow Hydro on Sunday evening for the closing ceremony, which brought down the curtain on 11 days of sporting action at venues across the city. The event also marked the handover to the Indian city of Amdavad, which will host the Gam",
+        "source": "aol.co.uk",
+        "url": "https://www.aol.co.uk/articles/music-dancing-fireworks-glasgow-brings-223540000.html",
+        "seendate": "20260802T233000Z",
+        "domain": "aol.co.uk"
       }
     ],
     "f1": [
       {
-        "title": "Aston Martin backed to transform F1 fortunes over next two years by former driver",
-        "summary": "Former Formula 1 driver David Coulthard believes Aston Martin will become the championship's most improved team over the next two years.He predicted that the Silverstone-based outfit will be winning grands prix despite a torrid start to 2026.Speaking on the Up To Speed podcast alongside co-host Jolie Sharpe, Coulthard offered a strong defence of Aston Martin's long-term project during a ...<a class='",
+        "title": "Oliver Bearman responds to Aston Martin rumours with clear Ferrari message",
+        "summary": "Haas Formula 1 driver Oliver Bearman has reaffirmed his commitment to the Ferrari driver programme, dismissing the prospect of a switch to Aston Martin in the near future. Speaking on the F1 Beyond The Grid podcast, the 21-year-old driver addressed the increasingly fluid driver market and his own long-term future. Despite an impressive start to his full-time F1 career with Haas ...<a class='more' hre",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/aston-martin-backed-to-transform-f1-fortunes-over-next-two-years-by-former-driver/10843454/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-01T17:05:02.000Z",
+        "url": "https://www.motorsport.com/f1/news/oliver-bearman-responds-to-aston-martin-rumours-with-clear-ferrari-message/10843713/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-02T20:00:04.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Racing Bulls boss’ advice to his F1 drivers: Learn from Max Verstappen’s radio",
-        "summary": "Racing Bulls Formula 1 team principal Alan Permane has advised his drivers Liam Lawson and Arvid Lindblad to listen to Max Verstappen’s radio communications.Lawson and Lindblad form, by far, the least experienced driver lineup on the 2026 grid, with a combined 35 grand prix starts coming into the campaign – much fewer than the second-least seasoned duo, Mercedes’ George Russell and Kimi ...<a class='more",
+        "title": "“I went back to the car and cried” – Esteban Ocon opens up about his unexpected year on F1 sidelines",
+        "summary": "Esteban Ocon has opened up about the 2019 Formula 1 season, which he spent as a Mercedes reserve driver following an unfavourable chain of events.Back in July 2018, Ocon was riding a wave of momentum. In his second full F1 campaign, the Mercedes protege was narrowly leading seasoned Force India team-mate Sergio Perez in the drivers’ standings, and had just outqualified him seven times in a ...<a class='m",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/racing-bulls-boss-advice-to-his-drivers-learn-from-max-verstappens-radio/10843339/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-01T14:03:31.000Z",
+        "url": "https://www.motorsport.com/f1/news/i-went-back-to-the-car-and-cried-esteban-ocon-opens-up-about-his-unexpected-year-on-f1-sidelines/10842997/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-02T13:33:39.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Carlos Sainz reveals Le Mans ambition for life after F1",
-        "summary": "Carlos Sainz has offered a glimpse into his future beyond Formula 1, revealing his ambition to compete in the legendary 24 Hours of Le Mans.The Williams driver, currently battling through a challenging 2026 campaign with the Grove outfit, recently opened up on the Team Torque podcast with team-mate Alex Albon, discussing where he sees himself in 10 to 15 years.When questioned about his ...<a class='m",
+        "title": "Oliver Bearman admits Lewis Hamilton resurgence complicates Ferrari F1 dream",
+        "summary": "Haas Formula 1 driver Oliver Bearman has admitted that Lewis Hamilton's return to race-winning form with Ferrari has complicated his own aspirations of securing a seat at the Maranello outfit. After an impressive debut at the 2024 Saudi Arabian Grand Prix, when he stood in for Carlos Sainz at Ferrari, Bearman secured a full-time seat at Haas in 2025.Following a stellar rookie campaign ...<a class='mo",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/carlos-sainz-reveals-le-mans-ambition-for-life-after-f1/10843535/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-01T12:41:16.000Z",
+        "url": "https://www.motorsport.com/f1/news/oliver-bearman-admits-lewis-hamilton-resurgence-complicates-ferrari-f1-dream/10843706/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-02T12:58:46.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Carlos Sainz and Alex Albon admit Williams is unlikely to meet 2026 targets despite recovery plan",
-        "summary": "Williams drivers Carlos Sainz and Alex Albon have offered an assessment of the Grove outfit's gruelling 2026 Formula 1 season so far, revealing that while a recovery plan is in motion, the team is unlikely to reach its targets in the second half of the year.Speaking on Williams's Team Torque podcast ahead of the summer break, Albon and Sainz reflected on a challenging first half of the season ...<a class",
+        "title": "McLaren \"ready to challenge\" Mercedes after upgrade, says Sky F1 commentator",
+        "summary": "Sky Sports Formula 1 lead commentator David Croft believes McLaren's recent upgrade package has positioned the team to mount a genuine challenge against championship leader Mercedes over the remainder of the 2026 season. McLaren arrived at the Hungarian Grand Prix seeking to close the gap to the Brackley outfit following a demanding opening half of the season. Lando Norris subsequently ...<a class='more'",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/carlos-sainz-and-alex-albon-admit-williams-is-unlikely-to-meet-2026-targets-despite-recovery-plan/10843517/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-01T10:49:39.000Z",
+        "url": "https://www.motorsport.com/f1/news/mclaren-ready-to-challenge-mercedes-after-upgrade-says-sky-f1-commentator/10843408/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-02T12:00:05.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Audi won’t upgrade F1 power unit again until 2027",
-        "summary": "Audi won’t add to its first Formula 1 power unit update by the end of the 2026 season, racing director Allan McNish has revealed.Having taken over the Sauber squad this year and introduced its very first F1 engine project, Audi rarely troubled the top 10 early in the season but launched a power unit upgrade at the Barcelona Grand Prix, providing “driveability mostly” as per Nico ...<a class='more' href='",
+        "title": "Former Haas F1 boss calls out FIA over 'lenient' Carlos Sainz Hungarian GP penalty",
+        "summary": "Former Haas Formula 1 team principal Guenther Steiner has argued that Carlos Sainz should have received a harsher penalty for his collision with Oscar Piastri at the Hungarian Grand Prix.During the race at the Hungaroring, Sainz made contact with Piastri's McLaren while being lapped. Piastri had pitted from the lead of the race, but Sainz failed to yield the position as the McLaren driver made ...<a clas",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/audi-wont-upgrade-f1-power-unit-again-until-2027/10843122/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-01T08:13:40.000Z",
+        "url": "https://www.motorsport.com/f1/news/former-haas-f1-boss-calls-out-fia-over-lenient-carlos-sainz-hungarian-gp-penalty/10843692/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-02T11:59:19.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "Developer of 'Spanking Exorcist' game held up by Steam content moderation releases free 'apology game' where you spank him as punishment: 'We would be delighted if you enjoy it'",
-        "summary": "I did not enjoy it. It was solely a professional obligation.",
+        "title": "One day Owlcat will make an RPG that's perfect out of the box, but 3 years after launch, it's time to get disgustingly into Warhammer 40K: Rogue Trader",
+        "summary": "I love builds.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/horror/developer-of-spanking-exorcist-game-held-up-by-steam-content-moderation-releases-free-apology-game-where-you-spank-him-as-punishment-we-would-be-delighted-if-you-enjoy-it/",
-        "seendate": "2026-08-01T22:12:38.000Z",
+        "url": "https://www.pcgamer.com/games/rpg/one-day-owlcat-will-make-an-rpg-thats-perfect-out-of-the-box-but-3-years-after-launch-its-time-to-get-disgustingly-into-warhammer-40k-rogue-trader/",
+        "seendate": "2026-08-02T20:26:02.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Dead Cells studio thanks Guillermo del Toro for playing its game, gently suggests he try the easy mode",
-        "summary": "We've all been there.",
+        "title": "American Truck Simulator is headed to North Dakota in its latest DLC",
+        "summary": "Next stop: the Peace Garden State.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/roguelike/dead-cells-studio-thanks-guillermo-del-toro-for-playing-its-game-gently-suggests-he-try-the-easy-mode/",
-        "seendate": "2026-08-01T21:05:40.000Z",
+        "url": "https://www.pcgamer.com/games/sim/american-truck-simulator-is-headed-to-north-dakota-in-its-latest-dlc/",
+        "seendate": "2026-08-02T19:35:11.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "The voice of Shinji in Evangelion says AI voice cloning is 'heartbreaking,' calls for Japanese government to intervene",
-        "summary": "It would be nice if somebody did something, for once.",
+        "title": "Baldur's Gate 3 is the cheapest it's ever been to celebrate its third anniversary",
+        "summary": "Dungeons, dice, and bear sex await.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/the-voice-of-shinji-in-evangelion-says-ai-voice-cloning-is-heartbreaking-calls-for-japanese-government-to-intervene/",
-        "seendate": "2026-08-01T19:49:37.000Z",
+        "url": "https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-is-the-cheapest-its-ever-been-to-celebrate-its-third-anniversary/",
+        "seendate": "2026-08-02T16:13:15.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "My new favourite Tolkien game is free, has over 40 years of history, and would run on a toaster",
-        "summary": "Feeling Sil-y.",
+        "title": "One of Kerbal Space Program's biggest inspirations was a promotional Flash game for Top Gear: 'That was the most similar game to KSP that I could find back then'",
+        "summary": "The creator of KSP talks us through what's on his PC, from Full Throttle to Old School Runescape.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/roguelike/my-new-favourite-tolkien-game-is-free-has-over-40-years-of-history-and-would-run-on-a-toaster/",
-        "seendate": "2026-08-01T17:00:00.000Z",
+        "url": "https://www.pcgamer.com/gaming-industry/one-of-kerbal-space-programs-biggest-inspirations-was-a-promotional-flash-game-for-top-gear-that-was-the-most-similar-game-to-ksp-that-i-could-find-back-then/",
+        "seendate": "2026-08-02T15:00:00.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "The great RPG debate: Do RPGs really need romanceable companions?",
-        "summary": "Knocking boots with companions has become an RPG tradition, but does it really add anything?",
+        "title": "Perennial early access game Project Zomboid hit a new concurrent player record after a huge map update added reworked towns, a spooky orphanage and '400 procedural basements'",
+        "summary": "The zombie survival sim has also gone up in price.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/rpg/the-great-rpg-debate-do-rpgs-really-need-romanceable-companions/",
-        "seendate": "2026-08-01T16:00:00.000Z",
+        "url": "https://www.pcgamer.com/games/survival-crafting/perennial-early-access-game-project-zomboid-hit-a-new-concurrent-player-record-after-a-huge-map-update-added-reworked-towns-a-spooky-orphanage-and-400-procedural-basements/",
+        "seendate": "2026-08-02T13:00:00.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
+      {
+        "title": "Stock market turmoil sheds stark light on the opaque AI economy",
+        "summary": "Investors scramble to make sense of a shock Chinese challenge to the dominance of western chipmakersEven for the rollercoaster world of AI, last week was particularly volatile as investors scrambled to keep up with developments that threatened the dominance of the largest western chipmakers.It began with a double whammy. On Monday, the Chinese memory chipmaker CXMT floated on the Shanghai stock marke",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/aug/02/stock-market-turmoil-nvidia-china-light-ai-economy",
+        "seendate": "2026-08-02T09:00:17.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "The great British switch-off: how floating retreats, mobile-free pubs and sauna book groups are freeing people from their smartphones",
         "summary": "Sick of doomscrolling? From venues with smartphone swear jars to cabins with absolutely no signal, here are the fun and freeing ways to ditch your deviceThere’s a ritual at the start of every event hosted by the Offline Project. Run by Pelé Zachariah, the activities vary – it could be a group walk, a&nbsp;collage‑making class or a supper club – but",
@@ -329,56 +337,48 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/technology/2026/jul/30/anthropic-ai-claude-hack",
         "seendate": "2026-07-31T00:22:16.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Could AI take your job? Some workers in China already know the answer",
-        "summary": "Across the country, workers are fearful about the impact of AI on their livelihoods in an increasingly fragile labour market On the tree-lined streets of Wuhan, where cars jostle for space with mopeds and cargo trucks, the malfunctioning of a new type of vehicle has recently been causing chaos on the city’s roads.In March, several cars from a fleet of driverless taxis <a href=\"https://www.theguardian",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/jul/31/china-ai-jobs-workers-labour-market-technology",
-        "seendate": "2026-07-31T02:22:05.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "climate": [
       {
-        "title": "Here What AfroTech Saw At The First AI Edge Workshop",
-        "summary": "AfroTech was on the ground for AI Edge’s first workshop, designed to train users on AI-powered workflows.",
-        "source": "tech.yahoo.com",
-        "url": "https://tech.yahoo.com/ai/gemini/articles/afrotech-saw-first-ai-edge-225336547.html",
-        "seendate": "20260801T233000Z",
-        "domain": "tech.yahoo.com"
+        "title": "Integrity is good business : Why corruption avoidance creates competitive advantage",
+        "summary": "Corruption remains a major barrier to economic growth, despite decades of anti-corruption efforts. This article explores how integrity, beyond mere compliance, is becoming a crucial commercial capability and a driver of sustainable competitive advantage, especially for businesses operating in international markets.",
+        "source": "mg.co.za",
+        "url": "https://mg.co.za/thought-leader/2026-08-02-integrity-is-good-business-why-corruption-avoidance-creates-competitive-advantage/",
+        "seendate": "20260802T233000Z",
+        "domain": "mg.co.za"
       },
       {
-        "title": "Michael McCormack : One Nation confirms Riverina challenge | The Daily Advertiser",
-        "summary": "&#x27;They are not able to achieve what they say they are going to.&#x27;",
-        "source": "dailyadvertiser.com.au",
-        "url": "https://www.dailyadvertiser.com.au/story/9321641/michael-mccormack-one-nation-confirms-riverina-challenge/",
-        "seendate": "20260801T233000Z",
-        "domain": "dailyadvertiser.com.au"
+        "title": "River clean - up flows into data centre climate debate",
+        "summary": "A tech giant plans to rescue millions of litres of drinking water from an Australian river as debate...",
+        "source": "illawarramercury.com.au",
+        "url": "https://www.illawarramercury.com.au/story/9322361/river-clean-up-flows-into-data-centre-climate-debate/",
+        "seendate": "20260802T233000Z",
+        "domain": "illawarramercury.com.au"
       },
       {
-        "title": "We asked a first grader to interview his hero : A bird scientist",
-        "summary": "NPR asked an aspiring scientist in Philadelphia to interview an adult who is living his dream about his career in conservation science.",
-        "source": "wxpr.org",
-        "url": "https://www.wxpr.org/2026-08-02/we-asked-a-first-grader-to-interview-his-hero-a-bird-scientist",
-        "seendate": "20260801T233000Z",
-        "domain": "wxpr.org"
+        "title": "10 Strongest Lanterns in DC History",
+        "summary": "Willpower. Rage. Death itself. DC",
+        "source": "screenrant.com",
+        "url": "https://screenrant.com/strongest-lanterns-dc-comics-history/",
+        "seendate": "20260802T233000Z",
+        "domain": "screenrant.com"
       },
       {
-        "title": "Keep the Heat , Turn Up the Thrill – Summer Accelerated at Galaxy Macau",
-        "summary": "From Formula 4 simulation racing excitement to exclusive shopping rewards, at the award-winning luxury resort – Where Summer Comes to Play – exhilarating new attractions extend the seasonal fun well beyond summerMACAU SAR – Media OutReach Newswire – 31 July 2026 - Extending the energy of summer, Galaxy Macau turns&hellip;",
-        "source": "thailand-business-news.com",
-        "url": "https://www.thailand-business-news.com/pr-news/keep-the-heat-turn-up-the-thrill-summer-accelerated-at-galaxy-macau",
-        "seendate": "20260801T233000Z",
-        "domain": "thailand-business-news.com"
+        "title": "Big Winners in The Soo ! | OutdoorsFIRST",
+        "summary": "Arbes and Tomasek Sweep the Soo! Presented By: Lowrance Sault Ste Marie, MI – July 27, 2026 – The Masters Walleye Circuit finished its 4th qualifier of the year in Sault Ste Marie, Michigan on the St.",
+        "source": "outdoorsfirst.com",
+        "url": "https://www.outdoorsfirst.com/article/big-winners-in-the-soo/",
+        "seendate": "20260802T233000Z",
+        "domain": "outdoorsfirst.com"
       },
       {
-        "title": "Europe wildfire crisis eases in west as danger shifts east to Greece",
-        "summary": "Europe is Earth’s fastest-warming continent.",
-        "source": "runcornandwidnesworld.co.uk",
-        "url": "https://www.runcornandwidnesworld.co.uk/news/national/26429126.europes-wildfire-crisis-eases-west-danger-shifts-east-greece/",
-        "seendate": "20260801T233000Z",
-        "domain": "runcornandwidnesworld.co.uk"
+        "title": "City of Winter Haven Hiring Streets and Drainage Maintenance Operator I Winter Haven",
+        "summary": "City of Winter Haven - The Streets and Drainage Maintenance Operator I will work under the guidance of experienced members of the City’s Streets and Drainage Team to gain hands-on experience and training in various aspects of public works operations. This role is ideal for individuals looking to start a career in public infrastructure maintenance — Local reporting from Polk County, Florida.",
+        "source": "dailyridge.com",
+        "url": "https://dailyridge.com/2024/08/19/city-of-winter-haven-hiring-streets-and-drainage-maintenance-operator-i/",
+        "seendate": "20260802T233000Z",
+        "domain": "dailyridge.com"
       }
     ],
     "science": [
