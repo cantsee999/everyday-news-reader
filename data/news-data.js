@@ -1,5 +1,5 @@
 window.NEWS_CACHE = {
-  "generatedAt": "2026-08-03T23:58:31.315Z",
+  "generatedAt": "2026-08-04T23:53:22.672Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
@@ -88,47 +88,71 @@ window.NEWS_CACHE = {
     ],
     "economy": [
       {
+        "title": "Trump Fed chair’s inflation strategy: leave it to the market | Eduardo Porter",
+        "summary": "Kevin Warsh would rather stay out of the fray – and thus devalue the Fed’s credibility as an economic stewardIt must feel strange to argue that government action is inevitably counter-productive – illegitimate even – when the government is you.For the last half century, the Republican party has been comfortable with the contradiction. It’s framed in that clever quote from <a href=\"https://www.theguar",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/business/2026/aug/04/trump-fed-kevin-warsh",
+        "seendate": "2026-08-04T11:00:48.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Price of olive oil expected to rise again as European crops feel the heat",
+        "summary": "Farmers warn impact of high temperatures, drought and wildfires on range of foodstuffs means costs will increaseFarmers across Europe are warning of a slump in food production and rising prices as crops from maize to salads suffer as a result of extreme heat, drought and wildfires.Olive groves have also been hit as the climate crisis drives temperatures across the continent <a href=\"https://ww",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/business/2026/aug/04/price-olive-oil-expected-rise-again-european-crops-heat-drought-wildfires",
+        "seendate": "2026-08-04T04:00:13.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "BP boss urges Burnham to prioritise UK oil and gas even as firm exits North Sea",
+        "summary": "Meg O’Neill says ‘where we generate jobs, we generate tax revenue’, as company’s profits more than doubleRevealed: major oil firms make $93bn profits amid war and climate crisis<a href=\"https://www.theguardian.com/business/nils-pratley-o",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/business/2026/aug/04/bp-profits-iran-war-oil-prices-shell",
+        "seendate": "2026-08-04T17:55:09.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "US states sue Trump administration over new tariffs on 60 trading partners",
+        "summary": "Coalition of 25 states asks US Court of International Trade to halt tariffs and declare them them unlawfulTrump imposes fresh tariffs on dozens of trading partnersA coalition of 25 US states sued the Trump administration<",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/aug/03/states-sue-trump-administration-tariffs",
+        "seendate": "2026-08-03T22:35:38.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Yen hits three-month high after Trump helps prop up currency",
         "summary": "US and Japanese governments confirm they carried out a rare joint intervention late last weekWhy has Trump stepped in to prop up Japan’s currency?Business live –",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/business/2026/aug/03/yen-trump-currency-us-japan",
         "seendate": "2026-08-03T08:34:06.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Oil prices plunge and Europe’s markets rally after Trump calls off Iran strikes",
-        "summary": "Brent crude drops by 5% after US president claimed talks on Middle East peace deal would resumeCrude oil prices fell sharply while stocks and government bonds rallied on Monday after Donald Trump cancelled planned strikes on Iran and claimed peace talks were about to resume.Brent crude was trading 5% lower at $83.47 a barrel by lunchtime, after falling as much as 7.3% to $81.55 a barrel. US West Texa",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/aug/03/oil-prices-fall-europe-stock-markets-donald-trump-iran-us-brent-crude",
-        "seendate": "2026-08-03T12:10:59.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "‘A reminder of why we have unions’: Matewan writer and director on the film’s lessons for the labor movement",
-        "summary": "John Sayles’s 1987 film, which dramatizes a 1920 labor conflict, shows how class solidarity can overcome prejudiceWhen John Sayles, a student at Williams College taking time off from his summer factory job, was hitchhiking during the summer of 1970 in West Virginia, it",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/aug/03/john-sayles-matewan-unions",
-        "seendate": "2026-08-03T12:00:19.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "AstraZeneca shares fall 8.9% over merger talks with US cancer drug firm",
-        "summary": "Proposed $400bn tie-up with Bristol Myers Squibb would create world’s fourth-largest drugmaker but analysts question rationale More than £17bn was wiped off the value of Britain’s biggest drugmaker, AstraZeneca, on Monday after a report that it was in discussions to take over its US rival Bristol Myers Squibb in a deal that would create a near $400bn (£300bn) pharmaceutical group.AstraZeneca, run by",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/aug/03/astrazeneca-talks-bristol-myers-squibb-merger-pharmaceuticals",
-        "seendate": "2026-08-03T16:32:09.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "California announces minimum wage increase as governor taunts Trump",
-        "summary": "Gavin Newsom says new pay floor of $17.40, set to become highest of any US state, will go into effect on 1 JanuaryGovernor Gavin Newsom of California announced that the state’s minimum wage will rise to $17.40 next year, a pay floor set to become the highest of any US state.The pay bump will go into effect starting 1 January, Newsom <a hr",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/aug/01/california-minimum-wage-increase",
-        "seendate": "2026-08-01T20:39:20.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "literature": [
+      {
+        "title": "Christopher Nolan’s The Odyssey gives UK poetry sales an epic boost",
+        "summary": "Poetry sales surpassed £8m in the first 30 weeks of 2026 and are expected to reach a record high this year thanks to blockbuster adaptation of Homer’s 2,700-year-old poemUK poetry sales are on course to reach a record high this year, buoyed by the success of Christopher Nolan’s blockbuster film adap",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/aug/04/christopher-nolan-the-odyssey-uk-poetry-sales-boost-homer",
+        "seendate": "2026-08-04T15:02:20.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Children of the Wild by Kevin Powers review – gripping tale of a friendship forged in war",
+        "summary": "Written by a US army veteran, this novel of courage and cruelty during the first world war is filled with unsettlingly authoritative depictions of violence – but its characters are less believable Kevin Powers’s fourth novel marks a return to the themes and subject matter of his acclaimed debut The Yellow Birds, winner",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/aug/04/children-of-the-wild-by-kevin-powers-review-gripping-tale-of-a-friendship-forged-in-war",
+        "seendate": "2026-08-04T09:00:54.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Geography of Heaven by Rory MacLean – soul-searching journeys into the afterlife",
+        "summary": "From an ashram in India to an ayahuasca ceremony in Peru, a travel writer searches for meaning after the death of his wifeIn this moving, sometimes grandiloquent grief-memoir-cum-travelogue, Rory MacLean pairs an affinity for new-age thinking with a habit of loftily holding forth (“none of us are created for naught”, “love can but lead to truth”) and a proclivity for arresting one-liners (“I watched gods wa",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/aug/04/geography-of-heaven-by-rory-maclean-soul-searching-journeys-into-the-afterlife",
+        "seendate": "2026-08-04T08:00:16.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "The August Coup by Robert Service review – the drink-soaked collapse of the Soviet Union",
         "summary": "This brilliant account of attempts by the old guard to take back control captures the ludicrousness of it all beautifullyMarxist-Leninist rule in Russia lasted 74 years, and in August 1991 it effectively collapsed in just three days: clear evidence of how hollowed out it had become. In the period that followed, Russia tried parliamentary democracy and unalloyed capitalism, then sank back into autocracy. Now",
@@ -144,160 +168,168 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/books/2026/aug/03/exhibition-by-alex-hyde-review-an-elegiac-love-letter-to-the-yba-era",
         "seendate": "2026-08-03T08:00:45.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Could a couch-to-5k for books get you back into reading?",
-        "summary": "With smartphones stealing our attention, we’re picking up fewer books than ever. A novelist shares her eight-week scheme to get you back into the habitDo you feel that it’s harder to read than it used to be? Not harder to read emails, texts and social media posts, of course. We’re reading those all day long. Harder to sit down and lose yourself in a book? How long is it since you even sat down with a weeken",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/aug/02/could-a-couch-to-5k-for-books-get-you-back-into-reading",
-        "seendate": "2026-08-02T11:00:19.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "​What makes a good comic novel? Andrew Sean Greer on the joy of funny writing",
-        "summary": "The Pulitzer-winning author of Less and Villa Coco explores the art of writing humour – plus 10 of the best novels to make you laughIn March 2020, when the mayor of San Francisco instructed all citizens to remain in their houses due to a pandemic, the first thing I did was order all the books of Agatha Christie. I was not alone; I think many of us immersed ourselves in reliable narratives to drown out the c",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/culture/ng-interactive/2026/aug/01/what-makes-a-good-comic-novel-andrew-sean-greer-on-the-joy-of-funny-writing",
-        "seendate": "2026-08-01T08:00:46.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "What we’re reading: writers and readers on the books they enjoyed in July",
-        "summary": "Max Porter, Daisy Johnson, Avni Doshi and Guardian readers discuss the titles they have read over the last month. Join the conversation in the commentsI recently read Gaining Ground by Joan Barfoot. It’s one of the best novels I’ve ever read about what it means to live with",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jul/31/what-were-reading-writers-and-readers-on-the-books-they-enjoyed-in-july",
-        "seendate": "2026-07-31T11:00:11.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "entertainment": [
       {
-        "title": "Spider-Man: Brand New Day: new characters, new flaws, new tech and brain-exploding future consequences – discuss with spoilers",
-        "summary": "Now you’ve seen the new Spidey, let’s talk about new baddies (or are they goodies?), X-Men alumni, painful relationships and a potential Spidey-pig • This article contains spoilers for Spider-Man: Brand New DayThere was a danger that Spider",
+        "title": "Tell us: has Christopher Nolan’s The Odyssey stoked your interest in classics and poetry?",
+        "summary": "We would like to hear from people for whom the film has increased their interest in poetry or classics in generalUK poetry sales are on course to reach a record high this year, thanks to the success of Christopher Nolan’s blockbuster film adaptation of Homer’s The Odyssey.We would lik",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/aug/03/spider-man-brand-new-day-new-characters-new-flaws-new-tech-and-brain-exploding-future-consequences-discuss-with-spoilers",
-        "seendate": "2026-08-03T14:28:05.000Z",
+        "url": "https://www.theguardian.com/books/2026/aug/04/tell-us-has-christopher-nolan-the-odyssey-stoked-your-interest-in-classics-and-poetry",
+        "seendate": "2026-08-04T16:21:45.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Justin Hardy, director of Wicker Man sequel, dies three weeks before its premiere",
-        "summary": "Hardy, a Bafta-nominated film-maker, has died aged 61, having completed a sequel to the cult 1973 folk-horror made by his father Robin HardyBritish film-maker Justin Hardy, the son of The Wicker Man director Robin Hardy, has died aged 61. He had recently completed Wrath of the Gods, a second sequel to the fondly regarded folk-horror film, inspired by a story idea discovered in his father’s archives.I",
+        "title": "‘He’s tiny, dumpy and funny – so his BMX tricks are hilarious’: Tanuki: Pon’s Summer, an adorable slice-of-life adventure",
+        "summary": "Denkiworks’ debut lets players pull off tricks and pull pints in a stunning, Japan-inspired settingA freeloading tanuki, mounting debt, and a town full of possibilities will sound familiar to fans of Animal Crossing. Alas, while you won’t find accountability from Tom Nook, Kyoto-based st",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/aug/03/justin-hardy-director-wicker-man-sequel-dies-before-premiere",
-        "seendate": "2026-08-03T15:54:06.000Z",
+        "url": "https://www.theguardian.com/games/2026/aug/04/tanuki-pons-summer-bmx-adventure-japan",
+        "seendate": "2026-08-04T15:00:03.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "John Oliver on police surveillance: ‘Big Brother on steroids’",
-        "summary": "The host tore into ‘wildly invasive’ cameras, microphones and license plate readers that police use to track AmericansJohn Oliver discussed the tools that police are using to keep track of Americans on the latest episode of Last Week Tonight.In recent years, the use of surveillance technology has exploded among local police forces due",
+        "title": "Sex, drugs and serial killers: inside Ryan Murphy and Bret Easton Ellis’s lurid TV thriller",
+        "summary": "The Shards brings the cocaine-addled teens of a 1980s prep school to life with a cast of newcomers and a heavy dose of sleazeOne of the first things Ryan Murphy’s TV adaptation of Bret Easton Ellis’s <a href=\"https://www.theguardian.com/books/2023/jan/04/the-shards-by-bret-easto",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/aug/03/john-oliver-police-surveillance-cameras",
-        "seendate": "2026-08-03T15:22:36.000Z",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/aug/04/the-shards-tv-show-thriller-cast-interview",
+        "seendate": "2026-08-04T11:00:48.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘Sade wasn’t particularly friendly’: the stories behind music’s most iconic portraits – in pictures",
-        "summary": "In a career spanning six decades, photographer Gered Mankowitz has nurtured trusting relationships with many of the twentieth century’s defining artists. As he celebrates his 80th birthday, Mankowitz opens up about the stories behind iconic images of Elton John, Jimi Hendrix, Annie Lennox and others that have have become indelible parts of pop culture history. These images are taken from <a href=\"https://www.accar",
+        "title": "Web of billions: how Spider-Man became the most heroic franchise in Hollywood",
+        "summary": "Tom Holland’s fourth outing as Peter Parker broke box office records but how did the web-slinger avoid growing superhero fatigue?A year ago, the superhero-industrial complex looked like it was on the wane. All three of Marvel’s big movies for 2025 underperformed to some degree or another, outgrossed by DC’s newest reboot of Superman – which itself made less than any number of previous-regime DC movies, and",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/artanddesign/gallery/2026/aug/03/gered-mankowitz-gallery-interview-eurythmics-revenge-young-sade-diamond-life-wham-rolling-stones",
-        "seendate": "2026-08-03T10:00:15.000Z",
+        "url": "https://www.theguardian.com/film/2026/aug/04/spider-man-brand-new-day-performance",
+        "seendate": "2026-08-04T09:00:17.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘A gentle poetry in the everyday’: why The Straight Story is my feelgood movie",
-        "summary": "The latest in our ongoing series of writers picking their most beloved comfort films is a tribute to David Lynch’s gentlest movieWhat was your gateway into the Lynchian empire? Maybe it was the elliptical horror of Mulholland Drive, with its labyrinth of dream and deceit. Perhaps it was the small-town banality of Twin Peaks or Blue Velvet, the gee-whiz vernacular and cherry-pie dispositions hiding a malice",
+        "title": "Ariana Grande expands on decision to ‘step back from visibility’, telling fans it was ‘not reactive or impulsive’",
+        "summary": "Singer and actor, whose world tour ends next month, told audience in Chicago that she had been quietly planning the move for a long timeAriana Grande has expanded upon her recent decision to take “a step back from visibility” when her tour ends next month, as a result of what a spokesperson called “endless, ongoing public scrutiny”.On Monday night during the first show of a three-night run in Chicago",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/aug/03/my-feelgood-movie-the-straight-story-david-lynch",
-        "seendate": "2026-08-03T09:00:46.000Z",
+        "url": "https://www.theguardian.com/music/2026/aug/04/ariana-grande-decision-to-step-back-from-visibility-chicago-petal",
+        "seendate": "2026-08-04T10:32:58.000Z",
         "domain": "theguardian.com"
       }
     ],
     "f1": [
       {
-        "title": "F1 2026 qualifying head-to-head at summer break",
-        "summary": "After every F1 qualifying session, Motorsport publishes each team's qualifying record in terms of team-mate battles.This record is based exclusively on qualifying results so that grid penalties don't alter the statistics.When a driver can't put in a representative lap time due to a technical issue or an incident, this will be mentioned in the table.Three duels under the ...<a class='more' href='h",
+        "title": "George Russell's 2026 F1 bad luck is beyond a \"Rocky\" story, says David Coulthard",
+        "summary": "Former Formula 1 driver David Coulthard says George Russell's bruising 2026 campaign has become a \"character-building\" exercise, claiming the Mercedes driver's current run of bad luck is too unbelievable for a Rocky film.Russell won the Australian Grand Prix and the Chinese sprint race, but his season has since taken a turn. As F1 enters its August shutdown, the Briton trails his teenage ...<a class='mor",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/f1-2026-qualifying-head-to-head-at-summer-break/10841661/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-03T15:30:03.000Z",
+        "url": "https://www.motorsport.com/f1/news/george-russells-2026-f1-bad-luck-is-beyond-a-rocky-story-says-david-coulthard/10843187/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-04T17:00:04.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "McLaren victory leaves 2026 F1 title race \"far from over\", says Martin Brundle",
-        "summary": "Sky Sports F1 pundit and former Formula 1 driver Martin Brundle believes the 2026 championship remains \"far from over\" following McLaren's Hungarian Grand Prix victory.Writing in his post-race Sky Sports F1 column ahead of the August summer break, the former driver analysed the shift in the competitive order. McLaren's latest development package yielded the Woking outfit's 14th win at the ...<a class='mo",
+        "title": "Sergio Perez explains what is holding Cadillac back in F1 2026",
+        "summary": "Sergio Perez is frustrated by the lack of development Cadillac has made in the 2026 Formula 1 season, arguing the debutant outfit must ‘rethink its processes’.The American marque made its championship debut this year, but Cadillac is bottom of the standings and without a point after 11 rounds - scrapping with Aston Martin at the back of the pack. Although that was largely expected ...<a class='more'",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/mclaren-victory-leaves-2026-f1-title-race-far-from-over-says-martin-brundle/10843926/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-03T15:12:31.000Z",
+        "url": "https://www.motorsport.com/f1/news/sergio-perez-explains-what-is-holding-cadillac-back-in-f1-2026/10844080/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-04T15:00:03.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "F1 legends weigh in on Max Verstappen's Red Bull future",
-        "summary": "Max Verstappen's future at Red Bull remains a popular topic as the Dutchman heads into the summer break sixth in the drivers' standings, 110 points behind championship leader Kimi Antonelli.With Red Bull dealing with the added challenge of its new engine programme this season, and some high-profile exits over recent years, a panel of Formula 1 legends has weighed in on whether they believe the ...<a clas",
+        "title": "FIA criticised by former driver for failing to act sooner on 2026 F1 rules",
+        "summary": "Former Formula 1 driver David Coulthard has taken aim at the FIA for reacting too slowly to the problems caused by the 2026 technical regulations, comparing the situation to a slow-moving disaster that everyone saw coming.The 13-time grand prix winner shared his frustration over the series' governing body failing to listen to early warnings. The introduction of the new rules, particularly the ...<a class",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/f1-legends-weigh-in-on-max-verstappens-red-bull-future/10843918/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-03T14:38:57.000Z",
+        "url": "https://www.motorsport.com/f1/news/fia-criticised-by-former-driver-for-failing-to-act-sooner-on-2026-f1-rules/10843458/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-04T12:00:03.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Pierre Gasly: Alpine's Dutch GP upgrades \"critical\" for F1 2026 chances",
-        "summary": "Pierre Gasly reckons Alpine’s upgrades at the forthcoming Dutch Grand Prix are “critical” for it to maintain pace in the Formula 1 midfield as it has been outdeveloped by rivals.The French marque started the 2026 campaign as the leading midfield team, sitting fifth in the standings after round six in Monaco where Gasly claimed a contentious podium.Read Also:Formula ...<a class='more' href",
+        "title": "George Russell urged to rediscover \"flow state\" in F1 title chase",
+        "summary": "Former Formula 1 race engineer Rob Smedley has argued that George Russell is \"overthinking\" his 2026 title challenge, urging the Mercedes driver to rediscover his \"flow state\" amid a growing points deficit to his team-mate Kimi Antonelli.During an episode of the High Performance Racing podcast alongside former Alpine team principal Otmar Szafnauer and broadcaster Jake Humphrey, Smedley ...<a class='more'",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/pierre-gasly-alpines-dutch-gp-upgrades-critical-for-f1-2026-chances/10843276/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-03T12:10:17.000Z",
+        "url": "https://www.motorsport.com/f1/news/george-russell-urged-to-rediscover-flow-state-in-f1-title-chase/10844088/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-04T11:51:41.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Damon Hill compares George Russell-Kimi Antonelli battle to 1996 F1 rivalry",
-        "summary": "1996 Formula 1 champion Damon Hill has likened the current Mercedes intra-team battle between George Russell and Kimi Antonelli to his own experience of facing a fiercely competitive newcomer in Jacques Villeneuve.With the 2026 F1 season well underway, the driver dynamic at the Brackley outfit continues to be a major talking point. Following his rookie campaign last year, having stepped into ...<a class=",
+        "title": "Audi performing better than expected in F1 2026 - Allan McNish",
+        "summary": "Audi’s racing director Allan McNish has been positively surprised by his team’s start to the 2026 Formula 1 campaign - citing qualifying as a strength for the debutant squad.The German marque has five Q3 appearances across the opening 11 rounds of the season between Nico Hulkenberg and Gabriel Bortoleto, who respectively have an average qualifying position of 12th and 13th.It ...<a class='more' href=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/damon-hill-compares-george-russell-kimi-antonelli-battle-to-1996-f1-rivalry/10843865/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-03T11:41:04.000Z",
+        "url": "https://www.motorsport.com/f1/news/audi-performing-better-than-expected-in-f1-2026-allan-mcnish/10843375/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-04T11:25:33.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "Dave Bautista reportedly 'in talks' to take over the role of Kratos in Amazon's God of War series",
-        "summary": "Ryan Hurst had to leave the show after a severe on-set injury.",
+        "title": "Embrace the great Tech Pause",
+        "summary": "It's a great time to enjoy the stuff we already have.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/movies-tv/dave-bautista-reportedly-in-talks-to-take-over-the-role-of-kratos-in-amazons-god-of-war-series/",
-        "seendate": "2026-08-03T22:51:08.000Z",
+        "url": "https://www.pcgamer.com/gaming-industry/embrace-the-great-tech-pause/",
+        "seendate": "2026-08-04T22:51:57.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "'Wait for me, my Czech friend': Japanese dev adds Czech localization just for the one Steam user who wishlisted his game in the Czech Republic",
-        "summary": "The international spirit of baseball and friendship might frown on the method, though.",
+        "title": "The deal is done: Electronic Arts is now officially owned by Saudi Arabia",
+        "summary": "Right on schedule.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/sports/wait-for-me-my-czech-friend-japanese-dev-adds-czech-localization-just-for-the-one-steam-user-who-wishlisted-his-game-in-the-czech-republic/",
-        "seendate": "2026-08-03T20:47:52.000Z",
+        "url": "https://www.pcgamer.com/gaming-industry/the-deal-is-done-electronic-arts-is-now-officially-owned-by-saudi-arabia/",
+        "seendate": "2026-08-04T21:50:22.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Microsoft is planning to bring Xbox 360 games to PC, according to leaked documents",
-        "summary": "The feature is expected to get a \"gradual\" launch between 2027 and 2028.",
+        "title": "'I was this close': Teenage dev's $200 joke game made nearly $1.4 million on Steam before the refunds came flooding in",
+        "summary": "Game dev Michael Major ultimately ended up with a little over $2,000 for his efforts, which still isn't bad for a teenager's gag.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/microsoft-is-reportedly-planning-to-bring-xbox-360-games-to-pc-according-to-leaked-documents/",
-        "seendate": "2026-08-03T19:11:29.000Z",
+        "url": "https://www.pcgamer.com/games/i-was-this-close-teenage-devs-usd200-joke-game-made-nearly-usd1-4-million-on-steam-before-the-refunds-came-flooding-in/",
+        "seendate": "2026-08-04T21:35:33.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Help shape the future of PC Gamer and enter for a chance to win $200",
-        "summary": "Fill out our 15-minute survey about your gaming and reading habits, and you could be rewarded.",
+        "title": "Deadlock's new ranked mode is driving players mad as they try to escape the casual modes and climb back to where they were",
+        "summary": "Valve wasn't joking when they said the next few weeks would be \"rocky\".",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/pc-gamer-audience-survey/",
-        "seendate": "2026-08-03T14:23:18.000Z",
+        "url": "https://www.pcgamer.com/games/moba/deadlocks-new-ranked-mode-is-driving-players-mad-as-they-try-to-escape-the-casual-modes-and-climb-back-to-where-they-were/",
+        "seendate": "2026-08-04T20:51:20.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Dragon's Dogma 2 will be getting an endgame hard mode difficulty in the future 'for seasoned players'",
-        "summary": "Dragon scale-ing difficulty.",
+        "title": "Sometimes you have to take a break from work to pay respects to the PC flight stick that ruled the '90s",
+        "summary": "It may not look like much now, but the CH Products FlightStick was a champion in its day.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/rpg/dragons-dogma-2-will-be-getting-an-endgame-hard-mode-difficulty-in-the-future-for-seasoned-players/",
-        "seendate": "2026-08-03T14:08:20.000Z",
+        "url": "https://www.pcgamer.com/hardware/controllers/sometimes-you-have-to-take-a-break-from-work-to-pay-respects-to-the-pc-flight-stick-that-ruled-the-90s/",
+        "seendate": "2026-08-04T19:42:06.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
+      {
+        "title": "‘Fortnite on steroids’: the virtual gaming worlds transformed to train British soldiers",
+        "summary": "Inside Skyral, part of a consortium that won a £2bn MoD contract to help forces game out complex decisionsOn a sunny July day in Riga, Latvia, a Nato convoy drives down a street lined with kebab shops and a pharmacy. At a downtown intersection, there is the sound of an explosion and the lead tank bursts into flame.These are real streets in Riga – Lāčplēša iela and the downtown corridor of Tērbatas ie",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/uk-news/2026/aug/04/fortnite-on-steroids-the-virtual-gaming-worlds-transformed-to-train-british-soldiers",
+        "seendate": "2026-08-04T04:00:13.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Can you tell if someone is filming you with Meta glasses? – video",
+        "summary": "Meta glasses - they're everywhere, and people have a lot of opinions. Mostly about their ability to take photos and videos. Rafqa Touma speaks to Guardian Australia's technology reporter, Josh Taylor, lifestyle editor, Alyx Gorman, and the Human Technology Institute's responsible technology policy specialist, Lauren Perry. <a href=\"https://www.theguardian.com/technology/video/2026/aug/04/meta-glasses-c",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/video/2026/aug/04/meta-glasses-can-you-tell-if-someone-is-filming-you-video",
+        "seendate": "2026-08-04T03:23:08.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "US water facilities targeted by ‘malicious cyber actors’ – who’s to blame?",
+        "summary": "Despite Trump’s efforts to blame Tim Walz and Minnesota, officials suspect Iran behind attacks on US infrastructureLate last week, federal authorities issued a stern warning saying “malicious cyber actors” were targeting water and wastewater facilities in at least seven states across the US. Minnesota appeared to be the hardest hit with 30 of its water systems hit by cyber-attacks, leading to disruptions in",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/aug/04/us-cyber-attacks-water-minnesota-iran",
+        "seendate": "2026-08-04T11:00:48.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Apple launches legal challenge against UK government demand to access data",
+        "summary": "The Home Office has made a fresh request for ‘back door’ access to encrypted iCloud data belonging to British usersApple has launched a new legal challenge against a UK government demand to access its customers’ highly encrypted data, a year after the Home Office agreed to abandon its previous request.The US tech company launched the legal complaint last month at the Investigatory Powers Tribunal (IP",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/aug/03/apple-legal-challenge-uk-government-data-access",
+        "seendate": "2026-08-03T17:35:44.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "UK’s state investments agency hit by data breach",
         "summary": "Security lapse leaves sensitive information and contact details of 51 government officials exposed for 40 hoursThe public body in charge of the UK’s state investments has been pushed to improve its internal security after a data breach left “high-level management information” publicly accessible for nearly two days.UK Government Investments (UKGI), the agency that manages the taxpayers’ interest in a",
@@ -305,41 +337,33 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/business/2026/aug/02/uk-state-investments-agency-data-breach",
         "seendate": "2026-08-02T06:00:13.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Stock market turmoil sheds stark light on the opaque AI economy",
-        "summary": "Investors scramble to make sense of a shock Chinese challenge to the dominance of western chipmakersEven for the rollercoaster world of AI, last week was particularly volatile as investors scrambled to keep up with developments that threatened the dominance of the largest western chipmakers.It began with a double whammy. On Monday, the Chinese memory chipmaker CXMT floated on the Shanghai stock marke",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/aug/02/stock-market-turmoil-nvidia-china-light-ai-economy",
-        "seendate": "2026-08-02T09:00:17.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "The great British switch-off: how floating retreats, mobile-free pubs and sauna book groups are freeing people from their smartphones",
-        "summary": "Sick of doomscrolling? From venues with smartphone swear jars to cabins with absolutely no signal, here are the fun and freeing ways to ditch your deviceThere’s a ritual at the start of every event hosted by the Offline Project. Run by Pelé Zachariah, the activities vary – it could be a group walk, a&nbsp;collage‑making class or a supper club – but",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/aug/01/great-british-switch-off-fun-freeing-ways-ditch-smartphone-doomscrolling",
-        "seendate": "2026-08-01T11:00:51.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "China’s tech advances are causing chaos from Silicon Valley to the White House",
-        "summary": "New AI models, advanced robots and specialty computer chips are unsettling markets and the US tech industryOver the past month, a series of advancements in China’s artificial intelligence, chip manufacturing and robotics technologies have rattled financial markets, caused divisions among US tech moguls and left the Trump administration scrambling to respond.Silicon Valley has long pointed to China’s",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/aug/01/china-silicon-valley-white-house",
-        "seendate": "2026-08-01T12:00:53.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "AI labels to be compulsory on authentic-looking content under EU rules",
-        "summary": "Companies must ensure people know when they are interacting with artificially generated images, audio and text designed to look realFrom apparently conspiring to steal elections to abusing staff or performing embarrassing dance moves, the last few years have seen plenty of fake content made about politicians intended to malign its targets and mislead the public.Now EU rules aim to stem the flood of t",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/jul/31/ai-labels-to-be-compulsory-on-authentic-looking-content-under-eu-rules",
-        "seendate": "2026-07-31T11:21:20.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "climate": [
+      {
+        "title": "Protesters occupy 200-year-old tree at US-Mexico border to stop its destruction: ‘She’s our Statue of Liberty’",
+        "summary": "Demonstrators stage ‘tree sit’ in Arizona town to stop felling of ancient cottonwood grove to make way for border wallProtesters are staging a “tree sit” in a tiny Arizona town to prevent the destruction of a grove of ancient cottonwood trees as federal contractors race to build a row of two 30ft walls along the border with Sonora, <a href=\"https://w",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/aug/04/protesters-occupy-tree-us-mexico-border",
+        "seendate": "2026-08-04T23:20:58.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "We launched a war on nature. Now we are in a climate warzone | Rebecca Solnit",
+        "summary": "Summer is not what it once was. We have been robbed of one of life’s great joys Far beyond the fires raging across Europe and North America, the smoke, dangerous to breathe, hangs in the air, dimming the view, changing the very color of sunlight into something grimly unsettling.An estimated 20,000 are said to have died in the extreme heat in Europe earlier this year, and heat is climate change’s quie",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/commentisfree/2026/aug/04/summer-heat-climate-war-zone",
+        "seendate": "2026-08-04T10:00:47.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Crews building Trump border wall in drought-hit New Mexico ordered to stop drilling wells",
+        "summary": "Residents and farmers say contractors have tapped border aquifers that threaten water supply for those nearbyConstruction crews building a border wall in New Mexico were ordered to stop drilling new wells after ranchers said that pumping groundwater to produce concrete could threaten their livestock amid a severe drought.The order comes as c",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/aug/03/trump-border-wall-new-mexico-wells",
+        "seendate": "2026-08-04T01:25:42.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "From living roofs to rainwater harvesting: the future of sustainable homes",
         "summary": "A new book, Homes for Our Time, by Philip Jodidio, showcases the quiet revolution in green residential architecture Continue reading...",
@@ -355,33 +379,25 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/us-news/2026/aug/02/eastern-washington-wildfires",
         "seendate": "2026-08-02T23:33:08.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Heatwave scorching western US ups risk of hazardous fire conditions",
-        "summary": "In Oregon and Washington, low humidity and powerful winds have put officials on alert for wildfire spreadA heatwave scorching the western US region has elevated the risk of hazardous fire conditions particularly in parts of Oregon and Washington, where low humidity and powerful winds have put officials on alert for wildfire spread.The National Weather Service has forecast blistering temperatures thro",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/aug/01/heatwave-us-west-hazardous-fire-conditions",
-        "seendate": "2026-08-01T23:39:52.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Democrats’ ‘climate hushing’ prompts activists to turn up the volume",
-        "summary": "Nationwide actions seek to counter view that talking about climate crisis distracts from affordability messagingThis summer, torrential rains have washed away Texas neighborhoods, dangerous heat has blanketed swaths of the country,",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/aug/01/democrats-climate-policy-hushing",
-        "seendate": "2026-08-01T12:00:53.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Water cuts loom as US unveils long-awaited response to Colorado River crisis",
-        "summary": "Federal government plan outlines cuts of roughly 40% to California, Arizona and Nevada but fix is likely to be only temporaryThe US government released its anxiously awaited plan for how to manage the Colorado River crisis on Friday, which includes the potential for harsh cuts in water supplied to California, Arizona and Nevada.Under the proposal, the so-called lower basin states stand to lose up to",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jul/31/colorado-river-water-cuts",
-        "seendate": "2026-07-31T17:38:28.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "science": [
+      {
+        "title": "Children using social media at younger age appear to do worse in school tests",
+        "summary": "Pupils who open accounts aged 11 to 12 score lower in some subjects than those who wait a few years, study findsChildren who open social media accounts at the start of secondary school appear to perform worse in tests than those who delay, with researchers suspecting that the constant checking for updates is a major distraction for many students.Pupils who opened their first social media account aged",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/aug/03/children-using-social-media-younger-age-worse-school-tests",
+        "seendate": "2026-08-03T15:14:32.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "The fight to save a historic English landscape - podcast",
+        "summary": "Madeleine Finlay travels to the Rothbury estate in Northumberland, in north-east England. It’s a piece of land that has been in the same family for 700 years, but now it has been put up for sale and the UK’s Wildlife Trusts are trying to raise £30m to secure it intact. To find out what makes the area so special, Madeleine speaks to Katy Barke, the head of nature recovery for Northumberland Wildlife Trust. She also",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/audio/2026/aug/04/wildlife-trusts-fight-to-save-historic-english-landscape-podcast",
+        "seendate": "2026-08-04T08:28:15.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Artists, writers and scientists urge UK government to save Jodrell Bank Observatory",
         "summary": "New Order and Simon Armitage among more than 100 signatories to criticise ‘foolish and shortsighted’ cutsMore than 100 artists, writers and scientists have called for the UK government to save the “world’s clearest eyes on the sky”, after funding for thenetwork of radio telescopes at Jodrell Bank Observatory",
@@ -391,8 +407,8 @@ window.NEWS_CACHE = {
         "domain": "theguardian.com"
       },
       {
-        "title": "‘They are such neat, busy little folk’: the unexpected superpowers of the common woodlouse",
-        "summary": "This detritivore – known by a range of colourful names – tidies up our world and can withstand toxic pollutionRevealed: the top 10 invertebrates of the yearChucky pig. Slater. Monkey pea. Roly-poly. Boat-builder. Butchy boy. Cheeselog. Hobbling Andrew. Wood pig.",
+        "title": "‘Bumbling, mumbling’ tidiers of our world: the unexpected superpowers of the common woodlouse",
+        "summary": "This detritivore – known by a range of colourful names – feeds on rotting plant matter and can withstand toxic pollutionRevealed: the top 10 invertebrates of the yearChucky pig. Slater. Monkey pea. Roly-poly. Boat-builder. Butchy boy. Cheeselog. Hobbling Andrew.",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/environment/2026/aug/03/common-woodlouse-invertebrate-of-the-year",
         "seendate": "2026-08-03T11:00:16.000Z",
@@ -404,22 +420,6 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/science/2026/aug/03/starwatch-mercury-glimpse-of-solar-system-inner-world",
         "seendate": "2026-08-03T05:00:41.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Drifting SpaceX rocket heading for accidental collision with moon",
-        "summary": "Scientists and sky gazers will watch intently as rocket’s upper stage slams into lunar surface on WednesdayA drifting SpaceX rocket is on a collision course with the moon after launching a pair of lunar landers more than a year ago.The rocket’s upper stage will unintentionally slam into the",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/jul/31/spacex-rocket-moon-collision",
-        "seendate": "2026-07-31T13:05:10.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "‘Extremely scary findings’ show climate crisis is supercharging Europe’s wildfire weather",
-        "summary": "Latest study says global heating has made hot, dry and windy conditions in Spain at least 20 times more likelyThe extreme heat and drought stoking huge wildfires in Spain and France were made far more likely by the climate crisis, a scientific analysis has found.Global heating made hot, dry and windy weather at least 20 times more likely in Spain and twice as likely in France, experts from the <a hre",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/jul/31/wildfires-extreme-weather-europe-spain-france-climate-crisis-analysis",
-        "seendate": "2026-07-31T07:00:07.000Z",
         "domain": "theguardian.com"
       }
     ]
