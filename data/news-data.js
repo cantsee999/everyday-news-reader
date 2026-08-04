@@ -1,8 +1,32 @@
 window.NEWS_CACHE = {
-  "generatedAt": "2026-08-02T23:48:08.103Z",
+  "generatedAt": "2026-08-03T23:58:31.315Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
+      {
+        "title": "Stronger EU borders needed after Ceuta crisis, von der Leyen says",
+        "summary": "European Commission president says work needed in five areas of migration control including returning more peopleThe president of the European Commission has called for action to strengthen Europe’s borders after tens of thousands of people arrived and quickly left the Spanish territory of Ceuta, triggering a furious row between Madrid and other European countries.In a letter to Spain’s prime ministe",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/aug/03/stronger-eu-borders-physical-barriers-ceuta-von-der-leyen",
+        "seendate": "2026-08-03T17:44:01.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "How Ceuta migrant crisis exposes divisions within Europe - The Latest",
+        "summary": "Dozens of people died attempting to reach the Spanish enclave of Ceuta after an estimated 50,000 crossed from Morocco last week. The incident has led to a political crisis in Spain and criticism from EU countries.Lucy Hough speaks to the Guardian’s European community affairs correspondent, Ashifa Kassam – watch on YouTube <a href=\"https://www.th",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/news/audio/2026/aug/03/how-ceuta-migrant-crisis-exposes-divisions-within-europe-the-latest",
+        "seendate": "2026-08-03T16:05:20.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Ceuta leader accuses Morocco over ‘atrocity’ of mass border crossing",
+        "summary": "Juan Jesús Vivas says influx seen as ‘at least encouraged or permitted’ by Rabat, as Spain demands EU solidarityExplainer: why is Ceuta a migration flashpoint?A growing chorus of voices has accused Morocco of helping to fuel the crisis in Ceuta, with the leader of the Spanish enclave describing",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/aug/03/ceuta-leader-border-crossing-morocco-spain",
+        "seendate": "2026-08-03T14:13:01.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Chaos of border crossing gives way to limbo for Moroccans on Ceuta’s streets",
         "summary": "People among the more than 50,000 who entered Spanish enclave this week describe the journey and their prospectsFour days ago, Youssef El Abbas saw an opportunity to reclaim the life he had lost seven years earlier. News was circulating that about 400 people had swum from Morocco to the neighbouring Spanish enclave of Ceuta on the north African coast, approximately 12 miles (19km) across the strait of Gibra",
@@ -17,35 +41,35 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/world/2026/aug/02/anti-lgbtq-laws-are-on-the-rise-across-west-africa-campaigners-warn",
         "seendate": "2026-08-02T04:00:11.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "EU to hold urgent meeting of interior ministers on Tuesday over Ceuta crisis",
-        "summary": "Divisions remain in the bloc over mass crossing of migrants into Spanish territory in north AfricaThe EU is to hold an urgent meeting of interior ministers on Tuesday amid continued divisions in the bloc over the arrival of more than 50,000 migrants in the Spanish territory of Ceuta in north Africa.The decision was taken by officials representing EU member states and Frontex border agency experts at",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing",
-        "seendate": "2026-08-01T19:03:39.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "At least 57 people die as tens of thousands cross to Spanish enclave of Ceuta from Morocco",
-        "summary": "Pedro Sánchez decries ‘violation of territorial integrity’ as other EU countries criticise Madrid over incidentAt least 57 people have died trying to reach the Spanish enclave of Ceuta after as many as 50,000 migrants entered the tiny territory from Morocco in what Spain’s prime minister, Pedro Sánchez, called “a violation of Spain’s territorial integrity”.The huge influx, which took place over the c",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths",
-        "seendate": "2026-07-31T17:52:11.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Archbishop of Canterbury vows to support £100m pledge helping communities affected by enslavement",
-        "summary": "During visit to Ghana, Sarah Mullally expresses regret and says controversial fund symbolises Christian belief in repentanceAt a former British castle where thousands of enslaved Africans were held before being shipped across the Atlantic, the archbishop of Canterbury expressed “lament” for the Church of England’s involvement in transatlantic chattel slavery and reaffirmed her commitment to a controversial",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/news/2026/jul/31/archbishop-of-canterbury-support-pledge-helping-communities-enslavement",
-        "seendate": "2026-07-31T11:38:46.000Z",
         "domain": "theguardian.com"
       }
     ],
     "conflict": [
       {
+        "title": "Stronger EU borders needed after Ceuta crisis, von der Leyen says",
+        "summary": "European Commission president says work needed in five areas of migration control including returning more peopleThe president of the European Commission has called for action to strengthen Europe’s borders after tens of thousands of people arrived and quickly left the Spanish territory of Ceuta, triggering a furious row between Madrid and other European countries.In a letter to Spain’s prime ministe",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/aug/03/stronger-eu-borders-physical-barriers-ceuta-von-der-leyen",
+        "seendate": "2026-08-03T17:44:01.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "How Ceuta migrant crisis exposes divisions within Europe - The Latest",
+        "summary": "Dozens of people died attempting to reach the Spanish enclave of Ceuta after an estimated 50,000 crossed from Morocco last week. The incident has led to a political crisis in Spain and criticism from EU countries.Lucy Hough speaks to the Guardian’s European community affairs correspondent, Ashifa Kassam – watch on YouTube <a href=\"https://www.th",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/news/audio/2026/aug/03/how-ceuta-migrant-crisis-exposes-divisions-within-europe-the-latest",
+        "seendate": "2026-08-03T16:05:20.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Ceuta leader accuses Morocco over ‘atrocity’ of mass border crossing",
+        "summary": "Juan Jesús Vivas says influx seen as ‘at least encouraged or permitted’ by Rabat, as Spain demands EU solidarityExplainer: why is Ceuta a migration flashpoint?A growing chorus of voices has accused Morocco of helping to fuel the crisis in Ceuta, with the leader of the Spanish enclave describing",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/aug/03/ceuta-leader-border-crossing-morocco-spain",
+        "seendate": "2026-08-03T14:13:01.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Chaos of border crossing gives way to limbo for Moroccans on Ceuta’s streets",
         "summary": "People among the more than 50,000 who entered Spanish enclave this week describe the journey and their prospectsFour days ago, Youssef El Abbas saw an opportunity to reclaim the life he had lost seven years earlier. News was circulating that about 400 people had swum from Morocco to the neighbouring Spanish enclave of Ceuta on the north African coast, approximately 12 miles (19km) across the strait of Gibra",
         "source": "theguardian.com",
@@ -60,75 +84,67 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/world/2026/aug/02/anti-lgbtq-laws-are-on-the-rise-across-west-africa-campaigners-warn",
         "seendate": "2026-08-02T04:00:11.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "EU to hold urgent meeting of interior ministers on Tuesday over Ceuta crisis",
-        "summary": "Divisions remain in the bloc over mass crossing of migrants into Spanish territory in north AfricaThe EU is to hold an urgent meeting of interior ministers on Tuesday amid continued divisions in the bloc over the arrival of more than 50,000 migrants in the Spanish territory of Ceuta in north Africa.The decision was taken by officials representing EU member states and Frontex border agency experts at",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing",
-        "seendate": "2026-08-01T19:03:39.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "At least 57 people die as tens of thousands cross to Spanish enclave of Ceuta from Morocco",
-        "summary": "Pedro Sánchez decries ‘violation of territorial integrity’ as other EU countries criticise Madrid over incidentAt least 57 people have died trying to reach the Spanish enclave of Ceuta after as many as 50,000 migrants entered the tiny territory from Morocco in what Spain’s prime minister, Pedro Sánchez, called “a violation of Spain’s territorial integrity”.The huge influx, which took place over the c",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths",
-        "seendate": "2026-07-31T17:52:11.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Archbishop of Canterbury vows to support £100m pledge helping communities affected by enslavement",
-        "summary": "During visit to Ghana, Sarah Mullally expresses regret and says controversial fund symbolises Christian belief in repentanceAt a former British castle where thousands of enslaved Africans were held before being shipped across the Atlantic, the archbishop of Canterbury expressed “lament” for the Church of England’s involvement in transatlantic chattel slavery and reaffirmed her commitment to a controversial",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/news/2026/jul/31/archbishop-of-canterbury-support-pledge-helping-communities-enslavement",
-        "seendate": "2026-07-31T11:38:46.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "economy": [
       {
-        "title": "Washington Post’s opinion editor resigns after just one year in role",
-        "summary": "Adam O’Neal did not give reason for his departure at end of August in another major shakeup at US publicationThe Washington Post had realized a state of relative calm in the five months since the paper was turned upside down in February, when nearly half the newsroom was laid off and its unpopular publisher, Will Lewis, <a h",
+        "title": "Yen hits three-month high after Trump helps prop up currency",
+        "summary": "US and Japanese governments confirm they carried out a rare joint intervention late last weekWhy has Trump stepped in to prop up Japan’s currency?Business live –",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/media/2026/jul/31/washington-post-opinion-editor-resigns-adam-oneal",
-        "seendate": "2026-07-31T17:24:42.000Z",
+        "url": "https://www.theguardian.com/business/2026/aug/03/yen-trump-currency-us-japan",
+        "seendate": "2026-08-03T08:34:06.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘It ain’t the same’: inside the bitter battle to free Ben & Jerry’s",
-        "summary": "Ben Cohen says his ice-cream company has been silenced by corporate ownership – and a boycott of Magnum brands could force a saleBen &amp; Jerry’s ice-cream in the tub is still great, but the brand’s newest chocolate-covered ice-cream bar on a stick?“It ain’t the same,” Ben Cohen, the company co-founder, told the Guardian. Sure, the chocolate coating is still thick enough, but the ice cream itself is",
+        "title": "Oil prices plunge and Europe’s markets rally after Trump calls off Iran strikes",
+        "summary": "Brent crude drops by 5% after US president claimed talks on Middle East peace deal would resumeCrude oil prices fell sharply while stocks and government bonds rallied on Monday after Donald Trump cancelled planned strikes on Iran and claimed peace talks were about to resume.Brent crude was trading 5% lower at $83.47 a barrel by lunchtime, after falling as much as 7.3% to $81.55 a barrel. US West Texa",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/jul/31/ben-jerrys-ice-cream-magnum-boycott",
-        "seendate": "2026-07-31T18:48:22.000Z",
+        "url": "https://www.theguardian.com/business/2026/aug/03/oil-prices-fall-europe-stock-markets-donald-trump-iran-us-brent-crude",
+        "seendate": "2026-08-03T12:10:59.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "BTS are back: return of K-pop superstars sparks US economic boom",
-        "summary": "Cities in North America hosting 14 concerts in August and September – and economic impact is set to be significantBTS’s “Army” fanbase is descending on New York this weekend as the K-pop supergroup continues their first world tour after a four-year hiatus, sparking an economic boom wherever they land.After shows in South Korea and Europe, the group are back in North America, with 14 shows in six US c",
+        "title": "‘A reminder of why we have unions’: Matewan writer and director on the film’s lessons for the labor movement",
+        "summary": "John Sayles’s 1987 film, which dramatizes a 1920 labor conflict, shows how class solidarity can overcome prejudiceWhen John Sayles, a student at Williams College taking time off from his summer factory job, was hitchhiking during the summer of 1970 in West Virginia, it",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/music/2026/jul/31/bts-k-pop-economic-boom",
-        "seendate": "2026-07-31T12:00:12.000Z",
+        "url": "https://www.theguardian.com/us-news/2026/aug/03/john-sayles-matewan-unions",
+        "seendate": "2026-08-03T12:00:19.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "ABC argues that early license review by FCC is ‘retaliation’ for network’s coverage",
-        "summary": "In filing, network’s lawyers urged FCC to reject petitions to deny license renewals for eight ABC-owned local stationsABC has pushed back aggressively against the Federal Communications Commission (FCC) for putting the network under an expedited license renewal process for eight local television stations it owns, charging in a lengthy filing that the process is payback for the network’s editorial decision-m",
+        "title": "AstraZeneca shares fall 8.9% over merger talks with US cancer drug firm",
+        "summary": "Proposed $400bn tie-up with Bristol Myers Squibb would create world’s fourth-largest drugmaker but analysts question rationale More than £17bn was wiped off the value of Britain’s biggest drugmaker, AstraZeneca, on Monday after a report that it was in discussions to take over its US rival Bristol Myers Squibb in a deal that would create a near $400bn (£300bn) pharmaceutical group.AstraZeneca, run by",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/media/2026/jul/30/abc-fcc-license-renewal-tv-stations",
-        "seendate": "2026-07-30T17:06:24.000Z",
+        "url": "https://www.theguardian.com/business/2026/aug/03/astrazeneca-talks-bristol-myers-squibb-merger-pharmaceuticals",
+        "seendate": "2026-08-03T16:32:09.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "New survey reveals fears of US farm workers amid Trump’s immigration raids",
-        "summary": "Vast majority of farm workers say raids and deportations have affected their jobs and 61% report shopping lessSign up for the B",
+        "title": "California announces minimum wage increase as governor taunts Trump",
+        "summary": "Gavin Newsom says new pay floor of $17.40, set to become highest of any US state, will go into effect on 1 JanuaryGovernor Gavin Newsom of California announced that the state’s minimum wage will rise to $17.40 next year, a pay floor set to become the highest of any US state.The pay bump will go into effect starting 1 January, Newsom <a hr",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jul/30/farm-workers-survey-trump-immigration",
-        "seendate": "2026-07-30T19:46:05.000Z",
+        "url": "https://www.theguardian.com/us-news/2026/aug/01/california-minimum-wage-increase",
+        "seendate": "2026-08-01T20:39:20.000Z",
         "domain": "theguardian.com"
       }
     ],
     "literature": [
+      {
+        "title": "The August Coup by Robert Service review – the drink-soaked collapse of the Soviet Union",
+        "summary": "This brilliant account of attempts by the old guard to take back control captures the ludicrousness of it all beautifullyMarxist-Leninist rule in Russia lasted 74 years, and in August 1991 it effectively collapsed in just three days: clear evidence of how hollowed out it had become. In the period that followed, Russia tried parliamentary democracy and unalloyed capitalism, then sank back into autocracy. Now",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/aug/03/the-august-coup-by-robert-service-review-the-drink-soaked-collapse-of-the-soviet-union",
+        "seendate": "2026-08-03T06:00:43.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Exhibition by Alex Hyde review – an elegiac love letter to the YBA era",
+        "summary": "London’s 90s art scene forms the backdrop to this tale of a complex relationship between two artists whose identities become entangled in their creative collaborationFor all the wrong reasons, Damien Hirst’s Shark (The Physical Impossibility of Death in the Mind of Someone Living) has a claim to being the most prescient British artwork of the last half-century: a grim parable of neoliberalism. In 1991, it w",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/aug/03/exhibition-by-alex-hyde-review-an-elegiac-love-letter-to-the-yba-era",
+        "seendate": "2026-08-03T08:00:45.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Could a couch-to-5k for books get you back into reading?",
         "summary": "With smartphones stealing our attention, we’re picking up fewer books than ever. A novelist shares her eight-week scheme to get you back into the habitDo you feel that it’s harder to read than it used to be? Not harder to read emails, texts and social media posts, of course. We’re reading those all day long. Harder to sit down and lose yourself in a book? How long is it since you even sat down with a weeken",
@@ -152,152 +168,144 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/books/2026/jul/31/what-were-reading-writers-and-readers-on-the-books-they-enjoyed-in-july",
         "seendate": "2026-07-31T11:00:11.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Tom Gauld on how to be a top reader – cartoon",
-        "summary": "Continue reading...",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/picture/2026/aug/02/tom-gauld-on-how-to-be-a-top-reader-cartoon",
-        "seendate": "2026-08-02T15:00:26.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "$2m crime novel deal collapses amid questions over AI use",
-        "summary": "Agents withdraw Jerry Falade’s hotly anticipated debut after saying they can no longer authenticate ‘how the manuscript evolved’A high-profile publishing deal for a debut crime novel has collapsed after doubts emerged over whether artificial intelligence played a role in writing it.The hotly anticipated manuscript Call Me, I’ll Hide the Body, by Jerry Falade, was withdrawn from sale by its agent desp",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/jul/31/crime-novel-deal-collapses-questions-ai-jerry-falade-call-me-ill-hide-the-body",
-        "seendate": "2026-07-31T16:45:04.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "entertainment": [
       {
-        "title": "Spider - Man , Odyssey Make Box Office History",
-        "summary": "&#x27;Spider-Man: Brand New Day&#x27; earns $355M in North America, second only to &#x27;Endgame.&#x27; It sets records with $72M in previews. Christopher Nolan&#x27;s &#x27;The Odyssey&#x27; adds $51M, making this weekend the biggest in box office history with $430M total.",
-        "source": "wiod.iheart.com",
-        "url": "https://wiod.iheart.com/content/2026-08-02-spider-man-odyssey-make-box-office-history/",
-        "seendate": "20260802T233000Z",
-        "domain": "wiod.iheart.com"
+        "title": "Spider-Man: Brand New Day: new characters, new flaws, new tech and brain-exploding future consequences – discuss with spoilers",
+        "summary": "Now you’ve seen the new Spidey, let’s talk about new baddies (or are they goodies?), X-Men alumni, painful relationships and a potential Spidey-pig • This article contains spoilers for Spider-Man: Brand New DayThere was a danger that Spider",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/film/2026/aug/03/spider-man-brand-new-day-new-characters-new-flaws-new-tech-and-brain-exploding-future-consequences-discuss-with-spoilers",
+        "seendate": "2026-08-03T14:28:05.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Ariana Grande  taking a step back from visibility  ",
-        "summary": "Three-time Grammy winner Ariana Grande is retreating from the spotlight after relentless public scrutiny about the Wicked star&#x27;s...",
-        "source": "dailyadvertiser.com.au",
-        "url": "https://www.dailyadvertiser.com.au/story/9322406/ariana-grande-taking-a-step-back-from-visibility/",
-        "seendate": "20260802T233000Z",
-        "domain": "dailyadvertiser.com.au"
+        "title": "Justin Hardy, director of Wicker Man sequel, dies three weeks before its premiere",
+        "summary": "Hardy, a Bafta-nominated film-maker, has died aged 61, having completed a sequel to the cult 1973 folk-horror made by his father Robin HardyBritish film-maker Justin Hardy, the son of The Wicker Man director Robin Hardy, has died aged 61. He had recently completed Wrath of the Gods, a second sequel to the fondly regarded folk-horror film, inspired by a story idea discovered in his father’s archives.I",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/film/2026/aug/03/justin-hardy-director-wicker-man-sequel-dies-before-premiere",
+        "seendate": "2026-08-03T15:54:06.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Charli XCX Celebrates Her 34th Birthday With a Lollapalooza Style Streak",
-        "summary": "And a whole streak of Lollapalooza style",
-        "source": "harpersbazaar.com",
-        "url": "https://www.harpersbazaar.com/celebrity/latest/a73327696/charli-xcx-celebrates-34-birthday-striped-pantless-look-lollapalooza-party-photos/",
-        "seendate": "20260802T233000Z",
-        "domain": "harpersbazaar.com"
+        "title": "John Oliver on police surveillance: ‘Big Brother on steroids’",
+        "summary": "The host tore into ‘wildly invasive’ cameras, microphones and license plate readers that police use to track AmericansJohn Oliver discussed the tools that police are using to keep track of Americans on the latest episode of Last Week Tonight.In recent years, the use of surveillance technology has exploded among local police forces due",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/aug/03/john-oliver-police-surveillance-cameras",
+        "seendate": "2026-08-03T15:22:36.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Martha Reeves National Anthem Performance Goes Viral at Women Pro Baseball League Debut",
-        "summary": "The Women&#039;s Pro Baseball League officially made history with its inaugural game Saturday ... but it wasn&#039;t just the action on the field getting people talking as Motown icon Martha Reeves took center stage.",
-        "source": "tmz.com",
-        "url": "https://www.tmz.com/2026/08/02/martha-reeves-viral-national-anthem-performance/",
-        "seendate": "20260802T233000Z",
-        "domain": "tmz.com"
+        "title": "‘Sade wasn’t particularly friendly’: the stories behind music’s most iconic portraits – in pictures",
+        "summary": "In a career spanning six decades, photographer Gered Mankowitz has nurtured trusting relationships with many of the twentieth century’s defining artists. As he celebrates his 80th birthday, Mankowitz opens up about the stories behind iconic images of Elton John, Jimi Hendrix, Annie Lennox and others that have have become indelible parts of pop culture history. These images are taken from <a href=\"https://www.accar",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/artanddesign/gallery/2026/aug/03/gered-mankowitz-gallery-interview-eurythmics-revenge-young-sade-diamond-life-wham-rolling-stones",
+        "seendate": "2026-08-03T10:00:15.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Music , dancing and fireworks as Glasgow brings Commonwealth Games to a close",
-        "summary": "The 2026 Commonwealth Games have been brought to an end in spectacular fashion with music, dancing and a fireworks display over the River Clyde. Thousands of spectators packed into the Glasgow Hydro on Sunday evening for the closing ceremony, which brought down the curtain on 11 days of sporting action at venues across the city. The event also marked the handover to the Indian city of Amdavad, which will host the Gam",
-        "source": "aol.co.uk",
-        "url": "https://www.aol.co.uk/articles/music-dancing-fireworks-glasgow-brings-223540000.html",
-        "seendate": "20260802T233000Z",
-        "domain": "aol.co.uk"
+        "title": "‘A gentle poetry in the everyday’: why The Straight Story is my feelgood movie",
+        "summary": "The latest in our ongoing series of writers picking their most beloved comfort films is a tribute to David Lynch’s gentlest movieWhat was your gateway into the Lynchian empire? Maybe it was the elliptical horror of Mulholland Drive, with its labyrinth of dream and deceit. Perhaps it was the small-town banality of Twin Peaks or Blue Velvet, the gee-whiz vernacular and cherry-pie dispositions hiding a malice",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/film/2026/aug/03/my-feelgood-movie-the-straight-story-david-lynch",
+        "seendate": "2026-08-03T09:00:46.000Z",
+        "domain": "theguardian.com"
       }
     ],
     "f1": [
       {
-        "title": "Oliver Bearman responds to Aston Martin rumours with clear Ferrari message",
-        "summary": "Haas Formula 1 driver Oliver Bearman has reaffirmed his commitment to the Ferrari driver programme, dismissing the prospect of a switch to Aston Martin in the near future. Speaking on the F1 Beyond The Grid podcast, the 21-year-old driver addressed the increasingly fluid driver market and his own long-term future. Despite an impressive start to his full-time F1 career with Haas ...<a class='more' hre",
+        "title": "F1 2026 qualifying head-to-head at summer break",
+        "summary": "After every F1 qualifying session, Motorsport publishes each team's qualifying record in terms of team-mate battles.This record is based exclusively on qualifying results so that grid penalties don't alter the statistics.When a driver can't put in a representative lap time due to a technical issue or an incident, this will be mentioned in the table.Three duels under the ...<a class='more' href='h",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/oliver-bearman-responds-to-aston-martin-rumours-with-clear-ferrari-message/10843713/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-02T20:00:04.000Z",
+        "url": "https://www.motorsport.com/f1/news/f1-2026-qualifying-head-to-head-at-summer-break/10841661/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-03T15:30:03.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "“I went back to the car and cried” – Esteban Ocon opens up about his unexpected year on F1 sidelines",
-        "summary": "Esteban Ocon has opened up about the 2019 Formula 1 season, which he spent as a Mercedes reserve driver following an unfavourable chain of events.Back in July 2018, Ocon was riding a wave of momentum. In his second full F1 campaign, the Mercedes protege was narrowly leading seasoned Force India team-mate Sergio Perez in the drivers’ standings, and had just outqualified him seven times in a ...<a class='m",
+        "title": "McLaren victory leaves 2026 F1 title race \"far from over\", says Martin Brundle",
+        "summary": "Sky Sports F1 pundit and former Formula 1 driver Martin Brundle believes the 2026 championship remains \"far from over\" following McLaren's Hungarian Grand Prix victory.Writing in his post-race Sky Sports F1 column ahead of the August summer break, the former driver analysed the shift in the competitive order. McLaren's latest development package yielded the Woking outfit's 14th win at the ...<a class='mo",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/i-went-back-to-the-car-and-cried-esteban-ocon-opens-up-about-his-unexpected-year-on-f1-sidelines/10842997/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-02T13:33:39.000Z",
+        "url": "https://www.motorsport.com/f1/news/mclaren-victory-leaves-2026-f1-title-race-far-from-over-says-martin-brundle/10843926/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-03T15:12:31.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Oliver Bearman admits Lewis Hamilton resurgence complicates Ferrari F1 dream",
-        "summary": "Haas Formula 1 driver Oliver Bearman has admitted that Lewis Hamilton's return to race-winning form with Ferrari has complicated his own aspirations of securing a seat at the Maranello outfit. After an impressive debut at the 2024 Saudi Arabian Grand Prix, when he stood in for Carlos Sainz at Ferrari, Bearman secured a full-time seat at Haas in 2025.Following a stellar rookie campaign ...<a class='mo",
+        "title": "F1 legends weigh in on Max Verstappen's Red Bull future",
+        "summary": "Max Verstappen's future at Red Bull remains a popular topic as the Dutchman heads into the summer break sixth in the drivers' standings, 110 points behind championship leader Kimi Antonelli.With Red Bull dealing with the added challenge of its new engine programme this season, and some high-profile exits over recent years, a panel of Formula 1 legends has weighed in on whether they believe the ...<a clas",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/oliver-bearman-admits-lewis-hamilton-resurgence-complicates-ferrari-f1-dream/10843706/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-02T12:58:46.000Z",
+        "url": "https://www.motorsport.com/f1/news/f1-legends-weigh-in-on-max-verstappens-red-bull-future/10843918/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-03T14:38:57.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "McLaren \"ready to challenge\" Mercedes after upgrade, says Sky F1 commentator",
-        "summary": "Sky Sports Formula 1 lead commentator David Croft believes McLaren's recent upgrade package has positioned the team to mount a genuine challenge against championship leader Mercedes over the remainder of the 2026 season. McLaren arrived at the Hungarian Grand Prix seeking to close the gap to the Brackley outfit following a demanding opening half of the season. Lando Norris subsequently ...<a class='more'",
+        "title": "Pierre Gasly: Alpine's Dutch GP upgrades \"critical\" for F1 2026 chances",
+        "summary": "Pierre Gasly reckons Alpine’s upgrades at the forthcoming Dutch Grand Prix are “critical” for it to maintain pace in the Formula 1 midfield as it has been outdeveloped by rivals.The French marque started the 2026 campaign as the leading midfield team, sitting fifth in the standings after round six in Monaco where Gasly claimed a contentious podium.Read Also:Formula ...<a class='more' href",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/mclaren-ready-to-challenge-mercedes-after-upgrade-says-sky-f1-commentator/10843408/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-02T12:00:05.000Z",
+        "url": "https://www.motorsport.com/f1/news/pierre-gasly-alpines-dutch-gp-upgrades-critical-for-f1-2026-chances/10843276/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-03T12:10:17.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Former Haas F1 boss calls out FIA over 'lenient' Carlos Sainz Hungarian GP penalty",
-        "summary": "Former Haas Formula 1 team principal Guenther Steiner has argued that Carlos Sainz should have received a harsher penalty for his collision with Oscar Piastri at the Hungarian Grand Prix.During the race at the Hungaroring, Sainz made contact with Piastri's McLaren while being lapped. Piastri had pitted from the lead of the race, but Sainz failed to yield the position as the McLaren driver made ...<a clas",
+        "title": "Damon Hill compares George Russell-Kimi Antonelli battle to 1996 F1 rivalry",
+        "summary": "1996 Formula 1 champion Damon Hill has likened the current Mercedes intra-team battle between George Russell and Kimi Antonelli to his own experience of facing a fiercely competitive newcomer in Jacques Villeneuve.With the 2026 F1 season well underway, the driver dynamic at the Brackley outfit continues to be a major talking point. Following his rookie campaign last year, having stepped into ...<a class=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/former-haas-f1-boss-calls-out-fia-over-lenient-carlos-sainz-hungarian-gp-penalty/10843692/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-02T11:59:19.000Z",
+        "url": "https://www.motorsport.com/f1/news/damon-hill-compares-george-russell-kimi-antonelli-battle-to-1996-f1-rivalry/10843865/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-03T11:41:04.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "One day Owlcat will make an RPG that's perfect out of the box, but 3 years after launch, it's time to get disgustingly into Warhammer 40K: Rogue Trader",
-        "summary": "I love builds.",
+        "title": "Dave Bautista reportedly 'in talks' to take over the role of Kratos in Amazon's God of War series",
+        "summary": "Ryan Hurst had to leave the show after a severe on-set injury.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/rpg/one-day-owlcat-will-make-an-rpg-thats-perfect-out-of-the-box-but-3-years-after-launch-its-time-to-get-disgustingly-into-warhammer-40k-rogue-trader/",
-        "seendate": "2026-08-02T20:26:02.000Z",
+        "url": "https://www.pcgamer.com/movies-tv/dave-bautista-reportedly-in-talks-to-take-over-the-role-of-kratos-in-amazons-god-of-war-series/",
+        "seendate": "2026-08-03T22:51:08.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "American Truck Simulator is headed to North Dakota in its latest DLC",
-        "summary": "Next stop: the Peace Garden State.",
+        "title": "'Wait for me, my Czech friend': Japanese dev adds Czech localization just for the one Steam user who wishlisted his game in the Czech Republic",
+        "summary": "The international spirit of baseball and friendship might frown on the method, though.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/sim/american-truck-simulator-is-headed-to-north-dakota-in-its-latest-dlc/",
-        "seendate": "2026-08-02T19:35:11.000Z",
+        "url": "https://www.pcgamer.com/games/sports/wait-for-me-my-czech-friend-japanese-dev-adds-czech-localization-just-for-the-one-steam-user-who-wishlisted-his-game-in-the-czech-republic/",
+        "seendate": "2026-08-03T20:47:52.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Baldur's Gate 3 is the cheapest it's ever been to celebrate its third anniversary",
-        "summary": "Dungeons, dice, and bear sex await.",
+        "title": "Microsoft is planning to bring Xbox 360 games to PC, according to leaked documents",
+        "summary": "The feature is expected to get a \"gradual\" launch between 2027 and 2028.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-is-the-cheapest-its-ever-been-to-celebrate-its-third-anniversary/",
-        "seendate": "2026-08-02T16:13:15.000Z",
+        "url": "https://www.pcgamer.com/gaming-industry/microsoft-is-reportedly-planning-to-bring-xbox-360-games-to-pc-according-to-leaked-documents/",
+        "seendate": "2026-08-03T19:11:29.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "One of Kerbal Space Program's biggest inspirations was a promotional Flash game for Top Gear: 'That was the most similar game to KSP that I could find back then'",
-        "summary": "The creator of KSP talks us through what's on his PC, from Full Throttle to Old School Runescape.",
+        "title": "Help shape the future of PC Gamer and enter for a chance to win $200",
+        "summary": "Fill out our 15-minute survey about your gaming and reading habits, and you could be rewarded.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/one-of-kerbal-space-programs-biggest-inspirations-was-a-promotional-flash-game-for-top-gear-that-was-the-most-similar-game-to-ksp-that-i-could-find-back-then/",
-        "seendate": "2026-08-02T15:00:00.000Z",
+        "url": "https://www.pcgamer.com/gaming-industry/pc-gamer-audience-survey/",
+        "seendate": "2026-08-03T14:23:18.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Perennial early access game Project Zomboid hit a new concurrent player record after a huge map update added reworked towns, a spooky orphanage and '400 procedural basements'",
-        "summary": "The zombie survival sim has also gone up in price.",
+        "title": "Dragon's Dogma 2 will be getting an endgame hard mode difficulty in the future 'for seasoned players'",
+        "summary": "Dragon scale-ing difficulty.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/survival-crafting/perennial-early-access-game-project-zomboid-hit-a-new-concurrent-player-record-after-a-huge-map-update-added-reworked-towns-a-spooky-orphanage-and-400-procedural-basements/",
-        "seendate": "2026-08-02T13:00:00.000Z",
+        "url": "https://www.pcgamer.com/games/rpg/dragons-dogma-2-will-be-getting-an-endgame-hard-mode-difficulty-in-the-future-for-seasoned-players/",
+        "seendate": "2026-08-03T14:08:20.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
+      {
+        "title": "UK’s state investments agency hit by data breach",
+        "summary": "Security lapse leaves sensitive information and contact details of 51 government officials exposed for 40 hoursThe public body in charge of the UK’s state investments has been pushed to improve its internal security after a data breach left “high-level management information” publicly accessible for nearly two days.UK Government Investments (UKGI), the agency that manages the taxpayers’ interest in a",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/business/2026/aug/02/uk-state-investments-agency-data-breach",
+        "seendate": "2026-08-02T06:00:13.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Stock market turmoil sheds stark light on the opaque AI economy",
         "summary": "Investors scramble to make sense of a shock Chinese challenge to the dominance of western chipmakersEven for the rollercoaster world of AI, last week was particularly volatile as investors scrambled to keep up with developments that threatened the dominance of the largest western chipmakers.It began with a double whammy. On Monday, the Chinese memory chipmaker CXMT floated on the Shanghai stock marke",
@@ -329,59 +337,75 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/technology/2026/jul/31/ai-labels-to-be-compulsory-on-authentic-looking-content-under-eu-rules",
         "seendate": "2026-07-31T11:21:20.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Anthropic’s AI Claude hacked into three organizations during cybersecurity test",
-        "summary": "Company says it discovered unauthorized access during ‘proactive review’ after rival OpenAI revealed rogue agentAnthropic ⁠said on Thursday its AI Claude model hacked ⁠systems of ⁠three ​organizations during testing, days after rival OpenAI ⁠revealed a rogue agent h",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/jul/30/anthropic-ai-claude-hack",
-        "seendate": "2026-07-31T00:22:16.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "climate": [
       {
-        "title": "Integrity is good business : Why corruption avoidance creates competitive advantage",
-        "summary": "Corruption remains a major barrier to economic growth, despite decades of anti-corruption efforts. This article explores how integrity, beyond mere compliance, is becoming a crucial commercial capability and a driver of sustainable competitive advantage, especially for businesses operating in international markets.",
-        "source": "mg.co.za",
-        "url": "https://mg.co.za/thought-leader/2026-08-02-integrity-is-good-business-why-corruption-avoidance-creates-competitive-advantage/",
-        "seendate": "20260802T233000Z",
-        "domain": "mg.co.za"
+        "title": "From living roofs to rainwater harvesting: the future of sustainable homes",
+        "summary": "A new book, Homes for Our Time, by Philip Jodidio, showcases the quiet revolution in green residential architecture Continue reading...",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/artanddesign/gallery/2026/aug/03/future-sustainable-homes",
+        "seendate": "2026-08-03T14:00:20.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "River clean - up flows into data centre climate debate",
-        "summary": "A tech giant plans to rescue millions of litres of drinking water from an Australian river as debate...",
-        "source": "illawarramercury.com.au",
-        "url": "https://www.illawarramercury.com.au/story/9322361/river-clean-up-flows-into-data-centre-climate-debate/",
-        "seendate": "20260802T233000Z",
-        "domain": "illawarramercury.com.au"
+        "title": "Eastern Washington fires destroy 600 structures and force 60,000 to evacuate",
+        "summary": "Wildfires in and around Spokane have stretched ability of federal and local agencies to fight blazesWildfires in eastern Washington state forced the evacuation of 60,000 people in the Spokane area while destroying at least 600 homes, businesses and other structures, authorities said on Sunday.The fires in and around Spokane, the state",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/aug/02/eastern-washington-wildfires",
+        "seendate": "2026-08-02T23:33:08.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "10 Strongest Lanterns in DC History",
-        "summary": "Willpower. Rage. Death itself. DC",
-        "source": "screenrant.com",
-        "url": "https://screenrant.com/strongest-lanterns-dc-comics-history/",
-        "seendate": "20260802T233000Z",
-        "domain": "screenrant.com"
+        "title": "Heatwave scorching western US ups risk of hazardous fire conditions",
+        "summary": "In Oregon and Washington, low humidity and powerful winds have put officials on alert for wildfire spreadA heatwave scorching the western US region has elevated the risk of hazardous fire conditions particularly in parts of Oregon and Washington, where low humidity and powerful winds have put officials on alert for wildfire spread.The National Weather Service has forecast blistering temperatures thro",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/aug/01/heatwave-us-west-hazardous-fire-conditions",
+        "seendate": "2026-08-01T23:39:52.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Big Winners in The Soo ! | OutdoorsFIRST",
-        "summary": "Arbes and Tomasek Sweep the Soo! Presented By: Lowrance Sault Ste Marie, MI – July 27, 2026 – The Masters Walleye Circuit finished its 4th qualifier of the year in Sault Ste Marie, Michigan on the St.",
-        "source": "outdoorsfirst.com",
-        "url": "https://www.outdoorsfirst.com/article/big-winners-in-the-soo/",
-        "seendate": "20260802T233000Z",
-        "domain": "outdoorsfirst.com"
+        "title": "Democrats’ ‘climate hushing’ prompts activists to turn up the volume",
+        "summary": "Nationwide actions seek to counter view that talking about climate crisis distracts from affordability messagingThis summer, torrential rains have washed away Texas neighborhoods, dangerous heat has blanketed swaths of the country,",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/aug/01/democrats-climate-policy-hushing",
+        "seendate": "2026-08-01T12:00:53.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "City of Winter Haven Hiring Streets and Drainage Maintenance Operator I Winter Haven",
-        "summary": "City of Winter Haven - The Streets and Drainage Maintenance Operator I will work under the guidance of experienced members of the City’s Streets and Drainage Team to gain hands-on experience and training in various aspects of public works operations. This role is ideal for individuals looking to start a career in public infrastructure maintenance — Local reporting from Polk County, Florida.",
-        "source": "dailyridge.com",
-        "url": "https://dailyridge.com/2024/08/19/city-of-winter-haven-hiring-streets-and-drainage-maintenance-operator-i/",
-        "seendate": "20260802T233000Z",
-        "domain": "dailyridge.com"
+        "title": "Water cuts loom as US unveils long-awaited response to Colorado River crisis",
+        "summary": "Federal government plan outlines cuts of roughly 40% to California, Arizona and Nevada but fix is likely to be only temporaryThe US government released its anxiously awaited plan for how to manage the Colorado River crisis on Friday, which includes the potential for harsh cuts in water supplied to California, Arizona and Nevada.Under the proposal, the so-called lower basin states stand to lose up to",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/jul/31/colorado-river-water-cuts",
+        "seendate": "2026-07-31T17:38:28.000Z",
+        "domain": "theguardian.com"
       }
     ],
     "science": [
+      {
+        "title": "Artists, writers and scientists urge UK government to save Jodrell Bank Observatory",
+        "summary": "New Order and Simon Armitage among more than 100 signatories to criticise ‘foolish and shortsighted’ cutsMore than 100 artists, writers and scientists have called for the UK government to save the “world’s clearest eyes on the sky”, after funding for thenetwork of radio telescopes at Jodrell Bank Observatory",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/aug/03/jodrell-bank-observatory-artists-writers-scientists-letter",
+        "seendate": "2026-08-02T23:01:34.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "‘They are such neat, busy little folk’: the unexpected superpowers of the common woodlouse",
+        "summary": "This detritivore – known by a range of colourful names – tidies up our world and can withstand toxic pollutionRevealed: the top 10 invertebrates of the yearChucky pig. Slater. Monkey pea. Roly-poly. Boat-builder. Butchy boy. Cheeselog. Hobbling Andrew. Wood pig.",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/environment/2026/aug/03/common-woodlouse-invertebrate-of-the-year",
+        "seendate": "2026-08-03T11:00:16.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Starwatch: Mercury to reach farthest point from the sun",
+        "summary": "Morning sky offers rare opportunity for a glimpse at solar system’s innermost worldThis week offers one of the better opportunities of the year to catch a glimpse of the solar system’s innermost world. Trapped in its small orbit, Mercury never strays far from the sun, meaning it is usually lost to the light of dawn or dusk. On Sunday, however, the planet reached its greatest western elongation, meaning it a",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/aug/03/starwatch-mercury-glimpse-of-solar-system-inner-world",
+        "seendate": "2026-08-03T05:00:41.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Drifting SpaceX rocket heading for accidental collision with moon",
         "summary": "Scientists and sky gazers will watch intently as rocket’s upper stage slams into lunar surface on WednesdayA drifting SpaceX rocket is on a collision course with the moon after launching a pair of lunar landers more than a year ago.The rocket’s upper stage will unintentionally slam into the",
@@ -396,30 +420,6 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/world/2026/jul/31/wildfires-extreme-weather-europe-spain-france-climate-crisis-analysis",
         "seendate": "2026-07-31T07:00:07.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Drones offer alternative to balloons for weather research",
-        "summary": "Pre-programmed flights gather data at different altitudes then return to bases to recharge and downloadWeather happens in the boundary layer, the atmosphere from ground level to a few thousand metres, but this can be difficult to study in detail: weather stations are too low, and aircraft are expensive. Instrumented weather balloons are the traditional solution, and thousands are released every day. But the",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/news/2026/jul/31/weatherwatch-drone-base-station-offers-alternative-weather-balloons",
-        "seendate": "2026-07-31T05:00:04.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Excessive time spent online linked to stress and worse mood – study",
-        "summary": "German study surveyed adults who engage in gaming, pornography and online shoppingSpending excessive time online is associated with higher stress levels, worse mood, and greater neglect of other activities, according to analysis.The new study by academics at the University of Duisburg-Essen published in the journal PLOS One, surveyed 900 German adults in 2025 who",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/jul/29/excessive-time-spent-online-linked-to-stress-and-worse-mood-study",
-        "seendate": "2026-07-29T18:05:59.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Repeated use of saunas could help people cope better in heatwaves, scientists say",
-        "summary": "Growing number of studies assessing whether heat training can help people prepare for scorching temperaturesEven as summer temperatures soar, the sauna trend is booming, with some venues <a href=\"https://www.community-sauna.co.uk/blog/sauna-in-summer\"",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/society/2026/jul/29/repeated-use-of-saunas-could-help-people-cope-better-in-heatwaves-scientists-say",
-        "seendate": "2026-07-29T13:00:33.000Z",
         "domain": "theguardian.com"
       }
     ]
