@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T23:23:29.014Z",
+  "generatedAt": "2026-08-08T23:17:05.148Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
@@ -130,6 +130,14 @@
     ],
     "literature": [
       {
+        "title": "‘I hate what AI is doing to the minds and happiness of the young’: Katherine Rundell on the view from the classroom",
+        "summary": "Education is at a crossroads, argues the author and academic. Should we embrace new technology in the name of efficiency, or is it time to fight back?If you set out to design from scratch a tool to facilitate authoritarian rule, it would look exactly like AI. You would cherish it for its ability to destabilise our shared reality and its creation of disinformation on a scale unprecedented in human history. W",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/ng-interactive/2026/aug/08/i-hate-what-ai-is-doing-to-the-minds-and-happiness-of-the-young-katherine-rundell-on-the-view-from-the-classroom",
+        "seendate": "2026-08-08T08:00:41.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "It’s not just Homer: the new generation of poets enjoying epic success",
         "summary": "Christopher Nolan’s film has made the Odyssey a bestselling book again, but a slew of new poets are breaking sales records, and have more in common with the ancient Greek than you might expectThe death of poetry – much anticipated, much prematurely mourned – has been put off again, this time by the Odyssey. Thanks to Christopher Nolan’s film, sales of Homer’s epic rose 1,400% in the weeks around release – a",
         "source": "theguardian.com",
@@ -159,14 +167,6 @@
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/education/2026/aug/06/jason-arday-claim-memoir-publisher-simon-and-schuster-cambridge",
         "seendate": "2026-08-06T13:29:51.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Sky City by Jacqueline Crooks review – an ambitious, lyrical portrait of trauma",
-        "summary": "A young woman is haunted by her childhood in this forcefully imaginative and unapologetically bleak novel from the author of Fire RushThe world of Sky City never quite settles beneath your feet. The action of Jacqueline Crooks’s second novel unfolds in a recognisable 1990s London, yet everything seems subtly untethered from reality: a council estate suspended above the city, voices drifting in and out throu",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/aug/06/sky-city-by-jacqueline-crooks-review-an-ambitious-lyrical-portrait-of-trauma",
-        "seendate": "2026-08-06T06:00:41.000Z",
         "domain": "theguardian.com"
       }
     ],
@@ -214,90 +214,114 @@
     ],
     "f1": [
       {
-        "title": "Report: Red Bull finds Gianpiero Lambiase F1 replacement",
-        "summary": "Red Bull is reportedly preparing to recruit Aston Martin's Tom McCullough as its new head of race engineering, replacing Gianpiero Lambiase, who is set to move to McLaren.According to a report by German publication BILD, McCullough has been identified as the person to take over the management of Red Bull's trackside engineering operations.The report states, \"McCullough would be ...<a class='more' hre",
+        "title": "Lewis Hamilton shares first photos with new puppy Halo",
+        "summary": "Seven-time Formula 1 champion Lewis Hamilton has shared his first photos with the newest member of his family, a golden retriever puppy named Halo.After a demanding first half of the 2026 season, in which Hamilton secured his maiden grand prix victory with Ferrari at the Barcelona-Catalunya Grand Prix and a string of podiums, the Briton is taking the opportunity to rest and recharge with a new ...<a clas",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/red-bull-reportedly-finds-gianpiero-lambiase-f1-replacement/10844808/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-07T22:14:28.000Z",
+        "url": "https://www.motorsport.com/f1/news/lewis-hamilton-shares-first-photos-with-new-puppy-halo/10845015/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-08T14:27:07.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Report: Sergio Perez's management in Williams talks as Carlos Sainz's future remains unclear",
-        "summary": "Sergio Perez may have returned to Formula 1 with Cadillac, but according to Auto Sport Web, his management is already assessing the opportunities across the grid. A report from the Japanese outlet states that Perez's representatives have already opened discussions with Williams about a potential seat in 2027 - contingent on Carlos Sainz not being there to fill it.The Spaniard's contract at ...<a class='m",
+        "title": "Isack Hadjar explains Red Bull \"culture shock\" after Racing Bulls move",
+        "summary": "Isack Hadjar has described his graduation from Racing Bulls to the senior Red Bull team as a \"culture shock\", though the 21-year-old insists his years in the junior programme made the transition feel natural.Hadjar stepped up to partner four-time Formula 1 champion Max Verstappen at Red Bull for the 2026 season following his rookie year with Racing Bulls. While both operations fall under the ...<a class=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/sergio-perezs-management-in-williams-talks-as-carlos-sainzs-future-remains-unclear-report/10844804/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-07T21:16:12.000Z",
+        "url": "https://www.motorsport.com/f1/news/isack-hadjar-explains-red-bull-culture-shock-after-racing-bulls-move/10845005/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-08T13:47:53.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Mattia Binotto addresses Carlos Sainz and Oscar Piastri Audi F1 rumours",
-        "summary": "Audi Formula 1 boss Mattia Binotto has addressed recent paddock speculation linking Carlos Sainz and Oscar Piastri to the German manufacturer, insisting he is entirely satisfied with his current driver pairing of Nico Hulkenberg and Gabriel Bortoleto.Sainz held serious discussions with Audi throughout 2024 as he sought a new seat following Ferrari's signing of seven-time champion Lewis ...<a class='more'",
+        "title": "Ollie Bearman opens up on emotional Ayrton Senna Lotus F1 drive: \"Very powerful moment\"",
+        "summary": "Haas Formula 1 driver Oliver Bearman has opened up on his deeply emotional experience driving Ayrton Senna's 1985 race-winning Lotus, admitting the moment moved him to tears.In a recent appearance on the F1 Beyond The Grid podcast, Bearman detailed his unforgettable run in Senna's iconic Lotus 97T at Silverstone. The 21-year-old Briton drove the exact chassis in which the three-time champion ...<a class=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/mattia-binotto-addresses-carlos-sainz-and-oscar-piastri-audi-f1-rumours/10844792/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-07T19:06:47.000Z",
+        "url": "https://www.motorsport.com/f1/news/ollie-bearman-opens-up-on-emotional-ayrton-senna-lotus-f1-drive-very-powerful-moment/10844978/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-08T12:47:28.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "FIA reveals ambitious target to make F1 cars another 80kg lighter",
-        "summary": "When the 2026 Formula 1 rules were introduced, the FIA frequently spoke about the so-called \"nimble car concept\".The machinery was supposed to become smaller and lighter, although it has to be said that the changes are still relatively marginal. The wheelbase is 20cm shorter this year, while the new cars are also 10cm narrower.The minimum weight has been set at 768kg, a reduction of 32kg ...<a class=",
+        "title": "\"Everyone was happy except him\" – Franco Colapinto shares telling Flavio Briatore anecdote",
+        "summary": "After an extremely difficult 2025 season, Alpine is once again fighting for the 'best of the rest' title this year – in other words, to lead Formula 1's midfield behind the four top teams. But the Enstone-based team's ambitions go further than that, and that is certainly true of Flavio Briatore, the flamboyant executive advisor effectively running the outfit.As is well known, the now ...<a class='more' h",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/fia-reveals-ambitious-target-to-make-f1-cars-another-80kg-lighter/10844708/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-07T14:51:12.000Z",
+        "url": "https://www.motorsport.com/f1/news/everyone-was-happy-except-him-franco-colapinto-shares-telling-flavio-briatore-anecdote/10844939/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-08T11:11:19.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Oscar Piastri's new merchandise collection earns positive fan reaction",
-        "summary": "McLaren Formula 1 driver Oscar Piastri has launched a new line of personal merchandise, titled the 'World Circuit' collection. The Australian driver's official website unveiled the first phase of the new apparel line this morning. Marketed as a tribute to the global nature of the F1 calendar, the line is described as encompassing \"a season's worth of destinations, in one collection - ...<a class='more' h",
+        "title": "James Vowles reveals Williams F1 cost cap struggle amid facility overhaul",
+        "summary": "Williams team principal James Vowles has revealed that Formula 1's financial cost cap is forcing the Grove outfit to divert resources away from current car development to urgently modernise its outdated facilities.Following a bruising start to the 2026 campaign, compromised by an overweight and delayed car over the winter, Vowles admitted the team was \"very exposed\" by underlying ...<a class='more' href=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/oscar-piastris-new-merchandise-collection-earns-positive-fan-reaction/10844770/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-07T14:50:54.000Z",
+        "url": "https://www.motorsport.com/f1/news/james-vowles-reveals-williams-f1-cost-cap-struggle-amid-facility-overhaul/10844934/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-08T10:38:49.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "FromSoftware sleuth unearths earliest footage of Demon's Souls to date: A prototype with a first person camera mode",
-        "summary": "Demon's Field.",
+        "title": "id co-founder John Carmack revisits Doom at QuakeCon: 'Still a great game after all these years!'",
+        "summary": "Not a controversial opinion, by any means.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/action/fromsoftware-sleuth-unearths-earliest-footage-of-demons-souls-to-date-a-prototype-with-a-first-person-camera-mode/",
-        "seendate": "2026-08-07T23:06:12.000Z",
+        "url": "https://www.pcgamer.com/games/fps/id-co-founder-john-carmack-revisits-doom-at-quakecon-still-a-great-game-after-all-these-years/",
+        "seendate": "2026-08-08T19:08:08.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "From ancient Buddhism, to iconic manga hair, to Keanu Reeves: a PC Gamer Causality Chain™",
-        "summary": "Would Xuanzang have liked John Wick?",
+        "title": "Bethesda 40th anniversary sale knocks 50% off Doom: The Dark Ages - Revelations just a month after launch",
+        "summary": "The whole catalogue is discounted, but this one really stood out to me.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/from-ancient-buddhism-to-iconic-manga-hair-to-keanu-reeves-a-pc-gamer-causality-chaintm/",
-        "seendate": "2026-08-07T22:11:11.000Z",
+        "url": "https://www.pcgamer.com/games/fps/bethesda-40th-anniversary-sale-knocks-50-percent-off-doom-the-dark-ages-revelations-just-a-month-after-launch/",
+        "seendate": "2026-08-08T18:30:55.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "BioWare veteran says Baldur's Gate 3 was such a great sequel because it didn't try to be too much like Baldur's Gate 2",
-        "summary": "Mark Darrah thinks Larian succeeded because it wasn't afraid to do its own thing.",
+        "title": "WoW developers reflect on Midnight's first season—a world without AddOns, task overload, and Prey",
+        "summary": "Curse of Ul'atek comes out next week, but how has Midnight's first season gone in the eyes of its devs?",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/baldurs-gate/bioware-veteran-says-baldurs-gate-3-was-such-a-great-sequel-because-it-didnt-try-to-be-too-much-like-baldurs-gate-2/",
-        "seendate": "2026-08-07T21:59:51.000Z",
+        "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-developers-reflect-on-midnights-first-season-a-world-without-addons-task-overload-and-prey/",
+        "seendate": "2026-08-08T17:00:00.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Take-Two CEO says he expects the games industry to be in 'commercial streaming mode within 3 years,' which is great news if you hate owning things",
-        "summary": "Rockstar's parent company believes cloud gaming will grow its customer base even as hardware prices rise.",
+        "title": "Forget Quake, Worms: The Director's Cut just got a free expansion for the series' 30th anniversary",
+        "summary": "Creator Andy Davidson hopes it gives the game \"a new lease on life.\"",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/take-two-ceo-says-he-expects-the-games-industry-to-be-in-commercial-streaming-mode-within-3-years-which-is-great-news-if-you-hate-owning-things/",
-        "seendate": "2026-08-07T20:05:13.000Z",
+        "url": "https://www.pcgamer.com/games/strategy/forget-quake-worms-the-directors-cut-just-got-a-free-expansion-for-the-series-30th-anniversary/",
+        "seendate": "2026-08-08T16:00:29.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Big Walk patch addresses voice volume complaints with restraint: 'We consider it an important part of the game's design that you can only hear players who are close to you'",
-        "summary": "A new update \"makes quiet voices louder overall,\" but doesn't let you hear players from farther away.",
+        "title": "Stop waiting for the Game of Thrones CRPG of your dreams and settle for the pleasant eurojank compromise instead",
+        "summary": "It's rough, dated and still probably one of the better GoT games.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/puzzle/big-walk-patch-addresses-voice-volume-complaints-with-restraint-we-consider-it-an-important-part-of-the-games-design-that-you-can-only-hear-players-who-are-close-to-you/",
-        "seendate": "2026-08-07T18:55:09.000Z",
+        "url": "https://www.pcgamer.com/games/rpg/stop-waiting-for-the-game-of-thrones-crpg-of-your-dreams-and-settle-for-the-pleasant-eurojank-compromise-instead/",
+        "seendate": "2026-08-08T16:00:00.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
+      {
+        "title": "Rising number of UK children report seeing explicit deepfakes of themselves",
+        "summary": "Exclusive: anonymous flagging service says cases have surged, as watchdog says AI is making sexualised or ‘nudified’ content easier to produceChildren in the UK have reported a surge in explicit deepfake images featuring their likenesses, as a safety watchdog warned AI is making such content easier to produce.The Report Remove service, whi",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/aug/08/uk-children-explicit-deepfake-images-ai",
+        "seendate": "2026-08-08T07:00:39.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Google DeepMind enters a new era as co-founder Demis Hassabis shifts AI role",
+        "summary": "Observers express concern that the division has lost its independence and commercial reality has taken overWhen Sir Demis Hassabis said AI had brought the world to a “pivotal moment in human history” last month, he knew another big change was imminent.This sh",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/aug/08/google-demis-hassabis-deepmind-shifts-role",
+        "seendate": "2026-08-08T12:00:45.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "This man was secretly snapped by someone with smartglasses. He’s not alone in calling that a violation of privacy",
+        "summary": "The backlash to what some dub ‘pervert glasses’ is growing – but people living with disabilities point out the new tech can also be life-changingGet our breaking news email, free app or daily news pod",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/aug/08/ai-smartglasses-camera-film-privacy-consent",
+        "seendate": "2026-08-07T15:00:20.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "The White House’s plan to vet potentially dangerous AI is cloaked in secrecy",
         "summary": "A Trump administration framework on AI testing leaves a lack of transparency – and plenty of open questionsAfter months of talking with tech industry leaders, the Trump administration finalized a framework this week for how it will test new artificial intelligence models for safety and cybersecurity risks. So far, the White House is keeping details of the framework private, in a blow to transparency and pot",
@@ -313,75 +337,75 @@
         "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
         "seendate": "2026-08-07T02:24:50.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Safety fears as scientists make first viruses designed by AI",
-        "summary": "Researchers say breakthrough offers hope for new medicines but also raises urgent biosecurity questionsScientists have made the first viruses designed by artificial intelligence in a milestone that raises hopes for new medicines but also concerns over how to ensure the technology remains safe.The viruses are specific kinds known as bacteriophages, which only infect bacteria and are used around the wo",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/aug/06/safety-fears-as-scientists-make-first-viruses-designed-by-ai",
-        "seendate": "2026-08-06T18:00:04.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "One of science fiction’s greatest writers warned us about a AI. Does he also hold the remedy? | Alan Finkel",
-        "summary": "What might a modern day equivalent of Isaac Asimov’s laws of robotics look like? Guided by the author, I propose the three laws of AITesla and SpaceX founder Elon Musk predicted in July that legions of AI-powered robots would dominate the physical world and that AI might not take orders from people any more. He also offered an alternative vision in which there would be agreement for a collective objective t",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/commentisfree/2026/aug/07/science-fiction-warned-us-about-an-ai-powered-dystopian-future-does-it-also-hold-the-remedy",
-        "seendate": "2026-08-07T04:00:08.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Restaurants, pubs and theatres ban Meta’s ‘spy glasses’ over privacy fears",
-        "summary": "Meta says safeguards are in place to prevent surreptitious filming, but some UK venues now prohibit them from being worn at allWhen Meta used superstar Kylie Jenner to promote its sleek new line of “spy glasses”, the social media company hoped the devices would reach the same broad acceptance that tablets and smartwatches have found before them.But those plans have hit a snag in the UK, where venues",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/aug/06/restaurants-pubs-and-theatres-ban-metas-spy-glasses-over-privacy-fears",
-        "seendate": "2026-08-06T09:00:44.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "climate": [
       {
-        "title": "Senate Passes Bill On Russia Sanctions | NewsRadio 600 WMT",
-        "summary": "The U.S. Senate passed the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026 with an 86-11 vote. The bill imposes sanctions on Russian oil buyers and expands sanctions on Iran&#x27;s sectors. It now heads to the House, facing an uncertain future.",
-        "source": "600wmtradio.iheart.com",
-        "url": "https://600wmtradio.iheart.com/content/2026-08-07-senate-passes-bill-on-russia-sanctions/",
-        "seendate": "20260807T230000Z",
-        "domain": "600wmtradio.iheart.com"
+        "title": "‘Super El Niño’ could bring wet winter and flooding to western US, climate scientists warn",
+        "summary": "Weather system tied to warming sea surface expected to intensify in fall and winter, persisting until early spring 2027El Niño, a recurring climate phenomenon marked by above-average sea surface temperatures, when changes in wind patterns allow warmer water to spread across the central and eastern equatorial Pacific, could s",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/aug/08/super-el-nino-winter-flooding",
+        "seendate": "2026-08-08T19:21:14.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "AI race : US and China speed exposes growing safety concerns | The Canberra Times",
-        "summary": "Why you should be alarmed about this latest hack.",
-        "source": "canberratimes.com.au",
-        "url": "https://www.canberratimes.com.au/story/9325847/ai-race-us-and-china-speed-exposes-growing-safety-concerns/",
-        "seendate": "20260807T230000Z",
-        "domain": "canberratimes.com.au"
+        "title": "The ornithological artist drawing 1,000 birds by hand – all for an app that wants you off your phone",
+        "summary": "The mission of the Flock app is quietly subversive: to encourage users to ditch their screens and explore the wonderful world of birdingOn a brilliantly bright afternoon in his gallery and studio in Bolinas, a small town on the northern California coast, Keith Hansen was putting the finishing touches on a watercolor of an almost improbably flamboyant painted bunting.With an ultra-fine sable brush, he",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/aug/08/birds-artist-flock-app-california",
+        "seendate": "2026-08-08T11:00:47.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Pakistan export strategy faces its moment of truth",
-        "summary": "The govt&#039;s vision of an export-led economy is both sensible and necessary. But success will depend less on ambitious targets",
-        "source": "dailythepatriot.com",
-        "url": "https://dailythepatriot.com/pakistans-export-strategy-faces-its-moment-of-truth-2/",
-        "seendate": "20260807T230000Z",
-        "domain": "dailythepatriot.com"
+        "title": "Trump faces calls for windfall tax on big oil’s profits from Iran war",
+        "summary": "US president’s complaint industry ‘making too much money’ comes after his policies boosted corporationsDonald Trump’s statement that oil companies have made “too much money” from the Iran war has angered environmentalists, who say that his policies were designed to benefit those very corporations. If he really believes his own claims, he should impose a windfall profits tax, advocates say. “Trump’s",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/aug/07/trump-windfall-tax-big-oil-iran-war",
+        "seendate": "2026-08-07T09:00:13.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Why we chose Fort Collins : A new vision for intentional living",
-        "summary": "Polestar is about much more than building energy-efficient homes. Wherever we are individually in our search for purpose, meaning, and happiness, our community environment has a tremendous power to help us – or to hold us back. A sense of c…",
-        "source": "dailycamera.com",
-        "url": "https://www.dailycamera.com/2026/08/07/why-we-chose-fort-collins-a-new-vision-for-intentional-living/",
-        "seendate": "20260807T230000Z",
-        "domain": "dailycamera.com"
+        "title": "Accused arsonist studied how to maximize Washington wildfire’s harm, police say",
+        "summary": "Court documents allege Aaron Farinacci, who faces slew of arson charges, set 25 fires in Spokane area over past yearThe 37-year-old man accused of sparking a devastating fire in Washington allegedly studied how to maximize the blaze’s destruction and was responsible for setting 25 other fires in the Spokane area over the past year, according to a court affidavit.Aaron Farinacci, who faces a slew of a",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/aug/06/washington-state-wildfires",
+        "seendate": "2026-08-06T21:24:02.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Rochester Man Charged After Hallway Assault Caught On Camera",
-        "summary": "A Rochester man is facing charges after hallway security cameras captured an alleged sexual assault at a northeast Rochester apartment. The victim had collapsed after drinking something given to her by 61-year-old Barrie Allen Skweres.",
-        "source": "y105fm.com",
-        "url": "https://y105fm.com/ixp/670/p/hallway-sex-assault-rochester-mn/",
-        "seendate": "20260807T230000Z",
-        "domain": "y105fm.com"
+        "title": "Trump administration to pay German firm $1.22bn to cut offshore wind leases",
+        "summary": "Agreement with RWE is fifth deal Trump team has made with energy companies, offering payouts to give up projectsThe German energy company RWE has reached a $1.22bn deal with the US government to relinquish its offshore wind leases and instead redirect funds towards fossil fuel investments.The agreement marks the fifth deal the Donald Trump administration <a href=\"https://www.theguardian.com/us-news/2",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/aug/06/rwe-deal-wind-leases",
+        "seendate": "2026-08-06T18:20:49.000Z",
+        "domain": "theguardian.com"
       }
     ],
     "science": [
+      {
+        "title": "One of UK’s best fossil collections sold overseas in ‘loss to the nation’",
+        "summary": "Exclusive: Lack of funds left British museums unable pay eight-figure sum for collection, which went to Abu Dhabi institutionOne of the most important collections of UK Jurassic fossils ever compiled has been sold to a museum in Abu Dhabi, the Guardian can reveal, in what British experts have described as a loss for the nation.The collection, which was amassed by a private fossil collector, consisted",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/ng-interactive/2026/aug/09/one-of-uks-best-fossil-collections-sold-overseas-in-loss-to-the-nation",
+        "seendate": "2026-08-08T16:00:02.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Where in the UK will get the best view of the solar eclipse?",
+        "summary": "When, where and how to get the optimal view of the first solar eclipse to be visible across the country this centuryFor the first time this century, people across the UK will be able to see an almost total solar eclipse in the evening sky on Wednesday.A solar eclipse occurs when the moon moves between the sun and the Earth, blocking the sun’s light either partly or fully. This year, people in the UK",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/aug/08/when-where-how-uk-best-view-of-the-solar-eclipse",
+        "seendate": "2026-08-08T15:08:31.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Spanish mountain village braces for astrotourists lured by total solar eclipse",
+        "summary": "Somosierra will be prime spot to view celestial alignment on 12 August, an event that poses logistical challengesLittle stirs in the mountains above Somosierra beyond the wind that lashes the flat peaks, the cows that graze on parched grass and the sun that beats down on the abandoned aerodrome where generations of glider pilots learned to ride air currents alongside squadrons of vultures and red kites.",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/aug/08/spanish-mountain-village-braces-for-astrotourists-lured-by-total-solar-eclipse",
+        "seendate": "2026-08-08T07:00:40.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Safety fears as scientists make first viruses designed by AI",
         "summary": "Researchers say breakthrough offers hope for new medicines but also raises urgent biosecurity questionsScientists have made the first viruses designed by artificial intelligence in a milestone that raises hopes for new medicines but also concerns over how to ensure the technology remains safe.The viruses are specific kinds known as bacteriophages, which only infect bacteria and are used around the wo",
@@ -396,30 +420,6 @@
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/science/2026/aug/06/e-scooters-more-dangerous-than-motorbikes-or-cycles-analysis",
         "seendate": "2026-08-06T15:00:03.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "‘Spectral lines’ and a giant plume: what science saw when the SpaceX rocket hit the moon",
-        "summary": "Sodium and lithium gas was detected in a plume thought to span tens of kilometres, created when part of a SpaceX rocket crashed into the lunar surfaceA telescope in Chile has captured evidence of the impact caused by part of a SpaceX rocket slamming into the moon while travelling at 8,690km/h (5,400mph).</",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/aug/06/spacex-rocket-crash-into-moon-impact",
-        "seendate": "2026-08-06T04:47:29.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Unprecedented images may explain one of greatest mysteries of the sun",
-        "summary": "Highest-ever resolution pictures of our star could help show why its corona is millions of degrees hotter than its surfaceGolden bands and swirling vortices have been spotted on the sun in the most detailed images ever captured of the turbulent surface of our home star.Astronomers observed the sun with the Inouye solar telescope in Hawaii, the world’s most powerful solar telescope, and saw new featur",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/aug/05/unprecedented-images-may-explain-one-of-greatest-mysteries-of-the-sun",
-        "seendate": "2026-08-05T15:00:22.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Four types of thinker, the cyclosporiasis outbreak, and the UK’s biggest telescope threatened – podcast",
-        "summary": "Madeleine Finlay is joined by Ian Sample, Guardian science editor, to discuss three eye-catching science stories including an investigation that has identified four distinct types of thinker. Also on the agenda is the unprecedented cyclosporiasis outbreak in the US which has now been linked to two fatalities, and the funding cuts that threaten the iconic Jodrell Bank world heritage site, home to the Lovell telesco",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/audio/2026/aug/06/four-types-thinker-cyclospora-outbreak-uk-biggest-telescope-threatened-podcast",
-        "seendate": "2026-08-06T04:00:39.000Z",
         "domain": "theguardian.com"
       }
     ]
