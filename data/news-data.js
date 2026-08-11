@@ -1,5 +1,5 @@
 window.NEWS_CACHE = {
-  "generatedAt": "2026-08-10T23:23:53.861Z",
+  "generatedAt": "2026-08-11T23:28:08.065Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
@@ -88,11 +88,19 @@ window.NEWS_CACHE = {
     ],
     "economy": [
       {
-        "title": "Not your imagination: from backpacks to food, consumer goods are getting worse",
-        "summary": "Is it possible to avoid the continuing decline in quality of consumer products brought on by corporate greed?When Keyana Sapp, 31, went shopping for a new backpack, the brands he remembered as a kid were just not the same.He researched the companies, from North Face to JanSport and Eastpak, and soon realized they were all owned by the VF Corporation after a wave of acquisitions in the 2000s. After a",
+        "title": "Nvidia links with Wall Street firms for $500bn AI financing deal",
+        "summary": "Apollo, BlackRock, Goldman Sachs and KKR among those working with chipmaker to fund infrastructureNvidia ⁠has struck a deal with six large Wall Street firms to raise ⁠more than $500bn (£370bn) to fund the datacentres, chip factories and power stations needed to fuel the artificial intelligence boom.The Nvidia chief executive, Jensen Huang, said on X that it marked “a major milestone for Nvidia and th",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/aug/10/consumed-consumer-goods-quality",
-        "seendate": "2026-08-10T12:00:43.000Z",
+        "url": "https://www.theguardian.com/technology/2026/aug/11/nvidia-wall-street-finance-ai-infrastructure",
+        "seendate": "2026-08-11T08:34:37.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "HCA workers push for higher pay and more staffing amid billions in profits: ‘I’m struggling’",
+        "summary": "Largest for-profit hospital system and operator in the US reported $6.8bn in profits, while employees find it difficult to make ends meetUnion workers with HCA Healthcare, the largest for-profit hospital system and operator in the US, are holding picket protests across the country as they push for pay and staffing increases in a new contract.The hospital system has over <a href=\"https://hcahealthcare",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/aug/11/union-hca-healthcare-workers-protest",
+        "seendate": "2026-08-11T11:00:02.000Z",
         "domain": "theguardian.com"
       },
       {
@@ -118,17 +126,33 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/business/2026/aug/07/flight-travel-costs-iran-war",
         "seendate": "2026-08-07T13:00:18.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Most Americans view rising living costs as biggest barrier to a better life, survey finds",
-        "summary": "When asked to detail what would make a better life in three to five years, 60% of US adults said greater financial securityAmericans may seem increasingly divided on beliefs and values, but in a new survey of more than 30,000 adults from across the country spanning generations and economic classes, a majority of Americans agree there’s a significant barrier to achieving a better life: the rising cost of liv",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/aug/06/americans-rising-cost-of-living-survey",
-        "seendate": "2026-08-06T11:00:50.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "literature": [
+      {
+        "title": "Feel the burn: why holidays from hell make for blistering fiction",
+        "summary": "Family fallouts, failing marriages, sunburn, food poisoning ... from Deborah Levy’s hypnotic and disturbing Hot Milk to All In, Claire Powell’s all-inclusive nightmare, Leon Craig looks at the best novels about vile vacationsEvery summer, we long for a much-needed break from daily life, dreaming of self-reinvention in some distant paradise. But really, holidays can be absolute hell. Instead of relaxation we",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/aug/11/feel-the-burn-why-holidays-from-hell-make-for-blistering-fiction",
+        "seendate": "2026-08-11T13:24:52.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "I Give You My Silence by Mario Vargas Llosa review – Nobel laureate’s final novel is a love letter to Peru",
+        "summary": "This fascinating, eccentric book becomes a quirky primer on Peruvian music and cultureWhen I Give You My Silence was published in Spanish in 2023 its author, the Peruvian Nobel laureate Mario Vargas Llosa, rightly predicted that it would be his final novel. He died last year at the age of 89. I Give You My Silence may have been completed with the spectre of death approaching, but there is nothing morbid abo",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/aug/11/i-give-you-my-silence-by-mario-vargas-llosa-review-nobel-laureates-final-novel-is-a-love-letter-to-peru",
+        "seendate": "2026-08-11T10:56:35.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "You Won’t Get Free of It by Rachel Aviv review – a subtle study of the mother-daughter bond",
+        "summary": "The most complex of female relationships is thrown into sharp relief in this moving series of essaysRachel Aviv has a profound interest in the vagaries of human psychology: Strangers to Ourselves, her last book, profiled five people whose psychiatric states resisted straightforward explanation, testing the limits of the mental health system. A Pulitzer finalist, Aviv has&nbsp;become known for rigorous, pene",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/aug/11/you-wont-get-free-of-it-by-rachel-aviv-review-a-subtle-study-of-the-mother-daughter-bond",
+        "seendate": "2026-08-11T08:00:07.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Barack Obama launches podcast about books that ‘shaped his worldview’",
         "summary": "The former US president will host six episodes of A Great Book for Audible, discussing work from Toni Morrison and John le Carré to James BaldwinBarack Obama is set to host a podcast about books that have “profoundly shaped his worldview and our society”, from Song of Solomon by Toni Morrison to Tinker Tailor Soldier Spy by John le Carré.The podcast, called A Great Book with Barack Obama, will launch",
@@ -144,75 +168,75 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/culture/2026/aug/10/sinking-ships-dark-humour-and-really-good-bad-guys-beryl-bainbridge-ranked",
         "seendate": "2026-08-10T11:00:42.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "John Berger: From Life by Tom Overton review – a vibrant biography of the pioneering critic",
-        "summary": "This multi-layered portrait is a fitting tribute to the man behind Ways of SeeingThe cultural critic John Berger was still alive and kicking when he donated his literary archive – heaped boxes of letters and notepads, sketches and scripts – to the British Library in 2009. From his home in the Alps, he proceeded to liaise with the collection’s curator, Tom Overton, sorting each item and recounting the wild s",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/aug/10/john-berger-from-life-by-tom-overton-review-a-vibrant-biography-of-the-pioneering-critic",
-        "seendate": "2026-08-10T06:00:37.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Is Beauty Good by Rosalind Belben review – the literary equivalent of free jazz",
-        "summary": "Combining hilarious detail with harsh observation, this rediscovered novel takes the reader on an exhilaratingly strange journey ‘But after all, writing is nothing more than a guided dream,” wrote Jorge Luis Borges. Dreams and dreaming are fertile concerns for Rosalind Belben, too. Her fourth book, originally published in 1979 and <a href=\"https://www.theguardian.com/books/2025/jul/31/dreaming-of-dead-peopl",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/aug/10/is-beauty-good-by-rosalind-belben-review-the-literary-equivalent-of-free-jazz",
-        "seendate": "2026-08-10T08:00:38.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "‘I hate what AI is doing to the minds and happiness of the young’: Katherine Rundell on the view from the classroom",
-        "summary": "Education is at a crossroads, argues the author and academic. Should we embrace new technology in the name of efficiency, or is it time to fight back?If you set out to design from scratch a tool to facilitate authoritarian rule, it would look exactly like AI. You would cherish it for its ability to destabilise our shared reality and its creation of disinformation on a scale unprecedented in human history. W",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/ng-interactive/2026/aug/08/i-hate-what-ai-is-doing-to-the-minds-and-happiness-of-the-young-katherine-rundell-on-the-view-from-the-classroom",
-        "seendate": "2026-08-08T08:00:41.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "entertainment": [
       {
-        "title": "Barack Obama launches podcast about books that ‘shaped his worldview’",
-        "summary": "The former US president will host six episodes of A Great Book for Audible, discussing work from Toni Morrison and John le Carré to James BaldwinBarack Obama is set to host a podcast about books that have “profoundly shaped his worldview and our society”, from Song of Solomon by Toni Morrison to Tinker Tailor Soldier Spy by John le Carré.The podcast, called A Great Book with Barack Obama, will launch",
+        "title": "The Office actor Lucy Davis says she has incurable stage four breast cancer",
+        "summary": "Star, 53, says disease has metastasised to her bones and it is too late for chemotherapyLucy Davis, the actor best known for playing Dawn Tinsley in The Office, has said she has incurable stage four breast cancer.The 53-year-old said she was diagnosed a year and a half ago and the disease had metastasised to her bones including her spine, right hip and ribs. She said it was too late for chemotherapy.",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/aug/10/barack-obama-launches-podcast-about-books-that-shaped-his-worldview",
-        "seendate": "2026-08-10T16:59:13.000Z",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/aug/11/lucy-davis-the-office-actor-stage-four-breast-cancer",
+        "seendate": "2026-08-11T17:55:49.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "John Oliver on Trump’s DoJ: ‘Potential long-term damage is difficult to sum up’",
-        "summary": "The Last Week Tonight host discussed how the president has transformed, weakened and weaponised the Department of JusticeJohn Oliver took aim at Donald Trump’s attempts to corrupt the Departmenr of Justice, calling it a once-respected institution that has now been infected by “utter maniacs”.The Last Week Tonight host spoke about justice and how it’s “both a snatched blinded lady and a pretty good na",
+        "title": "‘A horrible nightmare’: the shocking story of the eBay harassment scandal",
+        "summary": "Jaw-dropping documentary Whatever It Takes details an aggressive stalking campaign targeted towards a couple whose reporting criticized the tech companyWhen Massachusetts husband-and-wife team Ina and David Steiner launched their reporting careers covering Silicon Valley at the turn of the century, the tech beat was still cozy enough to feel personal. The startups were still emerging from garages, and the j",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/aug/10/john-oliver-trump-doj",
-        "seendate": "2026-08-10T15:25:30.000Z",
+        "url": "https://www.theguardian.com/film/2026/aug/11/whatever-it-takes-documentary-ebay-harassment-scandal",
+        "seendate": "2026-08-11T09:00:09.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "John Cameron Mitchell: ‘It’s punk to turn off your phone – you’re walking away from the herd’",
-        "summary": "The writer, director and star of Hedwig and the Angry Inch on turning down David Bowie, falling off a Broadway stage, and a cringeworthy moment with Nicole KidmanThe film adaptation of Hedwig and the Angry Inch has such a cult following. What’s been your most memorable interaction with a fan?It’s interesting, Hedwig wasn’t famous, it was a film that so many people found because a fri",
+        "title": "Isaac Mizrahi on stage, style and the legacy of Unzipped: ‘Fashion has no real spine any more’",
+        "summary": "The designer defined the glory days of 90s style with a wit that made him every supermodel’s best friend. As he gears up for a new cabaret show, he’s as outspoken as everThere’s a lot to look at in Isaac Mizrahi’s studio in New York’s Greenwich Village: sketches, bulletin boards, fabrics, memorabilia, heaps of books, a Golden Girls puzzle set. But my eyes lock in on two dolls, Snoopy and his sister Belle (w",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/stage/2026/aug/11/john-cameron-mitchell-actor-performer-interview",
-        "seendate": "2026-08-10T15:00:49.000Z",
+        "url": "https://www.theguardian.com/stage/ng-interactive/2026/aug/11/isaac-mizrahi-fashion-unzipped",
+        "seendate": "2026-08-11T11:00:03.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Sam Neill on making Hunt for the Wilderpeople: ‘We were attacked by a puppet pig!’",
-        "summary": "Speaking just before his death, the actor recalled his hostile hunting dog Zag, director Taika Waititi’s comedy genius – and the wild boar scene that left children traumatised• Warning: contains spoilersTaika Waititi’s film Boy is one of my favourites ever, so when I got the Wilderpeople script I was already well disposed to it",
+        "title": "Feel the burn: why holidays from hell make for blistering fiction",
+        "summary": "Family fallouts, failing marriages, sunburn, food poisoning ... from Deborah Levy’s hypnotic and disturbing Hot Milk to All In, Claire Powell’s all-inclusive nightmare, Leon Craig looks at the best novels about vile vacationsEvery summer, we long for a much-needed break from daily life, dreaming of self-reinvention in some distant paradise. But really, holidays can be absolute hell. Instead of relaxation we",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/aug/10/sam-neill-taika-waititi-hunt-for-the-wilderpeople-julian-dennison",
-        "seendate": "2026-08-10T14:14:19.000Z",
+        "url": "https://www.theguardian.com/books/2026/aug/11/feel-the-burn-why-holidays-from-hell-make-for-blistering-fiction",
+        "seendate": "2026-08-11T13:24:52.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Lesbians, latex and $2,000 condoms: why are this summer’s movies so obsessed with sex?",
-        "summary": "From One Night Only to The Invite, a wave of new movies are a raunchy antidote to gen Z celibacyThe first alarm bells sounded nearly 10 years ago, and since then, a deluge of books, podcasts and roundtables has tried to ge",
+        "title": "Virtue and a Sledgehammer – take a literal hammer to your past",
+        "summary": "What do you do when you return to your home town, with your dead mother in your car boot, to find the inhabitants have been turned into robots?In the boot of her car, Pratelle carries the corpse of her mother and a giant sledgehammer. Her mission is simple: take the hammer to her home town. As you enter shops and homes through the door and leave them through the opposite wall, it becomes clear that the robo",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/aug/10/sex-film-one-night-only-the-invite-camp-miasma",
-        "seendate": "2026-08-10T11:00:43.000Z",
+        "url": "https://www.theguardian.com/games/2026/aug/11/virtue-and-a-sledgehammer-take-a-literal-hammer-to-your-past",
+        "seendate": "2026-08-11T09:00:09.000Z",
         "domain": "theguardian.com"
       }
     ],
     "f1": [
+      {
+        "title": "Mercedes explains key attributes behind Kimi Antonelli’s new 2026 F1 level",
+        "summary": "Mercedes deputy team principal Bradley Lord has given several reasons behind Kimi Antonelli’s rise into a Formula 1 title contender this season.Antonelli endured a tough rookie campaign last year as F1’s third-youngest driver in history, having bypassed F3 to spend just one year in F2 before joining one of the most successful teams in the world championship – courtesy of Lewis Hamilton ...<a class='more'",
+        "source": "motorsport.com",
+        "url": "https://www.motorsport.com/f1/news/maturity-experience-self-belief-the-keys-to-kimi-antonellis-new-f1-level/10845649/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-11T13:29:44.000Z",
+        "domain": "motorsport.com"
+      },
+      {
+        "title": "F1 2026 mid-season grades: Alpine makes great strides but struggles to maintain momentum",
+        "summary": "From all the teams that wrote off 2025 or shifted focus to 2026 much earlier, Alpine is actually the squad that saw the biggest benefits from that approach. Powered by Mercedes engines, the squad enjoyed a strong start to the season. But Alpine's first half of the year has been slightly downgraded to a B- as it got caught by its rivals ahead of the summer break, ending the first half of the season ...<a clas",
+        "source": "motorsport.com",
+        "url": "https://www.motorsport.com/f1/news/f1-2026-mid-season-grades-alpine-makes-great-strides-but-struggles-to-maintain-momentum/10845239/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-11T11:46:57.000Z",
+        "domain": "motorsport.com"
+      },
+      {
+        "title": "What to expect from Honda's long-awaited F1 power unit upgrade at Zandvoort",
+        "summary": "While Aston Martin introduced its first major upgrade package for the AMR26 in Hungary, Honda will bring its first update of the 2026 Formula 1 season to Zandvoort.With Adrian Newey’s first upgrade package of the year, the deficit on the chassis side has been reduced considerably. Aston Martin is still a long way from where it wants to be, but figures from Paceteq show that its deficit in ...<a class='mo",
+        "source": "motorsport.com",
+        "url": "https://www.motorsport.com/f1/news/what-to-expect-from-hondas-long-awaited-f1-power-unit-upgrade-at-zandvoort/10845642/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-11T07:59:14.000Z",
+        "domain": "motorsport.com"
+      },
       {
         "title": "Alex Albon leaves fans in stitches with Red Bull joke in F1 \"Grill The Grid\" video",
         "summary": "Formula 1's official Grill The Grid series returned for its 10th anniversary, challenging the current drivers to identify racers based on their career progression charts.The challenge proved remarkably tricky for the current grid, with multiple drivers getting stuck on four-time champion Max Verstappen's career path and several others. But it was Williams' Alex Albon's self-deprecating humour ...<a class",
@@ -228,118 +252,110 @@ window.NEWS_CACHE = {
         "url": "https://www.motorsport.com/f1/news/cadillac-gives-update-on-its-under-construction-f1-infrastructure/10845451/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
         "seendate": "2026-08-10T14:59:29.000Z",
         "domain": "motorsport.com"
-      },
-      {
-        "title": "F1 2026 mid-season grades: Haas gets left behind after strong start",
-        "summary": "Thanks to a strong start by Oliver Bearman, Haas enters the summer shutdown in seventh place in the constructors' standings. The team scored 21 points, which leaves it well adrift of Racing Bulls and Alpine, but ahead of Audi and Williams. However, a worrying decline in performance as Formula 1's development race heats up is taking its score down a notch to a C-.The goodHaas is still ...<a class='mor",
-        "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/f1-2026-mid-season-grades-haas-gets-left-behind-after-strong-start/10845177/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-10T12:00:03.000Z",
-        "domain": "motorsport.com"
-      },
-      {
-        "title": "Jessica Hawkins predicts female F1 driver within \"few years\"",
-        "summary": "Aston Martin driver ambassador and former W Series racer Jessica Hawkins believes a woman will race in Formula 1 within a \"few years\", backing the F1 Academy to develop talent capable of fighting for seats on the grand prix grid.Hawkins, who became the first woman in nearly five years to test modern F1 machinery when she drove the Aston Martin AMR21 in Hungary in 2023, discussed the timeline ...<a class=",
-        "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/jessica-hawkins-predicts-female-f1-driver-within-few-years/10845481/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-10T11:00:11.000Z",
-        "domain": "motorsport.com"
-      },
-      {
-        "title": "McLaren \"disappointed\" not to pick up rotating rear wing as quickly as Ferrari",
-        "summary": "McLaren Formula 1 tech director Neil Houldey admits the squad was \"disappointed\" not to pick up on the upside down rear wing concept as quickly as pioneering Ferrari, as the team continues developing its own version for adoption after the summer break.Innovation comes in all shapes and sizes, as F1 teams sink their teeth into a brand-new rulebook in 2026. Some design interpretations are more ...<a class=",
-        "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/mclaren-disappointed-not-to-pick-up-rotating-rear-wing-as-quickly-as-ferrari/10845447/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-10T09:30:39.000Z",
-        "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "The vibey offroading game with more than a million Steam wishlists has a release date",
-        "summary": "Over the Hill looks set to be a low key hit.",
+        "title": "Absolutely everything you need to know about romance and marriage in Fields of Mistria",
+        "summary": "After dating everyone and marrying a choice few, here's everything I've learned about romance in Mistria.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/sim/the-vibey-offroading-game-with-more-than-a-million-steam-wishlists-has-a-release-date/",
-        "seendate": "2026-08-10T22:33:09.000Z",
+        "url": "https://www.pcgamer.com/games/life-sim/fields-of-mistria-romance-marriage-dates-walkthrough/",
+        "seendate": "2026-08-11T23:11:09.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "id Software dev says mass layoffs like Microsoft's are weakening the games industry, because developers 'don't have the incentive to care anymore'",
-        "summary": "\"A lot of gamers, even if they don't know it, they can feel it's not right. There's something wrong.\"",
+        "title": "Hardcore FPS immediately becomes Steam top seller as devs list '10 reasons not to buy' it",
+        "summary": "\"If you don't enjoy the beta, just refund it.\"",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/id-software-dev-says-mass-layoffs-like-microsofts-are-weakening-the-games-industry-because-developers-dont-have-the-incentive-to-care-anymore/",
-        "seendate": "2026-08-10T22:00:43.000Z",
+        "url": "https://www.pcgamer.com/games/fps/hardcore-fps-immediately-becomes-steam-top-seller-as-devs-list-10-reasons-not-to-buy-it/",
+        "seendate": "2026-08-11T20:44:48.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "50 Cent is producing a Payday project for 'the screen'",
-        "summary": "Whether that's a TV or movie screen isn't clear at this point, but I'm pretty sure it's one or the other.",
+        "title": "A long-lost Lord of the Rings action RPG makes a surprise return to Steam",
+        "summary": "The Lord of the Rings: War in the North was removed from Steam in early 2019.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/movies-tv/50-cent-is-producing-a-payday-project-for-the-screen/",
-        "seendate": "2026-08-10T21:11:44.000Z",
+        "url": "https://www.pcgamer.com/games/action/a-long-lost-lord-of-the-rings-action-rpg-makes-a-surprise-return-to-steam/",
+        "seendate": "2026-08-11T19:46:55.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Grand Theft Auto 5 averages more copies sold per year than most megahits manage in their entire lifetime, with a total of 230 million since 2013",
-        "summary": "The people yearn for Los Santos.",
+        "title": "Believe the hype for Wardogs, possibly the next great multiplayer FPS",
+        "summary": "A 100-player milsim that's inspired by Arma but plays like Battlefield.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/grand-theft-auto-5-averages-more-copies-sold-per-year-than-most-megahits-manage-in-their-entire-lifetime-with-a-total-of-230-million-since-2013/",
-        "seendate": "2026-08-10T20:31:05.000Z",
+        "url": "https://www.pcgamer.com/games/fps/believe-the-hype-for-wardogs-possibly-the-next-great-multiplayer-fps/",
+        "seendate": "2026-08-11T18:21:35.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Battlefield 6 player claims to have received Steam refund after 470 hours due to surprise mode removal",
-        "summary": "Mode madness.",
+        "title": "Mark Zuckerberg's rambling AI manifesto is 6,434 words of high-handed platitudes and dubious conclusions",
+        "summary": "Tell us what you really think. No actually, don't.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/fps/battlefield-6-player-claims-to-have-received-steam-refund-after-470-hours-due-to-surprise-mode-removal/",
-        "seendate": "2026-08-10T20:16:13.000Z",
+        "url": "https://www.pcgamer.com/software/ai/mark-zuckerbergs-rambling-ai-manifesto-is-6-434-words-of-high-handed-platitudes-and-dubious-conclusions/",
+        "seendate": "2026-08-11T16:31:38.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
       {
-        "title": "UK manufacturers face rising hacking risk as survey shows 30% were hit last year",
-        "summary": "Big companies describe being under constant threat but only half have a plan in place to respond to an attackNearly a third of British manufacturers have been hit by a cyber-attack on them or a company in their supply chain, according to a survey that highlighted the growing hacking risk to companies.The findings come almost a year after Britain’s largest automotive employer, <a href=\"https://www.the",
+        "title": "Meta glasses banned from courts in England and Wales",
+        "summary": "Exclusive: Court service says anyone trying to enter buildings with glasses will have them confiscated and returned when they leaveCourts in England and Wales have joined a number of restaurants, theatres and pubs in banning Meta glasses, amid a mounting backlash against what has been described as “spyware”.Last month courts in <a href=\"https://nysba.org/new-york-state-court-system-b",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/aug/10/uk-companies-cyber-attack-third-jlr",
-        "seendate": "2026-08-10T05:00:36.000Z",
+        "url": "https://www.theguardian.com/technology/2026/aug/11/meta-glasses-banned-from-courts-in-england-and-wales",
+        "seendate": "2026-08-11T10:29:29.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Samsung Galaxy Z Fold 8 review: your passport to a folding phone future",
-        "summary": "Novel squat Android opens to an iPad-like screen for video or multitasking, with plenty of power and battery lifeSamsung’s latest folding phone breaks the mould with a squat, passport-like shape reminiscent of the Blackberry, which opens up to become a tablet similar to an iPad mini. It is certainly a better shape for a tablet than other designs, but is a short and wide phone when closed a compromise too fa",
+        "title": "Spotify to distinguish AI artists from real people – and stop recommending them",
+        "summary": "Music streaming platform creates ‘AI persona’ label that will appear on profiles and track listings in crackdown on fake performersSpotify is to label AI artists and exclude them from algorithm recommendations as part of a crackdown on fake performers.The world’s largest music streaming platform is creating a label for AI-generated artist identities called “AI personas” that will appear on the artist",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/aug/10/samsung-galaxy-z-fold-8-review-folding-phone",
-        "seendate": "2026-08-10T06:00:37.000Z",
+        "url": "https://www.theguardian.com/technology/2026/aug/11/spotify-label-ai-artists-block-them-from-some-playlists",
+        "seendate": "2026-08-11T13:40:14.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘I’ve definitely lost followers’: influencers face backlash over Meta ‘pervert glasses’ content",
-        "summary": "Using ‘spy glasses’ made by Facebook owner leads to floods of negative comments, say content creators It was hardly an offensive video. Amid the buzz of the Tour de France finale, Oliver Hooson filmed himself whipping up a delicious-looking flat white for a fellow cycling enthusiast. But after posting the footage on social media, the comments that soon rolled in were a real shock. “PERV,” read one. “Out her",
+        "title": "Meta faces expensive child safety reckoning",
+        "summary": "Also: Google executives jump ship in race for AI dominanceHello, TechScape readers! Danielle Abril, editor of the Guardian’s Reworked series on AI and the future of work, filling in for Blake Montgomery this week. Major legal battles against Meta over child safety are playing out in",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/aug/09/i-kept-catching-people-giving-me-dirty-looks-the-backlash-against-meta-smart-glasses",
-        "seendate": "2026-08-09T13:37:25.000Z",
+        "url": "https://www.theguardian.com/technology/2026/aug/10/meta-child-safety-google-executives-ai-techscape",
+        "seendate": "2026-08-11T12:04:51.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "What happens when medical students rely on AI – and never develop their own judgment? | Simar Bajaj and Joseph Sakran",
-        "summary": "AI’s danger isn’t just in experts losing the ability to reason. It’s that trainees may never learn how to do so in the first placeIn healthcare, there’s growing concern over doctors becoming less clinically adept as they increasingly rely on AI tools. But what about the trainees – medical students, residents and fe",
+        "title": "AI’s potential climate benefits outweighed by role in boosting fossil fuels, study finds",
+        "summary": "Modelling finds AI-driven productivity gains in coal, oil and gas enable more emissions than applications in renewables avoidAI-driven productivity gains enable more planet-heating pollution from fossil fuels than they avoid from renewables, a study has found.Researchers modelled the technical potential for AI to boost clean power gener",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/commentisfree/2026/aug/10/ai-medical-students-judgment",
-        "seendate": "2026-08-10T12:00:44.000Z",
+        "url": "https://www.theguardian.com/technology/2026/aug/11/ai-will-do-more-to-boost-fossil-fuel-production-than-green-energy",
+        "seendate": "2026-08-11T09:15:45.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Rising number of UK children report seeing explicit deepfakes of themselves",
-        "summary": "Exclusive: anonymous flagging service says cases have surged, as watchdog says AI is making sexualised or ‘nudified’ content easier to produceChildren in the UK have reported a surge in explicit deepfake images featuring their likenesses, as a safety watchdog warned AI is making such content easier to produce.The Report Remove service, whi",
+        "title": "Zuckerberg pushes ‘superintelligent’ AI for all as Meta drops open-source model",
+        "summary": "Meta CEO presents utopian vision of AI in 6,000-word essay amid Silicon Valley debate over government regulationMark Zuckerberg published a lengthy essay on Monday detailing his views on artificial intelligence and announced several plans for how <a href=\"https:/",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/aug/08/uk-children-explicit-deepfake-images-ai",
-        "seendate": "2026-08-08T07:00:39.000Z",
+        "url": "https://www.theguardian.com/technology/2026/aug/10/mark-zuckerberg-superintelligent-ai-essay-meta",
+        "seendate": "2026-08-10T22:57:57.000Z",
         "domain": "theguardian.com"
       }
     ],
     "climate": [
+      {
+        "title": "Samuel Alito gained up to $2.9m from oil and gas assets since joining supreme court, analysis shows",
+        "summary": "Critics argue US high court justice should recuse himself from upcoming fossil fuel firms’ climate accountability caseThe supreme court justice Samuel Alito gained up to $2.9m from his fossil fuel interests between 2005 and 2024, a new review of financial disclosures shows.The <a href=\"https://docs.google.com/document/d/13ioEWSdOM7Nhi5rBYOV3kebUr5V0fYF8/edit?usp=drivesdk&amp;ouid=11016091763273480542",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/aug/11/samuel-alito-oil-gas-assets-supreme-court-analysis",
+        "seendate": "2026-08-11T16:00:03.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Drought, water rationing and dry rivers: our water crisis is here | Peter Gleick",
+        "summary": "It doesn’t have to be this way. We know what needs to be doneDisturbing news about our water resources is now constant and unrelenting. In just the past few weeks, media have reported that Puerto Rico is suffering a deep water crisis as severe drought has cut water supplies to thousands. The <a href=\"https://www.thegua",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/commentisfree/2026/aug/11/drought-water-climate-crisis",
+        "seendate": "2026-08-11T11:00:01.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Jackie, a beloved bald eagle and livestream star, dies of mysterious illness",
         "summary": "Thousands mourn the death of the eagle at California’s Big Bear Lake, whose life was closely followed via livestreamJackie – the beloved bald eagle at California’s Big Bear Lake whose livestream was followed by millions of viewers as she birthed and raised chicks – died on Monday due to a mysterious illness. She was 14.Jackie had been receiving treatment at the Ojai Raptor Center since mid-July when",
@@ -350,7 +366,7 @@ window.NEWS_CACHE = {
       },
       {
         "title": "Nevada authorities investigate dozens of mysterious tree poisonings in Lake Tahoe",
-        "summary": "Incidents of damaged trees at Burnt Cedar beach have been reported since 2022 and seem to be linked, officials sayPine trees near Lake Tahoe are being poisoned in what authorities believe are a series of interconnected incidents in the popular tourist community on border of Nevada and California",
+        "summary": "Incidents of damaged trees at Burnt Cedar beach have been reported since 2022 and seem to be linked, officials sayPine trees near Lake Tahoe are being poisoned in what authorities believe are a series of interconnected incidents in the popular tourist community on the border of Nevada and Califo",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/us-news/2026/aug/10/pine-trees-poisoned-lake-tahoe-nevada",
         "seendate": "2026-08-10T21:08:14.000Z",
@@ -363,31 +379,39 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/us-news/2026/aug/10/july-hottest-month-ever-recorded-heatwaves",
         "seendate": "2026-08-10T18:49:51.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "SpaceX plan for vast rocket launch site on Louisiana coast sparks backlash",
-        "summary": "Opponents fear Elon Musk firm’s plan to develop 18-mile strip of Pecan Island will badly damage fragile ecosystemPlans by Elon Musk’s SpaceX to build a vast rocket launch site on a stretch of Louisiana’s rapidly eroding coastline have stirred a backlash among some local opponents who fear it will badly damage the area’s fragile ecosystem.A deal for SpaceX to take control of 130,000 acres of coastal V",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/aug/10/spacex-rocket-launch-site-louisiana-backlash",
-        "seendate": "2026-08-10T14:00:46.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Can Florida’s ‘coastal corridor’ project safeguard wildlife and boost economy?",
-        "summary": "Conservationists have created a ‘coastal corridor’ of ocean-based projects designed to preserve and nourish vulnerable marine lifeFrom disappearing manatees to bleached coral reefs, <a href=\"https://www.thegua",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/aug/10/florida-coastal-corridor-marine-life",
-        "seendate": "2026-08-10T12:00:44.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "science": [
       {
-        "title": "‘You’re hit with a slam of shadow’: Nasa’s air mission to capture rare eclipse data",
-        "summary": "Two aviators will take off from Iceland to photograph the sun while flying at high altitude along solar eclipse’s pathAfter lunch on Wednesday, two Nasa aviators will climb into a research plane and take off from Keflavik airport on a western tip of Iceland. They will climb north towards Greenland and then bank to head south on a gently curving course 40 miles (64km) off the Icelandic coast.Their mis",
+        "title": "Europe’s total solar eclipse: the best place to see it and how to view it safely",
+        "summary": "Moon is due to pass directly between Earth and sun on Wednesday 12 August. Here’s all you need to knowOn Wednesday evening, millions of Europeans will experience a celestial treat: a solar eclipse. A wide band of north and central Spain, plus a sliver of Portugal and parts of Greenland and Iceland will experience a rare total eclipse. The light of the setting sun will be virtually blocked out across much of",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/aug/09/nasa-mission-total-solar-eclipse-iceland-sun-nanoflares",
-        "seendate": "2026-08-09T14:00:16.000Z",
+        "url": "https://www.theguardian.com/science/2026/aug/11/europe-solar-eclipse-best-place-to-see-it-how-to-view-safely",
+        "seendate": "2026-08-11T07:00:06.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "‘Real mummy’s curse’: health warning over growing trade in mummified human remains",
+        "summary": "Academic paper says often illicit trade exposes enthusiasts – and postal workers handling items – to serious risksA growing global trade in mummified human remains has been described by academics as “a real mummy’s curse” that poses a serious health risk to its enthusiasts and the postal services they use.Research into the secretive buying and selling of centuries-old human body parts including hands",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/aug/11/mummified-human-remains-trade-health-warning-curse",
+        "seendate": "2026-08-11T13:25:07.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "The great silence: why haven’t we found any aliens yet?",
+        "summary": "Given the size and age of the universe, it should be full of species with technology far more advanced than our own. So where are they?• The summer issue of the Long Read magazine is out now. Click here</",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/news/2026/aug/11/the-great-silence-why-havent-we-found-any-aliens-yet",
+        "seendate": "2026-08-11T04:00:04.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "We’re reading less. And it’s making us stupid – podcast",
+        "summary": "Books have never been trendier, but studies show that as more and more things compete for our frazzled attention spans, we’re reading less and less. This is a problem because reading has a wealth of cognitive benefits that we’re in danger of missing out on.To find out why declining literacy could affect e",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/audio/2026/aug/11/were-reading-less-and-its-making-us-stupid-podcast",
+        "seendate": "2026-08-11T04:00:04.000Z",
         "domain": "theguardian.com"
       },
       {
@@ -396,30 +420,6 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/us-news/2026/aug/10/spacex-rocket-launch-site-louisiana-backlash",
         "seendate": "2026-08-10T14:00:46.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Roman shipwreck with 500 amphorae found off coast of Sicily",
-        "summary": "Discovery of 2,100-year-old vessel hailed as ‘one of the most important underwater archaeological discoveries of recent years’A 2,100-year-old Roman shipwreck carrying about 500 amphorae has been discovered 3 miles off the coast of Mazara del Vallo in Sicily.Italy’s Carabinieri cultural heritage protection squad investigated the wreck with the help of divers and underwater cameras after receiving a t",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/aug/10/roman-shipwreck-with-500-amphorae-found-off-coast-of-sicily",
-        "seendate": "2026-08-10T10:44:54.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Perseid meteor shower set to dazzle northern hemisphere this week",
-        "summary": "Astronomers say viewing conditions promising for this year’s shower, and 50 to 100 meteors an hour may be visibleThe Perseid summer light show is back, and viewing conditions are especially promising across the northern hemisphere.The meteor shower is expected to peak on Wednesday night into Thursday morning, and coincides with a total solar eclipse across Spain, Iceland and Greenland and a six-plane",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/aug/09/perseid-meteor-shower",
-        "seendate": "2026-08-09T18:43:55.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "One of UK’s best fossil collections sold overseas in ‘loss to the nation’",
-        "summary": "Exclusive: Lack of funds left British museums unable to pay eight-figure sum for collection, which went to Abu Dhabi institutionBritain’s Jurassic gold rush: the fossil hunters chasing fortunes on Dorset’s beachesOne of the most important collections of UK Jurassic fossils ev",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/ng-interactive/2026/aug/09/one-of-uks-best-fossil-collections-sold-overseas-in-loss-to-the-nation",
-        "seendate": "2026-08-08T16:00:02.000Z",
         "domain": "theguardian.com"
       }
     ]
