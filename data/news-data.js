@@ -1,8 +1,16 @@
 window.NEWS_CACHE = {
-  "generatedAt": "2026-08-13T23:30:00.954Z",
+  "generatedAt": "2026-08-14T23:10:47.324Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
+      {
+        "title": "American missionary kidnapped in Niger freed after nine months",
+        "summary": "Kevin Rideout, who was abducted by unknown assailants in Niamey, said to be in good health and in care of US officialsAn American missionary who was kidnapped in Niger in October has been released, his organisation has said.Serving in Mission International said Kevin Rideout “is in good health in the care of US officials” and would soon be reunited with his extended family. <a hr",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/aug/14/american-missionary-kevin-rideout-niger-released-kidnapping",
+        "seendate": "2026-08-14T14:55:17.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "DRC’s fast-growing Ebola outbreak spreads to sixth province",
         "summary": "Man dies in Bas-Uele after travelling from Haut-Uele, as head of WHO says outbreak on track to be deadliest everThe Ebola outbreak in the Democratic Republic of the Congo has spread to a sixth province, officials have said, a day after the head of the World Health Organization said the outbreak was on track to surpass the deadliest in history, which killed at least 11,000 people more than a decade ago.<",
@@ -33,19 +41,19 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/world/2026/aug/12/zimbabwe-lake-kariba-ferry-capsize",
         "seendate": "2026-08-12T12:21:08.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Halting the march of the African armyworm: a natural cure offers hope to farmers",
-        "summary": "South African scientist’s breakthrough research shows soil fungus could be used in fight against devastating crop pestHearing about fields full of dead caterpillars enveloped in a mysterious white substance intrigued the South African scientist Letodi Luki Mathulwe. Something was killing off the African armyworm – one of the most devastating pests for farmers in east and southern Africa.The white sub",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/global-development/2026/aug/12/african-armyworm-crop-pest-discovery-fungus-science-hope-farmers",
-        "seendate": "2026-08-12T11:00:27.000Z",
         "domain": "theguardian.com"
       }
     ],
     "conflict": [
       {
+        "title": "American missionary kidnapped in Niger freed after nine months",
+        "summary": "Kevin Rideout, who was abducted by unknown assailants in Niamey, said to be in good health and in care of US officialsAn American missionary who was kidnapped in Niger in October has been released, his organisation has said.Serving in Mission International said Kevin Rideout “is in good health in the care of US officials” and would soon be reunited with his extended family. <a hr",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/aug/14/american-missionary-kevin-rideout-niger-released-kidnapping",
+        "seendate": "2026-08-14T14:55:17.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "DRC’s fast-growing Ebola outbreak spreads to sixth province",
         "summary": "Man dies in Bas-Uele after travelling from Haut-Uele, as head of WHO says outbreak on track to be deadliest everThe Ebola outbreak in the Democratic Republic of the Congo has spread to a sixth province, officials have said, a day after the head of the World Health Organization said the outbreak was on track to surpass the deadliest in history, which killed at least 11,000 people more than a decade ago.<",
         "source": "theguardian.com",
@@ -76,17 +84,25 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/world/2026/aug/12/zimbabwe-lake-kariba-ferry-capsize",
         "seendate": "2026-08-12T12:21:08.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Halting the march of the African armyworm: a natural cure offers hope to farmers",
-        "summary": "South African scientist’s breakthrough research shows soil fungus could be used in fight against devastating crop pestHearing about fields full of dead caterpillars enveloped in a mysterious white substance intrigued the South African scientist Letodi Luki Mathulwe. Something was killing off the African armyworm – one of the most devastating pests for farmers in east and southern Africa.The white sub",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/global-development/2026/aug/12/african-armyworm-crop-pest-discovery-fungus-science-hope-farmers",
-        "seendate": "2026-08-12T11:00:27.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "economy": [
+      {
+        "title": "US firms that kept DEI policies despite ‘go woke, go broke’ threats thrived",
+        "summary": "Exclusive: Companies that kept policies did just as well financially, even after Trump’s executive order, as those that didn’tConservative backlash was supposed to put an end to the diversity, inclusion and equity (DEI) movement as companies were warned “go woke, go broke”.In January 2025, <a href=\"https://www.theguardian.com/us-news/donald",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/aug/14/dei-policy-company-performance",
+        "seendate": "2026-08-14T11:00:27.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "BBC seeks to subpoena Trump children and son-in-law over defamation lawsuit",
+        "summary": "Network wants to serve Jared Kushner, Ivanka Trump and Donald Trump Jr after president sues over January 6 documentaryThe BBC is trying to subpoena Donald Trump’s children as it builds its defense against the president’s defamation lawsuit centered on a documentary on the January 6 insurrection.In a motion filed on Friday, the BBC sought authorization to serve Trump’s two eldest children, Donald Trum",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/media/2026/aug/14/bbc-trump-children-subpoenas-lawsuit",
+        "seendate": "2026-08-14T21:05:47.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Tesla paid Elon Musk 2.5m times more as CEO than its average worker in 2025",
         "summary": "Tech billionaire’s $158.3bn deal an outlier in report showing widening gap of CEO to worker pay at top companiesElon Musk received over 2.5m times as much compensation at Tesla as the company’s average worker, according to a new report on the gro",
@@ -104,31 +120,39 @@ window.NEWS_CACHE = {
         "domain": "theguardian.com"
       },
       {
-        "title": "South Korean airport becomes busiest in world for global traffic amid Iran war",
-        "summary": "Incheon airport had 38.39m international passengers in first half of 2026, as traffic diverted from Middle East hubsSouth Korea’s Incheon airport has become the world’s busiest airport for international passengers, in part owing to disruption in the Middle East caused by the Iran war.The airport, South Korea’s main gateway, about 30 miles (48km) west of Seoul, handled 38.39 million international pass",
+        "title": "Top Forbes editor reportedly fired after receiving $6m from business associate",
+        "summary": "Randall Lane left his job last month after accepting money from founder of firm that does business with magazineThe top editor of Forbes left his job last month and was reportedly dismissed for accepting $6m from the founder of a firm that does business with the magazine.The New York Times reported this week that Randall Lane was paid by RJ Shook, whose company, Shook Research, worked with Forbes sin",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/aug/13/south-korea-incheon-airport-iran-war-middle-east",
-        "seendate": "2026-08-13T09:45:56.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "US inflation cooled slightly to 3.4% in July but prices still elevated",
-        "summary": "Energy is cheaper than at its peak in late April, but gas is still nearly $1 a gallon more expensive than before the Iran warUS consumer prices cooled slightly in July as the annualized inflation rate dipped down to 3.4%, though prices still remain higher than levels seen before the war with Iran.Though inflation decreased 0.7 percentage points in June during a brief ceasefire between the US and Iran",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/aug/12/inflation-data-july",
-        "seendate": "2026-08-12T12:39:46.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "‘Unrig the economy for working people’: the California candidate who wrote updated labor laws",
-        "summary": "Marni von Wilpert helped draft Protecting the Right to Organize act, and now wants work toward implementing itLegislation that would modernize federal labor law began with a handful of lawyers meeting, of all places, in an ice-cream shop.“We wrote for hours what we would do to amend the National Labor Relations Act,” said Marni von Wilpert, a member of the San Diego city council who was then an attor",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/aug/12/marni-von-wilpert-california-house-race",
-        "seendate": "2026-08-12T11:00:28.000Z",
+        "url": "https://www.theguardian.com/media/2026/aug/13/forbes-editor-fired",
+        "seendate": "2026-08-13T18:16:42.000Z",
         "domain": "theguardian.com"
       }
     ],
     "literature": [
+      {
+        "title": "Rebecca Perry: ‘Lorca hit me like a bolt of lightning’",
+        "summary": "The poet and novelist on the power of fairytales, being inspired by Frank O’Hara and the joys of Doris LessingMy earliest reading&nbsp;memory Reading On the Ning Nang Nong by Spike Milligan, aged five or so, sitting on the floor of the bedroom I shared with my brother – who, in my memory, was sitting on the carpet next to me.My favourite book&nbsp;growing up",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/aug/14/rebecca-perry-lorca-hit-me-like-a-bolt-of-lightning",
+        "seendate": "2026-08-14T09:00:23.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "The best recent crime and thrillers – review roundup",
+        "summary": "The Amateur by Chris Bohjalian; Claws Out! by Bella Mackie; Plant Lady by Minyoung Kang; Children of Wolves by Lawrence Osborne; Mad Mabel by Sally HepworthThe Amateur by Chris Bohjalian (Hutchinson Heinemann, £18.99) American best",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/aug/14/the-best-recent-and-thrillers-review-roundup",
+        "seendate": "2026-08-14T11:00:25.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "The Beverly Hills Housewife by James Cahill review – a trip inside Hockney’s world",
+        "summary": "Muse Betty Freeman sits at the centre of this sun-drenched book about art, eccentricity, and the spirit of Los AngelesDavid Hockney was 29 years old&nbsp;when he came to Betty Freeman’s house to photograph her swimming pool. Scouting locations for the pool paintings that would make him a household name, he took preparatory snaps of his partner, Peter Schlesinger, emerging naked from the water. And yet somet",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/artanddesign/2026/aug/14/the-beverly-hills-housewife-by-james-cahill-review-a-trip-inside-hockneys-world",
+        "seendate": "2026-08-14T06:00:19.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Can Nothing Save Us? by Irvine Welsh review – US family saga is a late-career triumph",
         "summary": "The Scottish author focuses on gun culture and generational conflict in this darkly satirical tale about a great power in decline“Why expect unconditional love&nbsp;from somebody you’ve brought into a fucked, dying planet, who then has to sit around and watch you screw it up even more?” So&nbsp;muses twentysomething college dropout Luke Ayrton on his parental lineage as he works the Las Vegas Strip, “compin",
@@ -144,160 +168,160 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/books/2026/aug/13/universality-by-natasha-brown-audiobook-review-a-sparkling-multi-voiced-satire",
         "seendate": "2026-08-13T14:00:02.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "EJ Swift wins the 2026 Arthur C Clarke award for science fiction",
-        "summary": "The writer – who was also shortlisted in 2023 – has won the prize for her book When There Are Wolves Again, a speculative work of eco-fiction set in near-future Britain A novel about rewilding and climate activism in Britain has been named this year’s winner of the Arthur C Clarke award for science fiction.When There Are Wolves Again",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/aug/12/ej-swift-wins-the-2026-arthur-c-clarke-award-for-science-fiction",
-        "seendate": "2026-08-12T20:00:38.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "A History of the Novel in Britain by Philip Hensher review – a masterpiece of criticism",
-        "summary": "This joyous book takes readers on a literary adventure across 300 years of fiction, from Defoe to Zadie SmithIn his opening paragraph, Philip Hensher declares that a novel not only “tells a good story” but is a good story in itself. We could extend that neat formula to include this book, which is not only a masterful account of fiction since 1719, when Daniel Defoe set Robinson Crusoe down on his des",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/aug/12/a-history-of-the-novel-in-britain-by-philip-hensher-review-a-masterpiece-of-criticism",
-        "seendate": "2026-08-12T06:00:21.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Something Like Happiness by Tom Newlands review – a tender take on hard times, anger and autism",
-        "summary": "A twentysomething Scottish couple care for their autistic son in the bleak follow-up to Only Here, Only NowFrazer and Caitlin have been emotionally entwined since schooldays. Now in their mid-20s, and parents of a five-year-old, they live in a grotty flat in a Scottish new town – the faded posters read “Happiness, Here” – that has crumbled into decay. Jobs are scarce and unrewarding; little Jamie, who has a",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/aug/12/something-like-happiness-by-tom-newlands-review-a-tender-take-on-hard-times-anger-and-autism",
-        "seendate": "2026-08-12T08:00:22.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "entertainment": [
       {
-        "title": "‘It was fun to get pushed around’: Andrew Rannells on ‘razzle dazzle’, kissing co-stars and being a better friend to Lena Dunham",
-        "summary": "The star of Girls and The Book of Mormon talks about coming out, turning a showmance into a romance, and going toe to toe with the West Wing’s Allison Janney in new film Miss You Love YouImagine a cute, young, gay Jim Carrey with a withering line in put-downs: that is Andrew Rannells. Or rather, it was, back when he starred in <a href=\"https://www.theguardian.com/culture/2026/apr/11/lena-dunham-interview-me",
+        "title": "‘I’ve never done anything like this in my life’: Marina Abramović on making art with balloons",
+        "summary": "The artist’s latest swerve sees her creating an alien inflatable landscape for New York’s Balloon MuseumOversized inflatable blades of grass graze my face as I wind a path through the glowing white gallery space. Little papery squares of snow blow, some sticking to my hair. The path through the room curves so that only what is right in front of me is visible: initially, it seemed like I would reach the far",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/aug/13/andrew-rannells-interview-girls-lena-dunham-miss-you-love-you",
-        "seendate": "2026-08-13T15:00:03.000Z",
+        "url": "https://www.theguardian.com/artanddesign/2026/aug/14/marina-abramovic-balloon-museum-show-interview",
+        "seendate": "2026-08-14T10:00:25.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Imelda Staunton: ‘Umbridge’s giggle needed to be short and sharp. So I just did a boom, boom’",
-        "summary": "The actor answers your questions on working with her dog, becoming a dame, Harry Potter, and making televisual history in The Singing DetectiveYou and Bill Nighy were comrades in Pride, but play estranged spouses in &amp; Sons. Was it more fun marching alongside him or giving him a piece of your mind? <a href=\"https://p",
+        "title": "How the mob took Hollywood: the story of organized crime and the movies",
+        "summary": "Hollywood Crime Story: The Mob Takes Over the Movies looks back at how criminals insinuated themselves in the film business“From the foundation of Hollywood, organized crime is there.” So claims Tom Patterson, producer and director of new three-part documentary series, Hollywood Crime Story: The Mob Takes Over the Movies.Organized crime’s connection to the film industry actually predates Tinseltown,",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/aug/13/imelda-staunton-interview-umbridge-harry-potter",
-        "seendate": "2026-08-13T14:00:01.000Z",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/aug/14/hollywood-crime-story-mob",
+        "seendate": "2026-08-14T09:00:23.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘I feel like I’m at war’: are we losing the battle against machine-made music?",
-        "summary": "Despite outcry from musicians, AI slop is creeping into the charts as record labels scramble to adapt to a new normal where hits can be made at the click of a buttonThis year, the battle for song of the summer has been eclipsed by a much more complicated – some would even say disturbing – debate. That’s because we find ourselves asking not “What’s the song of the summer?” but rather “Is the song of the summ",
+        "title": "Alien: Isolation 2 – another strong female protagonist stalked in a terrifying new world",
+        "summary": "Creative Assembly could strike gold again with this follow-up to their fan-favourite, film-inspired game … if you’re brave enough to venture outdoorsAlien: Isolation redefined Alien games on its release in 2014, bringing the original taut, haunted house theme of the <a href=\"https://www.theguardia",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/music/ng-interactive/2026/aug/13/ai-music",
-        "seendate": "2026-08-13T09:00:55.000Z",
+        "url": "https://www.theguardian.com/games/2026/aug/14/alien-isolation-2",
+        "seendate": "2026-08-14T12:00:27.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Agent 64: Spies Never Die review – licence to kill time like the 90s never ended",
-        "summary": "PC; Replicant D6This GoldenEye 007-styled retro shooter is an agreeable set of straightahead shooting missions that hark back to a simpler time, with simpler controlsWith 007 First Light, 2026 has already given us the best James Bond game in more than three decades, s",
+        "title": "‘We get 200 tourists a day’: when your house becomes a TV star",
+        "summary": "What’s it like to live on the set of a soap opera? Or above Ted Lasso’s favourite pub? The residents of the homes made famous by hit TV shows tell allHalf the world recognises the apartment that Carrie Bradshaw lives in. Or the New Jersey mansion where Tony Soprano ate, slept and obsessed over the ducks in his swimming pool. In the 1990s, if you asked a good chunk of the global population where Will Smith l",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/games/2026/aug/13/agent-64-spies-never-die-review-pc-replicant-d6",
-        "seendate": "2026-08-13T13:00:01.000Z",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/aug/14/famous-tv-show-homes-real-residents-ted-lasso-sopranos",
+        "seendate": "2026-08-14T12:00:26.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Hollywood encore: how ‘pro-shot’ Broadway shows became a major draw on the big screen",
-        "summary": "Filmed versions of hit shows such as Hadestown, Hamilton and SIX have been transformed into cinematic events for those without hundreds to spend on ticketsIt’s long been a source of frustration for theater fanatics: many Broadway shows, even those that don’t become years-long fixtures of the Great White Way, are professionally filmed, but often only for archival purposes, not public consumption. For years,",
+        "title": "Add to playlist: the heartbreak post-mortems of Cape Town’s Rowlene and the week’s best new tracks",
+        "summary": "The South African singer has been a memorable guest artist, but the unhurried, emotional tracks on new album Some Strings Attached show she’s ready for the spotlightFrom Cape Town, South AfricaRecommended if you like Summer Walker, SZA, ShekhinahUp next Some Strings Attached out nowRowlene Bosman learned to sing in a Cape Town school choir, a",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/stage/2026/aug/13/broadway-shows-on-film-pro-shot",
-        "seendate": "2026-08-13T10:00:55.000Z",
+        "url": "https://www.theguardian.com/music/2026/aug/14/add-to-playlist-rowlene",
+        "seendate": "2026-08-14T11:00:26.000Z",
         "domain": "theguardian.com"
       }
     ],
     "f1": [
       {
-        "title": "Arvid Lindblad admits F1 rookie season has exceeded expectations",
-        "summary": "Racing Bulls rookie Arvid Lindblad says his maiden Formula 1 campaign is proving to be a \"dream\" as he evaluates an impressive first half of the 2026 season.The 19-year-old started the year off strongly by reaching Q3 at the season-opening Australian Grand Prix and ultimately secured an eighth-place finish. He has since added seven further Q3 appearances and a streak of six consecutive ...<a class='more'",
+        "title": "King Willem-Alexander to present F1 Dutch GP winner's trophy at Zandvoort",
+        "summary": "King Willem-Alexander of the Netherlands will present the winner's trophy at the Dutch Grand Prix at Zandvoort. It will be his first 'official' visit to a sporting event in the Netherlands to present a prize.While King Willem-Alexander and Queen Máxima have attended the Dutch Grand Prix regularly since its return to the Formula 1 calendar in 2021, those prior appearances were made in a ...<a class='more'",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/arvid-lindblad-admits-f1-rookie-season-has-exceeded-expectations/10845614/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-13T14:59:05.000Z",
+        "url": "https://www.motorsport.com/f1/news/king-willem-alexander-to-present-f1-dutch-gp-winners-trophy-at-zandvoort/10846416/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-14T20:46:54.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Lance Stroll spotted driving ultra-rare £3million Aston Martin in Monaco",
-        "summary": "Aston Martin Formula 1 driver Lance Stroll has been spotted around the streets of Monaco in an ultra-rare Aston Martin DBR22 speedster.The Canadian was seen at the wheel of the open-cockpit V12 during the F1 summer break. Introduced in 2022 to celebrate a decade of the bespoke 'Q by Aston Martin' division, the DBR22 draws inspiration from the British marque's DBR1, which won the 1959 24 Hours ...<a class",
+        "title": "F1 2026 mid-season grades: McLaren starts on back foot but makes rapid progress",
+        "summary": "McLaren faced the challenge over following up its back-to-back world titles across an entirely different set of regulations. On paper, it felt like the Woking-based squad was well equipped to do so, but a combination of its 2025 title race hangover and its challenges exploiting Mercedes' power unit have put it on the back foot this year. But a typical, mid-season McLaren surge has salvaged a B- ...<a class='",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/lance-stroll-spotted-driving-ultra-rare-3million-aston-martin-in-monaco/10846154/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-13T14:56:05.000Z",
+        "url": "https://www.motorsport.com/f1/news/f1-2026-mid-season-grades-mclaren-starts-on-the-back-foot-but-makes-rapid-progress/10846244/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-14T15:51:25.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Guenther Steiner sets condition for potential F1 return",
-        "summary": "Former Haas Formula 1 team principal Guenther Steiner has admitted that he would be open to making a return to the championship, provided the opportunity is a genuine \"project\".Steiner, who quickly became a fan-favourite personality through Netflix's Drive to Survive, was replaced as Haas team principal in January 2024. Since his exit, the 61-year-old has become a regular guest on The Red ...<a class='mo",
+        "title": "Why Mercedes finds other F1 teams' upgrades \"scary\" with its out-of-phase plan",
+        "summary": "Mercedes technical director James Allison says the team's decision to keep developing its 2026 Formula 1 car late has put it \"out of phase\" with the other teams around it, causing a leapfrog effect as in-season updates produce large performance gains.The W17 has been the class of the field so far, starting out the year with a 1-2 finish in Australia and going on to claim eight wins in the ...<a class='mo",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/guenther-steiner-sets-condition-for-potential-f1-return/10846138/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-13T13:15:18.000Z",
+        "url": "https://www.motorsport.com/f1/news/mercedes-explains-out-of-phase-developments-with-other-f1-teams/10846275/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-14T13:02:03.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Isack Hadjar identifies key area he must improve compared to Max Verstappen",
-        "summary": "Halfway through the 2026 Formula 1 season, there is still talk about a Red Bull seat, but not the position that has come under the most pressure in recent years. And that is perhaps the biggest compliment Isack Hadjar could receive following his promotion to Red Bull.Since Daniel Ricciardo's departure for Renault, Pierre Gasly, Alex Albon, Sergio Perez, Liam Lawson and Yuki Tsunoda have all ...<a class='",
+        "title": "How F1 drivers were \"drooling over\" Formula E's Gen4 car",
+        "summary": "Formula E boss Jeff Dodds beamed with pride when several Formula 1 drivers attended the Monaco E-Prix, labelling their comments about Gen4 as his highlight of the 2025-26 season.Reigning F1 world champion Lando Norris and several others attended Formula E’s Monaco weekend in May, which was rounds nine and 10 of the current campaign, respectively won by Nyck de Vries and Oliver ...<a class='more' href='ht",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/isack-hadjar-identifies-key-area-he-must-improve-compared-to-max-verstappen/10846118/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-13T13:00:03.000Z",
+        "url": "https://www.motorsport.com/formula-e/news/f1-drivers-drooling-over-gen4/10846265/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-14T12:14:27.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Charles Leclerc and wife Alexandra appear to address pregnancy rumours with holiday photos",
-        "summary": "Ferrari Formula 1 driver Charles Leclerc and his wife, Alexandra Leclerc, who married in a private Monaco ceremony earlier this year, are currently holidaying in Sardinia.Recent photographs from their luxury yacht getaway have fuelled rumours that the couple are expecting their first child, with Alexandra appearing to show a baby bump. While the couple have yet to officially announce the ...<a class=",
+        "title": "Max Verstappen unveils special helmet for final F1 Dutch Grand Prix",
+        "summary": "Four-time Formula 1 champion Max Verstappen has unveiled a special-edition helmet design ahead of what will be his final home race at the 2026 Dutch Grand Prix.The Dutchman's home race helmet design abandons his standard 2026 design for a white and blue colourway inspired by the traditional Dutch Delftware ceramics.The design incorporates intricate floral patterns and ornate blue detailing ...<a clas",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/charles-leclerc-and-wife-alexandra-appear-to-address-pregnancy-rumours-with-holiday-photos/10846116/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-13T12:15:47.000Z",
+        "url": "https://www.motorsport.com/f1/news/max-verstappen-unveils-special-helmet-for-final-f1-dutch-grand-prix/10846299/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-14T11:37:07.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "Shoutout to this particular skeleton, who researchers believe is the first confirmed case of being totally obliterated by a trebuchet",
-        "summary": "Mordre is so wlatsom and abhomynable.",
+        "title": "Disney says that Kingdom Hearts is now a 'billion dollar franchise'",
+        "summary": "Sora can finally afford normal person shoes.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/shoutout-to-this-particular-skeleton-who-researchers-believe-is-the-first-confirmed-case-of-being-totally-obliterated-by-a-trebuchet/",
-        "seendate": "2026-08-13T22:02:10.000Z",
+        "url": "https://www.pcgamer.com/games/rpg/disney-says-that-kingdom-hearts-is-now-a-billion-dollar-franchise/",
+        "seendate": "2026-08-14T22:45:13.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "This spy game is a dream come true if you love spending time in character creators",
-        "summary": "And if your character isn't convincing enough, you die.",
+        "title": "Thimbleweed Park 2 is happening because Ron Gilbert's friend knows a rich guy who's a big fan of the original and wanted more",
+        "summary": "For once, the \"wealthy benefactor on the internet wants to give you money\" story is actually real.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/puzzle/this-spy-game-is-a-dream-come-true-if-you-love-spending-time-in-character-creators/",
-        "seendate": "2026-08-13T21:31:50.000Z",
+        "url": "https://www.pcgamer.com/games/adventure/thimbleweed-park-2-is-happening-because-ron-gilberts-friend-knows-a-rich-guy-whos-a-big-fan-of-the-original-and-wanted-more/",
+        "seendate": "2026-08-14T21:15:48.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "The Lords of the End Times are landing in Total War: Warhammer 3 on September 24, and everything's coming up rat men",
-        "summary": "And skeletons. And demons. And—well—everything bad, really.",
+        "title": "Old School RuneScape began when a dev 'found the 2007 server in their desk drawer:' 13 years later, it's setting subscriber records for the long-lived MMO",
+        "summary": "OSRS is a resounding MMO success story.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/strategy/the-lords-of-the-end-times-are-landing-in-total-war-warhammer-3-on-september-24-and-everythings-coming-up-rat-men/",
-        "seendate": "2026-08-13T18:52:53.000Z",
+        "url": "https://www.pcgamer.com/games/mmo/old-school-runescape-began-when-a-dev-found-the-2007-server-in-their-desk-drawer-13-years-later-its-setting-subscriber-records-for-the-long-lived-mmo/",
+        "seendate": "2026-08-14T20:49:11.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Beast of Reincarnation director apologizes for not providing 'a sufficiently enjoyable experience,' but promises Game Freak is working on it",
-        "summary": "The response to Game Freak's post-apocalyptic action RPG has not been universally positive.",
+        "title": "Pocketpair 'not planning to spend a year making a massive update' for Palworld 1.1",
+        "summary": "Careful what you ask for.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/action/beast-of-reincarnation-director-apologizes-for-not-providing-a-sufficiently-enjoyable-experience-but-promises-game-freak-is-working-on-it/",
-        "seendate": "2026-08-13T17:16:56.000Z",
+        "url": "https://www.pcgamer.com/games/survival-crafting/pocketpair-not-planning-to-spend-a-year-making-a-massive-update-for-palworld-1-1/",
+        "seendate": "2026-08-14T20:08:31.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "A redditor is making super-fancy marble Steam Machine faceplates, *allegedly* sourced from the same quarry as Michelangelo",
-        "summary": "My faceplate's made from wood, from the same forest as trees.",
+        "title": "We've been tracking graphics card prices for exactly one year and it's never been worse than this",
+        "summary": "And I don't know where we go from here. Any positive thoughts welcome.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/hardware/gaming-pcs/a-redditor-is-making-super-fancy-marble-steam-machine-faceplates-allegedly-sourced-from-the-same-quarry-as-michelangelo/",
-        "seendate": "2026-08-13T16:13:31.000Z",
+        "url": "https://www.pcgamer.com/hardware/graphics-cards/weve-been-tracking-graphics-card-prices-for-exactly-one-year-and-its-never-been-worse-than-this/",
+        "seendate": "2026-08-14T16:27:24.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
+      {
+        "title": "Unemployed young people to join AI boot camps to get job-ready",
+        "summary": "Pilot scheme will provide three weeks of training as part of UK government’s latest attempt to address Neets crisisYoung people out of work or at risk of unemployment in the UK are to join “AI boot camps” where they harness the technology to get a foothold in the workplac",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/society/2026/aug/14/unemployed-young-people-to-join-ai-boot-camps-to-get-job-ready",
+        "seendate": "2026-08-13T23:01:10.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Flock Safety tries to curb police abuse of its surveillance cameras after scandals",
+        "summary": "CEO announces steps after reports that system is used to target immigrants or people seeking out-of-state abortionsFor nearly a decade, the company Flock Safety has gradually built out a network of cameras across the US that allows law enforcement officials to conduct about 20bn l",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/aug/13/flock-safety-police-abuse-surveillance-cameras",
+        "seendate": "2026-08-13T20:20:04.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "As online dating goes into ‘salvage mode’, can AI solve all its problems?",
+        "summary": "Dating apps such as Bumble forced to adapt as ‘swipe fatigue’ growsBumble was supposed to be different. When it launched in 2014, it offered women a simple proposition: if you matched with a man, you had to make the first move. The rule was meant to make online dating safer and less intimidating, while giving women control over who got to speak first.This week, Bumble abandoned it. <a href=\"https",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/lifeandstyle/2026/aug/14/online-dating-salvage-mode--ai-bumble-app",
+        "seendate": "2026-08-14T13:00:28.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "AI agents aren’t legally responsible for any harm that they cause, experts say. So who is?",
         "summary": "After Australia’s first reported automated hacking accident, experts warn deployers – and possibly developers – of AI agents could be held liable for the actions of their bots<a href=\"https://www.theguardian.com/australia-news/live/2026/aug/13/australia-politics-live-news-bargaining-meta-tiktok-housing-migration-question-time-anthony-albanese-angus-taylor-pauline-hanson-labor-coalition-one-nation-nt",
@@ -313,33 +337,17 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/technology/2026/aug/13/taiwan-ai-assisted-cyber-attacks-overseas",
         "seendate": "2026-08-13T05:02:28.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "AI was supposed to destroy jobs. Where’s the carnage?",
-        "summary": "The AI jobs apocalypse never showed up. Still, jobs are changing and economists expect more to comeThe prediction was stark: artificial intelligence advancements would wipe out jobs en masse. “Half” of all entry-level white collar jobs would vanish, Anthropic’s CEO, Dario Amodei, said in May 2025. A month later, OpenAI’s CEO, <a h",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/aug/12/ai-job-destruction",
-        "seendate": "2026-08-12T10:00:27.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Meta glasses banned from courts in England and Wales",
-        "summary": "Exclusive: Court service says anyone trying to enter buildings with glasses will have them confiscated and returned when they leaveCourts in England and Wales have joined a number of restaurants, theatres and pubs in banning Meta glasses, amid a mounting backlash against what has been described as “spyware”.Last month courts in <a href=\"https://nysba.org/new-york-state-court-system-b",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/aug/11/meta-glasses-banned-from-courts-in-england-and-wales",
-        "seendate": "2026-08-11T10:29:29.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Spotify to distinguish AI artists from real people – and stop recommending them",
-        "summary": "Music streaming platform creates ‘AI persona’ label that will appear on profiles and track listings in crackdown on fake performersSpotify is to label AI artists and exclude them from algorithm recommendations as part of a crackdown on fake performers.The world’s largest music streaming platform is creating a label for AI-generated artist identities called “AI personas” that will appear on the artist",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/aug/11/spotify-label-ai-artists-block-them-from-some-playlists",
-        "seendate": "2026-08-11T13:40:14.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "climate": [
+      {
+        "title": "‘Devastating’: bulldozers plough through Big Bend national park as Trump’s border work pushes ahead",
+        "summary": "Heavy machinery seen operating in famous Santa Elena Canyon amid outcry over new wall infrastructure in beloved Texas parkBulldozers have begun plowing up ground at the mouth of Big Bend national park’s famed Santa Elena Canyon as part of the Trump administration’s multibillion-dollar “smart wall” expansion on the US-Mexico bo",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/aug/14/bulldozers-big-bend-national-park-trump",
+        "seendate": "2026-08-14T19:27:08.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Fossils show huge carbon emissions harm forests, not ‘green the planet’",
         "summary": "Study of 56m-year-old leaves counters claims from Trump administration members of ‘benefits’ of fossil fuel pollutionAdding huge quantities of carbon dioxide into the atmosphere is set to cause the Earth’s forests to wither and die rather than flourish, according to a new study that counters erroneous claims that fossil fuel pollution will green the planet.An analysis of fossilized leaf cells from a",
@@ -371,55 +379,47 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/us-news/2026/aug/13/power-outages-midwest-indiana-storms",
         "seendate": "2026-08-13T11:49:29.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Lost jobs, inequality, rogue agents: why are we accepting oligarchs’ AI agenda? | Robert Reich",
-        "summary": "The dangers of AI become clearer every day. Why are we still acting as if we have no choice about our future?Rather than producing jobs, the US economy actually lost 23,000 jobs in July, according to Bureau of Labor Statistics data released on Friday. In addition, May and June’s job numbers were revised downward, showing a combined 103,000 fewer",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/commentisfree/2026/aug/13/lost-jobs-inequality-ai-oligarchs",
-        "seendate": "2026-08-13T10:00:56.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "science": [
+      {
+        "title": "Scientists hope to shed light on young universe by using far side of the moon",
+        "summary": "UK team seeking to put suitcase-sized satellite in orbit around moon in search for 21cm line radio frequency signalLittle is known about what was happening shortly after the big bang, but now researchers are hoping to shed fresh light on the matter by harnessing the far side of the moon.Scientists plan to put a suitcase-sized satellite into orbit around the moon, using the data it collects as it pass",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/aug/14/scientists-young-universe-moon-dark-side-cosmocube-satellite-radio-signal-21cm-line",
+        "seendate": "2026-08-14T15:00:32.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "The immortal jellyfish and other mindblowing invertebrates – podcast",
+        "summary": "Each year the Guardian runs a competition to find the invertebrate of the year. To find out more about the 2026 nominees science editor Ian Sample hears from climate reporter Petra Stock, environment reporter Oliver Milman and Science Weekly co-host Madeleine Finlay. They each nominate an incredible invertebrate that you might never have heard of, and argue why their choice should be crowned the winner. Vote for y",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/audio/2026/aug/13/the-immortal-jellyfish-and-other-mindblowing-invertebrates-podcast",
+        "seendate": "2026-08-13T04:00:49.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "I’m a neuroscientist. Here’s why our brains need pop concerts | Bala Subramaniam",
+        "summary": "Attending a Nick Jonas show with my kids was an invitation to ‘collective effervescence’. We need these shared experiences now more than everThree years ago, I agreed to accompany my children to a Nick Jonas concert. The appeal of the Jonas Brothers, and in this case only one of them, was unfamiliar territory.The concert happened to land on a particularly inconvenient day. As I sprinted out of the ho",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/commentisfree/2026/aug/14/pop-concerts-brain-benefits",
+        "seendate": "2026-08-14T12:00:26.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Solar eclipse 2026 across Europe: in pictures",
+        "summary": "A total solar eclipse swept across parts of Europe and the North Atlantic on 12 August, with the path of totality moving through Greenland, Iceland, Spain and a small section of north-eastern Portugal, while surrounding areas across Europe experienced a partial solar eclipse, according to the European Space Agency <a href=\"https://www.theguardian.com/science/gallery/2026/aug/12/solar-eclipse-2",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/gallery/2026/aug/12/solar-eclipse-2026-across-europe-in-pictures",
+        "seendate": "2026-08-12T20:21:33.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Astronomers discover a new kind of cosmic object – a black hole ‘star’",
         "summary": "The body is the size of the entire solar system and glows with a brilliant red light billions of light years from EarthAstronomers claim to have discovered a new kind of cosmic object, a black hole “star”, which is the size of the entire solar system and glows with a brilliant red light.The international team made the breakthrough after focusing their attention on a mysterious red spot in images of t",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/science/2026/aug/12/astronomy-discovery-new-cosmic-object-black-hole-star",
         "seendate": "2026-08-12T15:46:46.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "‘A mouse can’t tell us what works’: UK scientists to grow miniature human organs for drug testing",
-        "summary": "Organoids and tissues grown from human cells promise more accurate results, with £20m Cambridge project to create standardised modelsMiniature human organs and other tissues are to be grown from NHS patients’ cells in a drive to improve medicine testing and reduce the number of animals used in drug development.Scientists will use the clumps of tissue to learn how diseases vary between patients, helpi",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/aug/12/organoids-human-organs-cambridge-shift-drug-testing-medicines-animals",
-        "seendate": "2026-08-12T04:00:19.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "‘Real mummy’s curse’: health warning over growing trade in mummified human remains",
-        "summary": "Academic paper says often illicit trade exposes enthusiasts – and postal workers handling items – to serious risksA growing global trade in mummified human remains has been described by academics as “a real mummy’s curse” that poses a serious health risk to its enthusiasts and the postal services they use.Research into the secretive buying and selling of centuries-old human body parts including hands",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/aug/11/mummified-human-remains-trade-health-warning-curse",
-        "seendate": "2026-08-11T13:25:07.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "The great silence: why haven’t we found any aliens yet?",
-        "summary": "Given the size and age of the universe, it should be full of species with technology far more advanced than our own. So where are they?• The summer issue of the Long Read magazine is out now. Click here</",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/news/2026/aug/11/the-great-silence-why-havent-we-found-any-aliens-yet",
-        "seendate": "2026-08-11T04:00:04.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "We’re reading less. And it’s making us stupid – podcast",
-        "summary": "Books have never been trendier, but studies show that as more and more things compete for our frazzled attention spans, we’re reading less and less. This is a problem because reading has a wealth of cognitive benefits that we’re in danger of missing out on.To find out why declining literacy could affect e",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/audio/2026/aug/11/were-reading-less-and-its-making-us-stupid-podcast",
-        "seendate": "2026-08-11T04:00:04.000Z",
         "domain": "theguardian.com"
       }
     ]
