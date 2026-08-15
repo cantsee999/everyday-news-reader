@@ -1,8 +1,24 @@
 {
-  "generatedAt": "2026-08-14T23:10:47.324Z",
+  "generatedAt": "2026-08-15T23:10:14.391Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
+      {
+        "title": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
+        "summary": "Eighteen children among the people killed after ferry capsized on Lake KaribaTwenty-two more bodies have been recovered after a boat accident in Zimbabwe, taking the death toll to 68, police said on Saturday.The ferry capsized on Tuesday on Lake Kariba, on the border with Zambia. An investigation has sugges",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident",
+        "seendate": "2026-08-15T19:39:07.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Moroccan police arrest more than 100 people as they attempt to enter Ceuta",
+        "summary": "Border security tightened after social media posts call for another mass crossing into Spain’s north African territoryMoroccan police have arrested 111 people as they tried to enter Spain’s north African territory of Ceuta, amid ⁠tightened security on both sides after social media posts ​called for another mass crossing.The attempted crossing on Saturday came two weeks after more than <a href=\"https:",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta",
+        "seendate": "2026-08-15T18:08:21.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "American missionary kidnapped in Niger freed after nine months",
         "summary": "Kevin Rideout, who was abducted by unknown assailants in Niamey, said to be in good health and in care of US officialsAn American missionary who was kidnapped in Niger in October has been released, his organisation has said.Serving in Mission International said Kevin Rideout “is in good health in the care of US officials” and would soon be reunited with his extended family. <a hr",
@@ -25,27 +41,27 @@
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/world/2026/aug/13/france-ambassador-car-central-african-republic-investigation-bruno-foucher",
         "seendate": "2026-08-13T14:21:52.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Zambia elections haunted by ghost of incumbent president’s arch-rival",
-        "summary": "Hakainde Hichilema is bidding for second term, but feud between him and family of Edgar Lungu, who died in 2025, continuesAs Zambians go to the polls on Thursday, the ghost of the current president’s predecessor hangs over the elections.Hakainde Hichilema, 64, is bidding for a second term leading the southern African country after defeating his arch-rival Edgar Lungu by a landslide in 2021. <a hr",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/aug/13/zambia-elections-hakainde-hichilema-haunted-ghost-incumbent-president-arch-rival-edgar-lungu",
-        "seendate": "2026-08-13T04:00:49.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "At least 44 dead after overcrowded ferry capsizes on Lake Kariba in Zimbabwe",
-        "summary": "Operation under way to rescue dozens missing after boat overturned by waves at world’s largest human-made lakeAt least 44 people have died after an overcrowded ferry capsized on Lake Kariba in Zimbabwe, police said.The boat had a capacity of 90 people, but was carrying 114 adult passengers, five crew members and an unknown number of children, Zimbabwe’s civil protection unit (CPU) sa",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/aug/12/zimbabwe-lake-kariba-ferry-capsize",
-        "seendate": "2026-08-12T12:21:08.000Z",
         "domain": "theguardian.com"
       }
     ],
     "conflict": [
       {
+        "title": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
+        "summary": "Eighteen children among the people killed after ferry capsized on Lake KaribaTwenty-two more bodies have been recovered after a boat accident in Zimbabwe, taking the death toll to 68, police said on Saturday.The ferry capsized on Tuesday on Lake Kariba, on the border with Zambia. An investigation has sugges",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident",
+        "seendate": "2026-08-15T19:39:07.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Moroccan police arrest more than 100 people as they attempt to enter Ceuta",
+        "summary": "Border security tightened after social media posts call for another mass crossing into Spain’s north African territoryMoroccan police have arrested 111 people as they tried to enter Spain’s north African territory of Ceuta, amid ⁠tightened security on both sides after social media posts ​called for another mass crossing.The attempted crossing on Saturday came two weeks after more than <a href=\"https:",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta",
+        "seendate": "2026-08-15T18:08:21.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "American missionary kidnapped in Niger freed after nine months",
         "summary": "Kevin Rideout, who was abducted by unknown assailants in Niamey, said to be in good health and in care of US officialsAn American missionary who was kidnapped in Niger in October has been released, his organisation has said.Serving in Mission International said Kevin Rideout “is in good health in the care of US officials” and would soon be reunited with his extended family. <a hr",
         "source": "theguardian.com",
@@ -67,22 +83,6 @@
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/world/2026/aug/13/france-ambassador-car-central-african-republic-investigation-bruno-foucher",
         "seendate": "2026-08-13T14:21:52.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Zambia elections haunted by ghost of incumbent president’s arch-rival",
-        "summary": "Hakainde Hichilema is bidding for second term, but feud between him and family of Edgar Lungu, who died in 2025, continuesAs Zambians go to the polls on Thursday, the ghost of the current president’s predecessor hangs over the elections.Hakainde Hichilema, 64, is bidding for a second term leading the southern African country after defeating his arch-rival Edgar Lungu by a landslide in 2021. <a hr",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/aug/13/zambia-elections-hakainde-hichilema-haunted-ghost-incumbent-president-arch-rival-edgar-lungu",
-        "seendate": "2026-08-13T04:00:49.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "At least 44 dead after overcrowded ferry capsizes on Lake Kariba in Zimbabwe",
-        "summary": "Operation under way to rescue dozens missing after boat overturned by waves at world’s largest human-made lakeAt least 44 people have died after an overcrowded ferry capsized on Lake Kariba in Zimbabwe, police said.The boat had a capacity of 90 people, but was carrying 114 adult passengers, five crew members and an unknown number of children, Zimbabwe’s civil protection unit (CPU) sa",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/aug/12/zimbabwe-lake-kariba-ferry-capsize",
-        "seendate": "2026-08-12T12:21:08.000Z",
         "domain": "theguardian.com"
       }
     ],
@@ -130,6 +130,14 @@
     ],
     "literature": [
       {
+        "title": "Art Spiegelman: ‘The US needs a counter-revolution’",
+        "summary": "More than four decades after his Holocaust story Maus transformed the graphic novel genre, Art Spiegelman discusses Trump, the shadow of 9/11 and the rise of fascism in AmericaWhen the cartoonist Art Spiegelman began dating his future wife, Françoise Mouly, in the mid 70s, she would tell him not to worry about walking her home, because even the New York muggers didn’t bother venturing to where she lived in",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/ng-interactive/2026/aug/15/art-spiegelman-the-us-needs-a-counter-revolution",
+        "seendate": "2026-08-15T08:00:50.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Rebecca Perry: ‘Lorca hit me like a bolt of lightning’",
         "summary": "The poet and novelist on the power of fairytales, being inspired by Frank O’Hara and the joys of Doris LessingMy earliest reading&nbsp;memory Reading On the Ning Nang Nong by Spike Milligan, aged five or so, sitting on the floor of the bedroom I shared with my brother – who, in my memory, was sitting on the carpet next to me.My favourite book&nbsp;growing up",
         "source": "theguardian.com",
@@ -159,14 +167,6 @@
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/books/2026/aug/13/can-nothing-save-us-by-irvine-welsh-review-us-family-saga-is-a-late-career-triumph",
         "seendate": "2026-08-13T06:00:50.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Universality by Natasha Brown audiobook review – a sparkling multi-voiced satire",
-        "summary": "A magazine article about stolen gold sparks a culture war between a cast of politically polarised charactersA stinging dissection of wealth, class and the media, Natasha Brown’s satire begins with a man named Jake gazing at a gold bar he has found at a farm in West Yorkshire. Outside, an illegal rave is taking place which will end in three hospitalisations and property damage. Pondering what to do with the",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/aug/13/universality-by-natasha-brown-audiobook-review-a-sparkling-multi-voiced-satire",
-        "seendate": "2026-08-13T14:00:02.000Z",
         "domain": "theguardian.com"
       }
     ],
@@ -214,85 +214,85 @@
     ],
     "f1": [
       {
-        "title": "King Willem-Alexander to present F1 Dutch GP winner's trophy at Zandvoort",
-        "summary": "King Willem-Alexander of the Netherlands will present the winner's trophy at the Dutch Grand Prix at Zandvoort. It will be his first 'official' visit to a sporting event in the Netherlands to present a prize.While King Willem-Alexander and Queen Máxima have attended the Dutch Grand Prix regularly since its return to the Formula 1 calendar in 2021, those prior appearances were made in a ...<a class='more'",
+        "title": "F1 2026 mid-season grades: Innovative Ferrari impresses with strong start",
+        "summary": "Was Fred Vasseur playing with fire when he decided Ferrari should switch focus to 2026 as early as April last year? Perhaps so, but with the Scuderia unable to catch McLaren, the Frenchman made the rational and correct call, even if it didn't necessarily go down well with the expectant Italian faithful at the time.Vasseur at least weathered that storm, but only on the basis that he and his ...<a class='m",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/king-willem-alexander-to-present-f1-dutch-gp-winners-trophy-at-zandvoort/10846416/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-14T20:46:54.000Z",
+        "url": "https://www.motorsport.com/f1/news/f1-2026-mid-season-grades-innovative-ferrari-impresses-with-strong-start/10846497/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-15T13:09:32.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "F1 2026 mid-season grades: McLaren starts on back foot but makes rapid progress",
-        "summary": "McLaren faced the challenge over following up its back-to-back world titles across an entirely different set of regulations. On paper, it felt like the Woking-based squad was well equipped to do so, but a combination of its 2025 title race hangover and its challenges exploiting Mercedes' power unit have put it on the back foot this year. But a typical, mid-season McLaren surge has salvaged a B- ...<a class='",
+        "title": "Gabriel Bortoleto expects long-term stay at Audi's F1 team",
+        "summary": "Gabriel Bortoleto expects to remain at Audi for the long-term, stating that he has a deal with the Swiss-German Formula 1 outfit to cover the next few seasons.The Brazilian joined the team in 2025 for its final season as Sauber and scored 19 points in his rookie year, and across 2026 has scored 10 of Audi's 12 points. As it stands, he sits 14th in the championship - eight points behind Haas' ...<a class=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/f1-2026-mid-season-grades-mclaren-starts-on-the-back-foot-but-makes-rapid-progress/10846244/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-14T15:51:25.000Z",
+        "url": "https://www.motorsport.com/f1/news/bortoleto-expects-long-term-stay-at-audis-f1-team/10846331/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-15T12:00:02.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Why Mercedes finds other F1 teams' upgrades \"scary\" with its out-of-phase plan",
-        "summary": "Mercedes technical director James Allison says the team's decision to keep developing its 2026 Formula 1 car late has put it \"out of phase\" with the other teams around it, causing a leapfrog effect as in-season updates produce large performance gains.The W17 has been the class of the field so far, starting out the year with a 1-2 finish in Australia and going on to claim eight wins in the ...<a class='mo",
+        "title": "Mercedes no longer needs Max Verstappen, says Guenther Steiner",
+        "summary": "Former Haas Formula 1 team principal Guenther Steiner believes Mercedes' need to sign Max Verstappen has faded, suggesting the Brackley outfit has already found \"the next Max Verstappen\" in Kimi Antonelli.Verstappen's F1 future has been the subject of paddock rumours for some time, particularly with Red Bull struggling to keep up with Mercedes at the front of the grid in 2026. The Dutchman has ...<a clas",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/mercedes-explains-out-of-phase-developments-with-other-f1-teams/10846275/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-14T13:02:03.000Z",
+        "url": "https://www.motorsport.com/f1/news/mercedes-no-longer-needs-max-verstappen-says-guenther-steiner/10846482/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-15T11:30:12.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "How F1 drivers were \"drooling over\" Formula E's Gen4 car",
-        "summary": "Formula E boss Jeff Dodds beamed with pride when several Formula 1 drivers attended the Monaco E-Prix, labelling their comments about Gen4 as his highlight of the 2025-26 season.Reigning F1 world champion Lando Norris and several others attended Formula E’s Monaco weekend in May, which was rounds nine and 10 of the current campaign, respectively won by Nyck de Vries and Oliver ...<a class='more' href='ht",
+        "title": "Max Verstappen pinpoints Red Bull's \"big priority\" for second half of F1 2026",
+        "summary": "During Formula 1's summer break, Max Verstappen finds himself no fewer than 110 points behind championship leader Kimi Antonelli.Last season, the four-time world champion launched a spectacular comeback from Zandvoort onwards and finished on the podium in every grand prix during the second half of the season, but this time he is absolutely not expecting that scenario.Red Bull's problems ...<a class='",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/formula-e/news/f1-drivers-drooling-over-gen4/10846265/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-14T12:14:27.000Z",
+        "url": "https://www.motorsport.com/f1/news/max-verstappen-pinpoints-red-bulls-big-priority-for-second-half-of-f1-2026/10846420/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-15T08:24:28.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Max Verstappen unveils special helmet for final F1 Dutch Grand Prix",
-        "summary": "Four-time Formula 1 champion Max Verstappen has unveiled a special-edition helmet design ahead of what will be his final home race at the 2026 Dutch Grand Prix.The Dutchman's home race helmet design abandons his standard 2026 design for a white and blue colourway inspired by the traditional Dutch Delftware ceramics.The design incorporates intricate floral patterns and ornate blue detailing ...<a clas",
+        "title": "George Russell still carries scars from 2020 Mercedes F1 call-up",
+        "summary": "Mercedes Formula 1 driver George Russell has revealed he still carries scars on his hips from squeezing into seven-time champion Lewis Hamilton's race seat during his appearance for the Brackley outfit at the 2020 Sakhir Grand Prix.Russell, who was driving for Williams at the time, was called up to Mercedes for the penultimate race of 2020 after Hamilton tested positive for ...<a class='more' href='https",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/max-verstappen-unveils-special-helmet-for-final-f1-dutch-grand-prix/10846299/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-14T11:37:07.000Z",
+        "url": "https://www.motorsport.com/f1/news/george-russell-still-carries-scars-from-2020-mercedes-f1-call-up/10846449/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-15T08:20:12.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "Disney says that Kingdom Hearts is now a 'billion dollar franchise'",
-        "summary": "Sora can finally afford normal person shoes.",
+        "title": "Matthew McConaughey could have played Joel in The Last of Us, but says 'it just wasn't for me at the time'",
+        "summary": "Pedro Pascal did a great job, but you can see it, right?",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/rpg/disney-says-that-kingdom-hearts-is-now-a-billion-dollar-franchise/",
-        "seendate": "2026-08-14T22:45:13.000Z",
+        "url": "https://www.pcgamer.com/movies-tv/matthew-mcconaughey-could-have-played-joel-in-the-last-of-us-but-says-it-just-wasnt-for-me-at-the-time/",
+        "seendate": "2026-08-15T19:57:04.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Thimbleweed Park 2 is happening because Ron Gilbert's friend knows a rich guy who's a big fan of the original and wanted more",
-        "summary": "For once, the \"wealthy benefactor on the internet wants to give you money\" story is actually real.",
+        "title": "Simpsons creator Matt Groening implies that a Hit & Run remaster is coming, current showrunner hastily disputes",
+        "summary": "Stonecutters-level opsec.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/adventure/thimbleweed-park-2-is-happening-because-ron-gilberts-friend-knows-a-rich-guy-whos-a-big-fan-of-the-original-and-wanted-more/",
-        "seendate": "2026-08-14T21:15:48.000Z",
+        "url": "https://www.pcgamer.com/games/action/simpsons-creator-matt-groening-implies-that-a-hit-and-run-remaster-is-coming-current-showrunner-hastily-disputes/",
+        "seendate": "2026-08-15T18:17:42.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Old School RuneScape began when a dev 'found the 2007 server in their desk drawer:' 13 years later, it's setting subscriber records for the long-lived MMO",
-        "summary": "OSRS is a resounding MMO success story.",
+        "title": "Witcher 3 designer says it wasn't easy to convince players its NPC simulation wasn't 'just fakery': 'People nowadays are interested in those kinds of details, and it really came to haunt us'",
+        "summary": "\"Today, if you said 'give me a Witcher 3 village that has eight houses', I could give you that in two hours.\"",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/mmo/old-school-runescape-began-when-a-dev-found-the-2007-server-in-their-desk-drawer-13-years-later-its-setting-subscriber-records-for-the-long-lived-mmo/",
-        "seendate": "2026-08-14T20:49:11.000Z",
+        "url": "https://www.pcgamer.com/games/the-witcher/witcher-3-designer-says-it-wasnt-easy-to-convince-players-its-npc-simulation-wasnt-just-fakery-people-nowadays-are-interested-in-those-kinds-of-details-and-it-really-came-to-haunt-us/",
+        "seendate": "2026-08-15T17:04:02.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Pocketpair 'not planning to spend a year making a massive update' for Palworld 1.1",
-        "summary": "Careful what you ask for.",
+        "title": "I got so freaked out by the fact that Gordon Freeman is canonically 27 that I decided to find out how old all the other classic FPS protagonists are, and it didn't make me feel better",
+        "summary": "Time, Dr Freeman?",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/survival-crafting/pocketpair-not-planning-to-spend-a-year-making-a-massive-update-for-palworld-1-1/",
-        "seendate": "2026-08-14T20:08:31.000Z",
+        "url": "https://www.pcgamer.com/games/fps/i-got-so-freaked-out-by-the-fact-that-gordon-freeman-is-canonically-27-that-i-decided-to-find-out-how-old-all-the-other-classic-fps-protagonists-are-and-it-didnt-make-me-feel-better/",
+        "seendate": "2026-08-15T16:32:47.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "We've been tracking graphics card prices for exactly one year and it's never been worse than this",
-        "summary": "And I don't know where we go from here. Any positive thoughts welcome.",
+        "title": "Star Wars: The Old Republic hopes to recapture the 'classic' experience with difficulty options and a new way to start from scratch",
+        "summary": "Venture characters seem inspired by the seasonal and ironman modes found in ARPGs.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/hardware/graphics-cards/weve-been-tracking-graphics-card-prices-for-exactly-one-year-and-its-never-been-worse-than-this/",
-        "seendate": "2026-08-14T16:27:24.000Z",
+        "url": "https://www.pcgamer.com/games/mmo/star-wars-the-old-republic-hopes-to-recapture-the-classic-experience-with-difficulty-options-and-a-new-way-to-start-from-scratch/",
+        "seendate": "2026-08-15T15:18:09.000Z",
         "domain": "pcgamer.com"
       }
     ],
