@@ -1,5 +1,5 @@
 window.NEWS_CACHE = {
-  "generatedAt": "2026-08-17T23:11:42.573Z",
+  "generatedAt": "2026-08-18T23:11:25.075Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
@@ -88,11 +88,27 @@ window.NEWS_CACHE = {
     ],
     "economy": [
       {
-        "title": "US gas prices reach highest ever recorded for August amid stalled talks with Iran",
-        "summary": "Energy prices have been high since the US-Israel war with Iran began and the strait of Hormuz was blockedUS gas prices this month are so far the highest ever recorded for August as peace talks between the US and Iran have stalled and Donald Trump launched fresh threats against Oman.The national average price of gas was $4.06 per gallon on Monday, according to data from <a href=\"https://gasprices.aaa.",
+        "title": "ABC sues Trump’s media regulator over demand for TV license renewals",
+        "summary": "Network alleges FCC is trying to send ‘chilling message’ in retaliation for content the administration disapproves ofABC has sued the Federal Communications Commission (FCC), arguing that it is being retaliated against for content-based reasons in a move it warns threatens the independence of the press.The network filed the lawsuit on Tuesday after",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/aug/17/gas-prices-august-record-iran-war",
-        "seendate": "2026-08-17T15:51:46.000Z",
+        "url": "https://www.theguardian.com/us-news/2026/aug/18/abc-sues-trump-federal-communications-commission",
+        "seendate": "2026-08-18T13:38:23.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Oil prices jump after US-Iran ceasefire expires and Trump threatens Oman",
+        "summary": "Brent crude rises above $90 a barrel for the first time since 30 July after US president tells Tehran to surrenderBusiness live – latest updatesOil prices have risen again after the two-month window to negotiate a peace d",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/business/2026/aug/18/oil-prices-rise-us-iran-brent-crude-donald-trump",
+        "seendate": "2026-08-18T11:50:40.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Governments’ borrowing costs hit further multi-decade highs as US-Iran peace hopes fade",
+        "summary": "Bond yields in US, UK, Germany France and Japan rise after ceasefire ends and Trump threatens to bomb OmanBusiness live – latest updatesGovernment borrowing costs in several advanced economies continued to rise to levels",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/business/2026/aug/18/governments-borrowing-costs-us-iran-bond-yields-trump",
+        "seendate": "2026-08-18T10:54:43.000Z",
         "domain": "theguardian.com"
       },
       {
@@ -110,194 +126,202 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/business/2026/aug/17/china-economy-slowdown-signs-extending",
         "seendate": "2026-08-17T15:36:25.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Are Microsoft’s AI plans being held back by a shortage of chips?",
-        "summary": "Guardian investigation finds apparent discrepancy between what tech company has said about its AI capacity – and the number of advanced chips it has in operationThe chips are quite small and some can be held in the palm of a hand. They are fundamental to the development of artificial intelligence models – and the world’s biggest technology companies need vast numbers of them to keep ahead.Micr",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/aug/17/are-microsofts-ai-plans-being-held-back-by-a-shortage-of-chips",
-        "seendate": "2026-08-17T04:00:46.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "New Mexico’s attorney general pushes new social media safety laws after $900m court victory over Meta",
-        "summary": "Exclusive: Raúl Torrez is drafting two bills with state lawmakers to bolster consumer protections and child safety online, building on state’s landmark case against MetaNew Mexico’s attorney general is mounting a full-court press against technology companies to improve their child safety measures, capitalizing on a landmark <a href=\"https://www.the",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/aug/17/raul-torrez-new-mexico-meta-social-media-safety-laws",
-        "seendate": "2026-08-17T11:00:53.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "literature": [
       {
-        "title": "Agrippa by Robert Harris review – persuasive portrait of rivalry in ancient Rome",
-        "summary": "This fictional memoir by Octavius’s right-hand man shows us bloodshed, betrayal and hectic jockeying for powerIf you’re one of those people who thinks about the Roman empire several times a week, Robert Harris has you covered. He follows his&nbsp;trilogy of novels about the life of Cicero and his one-off about the unpleasantness in Pompeii with a narrative that takes&nbsp;us from civil war through the assas",
+        "title": "Philip Pullman and Maggie O’Farrell among authors urging Burnham to cut business rates on bookshops",
+        "summary": "After pubs and clubs get rates relief, authors back open letter calling for similar support for bookshops, described as the ‘beating hearts’ of high streetsMaggie O’Farrell, Philip Pullman, Katherine Rundell and Elif Shafak are among the authors supporting a campaign by independent booksellers who have urged Andy Burnham to extend <a href=\"https://www.theguardian.com/business/2026/jul/23/business-rates-to-b",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/aug/17/agrippa-by-robert-harris-review-persuasive-portrait-of-rivalry-in-ancient-rome",
-        "seendate": "2026-08-17T06:00:46.000Z",
+        "url": "https://www.theguardian.com/books/2026/aug/18/philip-pullman-and-maggie-ofarrell-among-authors-urging-burnham-to-cut-business-rates-on-bookshops",
+        "seendate": "2026-08-18T17:25:12.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "The Ego Trip by Kimon de Greef review – a bizarre tale of psychedelic toads and hair-raising treatments",
-        "summary": "A journalist investigates the unsettling world of a charismatic shaman and the people who trusted himWhich, in your opinion, is the&nbsp;worst current cultural trend: social media influencers; unregulated wellness practitioners; macho manosphere posturers; psychedelic bores; cultural appropriators? The good news is that, with Octavio Rettig, the central character in Kimon de Greef’s The Ego&nbsp;Trip, you d",
+        "title": "Christopher Berry-Dee dropped by publisher after allegations of abuse made against him",
+        "summary": "Bonnier Books will no longer publish UK’s top-selling true crime author following Guardian investigationThe main publisher of the bestselling true crime writer Christopher Berry-Dee has dropped the author after a Guardian investigation into allegations of violence and<",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/aug/17/the-ego-trip-by-kimon-de-greef-review-a-bizarre-tale-of-psychedelic-toads-and-hair-raising-treatments",
-        "seendate": "2026-08-17T08:00:49.000Z",
+        "url": "https://www.theguardian.com/books/2026/aug/18/christopher-berry-dee-dropped-publisher-allegations-abuse",
+        "seendate": "2026-08-18T15:14:30.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘It is not only a future certainty – the disaster is already here’: why we need climate fiction",
-        "summary": "As wildfires rage across Europe and Britain swelters through its hottest summer on record, literary fiction has a vital role to play in capturing the severe consequences of climate crisisEarlier this summer, I&nbsp;travelled through Europe on a book tour. Everywhere I went, the heat broke records. In Italy, Germany and Spain, I sought refuge from the afternoon sun in air-conditioned hotels. In normally temp",
+        "title": "‘The truth about Diana’: Charles Spencer to publish book about late sister",
+        "summary": "Earl says he wanted to ‘write down my own thoughts and memories’ with 30th anniversary of Diana’s death ‘on the skyline’Charles Spencer is to publish a book about his sister Diana in September.In the book – titled Swan Song: Diana, My Sister – Spencer recounts the story of Diana’s life and the week of her death. It marks “the first time that Earl Spencer has spoken openly and at length about his sist",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/aug/16/it-is-not-only-a-future-certainty-the-disaster-is-already-here-why-we-need-climate-fiction",
-        "seendate": "2026-08-16T11:00:24.000Z",
+        "url": "https://www.theguardian.com/books/2026/aug/18/charles-spencer-diana-book-swan-song",
+        "seendate": "2026-08-18T12:17:19.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Art Spiegelman: ‘The US needs a counter-revolution’",
-        "summary": "More than four decades after his Holocaust story Maus transformed the graphic novel genre, Art Spiegelman discusses Trump, the shadow of 9/11 and the rise of fascism in AmericaWhen the cartoonist Art Spiegelman began dating his future wife, Françoise Mouly, in the mid 70s, she would tell him not to worry about walking her home, because even the New York muggers didn’t bother venturing to where she lived in",
+        "title": "Ukrainian Lessons by Charlotte Higgins review – when art and war collide",
+        "summary": "A vivid and hopeful study of how culture endures in the midst of extreme violenceTowards the end of her subtly piercing book about art in wartime, Charlotte Higgins recounts an autumn visit to Kharkiv, Ukraine’s second city, in the north-east of the country, a short drive from the Russian border. In a tranquil park, she sees a man standing in a stream, making stones balance on top of each other in a teeteri",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/ng-interactive/2026/aug/15/art-spiegelman-the-us-needs-a-counter-revolution",
-        "seendate": "2026-08-15T08:00:50.000Z",
+        "url": "https://www.theguardian.com/books/2026/aug/18/ukrainian-lessons-by-charlotte-higgins-review-when-art-and-war-collide",
+        "seendate": "2026-08-18T06:00:15.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Tom Gauld on the library of the forbidden tomes – cartoon",
-        "summary": "Continue reading...",
+        "title": "Sunrise by Téa Obreht review – secrets and myths in the American west",
+        "summary": "Set across three interwoven timelines, this absorbing tale of an abandoned mining town explores courage, cowardice and how history is recordedTéa Obreht’s novels teem with&nbsp;conflicting narratives, treacherous landscapes and speculative fictions. Her 2010 prizewinning debut, The Tiger’s Wife, examined themes of deat",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/picture/2026/aug/16/tom-gauld-on-the-library-of-the-forbidden-tomes-cartoon",
-        "seendate": "2026-08-16T15:00:28.000Z",
+        "url": "https://www.theguardian.com/books/2026/aug/18/sunrise-by-tea-obreht-review-secrets-and-myths-in-the-american-west",
+        "seendate": "2026-08-18T08:00:18.000Z",
         "domain": "theguardian.com"
       }
     ],
     "entertainment": [
       {
-        "title": "Connie Britton  has no word after death of Nashville co - star Hayden Panettiere",
-        "summary": "Tributes have poured in for Panettiere.",
-        "source": "heraldseries.co.uk",
-        "url": "https://www.heraldseries.co.uk/news/national/26472514.connie-britton-has-no-words-death-nashville-co-star-hayden-panettiere/",
-        "seendate": "20260817T224500Z",
-        "domain": "heraldseries.co.uk"
+        "title": "The Rippling of Rivers :  Open the Floodgate Gives Voice to a Waterway",
+        "summary": "Marin author Nina Schuyler’s ‘Open the Floodgates,’ imagines a river on trial for personhood in an environmental fable rooted in California.",
+        "source": "pacificsun.com",
+        "url": "https://pacificsun.com/the-rippling-of-rivers-open-the-floodgates-gives-voice-to-a-waterway/",
+        "seendate": "20260818T224500Z",
+        "domain": "pacificsun.com"
       },
       {
-        "title": "Kanye West to perform in Russia in October , venue says",
-        "summary": "A stadium in Russia says Kanye West is scheduled to perform in concerts in St Petersburg.",
-        "source": "centralwesterndaily.com.au",
-        "url": "https://www.centralwesterndaily.com.au/story/9332179/kanye-west-to-perform-in-russia-in-october-venue-says/",
-        "seendate": "20260817T224500Z",
-        "domain": "centralwesterndaily.com.au"
-      },
-      {
-        "title": "Iconic Nashville Venue Pays Tribute To Late Hayden Panettiere , Dead At 36",
-        "summary": "Hayden Panettiere, who played Juliette Barnes on the TV series &#x27;Nashville,&#x27; has died. She was 36.",
-        "source": "kssn.iheart.com",
-        "url": "https://kssn.iheart.com/content/2026-08-17-iconic-nashville-venue-pays-tribute-to-late-hayden-panettiere-dead-at-36/",
-        "seendate": "20260817T224500Z",
-        "domain": "kssn.iheart.com"
-      },
-      {
-        "title": "Hayden Panettiere : A Timeline of Tragedy + Troubles",
+        "title": "Lionsgate Play Selects NAGRAVISION to Protect Streaming Service - Broadcast / TV / Radio - NAGRA | Kudelski SA",
         "summary": "",
-        "source": "981thehawk.com",
-        "url": "https://981thehawk.com/ixp/204/p/hayden-panettiere-timeline-abuse-addiction-postpartum-baby/",
-        "seendate": "20260817T224500Z",
-        "domain": "981thehawk.com"
+        "source": "newswiretoday.com",
+        "url": "https://www.newswiretoday.com/news/186699/",
+        "seendate": "20260818T224500Z",
+        "domain": "newswiretoday.com"
       },
       {
-        "title": "Five new books to read this week | Connaught Telegraph",
-        "summary": "This week’s bookcase includes reviews of Death Writ Large by Susie Dent and Ghost Cities by Siang Lu.",
-        "source": "con-telegraph.ie",
-        "url": "https://www.con-telegraph.ie/2026/08/17/five-new-books-to-read-this-week-22/",
-        "seendate": "20260817T224500Z",
-        "domain": "con-telegraph.ie"
+        "title": "Momentum Media Fund and Lunar Records Fund to Provide Investor Relations Coverage and Support for The Hampton Global Passion Projects",
+        "summary": "BEVERLY HILLS, CA / ACCESS Newswire / August 18, 2026 / Momentum Media Fund and Momentum Studios, announced they will provide valuable investor relations media",
+        "source": "newjerseytelegraph.com",
+        "url": "http://www.newjerseytelegraph.com/news/279249954/momentum-media-fund-and-lunar-records-fund-to-provide-investor-relations-coverage-and-support-for-the-hampton-global-passion-projects-legacy-series",
+        "seendate": "20260818T224500Z",
+        "domain": "newjerseytelegraph.com"
+      },
+      {
+        "title": "Hayden Panettiere abusive ex was at scene when she died",
+        "summary": "",
+        "source": "edmontonsun.com",
+        "url": "https://edmontonsun.com/entertainment/celebrity/hayden-panettieres-abusive-ex-brian-hickerson-was-at-scene-when-she-died-police-report",
+        "seendate": "20260818T224500Z",
+        "domain": "edmontonsun.com"
+      },
+      {
+        "title": "How Did Sirius Black Actually Escape Azkaban in Harry Potter ? ",
+        "summary": "Sirius Black",
+        "source": "gamerant.com",
+        "url": "https://gamerant.com/how-sirius-black-actually-escaped-azkaban-explained/",
+        "seendate": "20260818T224500Z",
+        "domain": "gamerant.com"
       }
     ],
     "f1": [
       {
-        "title": "F1 fans praise Gabriel Bortoleto's brutally honest \"Passenger Princess\" appearance",
-        "summary": "Audi Formula 1 driver Gabriel Bortoleto has featured on Amelia Dimoldenberg's Passenger Princess YouTube series.Filmed during the Austrian Grand Prix weekend, the Brazilian driver taught the presenter speed control and how to hit the apex.As they took on the fun challenges in the Audi RS 5 Avant, the pair discussed Bortoleto's discomfort at being a passenger, Brazil, pre-race nerves ...<a class='more",
+        "title": "\"No nine to five cruise\" - The rewarding challenge of assembling Cadillac's trackside team from scratch",
+        "summary": "When brand-new entrant Cadillac started its search for a race team manager, still a full year removed from joining the 2026 Formula 1 grid, it didn't have to look very long, or far, to identify the right target.Over at Haas, F1's previous start-up team in 2016, long serving team manager Peter Crolla had been looking for a new challenge, and the prospect of another chance to build a team from ...<a class=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/f1-fans-praise-gabriel-bortoletos-brutally-honest-passenger-princess-appearance/10846961/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-17T22:06:20.000Z",
+        "url": "https://www.motorsport.com/f1/news/no-nine-to-five-cruise-the-rewarding-challenge-of-assembling-cadillacs-trackside-team-from-scratch/10847051/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-18T15:16:30.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Christian Horner announces UK book tour for new memoir following Red Bull F1 exit",
-        "summary": "Former Red Bull Racing CEO and team principal Christian Horner has announced a UK book tour this autumn to coincide with the release of his new memoir, Drive.The 52-year-old revealed the tour will provide fans with the rare opportunity to speak with him directly through live Q&A sessions where he can discuss his two-decade tenure at the Milton Keynes outfit. \"This autumn, I’ll be ...<a class='more' h",
+        "title": "Alex Albon commits to Williams F1 team for 2027",
+        "summary": "Alex Albon will stay at Williams for a sixth consecutive Formula 1 season in 2027 after agreeing a short-term contract extension.Albon joined Williams ahead of the 2022 season and was one of several drivers out of contract at the end of this year, amid speculation over his and team-mate Carlos Sainz's future with the underperforming outfit.But the 30-year-old has now committed his ...<a class='more'",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/christian-horner-announces-uk-book-tour-for-new-memoir-following-red-bull-f1-exit/10846959/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-17T21:41:09.000Z",
+        "url": "https://www.motorsport.com/f1/news/alex-albon-commits-to-williams-f1-team-for-2027/10847116/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-18T13:16:52.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "F1 launches new \"Five Lights\" campaign narrated by Colin Farrell",
-        "summary": "Formula 1 has launched a new global marketing campaign, Five Lights, ahead of its return from the summer break with the Dutch Grand Prix. The campaign will be narrated by Academy Award-nominated actor Colin Farrell.The 90-second film, which debuted on 16 August, includes appearances from all 22 of the current drivers. Set to the track Reign by UNKLE featuring Ian Brown, the video covers the ...<a class='",
+        "title": "Lewis Hamilton vs Michael Schumacher: You decide F1's greatest driver",
+        "summary": "Our Top 25 Formula 1 drivers ranking produced the one result nobody could ignore: a dead heat at number one.After 10 journalists from Motorsport, Autosport and Yahoo Sports submitted their individual top-25 rankings, a clear result emerged: Lewis Hamilton and Michael Schumacher finished level at the top of the combined standings on 235 points each.Both drivers are seven-time world ...<a class='more'",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/f1-launches-new-five-lights-campaign-narrated-by-colin-farrell/10846957/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-17T21:15:15.000Z",
+        "url": "https://www.motorsport.com/f1/news/lewis-hamilton-vs-michael-schumacher-you-decide-f1s-greatest-driver/10846978/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-18T13:00:03.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Former F1 team boss reveals bizarre way he warned staff about \"Drive to Survive\" microphones",
-        "summary": "Former Formula 1 team principal Otmar Szafnauer has revealed the bizarre method he used to warn his colleagues that he was wearing a microphone for Netflix's Drive to Survive cameras.The popular docuseries gave fans unprecedented access to the F1 paddock, but this meant those within the championship had to get creative to protect their privacy. Szafnauer opened up about his time filming ...<a class='",
+        "title": "\"We need to put a limit on it\" – Franco Colapinto opens up about online abuse in F1",
+        "summary": "Formula 1 has grown significantly in recent years, not least on social media. While that is essentially a positive development, one downside has been the considerable increase in online abuse aimed at drivers and others working in the pinnacle of motorsport.The FIA and F1 are trying to tackle the issue in several ways, for example through the United Against Online Abuse initiative, by ...<a class='more'",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/former-f1-team-boss-reveals-bizarre-way-he-warned-staff-about-drive-to-survive-microphones/10846838/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-17T18:00:03.000Z",
+        "url": "https://www.motorsport.com/f1/news/we-need-to-put-a-limit-on-it-franco-colapinto-opens-up-about-online-abuse-in-f1/10847055/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-18T12:00:43.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "F1 veteran Yuki Tsunoda in talks for 2027 IndyCar seat with Meyer Shank",
-        "summary": "Formula 1 veteran Yuki Tsunoda could be preparing for a major career pivot and cross the Atlantic for a 2027 IndyCar Series campaign. Motorsport.com understands Tsunoda is vying for the #66 Meyer Shank Racing (MSR) Honda entry, marking a potential second act in North American open-wheel racing. Marcus Armstrong currently occupies the seat, but is moving to the #60 sister car when defending ...<a class='m",
+        "title": "Guenther Steiner opens up on breakdown of relationship with Gene Haas",
+        "summary": "Former Haas Formula 1 team principal Guenther Steiner has shed new light on his relationship with team owner Gene Haas following his exit from the team, confirming that he currently has \"no relationship\" with his former boss.Steiner parted ways with the American outfit at the end of the 2023 season after his contract was not renewed. He was replaced by Ayao Komatsu, who has remained in the ...<a class='m",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/indycar/news/f1-veteran-yuki-tsunoda-in-talks-for-2027-indycar-seat-with-meyer-shank/10846938/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-17T17:24:41.000Z",
+        "url": "https://www.motorsport.com/f1/news/guenther-steiner-opens-up-on-breakdown-of-relationship-with-gene-haas/10846914/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-18T10:00:04.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "Even though turn-based and real time RPGs 'have their loud, vocal advocates,' Fallout developer Tim Cain thinks they both have a place in the genre",
-        "summary": "A statesmanlike take.",
+        "title": "GTA 6 leaks show a game that looks like more GTA, but not a revolution",
+        "summary": "It sure doesn't look like the reinvention of the wheel(s).",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/rpg/even-though-turn-based-and-real-time-rpgs-have-their-loud-vocal-advocates-fallout-developer-tim-cain-thinks-they-both-have-a-place-in-the-genre/",
-        "seendate": "2026-08-17T22:37:59.000Z",
+        "url": "https://www.pcgamer.com/games/action/gta-6-leaks-show-a-game-that-looks-like-more-gta-but-not-a-revolution/",
+        "seendate": "2026-08-18T22:49:33.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Heads up, Fallout 4 and Skyrim players: New updates are incoming, so it's time to tend to your mods",
-        "summary": "The new patch, featuring \"Creations improvements,\" is set to roll out on August 18.",
+        "title": "Grand Theft Auto 6 leaker says they won't stop until Rockstar and Take-Two apologize for 'anti-consumerism' and make a 'concrete commitment to do better'",
+        "summary": "A manifesto threatens to target not just the GTA 6 makers, but everyone who violates Cyberleek's \"three commandments.\"",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/fallout/heads-up-fallout-4-and-skyrim-players-new-updates-are-incoming-so-its-time-to-tend-to-your-mods/",
-        "seendate": "2026-08-17T22:11:10.000Z",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-leaker-says-they-wont-stop-until-rockstar-and-take-two-apologize-for-anti-consumerism-and-make-a-concrete-commitment-to-do-better/",
+        "seendate": "2026-08-18T20:39:51.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Toymaker Mattel launches a new game studio with a focus on Roblox and Fortnite that could signal a growing shift in where studios spend money",
-        "summary": "In chasing the money, Mattel Game Studios doesn't seem particularly interested in Steam or consoles.",
+        "title": "15 details from the new GTA 6 leaks, including a possible morality system and stamina meter",
+        "summary": "A fresh set of GTA 6 leaks has sloshed onto the internet. Their authenticity is unknown, but they look real—here's what we've gleaned from them.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/toymaker-mattel-launches-a-new-game-studio-with-a-focus-on-roblox-and-fortnite-that-could-signal-a-growing-shift-in-where-studios-spend-money/",
-        "seendate": "2026-08-17T18:46:22.000Z",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-video-leak-analysis-august-2026/",
+        "seendate": "2026-08-18T20:10:52.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "I'm modding GTA 5 every day until it becomes GTA 6 or breaks, starting with a new vehicle and enough missiles to level a city block",
-        "summary": "Baby steps.",
+        "title": "2 seemingly real GTA 6 clips—and maybe the full map—just leaked online",
+        "summary": "B-b-b-b-b-basketball.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/im-modding-gta-5-every-day-until-it-becomes-gta-6-or-breaks-starting-with-a-new-vehicle-and-enough-missiles-to-level-a-city-block/",
-        "seendate": "2026-08-17T17:00:00.000Z",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/a-very-real-looking-gta-6-clip-and-maybe-the-full-map-just-leaked-online/",
+        "seendate": "2026-08-18T18:13:44.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Resident Evil Requiem's Angela Sant'Albano reportedly joins Tides of Annihilation, replacing Jennifer English as the new voice of its protagonist",
-        "summary": "\"No more screaming 'Leon!!'\"",
+        "title": "The new Rusty Lake game is a grim, sinister tale of family, destiny, and cooking: I fed a man porridge filled with dead bugs and he told me it tasted good",
+        "summary": "Servant of the Lake, the newest addition to the Rusty Lake series, is another bizarre banger.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/action/resident-evil-requiems-angela-santalbano-reportedly-joins-tides-of-annihilation-replacing-jennifer-english-as-the-new-voice-of-its-protagonist/",
-        "seendate": "2026-08-17T16:52:11.000Z",
+        "url": "https://www.pcgamer.com/games/adventure/the-new-rusty-lake-game-is-a-grim-sinister-tale-of-family-destiny-and-cooking-i-fed-a-man-porridge-filled-with-dead-bugs-and-he-told-me-it-tasted-good/",
+        "seendate": "2026-08-18T18:12:13.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
+      {
+        "title": "Reel-ing it in: Meta is paying influencers to promote teen accounts",
+        "summary": "Tech Transparency Project’s report shows whenever governments mull platform regulations, company recruits influencers to promote its safety featuresIn July 2025, Meta gathered parenting influencers from all over Australia at a waterfront venue overlooking the Sydney Opera House. It was a camping-themed event and in many ways was like any other influencer affair. There were Instagram-branded tents to take pi",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/aug/18/meta-pays-influencers-teen-social-media-ban",
+        "seendate": "2026-08-18T13:00:47.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Democracy v the machine: the birth of the digital age and the warnings that were ignored",
+        "summary": "Many hoped that the march of technology would usher in an egalitarian utopia – but some foresaw the threat it would pose to liberal society. Why did nobody listen?One of the stranger things about this dizzying, headlong moment in time is that it doesn’t have much of a past. Everything is about the future of this, the future of that: the future of work, the future of humanity, the future of the planet. It’s",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/news/2026/aug/18/the-long-read-democracy-v-the-machine-digital-age-warnings-computer-history-technology",
+        "seendate": "2026-08-18T04:00:13.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Dickovers, baggravation and botiquette: 18 new words to describe our tech hellscape",
+        "summary": "There are many tech irritants that are a scourge of modern life, yet we have lacked the vocabulary to describe them ... until nowThe “dickover” is the scourge of the modern age. Coined in May by John Gruber, a tech writer, it is defined as “a modal panel, popover, or curtain presented by a website or app, deliberately obscuring its own content to frustrate the user”. Essentially, it is the thing (or more of",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/aug/18/dickovers-baggravation-botiquette-18-new-words-tech-hellscape",
+        "seendate": "2026-08-18T09:00:20.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Sainsbury’s store pauses AI scanning after false shoplifting accusation",
         "summary": "Supermarket chain says ‘human error’, not its Facewatch technology, to blame for ejecting a customerSainsbury’s has paused the use of AI face scanning in one of its stores after a customer was wrongly identified as a shoplifter and ejected from the shop.“I was embarrassed, mortified even, and felt quite humiliated and powerless,” Matt Arnold, 46, said of his ordeal. <a href=\"https://www.theguardi",
@@ -313,33 +337,25 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/technology/2026/aug/17/are-microsofts-ai-plans-being-held-back-by-a-shortage-of-chips",
         "seendate": "2026-08-17T04:00:46.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Temperatures to fall across Europe as substantial rain heading for parts of UK",
-        "summary": "Temperatures could drop by more than 15C compared with last Thursday as cold front moves inRelief from the unrelenting heat is finally arriving this week across western Europe, with more unsettled conditions bringing the chance of rain. Temperatures are expected to fall back towards the seasonal norm, with some parts of the UK even falling about 3C below normal by Thursday. After such a scorching summer, an",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/2026/aug/17/temperatures-fall-europe-rain-uk",
-        "seendate": "2026-08-17T12:44:58.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "‘I see the incredible promise’: on set of an AI film shoot as new studios embrace controversial tech",
-        "summary": "Amid fears for jobs, some film-makers say AI could enable them to bypass studio giants and take more creative risksNear the collonaded entrance to Sony Pictures’ historic Culver City film studio, a tech-powered rival has sprung up this summer. The artists at Promise, a new studio feeding off the potential of AI, can glimpse the lots where Singin’ in the Rain and Men in Black were shot, but no longer do they",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/aug/16/directors-embracing-ai-film-making",
-        "seendate": "2026-08-16T12:00:25.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Unemployed young people to join AI boot camps to get job-ready",
-        "summary": "Pilot scheme will provide three weeks of training as part of UK government’s latest attempt to address Neets crisisYoung people out of work or at risk of unemployment in the UK are to join “AI boot camps” where they harness the technology to get a foothold in the workplac",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/society/2026/aug/14/unemployed-young-people-to-join-ai-boot-camps-to-get-job-ready",
-        "seendate": "2026-08-13T23:01:10.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "climate": [
+      {
+        "title": "Trump administration to rescind rule protecting old-growth forests",
+        "summary": "Almost 45m acres of national forests could be potentially opened to road construction, drilling and loggingThe Trump administration said on Tuesday it plans to rescind the “roadless rule” that has protected old-growth forests in the US for 25 years, potentially opening up almost 45m acres of national forests to road construction, drilling and logging.Conservationists had feared the announcement was c",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/aug/18/trump-administration-growth-forests",
+        "seendate": "2026-08-18T20:13:31.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "‘A new normal’: Miami faces worsening seaweed problem as piles of algae wash up on beaches",
+        "summary": "Officials have had to remove thousands of tons of sargassum from Florida’s beaches amid the climate crisisDealing with seaweed is the bulk of Chris Bumpus’s job during the summer. As chief of conservation for Miami-Dade county’s parks, recreation and open spaces department, Bumpus is in charge of cleaning sargassum off 17 miles (27km) of county beaches. But some days, the odds are stacked against him and hi",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/aug/18/miami-sargassum-seaweed-problem-climate-crisis",
+        "seendate": "2026-08-18T11:30:44.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Rhossi, a rare sea turtle, recovers after 5,000-mile trek from Wales to Texas",
         "summary": "Kemp’s ridley sea turtle, near death on Welsh beach in 2023, is thriving in Houston despite lingering pneumoniaA Kemp’s ridley sea turtle native to the Gulf of Mexico is largely thriving after he was found nearly dead on a beach in Wales in late 2023, nursed back to health and then flown to <a href=\"https://w",
@@ -363,31 +379,31 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/us-news/2026/aug/16/california-jackie-the-bald-eagle-legacy",
         "seendate": "2026-08-16T14:00:27.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Florida sets record for sea turtle nests but Trump move could stall recovery",
-        "summary": "Loggerhead turtles abound this season but rollback of Endangered Species Act protections could threaten futureWildlife groups in Florida are celebrating record numbers of sea turtle nests this season, but experts warn Donald Trump’s recent guttin",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/2026/aug/16/florida-sea-turtle-nests-endangered-species",
-        "seendate": "2026-08-16T12:00:25.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "At least five people dead in Indiana amid worst flooding in over 30 years, officials say",
-        "summary": "National Weather Service reports that more than 11in of rain fell over a two-day period in some areasAt least five people are dead after devastating floods that swept through Indiana this week, officials said, as storms continued to batter the state on Saturday and first responders used boats to rescue more people from rising waters in neighborhoods along the White River in Indianapolis.The mayor of",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/aug/15/indiana-flooding-deaths",
-        "seendate": "2026-08-15T23:56:33.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "science": [
       {
-        "title": "Block export of ‘national treasure’ UK fossils, says MP",
-        "summary": "Sale of one of UK’s top collections overseas prompts call new rules to help keep items in countryOne of UK’s best fossil collections sold in ‘loss to the nation’An MP has called on ministers to change export controls so that significant",
+        "title": "The ultra rich are collecting fossils. And that’s bad for science - video",
+        "summary": "One of the UK’s best fossil collections has been sold overseas in what experts have called a loss to the nation. The collection, which is now on display at the Natural History Museum in Abu Dhabi, was gathered on Dorset’s Jurassic Coast. As dinosaur fossils sell to private collectors for increasingly large sums, scientists are worried that domestic museums are being priced out of the market, and in turn scientists",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/aug/16/block-export-of-national-treasure-uk-fossils-says-mp",
-        "seendate": "2026-08-16T09:00:22.000Z",
+        "url": "https://www.theguardian.com/science/video/2026/aug/18/the-ultra-rich-are-collecting-fossils-and-thats-bad-for-science",
+        "seendate": "2026-08-18T13:44:08.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Scientists who turned to OnlyFans to fund marmot research receive crypto boost",
+        "summary": "Funding boost worth $100,000 has recently materialized in form of new marmot-themed cryptocurrencyScientists who turned to OnlyFans to help save long-running research into marmots have raised more than $100,000 after harnessing the support of another, very modern, funding avenue – cryptocurrency.The 60-year project of continuous study of marmots – stout, ground-dwelling rodents that are the largest m",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/aug/18/scientists-onlyfans-marmots-crypto",
+        "seendate": "2026-08-18T13:00:46.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Top album releases linked to rise in fatal crashes as ‘distracted’ drivers access music",
+        "summary": "Harvard study finds traffic fatalities increase by 15% on release dates compared with similar days either sideThe release of a new album by Taylor Swift might be a cause for celebration among her fans, but such events have also been linked to a more sombre phenomenon: an increase in fatal car crashes.The team behind a new study say it sheds light on the impact of distracted driving. “You can’t random",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/aug/17/top-album-releases-linked-to-rise-in-fatal-crashes-as-distracted-drivers-access-music",
+        "seendate": "2026-08-17T15:00:02.000Z",
         "domain": "theguardian.com"
       },
       {
@@ -404,22 +420,6 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/science/2026/aug/16/science-or-fiction-shadowy-paper-mills-let-you-pay-to-be-a-published-author-of-fraudulent-research",
         "seendate": "2026-08-15T20:00:07.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Starwatch: Vega the bright star will light the way to the constellation of Lyra",
-        "summary": "Lyra, the lyre, represents the harp played by the Greek poet OrpheusWe turn our attention this week to one of the sky’s smallest constellations. High overhead from the UK after darkness falls, Lyra, the lyre, is easy to find thanks to the brilliant white star of Vega.The chart shows the view facing south and looking up towards the zenith from London at 22:30 BST on 17 August. <a href=\"https://www",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/aug/17/starwatch-vega-bright-star-constellation-of-lyra",
-        "seendate": "2026-08-17T05:00:45.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Scientists hope to shed light on young universe by using far side of the moon",
-        "summary": "UK team seeking to put suitcase-sized satellite in orbit around moon in search for 21cm line radio frequency signalLittle is known about what was happening shortly after the big bang, but now researchers are hoping to shed fresh light on the matter by harnessing the far side of the moon.Scientists plan to put a suitcase-sized satellite into orbit around the moon, using the data it collects as it pass",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/aug/14/scientists-young-universe-moon-dark-side-cosmocube-satellite-radio-signal-21cm-line",
-        "seendate": "2026-08-14T15:00:32.000Z",
         "domain": "theguardian.com"
       }
     ]
