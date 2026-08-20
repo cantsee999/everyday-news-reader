@@ -1,8 +1,24 @@
 window.NEWS_CACHE = {
-  "generatedAt": "2026-08-19T23:12:32.498Z",
+  "generatedAt": "2026-08-20T23:15:02.271Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
+      {
+        "title": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
+        "summary": "Agreement is among largest third-country deportations driven by Trump administration’s immigration crackdown Twenty deportees from the United States arrived in Liberia on Thursday, as part of a new agreement that will see the west African country receive as many as 1,200 people under the Trump administration’s immigration crackdown.<",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement",
+        "seendate": "2026-08-20T19:57:59.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "More than 100 dead after goldmine collapses in Central African Republic",
+        "summary": "The collapse was caused by a landslide, while local officials say the death toll is likely to rise as recovery efforts continueMore than 100 people have died after an artisanal goldmine at a small village in western Central African Republic (CAR) caved in due to a landslide, local officials and aid workers said on Wednesday.The landslide happened on Tuesday afternoon in the village of Zamboye, about",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/aug/20/gold-mine-collapse-deadly-landslide-central-african-republic",
+        "seendate": "2026-08-20T00:14:17.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Five Americans among seven killed in safari helicopter crash in Kenya",
         "summary": "Officials say all seven people onboard killed, including Telemundo executive and Ecuador intelligence chiefSeven people, including five Americans, were killed when a safari helicopter crashed on Wednesday morning in a remote part of northern Kenya, according to local police and the state department.Among the dead were an executive with Telemundo, the US-based Spanish-language network owned by NBC Uni",
@@ -25,27 +41,27 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history",
         "seendate": "2026-08-17T14:07:31.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
-        "summary": "Eighteen children among the people killed after ferry capsized on Lake KaribaTwenty-two more bodies have been recovered after a boat accident in Zimbabwe, taking the death toll to 68, police said on Saturday.The ferry capsized on Tuesday on Lake Kariba, on the border with Zambia. An investigation has sugges",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident",
-        "seendate": "2026-08-15T19:39:07.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Moroccan police arrest more than 100 people attempting to enter Ceuta",
-        "summary": "Border security tightened after social media posts call for another mass crossing into Spain’s north African territoryMoroccan police have arrested 111 people as they tried to enter Spain’s north African territory of Ceuta, amid ⁠tightened security on both sides after social media posts ​called for another mass crossing.The attempted crossing on Saturday came two weeks after more than <a href=\"https:",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta",
-        "seendate": "2026-08-15T18:08:21.000Z",
         "domain": "theguardian.com"
       }
     ],
     "conflict": [
       {
+        "title": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
+        "summary": "Agreement is among largest third-country deportations driven by Trump administration’s immigration crackdown Twenty deportees from the United States arrived in Liberia on Thursday, as part of a new agreement that will see the west African country receive as many as 1,200 people under the Trump administration’s immigration crackdown.<",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement",
+        "seendate": "2026-08-20T19:57:59.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "More than 100 dead after goldmine collapses in Central African Republic",
+        "summary": "The collapse was caused by a landslide, while local officials say the death toll is likely to rise as recovery efforts continueMore than 100 people have died after an artisanal goldmine at a small village in western Central African Republic (CAR) caved in due to a landslide, local officials and aid workers said on Wednesday.The landslide happened on Tuesday afternoon in the village of Zamboye, about",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/aug/20/gold-mine-collapse-deadly-landslide-central-african-republic",
+        "seendate": "2026-08-20T00:14:17.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Five Americans among seven killed in safari helicopter crash in Kenya",
         "summary": "Officials say all seven people onboard killed, including Telemundo executive and Ecuador intelligence chiefSeven people, including five Americans, were killed when a safari helicopter crashed on Wednesday morning in a remote part of northern Kenya, according to local police and the state department.Among the dead were an executive with Telemundo, the US-based Spanish-language network owned by NBC Uni",
         "source": "theguardian.com",
@@ -68,39 +84,31 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history",
         "seendate": "2026-08-17T14:07:31.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
-        "summary": "Eighteen children among the people killed after ferry capsized on Lake KaribaTwenty-two more bodies have been recovered after a boat accident in Zimbabwe, taking the death toll to 68, police said on Saturday.The ferry capsized on Tuesday on Lake Kariba, on the border with Zambia. An investigation has sugges",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident",
-        "seendate": "2026-08-15T19:39:07.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Moroccan police arrest more than 100 people attempting to enter Ceuta",
-        "summary": "Border security tightened after social media posts call for another mass crossing into Spain’s north African territoryMoroccan police have arrested 111 people as they tried to enter Spain’s north African territory of Ceuta, amid ⁠tightened security on both sides after social media posts ​called for another mass crossing.The attempted crossing on Saturday came two weeks after more than <a href=\"https:",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta",
-        "seendate": "2026-08-15T18:08:21.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "economy": [
       {
-        "title": "US gross national debt tops $40tn for first time",
-        "summary": "Milestone marks years of government spending that grew under both Donald Trump and Joe BidenUS debt reached $40tn for the first time on Wednesday, the US treasury department said, after the government deficit doubled over the last decade.The treasury’s latest debt balance showed $40.047tn on Tuesday afternoon, the highest in US history. <a href=\"https://www.theguardian.com/us-news/2026/aug/19/us-",
+        "title": "‘Starve the beast’? The $40tn cost of Republicans’ false promises to cut spending",
+        "summary": "The enormous US debt under Trump will hobble the next Democratic administration – just as the GOP plannedWhy is the Trump administration causing turmoil in the bond markets?You could pin the US’s staggering <a href=\"https://www.theguardian.com/us-news/2026/a",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/aug/19/us-debt-40-trillion",
-        "seendate": "2026-08-19T21:24:01.000Z",
+        "url": "https://www.theguardian.com/business/2026/aug/20/us-national-debt-republicans",
+        "seendate": "2026-08-20T15:21:38.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Revealed: FCC chair Brendan Carr’s close coordination with White House and rightwing media",
-        "summary": "Internal documents obtained by Guardian show White House meetings, scheduled calls with top Trump officials and communications with Fox News producers Continue reading...",
+        "title": "Why is the Trump administration causing turmoil in the bond markets? | Richard Partington",
+        "summary": "As yields are dragged higher in the UK, Europe and Japan, the impact for consumers and businesses will be far-reaching‘Starve the beast’? The $40tn cost of Republicans’ false promises to cut spendingGovernment borrowing costs around the world have surged to the highest",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/media/ng-interactive/2026/aug/19/brendan-carr-fcc-white-house-exclusive",
-        "seendate": "2026-08-19T10:00:13.000Z",
+        "url": "https://www.theguardian.com/business/2026/aug/20/why-us-bond-market-turmoil-hitting-governments-worldwide",
+        "seendate": "2026-08-20T16:14:59.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "From McDonald’s to Congress: can a former fry cook flip a key district for Democrats?",
+        "summary": "Manny Rutinel hopes price-tag politics can win key voters in Colorado House raceDuring his presidential campaign in October 2024, Donald Trump staged a photo op at a McDonald’s franchise in Pennsylvania, where he was briefly taught how to work the fryer and drive-thru window at the closed",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/aug/20/mcdonalds-congress-affordability-democrats",
+        "seendate": "2026-08-20T11:00:50.000Z",
         "domain": "theguardian.com"
       },
       {
@@ -118,186 +126,210 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/us-news/2026/aug/19/trump-delay-canada-tariffs-keystone-xl-oil-pipeline",
         "seendate": "2026-08-19T03:47:12.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Will AI give you the job? Automated hiring tools spark discrimination and secrecy lawsuits",
-        "summary": "A rise in lawsuits over AI use in employment decisions is raising questions about how companies hire and fireFor the last four years, Erin Kistler has applied for thousands of jobs at companies like Paypal, Microsoft and Netflix, o",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/aug/19/ai-hiring-tools-discrimination",
-        "seendate": "2026-08-19T11:00:13.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "literature": [
       {
-        "title": "Whoever wins the Meta trial , the masses will remain willing slaves",
-        "summary": "The fight between social media and political authorities is really about one thing: who keeps the power of shaping a decaying society? Read F",
-        "source": "californiatelegraph.com",
-        "url": "http://www.californiatelegraph.com/news/279252469/whoever-wins-the-meta-trial-the-masses-will-remain-willing-slaves",
-        "seendate": "20260819T224500Z",
-        "domain": "californiatelegraph.com"
+        "title": "Ukrainian publishers call for support after Russian attacks destroy 10m books",
+        "summary": "The country risks ‘the collapse of the entire book ecosystem’ following destruction of warehouses in July and August, say Ukrainian publishersThe Ukrainian Book Institute has called on the international publishing community to support Ukrainian publishers after Russian attacks",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/aug/20/help-ukrainian-publishers-russia-attacks-books",
+        "seendate": "2026-08-20T15:37:57.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Three Londoners charged after $1 . 28M drug seizure : OPP",
-        "summary": "",
-        "source": "theobserver.ca",
-        "url": "https://www.theobserver.ca/news/local-news/three-londoners-charged-after-1-28m-drug-seizure-opp/wcm/08381e2d-acba-4117-809d-e8040006fd4c",
-        "seendate": "20260819T224500Z",
-        "domain": "theobserver.ca"
+        "title": "The best books to read in August: new paperbacks from Chimamanda Ngozi Adichie, Salman Rushdie and Werner Herzog",
+        "summary": "Looking for a new reading recommendation? Here are some wonderful new paperbacks, from a short story collection by a literary great to razor-sharp criticism*** Continue reading...",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/ng-interactive/2026/aug/20/the-best-books-to-read-in-august-new-paperbacks-from-chimamanda-ngozi-adichie-salman-rushdie-and-werner-herzog",
+        "seendate": "2026-08-20T13:30:00.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Spray Lakes Road above Canmore should open by month end , says province",
-        "summary": "",
-        "source": "cochranetimes.com",
-        "url": "https://www.cochranetimes.com:443/news/local-news/spray-lakes-road-above-canmore-should-open-end-august-province/wcm/59f98f81-c17c-4751-b897-dae5a798b7b7",
-        "seendate": "20260819T224500Z",
-        "domain": "cochranetimes.com"
+        "title": "How I’ve Tried to Change the World by Alexei Sayle review – does protest make a difference?",
+        "summary": "The comedian charts his life in demos from 1960s Liverpool to 2020s London in this fiery and addictive bookAt 74, the comedian Alexei Sayle is approaching a dangerous phase for veteran British leftists: becoming a national treasure. Once described by special branch, in a&nbsp;surveillance file gleefully quoted in this memoir, as an “intellectual thug” who made “foul-mouthed comments about the royal family”,",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/stage/2026/aug/20/how-ive-tried-to-change-the-world-by-alexei-sayle-review-does-protest-make-a-difference",
+        "seendate": "2026-08-20T06:00:44.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Of Local Interest",
-        "summary": "",
-        "source": "neshobademocrat.com",
-        "url": "https://www.neshobademocrat.com/society/of-local-interest-41c6083a",
-        "seendate": "20260819T224500Z",
-        "domain": "neshobademocrat.com"
+        "title": "All of Us Atoms by Holly Dawson audiobook review – an extraordinary self-portrait",
+        "summary": "Helena Bonham Carter narrates the playwright’s impressionistic memoir, written as she was experiencing the loss of her memoryPlaywright Holly Dawson’s memoir tells of memory lapses and a series of seizures that signal something isn’t right. Before visiting a doctor, she had been muddling up words, forgetting people’s names and flooding the bathroom.The book finds Dawson in conversation with her brain",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/aug/20/all-of-us-atoms-by-holly-dawson-audiobook-review-an-extraordinary-self-portrait",
+        "seendate": "2026-08-20T14:00:52.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "John Mouganis , One of Pennsylvania Most Experienced Retirement Planning Professionals , Co - Authors New Book To Help Retirees Reduce Taxes and Preserve Wealth",
-        "summary": "PITTSBURGH, PA / ACCESS Newswire / August 19, 2026 / In an increasingly uncertain economic environment, successful retirement planning requires a more strategic",
-        "source": "californiatelegraph.com",
-        "url": "http://www.californiatelegraph.com/news/279252348/john-mouganis-one-of-pennsylvania-most-experienced-retirement-planning-professionals-co-authors-new-book-to-help-retirees-reduce-taxes-and-preserve-wealth",
-        "seendate": "20260819T224500Z",
-        "domain": "californiatelegraph.com"
+        "title": "Where Are the Kings by Donal Ryan review – a timeless tale of family sorrows and joys",
+        "summary": "A teenage boy navigates adolescence and the traumatic loss of his mother in this poignant coming-of-age novel set in rural IrelandSomething is happening to literary time. In the last fortnight I’ve read new or forthcoming novels about a mirror universe where history runs backwards (Under Story, Chloe Benjamin), an agency that offers appointments with the past (Time Travel for Beginners, Jaclyn Moriarty), an",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/aug/19/where-are-the-kings-by-donal-ryan-review-a-timeless-tale-of-family-sorrows-and-joys",
+        "seendate": "2026-08-19T06:00:07.000Z",
+        "domain": "theguardian.com"
       }
     ],
     "entertainment": [
       {
-        "title": "‘I love provocative stories’: producer Christine Vachon on fighting for her ‘offensive’ movies",
-        "summary": "The maker of indie classics Kids, Swoon and Poison on daring to have a temper in the 90s, what some producer credits mean – and what happened between her and Joaquin PhoenixTrailblazing producer Christine Vachon bestrides the world of US independent film-making like a colossus. She has championed idiosyncratic American cinema for more than 35 years, scoring hits such as the romcom Materialists, which starre",
+        "title": "Marvel’s Wolverine: Spider-Man developers turn to a more cutthroat character",
+        "summary": "Even film-makers have been inspired by Insomniac’s take on Spidey. But the studio’s tried and tested format might not fit a superhero with such sharp clawsThe recent Marvel’s Spider-Man games have become so tightly interwoven with the character’s core that they’ve been cited, by both actor Tom Holland and director Destin Daniel Cretton, as an influence on this year’s blockbuster film <a href=\"https://www.th",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/aug/19/producer-christine-vachon-offensive-movies-kids-poison-swoon",
-        "seendate": "2026-08-19T16:45:35.000Z",
+        "url": "https://www.theguardian.com/games/2026/aug/20/marvel-wolverine-spider-man-developers-turn-more-cutthroat-character",
+        "seendate": "2026-08-20T15:40:04.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Mutiny review – Jason Statham’s fight-by-numbers action thriller just about stays above water",
-        "summary": "The hard-working action hero gives us exactly what we expect, and often want, in this sturdy cargo ship-set caperThe dog days of August have already seen the trotting out of some usual suspects from a junky Eli Roth horror to <a href=\"https://www.theguardian.com/film/2026/aug/06/super-troopers-3-review-misfiring-cop-com",
+        "title": "Ukrainian publishers call for support after Russian attacks destroy 10m books",
+        "summary": "The country risks ‘the collapse of the entire book ecosystem’ following destruction of warehouses in July and August, say Ukrainian publishersThe Ukrainian Book Institute has called on the international publishing community to support Ukrainian publishers after Russian attacks",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/aug/19/mutiny-movie-review",
-        "seendate": "2026-08-19T16:18:57.000Z",
+        "url": "https://www.theguardian.com/books/2026/aug/20/help-ukrainian-publishers-russia-attacks-books",
+        "seendate": "2026-08-20T15:37:57.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Insidious: Out of the Further review – evil returns but so does boredom",
-        "summary": "Uninteresting mythology and junky effects push a once-promising horror franchise further from what it once wasWhen the Insidious franchise started in 2010, it felt like a liberating moment for director James Wan and writer (and later director) Leigh Whannell, the Australian duo who captured the zeitgeist with the original Saw movie, which imported the gonzo energy of low-budget Ozploitation flicks. As the p",
+        "title": "‘I need to think like a CEO’: Weezer on the shifting sands of success, ugly feelings and the joy of spreadsheets",
+        "summary": "As the self-professed geeky rockers release their conceptual 20th album, Rivers Cuomo and Patrick Wilson discuss dodging failure, being saved by fans and their obsessive creativityThe first song Rivers Cuomo wrote for Weezer’s new album, their 20th, blatantly mimics the US rockers’ 1994 debut single, Undone (The Sweater Song). On the track CEO, the singer-guitarist grumbles over a slow, Velvets-y backing ab",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/aug/19/insidious-out-of-the-further-review",
-        "seendate": "2026-08-19T16:00:25.000Z",
+        "url": "https://www.theguardian.com/music/2026/aug/20/weezer-rivers-cuomo-patrick-wilson-ceo",
+        "seendate": "2026-08-20T14:16:19.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "In Big Walk, players just walk and talk – and find joy along the way: ‘Some stories we’ve heard are punch-in-the-gut beautiful’",
-        "summary": "After their hit Untitled Goose Game, Australian studio House House is back with a new game where your only goal is to go exploring with friends – so we took them on a big walk inside Big WalkWhen I arrive to meet with the tiny team at Melbourne game developer House House, they’re sitting in a circle under a eucalyptus tree. After introductions, the five of us set off into the scrub. Over the course of our h",
+        "title": "‘It was a damn unicorn’: the pioneering, divisive power of Paul Simon’s Graceland at 40",
+        "summary": "On its anniversary, the author of a new book about the album explains the complex legacy and masterful musicianship of the 1986 classicIt was the summer of 1984 and things weren’t going well for Paul Simon. The year prior, a blockbuster Simon and Garfunkel tour ended in bickering. Mea",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/games/2026/aug/20/in-big-walk-players-just-walk-and-talk-and-find-joy-along-the-way-some-stories-weve-heard-are-punch-in-the-gut-beautiful",
-        "seendate": "2026-08-19T15:00:14.000Z",
+        "url": "https://www.theguardian.com/music/2026/aug/20/paul-simon-graceland-anniversary",
+        "seendate": "2026-08-20T09:00:48.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Christian metal band sues Netflix over KPop Demon Hunters name",
-        "summary": "25-year-old band Demon Hunter says name of streamer’s hit movie creates ‘substantial confusion’ among consumersChristian metal band Demon Hunter is suing Netflix, accusing the entertainment giant of trademark infringement and unfair competition tied to the blockbuster “KPop Demon Hunters” name.The lawsuit was filed on Tuesday by Hyde Lane, the c",
+        "title": "Amy Lee of Evanescence: ‘I could happily do an entire album of nothing but Portishead covers’",
+        "summary": "As her band hits the road, the metal trailblazer answers your questions on sexualisation in show business, finding inspiration in dreams and Spinal Tap moments on tourYou wrote Bring Me to Life when you were 19. When you perform it now, how do you relate to the younger you? becgoldsmithI was in an abusive relationship, so Bring Me to Life was p",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/aug/19/kpop-demon-hunters-netflix-lawsuit",
-        "seendate": "2026-08-19T15:31:55.000Z",
+        "url": "https://www.theguardian.com/music/2026/aug/20/amy-lee-of-evanescence-i-could-happily-do-an-entire-album-of-nothing-but-portishead-covers",
+        "seendate": "2026-08-20T13:00:52.000Z",
         "domain": "theguardian.com"
       }
     ],
     "f1": [
       {
-        "title": "Liam Lawson's unexpected Red Bull call-up rewards his perseverance",
-        "summary": "Call it cosmic karma or poetic justice, but on the scene of Liam Lawson's Formula 1 debut, deputising for Daniel Ricciardo in 2023, the New Zealander is again replacing a driver in the Red Bull stable at Zandvoort because of a hand injury.Lawson eventually used his five-race stint with AlphaTauri in 2023 as a launch pad for full-time graduation, as the organisation finally moved on from ...<a class='more",
+        "title": "Max Verstappen is yet to reach his peak, says former F1 team boss",
+        "summary": "Former Formula 1 team principal Otmar Szafnauer believes Max Verstappen is continuing to improve and has still not reached his peak performance.During an episode of the High Performance Racing podcast alongside host Jake Humphrey and former Ferrari race engineer Rob Smedley, Szafnauer discussed the standout drivers he has encountered during his career in the paddock.When Humphrey prompted ...<a class",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/liam-lawsons-unexpected-red-bull-call-up-rewards-his-perseverance/10847406/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-19T16:58:08.000Z",
+        "url": "https://www.motorsport.com/f1/news/max-verstappen-is-yet-to-reach-his-peak-says-former-f1-team-boss/10847757/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-20T21:22:52.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Five things to look out for at the F1 Dutch GP",
-        "summary": "This weekend’s Dutch Grand Prix marks the return of Formula 1 from its 2026 summer shutdown with the end of the season now firmly in sight.Zandvoort represents the halfway point of the campaign with championships being decided, legacies made and grid seats for the following season being won or lost post-shutdown.So there’s plenty to look forward to this weekend and here are five things ...<a class='m",
+        "title": "Karun Chandhok \"surprised\" by length of Max Verstappen's Red Bull contract",
+        "summary": "Max Verstappen's decision to sign a contract extension with Red Bull until the end of 2030 shows he believes in the long-term potential of the team's in-house power unit programme, according to former Formula 1 driver and Sky Sports analyst Karun Chandhok.Verstappen currently sits sixth in the drivers' championship, with Red Bull often fielding the fourth-fastest car this season. Despite the ...<a class=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/five-things-to-watch-out-for-at-the-f1-dutch-gp/10847372/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-19T15:40:01.000Z",
+        "url": "https://www.motorsport.com/f1/news/karun-chandhok-surprised-by-length-of-max-verstappens-red-bull-contract/10847737/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-20T20:19:01.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Who belongs on F1's Mount Rushmore? Pick your four greatest drivers",
-        "summary": "Trying to name Formula 1's single greatest driver is difficult enough. Narrowing more than 75 years of grand prix racing down to four drivers is arguably even harder.Earlier this summer, Motorsport assembled a panel of 10 journalists from Motorsport, Autosport and Yahoo to rank the 25 greatest Formula 1 drivers of all time. The result produced a dead heat at the very top, with Lewis Hamilton ...<a class=",
+        "title": "F1 Dutch GP: Friday schedule, weather forecast and how to watch",
+        "summary": "Formula 1 returns from its summer break at Zandvoort this weekend, with the Dutch GP starting the final stretch of the 2026 season after Lando Norris’ breakthrough win in Hungary.Norris took his first victory of the campaign before the shutdown, while Kimi Antonelli still leads the championship as Mercedes, Ferrari and McLaren continue to trade momentum. Zandvoort now gives the field an ...<a class='more",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/who-belongs-on-f1s-mount-rushmore-pick-your-four-greatest-drivers/10847339/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-19T14:00:02.000Z",
+        "url": "https://www.motorsport.com/f1/news/f1-dutch-gp-friday-schedule-weather-forecast-and-how-to-watch/10847729/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-20T18:50:06.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Carlos Sainz to remain at Williams for F1 2027",
-        "summary": "Williams has confirmed its driver line-up for the 2027 Formula 1 season after announcing the commitment of Carlos Sainz on a multi-year deal.The Spaniard’s news comes a day after team-mate Alex Albon agreed just a one-season extension for next year, which will be the Thai-Briton’s sixth campaign with the Grove outfit.For Sainz, 2027 will be his third season at Williams and comes ...<a class='more' hr",
+        "title": "George Russell shares details of summer break proposal to partner Carmen Montero Mundt",
+        "summary": "Mercedes Formula 1 driver George Russell has opened up about his engagement to his long-term partner Carmen Montero Mundt.The Briton announced his engagement during the summer break alongside photos of the special moment at a candlelit, beachfront dinner.Appearing in the drivers' press conference ahead of the Dutch Grand Prix, Russell was warmly congratulated before he shared some insight ...<a class",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/carlos-sainz-to-remain-at-williams-for-f1-2027/10847351/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-19T13:30:08.000Z",
+        "url": "https://www.motorsport.com/f1/news/george-russell-shares-details-of-summer-break-proposal-to-partner-carmen-montero-mundt/10847718/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-20T18:12:39.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Guenther Steiner \"wouldn't discount\" F1-MotoGP double-header within five years",
-        "summary": "Former Haas Formula 1 team principal Guenther Steiner believes a joint race weekend featuring both F1 and MotoGP could become a reality within the next five years, identifying venues such as Silverstone as potential hosts for a historic one-off event.Speculation surrounding potential collaboration between F1 and MotoGP has grown following Liberty Media's acquisition of MotoGP. Steiner, who ...<a class='m",
+        "title": "“Something needed to change” – What Marcin Budkowski must fix at Cadillac F1",
+        "summary": "With Cadillac F1 Team pulling the trigger on a surprising mid-season team boss change, incoming chief Marcin Budkowski is tasked with rectifying the new team's flaws and speeding up its rate of progress.Under founding team principal Graeme Lowdon, Cadillac did an admirable job assembling a start-up F1 team under difficult circumstances, only officially receiving approval to join the grid less ...<a class",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/f1-and-motogp-double-header-could-happen-within-five-years-says-guenther-steiner/10847334/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-19T12:51:44.000Z",
+        "url": "https://www.motorsport.com/f1/news/something-needed-to-change-what-marcin-budkowski-must-fix-at-cadillac-f1/10847712/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-20T18:04:19.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "Stop Killing Games distances itself from GTA 6 leak manifesto: 'Using illegal means to make a point is unacceptable to us'",
-        "summary": "The group is urging its followers not to give the leakers money.",
+        "title": "US Army confirms it's offering 4 days to play GTA 6 to soldiers who reenlist for at least 2 years",
+        "summary": "This, apparently, is pretty normal stuff.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/stop-killing-games-distances-itself-from-gta-6-leak-manifesto-using-illegal-means-to-make-a-point-is-unacceptable-to-us/",
-        "seendate": "2026-08-19T19:34:09.000Z",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/us-army-confirms-its-offering-4-days-to-play-gta-6-to-soldiers-who-reenlist-for-at-least-2-years/",
+        "seendate": "2026-08-20T21:43:32.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "More GTA 6 leaks reveal new details: Cloning keys, combat changes, random bird deaths",
-        "summary": "The latest purported GTA 6 gameplay videos show Jason committing more senseless murder, and reveal even more gameplay systems.",
+        "title": "Who is Cyberleek? What we know about the GTA 6 leaker",
+        "summary": "Someone is posting Grand Theft Auto 6 footage under the name \"Cyberleek.\" They may not be anonymous for long.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/more-gta-6-leaks-reveal-new-details-cloning-keys-combat-changes-random-bird-deaths/",
-        "seendate": "2026-08-19T18:46:37.000Z",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/who-is-cyberleek-what-we-know-about-the-gta-6-leaker/",
+        "seendate": "2026-08-20T21:09:46.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "EA employees brace for the worst under Saudi ownership: 'Hard to feel good about being bought out by a regime that's very much at odds with progressive society'",
-        "summary": "Despite assurances from management, some workers believe the company will be subject to censorship by its new owners.",
+        "title": "'Dude no joke looks like Hugh Jackman now': The internet is swooning over Gabe Newell's svelte new look at The International",
+        "summary": "Newell's video message welcoming everyone to this year's Dota 2 championship tourney caught a lot of viewers by surprise.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/ea-employees-brace-for-the-worst-under-saudi-ownership-hard-to-feel-good-about-being-bought-out-by-a-regime-thats-very-much-at-odds-with-progressive-society/",
-        "seendate": "2026-08-19T17:58:26.000Z",
+        "url": "https://www.pcgamer.com/games/dude-no-joke-looks-like-hugh-jackman-now-the-internet-is-swooning-over-gabe-newells-svelte-new-look-at-the-international/",
+        "seendate": "2026-08-20T20:21:56.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Firefox has officially 'earned its place' on the GeForce Now supported browser list",
-        "summary": "A big day for a little fox.",
+        "title": "Black Myth: Zhong Kui's 15-minute gameplay reveal shows off confident swordplay, boss fights with oyster men, and the coolest skeletons I've ever seen",
+        "summary": "Look at those guys! Look at those guys!!",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/software/browsers/firefox-has-officially-earned-its-place-on-the-geforce-now-supported-browser-list/",
-        "seendate": "2026-08-19T16:10:14.000Z",
+        "url": "https://www.pcgamer.com/games/action/black-myth-zhong-kuis-15-minute-gameplay-reveal-shows-off-confident-swordplay-boss-fights-with-oyster-men-and-the-coolest-skeletons-ive-ever-seen/",
+        "seendate": "2026-08-20T20:04:44.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Dishonored co-creator Harvey Smith launches a new studio and it literally has the word 'Immersive' in the name",
-        "summary": "Just in case there's any confusion, Black Pony Immersive's website also drops a reference to Looking Glass Studios.",
+        "title": "I'm a decade-plus FromSoftware sicko, and these are my 5 takeaways from the first Duskbloods gameplay",
+        "summary": "I still resent it being a Switch 2 exclusive.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/dishonored-co-creator-harvey-smith-launches-a-new-studio-and-it-literally-has-the-word-immersive-in-the-name/",
-        "seendate": "2026-08-19T15:18:32.000Z",
+        "url": "https://www.pcgamer.com/games/action/im-a-decade-plus-fromsoftware-sicko-and-these-are-my-5-takeaways-from-the-first-duskbloods-gameplay/",
+        "seendate": "2026-08-20T19:56:14.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
+      {
+        "title": "Zuckerberg lied about concern for child safety, Meta whistleblower testifies at landmark trial",
+        "summary": "Arturo Béjar, former Meta safety engineer, tells jury tech company was aware of products’ potential harm to childrenMeta has taken a “don’t ask, don’t tell” strategy when it comes to the safety of children on its social media platforms, according to a <a href=\"https://www.theguardian.com/technology/2023/nov/07/meta-facebook-employee-congress-testimon",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/aug/19/meta-safety-trial-whistleblower-testimony",
+        "seendate": "2026-08-19T21:30:11.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "UK cinemas look at banning Meta smart glasses over piracy fears",
+        "summary": "Trade body says local chains would have to balance concerns with potential benefits of AI-enabled technologyCinemas across the UK are considering banning customers from wearing Meta’s smart glasses amid fears they could be used to pirate films.The UK Cinema Association (UKCA) trade body said that a number of local chains could end up introducing policies that restrict camera-enabled smart glasses at",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/aug/20/piracy-fears-prompt-calls-for-ban-on-meta-smart-glasses-in-uk-cinemas",
+        "seendate": "2026-08-20T14:57:25.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Roblox commits to privacy overhaul after eSafety discovers adults can contact children via gaming platform",
+        "summary": "Regulator says verifiable safety measures are ‘critical’ to the online service’s viabilityFollow our Australia news live blog for latest updatesGet our <a href=\"https://www.thegua",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/australia-news/2026/aug/20/roblox-esafety-commissioner-children-adults-ntwnfb",
+        "seendate": "2026-08-19T15:00:17.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "It used to be our imperfect bodies that made us insecure. With AI, it’s our minds as well",
+        "summary": "For most of modern history, technology sought to imitate humans. Humans increasingly seek to imitate technologyTwo faces that appeared on my Instagram feed in recent months gave me pause. One belonged to John Travolta at Cannes. The other to Carla Bruni on a date night with her husband, former",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/commentisfree/2026/aug/20/bodies-ai-minds-history-technology-humans",
+        "seendate": "2026-08-20T04:00:42.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Did someone wearing Meta Glasses film you today? Are you sure?",
         "summary": "People say they’ve been secretly filmed in their own homes, at concerts and at work. Are the wildly popular smartglasses the final nail in the coffin of personal privacy?“I’ve had one person who told me that their intentions were creepy,” a man tells me over a video call, on condition of anonymity. He’s based in Los Angeles, and while we speak, he eats what appears to be tuna directly out of the can. “He sa",
@@ -305,41 +337,41 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/technology/ng-interactive/2026/aug/19/meta-glasses-privacy-surveillance",
         "seendate": "2026-08-19T14:13:08.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "OpenAI announces slowing pace of development after hack by rogue agent",
-        "summary": "Amid race with Anthropic, firm plans to overhaul research and training and require more safety parameters after hackOpenAI on ⁠Tuesday said it had slowed down the ⁠pace of ⁠its ​AI development while it overhauled its ⁠research and training systems.The company’s researchers were ⁠caught unaware last month ​when an ‌AI agent ‌under testing <a",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/aug/18/open-ai-pause-hack",
-        "seendate": "2026-08-18T20:47:17.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Social media on trial as $200bn case against Facebook and Instagram begins",
-        "summary": "Twenty-nine US states are seeking huge damages, claiming Meta’s platforms were addictive by designIn 1994, more than 40 US states came together to sue one of the most powerful industries on Earth: big tobacco.The suits brought together diverse claims centred on tobacco companies’ misleading advertising and contribution to a mounting public health crisis. They ended in a negotiated settlement with the",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/aug/18/meta-facebook-instagram-trial",
-        "seendate": "2026-08-18T18:27:09.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "OpenAI launches ChatGPT for Teens with stronger safeguards",
-        "summary": "Teen version is intended for children aged 13 to 17 and includes content protections on self-harm and sexual chatsOpenAI is launching a version of ChatGPT designed for teenagers – the first generation to grow up with <a href=\"https://www.theguardian.com/technology/artificialintelligenceai",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/aug/18/openai-chatgpt-for-teens",
-        "seendate": "2026-08-18T15:28:57.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Democracy v the machine: the birth of the digital age and the warnings that were ignored",
-        "summary": "Many hoped that the march of technology would usher in an egalitarian utopia – but some foresaw the threat it would pose to liberal society. Why did nobody listen?One of the stranger things about this dizzying, headlong moment in time is that it doesn’t have much of a past. Everything is about the future of this, the future of that: the future of work, the future of humanity, the future of the planet. It’s",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/news/2026/aug/18/the-long-read-democracy-v-the-machine-digital-age-warnings-computer-history-technology",
-        "seendate": "2026-08-18T04:00:13.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "climate": [
+      {
+        "title": "Controversial California oil pipeline can continue to operate, judge rules",
+        "summary": "State sought to stop system off coast of Santa Barbara from resuming operations after Trump ordered its reopening A controversial oil pipeline can continue to operate off the California coast after a judge gave it the green light this week, despite the opposition of state regulators and environmental groups.The system off the coast of Santa Barbara <a href=\"https://www.theguardian.com/us-news/2026/ma",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/aug/20/california-oil-pipeline-trump-judge-ruling",
+        "seendate": "2026-08-20T20:13:27.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Trump plan to allow drilling near US world heritage site sparks alarm",
+        "summary": "Administration’s plan to scrap drilling-free buffer zone around New Mexico site prompts scrutiny from UnescoThe Trump administration’s push to expand oil and gas extraction across the US is set to bring drilling near cherished natural and cultural sites, raising alarm among conservationists and prompting questions from the UN’s heritage body.Unesco said it had received information on the administrati",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/aug/20/trump-oil-drilling-world-heritage-site-new-mexico",
+        "seendate": "2026-08-20T14:00:57.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Destructive and delicious: how an invasive deer in Hawaii is being turned into dinner",
+        "summary": "The overpopulation of axis deer has taken an environmental toll, but Maui Nui Venison sees it as a resource instead of a pestIn 1868, the government of Hong Kong gave eight axis deer to Hawaii’s King Kamehameha V. They were a beautiful gift, these creatures that hail from south Asia, with their honey-colored pelts marked by a smattering of white spots. But their incursion into Maui started much later, in th",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/environment/2026/aug/20/axis-deer-hawaii",
+        "seendate": "2026-08-20T10:00:48.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "California becomes first US state to set efficiency rules for replacement tires",
+        "summary": "Regulations that would block sale of older tires praised by environmental groups amid rightwing backlashCalifornia has become the first state in the nation to mandate that replacement tires be energy efficient, a major auto industry regulation set to block the sale of older tires and make vehicles on the road greener.State regulators have s",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/aug/19/california-replacement-tires",
+        "seendate": "2026-08-19T23:48:06.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Human remains again found at Lake Mead as water levels drop amid drought",
         "summary": "Discovery marks latest grim finding in lake as water levels in crucial reservoir outside Las Vegas continue to declineHuman remains have once again been discovered at Lake Mead outside Las Vegas, Nevada, marking the latest in a line of gruesome discoveries as water levels in the crucial reservoir continue to drop, authorities said.These remains were discovered on 16 August, USA Today <a href=\"https:/",
@@ -347,41 +379,33 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/us-news/2026/aug/19/lake-mead-human-remains",
         "seendate": "2026-08-19T17:30:28.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Otter spotted for first time in 100 years in New York City’s Bronx River",
-        "summary": "Image captured in early June shows animal foraging in the waterway in first since early 1900s, signaling its recovery An otter has been spotted in the Bronx River for the first time in more than 100 years, in a further sign that New York’s previously befouled waterways are recovering some of their ecological health.The North American river otter was photographed by a motion-activated camera foraging",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/aug/19/otter-bronx-river-new-york-city",
-        "seendate": "2026-08-19T17:27:55.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Firefighters sound alarm as US faces critical staffing shortage: ‘We don’t have enough people’",
-        "summary": "Firefighters describe being pushed to limit by a brutal wildfire season, with key leadership roles going unfilledThe US has faced a critical shortage of firefighters at the US Forest Service (USFS) this summer as thousands of fires erupted across the country.Despite officials’ claims that the firefighting workforce was stronger than ever, the agency has failed to keep pace with escalating conditions",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/aug/19/us-firefighters-staffing-shortage",
-        "seendate": "2026-08-19T14:00:13.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Hawaii crews work to restore power to thousands after Lala outages",
-        "summary": "Storm also caused destructive flooding and damage to homes and infrastructure with one woman deadTropical storm Lala wreaks ‘devastation’ to some areas of Hawaii’s Big IslandCrews in Hawaii are working to restore power to thousands of reside",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/aug/19/hawaii-power-outages-storm-lala-damage",
-        "seendate": "2026-08-19T13:18:21.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Trump administration to rescind rule protecting old-growth forests",
-        "summary": "Almost 45m acres of national forests could be potentially opened to road construction, drilling and loggingThe Trump administration said on Tuesday it plans to rescind the “roadless rule” that has protected old-growth forests in the US for 25 years, potentially opening up almost 45m acres of national forests to road construction, drilling and logging.Conservationists had feared the announcement was c",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/aug/18/trump-administration-growth-forests",
-        "seendate": "2026-08-18T20:13:31.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "science": [
+      {
+        "title": "It's finally raining, but the drought's not over",
+        "summary": "After a summer that has seen England and Wales experience the driest July since records began, rain is finally on the horizon. But with reservoirs at ‘exceptionally low’ levels, will there be enough rain to replenish stocks? Madeleine Finlay hears from Dr Anna Murgatroyd, a lecturer in hydrology at Newcastle University, about how much rain we need to see us through next summer, why we’re now at increased r",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/video/2026/aug/20/its-finally-raining-but-the-droughts-not-over",
+        "seendate": "2026-08-20T12:27:48.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Astronomers detect fastest known star in Milky Way",
+        "summary": "Star’s extreme proximity to Sagittarius A* means it could open new window onto black hole’s fundamental propertiesAstronomers have detected the fastest known star in the Milky Way, hurtling around the supermassive black hole at the heart of the galaxy.The star, called S301, travels at about 25,000km (15,500 miles) per second, 100,000 times faster than a commercial plane. It is also the closest known",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/aug/19/astronomers-detect-fastest-known-star-in-milky-way-s301",
+        "seendate": "2026-08-19T16:00:25.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Capture the Dark 2026: Winning photographs",
+        "summary": "A selection of winning images from DarkSky International’s 2026 Capture the Dark photography contest. It is the sixth edition of the annual night-time photography competition, which drew 2,288 submissions from 30 countries Continue reading...",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/artanddesign/gallery/2026/aug/20/capture-the-dark-2026-winning-photographs",
+        "seendate": "2026-08-20T06:00:44.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Shrews may grow bigger snouts in winter to cope with cold air, scientists say",
         "summary": "Study of long-clawed shrew skulls from Japan shows that while skulls get smaller in winter, snouts elongateHumans turn to heated blankets and fluffy socks to cope with winter, but long-clawed shrews have a very different adaptation: they increase the size of their snouts.Researchers have previously discovered that certain small mammals, including the <a href=\"https://www.cell.com/current-biology/full",
@@ -396,30 +420,6 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/science/video/2026/aug/18/the-ultra-rich-are-collecting-fossils-and-thats-bad-for-science",
         "seendate": "2026-08-18T13:44:08.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Plantwatch: Cities make a surprising refuge for threatened UK wildflowers",
-        "summary": "Nooks and crannies in urban areas provide a welcome alternative to intensive farming and other rural pressuresWildflowers are having a rough time in the countryside, mostly from the onslaught of intensive farming with fertilisers, pesticides and herbicides and less grazing. On top of that, there are building developments, competition from invasive plant species and the climate crisis to contend with.",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/aug/19/plantwatch-cities-make-a-surprising-refuge-for-threatened-uk-wildflowers",
-        "seendate": "2026-08-19T05:00:06.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Scientists who turned to OnlyFans to fund marmot research receive crypto boost",
-        "summary": "Funding boost worth $100,000 has recently materialized in form of new marmot-themed cryptocurrencyScientists who turned to OnlyFans to help save long-running research into marmots have raised more than $100,000 after harnessing the support of another, very modern, funding avenue – cryptocurrency.The 60-year project of continuous study of marmots – stout, ground-dwelling rodents that are the largest m",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/aug/18/scientists-onlyfans-marmots-crypto",
-        "seendate": "2026-08-18T13:00:46.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Top album releases linked to rise in fatal crashes as ‘distracted’ drivers access music",
-        "summary": "Harvard study finds traffic fatalities increase by 15% on release dates compared with similar days either sideThe release of a new album by Taylor Swift might be a cause for celebration among her fans, but such events have also been linked to a more sombre phenomenon: an increase in fatal car crashes.The team behind a new study say it sheds light on the impact of distracted driving. “You can’t random",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/aug/17/top-album-releases-linked-to-rise-in-fatal-crashes-as-distracted-drivers-access-music",
-        "seendate": "2026-08-17T15:00:02.000Z",
         "domain": "theguardian.com"
       }
     ]
