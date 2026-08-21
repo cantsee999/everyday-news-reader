@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T23:15:02.271Z",
+  "generatedAt": "2026-08-21T23:12:36.470Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
@@ -88,6 +88,14 @@
     ],
     "economy": [
       {
+        "title": "What does Tyson’s shutdown of two US beef plants mean for grocery costs?",
+        "summary": "Meat producer closes facilities in Utah and Illinois as beef prices rise for consumers amid historic cattle shortagePeople in the US: how much do you spend on food per month?Tyson Foods, the largest meatpacking company in the US, announced last week that it is closing two of its facilities in",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/business/2026/aug/21/tyson-foods-close-facilities-beef-prices-cattle-shortage",
+        "seendate": "2026-08-21T16:01:43.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "‘Starve the beast’? The $40tn cost of Republicans’ false promises to cut spending",
         "summary": "The enormous US debt under Trump will hobble the next Democratic administration – just as the GOP plannedWhy is the Trump administration causing turmoil in the bond markets?You could pin the US’s staggering <a href=\"https://www.theguardian.com/us-news/2026/a",
         "source": "theguardian.com",
@@ -104,31 +112,47 @@
         "domain": "theguardian.com"
       },
       {
+        "title": "Fashion tech founder sentenced to prison for $300m fraud scheme",
+        "summary": "Christine Hunsicker, former CEO of CaaStle, gave investors falsified documents that overstated profit and cash reservesA fashion tech founder was sentenced to five years in federal prison for her involvement in a $300m “fraud scheme” spanning from 2019 to 2025, the Manhattan US attorney’s office <a href=\"https://www.justice.gov/usao-sdny/pr/founder-fashion-tech-company-caastle-sentenced-five-years-prison-30",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/business/2026/aug/20/christine-hunsicker-caastle-sentenced-prison",
+        "seendate": "2026-08-20T22:27:41.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "From McDonald’s to Congress: can a former fry cook flip a key district for Democrats?",
         "summary": "Manny Rutinel hopes price-tag politics can win key voters in Colorado House raceDuring his presidential campaign in October 2024, Donald Trump staged a photo op at a McDonald’s franchise in Pennsylvania, where he was briefly taught how to work the fryer and drive-thru window at the closed",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/us-news/2026/aug/20/mcdonalds-congress-affordability-democrats",
         "seendate": "2026-08-20T11:00:50.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "US treasury doubles debt buyback to steady bond market amid inflation fears",
-        "summary": "Interest rates, now sitting at about 3.5-3.7%, expected to go up if inflation doesn’t come down to Fed’s 2% targetThe US treasury is doubling its buyback of government debt in an effort to balance out the bond market as officials at the US Federal Reserve remain divided over how to deal with high inflation.The yield rate on 10-year, 2",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/aug/19/us-treasury-doubles-debt-buyback-bond-market",
-        "seendate": "2026-08-19T14:57:21.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Trump pauses Canada tariffs threat, and hints at revival of Keystone XL pipeline",
-        "summary": "US president delays 50% tariffs by three days, and says contentious oil project ‘may be awoken from the grave’Canada has temporarily avoided a bruising 50% US tariff, reaching a Tuesday-evening agreement with Trump administration officials hours before a hike that would have affected $20bn worth of goods was set to take effect.Donald Trump posted late on Tuesday on social media that he had paused the",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/aug/19/trump-delay-canada-tariffs-keystone-xl-oil-pipeline",
-        "seendate": "2026-08-19T03:47:12.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "literature": [
+      {
+        "title": "Alice Roberts: ‘By the time I’d finished Richard Dawkins I’d left faith behind’",
+        "summary": "The TV presenter and author on the evolutionary biologists who inspired her, the genius of George Eliot – and fun with Frog and ToadMy earliest reading memoryThe first books I remember were from The Village with Three Corners series Sheila K McCullagh. I loved the – literally – colourful characters, like Johnny Yellow Hat. I was reading with my Grandma, in her garden perhaps, s",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/aug/21/alice-roberts-by-the-time-id-finished-richard-dawkins-id-left-faith-behind",
+        "seendate": "2026-08-21T09:00:31.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Life of M by Rachel Cusk review – is this story of a film star based on Natalie Portman?",
+        "summary": "A teasing tale of the friendship between a writer and an actor explores the fallout from fame, and the blurring between pretence and realityM is a celebrated film actor. A&nbsp;star since childhood, now the face of a major fashion brand, she has been famous all her life. That her career closely resembles Natalie Portman’s has been gleefully seized upon by the press, something Rachel Cusk mu",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/aug/21/life-of-m-by-rachel-cusk-review-is-this-story-of-a-film-star-based-on-natalie-portman",
+        "seendate": "2026-08-21T06:00:27.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "The best recent translated fiction – review roundup",
+        "summary": "The Red Book of Farewells by Pirkko Saisio; Short Circuit by Wolf Haas; Cosmos by Lucia Odoom; The Fallen Trees Are Also the Forest by Alejandra KamiyaThe Red Book of Farewells by Pirkko Saisio, translated by Mia Spangenberg, Penguin<stro",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/aug/21/the-best-recent-translated-fiction-review-roundup",
+        "seendate": "2026-08-21T11:00:33.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Ukrainian publishers call for support after Russian attacks destroy 10m books",
         "summary": "The country risks ‘the collapse of the entire book ecosystem’ following destruction of warehouses in July and August, say Ukrainian publishersThe Ukrainian Book Institute has called on the international publishing community to support Ukrainian publishers after Russian attacks",
@@ -144,155 +168,131 @@
         "url": "https://www.theguardian.com/books/ng-interactive/2026/aug/20/the-best-books-to-read-in-august-new-paperbacks-from-chimamanda-ngozi-adichie-salman-rushdie-and-werner-herzog",
         "seendate": "2026-08-20T13:30:00.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "How I’ve Tried to Change the World by Alexei Sayle review – does protest make a difference?",
-        "summary": "The comedian charts his life in demos from 1960s Liverpool to 2020s London in this fiery and addictive bookAt 74, the comedian Alexei Sayle is approaching a dangerous phase for veteran British leftists: becoming a national treasure. Once described by special branch, in a&nbsp;surveillance file gleefully quoted in this memoir, as an “intellectual thug” who made “foul-mouthed comments about the royal family”,",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/stage/2026/aug/20/how-ive-tried-to-change-the-world-by-alexei-sayle-review-does-protest-make-a-difference",
-        "seendate": "2026-08-20T06:00:44.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "All of Us Atoms by Holly Dawson audiobook review – an extraordinary self-portrait",
-        "summary": "Helena Bonham Carter narrates the playwright’s impressionistic memoir, written as she was experiencing the loss of her memoryPlaywright Holly Dawson’s memoir tells of memory lapses and a series of seizures that signal something isn’t right. Before visiting a doctor, she had been muddling up words, forgetting people’s names and flooding the bathroom.The book finds Dawson in conversation with her brain",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/aug/20/all-of-us-atoms-by-holly-dawson-audiobook-review-an-extraordinary-self-portrait",
-        "seendate": "2026-08-20T14:00:52.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Where Are the Kings by Donal Ryan review – a timeless tale of family sorrows and joys",
-        "summary": "A teenage boy navigates adolescence and the traumatic loss of his mother in this poignant coming-of-age novel set in rural IrelandSomething is happening to literary time. In the last fortnight I’ve read new or forthcoming novels about a mirror universe where history runs backwards (Under Story, Chloe Benjamin), an agency that offers appointments with the past (Time Travel for Beginners, Jaclyn Moriarty), an",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/aug/19/where-are-the-kings-by-donal-ryan-review-a-timeless-tale-of-family-sorrows-and-joys",
-        "seendate": "2026-08-19T06:00:07.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "entertainment": [
       {
-        "title": "Marvel’s Wolverine: Spider-Man developers turn to a more cutthroat character",
-        "summary": "Even film-makers have been inspired by Insomniac’s take on Spidey. But the studio’s tried and tested format might not fit a superhero with such sharp clawsThe recent Marvel’s Spider-Man games have become so tightly interwoven with the character’s core that they’ve been cited, by both actor Tom Holland and director Destin Daniel Cretton, as an influence on this year’s blockbuster film <a href=\"https://www.th",
+        "title": "Meghan reportedly in talks to join Guy Ritchie’s TV series The Gentlemen",
+        "summary": "The Duchess of Sussex is said to be discussing a return to acting in the third season of Netflix’s hit crime seriesThe Duchess of Sussex is in talks to make her acting return in Netflix’s hit series The Gentlemen.According to Variety, Meghan is in discussions to join the third season, which has yet to re",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/games/2026/aug/20/marvel-wolverine-spider-man-developers-turn-more-cutthroat-character",
-        "seendate": "2026-08-20T15:40:04.000Z",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/aug/21/meghan-duchess-of-sussex-guy-ritchie-the-gentlemen",
+        "seendate": "2026-08-21T18:17:44.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Ukrainian publishers call for support after Russian attacks destroy 10m books",
-        "summary": "The country risks ‘the collapse of the entire book ecosystem’ following destruction of warehouses in July and August, say Ukrainian publishersThe Ukrainian Book Institute has called on the international publishing community to support Ukrainian publishers after Russian attacks",
+        "title": "David Harbour has blown Tony Stark’s cover in Avengers: Doomsday. It might just be what Marvel needs",
+        "summary": "The actor, who plays Red Guardian in the film, made a cryptic comment to Variety that raised more Robert Downey Jr-shaped questions than answers. But was it a clanger, or expert trolling? Nobody knows exactly what solemn blood oaths Marvel uses to prevent spoilers. But we do know that Andrew Garfield spent most of the run-up to 2021’s Spider-Man: No Way Home – in which he would eventually turn up as one of",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/aug/20/help-ukrainian-publishers-russia-attacks-books",
-        "seendate": "2026-08-20T15:37:57.000Z",
+        "url": "https://www.theguardian.com/film/2026/aug/21/avengers-doomsday-robert-downey-jr-tony-stark-david-harbour-marvel",
+        "seendate": "2026-08-21T15:37:53.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘I need to think like a CEO’: Weezer on the shifting sands of success, ugly feelings and the joy of spreadsheets",
-        "summary": "As the self-professed geeky rockers release their conceptual 20th album, Rivers Cuomo and Patrick Wilson discuss dodging failure, being saved by fans and their obsessive creativityThe first song Rivers Cuomo wrote for Weezer’s new album, their 20th, blatantly mimics the US rockers’ 1994 debut single, Undone (The Sweater Song). On the track CEO, the singer-guitarist grumbles over a slow, Velvets-y backing ab",
+        "title": "‘We’re barely above porn’: why would a film-maker choose to make a deliberately bad ‘mockbuster’?",
+        "summary": "With a tiny budget and six days, Anthony Frith directed a film for the studio behind Sharknado – and then made Mockbuster, a documentary about the experienceDirectors don’t tend to appreciate having their films eviscerated by critics. And us critics, well practised in lobbing proverbial grenades from the safety of our pretentiously book-lined, Cahiers du Cinéma-strewn offices, don’t tend to look an artist i",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/music/2026/aug/20/weezer-rivers-cuomo-patrick-wilson-ceo",
-        "seendate": "2026-08-20T14:16:19.000Z",
+        "url": "https://www.theguardian.com/film/2026/aug/22/anthony-frith-documentary-mockbuster-the-land-that-time-forgot",
+        "seendate": "2026-08-21T15:00:37.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘It was a damn unicorn’: the pioneering, divisive power of Paul Simon’s Graceland at 40",
-        "summary": "On its anniversary, the author of a new book about the album explains the complex legacy and masterful musicianship of the 1986 classicIt was the summer of 1984 and things weren’t going well for Paul Simon. The year prior, a blockbuster Simon and Garfunkel tour ended in bickering. Mea",
+        "title": "‘She had this divine calling’: the incredible and transporting art of Minnie Evans",
+        "summary": "Just over 50 years after she was one of the first Black artists to have a solo show at the Whitney, the museum gathers some of her most remarkable paintings for a new exhibitionSurprisingly, the term “outsider art” was coined fairly recently – in 1972, when the art historian Roger Cardinal made it the title of the book with which he introduced the idea to the English-speaking world. Since then, debates have",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/music/2026/aug/20/paul-simon-graceland-anniversary",
-        "seendate": "2026-08-20T09:00:48.000Z",
+        "url": "https://www.theguardian.com/artanddesign/2026/aug/21/minnie-evans-whitney-museum-outsider-artist",
+        "seendate": "2026-08-21T09:00:31.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Amy Lee of Evanescence: ‘I could happily do an entire album of nothing but Portishead covers’",
-        "summary": "As her band hits the road, the metal trailblazer answers your questions on sexualisation in show business, finding inspiration in dreams and Spinal Tap moments on tourYou wrote Bring Me to Life when you were 19. When you perform it now, how do you relate to the younger you? becgoldsmithI was in an abusive relationship, so Bring Me to Life was p",
+        "title": "When TV turns sour: the shows we simply can’t stomach any more",
+        "summary": "They were once the hottest shows on television – gripping, sexy, hilarious, zeitgeisty. But for our writers, the likes of America’s Next Top Model, House of Cards and The Office are now part of their viewing history they feel tainted byWhen I think of the summer holidays when I was a teenager, I think of watching America’s Next Top Model for hours on end, critiquing each contestant with my sister. The makeo",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/music/2026/aug/20/amy-lee-of-evanescence-i-could-happily-do-an-entire-album-of-nothing-but-portishead-covers",
-        "seendate": "2026-08-20T13:00:52.000Z",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/aug/21/when-tv-turns-sour-the-shows-we-simply-cannot-stomach-any-more",
+        "seendate": "2026-08-21T12:00:34.000Z",
         "domain": "theguardian.com"
       }
     ],
     "f1": [
       {
-        "title": "Max Verstappen is yet to reach his peak, says former F1 team boss",
-        "summary": "Former Formula 1 team principal Otmar Szafnauer believes Max Verstappen is continuing to improve and has still not reached his peak performance.During an episode of the High Performance Racing podcast alongside host Jake Humphrey and former Ferrari race engineer Rob Smedley, Szafnauer discussed the standout drivers he has encountered during his career in the paddock.When Humphrey prompted ...<a class",
+        "title": "Netflix confirms release date for new Michael Schumacher F1 documentary",
+        "summary": "Netflix has announced that its new Formula 1 documentary focusing on Michael Schumacher's maiden title-winning campaign will be released globally on 2 October 2026.Titled Schumacher '94 - The Birth of a Legend, the feature-length film was initially previewed earlier this year during a Netflix Germany presentation and follows the release of the 2021 documentary Schumacher. It also adds to ...<a class='mor",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/max-verstappen-is-yet-to-reach-his-peak-says-former-f1-team-boss/10847757/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-20T21:22:52.000Z",
+        "url": "https://www.motorsport.com/f1/news/netflix-confirms-release-date-for-new-michael-schumacher-f1-documentary/10848075/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-21T21:14:11.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Karun Chandhok \"surprised\" by length of Max Verstappen's Red Bull contract",
-        "summary": "Max Verstappen's decision to sign a contract extension with Red Bull until the end of 2030 shows he believes in the long-term potential of the team's in-house power unit programme, according to former Formula 1 driver and Sky Sports analyst Karun Chandhok.Verstappen currently sits sixth in the drivers' championship, with Red Bull often fielding the fourth-fastest car this season. Despite the ...<a class=",
+        "title": "Lewis Hamilton baffled by \"completely different\" Ferrari as Charles Leclerc nails \"best\" lap of 2026",
+        "summary": "On its F1 swansong, Zandvoort's sprint qualifying session produced a tight three-team battle at the front, with Mercedes' George Russell taking pole ahead of Lando Norris and Charles Leclerc as the top five was covered by just a tenth of a second. Lewis Hamilton was the outlier, who could only muster seventh in the second Ferrari, beaten by home hero Max Verstappen's Red Bull.Hamilton ...<a class='more'",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/karun-chandhok-surprised-by-length-of-max-verstappens-red-bull-contract/10847737/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-20T20:19:01.000Z",
+        "url": "https://www.motorsport.com/f1/news/hamilton-baffled-by-completely-different-ferrari-as-leclerc-nails-best-lap-of-2026/10848063/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-21T19:13:22.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "F1 Dutch GP: Friday schedule, weather forecast and how to watch",
-        "summary": "Formula 1 returns from its summer break at Zandvoort this weekend, with the Dutch GP starting the final stretch of the 2026 season after Lando Norris’ breakthrough win in Hungary.Norris took his first victory of the campaign before the shutdown, while Kimi Antonelli still leads the championship as Mercedes, Ferrari and McLaren continue to trade momentum. Zandvoort now gives the field an ...<a class='more",
+        "title": "Franco Colapinto reveals details of Milan car robbery during F1 summer break",
+        "summary": "Alpine Formula 1 driver Franco Colapinto has spoken for the first time about a theft he suffered in Milan during the summer break, jokingly declaring it \"the worst day of my life\" after the thieves made off with his clothes and passport.The 23-year-old Argentine initially shared the news of the theft via an Instagram post on 6 August. But he has now revealed further details about the ...<a class='more' h",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/f1-dutch-gp-friday-schedule-weather-forecast-and-how-to-watch/10847729/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-20T18:50:06.000Z",
+        "url": "https://www.motorsport.com/f1/news/franco-colapinto-reveals-details-of-milan-car-robbery-during-f1-summer-break/10847944/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-21T18:00:02.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "George Russell shares details of summer break proposal to partner Carmen Montero Mundt",
-        "summary": "Mercedes Formula 1 driver George Russell has opened up about his engagement to his long-term partner Carmen Montero Mundt.The Briton announced his engagement during the summer break alongside photos of the special moment at a candlelit, beachfront dinner.Appearing in the drivers' press conference ahead of the Dutch Grand Prix, Russell was warmly congratulated before he shared some insight ...<a class",
+        "title": "F1 Dutch GP: Saturday schedule, weather forecast and how to watch",
+        "summary": "Formula 1 heads into Saturday at Zandvoort with George Russell on sprint pole after a tight sprint qualifying session at the Dutch Grand Prix.The Mercedes driver beat Lando Norris by just 0.041s, with Charles Leclerc third and Oscar Piastri fourth. Championship leader Kimi Antonelli will start fifth after suffering floor damage from an off in SQ1, while Max Verstappen starts sixth for his ...<a class='mo",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/george-russell-shares-details-of-summer-break-proposal-to-partner-carmen-montero-mundt/10847718/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-20T18:12:39.000Z",
+        "url": "https://www.motorsport.com/f1/news/f1-dutch-gp-saturday-schedule-weather-forecast-and-how-to-watch/10848036/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-21T17:46:05.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "“Something needed to change” – What Marcin Budkowski must fix at Cadillac F1",
-        "summary": "With Cadillac F1 Team pulling the trigger on a surprising mid-season team boss change, incoming chief Marcin Budkowski is tasked with rectifying the new team's flaws and speeding up its rate of progress.Under founding team principal Graeme Lowdon, Cadillac did an admirable job assembling a start-up F1 team under difficult circumstances, only officially receiving approval to join the grid less ...<a class",
+        "title": "Max Verstappen: Red Bull still lacking grip and balance after F1 Dutch GP sprint qualifying",
+        "summary": "Having chosen the Dutch Grand Prix as the venue to announce his renewed commitment to Red Bull until at least 2030, Max Verstappen endured mixed fortunes on the opening day of Formula 1 track action at Zandvoort.During practice Verstappen complained of poor gearshift quality – a regular issue with the car this year – low grip and an oversteer balance during the only practice session, in ...<a class='more",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/something-needed-to-change-what-marcin-budkowski-must-fix-at-cadillac-f1/10847712/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-20T18:04:19.000Z",
+        "url": "https://www.motorsport.com/f1/news/max-verstappen-red-bull-still-lacking-grip-and-balance-after-f1-dutch-gp-sprint-qualifying/10848024/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-21T17:23:01.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "US Army confirms it's offering 4 days to play GTA 6 to soldiers who reenlist for at least 2 years",
-        "summary": "This, apparently, is pretty normal stuff.",
+        "title": "The GTA 6 leaker is selling ads now",
+        "summary": "For $165,000, you too can ask Cyberleek about promoting your product on his videos.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/us-army-confirms-its-offering-4-days-to-play-gta-6-to-soldiers-who-reenlist-for-at-least-2-years/",
-        "seendate": "2026-08-20T21:43:32.000Z",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/the-gta-6-leaker-is-selling-ads-now/",
+        "seendate": "2026-08-21T22:16:19.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Who is Cyberleek? What we know about the GTA 6 leaker",
-        "summary": "Someone is posting Grand Theft Auto 6 footage under the name \"Cyberleek.\" They may not be anonymous for long.",
+        "title": "Robot Olympics runner bravely sprints headfirst into wall and collapses in shower of sparks, is not a metaphor",
+        "summary": "This is not an event imbued with meaning.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/who-is-cyberleek-what-we-know-about-the-gta-6-leaker/",
-        "seendate": "2026-08-20T21:09:46.000Z",
+        "url": "https://www.pcgamer.com/hardware/robot-olympics-runner-bravely-sprints-headfirst-into-wall-and-collapses-in-shower-of-sparks-is-not-a-metaphor/",
+        "seendate": "2026-08-21T22:09:17.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "'Dude no joke looks like Hugh Jackman now': The internet is swooning over Gabe Newell's svelte new look at The International",
-        "summary": "Newell's video message welcoming everyone to this year's Dota 2 championship tourney caught a lot of viewers by surprise.",
+        "title": "The newly independent Psychonauts dev now earns all the revenue when you buy games it made under Xbox: 'Buying any of our games helps support the studio'",
+        "summary": "It also has a new Kickstarter campaign set to kickoff later this month.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/dude-no-joke-looks-like-hugh-jackman-now-the-internet-is-swooning-over-gabe-newells-svelte-new-look-at-the-international/",
-        "seendate": "2026-08-20T20:21:56.000Z",
+        "url": "https://www.pcgamer.com/gaming-industry/the-newly-independent-psychonauts-dev-now-earns-all-the-revenue-when-you-buy-games-it-made-under-xbox-buying-any-of-our-games-helps-support-the-studio/",
+        "seendate": "2026-08-21T21:05:18.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Black Myth: Zhong Kui's 15-minute gameplay reveal shows off confident swordplay, boss fights with oyster men, and the coolest skeletons I've ever seen",
-        "summary": "Look at those guys! Look at those guys!!",
+        "title": "2 Steam top sellers, 2 simultaneous betas, 2 very different shooters: It's Wardogs & Modern Warfare weekend",
+        "summary": "Which one are you checking out this weekend?",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/action/black-myth-zhong-kuis-15-minute-gameplay-reveal-shows-off-confident-swordplay-boss-fights-with-oyster-men-and-the-coolest-skeletons-ive-ever-seen/",
-        "seendate": "2026-08-20T20:04:44.000Z",
+        "url": "https://www.pcgamer.com/games/fps/2-steam-top-sellers-2-simultaneous-betas-2-very-different-shooters-its-wardogs-and-modern-warfare-weekend/",
+        "seendate": "2026-08-21T19:55:52.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "I'm a decade-plus FromSoftware sicko, and these are my 5 takeaways from the first Duskbloods gameplay",
-        "summary": "I still resent it being a Switch 2 exclusive.",
+        "title": "Take-Two kicks off GTA 6 leaker hunt with subpoenas demanding records from Microsoft and Discord",
+        "summary": "Meanwhile, another new Grand Theft Auto 6 leak dropped today.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/action/im-a-decade-plus-fromsoftware-sicko-and-these-are-my-5-takeaways-from-the-first-duskbloods-gameplay/",
-        "seendate": "2026-08-20T19:56:14.000Z",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/take-two-kicks-off-gta-6-leaker-hunt-with-subpoenas-demanding-records-from-microsoft-and-discord/",
+        "seendate": "2026-08-21T16:10:58.000Z",
         "domain": "pcgamer.com"
       }
     ],
@@ -304,6 +304,22 @@
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/technology/2026/aug/19/meta-safety-trial-whistleblower-testimony",
         "seendate": "2026-08-19T21:30:11.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "I worked at OpenAI. Here are the guardrails we need now | Miles Brundage",
+        "summary": "I understand the pressure on AI companies to rush forward. But employees are right to be concernedLast month, more than a thousand employees at frontier AI companies signed a letter asking the US government to find a way to “pace” AI development, citing the risk of the technology spiraling out of human control as it begins to <a href=\"https://www.anthropic.co",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/commentisfree/2026/aug/21/openai-frontier-ai-speed",
+        "seendate": "2026-08-21T10:00:32.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Proposed London datacentre ‘incompatible’ with net zero with 1m-tonne carbon footprint",
+        "summary": "Exclusive: Planning documents show annual emissions from North Ockendon project would be equivalent to 8,480 flights to New YorkA “hyperscale” datacentre in outer London would generate more than 1m tonnes of carbon dioxide a year, equivalent to the carbon footprint of 8,480 flights from London to New York, planning documents show.The East Havering Data Centre Campus (EHDCC) in North Ockendon would be",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/uk-news/2026/aug/21/proposed-london-datacentre-will-have-annual-carbon-footprint-of-27000-flights-to-new-york",
+        "seendate": "2026-08-21T10:00:31.000Z",
         "domain": "theguardian.com"
       },
       {
@@ -321,31 +337,31 @@
         "url": "https://www.theguardian.com/australia-news/2026/aug/20/roblox-esafety-commissioner-children-adults-ntwnfb",
         "seendate": "2026-08-19T15:00:17.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "It used to be our imperfect bodies that made us insecure. With AI, it’s our minds as well",
-        "summary": "For most of modern history, technology sought to imitate humans. Humans increasingly seek to imitate technologyTwo faces that appeared on my Instagram feed in recent months gave me pause. One belonged to John Travolta at Cannes. The other to Carla Bruni on a date night with her husband, former",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/commentisfree/2026/aug/20/bodies-ai-minds-history-technology-humans",
-        "seendate": "2026-08-20T04:00:42.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Did someone wearing Meta Glasses film you today? Are you sure?",
-        "summary": "People say they’ve been secretly filmed in their own homes, at concerts and at work. Are the wildly popular smartglasses the final nail in the coffin of personal privacy?“I’ve had one person who told me that their intentions were creepy,” a man tells me over a video call, on condition of anonymity. He’s based in Los Angeles, and while we speak, he eats what appears to be tuna directly out of the can. “He sa",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/ng-interactive/2026/aug/19/meta-glasses-privacy-surveillance",
-        "seendate": "2026-08-19T14:13:08.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "climate": [
       {
+        "title": "The US has a plan to save the Colorado River. Experts say it won’t be enough to stop the crisis",
+        "summary": "The 10-year blueprint mandates water cuts of up to 40% for California, Arizona and NevadaIt’s official: after years of tense negotiations and missed deadlines, there is finally a plan to govern the future of the imperiled Colorado River - or at least the makings of one.With the previous framework set to expire in October, the US Bureau of Reclamation publicly released its proposal for a new plan on F",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/aug/21/colorado-river-water-crisis-plan",
+        "seendate": "2026-08-21T19:41:48.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "First ever Fat Marmot Week to kick off in effort to raise money for research",
+        "summary": "Researchers hope contest – similar to Fat Bear Week – starting Monday will be latest wildlife watching crazeMonday sees the start of what researchers hope will be the latest wildlife watching craze – Fat Marmot Week.Last winter was tough for marmots living high in the Colorado mountains, where researchers say two-thirds of one population died while hibernating because of insufficient snow cover.",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/environment/2026/aug/21/fat-marmot-week-research-funding",
+        "seendate": "2026-08-21T14:17:55.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Controversial California oil pipeline can continue to operate, judge rules",
-        "summary": "State sought to stop system off coast of Santa Barbara from resuming operations after Trump ordered its reopening A controversial oil pipeline can continue to operate off the California coast after a judge gave it the green light this week, despite the opposition of state regulators and environmental groups.The system off the coast of Santa Barbara <a href=\"https://www.theguardian.com/us-news/2026/ma",
+        "summary": "State sought to stop system off coast of Santa Barbara from resuming operations after Trump ordered its reopening An oil pipeline can continue to operate off the California coast after a judge gave it the green light this week, despite the opposition of state regulators and environmental groups.The system off the coast of Santa Barbara <a href=\"https://www.theguardian.com/us-news/2026/mar/17/oil-cali",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/us-news/2026/aug/20/california-oil-pipeline-trump-judge-ruling",
-        "seendate": "2026-08-20T20:13:27.000Z",
+        "seendate": "2026-08-21T00:13:47.000Z",
         "domain": "theguardian.com"
       },
       {
@@ -363,25 +379,25 @@
         "url": "https://www.theguardian.com/environment/2026/aug/20/axis-deer-hawaii",
         "seendate": "2026-08-20T10:00:48.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "California becomes first US state to set efficiency rules for replacement tires",
-        "summary": "Regulations that would block sale of older tires praised by environmental groups amid rightwing backlashCalifornia has become the first state in the nation to mandate that replacement tires be energy efficient, a major auto industry regulation set to block the sale of older tires and make vehicles on the road greener.State regulators have s",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/aug/19/california-replacement-tires",
-        "seendate": "2026-08-19T23:48:06.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Human remains again found at Lake Mead as water levels drop amid drought",
-        "summary": "Discovery marks latest grim finding in lake as water levels in crucial reservoir outside Las Vegas continue to declineHuman remains have once again been discovered at Lake Mead outside Las Vegas, Nevada, marking the latest in a line of gruesome discoveries as water levels in the crucial reservoir continue to drop, authorities said.These remains were discovered on 16 August, USA Today <a href=\"https:/",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/aug/19/lake-mead-human-remains",
-        "seendate": "2026-08-19T17:30:28.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "science": [
+      {
+        "title": "Ebola outbreak: five big questions",
+        "summary": "On 23 August, it will be 100 days since the Bundibugyo strain was first reported. How did it became the DRC’s most deadly outbreak and what must be done to stop it becoming the world’s largest?Almost 100 days ago, Africa’s public health watchdog reported an outbreak of Ebola in the Democratic Republic of the Congo.There have now been almost 5,000 cases and more than 2,000 deaths since 15 May, making",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/global-development/2026/aug/21/ebola-outbreak-five-big-questions",
+        "seendate": "2026-08-21T09:02:22.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Python named Jodie Foster first snake to receive pioneering cancer treatment",
+        "summary": "Chester zoo resident, 23, ‘back to her usual feisty self’ after electrochemotherapy for tumour in her jawA 15ft (4.5-metre) python is believed to be the first snake in the world to be given a pioneering, life-saving cancer treatment normally used on humans.The 50kg reticulated python, named Jodie Foster after the Hollywood star, has just turned 23 and lives at Chester zoo. Keepers first became concer",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/aug/21/python-jodie-foster-snake-cancer-electrochemotherapy",
+        "seendate": "2026-08-21T04:00:25.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "It's finally raining, but the drought's not over",
         "summary": "After a summer that has seen England and Wales experience the driest July since records began, rain is finally on the horizon. But with reservoirs at ‘exceptionally low’ levels, will there be enough rain to replenish stocks? Madeleine Finlay hears from Dr Anna Murgatroyd, a lecturer in hydrology at Newcastle University, about how much rain we need to see us through next summer, why we’re now at increased r",
@@ -391,35 +407,19 @@
         "domain": "theguardian.com"
       },
       {
+        "title": "The threatening thaw: climate professor on heatwave risks to tipping point of permafrost",
+        "summary": "Prof Gustaf Hugelius warns wildfires could accelerate release of methane and carbon as vast regions approach irreversible thresholdsHeatwaves and wildfires are not just scorching forests, they are adding to the tipping point risks in the world’s vast permafrost regions, which contain three times more carbon than all the living vegetation on Earth.This is a major concern for Gustaf Hugelius, a profess",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/environment/2026/aug/20/tipping-points-heatwaves-wildfires-permafrost-climate-crisis",
+        "seendate": "2026-08-20T04:00:43.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Astronomers detect fastest known star in Milky Way",
         "summary": "Star’s extreme proximity to Sagittarius A* means it could open new window onto black hole’s fundamental propertiesAstronomers have detected the fastest known star in the Milky Way, hurtling around the supermassive black hole at the heart of the galaxy.The star, called S301, travels at about 25,000km (15,500 miles) per second, 100,000 times faster than a commercial plane. It is also the closest known",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/science/2026/aug/19/astronomers-detect-fastest-known-star-in-milky-way-s301",
         "seendate": "2026-08-19T16:00:25.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Capture the Dark 2026: Winning photographs",
-        "summary": "A selection of winning images from DarkSky International’s 2026 Capture the Dark photography contest. It is the sixth edition of the annual night-time photography competition, which drew 2,288 submissions from 30 countries Continue reading...",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/artanddesign/gallery/2026/aug/20/capture-the-dark-2026-winning-photographs",
-        "seendate": "2026-08-20T06:00:44.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Shrews may grow bigger snouts in winter to cope with cold air, scientists say",
-        "summary": "Study of long-clawed shrew skulls from Japan shows that while skulls get smaller in winter, snouts elongateHumans turn to heated blankets and fluffy socks to cope with winter, but long-clawed shrews have a very different adaptation: they increase the size of their snouts.Researchers have previously discovered that certain small mammals, including the <a href=\"https://www.cell.com/current-biology/full",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/2026/aug/19/shrews-bigger-snouts-winter-cold-air",
-        "seendate": "2026-08-18T23:01:02.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "The ultra rich are collecting fossils. And that’s bad for science - video",
-        "summary": "One of the UK’s best fossil collections has been sold overseas in what experts have called a loss to the nation. The collection, which is now on display at the Natural History Museum in Abu Dhabi, was gathered on Dorset’s Jurassic Coast. As dinosaur fossils sell to private collectors for increasingly large sums, scientists are worried that domestic museums are being priced out of the market, and in turn scientists",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/video/2026/aug/18/the-ultra-rich-are-collecting-fossils-and-thats-bad-for-science",
-        "seendate": "2026-08-18T13:44:08.000Z",
         "domain": "theguardian.com"
       }
     ]
