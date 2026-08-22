@@ -1,5 +1,5 @@
 window.NEWS_CACHE = {
-  "generatedAt": "2026-08-21T23:12:36.470Z",
+  "generatedAt": "2026-08-22T23:09:48.026Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
@@ -88,6 +88,14 @@ window.NEWS_CACHE = {
     ],
     "economy": [
       {
+        "title": "Canada vows ‘dollar for dollar’ response as US puts 50% tariffs on some goods",
+        "summary": "Collapse of trade talks could lead to job losses, but biggest impact on traditional allies is expected to be political The trade row is the biggest rupture in recent relations between Washington and one of its closest allies and trading partners as Donald Trump’s bellicose foreign policy angered officials in Ottawa.The two sides appeared close to a deal on Friday to lower tariffs on steel, aluminium",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
+        "seendate": "2026-08-22T14:04:57.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "What does Tyson’s shutdown of two US beef plants mean for grocery costs?",
         "summary": "Meat producer closes facilities in Utah and Illinois as beef prices rise for consumers amid historic cattle shortagePeople in the US: how much do you spend on food per month?Tyson Foods, the largest meatpacking company in the US, announced last week that it is closing two of its facilities in",
         "source": "theguardian.com",
@@ -118,17 +126,17 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/business/2026/aug/20/christine-hunsicker-caastle-sentenced-prison",
         "seendate": "2026-08-20T22:27:41.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "From McDonald’s to Congress: can a former fry cook flip a key district for Democrats?",
-        "summary": "Manny Rutinel hopes price-tag politics can win key voters in Colorado House raceDuring his presidential campaign in October 2024, Donald Trump staged a photo op at a McDonald’s franchise in Pennsylvania, where he was briefly taught how to work the fryer and drive-thru window at the closed",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/aug/20/mcdonalds-congress-affordability-democrats",
-        "seendate": "2026-08-20T11:00:50.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "literature": [
+      {
+        "title": "From Booker-listed Marlon James to a memoir by Michael Douglas – the biggest books this autumn",
+        "summary": "Midlife meditations from Barbara Kingsolver; musical portraits by Jonathan Coe and Yiyun Li; plus memoirs from Dustin Hoffman and Judi Dench – all among the coming season’s highlightsThe Disappearers by Marlon Jame",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/ng-interactive/2026/aug/22/new-autumn-fiction-nonfiction-marlon-james-emma-cline-michael-douglas-dustin-hoffman-judi-dench-yiyun-li",
+        "seendate": "2026-08-22T08:00:58.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Alice Roberts: ‘By the time I’d finished Richard Dawkins I’d left faith behind’",
         "summary": "The TV presenter and author on the evolutionary biologists who inspired her, the genius of George Eliot – and fun with Frog and ToadMy earliest reading memoryThe first books I remember were from The Village with Three Corners series Sheila K McCullagh. I loved the – literally – colourful characters, like Johnny Yellow Hat. I was reading with my Grandma, in her garden perhaps, s",
@@ -159,14 +167,6 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/books/2026/aug/20/help-ukrainian-publishers-russia-attacks-books",
         "seendate": "2026-08-20T15:37:57.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "The best books to read in August: new paperbacks from Chimamanda Ngozi Adichie, Salman Rushdie and Werner Herzog",
-        "summary": "Looking for a new reading recommendation? Here are some wonderful new paperbacks, from a short story collection by a literary great to razor-sharp criticism*** Continue reading...",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/ng-interactive/2026/aug/20/the-best-books-to-read-in-august-new-paperbacks-from-chimamanda-ngozi-adichie-salman-rushdie-and-werner-herzog",
-        "seendate": "2026-08-20T13:30:00.000Z",
         "domain": "theguardian.com"
       }
     ],
@@ -214,104 +214,120 @@ window.NEWS_CACHE = {
     ],
     "f1": [
       {
-        "title": "Netflix confirms release date for new Michael Schumacher F1 documentary",
-        "summary": "Netflix has announced that its new Formula 1 documentary focusing on Michael Schumacher's maiden title-winning campaign will be released globally on 2 October 2026.Titled Schumacher '94 - The Birth of a Legend, the feature-length film was initially previewed earlier this year during a Netflix Germany presentation and follows the release of the 2021 documentary Schumacher. It also adds to ...<a class='mor",
+        "title": "Alex Albon details hilarious Sardinia run-in with Max Verstappen",
+        "summary": "Williams Formula 1 driver Alex Albon has revealed a surprise encounter with Max Verstappen while attempting to learn how to e-foil during the summer break in Sardinia.Speaking on the squad's official Team Torque podcast alongside team-mate Carlos Sainz and team principal James Vowles, Albon detailed his packed summer itinerary before recounting the run-in with the four-time champion.While ...<a class",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/netflix-confirms-release-date-for-new-michael-schumacher-f1-documentary/10848075/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-21T21:14:11.000Z",
+        "url": "https://www.motorsport.com/f1/news/alex-albon-details-hilarious-sardinia-run-in-with-max-verstappen/10848405/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-22T21:00:04.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Lewis Hamilton baffled by \"completely different\" Ferrari as Charles Leclerc nails \"best\" lap of 2026",
-        "summary": "On its F1 swansong, Zandvoort's sprint qualifying session produced a tight three-team battle at the front, with Mercedes' George Russell taking pole ahead of Lando Norris and Charles Leclerc as the top five was covered by just a tenth of a second. Lewis Hamilton was the outlier, who could only muster seventh in the second Ferrari, beaten by home hero Max Verstappen's Red Bull.Hamilton ...<a class='more'",
+        "title": "Carlos Sainz reveals message to Williams factory after tough 2026 F1 start: \"Take it personal\"",
+        "summary": "Carlos Sainz has revealed the message he gave to staff at the Williams Formula 1 team factory following a tough start to the 2026 season.After securing two podiums with the Grove outfit in his first year with the team in 2025, there were high hopes for 2026. But the team arrived at pre-season testing in Bahrain on the back foot, having missed private testing in Barcelona, and was faced with ...<a class='",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/hamilton-baffled-by-completely-different-ferrari-as-leclerc-nails-best-lap-of-2026/10848063/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-21T19:13:22.000Z",
+        "url": "https://www.motorsport.com/f1/news/carlos-sainz-reveals-message-to-williams-factory-after-tough-2026-f1-start-take-it-personal/10848380/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-22T20:00:04.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Franco Colapinto reveals details of Milan car robbery during F1 summer break",
-        "summary": "Alpine Formula 1 driver Franco Colapinto has spoken for the first time about a theft he suffered in Milan during the summer break, jokingly declaring it \"the worst day of my life\" after the thieves made off with his clothes and passport.The 23-year-old Argentine initially shared the news of the theft via an Instagram post on 6 August. But he has now revealed further details about the ...<a class='more' h",
+        "title": "Lewis Hamilton rebounds to fifth after Ferrari fixes Friday struggles",
+        "summary": "Lewis Hamilton says he is \"much happier\" with his Ferrari after qualifying fifth for the Dutch Grand Prix compared to Friday's sprint shootout, and is \"excited\" for the race.“I was much, much happier with the car,” he told the media on Saturday evening, having endured a difficult Friday, when he qualified seventh, 0.624s off sprint pole.Right after the sprint, which he also finished ...<a class='more",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/franco-colapinto-reveals-details-of-milan-car-robbery-during-f1-summer-break/10847944/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-21T18:00:02.000Z",
+        "url": "https://www.motorsport.com/f1/news/lewis-hamilton-much-happier-with-ferrari-after-difficult-friday/10848433/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-22T19:06:10.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "F1 Dutch GP: Saturday schedule, weather forecast and how to watch",
-        "summary": "Formula 1 heads into Saturday at Zandvoort with George Russell on sprint pole after a tight sprint qualifying session at the Dutch Grand Prix.The Mercedes driver beat Lando Norris by just 0.041s, with Charles Leclerc third and Oscar Piastri fourth. Championship leader Kimi Antonelli will start fifth after suffering floor damage from an off in SQ1, while Max Verstappen starts sixth for his ...<a class='mo",
+        "title": "Max Verstappen: Smaller team-mate gaps are down to \"easier\" cars as Andrea Stella disagrees",
+        "summary": "Red Bull's Max Verstappen thinks the narrow gaps between team-mates in 2026 are being helped by this generation of cars being easier to drive on the limit, with McLaren team boss Andrea Stella offering a different view.At Zandvoort Liam Lawson qualified eighth, one tenth behind Verstappen, on a one-off outing for Red Bull to deputise for the injured Isack Hadjar. Meanwhile, reserve driver Yuki ...<a clas",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/f1-dutch-gp-saturday-schedule-weather-forecast-and-how-to-watch/10848036/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-21T17:46:05.000Z",
+        "url": "https://www.motorsport.com/f1/news/max-verstappen-smaller-team-mate-gaps-are-down-to-easier-cars-as-andrea-stella-disagrees/10848431/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-22T18:56:40.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Max Verstappen: Red Bull still lacking grip and balance after F1 Dutch GP sprint qualifying",
-        "summary": "Having chosen the Dutch Grand Prix as the venue to announce his renewed commitment to Red Bull until at least 2030, Max Verstappen endured mixed fortunes on the opening day of Formula 1 track action at Zandvoort.During practice Verstappen complained of poor gearshift quality – a regular issue with the car this year – low grip and an oversteer balance during the only practice session, in ...<a class='more",
+        "title": "George Russell \"more relaxed\" as F1 2026 title is Kimi Antonelli's to lose",
+        "summary": "George Russell has returned from the 2026 Formula 1 summer break feeling “more relaxed” as he attempts to claw back into the title fight against Mercedes team-mate Kimi Antonelli.The championship leader holds a 56-point advantage over third-placed Russell, with Ferrari’s Lewis Hamilton sitting second and 53 behind Antonelli after 11 rounds with 12 remaining.This weekend’s Dutch ...<a class='more' hre",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/max-verstappen-red-bull-still-lacking-grip-and-balance-after-f1-dutch-gp-sprint-qualifying/10848024/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-21T17:23:01.000Z",
+        "url": "https://www.motorsport.com/f1/news/george-russell-more-relaxed-as-f1-2026-title-is-kimi-antonellis-to-lose/10848389/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-22T17:57:42.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "The GTA 6 leaker is selling ads now",
-        "summary": "For $165,000, you too can ask Cyberleek about promoting your product on his videos.",
+        "title": "SWG lead's new MMO, Stars Reach, almost lost me—until I met an animal conservationist mayor",
+        "summary": "Too much space to grow.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/the-gta-6-leaker-is-selling-ads-now/",
-        "seendate": "2026-08-21T22:16:19.000Z",
+        "url": "https://www.pcgamer.com/games/mmo/swg-leads-new-mmo-stars-reach-almost-lost-me-until-i-met-an-animal-conservationist-mayor/",
+        "seendate": "2026-08-22T23:05:51.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Robot Olympics runner bravely sprints headfirst into wall and collapses in shower of sparks, is not a metaphor",
-        "summary": "This is not an event imbued with meaning.",
+        "title": "GTA6 leaker Cyberleek shows off gas station rampage, refueling, promises strip club gameplay if people juice his cryptocurrency enough",
+        "summary": "Ok.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/hardware/robot-olympics-runner-bravely-sprints-headfirst-into-wall-and-collapses-in-shower-of-sparks-is-not-a-metaphor/",
-        "seendate": "2026-08-21T22:09:17.000Z",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta6-leaker-cyberleek-shows-off-gas-station-rampage-refueling-promises-strip-club-gameplay-if-people-juice-his-cryptocurrency-enough/",
+        "seendate": "2026-08-22T16:03:22.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "The newly independent Psychonauts dev now earns all the revenue when you buy games it made under Xbox: 'Buying any of our games helps support the studio'",
-        "summary": "It also has a new Kickstarter campaign set to kickoff later this month.",
+        "title": "Fallout dev Tim Cain says we should pay more attention to bad games: '[Publishers] often don't learn from failure because they only look at the games that sold well'",
+        "summary": "\"Gamers will frequently point to popular games and say, 'we want more of that,' without necessarily knowing exactly what part of those games made them so good.\"",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/the-newly-independent-psychonauts-dev-now-earns-all-the-revenue-when-you-buy-games-it-made-under-xbox-buying-any-of-our-games-helps-support-the-studio/",
-        "seendate": "2026-08-21T21:05:18.000Z",
+        "url": "https://www.pcgamer.com/games/fallout-dev-tim-cain-says-we-should-pay-more-attention-to-bad-games-publishers-often-dont-learn-from-failure-because-they-only-look-at-the-games-that-sold-well/",
+        "seendate": "2026-08-22T16:00:36.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "2 Steam top sellers, 2 simultaneous betas, 2 very different shooters: It's Wardogs & Modern Warfare weekend",
-        "summary": "Which one are you checking out this weekend?",
+        "title": "2XKO's shutdown has me feeling glum about Riot's future MMO—because I don't think the genre can survive corporate cut-and-run tactics",
+        "summary": "2XKO was losing money, but that doesn't mean it wasn't worth it.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/fps/2-steam-top-sellers-2-simultaneous-betas-2-very-different-shooters-its-wardogs-and-modern-warfare-weekend/",
-        "seendate": "2026-08-21T19:55:52.000Z",
+        "url": "https://www.pcgamer.com/games/mmo/2xkos-shutdown-has-me-feeling-glum-about-riots-future-mmo-because-i-dont-think-the-genre-can-survive-corporate-cut-and-run-tactics/",
+        "seendate": "2026-08-22T15:00:00.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Take-Two kicks off GTA 6 leaker hunt with subpoenas demanding records from Microsoft and Discord",
-        "summary": "Meanwhile, another new Grand Theft Auto 6 leak dropped today.",
+        "title": "This mod transforms Doom into a terrifying tactical shooter, and it's partly inspired by another PC gaming classic",
+        "summary": "Blackout makes Doom slower, deadlier, and throws in a Crysis-style energy suit for good measure.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/take-two-kicks-off-gta-6-leaker-hunt-with-subpoenas-demanding-records-from-microsoft-and-discord/",
-        "seendate": "2026-08-21T16:10:58.000Z",
+        "url": "https://www.pcgamer.com/games/fps/this-mod-transforms-doom-into-a-terrifying-tactical-shooter-and-its-partly-inspired-by-another-pc-gaming-classic/",
+        "seendate": "2026-08-22T13:00:00.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
       {
-        "title": "Zuckerberg lied about concern for child safety, Meta whistleblower testifies at landmark trial",
-        "summary": "Arturo Béjar, former Meta safety engineer, tells jury tech company was aware of products’ potential harm to childrenMeta has taken a “don’t ask, don’t tell” strategy when it comes to the safety of children on its social media platforms, according to a <a href=\"https://www.theguardian.com/technology/2023/nov/07/meta-facebook-employee-congress-testimon",
+        "title": "Hook, hold, harvest and hide: Meta’s alleged strategy laid out in first week of landmark trial",
+        "summary": "In trial that opened on Tuesday, California and 28 other states accused the company of designing addictive sites and violating laws protecting children’s privacyMeta’s business can be boiled down to four words that begin with the letter H: hook, hold, harvest, hide, according to a lawyer who is prosecuting the world’s largest social media company.The owner of Facebook and Instagram “hooks” in users,",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/aug/19/meta-safety-trial-whistleblower-testimony",
-        "seendate": "2026-08-19T21:30:11.000Z",
+        "url": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
+        "seendate": "2026-08-22T08:00:58.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "I worked at OpenAI. Here are the guardrails we need now | Miles Brundage",
-        "summary": "I understand the pressure on AI companies to rush forward. But employees are right to be concernedLast month, more than a thousand employees at frontier AI companies signed a letter asking the US government to find a way to “pace” AI development, citing the risk of the technology spiraling out of human control as it begins to <a href=\"https://www.anthropic.co",
+        "title": "‘Digging the grave of my profession’: the Hollywood creatives training AI to do their jobs",
+        "summary": "Amid a jobs slump, award-winning writers, directors and producers taking on sometimes lucrative temp work teaching AI skills such as screenwriting and productionHollywood creatives are taking gig work to train AI models to replicate their skills in a bid to offset tightening earnings in a trend one compared to being “handed a shovel and asked to dig the grave of my profession”.Experienced and award-w",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/commentisfree/2026/aug/21/openai-frontier-ai-speed",
-        "seendate": "2026-08-21T10:00:32.000Z",
+        "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
+        "seendate": "2026-08-22T06:00:55.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Diamonds for sale: lab-grown gem auctions are all over TikTok right now, but some aren’t happy about it",
+        "summary": "Streamed auctions offer a cheap way to buy the precious gems, but experts warn that quality is not guaranteedThe first time Andrea Greenhill came across a livestream auction for lab-grown diamonds while scrolling on TikTok, she was stunned. While the diamond engagement ring her husband proposed with years ago had cost thousands of dollars, these loose lab-grown diamonds were selling in seconds at a fraction",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/aug/22/tiktok-auctions-lab-grown-diamonds",
+        "seendate": "2026-08-22T12:00:02.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Would even an AI disaster on the scale of Hiroshima be enough to make humankind protect itself? I fear not | Timothy Garton Ash",
+        "summary": "It’s clear here in Silicon Valley that AI is advancing faster than humans’ ability to control it. That means even sober prophecies seem optimisticHere in Silicon Valley, the experts think that within the next couple of years we’ll see an extraordinary takeoff for artificial intelligence. “Welcome to the foothills of the singularity,” as a Stanford University friend greeted me. More prosaically, the imminent",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/commentisfree/2026/aug/22/ai-disaster-hiroshima-humankind-silicon-valley-technology",
+        "seendate": "2026-08-22T05:00:54.000Z",
         "domain": "theguardian.com"
       },
       {
@@ -321,25 +337,17 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/uk-news/2026/aug/21/proposed-london-datacentre-will-have-annual-carbon-footprint-of-27000-flights-to-new-york",
         "seendate": "2026-08-21T10:00:31.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "UK cinemas look at banning Meta smart glasses over piracy fears",
-        "summary": "Trade body says local chains would have to balance concerns with potential benefits of AI-enabled technologyCinemas across the UK are considering banning customers from wearing Meta’s smart glasses amid fears they could be used to pirate films.The UK Cinema Association (UKCA) trade body said that a number of local chains could end up introducing policies that restrict camera-enabled smart glasses at",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/aug/20/piracy-fears-prompt-calls-for-ban-on-meta-smart-glasses-in-uk-cinemas",
-        "seendate": "2026-08-20T14:57:25.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Roblox commits to privacy overhaul after eSafety discovers adults can contact children via gaming platform",
-        "summary": "Regulator says verifiable safety measures are ‘critical’ to the online service’s viabilityFollow our Australia news live blog for latest updatesGet our <a href=\"https://www.thegua",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/australia-news/2026/aug/20/roblox-esafety-commissioner-children-adults-ntwnfb",
-        "seendate": "2026-08-19T15:00:17.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "climate": [
+      {
+        "title": "‘It’s pretty much a guarantee you’ll get stung’: jellyfish keep swimmers off Delaware beaches",
+        "summary": "Beach patrols report hundreds of stings a day as warmer waters and drought create favorable conditions for jellyfishAn unusually high number of jellyfish are crowding Delaware’s beaches this summer amid climate change and other environmental factors – keeping some beachgoers out of the ocean and stinging lifeguards as well as bathers.Beach safety patrols in the state have <a href=\"https://www.faceboo",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/aug/22/jellyfish-sting-delaware-beaches",
+        "seendate": "2026-08-22T10:00:00.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "The US has a plan to save the Colorado River. Experts say it won’t be enough to stop the crisis",
         "summary": "The 10-year blueprint mandates water cuts of up to 40% for California, Arizona and NevadaIt’s official: after years of tense negotiations and missed deadlines, there is finally a plan to govern the future of the imperiled Colorado River - or at least the makings of one.With the previous framework set to expire in October, the US Bureau of Reclamation publicly released its proposal for a new plan on F",
@@ -371,14 +379,6 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/us-news/2026/aug/20/trump-oil-drilling-world-heritage-site-new-mexico",
         "seendate": "2026-08-20T14:00:57.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Destructive and delicious: how an invasive deer in Hawaii is being turned into dinner",
-        "summary": "The overpopulation of axis deer has taken an environmental toll, but Maui Nui Venison sees it as a resource instead of a pestIn 1868, the government of Hong Kong gave eight axis deer to Hawaii’s King Kamehameha V. They were a beautiful gift, these creatures that hail from south Asia, with their honey-colored pelts marked by a smattering of white spots. But their incursion into Maui started much later, in th",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/2026/aug/20/axis-deer-hawaii",
-        "seendate": "2026-08-20T10:00:48.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "science": [
@@ -399,14 +399,6 @@ window.NEWS_CACHE = {
         "domain": "theguardian.com"
       },
       {
-        "title": "It's finally raining, but the drought's not over",
-        "summary": "After a summer that has seen England and Wales experience the driest July since records began, rain is finally on the horizon. But with reservoirs at ‘exceptionally low’ levels, will there be enough rain to replenish stocks? Madeleine Finlay hears from Dr Anna Murgatroyd, a lecturer in hydrology at Newcastle University, about how much rain we need to see us through next summer, why we’re now at increased r",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/video/2026/aug/20/its-finally-raining-but-the-droughts-not-over",
-        "seendate": "2026-08-20T12:27:48.000Z",
-        "domain": "theguardian.com"
-      },
-      {
         "title": "The threatening thaw: climate professor on heatwave risks to tipping point of permafrost",
         "summary": "Prof Gustaf Hugelius warns wildfires could accelerate release of methane and carbon as vast regions approach irreversible thresholdsHeatwaves and wildfires are not just scorching forests, they are adding to the tipping point risks in the world’s vast permafrost regions, which contain three times more carbon than all the living vegetation on Earth.This is a major concern for Gustaf Hugelius, a profess",
         "source": "theguardian.com",
@@ -420,6 +412,14 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/science/2026/aug/19/astronomers-detect-fastest-known-star-in-milky-way-s301",
         "seendate": "2026-08-19T16:00:25.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Capture the Dark 2026: Winning photographs",
+        "summary": "A selection of winning images from DarkSky International’s 2026 Capture the Dark photography contest. It is the sixth edition of the annual night-time photography competition, which drew 2,288 submissions from 30 countries Continue reading...",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/artanddesign/gallery/2026/aug/20/capture-the-dark-2026-winning-photographs",
+        "seendate": "2026-08-20T06:00:44.000Z",
         "domain": "theguardian.com"
       }
     ]
