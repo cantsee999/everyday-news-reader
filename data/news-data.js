@@ -1,8 +1,16 @@
 window.NEWS_CACHE = {
-  "generatedAt": "2026-08-22T23:09:48.026Z",
+  "generatedAt": "2026-08-23T23:09:48.021Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
+      {
+        "title": "Landslide at waste mound in Guinea capital kills 30, government says",
+        "summary": "Dump site in Conakry, which minister had just promised to move, collapsed after heavy rain in west African stateA ⁠landslide at a huge waste dump in Guinea’s capital has killed 30 people, the government said on Sunday, after heavy rains overnight prompted it to ⁠collapse, engulfing nearby tents and shacks.The incident occurred less than a week after the government announced plans to close the ⁠site a",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/aug/23/landslide-waste-mound-conakry-guinea-kills-dozens",
+        "seendate": "2026-08-23T22:16:53.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
         "summary": "Agreement is among largest third-country deportations driven by Trump administration’s immigration crackdown Twenty deportees from the United States arrived in Liberia on Thursday, as part of a new agreement that will see the west African country receive as many as 1,200 people under the Trump administration’s immigration crackdown.<",
@@ -33,19 +41,19 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/world/2026/aug/19/spain-allows-500-migrant-minors-in-ceuta-to-relocate-to-the-mainland-in-u-turn",
         "seendate": "2026-08-19T14:33:24.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history",
-        "summary": "At least 2,325 people have died from the virus, according to official data, with outbreak on track to be biggest in historyThe Ebola outbreak in the Democratic Republic of the Congo is now the deadliest in the country’s history, with at least 2,325 people dead, according to government data, surpassing the toll from the 2018-20 outbreak.The DRC’s public health institute said confirmed cases had risen",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history",
-        "seendate": "2026-08-17T14:07:31.000Z",
         "domain": "theguardian.com"
       }
     ],
     "conflict": [
       {
+        "title": "Landslide at waste mound in Guinea capital kills 30, government says",
+        "summary": "Dump site in Conakry, which minister had just promised to move, collapsed after heavy rain in west African stateA ⁠landslide at a huge waste dump in Guinea’s capital has killed 30 people, the government said on Sunday, after heavy rains overnight prompted it to ⁠collapse, engulfing nearby tents and shacks.The incident occurred less than a week after the government announced plans to close the ⁠site a",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/aug/23/landslide-waste-mound-conakry-guinea-kills-dozens",
+        "seendate": "2026-08-23T22:16:53.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
         "summary": "Agreement is among largest third-country deportations driven by Trump administration’s immigration crackdown Twenty deportees from the United States arrived in Liberia on Thursday, as part of a new agreement that will see the west African country receive as many as 1,200 people under the Trump administration’s immigration crackdown.<",
         "source": "theguardian.com",
@@ -76,23 +84,15 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/world/2026/aug/19/spain-allows-500-migrant-minors-in-ceuta-to-relocate-to-the-mainland-in-u-turn",
         "seendate": "2026-08-19T14:33:24.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history",
-        "summary": "At least 2,325 people have died from the virus, according to official data, with outbreak on track to be biggest in historyThe Ebola outbreak in the Democratic Republic of the Congo is now the deadliest in the country’s history, with at least 2,325 people dead, according to government data, surpassing the toll from the 2018-20 outbreak.The DRC’s public health institute said confirmed cases had risen",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history",
-        "seendate": "2026-08-17T14:07:31.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "economy": [
       {
-        "title": "Canada vows ‘dollar for dollar’ response as US puts 50% tariffs on some goods",
-        "summary": "Collapse of trade talks could lead to job losses, but biggest impact on traditional allies is expected to be political The trade row is the biggest rupture in recent relations between Washington and one of its closest allies and trading partners as Donald Trump’s bellicose foreign policy angered officials in Ottawa.The two sides appeared close to a deal on Friday to lower tariffs on steel, aluminium",
+        "title": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war",
+        "summary": "PM Mark Carney says ‘we got attacked’ as tariffs come into force on items from hockey sticks to tongue depressorsThe lesson from Canada’s collapsed trade talks with the US: negotiation may be futileDonald Trump has hit back at Canada after a breakdown in negot",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
-        "seendate": "2026-08-22T14:04:57.000Z",
+        "url": "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war",
+        "seendate": "2026-08-23T19:32:59.000Z",
         "domain": "theguardian.com"
       },
       {
@@ -101,14 +101,6 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/business/2026/aug/21/tyson-foods-close-facilities-beef-prices-cattle-shortage",
         "seendate": "2026-08-21T16:01:43.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "‘Starve the beast’? The $40tn cost of Republicans’ false promises to cut spending",
-        "summary": "The enormous US debt under Trump will hobble the next Democratic administration – just as the GOP plannedWhy is the Trump administration causing turmoil in the bond markets?You could pin the US’s staggering <a href=\"https://www.theguardian.com/us-news/2026/a",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/aug/20/us-national-debt-republicans",
-        "seendate": "2026-08-20T15:21:38.000Z",
         "domain": "theguardian.com"
       },
       {
@@ -126,9 +118,25 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/business/2026/aug/20/christine-hunsicker-caastle-sentenced-prison",
         "seendate": "2026-08-20T22:27:41.000Z",
         "domain": "theguardian.com"
+      },
+      {
+        "title": "From McDonald’s to Congress: can a former fry cook flip a key district for Democrats?",
+        "summary": "Manny Rutinel hopes price-tag politics can win key voters in Colorado House raceDuring his presidential campaign in October 2024, Donald Trump staged a photo op at a McDonald’s franchise in Pennsylvania, where he was briefly taught how to work the fryer and drive-thru window at the closed",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/aug/20/mcdonalds-congress-affordability-democrats",
+        "seendate": "2026-08-20T11:00:50.000Z",
+        "domain": "theguardian.com"
       }
     ],
     "literature": [
+      {
+        "title": "‘I was scared I was going mad’: Meg Mason speaks to fellow authors about the parasocial relationships that begin on the page",
+        "summary": "As a lonely teenager, the novels of Nancy Mitford offered the Sorrow and Bliss author a lifeline - and an imaginary friend. She explores why reading can create a particularly intense bond with a favourite writerIn the summer before university, my mother gave me a copy of The Pursuit of Love. We’d moved countries at the beginning o",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/aug/23/meg-mason-author-literary-parasocial-relationships-sorrow-bliss-books-nancy-mitford",
+        "seendate": "2026-08-23T11:00:31.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "From Booker-listed Marlon James to a memoir by Michael Douglas – the biggest books this autumn",
         "summary": "Midlife meditations from Barbara Kingsolver; musical portraits by Jonathan Coe and Yiyun Li; plus memoirs from Dustin Hoffman and Judi Dench – all among the coming season’s highlightsThe Disappearers by Marlon Jame",
@@ -159,14 +167,6 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/books/2026/aug/21/the-best-recent-translated-fiction-review-roundup",
         "seendate": "2026-08-21T11:00:33.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Ukrainian publishers call for support after Russian attacks destroy 10m books",
-        "summary": "The country risks ‘the collapse of the entire book ecosystem’ following destruction of warehouses in July and August, say Ukrainian publishersThe Ukrainian Book Institute has called on the international publishing community to support Ukrainian publishers after Russian attacks",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/aug/20/help-ukrainian-publishers-russia-attacks-books",
-        "seendate": "2026-08-20T15:37:57.000Z",
         "domain": "theguardian.com"
       }
     ],
@@ -214,96 +214,112 @@ window.NEWS_CACHE = {
     ],
     "f1": [
       {
-        "title": "Alex Albon details hilarious Sardinia run-in with Max Verstappen",
-        "summary": "Williams Formula 1 driver Alex Albon has revealed a surprise encounter with Max Verstappen while attempting to learn how to e-foil during the summer break in Sardinia.Speaking on the squad's official Team Torque podcast alongside team-mate Carlos Sainz and team principal James Vowles, Albon detailed his packed summer itinerary before recounting the run-in with the four-time champion.While ...<a class",
+        "title": "George Russell \"still not there\" as Mercedes pressure builds after Dutch GP, says former F1 driver",
+        "summary": "Former Formula 1 driver and F1 TV analyst Jolyon Palmer believes George Russell is feeling the heat within Mercedes, claiming that the Briton is \"still not there\" compared to team-mate Kimi Antonelli following the Dutch Grand Prix.Mercedes secured a double podium at Zandvoort, finishing second and third behind McLaren's Lando Norris. But the late team order instructing Russell to yield track ...<a class=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/alex-albon-details-hilarious-sardinia-run-in-with-max-verstappen/10848405/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-22T21:00:04.000Z",
+        "url": "https://www.motorsport.com/f1/news/george-russell-still-not-there-as-mercedes-pressure-builds-after-dutch-gp-says-former-f1-driver/10848816/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-23T22:59:33.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Carlos Sainz reveals message to Williams factory after tough 2026 F1 start: \"Take it personal\"",
-        "summary": "Carlos Sainz has revealed the message he gave to staff at the Williams Formula 1 team factory following a tough start to the 2026 season.After securing two podiums with the Grove outfit in his first year with the team in 2025, there were high hopes for 2026. But the team arrived at pre-season testing in Bahrain on the back foot, having missed private testing in Barcelona, and was faced with ...<a class='",
+        "title": "Winners and losers from F1's chaotic Dutch Grand Prix",
+        "summary": "If there were any fears after Saturday's mind-numbing sprint display that the Netherlands would send off its Formula 1 revival with a dud, then those fears were washed away in a sudden shower one hour before Sunday's race, around the time the starting grid started opening for business.The rain didn't persist into the race itself, but caused just enough havoc to make Zandvoort's dune loop ...<a class='mor",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/carlos-sainz-reveals-message-to-williams-factory-after-tough-2026-f1-start-take-it-personal/10848380/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-22T20:00:04.000Z",
+        "url": "https://www.motorsport.com/f1/news/winners-and-losers-f1-chaotic-dutch-grand-prix/10848769/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-23T19:15:32.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Lewis Hamilton rebounds to fifth after Ferrari fixes Friday struggles",
-        "summary": "Lewis Hamilton says he is \"much happier\" with his Ferrari after qualifying fifth for the Dutch Grand Prix compared to Friday's sprint shootout, and is \"excited\" for the race.“I was much, much happier with the car,” he told the media on Saturday evening, having endured a difficult Friday, when he qualified seventh, 0.624s off sprint pole.Right after the sprint, which he also finished ...<a class='more",
+        "title": "Lando Norris: I don't have a car to fight for the F1 title",
+        "summary": "The 2026 Formula 1 championship finds itself at a curious intersection where nobody is willing to entertain the idea that they have the best car.Championship leader Kimi Antonelli said after finishing second to Lando Norris in the Dutch Grand Prix that Mercedes no longer has the best car – indeed, that it may only be the third best.But Norris, now fourth in the standings with 159 points ...<a class='",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/lewis-hamilton-much-happier-with-ferrari-after-difficult-friday/10848433/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-22T19:06:10.000Z",
+        "url": "https://www.motorsport.com/f1/news/lando-norris-i-dont-have-a-car-to-fight-for-the-f1-title/10848753/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-23T18:52:04.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Max Verstappen: Smaller team-mate gaps are down to \"easier\" cars as Andrea Stella disagrees",
-        "summary": "Red Bull's Max Verstappen thinks the narrow gaps between team-mates in 2026 are being helped by this generation of cars being easier to drive on the limit, with McLaren team boss Andrea Stella offering a different view.At Zandvoort Liam Lawson qualified eighth, one tenth behind Verstappen, on a one-off outing for Red Bull to deputise for the injured Isack Hadjar. Meanwhile, reserve driver Yuki ...<a clas",
+        "title": "\"It made no sense\" – F1 drivers question safety car formation lap after early Dutch GP chaos",
+        "summary": "The opening stages of the Formula 1 Dutch Grand Prix at Zandvoort descended into chaos after rain had started to fall during the grid procedure.Max Verstappen crashed heavily on the exit of the final corner on the opening lap of the race. The Red Bull driver admitted that it was entirely his own mistake. The Dutchman thought he could get back on the throttle, but that part of the track was ...<a class='m",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/max-verstappen-smaller-team-mate-gaps-are-down-to-easier-cars-as-andrea-stella-disagrees/10848431/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-22T18:56:40.000Z",
+        "url": "https://www.motorsport.com/f1/news/it-made-no-sense-f1-drivers-question-safety-car-formation-lap-after-early-dutch-gp-chaos/10848751/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-23T18:37:29.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "George Russell \"more relaxed\" as F1 2026 title is Kimi Antonelli's to lose",
-        "summary": "George Russell has returned from the 2026 Formula 1 summer break feeling “more relaxed” as he attempts to claw back into the title fight against Mercedes team-mate Kimi Antonelli.The championship leader holds a 56-point advantage over third-placed Russell, with Ferrari’s Lewis Hamilton sitting second and 53 behind Antonelli after 11 rounds with 12 remaining.This weekend’s Dutch ...<a class='more' hre",
+        "title": "Mercedes \"clearly\" not F1's best team anymore - Kimi Antonelli",
+        "summary": "Formula 1 championship leader Kimi Antonelli reckons Mercedes “clearly” no longer boasts the fastest car after finishing runner-up to Lando Norris at the Dutch Grand Prix.The McLaren driver made it consecutive wins from pole at Zandvoort aboard a heavily upgraded MCL40, making it just two victories in six for Mercedes due to Ferrari also claiming a couple.It marks a far cry from the ...<a class='more",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/george-russell-more-relaxed-as-f1-2026-title-is-kimi-antonellis-to-lose/10848389/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-22T17:57:42.000Z",
+        "url": "https://www.motorsport.com/f1/news/mercedes-clearly-not-f1s-best-team-anymore-kimi-antonelli/10848738/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-23T18:21:26.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "SWG lead's new MMO, Stars Reach, almost lost me—until I met an animal conservationist mayor",
-        "summary": "Too much space to grow.",
+        "title": "'We didn't have layoffs before, and now all of a sudden we have yearly layoffs': Bethesda artist says 'something has changed' under Microsoft",
+        "summary": "The Bethesda Game Studios union continues to advocate for labor rights in the games industry.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/mmo/swg-leads-new-mmo-stars-reach-almost-lost-me-until-i-met-an-animal-conservationist-mayor/",
-        "seendate": "2026-08-22T23:05:51.000Z",
+        "url": "https://www.pcgamer.com/gaming-industry/we-didnt-have-layoffs-before-and-now-all-of-a-sudden-we-have-yearly-layoffs-bethesda-artist-says-something-has-changed-under-microsoft/",
+        "seendate": "2026-08-23T16:43:13.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "GTA6 leaker Cyberleek shows off gas station rampage, refueling, promises strip club gameplay if people juice his cryptocurrency enough",
-        "summary": "Ok.",
+        "title": "It's been 25 years and I'm still not over one of the greatest songs to grace JRPGs",
+        "summary": "Suteki Da Ne hasn't lost any emotional weight since 2001.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta6-leaker-cyberleek-shows-off-gas-station-rampage-refueling-promises-strip-club-gameplay-if-people-juice-his-cryptocurrency-enough/",
-        "seendate": "2026-08-22T16:03:22.000Z",
+        "url": "https://www.pcgamer.com/games/final-fantasy/its-been-25-years-and-im-still-not-over-one-of-the-greatest-songs-to-grace-jrpgs/",
+        "seendate": "2026-08-23T16:26:57.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Fallout dev Tim Cain says we should pay more attention to bad games: '[Publishers] often don't learn from failure because they only look at the games that sold well'",
-        "summary": "\"Gamers will frequently point to popular games and say, 'we want more of that,' without necessarily knowing exactly what part of those games made them so good.\"",
+        "title": "Ray Chase, the voice of Cyclops in X-Men '97, has '1,000 freaking hours' in Slay the Spire and is running a 'smell build' in Kingdom Come: Deliverance 2: ' I wear perfumes and walk into battle with my fancy boy outfit'",
+        "summary": "The voice of Noctis in Final Fantasy 15 takes us on a road-trip through his Steam library.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/fallout-dev-tim-cain-says-we-should-pay-more-attention-to-bad-games-publishers-often-dont-learn-from-failure-because-they-only-look-at-the-games-that-sold-well/",
-        "seendate": "2026-08-22T16:00:36.000Z",
+        "url": "https://www.pcgamer.com/gaming-industry/ray-chase-the-voice-of-cyclops-in-x-men-97-has-1-000-freaking-hours-in-slay-the-spire-and-is-running-a-smell-build-in-kingdom-come-deliverance-2-i-wear-perfumes-and-walk-into-battle-with-my-fancy-boy-outfit/",
+        "seendate": "2026-08-23T16:00:00.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "2XKO's shutdown has me feeling glum about Riot's future MMO—because I don't think the genre can survive corporate cut-and-run tactics",
-        "summary": "2XKO was losing money, but that doesn't mean it wasn't worth it.",
+        "title": "If you're desperate for more Baldur's Gate 3, here's a 6-hour mini-campaign all about Astarion with 4 different endings and 6 new companions",
+        "summary": "Help or hinder BG3's vampire elf as he tangles with a Bastellus in A Dream of Silence.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/mmo/2xkos-shutdown-has-me-feeling-glum-about-riots-future-mmo-because-i-dont-think-the-genre-can-survive-corporate-cut-and-run-tactics/",
-        "seendate": "2026-08-22T15:00:00.000Z",
+        "url": "https://www.pcgamer.com/games/baldurs-gate/if-youre-desperate-for-more-baldurs-gate-3-heres-a-6-hour-mini-campaign-all-about-astarion-with-4-different-endings-and-6-new-companions/",
+        "seendate": "2026-08-23T14:24:02.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "This mod transforms Doom into a terrifying tactical shooter, and it's partly inspired by another PC gaming classic",
-        "summary": "Blackout makes Doom slower, deadlier, and throws in a Crysis-style energy suit for good measure.",
+        "title": "Gunstoppable gives me the same head-empty unbridled joy as Ultrakill—it doesn't hurt that Gabriel's voice actor is in it too",
+        "summary": "Nothing but scrap.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/fps/this-mod-transforms-doom-into-a-terrifying-tactical-shooter-and-its-partly-inspired-by-another-pc-gaming-classic/",
-        "seendate": "2026-08-22T13:00:00.000Z",
+        "url": "https://www.pcgamer.com/games/fps/gunstoppable-gives-me-the-same-head-empty-unbridled-joy-as-ultrakill-it-doesnt-hurt-that-gabriels-voice-actor-is-in-it-too/",
+        "seendate": "2026-08-23T14:00:00.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
       {
+        "title": "‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks",
+        "summary": "Chris Lehane tells Guardian of need to implement new safety standards as critics say AI firms acting ‘recklessly’A senior leader at OpenAI has said people should prepare to defend against “ongoing, persistent” cyber-attacks from AIs, as cutting-edge artificial intelligence models gain advanced capabilities to plan and launch offensives.The leading AI company this week announced a pause in development",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/aug/23/openai-cyber-attacks-threat-chris-lehane",
+        "seendate": "2026-08-23T08:00:27.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Hook, hold, harvest and hide: Meta’s alleged strategy laid out in first week of landmark trial",
         "summary": "In trial that opened on Tuesday, California and 28 other states accused the company of designing addictive sites and violating laws protecting children’s privacyMeta’s business can be boiled down to four words that begin with the letter H: hook, hold, harvest, hide, according to a lawyer who is prosecuting the world’s largest social media company.The owner of Facebook and Instagram “hooks” in users,",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
         "seendate": "2026-08-22T08:00:58.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "An AI ‘debt bomb’ crisis? No. This isn’t Enron 2.0 | Gene Marks",
+        "summary": "Fears of a datacenter buildout debt crisis are exaggerated. The risks are different than in the past and they are recoverableSome experts are warning of a looming “debt bomb” crisis because big datacenter builders such as <a href=\"https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-Announces-Joint-Venture-with-Funds-Man",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/aug/23/ai-debt-bomb-crisis",
+        "seendate": "2026-08-23T14:00:34.000Z",
         "domain": "theguardian.com"
       },
       {
@@ -321,25 +337,33 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/technology/2026/aug/22/tiktok-auctions-lab-grown-diamonds",
         "seendate": "2026-08-22T12:00:02.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Would even an AI disaster on the scale of Hiroshima be enough to make humankind protect itself? I fear not | Timothy Garton Ash",
-        "summary": "It’s clear here in Silicon Valley that AI is advancing faster than humans’ ability to control it. That means even sober prophecies seem optimisticHere in Silicon Valley, the experts think that within the next couple of years we’ll see an extraordinary takeoff for artificial intelligence. “Welcome to the foothills of the singularity,” as a Stanford University friend greeted me. More prosaically, the imminent",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/commentisfree/2026/aug/22/ai-disaster-hiroshima-humankind-silicon-valley-technology",
-        "seendate": "2026-08-22T05:00:54.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Proposed London datacentre ‘incompatible’ with net zero with 1m-tonne carbon footprint",
-        "summary": "Exclusive: Planning documents show annual emissions from North Ockendon project would be equivalent to 8,480 flights to New YorkA “hyperscale” datacentre in outer London would generate more than 1m tonnes of carbon dioxide a year, equivalent to the carbon footprint of 8,480 flights from London to New York, planning documents show.The East Havering Data Centre Campus (EHDCC) in North Ockendon would be",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/uk-news/2026/aug/21/proposed-london-datacentre-will-have-annual-carbon-footprint-of-27000-flights-to-new-york",
-        "seendate": "2026-08-21T10:00:31.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "climate": [
+      {
+        "title": "Fast-moving wildfire in Reno, Nevada, forces thousands to evacuate homes",
+        "summary": "Human-caused Hawk fire covers more than 13,000 acres as blaze approaches University of Nevada campus in RenoA fast-moving Nevada wildfire exploded to more than 13,000 acres (5,200 hectares) on Sunday, pushing from the Sierra foothills toward the center of Reno and urging nearly 90,000 resi",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/aug/23/wildfire-reno-nevada-hawk-fire",
+        "seendate": "2026-08-23T18:22:15.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Stores are selling Halloween stuff in August. Time has lost all meaning | Dave Schilling",
+        "summary": "Capitalism and the climate crisis are conspiring to destroy the concept of seasons. I’ll take solace in my pumpkin spiceHappy spooky season, everyone! Get those jack-o’-lanterns out, because Halloween is just around the corner!Just kidding, no, it’s not. Continue reading...",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/commentisfree/2026/aug/23/halloween-capitalism-climate-change",
+        "seendate": "2026-08-23T11:00:33.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Against the wind: despite Trump’s attacks, unions are fighting for good US clean energy jobs",
+        "summary": "Since Hurricane Sandy in 2012, a growing labor movement has addressed the climate crisis and economic inequalityRyan McElroen had spent years repairing the New York City subway underground when he got the opportunity to work in the middle of the ocean.“I had no views other than the darkness at work,” he said. “Then I went polar opposite.” <a href=\"https://www.theguardian.com/us-news/2026/aug/23/w",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/aug/23/wind-energy-unions-trump",
+        "seendate": "2026-08-23T10:00:30.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "‘It’s pretty much a guarantee you’ll get stung’: jellyfish keep swimmers off Delaware beaches",
         "summary": "Beach patrols report hundreds of stings a day as warmer waters and drought create favorable conditions for jellyfishAn unusually high number of jellyfish are crowding Delaware’s beaches this summer amid climate change and other environmental factors – keeping some beachgoers out of the ocean and stinging lifeguards as well as bathers.Beach safety patrols in the state have <a href=\"https://www.faceboo",
@@ -355,39 +379,23 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/us-news/2026/aug/21/colorado-river-water-crisis-plan",
         "seendate": "2026-08-21T19:41:48.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "First ever Fat Marmot Week to kick off in effort to raise money for research",
-        "summary": "Researchers hope contest – similar to Fat Bear Week – starting Monday will be latest wildlife watching crazeMonday sees the start of what researchers hope will be the latest wildlife watching craze – Fat Marmot Week.Last winter was tough for marmots living high in the Colorado mountains, where researchers say two-thirds of one population died while hibernating because of insufficient snow cover.",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/2026/aug/21/fat-marmot-week-research-funding",
-        "seendate": "2026-08-21T14:17:55.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Controversial California oil pipeline can continue to operate, judge rules",
-        "summary": "State sought to stop system off coast of Santa Barbara from resuming operations after Trump ordered its reopening An oil pipeline can continue to operate off the California coast after a judge gave it the green light this week, despite the opposition of state regulators and environmental groups.The system off the coast of Santa Barbara <a href=\"https://www.theguardian.com/us-news/2026/mar/17/oil-cali",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/aug/20/california-oil-pipeline-trump-judge-ruling",
-        "seendate": "2026-08-21T00:13:47.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Trump plan to allow drilling near US world heritage site sparks alarm",
-        "summary": "Administration’s plan to scrap drilling-free buffer zone around New Mexico site prompts scrutiny from UnescoThe Trump administration’s push to expand oil and gas extraction across the US is set to bring drilling near cherished natural and cultural sites, raising alarm among conservationists and prompting questions from the UN’s heritage body.Unesco said it had received information on the administrati",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/aug/20/trump-oil-drilling-world-heritage-site-new-mexico",
-        "seendate": "2026-08-20T14:00:57.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "science": [
       {
-        "title": "Ebola outbreak: five big questions",
-        "summary": "On 23 August, it will be 100 days since the Bundibugyo strain was first reported. How did it became the DRC’s most deadly outbreak and what must be done to stop it becoming the world’s largest?Almost 100 days ago, Africa’s public health watchdog reported an outbreak of Ebola in the Democratic Republic of the Congo.There have now been almost 5,000 cases and more than 2,000 deaths since 15 May, making",
+        "title": "Ebola day 100: why this outbreak could become the deadliest in history – video explainer",
+        "summary": "More than 2,000 people have died from Ebola in the Democratic Republic of the Congo since the first case of this epidemic was recorded in May. The Guardian's global health correspondent, Kat Lay, spoke to CDC Africa's Yap Boum II to understand why health teams on the ground are struggling and what is being put in place to try to contain the spread<a href=\"https://www.theguardian.com/world/2026/aug/1",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/global-development/2026/aug/21/ebola-outbreak-five-big-questions",
-        "seendate": "2026-08-21T09:02:22.000Z",
+        "url": "https://www.theguardian.com/world/video/2026/aug/23/ebola-day-100-why-this-outbreak-could-become-deadliest-in-history-explainer",
+        "seendate": "2026-08-23T10:50:36.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Artemis II crew to receive top US space medal for historic lunar journey",
+        "summary": "Reid Wiseman, Victor Glover, Christina Koch and Jeremy Hansen broke record for farthest distance traveled from EarthThe crew of the historic Artemis II lunar flyby mission have earned the US’s top space medal, officials have announced.Cmdr Reid Wiseman, pilot Victor Glover, and mission specialists Christina Koch and Jeremy Hansen are set to",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/aug/23/artemis-ii-crew-top-us-space-medal",
+        "seendate": "2026-08-23T10:00:30.000Z",
         "domain": "theguardian.com"
       },
       {
@@ -412,14 +420,6 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/science/2026/aug/19/astronomers-detect-fastest-known-star-in-milky-way-s301",
         "seendate": "2026-08-19T16:00:25.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Capture the Dark 2026: Winning photographs",
-        "summary": "A selection of winning images from DarkSky International’s 2026 Capture the Dark photography contest. It is the sixth edition of the annual night-time photography competition, which drew 2,288 submissions from 30 countries Continue reading...",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/artanddesign/gallery/2026/aug/20/capture-the-dark-2026-winning-photographs",
-        "seendate": "2026-08-20T06:00:44.000Z",
         "domain": "theguardian.com"
       }
     ]
