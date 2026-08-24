@@ -1,8 +1,32 @@
 {
-  "generatedAt": "2026-08-23T23:09:48.021Z",
+  "generatedAt": "2026-08-24T23:12:46.352Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
+      {
+        "title": "Prince Harry quits board of wildlife charity after rangers’ human rights abuses",
+        "summary": "Spokesperson for Duke of Sussex says he remains an ‘active and avid supporter’ of African Parks’ missionThe Duke of Sussex has stepped down from the board of a major African wildlife charity that had been at the centre of a human rights controversy.Prince Harry’s spokesperson confirmed he was no longer a trustee of African Parks, which <a href=\"https://www.",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/uk-news/2026/aug/24/prince-harry-quits-board-wildlife-charity-african-parks-human-rights-abuses",
+        "seendate": "2026-08-24T17:34:50.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Video shows hundreds held captive after Nigeria mosque kidnapping",
+        "summary": "Gunmen ‌attacked worshippers in Dekara village on Friday taking women, children and older peopleAn armed group has posted a video showing what ⁠residents said were about ⁠600 women, children and ​older people abducted in an attack on a mosque in Nigeria’s north-central Niger State last week.The video, posted on Facebook and WhatsApp, ⁠showed large groups of people seated in a forested area surrounded",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/aug/24/video-shows-hundreds-held-captive-after-nigeria-mosque-kidnapping",
+        "seendate": "2026-08-24T14:19:14.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Children make up half of mpox cases in Guinea-Bissau as epidemic spreads",
+        "summary": "West African country reports 46 suspected cases in outbreak declared in July, amid fears virus may be spreading undetectedMore than half of the mpox cases reported in Guinea-Bissau have been among children, local authorities have said, almost two months since the country announced an epidemic.A national outbreak was declared on 4 July, just over a week after a 27-year-old woman became the first confi",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/global-development/2026/aug/24/children-half-mpox-disease-cases-guinea-bissau-epidemic-spreads-west-africa",
+        "seendate": "2026-08-24T10:11:34.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Landslide at waste mound in Guinea capital kills 30, government says",
         "summary": "Dump site in Conakry, which minister had just promised to move, collapsed after heavy rain in west African stateA ⁠landslide at a huge waste dump in Guinea’s capital has killed 30 people, the government said on Sunday, after heavy rains overnight prompted it to ⁠collapse, engulfing nearby tents and shacks.The incident occurred less than a week after the government announced plans to close the ⁠site a",
@@ -17,35 +41,35 @@
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement",
         "seendate": "2026-08-20T19:57:59.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "More than 100 dead after goldmine collapses in Central African Republic",
-        "summary": "The collapse was caused by a landslide, while local officials say the death toll is likely to rise as recovery efforts continueMore than 100 people have died after an artisanal goldmine at a small village in western Central African Republic (CAR) caved in due to a landslide, local officials and aid workers said on Wednesday.The landslide happened on Tuesday afternoon in the village of Zamboye, about",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/aug/20/gold-mine-collapse-deadly-landslide-central-african-republic",
-        "seendate": "2026-08-20T00:14:17.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Five Americans among seven killed in safari helicopter crash in Kenya",
-        "summary": "Officials say all seven people onboard killed, including Telemundo executive and Ecuador intelligence chiefSeven people, including five Americans, were killed when a safari helicopter crashed on Wednesday morning in a remote part of northern Kenya, according to local police and the state department.Among the dead were an executive with Telemundo, the US-based Spanish-language network owned by NBC Uni",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/aug/19/kenya-helicopter-safari-crash",
-        "seendate": "2026-08-19T20:17:39.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Spain to allow 500 children in Ceuta to go to mainland in immigration U-turn",
-        "summary": "Madrid government changes stance after previously saying anyone who entered territory illegally would be sent backEurope live – latest updatesThe Spanish government has U-turned and said it will allow",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/aug/19/spain-allows-500-migrant-minors-in-ceuta-to-relocate-to-the-mainland-in-u-turn",
-        "seendate": "2026-08-19T14:33:24.000Z",
         "domain": "theguardian.com"
       }
     ],
     "conflict": [
       {
+        "title": "Prince Harry quits board of wildlife charity after rangers’ human rights abuses",
+        "summary": "Spokesperson for Duke of Sussex says he remains an ‘active and avid supporter’ of African Parks’ missionThe Duke of Sussex has stepped down from the board of a major African wildlife charity that had been at the centre of a human rights controversy.Prince Harry’s spokesperson confirmed he was no longer a trustee of African Parks, which <a href=\"https://www.",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/uk-news/2026/aug/24/prince-harry-quits-board-wildlife-charity-african-parks-human-rights-abuses",
+        "seendate": "2026-08-24T17:34:50.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Video shows hundreds held captive after Nigeria mosque kidnapping",
+        "summary": "Gunmen ‌attacked worshippers in Dekara village on Friday taking women, children and older peopleAn armed group has posted a video showing what ⁠residents said were about ⁠600 women, children and ​older people abducted in an attack on a mosque in Nigeria’s north-central Niger State last week.The video, posted on Facebook and WhatsApp, ⁠showed large groups of people seated in a forested area surrounded",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/aug/24/video-shows-hundreds-held-captive-after-nigeria-mosque-kidnapping",
+        "seendate": "2026-08-24T14:19:14.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Children make up half of mpox cases in Guinea-Bissau as epidemic spreads",
+        "summary": "West African country reports 46 suspected cases in outbreak declared in July, amid fears virus may be spreading undetectedMore than half of the mpox cases reported in Guinea-Bissau have been among children, local authorities have said, almost two months since the country announced an epidemic.A national outbreak was declared on 4 July, just over a week after a 27-year-old woman became the first confi",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/global-development/2026/aug/24/children-half-mpox-disease-cases-guinea-bissau-epidemic-spreads-west-africa",
+        "seendate": "2026-08-24T10:11:34.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Landslide at waste mound in Guinea capital kills 30, government says",
         "summary": "Dump site in Conakry, which minister had just promised to move, collapsed after heavy rain in west African stateA ⁠landslide at a huge waste dump in Guinea’s capital has killed 30 people, the government said on Sunday, after heavy rains overnight prompted it to ⁠collapse, engulfing nearby tents and shacks.The incident occurred less than a week after the government announced plans to close the ⁠site a",
         "source": "theguardian.com",
@@ -60,33 +84,33 @@
         "url": "https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement",
         "seendate": "2026-08-20T19:57:59.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "More than 100 dead after goldmine collapses in Central African Republic",
-        "summary": "The collapse was caused by a landslide, while local officials say the death toll is likely to rise as recovery efforts continueMore than 100 people have died after an artisanal goldmine at a small village in western Central African Republic (CAR) caved in due to a landslide, local officials and aid workers said on Wednesday.The landslide happened on Tuesday afternoon in the village of Zamboye, about",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/aug/20/gold-mine-collapse-deadly-landslide-central-african-republic",
-        "seendate": "2026-08-20T00:14:17.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Five Americans among seven killed in safari helicopter crash in Kenya",
-        "summary": "Officials say all seven people onboard killed, including Telemundo executive and Ecuador intelligence chiefSeven people, including five Americans, were killed when a safari helicopter crashed on Wednesday morning in a remote part of northern Kenya, according to local police and the state department.Among the dead were an executive with Telemundo, the US-based Spanish-language network owned by NBC Uni",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/aug/19/kenya-helicopter-safari-crash",
-        "seendate": "2026-08-19T20:17:39.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Spain to allow 500 children in Ceuta to go to mainland in immigration U-turn",
-        "summary": "Madrid government changes stance after previously saying anyone who entered territory illegally would be sent backEurope live – latest updatesThe Spanish government has U-turned and said it will allow",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/aug/19/spain-allows-500-migrant-minors-in-ceuta-to-relocate-to-the-mainland-in-u-turn",
-        "seendate": "2026-08-19T14:33:24.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "economy": [
+      {
+        "title": "Trump announces new 50% tariff on Canadian cars, trucks and steel",
+        "summary": "Move is latest deterioration in trade relations between neighbors with historically strong economic tiesDonald Trump announced a new 50% tariff on automobiles and crucial raw materials from Canada, the latest deterioration in tra",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/aug/24/canada-tariff-increase-trump-auto",
+        "seendate": "2026-08-24T18:55:43.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Top US firms that backed Voting Rights Act donate to groups working to undermine it",
+        "summary": "Watchdog data shared with Guardian shows contributions to Republican Attorneys General Association and othersOver a dozen US companies that signed a 2021 letter urging Congress to strengthen the Voting Rights Act continue",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/aug/24/us-companies-voting-rights-raga",
+        "seendate": "2026-08-24T11:00:31.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Washington Post ordered to reinstate opinion writer fired over Charlie Kirk posts",
+        "summary": "Arbitrator determined the Post improperly fired Karen Attiah, a union-protected employee, over social media postsAn independent arbitrator has ordered the Washington Post to rehire the high-profile opinion columnist Karen Attiah, abruptly fir",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/business/2026/aug/24/washington-post-reinstate-karen-attiah",
+        "seendate": "2026-08-24T15:42:21.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war",
         "summary": "PM Mark Carney says ‘we got attacked’ as tariffs come into force on items from hockey sticks to tongue depressorsThe lesson from Canada’s collapsed trade talks with the US: negotiation may be futileDonald Trump has hit back at Canada after a breakdown in negot",
@@ -102,33 +126,25 @@
         "url": "https://www.theguardian.com/business/2026/aug/21/tyson-foods-close-facilities-beef-prices-cattle-shortage",
         "seendate": "2026-08-21T16:01:43.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Why is the Trump administration causing turmoil in the bond markets? | Richard Partington",
-        "summary": "As yields are dragged higher in the UK, Europe and Japan, the impact for consumers and businesses will be far-reaching‘Starve the beast’? The $40tn cost of Republicans’ false promises to cut spendingGovernment borrowing costs around the world have surged to the highest",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/aug/20/why-us-bond-market-turmoil-hitting-governments-worldwide",
-        "seendate": "2026-08-20T16:14:59.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Fashion tech founder sentenced to prison for $300m fraud scheme",
-        "summary": "Christine Hunsicker, former CEO of CaaStle, gave investors falsified documents that overstated profit and cash reservesA fashion tech founder was sentenced to five years in federal prison for her involvement in a $300m “fraud scheme” spanning from 2019 to 2025, the Manhattan US attorney’s office <a href=\"https://www.justice.gov/usao-sdny/pr/founder-fashion-tech-company-caastle-sentenced-five-years-prison-30",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/aug/20/christine-hunsicker-caastle-sentenced-prison",
-        "seendate": "2026-08-20T22:27:41.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "From McDonald’s to Congress: can a former fry cook flip a key district for Democrats?",
-        "summary": "Manny Rutinel hopes price-tag politics can win key voters in Colorado House raceDuring his presidential campaign in October 2024, Donald Trump staged a photo op at a McDonald’s franchise in Pennsylvania, where he was briefly taught how to work the fryer and drive-thru window at the closed",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/aug/20/mcdonalds-congress-affordability-democrats",
-        "seendate": "2026-08-20T11:00:50.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "literature": [
+      {
+        "title": "The Disappearers by Marlon James review – a scorching exposé of homophobia in Jamaica",
+        "summary": "This Booker-listed epic set in Aids-era Kingston is a triumph – bitter, bawdy and ravishingly queer“A sense of sweep,” replied Marlon James, when asked what moves him most in literature. “Sweep isn’t just about external journeys, but internal as well. It can be over years and decades, or across land and sea.” If that explanation is still hazy, pick up his mighty new novel,&nbsp;which is longlisted for this",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/aug/24/the-disappearers-by-marlon-james-review-a-scorching-expose-of-homophobia-in-jamaica",
+        "seendate": "2026-08-24T06:00:54.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Betrayal by Luke Harding review – could Donald Trump be a Russian asset?",
+        "summary": "A Guardian correspondent’s sobering account of the US betrayal of Ukraine – and the possible reasons behind itAmerican presidents have struggled to get the measure of Vladimir Putin. When George W Bush met him in 2001, he reported that he had “looked the man in the eye”, got a “sense of his soul” and found him “trustworthy”. Barack Obama thought Putin was making a mistake with his interventions in Ukraine a",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/aug/24/betrayal-by-luke-harding-review-is-donald-trump-a-russian-asset",
+        "seendate": "2026-08-24T08:00:56.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "‘I was scared I was going mad’: Meg Mason speaks to fellow authors about the parasocial relationships that begin on the page",
         "summary": "As a lonely teenager, the novels of Nancy Mitford offered the Sorrow and Bliss author a lifeline - and an imaginary friend. She explores why reading can create a particularly intense bond with a favourite writerIn the summer before university, my mother gave me a copy of The Pursuit of Love. We’d moved countries at the beginning o",
@@ -152,147 +168,131 @@
         "url": "https://www.theguardian.com/books/2026/aug/21/alice-roberts-by-the-time-id-finished-richard-dawkins-id-left-faith-behind",
         "seendate": "2026-08-21T09:00:31.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Life of M by Rachel Cusk review – is this story of a film star based on Natalie Portman?",
-        "summary": "A teasing tale of the friendship between a writer and an actor explores the fallout from fame, and the blurring between pretence and realityM is a celebrated film actor. A&nbsp;star since childhood, now the face of a major fashion brand, she has been famous all her life. That her career closely resembles Natalie Portman’s has been gleefully seized upon by the press, something Rachel Cusk mu",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/aug/21/life-of-m-by-rachel-cusk-review-is-this-story-of-a-film-star-based-on-natalie-portman",
-        "seendate": "2026-08-21T06:00:27.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "The best recent translated fiction – review roundup",
-        "summary": "The Red Book of Farewells by Pirkko Saisio; Short Circuit by Wolf Haas; Cosmos by Lucia Odoom; The Fallen Trees Are Also the Forest by Alejandra KamiyaThe Red Book of Farewells by Pirkko Saisio, translated by Mia Spangenberg, Penguin<stro",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/aug/21/the-best-recent-translated-fiction-review-roundup",
-        "seendate": "2026-08-21T11:00:33.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "entertainment": [
       {
-        "title": "Meghan reportedly in talks to join Guy Ritchie’s TV series The Gentlemen",
-        "summary": "The Duchess of Sussex is said to be discussing a return to acting in the third season of Netflix’s hit crime seriesThe Duchess of Sussex is in talks to make her acting return in Netflix’s hit series The Gentlemen.According to Variety, Meghan is in discussions to join the third season, which has yet to re",
+        "title": "‘A rock star on her own terms’: why we’re still so fascinated by Meg White",
+        "summary": "Recent incorrect attempts to reveal the White Stripes star’s whereabouts reflect how much we’re still obsessed with the one-of-a-kind drummerIn February 2011, the White Stripes announced they were no longer going to tour or release new music. The decision wasn’t ba",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/aug/21/meghan-duchess-of-sussex-guy-ritchie-the-gentlemen",
-        "seendate": "2026-08-21T18:17:44.000Z",
+        "url": "https://www.theguardian.com/music/2026/aug/24/meg-white-white-stripes-fascination",
+        "seendate": "2026-08-24T14:00:35.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "David Harbour has blown Tony Stark’s cover in Avengers: Doomsday. It might just be what Marvel needs",
-        "summary": "The actor, who plays Red Guardian in the film, made a cryptic comment to Variety that raised more Robert Downey Jr-shaped questions than answers. But was it a clanger, or expert trolling? Nobody knows exactly what solemn blood oaths Marvel uses to prevent spoilers. But we do know that Andrew Garfield spent most of the run-up to 2021’s Spider-Man: No Way Home – in which he would eventually turn up as one of",
+        "title": "John Oliver on ‘smart’ appliances: ‘Spying on you through the washing machine’",
+        "summary": "The host also discussed the rise of forgotten monthly subscriptions for anything from dishwashers to litter boxesOn the Sunday night episode of his HBO show, John Oliver discussed the rise of subscription-based business models across the worlds of music, film and TV, beauty, food, cleaning services and more.“Subscriptions are now basi",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/aug/21/avengers-doomsday-robert-downey-jr-tony-stark-david-harbour-marvel",
-        "seendate": "2026-08-21T15:37:53.000Z",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/aug/24/john-oliver-subscriptions-smart-appliances",
+        "seendate": "2026-08-24T16:18:56.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘We’re barely above porn’: why would a film-maker choose to make a deliberately bad ‘mockbuster’?",
-        "summary": "With a tiny budget and six days, Anthony Frith directed a film for the studio behind Sharknado – and then made Mockbuster, a documentary about the experienceDirectors don’t tend to appreciate having their films eviscerated by critics. And us critics, well practised in lobbing proverbial grenades from the safety of our pretentiously book-lined, Cahiers du Cinéma-strewn offices, don’t tend to look an artist i",
+        "title": "Slayyyter live review – raucous show announces a new princess of sleaze-pop",
+        "summary": "Shrine Auditorium, Los AngelesThe cult star proves she is ready for pop’s big leagues in a show that blends chaotic punk energy with technical finesseThe last time Slayyyter toured, in 2023, she struggled to break even and had to fly home boxes of unsold merch. Back then, she was sti",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/aug/22/anthony-frith-documentary-mockbuster-the-land-that-time-forgot",
-        "seendate": "2026-08-21T15:00:37.000Z",
+        "url": "https://www.theguardian.com/music/2026/aug/24/slayyyter-live-review",
+        "seendate": "2026-08-24T15:54:39.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘She had this divine calling’: the incredible and transporting art of Minnie Evans",
-        "summary": "Just over 50 years after she was one of the first Black artists to have a solo show at the Whitney, the museum gathers some of her most remarkable paintings for a new exhibitionSurprisingly, the term “outsider art” was coined fairly recently – in 1972, when the art historian Roger Cardinal made it the title of the book with which he introduced the idea to the English-speaking world. Since then, debates have",
+        "title": "Guardian-produced Gaza documentary from Oscar-winning Israeli directors of No Other Land to screen at Venice film festival",
+        "summary": "Film directed by Yuval Abraham and Rachel Szor, co-directors of No Other Land along with Basel Adra and Hamdan Ballal , investigates ‘Israel’s calculated mass killing of Palestinian civilians’ during the war A new documentary about Israel’s bombing campaign in Gaza, directed by Oscar-winning directors Yuval Abraham and Rachel Szor and produced by the Guardian, is to receive its world premiere at the Ven",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/artanddesign/2026/aug/21/minnie-evans-whitney-museum-outsider-artist",
-        "seendate": "2026-08-21T09:00:31.000Z",
+        "url": "https://www.theguardian.com/film/2026/aug/24/gaza-documentary-produced-by-the-guardian-to-receive-world-premiere-at-venice-film-festival",
+        "seendate": "2026-08-24T13:16:20.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "When TV turns sour: the shows we simply can’t stomach any more",
-        "summary": "They were once the hottest shows on television – gripping, sexy, hilarious, zeitgeisty. But for our writers, the likes of America’s Next Top Model, House of Cards and The Office are now part of their viewing history they feel tainted byWhen I think of the summer holidays when I was a teenager, I think of watching America’s Next Top Model for hours on end, critiquing each contestant with my sister. The makeo",
+        "title": "Women Photograph announces 2026 grant recipients – in pictures",
+        "summary": "Women Photograph, a non-profit launched in 2017 to amplify the voices of women and non-binary visual journalists, has announced three recipients of its 2026 grants. Grants of $10,000 have been awarded to Fatma Fahmy, Caroline Gutman and Yixi Tian. This year’s grants were sponsored by <a href=",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/aug/21/when-tv-turns-sour-the-shows-we-simply-cannot-stomach-any-more",
-        "seendate": "2026-08-21T12:00:34.000Z",
+        "url": "https://www.theguardian.com/artanddesign/gallery/2026/aug/24/women-photograph-leica-grantees-for-2026-in-pictures",
+        "seendate": "2026-08-24T12:55:23.000Z",
         "domain": "theguardian.com"
       }
     ],
     "f1": [
       {
-        "title": "George Russell \"still not there\" as Mercedes pressure builds after Dutch GP, says former F1 driver",
-        "summary": "Former Formula 1 driver and F1 TV analyst Jolyon Palmer believes George Russell is feeling the heat within Mercedes, claiming that the Briton is \"still not there\" compared to team-mate Kimi Antonelli following the Dutch Grand Prix.Mercedes secured a double podium at Zandvoort, finishing second and third behind McLaren's Lando Norris. But the late team order instructing Russell to yield track ...<a class=",
+        "title": "Oscar Piastri confused by pace deficit to Lando Norris in F1 2026",
+        "summary": "Oscar Piastri is scratching his head as to why he’s struggled to maximise the McLaren Formula 1 package compared to team-mate Lando Norris.The reigning world champion has won the last two grands prix - Budapest and Zandvoort - from pole thanks to a heavily-upgraded MCL40, while Piastri has suffered a DNF and finished sixth.It has left Norris fourth in the standings and 55 points ahead of ...<a class=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/george-russell-still-not-there-as-mercedes-pressure-builds-after-dutch-gp-says-former-f1-driver/10848816/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-23T22:59:33.000Z",
+        "url": "https://www.motorsport.com/f1/news/oscar-piastri-confused-by-pace-deficit-to-lando-norris-in-f1-2026/10849030/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-24T23:00:02.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Winners and losers from F1's chaotic Dutch Grand Prix",
-        "summary": "If there were any fears after Saturday's mind-numbing sprint display that the Netherlands would send off its Formula 1 revival with a dud, then those fears were washed away in a sudden shower one hour before Sunday's race, around the time the starting grid started opening for business.The rain didn't persist into the race itself, but caused just enough havoc to make Zandvoort's dune loop ...<a class='mor",
+        "title": "Netflix renews \"Formula 1: Drive to Survive\" for season 9",
+        "summary": "Netflix has officially confirmed that its behind-the-scenes docuseries Formula 1: Drive to Survive will return for a ninth season, covering the ongoing 2026 season.The docuseries, which premiered on the streaming service in 2019, has given viewers unprecedented access to the paddock and an insight into the drivers' personal lives beyond the track. \"We’re so excited to be making Season 9 ...<a class='",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/winners-and-losers-f1-chaotic-dutch-grand-prix/10848769/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-23T19:15:32.000Z",
+        "url": "https://www.motorsport.com/f1/news/netflix-renews-formula-1-drive-to-survive-for-season-9/10849071/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-24T16:04:25.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Lando Norris: I don't have a car to fight for the F1 title",
-        "summary": "The 2026 Formula 1 championship finds itself at a curious intersection where nobody is willing to entertain the idea that they have the best car.Championship leader Kimi Antonelli said after finishing second to Lando Norris in the Dutch Grand Prix that Mercedes no longer has the best car – indeed, that it may only be the third best.But Norris, now fourth in the standings with 159 points ...<a class='",
+        "title": "\"Call me, please!\" – Yuki Tsunoda makes cheeky F1 return pitch after impressive Dutch GP",
+        "summary": "The past week has been a real rollercoaster for Yuki Tsunoda. Racing Bulls CEO Peter Bayer had already been informed the previous Friday of Isack Hadjar’s wrist injury and a potential driver change, but according to Tsunoda, he only received the call on Tuesday – while he was still on a beach in Greece.The Japanese driver immediately stressed that he was physically fully prepared for the ...<a class='mor",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/lando-norris-i-dont-have-a-car-to-fight-for-the-f1-title/10848753/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-23T18:52:04.000Z",
+        "url": "https://www.motorsport.com/f1/news/call-me-please-yuki-tsunoda-makes-cheeky-f1-return-pitch-after-impressive-dutch-gp/10849047/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-24T15:18:23.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "\"It made no sense\" – F1 drivers question safety car formation lap after early Dutch GP chaos",
-        "summary": "The opening stages of the Formula 1 Dutch Grand Prix at Zandvoort descended into chaos after rain had started to fall during the grid procedure.Max Verstappen crashed heavily on the exit of the final corner on the opening lap of the race. The Red Bull driver admitted that it was entirely his own mistake. The Dutchman thought he could get back on the throttle, but that part of the track was ...<a class='m",
+        "title": "Red Bull impressed by Liam Lawson at Dutch GP: 'He did what he could'",
+        "summary": "Red Bull’s Formula 1 boss Laurent Mekies was impressed by its super-sub Liam Lawson after he maximised what was possible at the Dutch Grand Prix.The 24-year-old finished seventh behind the top three teams – McLaren, Mercedes and Ferrari – after starting eighth but gaining a place due to Max Verstappen’s crash in the sister RB22.It came after a tougher sprint race where Lawson ...<a class='more' href=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/it-made-no-sense-f1-drivers-question-safety-car-formation-lap-after-early-dutch-gp-chaos/10848751/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-23T18:37:29.000Z",
+        "url": "https://www.motorsport.com/f1/news/red-bull-impressed-by-liam-lawson-at-dutch-gp-he-did-what-he-could/10848996/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-24T14:40:02.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Mercedes \"clearly\" not F1's best team anymore - Kimi Antonelli",
-        "summary": "Formula 1 championship leader Kimi Antonelli reckons Mercedes “clearly” no longer boasts the fastest car after finishing runner-up to Lando Norris at the Dutch Grand Prix.The McLaren driver made it consecutive wins from pole at Zandvoort aboard a heavily upgraded MCL40, making it just two victories in six for Mercedes due to Ferrari also claiming a couple.It marks a far cry from the ...<a class='more",
+        "title": "James Vowles calls Williams F1 rebuild his \"life's journey\"",
+        "summary": "Williams team principal James Vowles has declared that returning the Grove outfit to the required competitive level in Formula 1 will become his \"life's journey\".Vowles joined Williams in 2023 and was faced with the immense challenge of bringing the outdated infrastructure up to scratch and rebuilding the team to return it to its championship-winning form.Speaking on the team's official ...<a class='",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/mercedes-clearly-not-f1s-best-team-anymore-kimi-antonelli/10848738/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-23T18:21:26.000Z",
+        "url": "https://www.motorsport.com/f1/news/james-vowles-calls-williams-f1-rebuild-his-lifes-journey/10849013/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-24T13:46:11.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "'We didn't have layoffs before, and now all of a sudden we have yearly layoffs': Bethesda artist says 'something has changed' under Microsoft",
-        "summary": "The Bethesda Game Studios union continues to advocate for labor rights in the games industry.",
+        "title": "A game dev spent 40 days in the wilderness to make this new Steam survival game",
+        "summary": "Can you guide a lone survivor to safety in FMV survival game Wordless Forest?",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/we-didnt-have-layoffs-before-and-now-all-of-a-sudden-we-have-yearly-layoffs-bethesda-artist-says-something-has-changed-under-microsoft/",
-        "seendate": "2026-08-23T16:43:13.000Z",
+        "url": "https://www.pcgamer.com/games/survival-crafting/a-game-dev-spent-40-days-in-the-wilderness-to-make-this-new-steam-survival-game/",
+        "seendate": "2026-08-24T22:12:51.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "It's been 25 years and I'm still not over one of the greatest songs to grace JRPGs",
-        "summary": "Suteki Da Ne hasn't lost any emotional weight since 2001.",
+        "title": "Latest GTA 6 leak confirms full dong",
+        "summary": "It's perfectly natural.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/final-fantasy/its-been-25-years-and-im-still-not-over-one-of-the-greatest-songs-to-grace-jrpgs/",
-        "seendate": "2026-08-23T16:26:57.000Z",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/latest-gta-6-leak-confirms-full-dong/",
+        "seendate": "2026-08-24T20:22:51.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Ray Chase, the voice of Cyclops in X-Men '97, has '1,000 freaking hours' in Slay the Spire and is running a 'smell build' in Kingdom Come: Deliverance 2: ' I wear perfumes and walk into battle with my fancy boy outfit'",
-        "summary": "The voice of Noctis in Final Fantasy 15 takes us on a road-trip through his Steam library.",
+        "title": "Former Rockstar dev says the GTA 6 leaks are a 'nothing burger': 'There won't be much damage'",
+        "summary": "The Cyberleek debacle is no Hot Coffee.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/ray-chase-the-voice-of-cyclops-in-x-men-97-has-1-000-freaking-hours-in-slay-the-spire-and-is-running-a-smell-build-in-kingdom-come-deliverance-2-i-wear-perfumes-and-walk-into-battle-with-my-fancy-boy-outfit/",
-        "seendate": "2026-08-23T16:00:00.000Z",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/former-rockstar-dev-says-the-gta-6-leaks-are-a-nothing-burger-there-wont-be-much-damage/",
+        "seendate": "2026-08-24T16:52:01.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "If you're desperate for more Baldur's Gate 3, here's a 6-hour mini-campaign all about Astarion with 4 different endings and 6 new companions",
-        "summary": "Help or hinder BG3's vampire elf as he tangles with a Bastellus in A Dream of Silence.",
+        "title": "The Witcher 4 is 'targeting' a 2028 release",
+        "summary": "CD Projekt dropped a few details ahead of Gamescom's Opening Night Live.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/baldurs-gate/if-youre-desperate-for-more-baldurs-gate-3-heres-a-6-hour-mini-campaign-all-about-astarion-with-4-different-endings-and-6-new-companions/",
-        "seendate": "2026-08-23T14:24:02.000Z",
+        "url": "https://www.pcgamer.com/games/the-witcher/the-witcher-4-is-targeting-a-2028-release/",
+        "seendate": "2026-08-24T16:11:59.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Gunstoppable gives me the same head-empty unbridled joy as Ultrakill—it doesn't hurt that Gabriel's voice actor is in it too",
-        "summary": "Nothing but scrap.",
+        "title": "Blood Dungeon review",
+        "summary": "The creators of Nidhogg and Wheel World tackle the bullet heaven genre, but can't transcend its inherent weaknesses.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/fps/gunstoppable-gives-me-the-same-head-empty-unbridled-joy-as-ultrakill-it-doesnt-hurt-that-gabriels-voice-actor-is-in-it-too/",
-        "seendate": "2026-08-23T14:00:00.000Z",
+        "url": "https://www.pcgamer.com/games/roguelike/blood-dungeon-review/",
+        "seendate": "2026-08-24T16:00:00.000Z",
         "domain": "pcgamer.com"
       }
     ],
@@ -341,43 +341,43 @@
     ],
     "climate": [
       {
+        "title": "Nevada files lawsuit challenging federal plan for Colorado River revival",
+        "summary": "In Trump administration’s plan, California, Arizona and Nevada face about a 20% cut to water supply over two yearsNevada filed a federal lawsuit on Monday challenging the Trump administration’s new plan for the imperiled Colorado River, launching what could become the first of many court battles over the waterway",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/aug/24/nevada-federal-lawsuit-colorado-river",
+        "seendate": "2026-08-24T20:56:51.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "French tourist dies in California’s Death Valley after being stranded in heat",
+        "summary": "Man, 68, was left searching for help in 116F weather after his car became stuck in mud along remote park roadA French tourist recently died in Death Valley national park after a car mishap left him stranded in 116F (47C) weather.The visitor, identified as 68-year-old Pierre Michel Formosa, wa",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/aug/24/french-tourist-death-valley-park",
+        "seendate": "2026-08-24T18:55:22.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Fast-moving Hawk wildfire is about 27% contained in Reno, Nevada, officials say",
+        "summary": "Tens of thousands are still under evacuation orders or warnings amid ‘human-caused’, wind-driven blazeThe Hawk fire is about 27% contained, authorities said on Monday afternoon, two days after the fast-moving, wind-driven wildfire sparked near Reno, <a h",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/aug/24/hawk-fire-reno-nevada-injuries-evacuations",
+        "seendate": "2026-08-24T17:26:42.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Devastation, doubt and blame: Hurricane Helene looms over North Carolina’s US Senate race",
+        "summary": "The Democratic and the Republican candidate each blame the other for the bungled recovery effort after storm struck regionTwo years after North Carolina suffered the worst natural disaster in its history when Hurricane Helene struck the state’s w",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/ng-interactive/2026/aug/24/north-carolina-senate-race-hurricane-helene",
+        "seendate": "2026-08-24T10:00:30.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Fast-moving wildfire in Reno, Nevada, forces thousands to evacuate homes",
-        "summary": "Human-caused Hawk fire covers more than 13,000 acres as blaze approaches University of Nevada campus in RenoA fast-moving Nevada wildfire exploded to more than 13,000 acres (5,200 hectares) on Sunday, pushing from the Sierra foothills toward the center of Reno and urging nearly 90,000 resi",
+        "summary": "Human-caused Hawk fire covers more than 15,000 acres as blaze approaches University of Nevada campus in RenoA fast-moving Nevada wildfire exploded to more than 15,000 acres (6,000 hectares) on Sunday, pushing from the Sierra foothills toward the center of Reno and urging nearly 90,000 resi",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/us-news/2026/aug/23/wildfire-reno-nevada-hawk-fire",
         "seendate": "2026-08-23T18:22:15.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Stores are selling Halloween stuff in August. Time has lost all meaning | Dave Schilling",
-        "summary": "Capitalism and the climate crisis are conspiring to destroy the concept of seasons. I’ll take solace in my pumpkin spiceHappy spooky season, everyone! Get those jack-o’-lanterns out, because Halloween is just around the corner!Just kidding, no, it’s not. Continue reading...",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/commentisfree/2026/aug/23/halloween-capitalism-climate-change",
-        "seendate": "2026-08-23T11:00:33.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Against the wind: despite Trump’s attacks, unions are fighting for good US clean energy jobs",
-        "summary": "Since Hurricane Sandy in 2012, a growing labor movement has addressed the climate crisis and economic inequalityRyan McElroen had spent years repairing the New York City subway underground when he got the opportunity to work in the middle of the ocean.“I had no views other than the darkness at work,” he said. “Then I went polar opposite.” <a href=\"https://www.theguardian.com/us-news/2026/aug/23/w",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/aug/23/wind-energy-unions-trump",
-        "seendate": "2026-08-23T10:00:30.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "‘It’s pretty much a guarantee you’ll get stung’: jellyfish keep swimmers off Delaware beaches",
-        "summary": "Beach patrols report hundreds of stings a day as warmer waters and drought create favorable conditions for jellyfishAn unusually high number of jellyfish are crowding Delaware’s beaches this summer amid climate change and other environmental factors – keeping some beachgoers out of the ocean and stinging lifeguards as well as bathers.Beach safety patrols in the state have <a href=\"https://www.faceboo",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/aug/22/jellyfish-sting-delaware-beaches",
-        "seendate": "2026-08-22T10:00:00.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "The US has a plan to save the Colorado River. Experts say it won’t be enough to stop the crisis",
-        "summary": "The 10-year blueprint mandates water cuts of up to 40% for California, Arizona and NevadaIt’s official: after years of tense negotiations and missed deadlines, there is finally a plan to govern the future of the imperiled Colorado River - or at least the makings of one.With the previous framework set to expire in October, the US Bureau of Reclamation publicly released its proposal for a new plan on F",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/aug/21/colorado-river-water-crisis-plan",
-        "seendate": "2026-08-21T19:41:48.000Z",
         "domain": "theguardian.com"
       }
     ],
