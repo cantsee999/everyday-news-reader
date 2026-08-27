@@ -1,8 +1,32 @@
 window.NEWS_CACHE = {
-  "generatedAt": "2026-08-25T23:15:17.696Z",
+  "generatedAt": "2026-08-27T04:07:46.133Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
+      {
+        "title": "South African police arrest two Thai men for allegedly smuggling parrot eggs",
+        "summary": "Bird eggs intercepted in homemade incubators at Johannesburg airport as officials try to halt wildlife traffickingSouth African police have arrested two Thai nationals in separate incidents for allegedly attempting to smuggle endangered parrot eggs out of the country as authorities try to stem the tide of wildlife trafficking.A 50-year-old Thai national was arrested at OR Tambo international airport",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/aug/26/south-african-police-arrest-two-thai-men-smuggling-parrot-eggs",
+        "seendate": "2026-08-26T15:09:58.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Mpox is back – and in new countries. How can this outbreak be contained?",
+        "summary": "The public health emergencies in 2022 and 2024 saw the virus reported in 145 countries, but in the new cases children appear particularly affectedA fresh outbreak of mpox in Guinea Bissau – the country’s first – means the virus formerly known as monkey pox is b",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/global-development/2026/aug/26/global-health-mpox-outbreak-explainer-children",
+        "seendate": "2026-08-26T11:00:12.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Moringa lattes and tigernut kebabs: the Ghanaians ‘taking back the power’ of their food",
+        "summary": "In Ghana, a grassroots movement is championing nutritious, homegrown, climate-resilient produce, rather than western importsAfter three years at catering school in Accra, Abiro Wisdom was certain of one thing – he did not want to go into catering. At least not the route that he might be expected to take. His course had prepared students for working in international hotels, focusing on French, Italian and Me",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/global-development/2026/aug/26/moringa-lattes-and-tigernut-kebabs-the-young-ghanaians-taking-back-the-power-of-their-food",
+        "seendate": "2026-08-26T09:00:39.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Prince Harry quits board of wildlife charity after rangers’ human rights abuses",
         "summary": "Spokesperson for Duke of Sussex says he remains an ‘active and avid supporter’ of African Parks’ missionThe Duke of Sussex has stepped down from the board of a major African wildlife charity that had been at the centre of a human rights controversy.Prince Harry’s spokesperson confirmed he was no longer a trustee of African Parks, which <a href=\"https://www.",
@@ -17,35 +41,35 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/world/2026/aug/24/video-shows-hundreds-held-captive-after-nigeria-mosque-kidnapping",
         "seendate": "2026-08-24T14:19:14.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Children make up half of suspected mpox cases in Guinea-Bissau as epidemic spreads",
-        "summary": "West African country reports 46 suspected cases in outbreak declared in July, amid fears virus may be spreading undetectedMore than half of the mpox cases reported in Guinea-Bissau have been among children, local authorities have said, almost two months since the country announced an epidemic.A national outbreak was declared on 4 July, just over a week after a 27-year-old woman became the first confi",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/global-development/2026/aug/24/children-half-mpox-disease-cases-guinea-bissau-epidemic-spreads-west-africa",
-        "seendate": "2026-08-24T10:11:34.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Landslide at waste mound in Guinea capital kills 30, government says",
-        "summary": "Dump site in Conakry, which minister had just promised to move, collapsed after heavy rain in west African stateA ⁠landslide at a huge waste dump in Guinea’s capital has killed 30 people, the government said on Sunday, after heavy rains overnight prompted it to ⁠collapse, engulfing nearby tents and shacks.The incident occurred less than a week after the government announced plans to close the ⁠site a",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/aug/23/landslide-waste-mound-conakry-guinea-kills-dozens",
-        "seendate": "2026-08-23T22:16:53.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
-        "summary": "Agreement is among largest third-country deportations driven by Trump administration’s immigration crackdown Twenty deportees from the United States arrived in Liberia on Thursday, as part of a new agreement that will see the west African country receive as many as 1,200 people under the Trump administration’s immigration crackdown.<",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement",
-        "seendate": "2026-08-20T19:57:59.000Z",
         "domain": "theguardian.com"
       }
     ],
     "conflict": [
       {
+        "title": "South African police arrest two Thai men for allegedly smuggling parrot eggs",
+        "summary": "Bird eggs intercepted in homemade incubators at Johannesburg airport as officials try to halt wildlife traffickingSouth African police have arrested two Thai nationals in separate incidents for allegedly attempting to smuggle endangered parrot eggs out of the country as authorities try to stem the tide of wildlife trafficking.A 50-year-old Thai national was arrested at OR Tambo international airport",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/aug/26/south-african-police-arrest-two-thai-men-smuggling-parrot-eggs",
+        "seendate": "2026-08-26T15:09:58.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Mpox is back – and in new countries. How can this outbreak be contained?",
+        "summary": "The public health emergencies in 2022 and 2024 saw the virus reported in 145 countries, but in the new cases children appear particularly affectedA fresh outbreak of mpox in Guinea Bissau – the country’s first – means the virus formerly known as monkey pox is b",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/global-development/2026/aug/26/global-health-mpox-outbreak-explainer-children",
+        "seendate": "2026-08-26T11:00:12.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Moringa lattes and tigernut kebabs: the Ghanaians ‘taking back the power’ of their food",
+        "summary": "In Ghana, a grassroots movement is championing nutritious, homegrown, climate-resilient produce, rather than western importsAfter three years at catering school in Accra, Abiro Wisdom was certain of one thing – he did not want to go into catering. At least not the route that he might be expected to take. His course had prepared students for working in international hotels, focusing on French, Italian and Me",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/global-development/2026/aug/26/moringa-lattes-and-tigernut-kebabs-the-young-ghanaians-taking-back-the-power-of-their-food",
+        "seendate": "2026-08-26T09:00:39.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Prince Harry quits board of wildlife charity after rangers’ human rights abuses",
         "summary": "Spokesperson for Duke of Sussex says he remains an ‘active and avid supporter’ of African Parks’ missionThe Duke of Sussex has stepped down from the board of a major African wildlife charity that had been at the centre of a human rights controversy.Prince Harry’s spokesperson confirmed he was no longer a trustee of African Parks, which <a href=\"https://www.",
         "source": "theguardian.com",
@@ -60,33 +84,33 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/world/2026/aug/24/video-shows-hundreds-held-captive-after-nigeria-mosque-kidnapping",
         "seendate": "2026-08-24T14:19:14.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Children make up half of suspected mpox cases in Guinea-Bissau as epidemic spreads",
-        "summary": "West African country reports 46 suspected cases in outbreak declared in July, amid fears virus may be spreading undetectedMore than half of the mpox cases reported in Guinea-Bissau have been among children, local authorities have said, almost two months since the country announced an epidemic.A national outbreak was declared on 4 July, just over a week after a 27-year-old woman became the first confi",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/global-development/2026/aug/24/children-half-mpox-disease-cases-guinea-bissau-epidemic-spreads-west-africa",
-        "seendate": "2026-08-24T10:11:34.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Landslide at waste mound in Guinea capital kills 30, government says",
-        "summary": "Dump site in Conakry, which minister had just promised to move, collapsed after heavy rain in west African stateA ⁠landslide at a huge waste dump in Guinea’s capital has killed 30 people, the government said on Sunday, after heavy rains overnight prompted it to ⁠collapse, engulfing nearby tents and shacks.The incident occurred less than a week after the government announced plans to close the ⁠site a",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/aug/23/landslide-waste-mound-conakry-guinea-kills-dozens",
-        "seendate": "2026-08-23T22:16:53.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
-        "summary": "Agreement is among largest third-country deportations driven by Trump administration’s immigration crackdown Twenty deportees from the United States arrived in Liberia on Thursday, as part of a new agreement that will see the west African country receive as many as 1,200 people under the Trump administration’s immigration crackdown.<",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement",
-        "seendate": "2026-08-20T19:57:59.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "economy": [
+      {
+        "title": "Meta agrees to major changes to Facebook and Instagram as it settles US trial over teen addiction for up to $18bn",
+        "summary": "US tech giant agrees to establish further protections for teens such as daily usage limits and blocks on night-time useMeta agreed to significant changes to its Instagram and Facebook apps in a settlement that ended a landmark",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/aug/26/meta-social-media-addiction-trial-settlement",
+        "seendate": "2026-08-26T20:30:49.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Wiped out: US faces surging toilet paper prices amid trade war with Canada",
+        "summary": "Paper products among hardest-hit sectors after trade negotiations broke down, with 25-50% tariffs estimatedAre you a Canadian boycotting US products? We’d like to hear from youUsing the bathroom or having a cry is about to become more expensive for North Am",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/aug/26/paper-product-toilet-paper-tariffs-us-canada",
+        "seendate": "2026-08-26T10:00:41.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Bill Gates calls for ‘human-reserved’ jobs in face of AI takeover",
+        "summary": "In 6,000-word essay Microsoft co-founder also expresses concern governments not prepared for technology’s impact Business live – latest updatesBill Gates has called for “human-reserved” jobs in certain sectors to prevent AI replacing them, and expre",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/aug/26/bill-gates-human-reserved-jobs-ai-takeover",
+        "seendate": "2026-08-26T10:33:43.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Canada announces retaliatory tariffs on wide range of US goods",
         "summary": "Ottawa’s ‘focused response’ to levies imposed by Donald Trump on Canadian products comes after trade talks collapsed last weekUS politics live – latest updatesCanada has announced it will impose tariffs on a wid",
@@ -102,36 +126,20 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/business/2026/aug/25/us-treasury-scott-bessent-bond-buying-donald-trump-stanley-druckenmiller",
         "seendate": "2026-08-25T09:59:16.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "New York business group sues Mamdani over city-owned grocery stores plan",
-        "summary": "Multicultural Business Coalition sues New York City mayor, alleging plan for city-run stores will harm smaller grocersA New York City business group sued mayor Zohran Mamdani on Monday over his plan to create five municipally owned grocery stores.The Multicultural Business Coali",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/aug/25/zohran-mamdani-lawsuit-city-owned-grocery-stores",
-        "seendate": "2026-08-25T14:48:54.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Trump announces new 50% tariff on Canadian cars, trucks and steel",
-        "summary": "Move is latest deterioration in trade relations between neighbors with historically strong economic tiesDonald Trump announced a new 50% tariff on automobiles and crucial raw materials from Canada, the latest deterioration in tra",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/aug/24/canada-tariff-increase-trump-auto",
-        "seendate": "2026-08-24T18:55:43.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Top US firms that backed Voting Rights Act donate to groups working to undermine it",
-        "summary": "Watchdog data shared with Guardian shows contributions to Republican Attorneys General Association and othersOver a dozen US companies that signed a 2021 letter urging Congress to strengthen the Voting Rights Act continue",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/aug/24/us-companies-voting-rights-raga",
-        "seendate": "2026-08-24T11:00:31.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "literature": [
       {
+        "title": "Passage by Colin Thubron review – mortality and memory in a gem of a novel",
+        "summary": "A terminally ill woman makes a final trip to Egypt in an exquisitely wrought portrait of end-of-life reckoningVirginia Woolf said of Middlemarch that it is one of the few English novels written for grown-up people. In the shallow and infantilising age through which we are living, Colin Thubron dares to&nbsp;assume that his readers are adults. Passage is a very beautiful, very moving, authentic work of art.",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/aug/26/passage-by-colin-thubron-review-mortality-and-memory-in-a-gem-of-a-novel",
+        "seendate": "2026-08-26T06:00:36.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "The Great Dictator by Matthew Sweet review – the fabulous life of Barbara Cartland",
-        "summary": "A brilliant new biography that does it subject the favour of taking her seriously – even if few else didBarbara Cartland was famous for dictating her novels. With a pekingese clamped to her hot pink bosom she would lie back on a library couch and exhale a story about virginal girls taming wayward dukes, damaged airmen or misunderstood surgeons. Meanwhile Miss Savory, Mrs Smith or Mrs Morgan, picked for bein",
+        "summary": "A brilliant new biography that does its subject the favour of taking her seriously – even if few else didBarbara Cartland was famous for dictating her novels. With a pekingese clamped to her hot pink bosom she would lie back on a library couch and exhale a story about virginal girls taming wayward dukes, damaged airmen or misunderstood surgeons. Meanwhile Miss Savory, Mrs Smith or Mrs Morgan, picked for bei",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/books/2026/aug/25/the-great-dictator-by-matthew-sweet-review-the-life-of-barbara-cartland",
         "seendate": "2026-08-25T06:00:50.000Z",
@@ -160,186 +168,202 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/books/2026/aug/24/the-disappearers-by-marlon-james-review-a-scorching-expose-of-homophobia-in-jamaica",
         "seendate": "2026-08-24T06:00:54.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Betrayal by Luke Harding review – could Donald Trump be a Russian asset?",
-        "summary": "A Guardian correspondent’s sobering account of the US betrayal of Ukraine – and the possible reasons behind itAmerican presidents have struggled to get the measure of Vladimir Putin. When George W Bush met him in 2001, he reported that he had “looked the man in the eye”, got a “sense of his soul” and found him “trustworthy”. Barack Obama thought Putin was making a mistake with his interventions in Ukraine a",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/aug/24/betrayal-by-luke-harding-review-is-donald-trump-a-russian-asset",
-        "seendate": "2026-08-24T08:00:56.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "entertainment": [
       {
-        "title": "Dolly Parton, country star, actor and philanthropist, dies aged 80",
-        "summary": "Songwriter of I Will Always Love You, Jolene and 9 to 5 also invested millions in child literacy, Covid-19 vaccine development and other causesAlexis Petridis on Dolly Parton’s peerless career which turned country music cliches inside out<a href=\"https://www.theguardian.com/music/gallery/202",
+        "title": "Tim Curry, star of The Rocky Horror Picture Show and Stephen King’s It, dies aged 80",
+        "summary": "A prolific performer across stage, screen and TV, the actor starred in Legend, Clue and It, but will always be associated with the flamboyantly camp rock’n’roll musical in which he made his breakthroughTim Curry on sexuality, surviving a stro",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
-        "seendate": "2026-08-25T17:59:40.000Z",
+        "url": "https://www.theguardian.com/film/2026/aug/26/tim-curry-dies-rocky-horror-show-stephen-king-it-legend-film",
+        "seendate": "2026-08-26T15:47:14.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Ali G: Who Iz I? trailer reveals return of Sacha Baron Cohen’s prank-playing rudeboy",
-        "summary": "Comedian returns in new film, adding a retired US general to a list of pranked celebrities that include Buzz Aldrin and Donald TrumpThe first full trailer for Ali G: Who Iz I? has been released online, revealing some of the escapades and pranks – and their victims – that will appear in the second feature-length comedy starring the academically challenged west Staines rudeboy character created and played by",
+        "title": "Affairs? Drugs? You could ask Dolly Parton about anything and get a laugh. Just stay away from politics …",
+        "summary": "One autumn day in 2023 I bathed in the luminous glow of this utterly authentic star – and while she did have one weak spot, her life and music will speak for themselvesCelebrity tributes pour in for Dolly Parton<a href=\"https://www.theguardian.com/music/2026/aug/26/dolly-parton-10-best-",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/aug/25/ali-g-who-iz-i-trailer-return-sacha-baron-cohen-prank-playing-rudeboy",
-        "seendate": "2026-08-25T14:31:35.000Z",
+        "url": "https://www.theguardian.com/music/2026/aug/26/affairs-drugs-you-could-ask-dolly-parton-about-anything-and-get-a-laugh-just-stay-away-from-politics",
+        "seendate": "2026-08-26T17:00:17.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘Environmental violence’: inside the fight to save indigenous land from becoming a nuclear dumping ground",
-        "summary": "New documentary To Use a Mountain spotlights the pain and triumph of resisting government efforts to turn parts of rural US into disposal sitesNuclear energy was supposed to be our salvation, humanity’s chance to retool technology first conceived as a weapon of mass destruction into an engine of limitless prosperity. But even as the i",
+        "title": "Judge awards Blake Lively $400,000 in legal fees in Justin Baldoni case",
+        "summary": "The actor had sought $8m in attorney costs resulting from her protracted legal battle with BaldoniBlake Lively has been awarded more than $400,000 in attorneys’ fees after her 18-month legal battle with Justin Baldoni.On Wednesday, judge Lewis Liman awarded the actor $363,245.40 in attorneys’ fees and $44,206.35 in costs, figures far lower t",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/aug/25/to-use-a-mountain-documentary-interview",
-        "seendate": "2026-08-25T09:00:53.000Z",
+        "url": "https://www.theguardian.com/film/2026/aug/26/blake-lively-legal-fees-justin-baldoni",
+        "seendate": "2026-08-26T17:45:28.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Kit Harington to replace Nicholas Hoult in HBO’s Harry Potter TV series",
-        "summary": "Actor best known as Jon Snow in Game of Thrones will now play Gilderoy Lockhart in show’s second seasonKit Harington will replace Nicholas Hoult in HBO’s Harry Potter television series, after the Skins actor left the production because of scheduling conflicts.Harington will play Gilderoy Lockhart, the vain and inept defence against the dark arts teacher, in the season based on Harry Potter and the Ch",
+        "title": "Dolly Parton was a rare singer who proved herself to be an electric movie star",
+        "summary": "From 9 to 5 to Steel Magnolias to Joyful Noise, the late star had real big screen presence that was impossible to imitate‘I just give from my heart’: how Dolly Parton’s philanthropy focused most on helping children<a href=\"https://www.theguardian.com/music/2026/a",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/aug/25/kit-harington-nicholas-hoult-hbo-harry-potter-tv-series",
-        "seendate": "2026-08-25T12:05:49.000Z",
+        "url": "https://www.theguardian.com/music/2026/aug/26/dolly-parton-singer-actress",
+        "seendate": "2026-08-26T14:33:02.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Russian stadium says it will not host Kanye concerts – but promoter says shows have not been cancelled",
-        "summary": "The controversial rapper now known as Ye was due to play two huge shows at St Petersburg’s Gazprom Arena, which now states it cannot host performances for contractual reasonsThe St Petersburg stadium that was set to host two concerts by Ye – making the rapper formerly known as Kanye West the biggest western act to play in Russia since start of the Ukraine war – has now said that the concerts will not take p",
+        "title": "Rupert Grint to reprise role of Ron Weasley in Harry Potter stage show",
+        "summary": "Like co-star Tom Felton, Grint will once again play the role that made him famous, in Harry Potter and the Cursed ChildRupert Grint is set to reprise the role of Ron Weasley in the Broadway hit Harry Potter and the Cursed Child.<",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/music/2026/aug/25/kanye-west-ye-russia-concert-st-petersburg-gazprom-arena",
-        "seendate": "2026-08-25T11:06:29.000Z",
+        "url": "https://www.theguardian.com/stage/2026/aug/26/rupert-grint-broadway-harry-potter-cursed-child-ron-weasley",
+        "seendate": "2026-08-26T14:49:53.000Z",
         "domain": "theguardian.com"
       }
     ],
     "f1": [
       {
-        "title": "Liam Lawson got more comfortable at Red Bull in Dutch GP outing than during his 2025 stint",
-        "summary": "While Red Bull stand-in Liam Lawson says it is impossible to compare the current RB22 with the previous Formula 1 car he drove with the Austrian outfit, the Kiwi admits he felt much “more comfortable” in the car than he did during his first stint at Red Bull Racing.The Racing Bulls driver was called up to race for the senior team at last weekend’s Dutch Grand Prix in the place of the ...<a class='more' h",
+        "title": "Isack Hadjar's Dutch GP withdrawal was \"sign of confidence\", says Calum Nicholas",
+        "summary": "Isack Hadjar's decision to withdraw from the Dutch Grand Prix due to a wrist injury was a demonstration of confidence rather than a sign of weakness, according to former Red Bull mechanic Calum Nicholas.Hadjar, who has had an impressive start to the 2026 campaign alongside four-time champion Max Verstappen at Red Bull, opted to step aside for the Zandvoort weekend after sustaining the injury ...<a class=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/liam-lawson-was-more-comfortable-at-red-bull-in-f1s-dutch-gp-than-during-his-2025-stint/10849288/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-25T23:00:03.000Z",
+        "url": "https://www.motorsport.com/f1/news/isack-hadjars-dutch-gp-withdrawal-was-sign-of-confidence-says-calum-nicholas/10849518/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-26T17:00:04.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "\"Drive to Survive\" Season 9: The biggest F1 stories Netflix could cover",
-        "summary": "Netflix has officially confirmed that its Formula 1 docuseries Drive to Survive will return for a ninth season. The series is set to document the ongoing 2026 championship, so we are taking a look at what could feature in the series.While information is yet to be released on the episodes for the ninth instalment of the show, there are already several storylines that could form the expected 10 ...<a class",
+        "title": "Ferrari must decide if it will run updated F1 engines in Monza this week after ADUO results",
+        "summary": "Ferrari was awarded two upgrade tokens through Formula 1’s Additional Upgrades and Opportunities (ADUO) system to modify the power unit in its SF-26. After assembling the two updated engines for Charles Leclerc and Lewis Hamilton, the team must now decide whether to run the new power units at next week's Italian Grand Prix.The final decision will be made at the end of this week, when the ...<a class='mor",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/drive-to-survive-season-9-the-biggest-f1-stories-netflix-could-cover/10849391/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-25T17:45:19.000Z",
+        "url": "https://www.motorsport.com/f1/news/f1-ferrari-aduo2-engines-ready-but-monza-debut-decision-due-at-weekend/10849610/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-26T16:01:09.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "F3 points leader: New F1 Spanish GP venue \"incredible\" to drive after test",
-        "summary": "Formula 3 championship leader Freddie Slater has labelled the new Madrid circuit as “incredible” to drive amid the junior series’ test at the Spanish venue.Madrid has replaced Barcelona as host of the Spanish Grand Prix for 2026 on a 10-year deal with Formula 1 set to stage the event at the Madring track on 11-13 September.That weekend will also see F3 stage its season finale in the ...<a class='more",
+        "title": "FIA reveals latest engine ranking for ADUO as Red Bull remains F1 benchmark",
+        "summary": "The FIA has published the results of the latest Additional Upgrades and Opportunities (ADUO) evaluation for Formula 1 power units, with Red Bull-Ford still considered the benchmark.According to the federation’s analysis, which is inclusive of all races from the season-opening Australian Grand Prix to the Hungarian Grand Prix, the Red Bull-Ford internal combustion engine is the most powerful ...<a class='",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/fia-f3/news/f3-points-leader-new-f1-spanish-gp-venue-incredible-to-drive-after-test/10849353/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-25T16:04:53.000Z",
+        "url": "https://www.motorsport.com/f1/news/fia-announces-results-of-first-aduo-assessment-/10849599/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-26T15:23:50.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Red Bull hopes for F1 development lifeline as FIA's new ADUO decision looms",
-        "summary": "Although the second ADUO period – the Additional Development and Upgrade Opportunities in Formula 1 – already ended after the Hungarian Grand Prix, the results of the first period have still not officially been made public.During the Monaco race weekend, however, all manufacturers were informed of the outcome behind the scenes, with Red Bull-Ford Powertrains surprisingly ranked at the ...<a class='more'",
+        "title": "Imola could make F1 calendar return in place of Qatar or Abu Dhabi GP",
+        "summary": "Formula 1 will soon have to make a decision about the final races of the 2026 season as the conflict between Iran, Israel and the United States continues to shake the Middle East and cast doubt on the Abu Dhabi and Qatar grands prix. Now, an unlikely alternative has reportedly come to the fore, with Italy preparing for a second world championship race.On 29 November, the Formula 1 World ...<a class='more",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/red-bull-hopes-for-f1-development-lifeline-as-fias-new-aduo-decision-looms/10849339/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-25T15:45:02.000Z",
+        "url": "https://www.motorsport.com/f1/news/f1-imola-set-for-calendar-return-as-qatar-or-abu-dhabi-gp/10849566/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-26T14:15:02.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "What Charles Leclerc 'didn't understand' about Ferrari's Zandvoort F1 strategy",
-        "summary": "Charles Leclerc questioned a Ferrari strategy decision during the Dutch Grand Prix that potentially cost him a podium finish at Zandvoort. The call in question was his pitstop at the end of lap 43, which left the Monegasque with no real weapons to battle George Russell for third in the closing stages of the Formula 1 race.“I didn't really understand why we had to box so close to George's ...<a class='mor",
+        "title": "Mercedes searching for answers after Kimi Antonelli’s pace fell off in F1 Dutch GP",
+        "summary": "Mercedes has launched a “deep dive” into Kimi Antonelli’s performance at the Formula 1 Dutch Grand Prix after the championship leader revealed he had a “difficult second half” of the race as he struggled with the balance of his W17.Antonelli had a strong start to the grand prix. After qualifying third, he jumped team-mate George Russell off the line to secure second place before the ...<a class='more' hr",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/the-ferrari-strategy-call-charles-leclerc-didnt-really-understand-at-zandvoort/10849258/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-25T15:24:33.000Z",
+        "url": "https://www.motorsport.com/f1/news/mercedes-searching-for-answers-after-kimi-antonellis-pace-fell-off-in-f1-dutch-gp/10849529/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-26T12:45:02.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "Humankind 2 trailer accused of being 'AI slop,' studio says nope: 'real actors, practical sets, and custom-made props'",
-        "summary": "The uncanny trailer shows the perspective of infants through space and time.",
+        "title": "I've played Heroes of Might and Magic 3: Remake, and I still can't believe we're getting 2 HoMMs in the same year",
+        "summary": "Ubisoft is going all in on fantasy tactics.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/strategy/humankind-2-trailer-accused-of-being-ai-slop-studio-says-nope-real-actors-practical-sets-and-custom-made-props/",
-        "seendate": "2026-08-25T22:50:23.000Z",
+        "url": "https://www.pcgamer.com/games/strategy/ive-played-heroes-of-might-and-magic-3-remake-and-i-still-cant-believe-were-getting-2-homms-in-the-same-year/",
+        "seendate": "2026-08-26T20:00:00.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Tarae: The Unbound is an 'Eastern dark fantasy' action RPG, and I for one am here for K-Diablo",
-        "summary": "Featuring one of my favorite ARPG class archetypes: Guy With Gun.",
+        "title": "Gamescom 2026 live hub: The latest news and previews from the biggest gaming event of the year",
+        "summary": "Your one stop hub for everything happening at Gamescom.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/rpg/tarae-the-unbound-is-an-eastern-dark-fantasy-action-rpg-and-i-for-one-am-here-for-k-diablo/",
-        "seendate": "2026-08-25T20:58:52.000Z",
+        "url": "https://www.pcgamer.com/gaming-industry/live/news/gamescom-2026-live-hub-the-latest-news-and-previews-from-the-biggest-gaming-event-of-the-year/",
+        "seendate": "2026-08-26T19:52:35.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "I played two missions of Gears of War: E-Day's campaign: One rocked, but the other did not",
-        "summary": "Gears goes semi-open-world, again.",
+        "title": "Blue Dragon has been stuck on the Xbox 360 for 20 years, but no longer: a fantastic unofficial PC port unlocks the FPS, goes 4K, and even adds mod support",
+        "summary": "This Xbox 360 recompilation proves how good fan ports can be when they aren't vibe-coded.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/third-person-shooter/i-played-two-missions-of-gears-of-war-e-days-campaign-one-rocked-but-the-other-did-not/",
-        "seendate": "2026-08-25T20:39:04.000Z",
+        "url": "https://www.pcgamer.com/games/rpg/blue-dragon-has-been-stuck-on-the-xbox-360-for-20-years-but-no-longer-a-fantastic-unofficial-pc-port-unlocks-the-fps-goes-4k-and-even-adds-mod-support/",
+        "seendate": "2026-08-26T19:36:47.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "The Witcher 3: Songs of the Past expansion is out next year, here's the trailer",
-        "summary": "Geralt's last ride before Ciri picks up the torch.",
+        "title": "Poppy Playtime studio reveals its next survival horror game, and this time it's co-op",
+        "summary": "You've met the critters, now become one in Mob Entertainment's Escape From Playtime.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/the-witcher/the-witcher-3-song-of-the-past-expansion-is-out-next-year-heres-the-trailer/",
-        "seendate": "2026-08-25T20:23:02.000Z",
+        "url": "https://www.pcgamer.com/games/horror/poppy-playtime-studio-reveals-its-next-survival-horror-game-and-this-time-its-co-op/",
+        "seendate": "2026-08-26T18:58:51.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Path of Exile 2 is finally getting swords in December, and also the rest of the game",
-        "summary": "Grinding Gear Games squeezes one more class in before the action RPG leaves early access and goes free-to-play.",
+        "title": "GTA 6 leaker escalates spoilers, releases 4 minutes of Lucia's prologue",
+        "summary": "Cyberleek wants more money.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/rpg/path-of-exile-2-is-finally-getting-swords-in-december-and-also-the-rest-of-the-game/",
-        "seendate": "2026-08-25T20:16:14.000Z",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-leaker-escalates-spoilers-releases-4-minutes-of-lucias-prologue/",
+        "seendate": "2026-08-26T18:17:59.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
       {
-        "title": "From mixed martial arts to mechanical dogs: the World Robot Conference 2026 – in pictures",
-        "summary": "More than 3,000 products were shown at the 2026 World Robot Conference in Beijing as China showcased its rapidly growing robotics industry.The event, which ran from 19-23 August, showcased the latest advances across the robotics industry, from humanoid robots to embodied intelligence and cutting-edge components <a href=\"https://www.theguardian.com/world/gallery/2026/aug/25/from-mixed-martial-arts-to-mec",
+        "title": "Meta agrees to major changes to Facebook and Instagram as it settles US trial over teen addiction for up to $18bn",
+        "summary": "US tech giant agrees to establish further protections for teens such as daily usage limits and blocks on night-time useMeta agreed to significant changes to its Instagram and Facebook apps in a settlement that ended a landmark",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/gallery/2026/aug/25/from-mixed-martial-arts-to-mechanical-dogs-the-world-robot-conference-2026-in-pictures",
-        "seendate": "2026-08-24T23:59:48.000Z",
+        "url": "https://www.theguardian.com/technology/2026/aug/26/meta-social-media-addiction-trial-settlement",
+        "seendate": "2026-08-26T20:30:49.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘Never seen this level of objection’: Scotland pushes back against datacentre boom",
-        "summary": "Holyrood ‘inching towards moratorium’ amid concerns over massive proposed developments in Auchtertool and beyondIn a village 21 miles north of Edinburgh, a real estate consultancy plans to build a datacentre larger than the village itself – 35 metres high, with an area larger than 100 football pitches.Billed as the second-biggest datacentre in the world, the development in Auchertool, Fife, has attra",
+        "title": "Bill Gates calls for ‘human-reserved’ jobs in face of AI takeover",
+        "summary": "In 6,000-word essay Microsoft co-founder also expresses concern governments not prepared for technology’s impact Business live – latest updatesBill Gates has called for “human-reserved” jobs in certain sectors to prevent AI replacing them, and expre",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/uk-news/2026/aug/25/never-seen-this-level-of-objection-scotland-pushes-back-against-datacentre-boom",
-        "seendate": "2026-08-25T05:00:49.000Z",
+        "url": "https://www.theguardian.com/technology/2026/aug/26/bill-gates-human-reserved-jobs-ai-takeover",
+        "seendate": "2026-08-26T10:33:43.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "UK to use Ukraine battlefield data to train AI to protect sensitive sites",
-        "summary": "London and Kyiv in deal to help stop protesters and hostile states targeting military bases and critical infrastructureAI models trained on Ukrainian battlefield data will be used to stop protesters and foreign states targeting UK defence sites, railways and energy plants under a deal struck between London and Kyiv.Private companies will also be given access to the vast trove of data from Ukraine’s A",
+        "title": "London rollout of robotaxis delayed amid lack of guidance for firms to follow",
+        "summary": "Uber and Wayve had said they would start trips ‘later this summer’ but launch now looks unlikely this yearBusiness live – latest updatesThe rollout of robotaxis on the streets of London is unlikely to happen this year, as regulatory and technical hu",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/politics/2026/aug/24/uk-to-use-ukraine-battlefield-data-to-train-ai-to-protect-sensitive-sites",
-        "seendate": "2026-08-24T18:16:14.000Z",
+        "url": "https://www.theguardian.com/technology/2026/aug/26/london-rollout-robotaxis-delayed-uber-wayve",
+        "seendate": "2026-08-26T08:48:43.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Tell us: do you think AI has made Google search better or worse?",
-        "summary": "As people grow used to AI chatbots, we’d like to hear your views about Google’s search engineGoogle has put artificial intelligence at the front and center of its search bar. The most-visited site on the internet still shows the same list of links to users, but they have to scroll past a summarized response from an AI chatbot, a feature Google calls AI Overviews. The change to what was once the gateway to t",
+        "title": "In China, talking to AI is normal. Now the government fears it might replace human intimacy",
+        "summary": "Companion bots are being regulated over worries they foster ‘emotional dependence’ and young people could stop marrying and having familiesWhen law student Zhao Wei heard that her AI boyfriend was going to be switched off, she was “heartbroken”. She had been talking to Wang Ye every day since she created him in January.“I was crying my eyes out – snot and tears everywhere,” the 19-year-old says.",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/aug/25/google-ai-overview",
-        "seendate": "2026-08-25T06:00:50.000Z",
+        "url": "https://www.theguardian.com/world/2026/aug/26/china-ai-companion-relationships-marriage-birth-rate-concern",
+        "seendate": "2026-08-26T00:47:38.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks",
-        "summary": "Chris Lehane tells Guardian of need to implement new safety standards as critics say AI firms acting ‘recklessly’A senior leader at OpenAI has said people should prepare to defend against “ongoing, persistent” cyber-attacks from AIs, as cutting-edge artificial intelligence models gain advanced capabilities to plan and launch offensives.The leading AI company this week announced a pause in development",
+        "title": "Instagram CEO denies company hid low use of teen safety feature in Meta trial",
+        "summary": "Adam Mosseri is first top executive from Meta to testify in blockbuster lawsuit brought by 29 US statesInstagram’s CEO disputed allegations by US prosecutors that his company hid negative information from the public while testifying during a blockbuster social media trial.“I am not trying to encourage my team to hide anything,” the CEO, Adam Mosseri, told a California courtroom on Tuesday. <a hre",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/aug/23/openai-cyber-attacks-threat-chris-lehane",
-        "seendate": "2026-08-23T08:00:27.000Z",
+        "url": "https://www.theguardian.com/technology/2026/aug/25/instagram-ceo-teen-safety-lawsuit",
+        "seendate": "2026-08-26T00:07:11.000Z",
         "domain": "theguardian.com"
       }
     ],
     "climate": [
+      {
+        "title": "‘You can taste the ash’: surviving in America’s wildfire smoke capital",
+        "summary": "A magical corner of Oregon has the highest US rate of wildfire smoke deaths. How do residents live with the haze – and grief?Driving into the county, you can’t miss the sign.“IT’S THE CLIMATE”. Continue reading...",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/ng-interactive/2026/aug/26/oregon-wildfire-smoke-deaths",
+        "seendate": "2026-08-26T12:00:11.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Groups sue Trump’s EPA over fast-track approval of toxic datacenter chemicals",
+        "summary": "Exposure to two compounds approved can result in ‘sudden death’ and range of other serious health risks, lawsuit warnsThe Trump administration has approved two new datacenter chemicals to which exposure can result in “sudden death” and a range of other serious health risks, like cancer, eye corrosion, neurological damage and reproductive harm, a new lawsuit warns.The two compounds approved by the Env",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/aug/26/trump-epa-datacenter-forever-chemicals",
+        "seendate": "2026-08-26T11:00:12.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "‘132F’: meet the man calling out NYC’s infernally hot subway stations",
+        "summary": "Jack Klein takes heat readings, gives fans to overheated passengers and lugs big jugs of water into the stationsOn a recent August day in the subterranean furnace of New York City’s subway, one bearded, curly-haired man was studying his phone for different reasons than the other wilting passengers – to track the soaring temperatures and ponder how u",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/aug/26/new-york-subway-extreme-heat",
+        "seendate": "2026-08-26T10:00:41.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Record-breaking heat dome expected to bring dangerous temperatures to US south-west",
         "summary": "As wildfires rage and intense heat builds across the region, daytime highs of 110-11F (43-46C) are forecastSurging temperatures are expected to broil more than 45 million people as a heat dome settles in across the south-western US through the end of August and into early September, according to the National Weather",
@@ -355,39 +379,31 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/environment/2026/aug/25/fossil-fuel-lobbyists-fight-climate-damage",
         "seendate": "2026-08-25T12:00:35.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Trump EPA aims to exempt datacenters from disclosing air pollution, advocates warn",
-        "summary": "Trump administration proposes new rule to dismantle requirement for datacenters to publicly report air pollutionA new rule proposed by the Trump administration aims to kill public notification for datacenter air pollution, public health advocates warn, and allow emission permits to be issued behind closed doors.The <a href=\"https:",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/aug/25/datacenters-air-pollution-epa",
-        "seendate": "2026-08-25T11:00:34.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "US building twice as much gas-fired capacity as China in AI boom, analysis finds",
-        "summary": "There has been a 76% increase in under-construction gas-fired projects amid ‘frenzy’ to build more datacentersThe US has surged ahead of China in the building of new gas-fired power generation, largely to feed a boom in artificial intelligence (AI) that is adding vast amounts of planet-heating emissions, a new analysis has found.For decades, China’s rapid economic growth has seen it outpace the US in",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/aug/25/us-gas-power-china-ai-datacenter",
-        "seendate": "2026-08-25T10:00:34.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "‘Environmental violence’: inside the fight to save indigenous land from becoming a nuclear dumping ground",
-        "summary": "New documentary To Use a Mountain spotlights the pain and triumph of resisting government efforts to turn parts of rural US into disposal sitesNuclear energy was supposed to be our salvation, humanity’s chance to retool technology first conceived as a weapon of mass destruction into an engine of limitless prosperity. But even as the i",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/aug/25/to-use-a-mountain-documentary-interview",
-        "seendate": "2026-08-25T09:00:53.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "science": [
       {
-        "title": "Ebola day 100: why this outbreak could become the deadliest in history – video explainer",
-        "summary": "More than 2,000 people have died from Ebola in the Democratic Republic of the Congo since the first case of this epidemic was recorded in May. The Guardian's global health correspondent, Kat Lay, spoke to CDC Africa's Yap Boum II to understand why health teams on the ground are struggling and what is being put in place to try to contain the spread<a href=\"https://www.theguardian.com/world/2026/aug/1",
+        "title": "Shingles vaccine linked to lower risk of heart attack and stroke, study finds",
+        "summary": "Researchers say benefits of two-dose Shingrix vaccine could be comparable to taking daily blood pressure medicationThe current shingles vaccine appears to significantly lower the risk of heart attack and stroke, according to scientists who say it could help prevent thousands of deaths each year.The research, based on records of 70,000 people in the US, found that those who had received Shingrix had a",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/video/2026/aug/23/ebola-day-100-why-this-outbreak-could-become-deadliest-in-history-explainer",
-        "seendate": "2026-08-23T10:50:36.000Z",
+        "url": "https://www.theguardian.com/science/2026/aug/26/shingles-vaccine-lower-risk-heart-attack-stroke-study",
+        "seendate": "2026-08-26T09:00:39.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Sand overextraction weakening riverbanks as concrete demand soars",
+        "summary": "Research finds demand has more than doubled since 2000 and 80% of current demand comes from AsiaA booming demand for concrete has resulted in sand and gravel being extracted from riverbeds faster than nature can replenish it. A study published in Reviews of Geophysics shows that the demand for sand and gravel has more than double",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/aug/26/terrawatch-sand-overextraction-riverbanks-concrete-demand",
+        "seendate": "2026-08-26T05:00:35.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Dogs blink more often when they see owners blinking, study finds",
+        "summary": "Scientists say research suggests blinking may have acquired a social relevance in interactions between dogs and peopleStare into a dog’s eyes and you may encounter a bemused expression. But researchers have found that dogs blink more often when they see their owners doing so, suggesting there may be more to the mutual gaze than meets the eye.Scientists have previously found that dogs <a href=\"https:/",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/aug/26/dogs-blink-more-often-owners-blinking-study",
+        "seendate": "2026-08-25T23:01:27.000Z",
         "domain": "theguardian.com"
       },
       {
@@ -399,27 +415,11 @@ window.NEWS_CACHE = {
         "domain": "theguardian.com"
       },
       {
-        "title": "Artemis II crew to receive top US space medal for historic lunar journey",
-        "summary": "Reid Wiseman, Victor Glover, Christina Koch and Jeremy Hansen broke record for farthest distance traveled from EarthThe crew of the historic Artemis II lunar flyby mission have earned the US’s top space medal, officials have announced.Cmdr Reid Wiseman, pilot Victor Glover, and mission specialists Christina Koch and Jeremy Hansen are set to",
+        "title": "Ebola day 100: why this outbreak could become the deadliest in history – video explainer",
+        "summary": "More than 2,000 people have died from Ebola in the Democratic Republic of the Congo since the first case of this epidemic was recorded in May. The Guardian's global health correspondent, Kat Lay, spoke to CDC Africa's Yap Boum II to understand why health teams on the ground are struggling and what is being put in place to try to contain the spread<a href=\"https://www.theguardian.com/world/2026/aug/1",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/aug/23/artemis-ii-crew-top-us-space-medal",
-        "seendate": "2026-08-23T10:00:30.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Python named Jodie Foster first snake to receive pioneering cancer treatment",
-        "summary": "Chester zoo resident, 23, ‘back to her usual feisty self’ after electrochemotherapy for tumour in her jawA 15ft (4.5-metre) python is believed to be the first snake in the world to be given a pioneering, life-saving cancer treatment normally used on humans.The 50kg reticulated python, named Jodie Foster after the Hollywood star, has just turned 23 and lives at Chester zoo. Keepers first became concer",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/aug/21/python-jodie-foster-snake-cancer-electrochemotherapy",
-        "seendate": "2026-08-21T04:00:25.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "The threatening thaw: climate professor on heatwave risks to tipping point of permafrost",
-        "summary": "Prof Gustaf Hugelius warns wildfires could accelerate release of methane and carbon as vast regions approach irreversible thresholdsHeatwaves and wildfires are not just scorching forests, they are adding to the tipping point risks in the world’s vast permafrost regions, which contain three times more carbon than all the living vegetation on Earth.This is a major concern for Gustaf Hugelius, a profess",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/2026/aug/20/tipping-points-heatwaves-wildfires-permafrost-climate-crisis",
-        "seendate": "2026-08-20T04:00:43.000Z",
+        "url": "https://www.theguardian.com/world/video/2026/aug/23/ebola-day-100-why-this-outbreak-could-become-deadliest-in-history-explainer",
+        "seendate": "2026-08-23T10:50:36.000Z",
         "domain": "theguardian.com"
       }
     ]
