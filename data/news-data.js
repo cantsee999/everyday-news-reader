@@ -1,8 +1,16 @@
 window.NEWS_CACHE = {
-  "generatedAt": "2026-08-28T06:24:51.349Z",
+  "generatedAt": "2026-08-29T03:56:37.981Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
+      {
+        "title": "Egyptian queen’s 673-diamond necklace stolen in Vienna smash-and-grab raid",
+        "summary": "Police hunt two suspects after historic 200-carat piece is snatched from Austrian museum during opening hoursAustrian police are hunting two men alleged to have stolen a 200-carat platinum necklace encrusted with 673 diamonds that was on loan to a museum in Vienna and once belonged to Egyptian royalty.Authorities in the capital released <a href=\"https://www.polizei.gv.at/wien/lpd/fahndung/fahndungd63",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/artanddesign/2026/aug/28/egyptian-queen-diamond-necklace-stolen-vienna-raid",
+        "seendate": "2026-08-28T14:46:25.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "What could Meta’s US settlement mean around the world – and what now for other claims against firm?",
         "summary": "Other governments could seek similar concessions, while separate legal action is pending in places ranging from Kenya to the NetherlandsIn October 2021, Abrham Meareg’s father, a professor of chemistry in Ethiopia’s northern town of Bahir Dar, was shot at close range and died outside his family home. This was in the middle of the country’s civil war.For weeks, Facebook’s algorithm had actively promot",
@@ -33,19 +41,19 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/global-development/2026/aug/26/global-health-mpox-outbreak-explainer-children",
         "seendate": "2026-08-26T11:00:12.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Moringa lattes and tigernut kebabs: the Ghanaians ‘taking back the power’ of their food",
-        "summary": "In Ghana, a grassroots movement is championing nutritious, homegrown, climate-resilient produce, rather than western importsAfter three years at catering school in Accra, Abiro Wisdom was certain of one thing – he did not want to go into catering. At least not the route that he might be expected to take. His course had prepared students for working in international hotels, focusing on French, Italian and Me",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/global-development/2026/aug/26/moringa-lattes-and-tigernut-kebabs-the-young-ghanaians-taking-back-the-power-of-their-food",
-        "seendate": "2026-08-26T09:00:39.000Z",
         "domain": "theguardian.com"
       }
     ],
     "conflict": [
       {
+        "title": "Egyptian queen’s 673-diamond necklace stolen in Vienna smash-and-grab raid",
+        "summary": "Police hunt two suspects after historic 200-carat piece is snatched from Austrian museum during opening hoursAustrian police are hunting two men alleged to have stolen a 200-carat platinum necklace encrusted with 673 diamonds that was on loan to a museum in Vienna and once belonged to Egyptian royalty.Authorities in the capital released <a href=\"https://www.polizei.gv.at/wien/lpd/fahndung/fahndungd63",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/artanddesign/2026/aug/28/egyptian-queen-diamond-necklace-stolen-vienna-raid",
+        "seendate": "2026-08-28T14:46:25.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "What could Meta’s US settlement mean around the world – and what now for other claims against firm?",
         "summary": "Other governments could seek similar concessions, while separate legal action is pending in places ranging from Kenya to the NetherlandsIn October 2021, Abrham Meareg’s father, a professor of chemistry in Ethiopia’s northern town of Bahir Dar, was shot at close range and died outside his family home. This was in the middle of the country’s civil war.For weeks, Facebook’s algorithm had actively promot",
         "source": "theguardian.com",
@@ -76,17 +84,33 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/global-development/2026/aug/26/global-health-mpox-outbreak-explainer-children",
         "seendate": "2026-08-26T11:00:12.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Moringa lattes and tigernut kebabs: the Ghanaians ‘taking back the power’ of their food",
-        "summary": "In Ghana, a grassroots movement is championing nutritious, homegrown, climate-resilient produce, rather than western importsAfter three years at catering school in Accra, Abiro Wisdom was certain of one thing – he did not want to go into catering. At least not the route that he might be expected to take. His course had prepared students for working in international hotels, focusing on French, Italian and Me",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/global-development/2026/aug/26/moringa-lattes-and-tigernut-kebabs-the-young-ghanaians-taking-back-the-power-of-their-food",
-        "seendate": "2026-08-26T09:00:39.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "economy": [
+      {
+        "title": "Detroit despairs as ‘insanity’ of Trump’s Canada trade war punishes city",
+        "summary": "Unpopular new policy comes as midterms loom and control of Congress could be decided by several Michigan racesEvery day $1bn worth of goods crosses the river dividing Detroit, Michigan, and Windsor, Ontario, two largely blue-collar US and Canadian cities that have come to act as one in the creation of North America’s auto industry.News this week o",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/aug/28/trump-canada-trade-war-detroit-michigan",
+        "seendate": "2026-08-28T11:00:56.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Fed chair says delivering ‘stable prices’ is central bank’s job as inflation persists",
+        "summary": "However, Kevin Warsh didn’t say if interest rates would change in coming months, as inflation remains stubbornThe US Federal Reserve is not done fighting high inflation, its chair, Kevin Warsh, said in his first major speech in the role on Friday, emphasizing that it was “the Fed’s job to deliver stable prices”.Warsh did not indicate",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/business/2026/aug/28/kevin-warsh-federal-reserve-inflation",
+        "seendate": "2026-08-28T15:48:57.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Ex-Barclays boss denies having sex with woman dressed as Snow White after Epstein emails",
+        "summary": "Jes Staley made comments to US lawmakers investigating his links to the convicted sex offenderThe former Barclays boss Jes Staley has denied having sex with a woman dressed as Snow White, after being questioned about an infamous email exchange about Disney princesses with Jeffrey Epstein.The comments were detailed in <a href=\"https://oversight.house.gov/release/oversight-committee-releases-jes-staley",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/business/2026/aug/27/jes-staley-denies-sex-snow-white-barclays",
+        "seendate": "2026-08-27T17:21:00.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "CEOs earn 614 times more than workers at US’s 100 lowest-paying corporations",
         "summary": "Analysis by Institute for Policy Studies found that between 2019 and 2025, CEO compensation increased 41.4%The average CEO of the US’s 100 largest, lowest-paying corporations earned 614 times more than their average worker last year, according to an analysis by the Institute for Policy Studies (IPS).IPS’s latest executive excess report ana",
@@ -102,33 +126,25 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/technology/2026/aug/26/meta-social-media-addiction-trial-settlement",
         "seendate": "2026-08-26T20:30:49.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Wiped out: US faces surging toilet paper prices amid trade war with Canada",
-        "summary": "Paper products among hardest-hit sectors after trade negotiations broke down, with 25-50% tariffs estimatedAre you a Canadian boycotting US products? We’d like to hear from youUsing the bathroom or having a cry is about to become more expensive for North Am",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/aug/26/paper-product-toilet-paper-tariffs-us-canada",
-        "seendate": "2026-08-26T10:00:41.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Bill Gates calls for ‘human-reserved’ jobs in face of AI takeover",
-        "summary": "In 6,000-word essay Microsoft co-founder also expresses concern governments not prepared for technology’s impact Business live – latest updatesBill Gates has called for “human-reserved” jobs in certain sectors to prevent AI replacing them, and expre",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/aug/26/bill-gates-human-reserved-jobs-ai-takeover",
-        "seendate": "2026-08-26T10:33:43.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Canada announces retaliatory tariffs on wide range of US goods",
-        "summary": "Ottawa’s ‘focused response’ to levies imposed by Donald Trump on Canadian products comes after trade talks collapsed last weekUS politics live – latest updatesCanada has announced it will impose tariffs on a wid",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/aug/25/canada-retaliatory-tariffs-on-range-of-us-goods",
-        "seendate": "2026-08-25T16:17:44.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "literature": [
+      {
+        "title": "Sophie, Standing There by Meg Mason review – a tale of literary obsession, with cameos from real-life authors",
+        "summary": "A heartbroken woman becomes fixated on a famous writer in this witty, touching follow-up to Sorrow and BlissThe protagonist of Meg Mason’s new book, the follow-up to the 2020 tragicomedy Sorrow and Bliss, is an invisible woman. She might well be standing there but you won’t notice her.",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/jul/28/sophie-standing-there-book-review-novel-author-meg-mason",
+        "seendate": "2026-08-28T09:23:34.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Children’s books roundup – the best new picture books and novels",
+        "summary": "Poetry with wonder and wit; a heartwarming tale for horse lovers; a portal to the future; a brilliant YA wartime romance and moreSmall Monster, Big Monster by Allan Sanders, Phaidon, £7.95Refriger",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/aug/28/childrens-books-roundup-the-best-new-picture-books-and-novels",
+        "seendate": "2026-08-28T11:00:55.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Kolkhoz by Emmanuel Carrère review – intricate portrait of an elite French family",
         "summary": "The author of The Adversary and Yoga unearths a history that includes the Nazis, Russia, and the Académie FrançaiseWhen Emmanuel Carrère’s mother, Hélène, died in 2023, at the age of 94, President Macron spoke at her memorial. She had been “perpetual secretary” of the&nbsp;Académie Française, in effect its head, and 200 people gathered at Les Invalides in Paris to pay tribute. Emmanuel’s father, Louis, was",
@@ -138,123 +154,139 @@ window.NEWS_CACHE = {
         "domain": "theguardian.com"
       },
       {
+        "title": "Tell us: what have you been reading this month?",
+        "summary": "We would like to hear about the books you’ve particularly enjoyed this monthAs part of The Guardian’s “what we’re reading” series, we would like to hear about the books you’ve particularly enjoyed this month.Have you read a book in recent weeks – fiction or non-fiction – that you’d recommend? Tell us all about it below. <a",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2022/feb/23/tell-us-what-have-you-been-reading-this-month",
+        "seendate": "2026-08-28T09:04:20.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "The Things We Never Say by Elizabeth Strout audiobook review – brilliant portrait of an existential crisis",
         "summary": "A teacher’s private anxieties are subtly combined with political events in this Booker-listed tale set in coastal MassachusettsArtie Dam is a much-loved history teacher from coastal Massachusetts famed for his white socks and old sneakers and who sees a growing hopelessness in his young students. Not only are they dispirited by the state of the world, but they also believe they won’t be able to achieve thei",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/books/2026/aug/27/the-things-we-never-say-elizabeth-strout-audiobook-review-no-man-is-an-island",
         "seendate": "2026-08-27T14:00:16.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Passage by Colin Thubron review – mortality and memory in a gem of a novel",
-        "summary": "A terminally ill woman makes a final trip to Egypt in an exquisitely wrought portrait of end-of-life reckoningVirginia Woolf said of Middlemarch that it is one of the few English novels written for grown-up people. In the shallow and infantilising age through which we are living, Colin Thubron dares to&nbsp;assume that his readers are adults. Passage is a very beautiful, very moving, authentic work of art.",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/aug/26/passage-by-colin-thubron-review-mortality-and-memory-in-a-gem-of-a-novel",
-        "seendate": "2026-08-26T06:00:36.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "The Great Dictator by Matthew Sweet review – the fabulous life of Barbara Cartland",
-        "summary": "A brilliant new biography that does its subject the favour of taking her seriously – even if few else didBarbara Cartland was famous for dictating her novels. With a pekingese clamped to her hot pink bosom she would lie back on a library couch and exhale a story about virginal girls taming wayward dukes, damaged airmen or misunderstood surgeons. Meanwhile Miss Savory, Mrs Smith or Mrs Morgan, picked for bei",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/aug/25/the-great-dictator-by-matthew-sweet-review-the-life-of-barbara-cartland",
-        "seendate": "2026-08-25T06:00:50.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Feminism for a World on Fire by Natasha Walter review – hope amid the hopelessness",
-        "summary": "A writer and activist links the climate crisis to battles for justice around the world in this vital bookIt has become increasingly difficult to change our minds, to question our own views or to find common ground with people we disagree with,&nbsp;all of which makes Natasha Walter’s new book both refreshing and&nbsp;exhilarating.In her ebullient 1998 debut The&nbsp;New&nbsp;Feminism, Walter hailed M",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/aug/25/feminism-for-a-world-on-fire-by-natasha-walter-review-hope-amid-the-hopelessness",
-        "seendate": "2026-08-25T08:00:52.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "entertainment": [
       {
-        "title": "‘I’m an ever-changing vessel’: Erykah Badu on defying definition, life as a birth and death doula and her first album in 11 years",
-        "summary": "Why do the Texan innovator’s records take so long to make? ‘It’s important to gather the data,’ she says: the death, dating and dopamine behind her exquisite comeback alongside the AlchemistErykah Badu needs the lights down low. The singer, producer, actor and registered doula shuffles into a private room at London’s Soho hotel and quietly asks for some changes to the atmosphere: lights dimmed, sof",
+        "title": "How Katseye became the world’s biggest girl group – while falling apart",
+        "summary": "Their raucous pop music has made Katseye the biggest girl band in two decades. Can they weather toxic fandom, critical pans and a dwindling member count?Before screenings of their new documentary, the members of Katseye appear in a video message to thank fans for their support. Their followers, Eyekons, have played a critical role in their rise to stardom, so it makes sense that <a href=\"https://www.youtube",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/music/2026/aug/28/erykah-badu-before-the-world-blows-interview",
-        "seendate": "2026-08-28T04:00:49.000Z",
+        "url": "https://www.theguardian.com/music/2026/aug/28/katseye-essay-kpop-wild-ep-manon-kpop-hybe-girl-group-pop",
+        "seendate": "2026-08-28T09:00:52.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Marketing meltdown: why has Andrew Garfield’s new film suddenly added Robin Hood?",
-        "summary": "Paul Greengrass drama The Uprising was supposed to be a historical epic about the Peasants’ Revolt of 1381 – but a strange new campaign has inserted a surprising figureNobody likes to have the full plot of a movie spoiled before they’ve even seen it. However, sometimes this can be taken to the extreme. Take the new Paul Greengrass movie, The Upri",
+        "title": "Rob Reiner’s son Jake gives first interview after parents’ deaths: ‘I will never understand why this happened’",
+        "summary": "Jake says his parents ‘never stopped helping’ his brother Nick, who has pleaded not guilty to murdering both of them at their Los Angeles homeJake Reiner has given his first interview since the killing of his parents, the film-maker Rob Reiner and his wife, Michele Singer Reiner, saying: “I will never understand why this happened.”Reiner, who directed films including The Princess Bride, This Is Spina",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/aug/27/andrew-garfield-the-uprising-movie-robin-hood",
-        "seendate": "2026-08-27T13:58:33.000Z",
+        "url": "https://www.theguardian.com/film/2026/aug/28/rob-reiner-son-jake-interview-parents-death",
+        "seendate": "2026-08-28T13:20:56.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Robert Carlyle: ‘When we did The Full Monty strip, the reaction from the crowd was terrifying’",
-        "summary": "The actor on which star he’d devour first on a lifeboat, why he prefers pigeons to dogs and how Trainspotting put the Scottish accent on the mapYou’re stranded on a lifeboat with Ewan McGregor, Ewen Bremner, Jonny Lee Miller, Kevin McKidd, Peter Mul",
+        "title": "The Witcher 3: Songs of the Past – Geralt of Rivia returns after a decade in the sun",
+        "summary": "Before The Witcher 4 arrives in 2028, CD Projekt Red is returning us to the world of The Witcher 3 for one last foray. Looks like wind’s still howlin’The game that graced us with Bathtub Geralt, The Witcher 3: Wild Hunt, arrived more than a decade ago. So it was a touch surprising this summer when developers CD Projekt Red announced",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/aug/27/robert-carlyle-interview-full-monty-strip",
-        "seendate": "2026-08-27T14:00:16.000Z",
+        "url": "https://www.theguardian.com/games/2026/aug/28/the-witcher-3-songs-of-the-past-geralt-of-rivia-returns-after-a-decade-in-the-sun",
+        "seendate": "2026-08-28T13:00:00.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘One with the dust’: how I survived Burning Man when everything went wrong",
-        "summary": "I was thrilled to finally experience the Nevada festival. But I underestimated how hardcore it was – and the life lessons it would bringI was naked in our tent at Burning Man last year when all hell broke loose. The 100km/h (62mph) gust wrenched our tent stakes from the ground – and me from my nap.I threw on a dress, fear coiling in my belly when I saw the midafternoon sky had turned dark. <a hre",
+        "title": "Memo to Ridley Scott: no one needs more Alien: Covenant movies – get the franchise back to stalk’n’slash",
+        "summary": "News that Scott is working on a follow-up to his maligned 2017 film leaves me worried the franchise has run out of shocksIf any science-fiction saga looked beyond recovery, it was the Alien franchise. For the 38 years that followed James Cameron’s Aliens, film-makers contrived to find every imaginable way of not making a good Alien film. They tried killing everyone the audience cared about before t",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/culture/ng-interactive/2026/aug/27/burning-man-festival-dust-storms",
-        "seendate": "2026-08-27T14:00:17.000Z",
+        "url": "https://www.theguardian.com/film/2026/aug/28/ridley-scott-alien-covenant-follow-up",
+        "seendate": "2026-08-28T11:44:48.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Yayoi Kusama’s psychedelic art was at its best when taken in high doses",
-        "summary": "With dots that dizzied the viewer, the giddy sensory overload of seeing the grandest installations of her octopuses and giant pumpkins was hard to resist• Yayoi Kusama, Japanese artist who became a global superstar, dies aged 97• <a href=\"https://www.theguardian.com/artanddesign/gallery/2026/aug/27/y",
+        "title": "Add to playlist: the spectral, fathoms-deep folksong of June McDoom and the week’s best new tracks",
+        "summary": "Rich harmonies mix with synth, harp and aquatic grace on the intriguing first single from the New York songwriter’s debut albumFrom New York, USARecommended if you like Jessica Pratt, Minnie Riperton, Cocteau TwinsUp next Debut LP Follow the Light released via Jagjaguwar on 16 OctoberIn Robert Silverberg’s 1973 sci-fi antholo",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/artanddesign/2026/aug/27/yayoi-kusama-art",
-        "seendate": "2026-08-27T11:14:17.000Z",
+        "url": "https://www.theguardian.com/music/2026/aug/28/add-to-playlist-june-mcdoom-and-the-weeks-best-new-tracks",
+        "seendate": "2026-08-28T11:00:56.000Z",
         "domain": "theguardian.com"
       }
     ],
     "f1": [
       {
-        "title": "Max Verstappen's Red Bull Dutch GP race suit up for charity auction",
-        "summary": "Red Bull is auctioning a special-edition Max Verstappen race suit worn during the Dutch Grand Prix weekend, with 100% of the proceeds benefiting the Wings for Life charity.The auction, hosted via F1 Authentics, offers collectors the opportunity to acquire the race suit worn by the four-time champion at his final home grand prix at Zandvoort. The winning bidder will receive the suit ...<a class='more' hre",
+        "title": "James Vowles reveals Williams' \"huge number of projects\" to fix 2026 problems",
+        "summary": "Williams team principal James Vowles says the Grove outfit is running a \"huge number of projects\" to rectify development mistakes made last winter that are still compromising its 2026 campaign.Speaking in his post-race The Vowles Verdict debrief following a difficult Dutch Grand Prix, Vowles said the team is actively restructuring behind the scenes to address the causes of its current lack of ...<a class",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/max-verstappens-red-bull-dutch-gp-race-suit-up-for-charity-auction/10849979/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-27T21:12:01.000Z",
+        "url": "https://www.motorsport.com/f1/news/james-vowles-reveals-williams-huge-number-of-projects-to-fix-2026-problems/10850083/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-28T18:00:02.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Alex Albon opens up about burnout amid growing F1 demands",
-        "summary": "Alex Albon has opened up about his struggles with burnout during the 2025 Formula 1 season, admitting that the championship's increasing demands and relentless commercial schedule left him feeling severely drained.Speaking from Monaco just days after a frustrating early retirement at the Dutch Grand Prix, Albon discussed the challenges of balancing off-track commitments.Appearing on The ...<a class='",
+        "title": "Naomi Schiff points to Red Bull advantage after Dutch GP driver change",
+        "summary": "Red Bull's driver swap at the Dutch Grand Prix has renewed paddock discussions about two Formula 1 teams sharing the same ownership.Following a wrist fracture sustained by Red Bull driver Isack Hadjar ahead of the Zandvoort race weekend, the Milton Keynes outfit called up Liam Lawson from sister team Racing Bulls to take his place alongside Max Verstappen.To fill the resulting vacancy at ...<a class=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/alex-albon-opens-up-about-burnout-amid-growing-f1-demands/10849812/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-27T19:00:03.000Z",
+        "url": "https://www.motorsport.com/f1/news/naomi-schiff-points-to-red-bull-advantage-after-dutch-gp-driver-change/10850177/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-28T14:42:16.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Mercedes 'have got a problem' if McLaren form continues, says Alex Brundle",
-        "summary": "Alex Brundle has warned that Mercedes could have a major \"problem on their hands\" if McLaren carries its race-winning Dutch Grand Prix form into Monza and beyond.Lando Norris secured his second consecutive victory of the 2026 Formula 1 season at Zandvoort. Armed with recent car upgrades, the McLaren driver overcame a chaotic race to beat the Mercedes drivers, Kimi Antonelli and George ...<a class='more'",
+        "title": "Ferrari to deliver upgraded F1 engine at Italian GP",
+        "summary": "Ferrari will use its ADUO-permitted upgrade on its engine for the Formula 1 Italian Grand Prix, while also bringing aerodynamic updates and track-specific parts for its home round.Following reliability checks and the announcement of Ferrari being over 4% behind on the Additional Development and Upgrade Opportunities (ADUO) benchmark – and therefore permitted to two upgrades this season – ...<a class='mor",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/mercedes-have-got-a-problem-if-mclaren-form-continues-says-alex-brundle/10849754/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-27T17:00:03.000Z",
+        "url": "https://www.motorsport.com/f1/news/f1-ferrari-commits-to-new-aduo2-upgraded-067-6-engine-for-monza/10850142/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-28T13:31:21.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Lando Norris announces new Prime Video docuseries with \"more access than ever before\"",
-        "summary": "Reigning Formula 1 champion Lando Norris has announced a new three-part documentary series on Prime Video, scheduled for release in 2027.The project, currently carrying the working title Lando, is being produced by Box to Box Films - the London-based production company behind Netflix's Formula 1: Drive to Survive.While the series will track Norris's current 2026 campaign as he defends his ...<a class",
+        "title": "Kimi Antonelli reveals special Mercedes gesture after maiden F1 win",
+        "summary": "Mercedes driver Kimi Antonelli has revealed the team allowed him to keep the original winner's trophy from his maiden Formula 1 victory.Speaking to GQ Magazine in a 10 Things F1 Driver Kimi Antonelli Can’t Live Without feature, the Italian showed the original trophy he received on the podium following his breakthrough win at the 2026 Chinese Grand Prix. In F1, it is standard practice ...<a class='mor",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/lando-norris-announces-new-prime-video-docuseries-with-more-access-than-ever-before/10849912/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-27T15:53:00.000Z",
+        "url": "https://www.motorsport.com/f1/news/kimi-antonelli-reveals-special-mercedes-gesture-after-maiden-f1-win/10850140/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-28T13:12:52.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Fred Vasseur identifies Ferrari's next target after \"stronger than Mercedes\" Zandvoort pace",
-        "summary": "The Formula 1 Dutch Grand Prix turned out to be a race in which Ferrari didn't manage to convert its strong race pace into the best possible outcome – which, according to team principal Fred Vasseur, was down to the team experiencing a difficult qualifying and not executing the race perfectly.With Lewis Hamilton and Charles Leclerc finishing right behind George Russell, Vasseur believes ...<a class='more",
+        "title": "Sergio Perez: I want three more years with Cadillac",
+        "summary": "Sergio Perez reckons that he has \"maybe three more years\" before he reaches his sell-by date in Formula 1, and wants to devote that to helping the Cadillac project move forward.The Mexican found himself out of F1 at the end of 2024 when he was released by Red Bull, following a difficult campaign. This had its genesis in 2023; although Perez finished second in that season's championship, his ...<a class='",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/fred-vasseur-identifies-ferraris-next-target-after-stronger-than-mercedes-zandvoort-pace/10849900/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-27T15:46:36.000Z",
+        "url": "https://www.motorsport.com/f1/news/perez-i-want-three-more-years-with-cadillac/10849768/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-28T13:01:06.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
+      {
+        "title": "Path of Exile 2's first event league goes 'oops, all bosses' and reworks its worst mode so sane people can finally enjoy it",
+        "summary": "Forbidden Rites is a rerun of the action RPG's best league yet with some twists.",
+        "source": "pcgamer.com",
+        "url": "https://www.pcgamer.com/games/rpg/path-of-exile-2s-first-event-league-goes-oops-all-bosses-and-reworks-its-worst-mode-so-sane-people-can-finally-enjoy-it/",
+        "seendate": "2026-08-28T20:55:14.000Z",
+        "domain": "pcgamer.com"
+      },
+      {
+        "title": "Pulsar's new mouse is sliced in half to make it genuinely 'crazy-light'",
+        "summary": "'I swear it came like that,' I say as I chew through half a mouse.",
+        "source": "pcgamer.com",
+        "url": "https://www.pcgamer.com/hardware/gaming-mice/pulsars-new-mouse-is-sliced-in-half-to-make-it-genuinely-crazy-light/",
+        "seendate": "2026-08-28T13:56:54.000Z",
+        "domain": "pcgamer.com"
+      },
+      {
+        "title": "GTA 6 is adding a more nuanced version of Red Dead Redemption 2's honor system to ensure player characters aren't too 'all-powerful'",
+        "summary": "Careful when you're in Leonida, it's on sight.",
+        "source": "pcgamer.com",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-is-adding-a-more-nuanced-version-of-red-dead-redemption-2s-honor-system-to-ensure-player-characters-arent-too-all-powerful/",
+        "seendate": "2026-08-28T11:21:22.000Z",
+        "domain": "pcgamer.com"
+      },
+      {
+        "title": "Netflix is likely pleased as punch with the GTA 6 extended look, which more than doubled its web traffic",
+        "summary": "Done deal.",
+        "source": "pcgamer.com",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/netflix-is-likely-pleased-as-punch-with-the-gta-6-extended-look-which-more-than-doubled-its-web-traffic/",
+        "seendate": "2026-08-28T10:55:36.000Z",
+        "domain": "pcgamer.com"
+      },
       {
         "title": "The GTA 6 Netflix exclusive reveal is on YouTube now",
         "summary": "Watch 26 minutes of new Grand Theft Auto 6 footage.",
@@ -262,48 +294,32 @@ window.NEWS_CACHE = {
         "url": "https://www.pcgamer.com/games/action/gta-6-netflix-extended-look-youtube/",
         "seendate": "2026-08-28T01:01:46.000Z",
         "domain": "pcgamer.com"
-      },
-      {
-        "title": "GTA 6 gameplay reveal breakdown: A summary of all the details we spotted",
-        "summary": "We saw a lot of little tactical maneuvers for perpetrating crimes in disguise and escaping the cops too.",
-        "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-gameplay-reveal-details-breakdown/",
-        "seendate": "2026-08-27T21:23:08.000Z",
-        "domain": "pcgamer.com"
-      },
-      {
-        "title": "GTA 6 map is apparently 3 times larger than Red Dead Redemption 2's, twice as large as GTA 5's",
-        "summary": "Some YouTubers got an exclusive look at GTA 6 from Rockstar.",
-        "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-map-is-apparently-3-times-larger-than-red-dead-redemption-2-twice-as-large-as-gta-5/",
-        "seendate": "2026-08-27T21:16:35.000Z",
-        "domain": "pcgamer.com"
-      },
-      {
-        "title": "What do you think of the GTA 6 reveal?",
-        "summary": "Was the Netflix preview everything you’ve ever wanted, or a dud?",
-        "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/what-do-you-think-of-the-gta-6-reveal/",
-        "seendate": "2026-08-27T21:00:36.000Z",
-        "domain": "pcgamer.com"
-      },
-      {
-        "title": "The GTA 6 reveal has me wowed by Vice City and underwhelmed by Rockstar's same old missions",
-        "summary": "Looks like we're in for more Rockstar missions, for better and worse.",
-        "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/the-gta-6-reveal-has-me-wowed-by-vice-city-and-underwhelmed-by-rockstars-same-old-missions/",
-        "seendate": "2026-08-27T20:54:20.000Z",
-        "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
       {
-        "title": "UK expects Meta to match US child safety measures after $18bn settlement",
-        "summary": "Minister calls for Instagram owner to extend sweeping new safeguards for young users to BritainUK politics live – latest updates<a href=\"https://www.theguardian.com/business/live/2026/aug/27/asian-technology-shares-ride-high-a",
+        "title": "What could Meta’s US settlement mean around the world – and what now for other claims against firm?",
+        "summary": "Other governments could seek similar concessions, while separate legal action is pending in places ranging from Kenya to the NetherlandsIn October 2021, Abrham Meareg’s father, a professor of chemistry in Ethiopia’s northern town of Bahir Dar, was shot at close range and died outside his family home. This was in the middle of the country’s civil war.For weeks, Facebook’s algorithm had actively promot",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/aug/27/uk-meta-child-safety-measures-us-social-media-instagram",
-        "seendate": "2026-08-27T10:30:22.000Z",
+        "url": "https://www.theguardian.com/technology/2026/aug/28/meta-facebook-us-lawsuit-settlement-world-impact",
+        "seendate": "2026-08-28T04:00:48.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Pentagon’s blacklisting of Anthropic was unlawful, US judge rules",
+        "summary": "Anthropic ​argued designation as ‘supply-chain risk’ could cost billions ‌in lost business ‌and reputational harmA US judge ruled on Thursday that the Trump administration broke the law when it designated Anthropic as a supply chain risk earlier this year, finding that the government had unlawfully targeted the AI firm for refusing to comply with defense department demands.“The empty invocation of na",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/aug/28/us-court-rules-pentagon-anthropic-ban-illegal-trump-claude-ai",
+        "seendate": "2026-08-28T03:34:35.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Nicola Coughlan and Matt Lucas among stars backing campaign against AI voice cloning",
+        "summary": "About 80 people sign open letter to Andy Burnham calling for legislation to protect voice ownershipNicola Coughlan, Hugh Bonneville and Matt Lucas are among a group of actors backing a campaign against artificial intelligence voice cloning.Save Our Voices Now, which is also being supported by Luke Evans, Jen Brister, Siobhán McSweeney and Pearl Mackie, aims to stop the practice in which AI technology",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/aug/28/stars-back-campaign-against-ai-voice-cloning-nicola-coughlan-matt-lucas",
+        "seendate": "2026-08-28T07:15:00.000Z",
         "domain": "theguardian.com"
       },
       {
@@ -321,25 +337,33 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/commentisfree/2026/aug/27/meta-social-media-settlement-18bn-us-child-safety-big-tech-lawsuits",
         "seendate": "2026-08-27T13:11:16.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "AI slopper in chief: Trump turns to social media amid tough questions",
-        "summary": "As the US president struggles to end his Iran war, and approval ratings hit new lows, he leans on a familiar gambitDonald Trump knows the power of an image – of himself, with everyone from Vladimir Putin and <a href=\"https://www.theguardian.com/world/2019/feb/28/how-donald-trump-kim-jong-un-misread-each-other-ha",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/aug/27/trump-truth-social-ai-george-washington",
-        "seendate": "2026-08-27T10:00:12.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Three UK airports hit by cyber-attack with data of 8.7m customers accessed",
-        "summary": "Company that runs Manchester, Stansted and East Midlands hubs says passenger safety is unaffectedBusiness live – latest updatesManchester, London Stansted and East Midlands airports have been hit by a cyber-attack in whi",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/aug/27/uk-airports-operator-cyber-attack-customer-data-accessed",
-        "seendate": "2026-08-27T14:53:54.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "climate": [
+      {
+        "title": "Trump administration pushing to hand parcel of Yosemite land to private developer – report",
+        "summary": "Nevada-based Kingsbarn Realty Capital seeks to acquire land to construct private road to development outside parkThe Trump administration is reportedly pushing to give a parcel of land inside Yosemite, the country’s first national park and one of its most popular, to a Nevada-based",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/aug/28/yosemite-national-park-private-developer",
+        "seendate": "2026-08-28T18:38:45.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Louisiana gears up for first recreational alligator hunt in more than 50 years",
+        "summary": "State to offer up to 5,000 trappers chance to snare reptiles whose numbers have risen to 3m from fewer than 100,000The first recreational alligator hunt in Louisiana in more than half a century is about to commence in the swamps of that state, with up to 5,000 hopeful trappers facing strict rules in order to snare a reptile.The state’s fish and wildlife commission banned alligator hunting in 1962 to",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/aug/28/louisiana-alligator-hunt-recreational",
+        "seendate": "2026-08-28T15:16:46.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Trump rollback of US forest protections could accelerate extinction of 400 endangered species",
+        "summary": "Decision to rescind ‘roadless rule’ opens more than 45m acres of national forests to roads, drilling and loggingMore than 400 endangered animal and plant species could face accelerated extinction after the Donald Trump administration’s decision to rescin",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/aug/28/endangered-species-extinction-trump-forest-protections",
+        "seendate": "2026-08-28T12:00:58.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "El Niño climate patterns supercharged by burning of fossil fuels, study finds",
         "summary": "‘Godzilla’ event currently brewing could push 50 million people into acute hunger before the end of next yearA series of strong El Niño climatic patterns in recent decades, such as the “Godzilla” event currently brewing that is set to warp weather around the world, have been supercharged by the broader overheating of the planet caused by the burning of fossil fuels, a major new study has found.El Niñ",
@@ -355,33 +379,17 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/environment/2026/aug/27/new-jersey-vineland-datacenter-permits",
         "seendate": "2026-08-27T15:00:33.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "‘You can taste the ash’: surviving in America’s wildfire smoke capital",
-        "summary": "A magical corner of Oregon has the highest US rate of wildfire smoke deaths. How do residents live with the haze – and grief?Driving into the county, you can’t miss the sign.“IT’S THE CLIMATE”. Continue reading...",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/ng-interactive/2026/aug/26/oregon-wildfire-smoke-deaths",
-        "seendate": "2026-08-26T12:00:11.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Groups sue Trump’s EPA over fast-track approval of toxic datacenter chemicals",
-        "summary": "Exposure to two compounds approved can result in ‘sudden death’ and range of other serious health risks, lawsuit warnsThe Trump administration has approved two new datacenter chemicals to which exposure can result in “sudden death” and a range of other serious health risks, like cancer, eye corrosion, neurological damage and reproductive harm, a new lawsuit warns.The two compounds approved by the Env",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/aug/26/trump-epa-datacenter-forever-chemicals",
-        "seendate": "2026-08-26T11:00:12.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "‘132F’: meet the man calling out NYC’s infernally hot subway stations",
-        "summary": "Jack Klein takes heat readings, gives fans to overheated passengers and lugs big jugs of water into the stationsOn a recent August day in the subterranean furnace of New York City’s subway, one bearded, curly-haired man was studying his phone for different reasons than the other wilting passengers – to track the soaring temperatures and ponder how u",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/aug/26/new-york-subway-extreme-heat",
-        "seendate": "2026-08-26T10:00:41.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "science": [
+      {
+        "title": "‘So much fringe science’: RFK Jr’s advisers are pushing an extreme makeover in autism research",
+        "summary": "Experts warn the 336-page plan from RFK Jr’s advisers deflects federal dollars into unreliable alternative therapiesAutism groups and researchers have reacted with alarm to a federal research roadmap drawn up by advisers handpicked by the US health secretary, Robert F Kennedy Jr, fearing it will promote unproven fringe therapies at the expense of promising genetic research.A slew of scientific bodies",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/society/2026/aug/28/rfk-jr-autism-research",
+        "seendate": "2026-08-28T12:00:57.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "How to spot a psychopath: ‘It’s like the difference between a domestic cat and a wild cat’",
         "summary": "People with persistent predatory personalities cause an inordinate amount of pain. Recently, our shared understanding of them has grown – and it could help protect usThe classic checklist for psychopathy was developed in 1980 by Prof Robert Hare, who is still the recognised giant of the territory. The 20 traits, which ranged from pathological lying to a lack of empathy, were based entirely on prison populat",
@@ -412,14 +420,6 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/us-news/2026/aug/27/west-point-climate-scientist-fired",
         "seendate": "2026-08-27T14:15:02.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Near total lunar eclipse will be seen from North and South America Thursday night",
-        "summary": "Earth’s shadow will appear to be a reddish ‘blood moon’ due to the way sunlight is scattered by the atmosphereA near total lunar eclipse will be visible across large swathes of North and South America on Thursday night with millions of people expected to be able to see one of nature’s marvels.Lunar eclipses occur when Earth moves between the sun and the moon and its shadow is cast on to the lunar sur",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/aug/27/lunar-eclipse-north-south-america",
-        "seendate": "2026-08-27T12:13:02.000Z",
         "domain": "theguardian.com"
       }
     ]
