@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T03:56:37.981Z",
+  "generatedAt": "2026-08-30T00:52:25.362Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
@@ -88,11 +88,11 @@
     ],
     "economy": [
       {
-        "title": "Detroit despairs as ‘insanity’ of Trump’s Canada trade war punishes city",
-        "summary": "Unpopular new policy comes as midterms loom and control of Congress could be decided by several Michigan racesEvery day $1bn worth of goods crosses the river dividing Detroit, Michigan, and Windsor, Ontario, two largely blue-collar US and Canadian cities that have come to act as one in the creation of North America’s auto industry.News this week o",
+        "title": "‘If it’s made in the US, I don’t buy it’: Canadians on boycotting Trump’s America",
+        "summary": "Avoiding US goods and services – from tech to whisky to air travel – has forced many to find a new way of livingFor William McDonald, 38, a diesel mechanic from Thunder Bay, Ontario, “Canadian is always the first choice,” even if it means his weekly bills are higher.“As soon as Trump started putting those tariffs on in February [last year], I started boycotting US goods,” he said. “Avoiding American",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/aug/28/trump-canada-trade-war-detroit-michigan",
-        "seendate": "2026-08-28T11:00:56.000Z",
+        "url": "https://www.theguardian.com/business/2026/aug/29/if-its-made-in-the-us-i-dont-buy-it-canadians-on-boycotting-trumps-america",
+        "seendate": "2026-08-29T12:02:55.000Z",
         "domain": "theguardian.com"
       },
       {
@@ -130,6 +130,14 @@
     ],
     "literature": [
       {
+        "title": "How to make a bestseller: insiders reveal the tricks of the book trade",
+        "summary": "From cover design to shelf placement and influencer partnerships … how publishers will persuade you to buy their books this autumnThink about the last book you bought. How did you choose it? Was it from a recommendation, a review, a TikTok video? Did the cover grab you, were you swayed by the quotes on the front, or did you just happen to spot it on an appealing table as you walked into the shop? Did you th",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/ng-interactive/2026/aug/29/how-to-make-a-bestseller-insiders-reveal-the-tricks-of-the-book-trade",
+        "seendate": "2026-08-29T08:00:21.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Sophie, Standing There by Meg Mason review – a tale of literary obsession, with cameos from real-life authors",
         "summary": "A heartbroken woman becomes fixated on a famous writer in this witty, touching follow-up to Sorrow and BlissThe protagonist of Meg Mason’s new book, the follow-up to the 2020 tragicomedy Sorrow and Bliss, is an invisible woman. She might well be standing there but you won’t notice her.",
         "source": "theguardian.com",
@@ -159,14 +167,6 @@
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/books/2022/feb/23/tell-us-what-have-you-been-reading-this-month",
         "seendate": "2026-08-28T09:04:20.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "The Things We Never Say by Elizabeth Strout audiobook review – brilliant portrait of an existential crisis",
-        "summary": "A teacher’s private anxieties are subtly combined with political events in this Booker-listed tale set in coastal MassachusettsArtie Dam is a much-loved history teacher from coastal Massachusetts famed for his white socks and old sneakers and who sees a growing hopelessness in his young students. Not only are they dispirited by the state of the world, but they also believe they won’t be able to achieve thei",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/aug/27/the-things-we-never-say-elizabeth-strout-audiobook-review-no-man-is-an-island",
-        "seendate": "2026-08-27T14:00:16.000Z",
         "domain": "theguardian.com"
       }
     ],
@@ -214,85 +214,85 @@
     ],
     "f1": [
       {
-        "title": "James Vowles reveals Williams' \"huge number of projects\" to fix 2026 problems",
-        "summary": "Williams team principal James Vowles says the Grove outfit is running a \"huge number of projects\" to rectify development mistakes made last winter that are still compromising its 2026 campaign.Speaking in his post-race The Vowles Verdict debrief following a difficult Dutch Grand Prix, Vowles said the team is actively restructuring behind the scenes to address the causes of its current lack of ...<a class",
+        "title": "Guenther Steiner claims Mercedes has made George Russell's support role clear",
+        "summary": "Former Haas Formula 1 team principal Guenther Steiner believes Mercedes will have informed George Russell that his role for the remainder of the 2026 season is to support Kimi Antonelli's championship campaign.While Russell arrived at the season-opening Australian Grand Prix as a clear favourite for the 2026 drivers' title, his team-mate became the youngest driver to lead the standings after ...<a class=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/james-vowles-reveals-williams-huge-number-of-projects-to-fix-2026-problems/10850083/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-28T18:00:02.000Z",
+        "url": "https://www.motorsport.com/f1/news/guenther-steiner-claims-mercedes-has-made-george-russells-support-role-clear/10850431/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-29T17:00:02.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Naomi Schiff points to Red Bull advantage after Dutch GP driver change",
-        "summary": "Red Bull's driver swap at the Dutch Grand Prix has renewed paddock discussions about two Formula 1 teams sharing the same ownership.Following a wrist fracture sustained by Red Bull driver Isack Hadjar ahead of the Zandvoort race weekend, the Milton Keynes outfit called up Liam Lawson from sister team Racing Bulls to take his place alongside Max Verstappen.To fill the resulting vacancy at ...<a class=",
+        "title": "Audi F1 power unit facility branded \"second to none\" by Rob Smedley",
+        "summary": "Former Ferrari race engineer Rob Smedley has lauded Audi's Formula 1 power unit headquarters, declaring the German manufacturer's engine department as \"second to none\".Speaking on the High Performance Racing podcast alongside host Jake Humphrey and former Alpine team principal Otmar Szafnauer, Smedley evaluated the grid's progress in the first half of the season. While Audi has faced a ...<a class='m",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/naomi-schiff-points-to-red-bull-advantage-after-dutch-gp-driver-change/10850177/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-28T14:42:16.000Z",
+        "url": "https://www.motorsport.com/f1/news/audi-f1-power-unit-facility-branded-second-to-none-by-rob-smedley/10850522/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-29T16:18:28.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Ferrari to deliver upgraded F1 engine at Italian GP",
-        "summary": "Ferrari will use its ADUO-permitted upgrade on its engine for the Formula 1 Italian Grand Prix, while also bringing aerodynamic updates and track-specific parts for its home round.Following reliability checks and the announcement of Ferrari being over 4% behind on the Additional Development and Upgrade Opportunities (ADUO) benchmark – and therefore permitted to two upgrades this season – ...<a class='mor",
+        "title": "Sergio Perez \"had conversations\" with other F1 teams - but never thought of leaving Cadillac",
+        "summary": "Sergio Perez revealed that his management had held talks with other Formula 1 teams about a potential 2027 switch, but he wants to remain part of Cadillac to help drive the team forward.It had been rumoured that Perez's management team had been in discussions with Williams about a drive, should Carlos Sainz have elected to leave the team. Sainz then signed a multi-year extension with the Grove ...<a clas",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/f1-ferrari-commits-to-new-aduo2-upgraded-067-6-engine-for-monza/10850142/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-28T13:31:21.000Z",
+        "url": "https://www.motorsport.com/f1/news/perez-had-conversations-with-other-teams-but-never-thought-of-leaving-cadillac/10849772/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-29T16:00:04.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Kimi Antonelli reveals special Mercedes gesture after maiden F1 win",
-        "summary": "Mercedes driver Kimi Antonelli has revealed the team allowed him to keep the original winner's trophy from his maiden Formula 1 victory.Speaking to GQ Magazine in a 10 Things F1 Driver Kimi Antonelli Can’t Live Without feature, the Italian showed the original trophy he received on the podium following his breakthrough win at the 2026 Chinese Grand Prix. In F1, it is standard practice ...<a class='mor",
+        "title": "Isack Hadjar shares injury update as he targets Italian GP Red Bull return",
+        "summary": "Red Bull driver Isack Hadjar is \"hopeful\" that he will be able to return to the Formula 1 grid for the Italian Grand Prix after a wrist injury forced him to sit out the Dutch Grand Prix.Hadjar sustained the injury during the summer shutdown. Despite missing Zandvoort's final F1 race, the driver shared that he was \"healing fast\" while filming with the Milton Keynes outfit last weekend.While ...<a clas",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/kimi-antonelli-reveals-special-mercedes-gesture-after-maiden-f1-win/10850140/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-28T13:12:52.000Z",
+        "url": "https://www.motorsport.com/f1/news/isack-hadjar-shares-injury-update-as-he-targets-italian-gp-red-bull-return/10850494/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-29T15:11:42.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Sergio Perez: I want three more years with Cadillac",
-        "summary": "Sergio Perez reckons that he has \"maybe three more years\" before he reaches his sell-by date in Formula 1, and wants to devote that to helping the Cadillac project move forward.The Mexican found himself out of F1 at the end of 2024 when he was released by Red Bull, following a difficult campaign. This had its genesis in 2023; although Perez finished second in that season's championship, his ...<a class='",
+        "title": "Haas completes latest TPC test as focus on 2027 F1 driver line-up decision grows",
+        "summary": "Haas has completed its latest Testing of Previous Cars (TPC) run with Ryo Hirakawa, Leonardo Fornaroli and Rafael Camara in action, as focus on its 2027 Formula 1 driver line-up increases.With the 2027 F1 silly season picking up speed since the end of the summer break, Haas is one of the few teams to officially decide its driver line-up for next season.While Oliver Bearman looks assured ...<a class='",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/perez-i-want-three-more-years-with-cadillac/10849768/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-28T13:01:06.000Z",
+        "url": "https://www.motorsport.com/f1/news/haas-completes-latest-tpc-test-as-focus-on-2027-f1-driver-line-up-decision-grows/10850367/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-29T14:30:02.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "Path of Exile 2's first event league goes 'oops, all bosses' and reworks its worst mode so sane people can finally enjoy it",
-        "summary": "Forbidden Rites is a rerun of the action RPG's best league yet with some twists.",
+        "title": "A native port of Donkey Kong 64 is finally playable on PC thanks to a team of programmers who boast that 'no generative AI [was] used at any point in the process'",
+        "summary": "The unofficial native port of the classic Nintendo platformer runs on modern hardware.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/rpg/path-of-exile-2s-first-event-league-goes-oops-all-bosses-and-reworks-its-worst-mode-so-sane-people-can-finally-enjoy-it/",
-        "seendate": "2026-08-28T20:55:14.000Z",
+        "url": "https://www.pcgamer.com/games/action/donkey-kong-64-is-finally-playable-on-pc-thanks-to-a-team-of-programmers-who-boast-that-no-generative-ai-was-used-at-any-point-in-the-process/",
+        "seendate": "2026-08-29T21:51:34.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Pulsar's new mouse is sliced in half to make it genuinely 'crazy-light'",
-        "summary": "'I swear it came like that,' I say as I chew through half a mouse.",
+        "title": "Elden Ring players are hard at work putting the new Tarnished Edition DLC's gear to the test",
+        "summary": "Some poor bosses are getting \"the Matador treatment\".",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/hardware/gaming-mice/pulsars-new-mouse-is-sliced-in-half-to-make-it-genuinely-crazy-light/",
-        "seendate": "2026-08-28T13:56:54.000Z",
+        "url": "https://www.pcgamer.com/games/rpg/elden-ring-players-are-hard-at-work-putting-the-new-tarnished-edition-dlcs-new-gear-to-the-test/",
+        "seendate": "2026-08-29T20:17:04.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "GTA 6 is adding a more nuanced version of Red Dead Redemption 2's honor system to ensure player characters aren't too 'all-powerful'",
-        "summary": "Careful when you're in Leonida, it's on sight.",
+        "title": "Valve assures Deadlock players hungry for its next big update that it will notify them, 'or order a ton of pizza', when it's ready",
+        "summary": "Yoshi said to expect the new big update by the end of September.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-is-adding-a-more-nuanced-version-of-red-dead-redemption-2s-honor-system-to-ensure-player-characters-arent-too-all-powerful/",
-        "seendate": "2026-08-28T11:21:22.000Z",
+        "url": "https://www.pcgamer.com/games/moba/valve-assures-deadlock-players-hungry-for-its-next-big-update-that-it-will-notify-them-or-order-a-ton-of-pizza-when-its-ready/",
+        "seendate": "2026-08-29T18:44:53.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Netflix is likely pleased as punch with the GTA 6 extended look, which more than doubled its web traffic",
-        "summary": "Done deal.",
+        "title": "The Long Dark will get new DLC again as studio shifts devs away from the sequel to survive an 'uncertain' industry: 'We have to adapt to this'",
+        "summary": "Blackfrost's early access release won't make it this year after all.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/netflix-is-likely-pleased-as-punch-with-the-gta-6-extended-look-which-more-than-doubled-its-web-traffic/",
-        "seendate": "2026-08-28T10:55:36.000Z",
+        "url": "https://www.pcgamer.com/games/survival-crafting/the-long-dark-will-get-new-dlc-again-as-studio-shifts-devs-away-from-the-sequel-to-survive-an-uncertain-industry-we-have-to-adapt-to-this/",
+        "seendate": "2026-08-29T17:35:45.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "The GTA 6 Netflix exclusive reveal is on YouTube now",
-        "summary": "Watch 26 minutes of new Grand Theft Auto 6 footage.",
+        "title": "Modern gamers spoiled by Steam will never understand the joy of a MegaPak",
+        "summary": "A requiem for the early days of budget PC gaming.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/action/gta-6-netflix-extended-look-youtube/",
-        "seendate": "2026-08-28T01:01:46.000Z",
+        "url": "https://www.pcgamer.com/games/modern-gamers-spoiled-by-steam-will-never-understand-the-joy-of-a-megapak/",
+        "seendate": "2026-08-29T17:00:00.000Z",
         "domain": "pcgamer.com"
       }
     ],
@@ -341,8 +341,32 @@
     ],
     "climate": [
       {
+        "title": "Fire in California’s Big Sur region doubles in size overnight, forcing evacuations",
+        "summary": "Plaskett fire has swept through more than 5,900 acres in Monterey county and remains un-contained, says Cal FireA fire in California’s Big Sur region doubled in size overnight, forcing the evacuation of nearby residents, in a coastal region where firefighters have battled another blaze for weeks.The Plaskett fire, which sparked on Tuesday, had swept through more than 5,900 acres (2,400 hectares) in M",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/aug/29/californias-wildfire-big-sur",
+        "seendate": "2026-08-29T23:51:26.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "‘The world needs to pay attention’: Nepalis and Tibetans in New York City respond to the Himalayan disaster",
+        "summary": "Half the world away, a Himalayan diaspora reacts in sorrow and pitches in to help victims in their home countriesGeeta Tamang was getting ready for bed when her aunts shared news that upended her world.“My aunts came into my room and told me what had happened,” said Tamang, a 24-year-old computer science student at Queens College. She lives in Jackson Heights, home to one of the largest Nepali and Ti",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/aug/29/new-york-nepal-tibet-disaster",
+        "seendate": "2026-08-29T13:43:05.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "US officials urge swimmers to be cautious amid surge in drowning deaths",
+        "summary": "Recent deadly water-related incidents amid heatwave leads National Park Service to issue water-safety remindersAs a heatwave continues to bake the western and central US, officials are urging swimmers to be cautious when seeking respite from the summer heat, especially amid a score of recent deadly water-related incidents.Each year, from April to September, drowning deaths rise nationwide, according",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/aug/29/us-swimmers-drowning-deaths-heatwave",
+        "seendate": "2026-08-29T12:00:28.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Trump administration pushing to hand parcel of Yosemite land to private developer – report",
-        "summary": "Nevada-based Kingsbarn Realty Capital seeks to acquire land to construct private road to development outside parkThe Trump administration is reportedly pushing to give a parcel of land inside Yosemite, the country’s first national park and one of its most popular, to a Nevada-based",
+        "summary": "Nevada-based Kingsbarn Realty Capital seeks to acquire land to construct private road to development outside parkThe Trump administration is reportedly pushing to give a parcel of land inside Yosemite, one of the country’s most popular national parks, to a Nevada-based private deve",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/us-news/2026/aug/28/yosemite-national-park-private-developer",
         "seendate": "2026-08-28T18:38:45.000Z",
@@ -354,30 +378,6 @@
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/us-news/2026/aug/28/louisiana-alligator-hunt-recreational",
         "seendate": "2026-08-28T15:16:46.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Trump rollback of US forest protections could accelerate extinction of 400 endangered species",
-        "summary": "Decision to rescind ‘roadless rule’ opens more than 45m acres of national forests to roads, drilling and loggingMore than 400 endangered animal and plant species could face accelerated extinction after the Donald Trump administration’s decision to rescin",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/aug/28/endangered-species-extinction-trump-forest-protections",
-        "seendate": "2026-08-28T12:00:58.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "El Niño climate patterns supercharged by burning of fossil fuels, study finds",
-        "summary": "‘Godzilla’ event currently brewing could push 50 million people into acute hunger before the end of next yearA series of strong El Niño climatic patterns in recent decades, such as the “Godzilla” event currently brewing that is set to warp weather around the world, have been supercharged by the broader overheating of the planet caused by the burning of fossil fuels, a major new study has found.El Niñ",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/2026/aug/27/el-nino-climate-patterns-fossil-fuels",
-        "seendate": "2026-08-27T18:00:34.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "One of east coast’s largest datacenters accused of ‘violating federal law’",
-        "summary": "Thermal drone footage shows a Microsoft-backed AI datacenter powering its operations with dozens of unpermitted generatorsThe largest planned AI datacenter in New Jersey is being accused of violating federal law after a visual investigation found the site running dozens of unpermitted gas-powered generators.Thermal drone footage captured by",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/2026/aug/27/new-jersey-vineland-datacenter-permits",
-        "seendate": "2026-08-27T15:00:33.000Z",
         "domain": "theguardian.com"
       }
     ],
