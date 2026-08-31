@@ -1,8 +1,16 @@
 window.NEWS_CACHE = {
-  "generatedAt": "2026-08-30T00:52:25.362Z",
+  "generatedAt": "2026-08-31T00:58:17.026Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
+      {
+        "title": "People fleeing Sudan civil war face ‘dire and deteriorating’ conditions in refuge city",
+        "summary": "More traumatised civilians are arriving every day at ‘shockingly overcrowded’ El Obeid and camps on its outskirtsHumanitarian conditions in the Sudanese city of El Obeid and two camps on its outskirts are dire and deteriorating, according to people on the ground, as civilians displaced by fighting between the Sudanese Armed Forces and Rapid Support Forces (RSF) militia continue to pour in from the surroundi",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/aug/30/humanitarian-crisis-worsening-refuge-civilians-sudan-el-obeid",
+        "seendate": "2026-08-30T06:00:48.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Egyptian queen’s 673-diamond necklace stolen in Vienna smash-and-grab raid",
         "summary": "Police hunt two suspects after historic 200-carat piece is snatched from Austrian museum during opening hoursAustrian police are hunting two men alleged to have stolen a 200-carat platinum necklace encrusted with 673 diamonds that was on loan to a museum in Vienna and once belonged to Egyptian royalty.Authorities in the capital released <a href=\"https://www.polizei.gv.at/wien/lpd/fahndung/fahndungd63",
@@ -33,19 +41,19 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/world/2026/aug/26/south-african-police-arrest-two-thai-men-smuggling-parrot-eggs",
         "seendate": "2026-08-26T15:09:58.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Mpox is back – and in new countries. How can this outbreak be contained?",
-        "summary": "The public health emergencies in 2022 and 2024 saw the virus reported in 145 countries, but in the new cases children appear particularly affectedA fresh outbreak of mpox in Guinea Bissau – the country’s first – means the virus formerly known as monkey pox is b",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/global-development/2026/aug/26/global-health-mpox-outbreak-explainer-children",
-        "seendate": "2026-08-26T11:00:12.000Z",
         "domain": "theguardian.com"
       }
     ],
     "conflict": [
       {
+        "title": "People fleeing Sudan civil war face ‘dire and deteriorating’ conditions in refuge city",
+        "summary": "More traumatised civilians are arriving every day at ‘shockingly overcrowded’ El Obeid and camps on its outskirtsHumanitarian conditions in the Sudanese city of El Obeid and two camps on its outskirts are dire and deteriorating, according to people on the ground, as civilians displaced by fighting between the Sudanese Armed Forces and Rapid Support Forces (RSF) militia continue to pour in from the surroundi",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/aug/30/humanitarian-crisis-worsening-refuge-civilians-sudan-el-obeid",
+        "seendate": "2026-08-30T06:00:48.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Egyptian queen’s 673-diamond necklace stolen in Vienna smash-and-grab raid",
         "summary": "Police hunt two suspects after historic 200-carat piece is snatched from Austrian museum during opening hoursAustrian police are hunting two men alleged to have stolen a 200-carat platinum necklace encrusted with 673 diamonds that was on loan to a museum in Vienna and once belonged to Egyptian royalty.Authorities in the capital released <a href=\"https://www.polizei.gv.at/wien/lpd/fahndung/fahndungd63",
         "source": "theguardian.com",
@@ -76,17 +84,17 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/world/2026/aug/26/south-african-police-arrest-two-thai-men-smuggling-parrot-eggs",
         "seendate": "2026-08-26T15:09:58.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Mpox is back – and in new countries. How can this outbreak be contained?",
-        "summary": "The public health emergencies in 2022 and 2024 saw the virus reported in 145 countries, but in the new cases children appear particularly affectedA fresh outbreak of mpox in Guinea Bissau – the country’s first – means the virus formerly known as monkey pox is b",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/global-development/2026/aug/26/global-health-mpox-outbreak-explainer-children",
-        "seendate": "2026-08-26T11:00:12.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "economy": [
+      {
+        "title": "Meet the gen Zers finding job opportunities teaching English abroad",
+        "summary": "Some young people are teaching in countries like South Korea as education funding is gutted and recent grads face a tough job market in their own countriesA year ago, Arianna Marie, 25, was struggling to control the students in her Florida elementary school classroom.She was living with her parents to save on rent and quickly feeling her passion for teaching dry up, even though it was her first job s",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/money/2026/aug/30/young-americans-teaching-abroad",
+        "seendate": "2026-08-30T11:00:56.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "‘If it’s made in the US, I don’t buy it’: Canadians on boycotting Trump’s America",
         "summary": "Avoiding US goods and services – from tech to whisky to air travel – has forced many to find a new way of livingFor William McDonald, 38, a diesel mechanic from Thunder Bay, Ontario, “Canadian is always the first choice,” even if it means his weekly bills are higher.“As soon as Trump started putting those tariffs on in February [last year], I started boycotting US goods,” he said. “Avoiding American",
@@ -118,17 +126,33 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/us-news/2026/aug/27/ceo-worker-pay-ratio-us-analysis",
         "seendate": "2026-08-27T11:00:13.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Meta agrees to major changes to Facebook and Instagram as it settles US trial over teen addiction for up to $18bn",
-        "summary": "US tech giant agrees to establish further protections for teens such as daily usage limits and blocks on night-time useMeta agreed to significant changes to its Instagram and Facebook apps in a settlement that ended a landmark",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/aug/26/meta-social-media-addiction-trial-settlement",
-        "seendate": "2026-08-26T20:30:49.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "literature": [
+      {
+        "title": "‘Who would dare take on Elizabeth Jane Howard’s fans?’ Louisa Young on reviving the Cazalet Chronicles",
+        "summary": "The author’s new trilogy continues her aunt’s beloved family saga. What would happen next to the sprawling cast of characters ... and could she pull it off? In the late 1980s Elizabeth Jane&nbsp;Howard was wondering what to write next. Jane, as&nbsp;she&nbsp;was always known, was&nbsp;at that time the author of&nbsp;seven novels. Her debut, The Beautiful Visit, had won the John&nbsp;Llewellyn Rhys prize in",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/aug/30/who-would-dare-take-on-elizabeth-jane-howards-fans-louisa-young-on-reviving-the-cazalet-chronicles",
+        "seendate": "2026-08-30T11:00:54.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Could this policy fix the care system and slash student debt at the same time?",
+        "summary": "Andy Burnham is in need of radical proposals. A ‘care first’ year in exchange for 50% off fees could be just what he needsThe UK’s social care sector is in crisis. Costs are spiralling, with many local councils forced to dedicate the vast majority of their budgets to it. At the same time, more and more families are seeing their savings disappear into the black hole of nursing home fees. With an ageing popul",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/aug/30/could-this-one-policy-fix-the-care-system-and-slash-student-debt-at-the-same-time",
+        "seendate": "2026-08-30T11:00:55.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Tom Gauld on the end of the summer books season – cartoon",
+        "summary": "Continue reading...",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/picture/2026/aug/30/tom-gauld-on-the-end-of-the-summer-books-season-cartoon",
+        "seendate": "2026-08-30T15:00:01.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "How to make a bestseller: insiders reveal the tricks of the book trade",
         "summary": "From cover design to shelf placement and influencer partnerships … how publishers will persuade you to buy their books this autumnThink about the last book you bought. How did you choose it? Was it from a recommendation, a review, a TikTok video? Did the cover grab you, were you swayed by the quotes on the front, or did you just happen to spot it on an appealing table as you walked into the shop? Did you th",
@@ -143,30 +167,6 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/books/2026/jul/28/sophie-standing-there-book-review-novel-author-meg-mason",
         "seendate": "2026-08-28T09:23:34.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Children’s books roundup – the best new picture books and novels",
-        "summary": "Poetry with wonder and wit; a heartwarming tale for horse lovers; a portal to the future; a brilliant YA wartime romance and moreSmall Monster, Big Monster by Allan Sanders, Phaidon, £7.95Refriger",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/aug/28/childrens-books-roundup-the-best-new-picture-books-and-novels",
-        "seendate": "2026-08-28T11:00:55.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Kolkhoz by Emmanuel Carrère review – intricate portrait of an elite French family",
-        "summary": "The author of The Adversary and Yoga unearths a history that includes the Nazis, Russia, and the Académie FrançaiseWhen Emmanuel Carrère’s mother, Hélène, died in 2023, at the age of 94, President Macron spoke at her memorial. She had been “perpetual secretary” of the&nbsp;Académie Française, in effect its head, and 200 people gathered at Les Invalides in Paris to pay tribute. Emmanuel’s father, Louis, was",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/aug/27/kolkhoz-by-emmanuel-carrere-review-intricate-portrait-of-an-elite-french-family",
-        "seendate": "2026-08-27T06:00:06.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Tell us: what have you been reading this month?",
-        "summary": "We would like to hear about the books you’ve particularly enjoyed this monthAs part of The Guardian’s “what we’re reading” series, we would like to hear about the books you’ve particularly enjoyed this month.Have you read a book in recent weeks – fiction or non-fiction – that you’d recommend? Tell us all about it below. <a",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2022/feb/23/tell-us-what-have-you-been-reading-this-month",
-        "seendate": "2026-08-28T09:04:20.000Z",
         "domain": "theguardian.com"
       }
     ],
@@ -214,90 +214,114 @@ window.NEWS_CACHE = {
     ],
     "f1": [
       {
-        "title": "Guenther Steiner claims Mercedes has made George Russell's support role clear",
-        "summary": "Former Haas Formula 1 team principal Guenther Steiner believes Mercedes will have informed George Russell that his role for the remainder of the 2026 season is to support Kimi Antonelli's championship campaign.While Russell arrived at the season-opening Australian Grand Prix as a clear favourite for the 2026 drivers' title, his team-mate became the youngest driver to lead the standings after ...<a class=",
+        "title": "Fernando Alonso \"saved\" Aston Martin after difficult Dutch GP weekend, says Guenther Steiner",
+        "summary": "Former Haas team principal Guenther Steiner believes Fernando Alonso is solely responsible for Aston Martin's points finish at the Dutch Grand Prix.Aston Martin arrived at Zandvoort with a highly anticipated power unit upgrade package from its engine partner Honda, following other major car upgrades in the form of a B-spec car at the Hungarian Grand Prix.Armed with the upgrades, Lance ...<a class='mo",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/guenther-steiner-claims-mercedes-has-made-george-russells-support-role-clear/10850431/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-29T17:00:02.000Z",
+        "url": "https://www.motorsport.com/f1/news/fernando-alonso-saved-aston-martin-after-difficult-dutch-gp-weekend-says-guenther-steiner/10850803/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-30T21:00:03.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Audi F1 power unit facility branded \"second to none\" by Rob Smedley",
-        "summary": "Former Ferrari race engineer Rob Smedley has lauded Audi's Formula 1 power unit headquarters, declaring the German manufacturer's engine department as \"second to none\".Speaking on the High Performance Racing podcast alongside host Jake Humphrey and former Alpine team principal Otmar Szafnauer, Smedley evaluated the grid's progress in the first half of the season. While Audi has faced a ...<a class='m",
+        "title": "Lando Norris discusses long-term McLaren future after committing to 2030",
+        "summary": "2025 Formula 1 champion Lando Norris says he would be \"proud\" to spend his entire F1 career with McLaren.The 26-year-old recently committed his future to the Woking outfit, signing a four-year contract extension that will keep him at the team until the end of the 2030 season.Speaking to Sky Sports about the possibility of racing into his 40s and remaining at McLaren for his whole career ...<a class='",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/audi-f1-power-unit-facility-branded-second-to-none-by-rob-smedley/10850522/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-29T16:18:28.000Z",
+        "url": "https://www.motorsport.com/f1/news/lando-norris-discusses-long-term-mclaren-future-after-committing-to-2030/10850725/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-30T17:00:03.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Sergio Perez \"had conversations\" with other F1 teams - but never thought of leaving Cadillac",
-        "summary": "Sergio Perez revealed that his management had held talks with other Formula 1 teams about a potential 2027 switch, but he wants to remain part of Cadillac to help drive the team forward.It had been rumoured that Perez's management team had been in discussions with Williams about a drive, should Carlos Sainz have elected to leave the team. Sainz then signed a multi-year extension with the Grove ...<a clas",
+        "title": "Carlos Sainz: Changes in drivers’ competitiveness could be down to F1 rules era",
+        "summary": "Carlos Sainz has theorised that Formula 1 drivers’ levels of competitiveness and performance swings have been dictated by the regulation changes.F1 underwent its biggest overhaul of rules last winter, with changes to both the chassis and engine, which moved grand prix racing away from ground-effects cars to active aero and a 50/50 balance between internal combustion and electrical ...<a class='more' href",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/perez-had-conversations-with-other-teams-but-never-thought-of-leaving-cadillac/10849772/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-29T16:00:04.000Z",
+        "url": "https://www.motorsport.com/f1/news/carlos-sainz-changes-in-drivers-competitiveness-could-be-down-to-f1-rules-era/10850413/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-30T14:30:02.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Isack Hadjar shares injury update as he targets Italian GP Red Bull return",
-        "summary": "Red Bull driver Isack Hadjar is \"hopeful\" that he will be able to return to the Formula 1 grid for the Italian Grand Prix after a wrist injury forced him to sit out the Dutch Grand Prix.Hadjar sustained the injury during the summer shutdown. Despite missing Zandvoort's final F1 race, the driver shared that he was \"healing fast\" while filming with the Milton Keynes outfit last weekend.While ...<a clas",
+        "title": "Ferrari faces Lewis Hamilton-Charles Leclerc management test after Dutch GP, says pundit",
+        "summary": "Former F1 TV pundit Will Buxton has questioned Ferrari's ability to handle the dynamic between seven-time champion Lewis Hamilton and Charles Leclerc.During an episode of the Up To Speed podcast following the Dutch Grand Prix, Buxton compared Ferrari's pitwall hesitation with Mercedes' quick team orders. While the Brackley outfit seamlessly orchestrated a position swap, Ferrari avoided issuing ...<a clas",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/isack-hadjar-shares-injury-update-as-he-targets-italian-gp-red-bull-return/10850494/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-29T15:11:42.000Z",
+        "url": "https://www.motorsport.com/f1/news/ferrari-faces-lewis-hamilton-charles-leclerc-management-test-after-dutch-gp-says-pundit/10850776/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-30T14:20:02.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Haas completes latest TPC test as focus on 2027 F1 driver line-up decision grows",
-        "summary": "Haas has completed its latest Testing of Previous Cars (TPC) run with Ryo Hirakawa, Leonardo Fornaroli and Rafael Camara in action, as focus on its 2027 Formula 1 driver line-up increases.With the 2027 F1 silly season picking up speed since the end of the summer break, Haas is one of the few teams to officially decide its driver line-up for next season.While Oliver Bearman looks assured ...<a class='",
+        "title": "Poor Red Bull comeback could have ended Liam Lawson's F1 career, says former F1 TV pundit",
+        "summary": "Formula 1 broadcaster Will Buxton has argued that Liam Lawson's career in the championship would likely have ended had he underperformed during his return to Red Bull at the Dutch Grand Prix.Red Bull driver Isack Hadjar was forced to sit out the race weekend at Zandvoort after sustaining a wrist injury during the summer break. As a result, Racing Bulls driver Lawson stepped up to the seat ...<a class='mo",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/haas-completes-latest-tpc-test-as-focus-on-2027-f1-driver-line-up-decision-grows/10850367/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-29T14:30:02.000Z",
+        "url": "https://www.motorsport.com/f1/news/poor-red-bull-comeback-could-have-ended-liam-lawsons-f1-career-says-former-f1-tv-pundit/10850767/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-08-30T13:59:03.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "A native port of Donkey Kong 64 is finally playable on PC thanks to a team of programmers who boast that 'no generative AI [was] used at any point in the process'",
-        "summary": "The unofficial native port of the classic Nintendo platformer runs on modern hardware.",
+        "title": "'Sidequests are almost my reason for doing videogames in the first place:' The dev behind one of the coolest upcoming RPGs says its word count is ballooning because they just love side stories so much",
+        "summary": "You won't see me complaining",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/action/donkey-kong-64-is-finally-playable-on-pc-thanks-to-a-team-of-programmers-who-boast-that-no-generative-ai-was-used-at-any-point-in-the-process/",
-        "seendate": "2026-08-29T21:51:34.000Z",
+        "url": "https://www.pcgamer.com/games/rpg/sidequests-are-almost-my-reason-for-doing-videogames-in-the-first-place-the-dev-behind-one-of-the-coolest-upcoming-rpgs-says-its-word-count-is-ballooning-because-they-just-love-side-stories-so-much/",
+        "seendate": "2026-08-30T22:24:56.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Elden Ring players are hard at work putting the new Tarnished Edition DLC's gear to the test",
-        "summary": "Some poor bosses are getting \"the Matador treatment\".",
+        "title": "A Star Wars Galaxies community server was allegedly hacked with AI assistance by a Reddit moderator harboring a primeval grudge",
+        "summary": "\"We’re obviously bothered by this, but there isn’t much we can do outside of being up front with all of you and staying focused on what makes Legends great.\"",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/rpg/elden-ring-players-are-hard-at-work-putting-the-new-tarnished-edition-dlcs-new-gear-to-the-test/",
-        "seendate": "2026-08-29T20:17:04.000Z",
+        "url": "https://www.pcgamer.com/games/mmo/a-star-wars-galaxies-community-server-was-allegedly-hacked-with-ai-assistance-by-a-reddit-moderator-harboring-a-primeval-grudge/",
+        "seendate": "2026-08-30T20:02:00.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Valve assures Deadlock players hungry for its next big update that it will notify them, 'or order a ton of pizza', when it's ready",
-        "summary": "Yoshi said to expect the new big update by the end of September.",
+        "title": "Star Wars Zero Company's permadeath makes it a better RPG than most RPGs, even though it's not really an RPG",
+        "summary": "Choice and consequence vs. death and consequence.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/moba/valve-assures-deadlock-players-hungry-for-its-next-big-update-that-it-will-notify-them-or-order-a-ton-of-pizza-when-its-ready/",
-        "seendate": "2026-08-29T18:44:53.000Z",
+        "url": "https://www.pcgamer.com/games/rpg/star-wars-zero-companys-permadeath-makes-it-a-better-rpg-than-most-rpgs-even-though-its-not-really-an-rpg/",
+        "seendate": "2026-08-30T19:14:12.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "The Long Dark will get new DLC again as studio shifts devs away from the sequel to survive an 'uncertain' industry: 'We have to adapt to this'",
-        "summary": "Blackfrost's early access release won't make it this year after all.",
+        "title": "Total War: Warhammer 40,000 wins best PC game at Gamescom",
+        "summary": "Previews of the grimdark strategy game are turning heads.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/survival-crafting/the-long-dark-will-get-new-dlc-again-as-studio-shifts-devs-away-from-the-sequel-to-survive-an-uncertain-industry-we-have-to-adapt-to-this/",
-        "seendate": "2026-08-29T17:35:45.000Z",
+        "url": "https://www.pcgamer.com/games/strategy/total-war-warhammer-40-000-wins-best-pc-game-at-gamescom/",
+        "seendate": "2026-08-30T18:57:09.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Modern gamers spoiled by Steam will never understand the joy of a MegaPak",
-        "summary": "A requiem for the early days of budget PC gaming.",
+        "title": "Thanks to a dedicated team 'art-directing' every single NPC, GTA 6 has over 10 times as many unique animations as GTA 5",
+        "summary": "Over 600,000.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/modern-gamers-spoiled-by-steam-will-never-understand-the-joy-of-a-megapak/",
-        "seendate": "2026-08-29T17:00:00.000Z",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/thanks-to-a-dedicated-team-art-directing-every-single-npc-gta-6-has-over-10-times-as-many-unique-animations-as-gta-5/",
+        "seendate": "2026-08-30T18:40:46.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
+      {
+        "title": "Sharp rise in incidents of AI escaping users’ control, research finds",
+        "summary": "Exclusive: Number of times AI lies, ignores instructions and pursues goals in harmful ways almost doubles in JulyIncidents of AIs escaping users’ control to lie, ignore instructions and pursue goals in harmful ways have hit a new high, according to research that also suggests the severity of deception and misalignment is worsening.Analysis of real-world loss of control incidents involving AI models f",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/aug/29/sharp-rise-in-incidents-of-ai-escaping-users-control-research-finds",
+        "seendate": "2026-08-29T06:00:20.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Faster, higher, funnier: what we learned from China’s robot games",
+        "summary": "Five-day showcase reveals leaps Beijing has made in humanoid tech, but also its limitations as US rivals come up from the rearWith exploding pelvises, enough comic pratfalls for a Buster Keaton show reel and the odd moment of ruthless violence, the World Humanoid Robot Games in Beijing gripped the world this week with an unsettling mixture of hilarity, trepidation and relief.The five-day showcase sta",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/29/hilarity-unease-and-relief-games-show-china-is-not-over-the-finish-line-in-humanoid-robot-race",
+        "seendate": "2026-08-29T05:00:19.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "UK risks falling behind in AI race without faster telecoms upgrades, say executives",
+        "summary": "Planning delays and slow 5G upgrades could leave the UK unable to cope with a surge in AI-related traffic The UK risks becoming a laggard in the global AI race as crucial telecoms upgrades to harness the technology fall behind rival nations, according to senior industry executives.The",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/aug/29/uk-risk-falling-behind-ai-telecoms-upgrades",
+        "seendate": "2026-08-29T06:00:19.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "What could Meta’s US settlement mean around the world – and what now for other claims against firm?",
         "summary": "Other governments could seek similar concessions, while separate legal action is pending in places ranging from Kenya to the NetherlandsIn October 2021, Abrham Meareg’s father, a professor of chemistry in Ethiopia’s northern town of Bahir Dar, was shot at close range and died outside his family home. This was in the middle of the country’s civil war.For weeks, Facebook’s algorithm had actively promot",
@@ -313,33 +337,33 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/technology/2026/aug/28/us-court-rules-pentagon-anthropic-ban-illegal-trump-claude-ai",
         "seendate": "2026-08-28T03:34:35.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Nicola Coughlan and Matt Lucas among stars backing campaign against AI voice cloning",
-        "summary": "About 80 people sign open letter to Andy Burnham calling for legislation to protect voice ownershipNicola Coughlan, Hugh Bonneville and Matt Lucas are among a group of actors backing a campaign against artificial intelligence voice cloning.Save Our Voices Now, which is also being supported by Luke Evans, Jen Brister, Siobhán McSweeney and Pearl Mackie, aims to stop the practice in which AI technology",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/aug/28/stars-back-campaign-against-ai-voice-cloning-nicola-coughlan-matt-lucas",
-        "seendate": "2026-08-28T07:15:00.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Cyborg cockroaches with tiny syringes designed to join search and rescue teams in major disasters",
-        "summary": "Giant burrowing cockroaches with added cameras and medical injectors are being tested as potential ‘first responders’ in earthquakesFollow our Australia news live blog for latest",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/aug/27/cockroaches-used-search-rescue-earthquakes-science-technology-australia",
-        "seendate": "2026-08-27T01:16:21.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "An $18bn settlement is a drop in the ocean for Meta – but the tide will still come for it | Chris Stokel-Walker",
-        "summary": "This week’s settlement without liability was pragmatic, but it doesn’t change the inevitability of further lawsuits around the world Not many people would count paying $18bn they didn’t expect to when they woke up that morning as a victory. Yet for Meta, the owners of Facebook and Instagram, the agreement wi",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/commentisfree/2026/aug/27/meta-social-media-settlement-18bn-us-child-safety-big-tech-lawsuits",
-        "seendate": "2026-08-27T13:11:16.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "climate": [
+      {
+        "title": "At least 15 people may be missing after flash flood in Arizona’s Grand Canyon",
+        "summary": "Dozens evacuated after flash-flood event near Bright Angel Canyon and Phantom Ranch, officials sayAt least 15 people may be missing or unaccounted for after a major flash flood swept through the Grand Canyon national park in Arizona on Saturday afternoon, according to the National Park Se",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/aug/30/grand-canyon-flash-flood-arizona-people-missing-evacuated",
+        "seendate": "2026-08-31T00:01:41.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "The datacenter backlash is bringing the entire political spectrum together – against big tech billionaires",
+        "summary": "The movement against datacenters is uniting Americans because they perfectly illustrate how a few individuals hold all the power to control decisions that affect our livesBryce Gustafson has been knocking on doors in Indiana for more than a decade. The lead organizer with Citizens Action Coalition (CAC), a consumer and environmental organization, he usually encounters a mix of reactions when he’s out canvas",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/ng-interactive/2026/aug/30/data-center-politics-democrats-republicans",
+        "seendate": "2026-08-30T16:08:17.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Flooding devastated swathes of Indiana but response is hampered by politics",
+        "summary": "Record inundations wrecked homes and took seven lives but Trump has not approved emergency aid and the state has cut funds for environmental agenciesIt’s been 10 days since the floodwater receded from Cambridge City’s main street and yet signs of disaster are all around.Abandoned cars, toilets and bathtubs are strewn across parks and side streets on a recent visit to the city. Garages have been lifte",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/aug/30/indiana-flooding-emergency-response",
+        "seendate": "2026-08-30T12:00:55.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Fire in California’s Big Sur region doubles in size overnight, forcing evacuations",
         "summary": "Plaskett fire has swept through more than 5,900 acres in Monterey county and remains un-contained, says Cal FireA fire in California’s Big Sur region doubled in size overnight, forcing the evacuation of nearby residents, in a coastal region where firefighters have battled another blaze for weeks.The Plaskett fire, which sparked on Tuesday, had swept through more than 5,900 acres (2,400 hectares) in M",
@@ -355,33 +379,33 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/world/2026/aug/29/new-york-nepal-tibet-disaster",
         "seendate": "2026-08-29T13:43:05.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "US officials urge swimmers to be cautious amid surge in drowning deaths",
-        "summary": "Recent deadly water-related incidents amid heatwave leads National Park Service to issue water-safety remindersAs a heatwave continues to bake the western and central US, officials are urging swimmers to be cautious when seeking respite from the summer heat, especially amid a score of recent deadly water-related incidents.Each year, from April to September, drowning deaths rise nationwide, according",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/aug/29/us-swimmers-drowning-deaths-heatwave",
-        "seendate": "2026-08-29T12:00:28.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Trump administration pushing to hand parcel of Yosemite land to private developer – report",
-        "summary": "Nevada-based Kingsbarn Realty Capital seeks to acquire land to construct private road to development outside parkThe Trump administration is reportedly pushing to give a parcel of land inside Yosemite, one of the country’s most popular national parks, to a Nevada-based private deve",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/aug/28/yosemite-national-park-private-developer",
-        "seendate": "2026-08-28T18:38:45.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Louisiana gears up for first recreational alligator hunt in more than 50 years",
-        "summary": "State to offer up to 5,000 trappers chance to snare reptiles whose numbers have risen to 3m from fewer than 100,000The first recreational alligator hunt in Louisiana in more than half a century is about to commence in the swamps of that state, with up to 5,000 hopeful trappers facing strict rules in order to snare a reptile.The state’s fish and wildlife commission banned alligator hunting in 1962 to",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/aug/28/louisiana-alligator-hunt-recreational",
-        "seendate": "2026-08-28T15:16:46.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "science": [
+      {
+        "title": "Researchers find Britain’s 11th-century ‘Conquest Man’ was Scandinavian – but did he land with the Norman army?",
+        "summary": "It’s ‘plausible’, though more likely the Humberside resident was one of many immigrants to Viking-controlled DanelawOne of the most consequential showdowns in the history of the British Isles, the Battle of Hastings is seen as the foundational event of the Anglo-Saxons’ conquest by their Norman enemy across the Channel.But researchers who have put flesh on the bones of one man who lived through the t",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/uk-news/2026/aug/30/11th-century-conquest-man-scandinavian-norman-army",
+        "seendate": "2026-08-30T07:00:49.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Artemis II astronauts receive nation's highest space honor for their successful moonshot",
+        "summary": "Reid Wiseman, Victor Glover, Christina Koch and Jeremy Hansen receive Congressional Space Medal of HonorThe Artemis II astronauts who flew around the moon in April received the US’s highest space honor on Friday.Donald Trump presented the Congressional Space Medal of Honor to the",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/aug/29/artemis-ii-astronauts-congressional-space-medal-of-honor",
+        "seendate": "2026-08-29T16:03:37.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Nasa space telescope launches after surviving Trump budget cuts",
+        "summary": "Searching for exoplanets and clues on planet formation, the Roman telescope begins million-mile journey from Florida launchpadA $4.3bn space telescope that Donald Trump tried to kill has lifted off from Florida as Nasa embarks on the next stage of its quest to unlock the secrets of the universe.The Nancy Grace Roman space telescope",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/aug/29/nasa-telescope-launch-nancy-grace-roman",
+        "seendate": "2026-08-30T12:05:31.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "‘So much fringe science’: RFK Jr’s advisers are pushing an extreme makeover in autism research",
         "summary": "Experts warn the 336-page plan from RFK Jr’s advisers deflects federal dollars into unreliable alternative therapiesAutism groups and researchers have reacted with alarm to a federal research roadmap drawn up by advisers handpicked by the US health secretary, Robert F Kennedy Jr, fearing it will promote unproven fringe therapies at the expense of promising genetic research.A slew of scientific bodies",
@@ -396,30 +420,6 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/science/2026/aug/27/how-to-spot-a-psychopath-its-like-the-difference-between-a-domestic-cat-and-a-wild-cat",
         "seendate": "2026-08-27T04:00:06.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Everyone hates datacentres. Do we really need them? - video",
-        "summary": "AI companies have promised us world-shifting technology. But there’s a cost: loud, unsightly datacentres that drain environmental resources. As the government pushes their rapid growth, can local communities do anything to push back? Madeleine Finlay speaks to the Guardian’s global technology reporter Aisha Down about the backlash to datacentres across the UK and around the world <a href=\"http",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/video/2026/aug/27/everyone-hates-datacentres-do-we-really-need-them-video",
-        "seendate": "2026-08-27T13:55:50.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "‘Sad moments ahead’: Kew Gardens to fell rare trees in race to save Victorian greenhouse",
-        "summary": "Horticulturalists begin moving and propagating plants before the rusty and warped Palm House begins renovation – but some are too tall to saveIt will be a gut-wrenching moment for the horticulturalists at Kew Gardens when some of the magnificent trees in the Palm House have to be felled.“There are some sad moments ahead,” said Palm House manager, Will Spoelstra, who knows all the plants inside the ca",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/aug/27/kew-gardens-london-palm-house-renovation-project",
-        "seendate": "2026-08-27T05:00:07.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "West Point’s only climate scientist fired after continuing to teach human causes of climate change",
-        "summary": "Adam Kalkstein compared administration’s order to trying to teach the law without mentioning the constitutionThe only climate scientist teaching at West Point, the US army’s military academy, was fired after he resisted an order to stop teaching about the human causes of the climate emergency, a lawsuit claims.Dr Adam Kalkstein, a civilian",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/aug/27/west-point-climate-scientist-fired",
-        "seendate": "2026-08-27T14:15:02.000Z",
         "domain": "theguardian.com"
       }
     ]
