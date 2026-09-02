@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T01:29:47.436Z",
+  "generatedAt": "2026-09-02T00:38:38.998Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
@@ -88,6 +88,14 @@
     ],
     "economy": [
       {
+        "title": "US trade regulator and 22 states accuse Amazon of taking $20bn with secret surcharges",
+        "summary": "FTC alleges in lawsuit that online retailer ‘secretly and systematically overcharged’ advertisers for yearsThe US’s main trade regulator and 22 states sued Amazon on Monday, alleging the online retailer “secretly and systematically overcharged” advertisers on Amazon.com.The Federal Trade Commission (FTC) said these practices led to higher co",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/aug/31/amazon-advertising-lawsuit",
+        "seendate": "2026-08-31T19:41:52.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "As US-Canada tensions flare, who’s calling the shots in Trump’s trade team?",
         "summary": "US trade representative Jamieson Greer has a level-headed reputation but commerce secretary Howard Lutnick and White House adviser Peter Navarro also have key rolesHaving reportedly read Victor Hugo’s Les Misérables, in French, during a military tour of duty in Iraq, Jamieson Greer considered himself an unlikel",
         "source": "theguardian.com",
@@ -104,31 +112,55 @@
         "domain": "theguardian.com"
       },
       {
+        "title": "Anthropic sued over alleged theft of ‘tens of thousands’ of songs",
+        "summary": "AI company faces multibillion dollar lawsuit over misuse of copyrighted songs to train Claude modelsAll AI wants for Christmas is a vast back catalogue of songs without paying for it, according to a multibillion-dollar lawsuit against the startup behind the Claude chatbot.Sony Music Publishing and Warner Chappell, music publishers who manage the copyright of songs on behalf of songwriters and compose",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/business/2026/aug/31/aanthropic-sued-alleged-theft-songs-ai-train-claude",
+        "seendate": "2026-08-31T12:42:05.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "AI could cause global economic downturn, Bank of England governor tells G20",
         "summary": "Andrew Bailey, in role as financial stability watchdog chief, warns advanced models risk destabilising systemThe Bank of England’s governor, Andrew Bailey, has joined the throng of figures warning about the global risks posed by the most advanced artificial intelligence technology.In a two-page letter sent to international finance ministers and central bank governors as part of his role as chair of t",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/business/2026/aug/31/advanced-frontier-ai-financial-stability-andrew-bailey-g20",
         "seendate": "2026-08-31T09:00:47.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "‘If it’s made in the US, I don’t buy it’: Canadians on boycotting Trump’s America",
-        "summary": "Avoiding US goods and services – from tech to whisky to air travel – has forced many to find a new way of livingFor William McDonald, 38, a diesel mechanic from Thunder Bay, Ontario, “Canadian is always the first choice,” even if it means his weekly bills are higher.“As soon as Trump started putting those tariffs on in February [last year], I started boycotting US goods,” he said. “Avoiding American",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/aug/29/if-its-made-in-the-us-i-dont-buy-it-canadians-on-boycotting-trumps-america",
-        "seendate": "2026-08-29T12:02:55.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Fed chair says delivering ‘stable prices’ is central bank’s job as inflation persists",
-        "summary": "However, Kevin Warsh didn’t say if interest rates would change in coming months, as inflation remains stubbornThe US Federal Reserve is not done fighting high inflation, its chair, Kevin Warsh, said in his first major speech in the role on Friday, emphasizing that it was “the Fed’s job to deliver stable prices”.Warsh did not indicate",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/aug/28/kevin-warsh-federal-reserve-inflation",
-        "seendate": "2026-08-28T15:48:57.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "literature": [
+      {
+        "title": "Anita Brookner by Hermione Lee review – an enigmatic literary great given her due",
+        "summary": "This exhaustive biography of the Booker winner brings her properly out of the shadows for the first time‘Dr Weiss, at forty, knew that her&nbsp;life had been ruined by literature.” The first fictional sentence Anita Brookner ever published, aged 53, in A Start in Life, certainly set a tone. If people have heard of Brookner today, Hermione Lee says, they imagine a lonely, cardiganed woman yearning for an abs",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/sep/01/anita-brookner-by-hermione-lee-review-an-enigmatic-literary-great-given-her-due",
+        "seendate": "2026-09-01T06:00:48.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Emily Wilson to retranslate the Odyssey from scratch",
+        "summary": "Wilson, whose 2017 English translation of Homer’s epic poem inspired Christopher Nolan’s box office hit, is revisiting it after criticising the film adaptationEmily Wilson, the first woman to translate Homer’s Odyssey into English, is to retranslate the ancient Greek epic poem from scratch less than a decade after the publication of her acclaimed version.The announcement comes after Wilson attracted",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/sep/01/emily-wilson-to-retranslate-the-odyssey-from-scratch-christopher-nolan",
+        "seendate": "2026-09-01T15:09:14.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Wendell Berry, US author, farmer and environmentalist, dies aged 92",
+        "summary": "Author and Kentucky native, who celebrated the farming world of his home state and warned of the excesses of industrial society, died at homeWendell Berry, the Kentucky-born author and agrarian whose poems, stories, novels and essays celebrated the farming communities of his native state and warned of the excesses and misjudgments of an industrial, commercialized society, has died aged 92.His daughte",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/sep/01/wendell-berry-us-author-dead",
+        "seendate": "2026-09-01T06:34:17.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Under Story by Chloe Benjamin review – this time-reversal melodrama is quantum hokum",
+        "summary": "A grieving couple who have lost their son find a way to a mirror universe where time runs backwards – but the narrative machinery is shonky and distractingThere is something farcical – grotesque, even – about life played in reverse. A child falling into a tree. A sandwich emerging from a mouth, bite by reconstituted bite. A doctor unstitching a wound. The world is strange in any order, but rewind helps us n",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/sep/01/under-story-by-chloe-benjamin-review-this-time-reversal-melodrama-is-quantum-hokum",
+        "seendate": "2026-09-01T08:00:49.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Switzy by Emma Cline review – this Booker-listed account of a man’s last days is profoundly moving",
         "summary": "Struggling with Alzheimer’s, the central character sets out on his final journey to a euthanasia clinicThe word “Alzheimer’s” never appears in Switzy, Emma Cline’s third novel, which arrives pre-endorsed as a Booker prize longlistee. But we can be certain that it is the disease afflicting its central character, David Hastings – certain in a way he finds it increasingly hard to be about&nbsp;anything.",
@@ -136,168 +168,152 @@
         "url": "https://www.theguardian.com/books/2026/aug/31/switzy-by-emma-cline-review-this-booker-listed-account-of-a-mans-last-days-is-profoundly-moving",
         "seendate": "2026-08-31T06:00:17.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "The Future Starts With Us by Gordon Brown review – the ex-PM’s recipe for beating populism",
-        "summary": "Global crises are tightly linked to how we treat each other at the local level, argues this optimistic book In times of crisis, there is one person to whom the left still turns for guidance.More than a decade and a half after leaving government, Gordon Brown has mellowed into the Labour party’s favourite wise elder; one who has never disappointed the faithful by going off to make a ton of money, rema",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/aug/31/the-future-starts-with-us-by-gordon-brown-review-the-ex-pms-recipe-for-beating-populism",
-        "seendate": "2026-08-31T08:00:19.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "‘Who would dare take on Elizabeth Jane Howard’s fans?’ Louisa Young on reviving the Cazalet Chronicles",
-        "summary": "The author’s new trilogy continues her aunt’s beloved family saga. What would happen next to the sprawling cast of characters ... and could she pull it off? In the late 1980s Elizabeth Jane&nbsp;Howard was wondering what to write next. Jane, as&nbsp;she&nbsp;was always known, was&nbsp;at that time the author of&nbsp;seven novels. Her debut, The Beautiful Visit, had won the John&nbsp;Llewellyn Rhys prize in",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/aug/30/who-would-dare-take-on-elizabeth-jane-howards-fans-louisa-young-on-reviving-the-cazalet-chronicles",
-        "seendate": "2026-08-30T11:00:54.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Could this policy fix the care system and slash student debt at the same time?",
-        "summary": "Andy Burnham is in need of radical proposals. A ‘care first’ year in exchange for 50% off fees could be just what he needsThe UK’s social care sector is in crisis. Costs are spiralling, with many local councils forced to dedicate the vast majority of their budgets to it. At the same time, more and more families are seeing their savings disappear into the black hole of nursing home fees. With an ageing popul",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/aug/30/could-this-one-policy-fix-the-care-system-and-slash-student-debt-at-the-same-time",
-        "seendate": "2026-08-30T11:00:55.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Tom Gauld on the end of the summer books season – cartoon",
-        "summary": "Continue reading...",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/picture/2026/aug/30/tom-gauld-on-the-end-of-the-summer-books-season-cartoon",
-        "seendate": "2026-08-30T15:00:01.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "entertainment": [
       {
-        "title": "Dolly Parton laid to rest in private Nashville funeral",
-        "summary": "The queen of country was interred next to her late husband in an intimate ceremony attended by close familyDolly Parton was laid to rest in a private ceremony in Nashville on Friday, her family has confirmed.The queen of country music, who died aged 80",
+        "title": "Todd Haynes and Wallace Shawn among signatories of letter backing Mark Ruffalo amid antisemitism charge",
+        "summary": "More than 170 Jewish artists, also including Joel Coen, Hannah Einbinder and Miranda July, have supported the actor after he criticized ParamountA collective of more than 170 prominent Jewish artists and academics – including Todd Haynes, <a href=\"http",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/music/2026/aug/31/dolly-parton-funeral",
-        "seendate": "2026-08-31T16:17:24.000Z",
+        "url": "https://www.theguardian.com/film/2026/sep/01/jewish-artist-support-mark-ruffalo-antisemitism",
+        "seendate": "2026-09-01T18:42:05.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Onslaught review – super soldier slasher doesn’t go hard enough",
-        "summary": "There’s a committed performance from a spunky Adria Arjona in the Guest director Adam Wingard’s decent B-movie but it’s missing some sharper weaponryThere’s something rather fascinating about an indie director who heads to the A-list before returning to their roots, a wider skillset and different perspective gained for better or worse. Working within a stricter system – the tiniest of choices being agreed u",
+        "title": "Emily Wilson to retranslate the Odyssey from scratch",
+        "summary": "Wilson, whose 2017 English translation of Homer’s epic poem inspired Christopher Nolan’s box office hit, is revisiting it after criticising the film adaptationEmily Wilson, the first woman to translate Homer’s Odyssey into English, is to retranslate the ancient Greek epic poem from scratch less than a decade after the publication of her acclaimed version.The announcement comes after Wilson attracted",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/aug/31/onslaught-movie-review-adria-arjona-adam-wingard",
-        "seendate": "2026-08-31T16:00:29.000Z",
+        "url": "https://www.theguardian.com/books/2026/sep/01/emily-wilson-to-retranslate-the-odyssey-from-scratch-christopher-nolan",
+        "seendate": "2026-09-01T15:09:14.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘The whistling on the theme tune? That’s Dickie Attenborough!’ Hayley Mills on Whistle Down the Wind",
-        "summary": "‘I’d just made two films in America. Shooting on a Lancashire farm was very different. There was mud everywhere – and we’d be eating dripping, jam butties and fried eggs in buns’Whistle Down the Wind was originally a novel written by my mother, Mary Hayley Bell, about three children living on a farm in Sussex. The children – loosely based on my sister Juliet, my brother Jonathan and myself – discover a man",
+        "title": "Summer box office 2026: what can we learn from the hits and misses?",
+        "summary": "It was a bumper season for Hollywood, almost back to pre-pandemic levels, with Tom Holland blockbusters winning out, but there was still a string of disappointmentsAs the world continued to burn and temperatures reached worrying highs, most of us decided to take refuge in the cinema this summer. It provided some relief for audiences, but even more so for the industry at large, with the season pushing past t",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/culture/2026/aug/31/whistle-down-the-wind-hayley-mills-attenborough",
-        "seendate": "2026-08-31T13:21:16.000Z",
+        "url": "https://www.theguardian.com/film/2026/sep/01/summer-movie-hits-misses",
+        "seendate": "2026-09-01T09:00:04.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘Sometimes you just need a good cry’: why Little Women is my feelgood movie",
-        "summary": "The latest in our series of writers highlighting their go-to comfort films is an ode to the teary 1994 adaptation of the classic novelI have an ongoing argument with some friends about how I refuse to watch Interstellar again, despite considering it a beautiful and well-crafted film. It’s just so sad, I tell them, even with its hopeful ending. A desperate, choking lump forms in my chest as soon as I hear th",
+        "title": "‘She inspired my proposal’: Readers on Yayoi Kusama",
+        "summary": "From wedding ceremonies to sunsets with pumpkins, even in urinals, Kusama’s work brought joy, mischief and inspiration to so manyI have always loved Yayoi Kusama’s work, and when I visited an exhibition of hers on a gap year in Sydney I was spellbound by her infinity mirror rooms. I immediately thought, despite being single at the time, this is a fantastic space to propose in. Fast forward around eight year",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/aug/31/little-women-1994-feelgood-movie",
-        "seendate": "2026-08-31T09:00:20.000Z",
+        "url": "https://www.theguardian.com/artanddesign/2026/sep/01/she-inspired-my-proposal-readers-on-yayoi-kusama",
+        "seendate": "2026-09-01T14:00:38.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Goodbye to Babylon Berlin, the 1920s TV drama that has eerily foreshadowed real-life politics",
-        "summary": "The long-running drama reaches Hitler’s rise to power in its final season as its creators reflect on the unsettling parallels between Weimar Germany and the present dayIt’s the global hit TV series that pulled audiences straight into the chaotic hedonism of 1920s Germany, dramatising the brilliance and brittleness of a newly built democratic system with unprecedented ambition.But in the 13 years that",
+        "title": "‘Led us down such a dark path’: documentary explores how 9/11 changed America",
+        "summary": "In Netflix film Turning Point: Generation 9/11, the lives of people forever impacted by the terrorist attack in 2001 are exploredTwenty-five years on, memory is giving way to history. Soon the US will cross the point where half its population were born after 11 September 2001 or were too young to remember the day that terrorists crashed planes in",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/aug/31/goodbye-to-babylon-berlin-the-1920s-tv-drama-that-has-eerily-foreshadowed-real-life-politics",
-        "seendate": "2026-08-31T06:00:18.000Z",
+        "url": "https://www.theguardian.com/film/2026/sep/01/9-11-documentary-netflix-turning-point",
+        "seendate": "2026-09-01T11:00:03.000Z",
         "domain": "theguardian.com"
       }
     ],
     "f1": [
       {
-        "title": "Kimi Antonelli reveals how he is staying grounded in 2026 F1 title fight",
-        "summary": "Current Formula 1 championship leader Kimi Antonelli has opened up about how he is keeping himself grounded in the 2026 title fight.In only his second season in F1, Antonelli became the youngest driver to lead the standings with back-to-back wins in China and Japan. Since then, he secured four more grand prix victories before the summer break and now finds himself thrown into the championship ...<a class",
+        "title": "Red Bull confirms hire of key Aston Martin engineer as Gianpiero Lambiase replacement",
+        "summary": "The Red Bull Formula 1 team has confirmed it has hired long-time Aston Martin engineer Tom McCullough to replace McLaren bound Gianpiero Lambiase as head of racing.Lambiase will join McLaren in 2028 to become its chief racing officer, reporting into team principal Andrea Stella. The Briton is currently serving a dual role at the team as Max Verstappen's race engineer, dovetailing those duties ...<a class",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/kimi-antonelli-reveals-how-he-is-staying-grounded-in-2026-f1-title-fight/10851086/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-31T19:00:03.000Z",
+        "url": "https://www.motorsport.com/f1/news/red-bull-confirms-hire-of-key-aston-martin-engineer-as-lambiase-replacement/10851422/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-01T17:39:38.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "George Russell \"has to win\" Italian GP to keep F1 title hopes alive, says former driver",
-        "summary": "Mercedes driver George Russell must secure a victory at the upcoming Italian Grand Prix to keep his championship ambitions alive, according to former Formula 1 driver Jolyon Palmer.Speaking on the F1 Nation podcast, Palmer assessed the title picture following a dramatic Dutch Grand Prix at Zandvoort. McLaren's Lando Norris took a commanding victory in the Netherlands ahead of the Mercedes duo ...<a class",
+        "title": "Pirelli unveils unique trophies for 2026 Italian Grand Prix",
+        "summary": "Pirelli has revealed the trophies for this weekend's Italian Grand Prix, continuing a multi-year partnership with the Pirelli HangarBicocca Museum of Contemporary Art, which is entering its sixth year.Created by the artist duo known as Vedovamazzei - Stella Scala and Simeone Crispino - the trophies are titled \"FRAGILE\". Made via a 3D printing process using nylon powder, the trophies are ...<a class='more",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/george-russell-has-to-win-italian-gp-to-keep-f1-title-hopes-alive-says-former-driver/10851171/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-31T18:43:52.000Z",
+        "url": "https://www.motorsport.com/f1/news/pirelli-unveils-unique-trophies-for-2026-italian-grand-prix/10851413/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-01T17:03:05.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Lewis Hamilton reveals Ferrari F40 restoration project after selling entire car collection",
-        "summary": "Lewis Hamilton has revealed that he has acquired a rare Ferrari F40, fulfilling a lifelong ambition of his.The seven-time champion shared the news alongside photos of the retro supercar undergoing what looks like an engine-out restoration.\"My very own F40. This is the car of my dreams and has been for as long as I can remember,\" Hamilton wrote. \"As a kid I dreamt of having one. When I ...<a class='mo",
+        "title": "McLaren to run rotating F1 rear wing in Italy, calls it H-wing",
+        "summary": "The McLaren Formula 1 team will introduce the H-Wing, its own version of the rotating rear wing, at this weekend's Italian Grand Prix at Monza.McLaren had been working on its own interpretation of the upside-down rear wing, which rotates 180 degrees between cornering mode and straight mode, for some time after seeing Ferrari introduce it during winter testing.Read Also:Formula ...<a class",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/lewis-hamilton-reveals-ferrari-f40-restoration-project-after-selling-entire-car-collection/10851153/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-31T17:36:30.000Z",
+        "url": "https://www.motorsport.com/f1/news/mclaren-to-run-rotating-rear-wing-in-italy-f1-calls-it-h-wing/10851399/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-01T16:19:26.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Lando Norris's 2026 F1 title hopes face crucial Monza test, says James Hinchcliffe",
-        "summary": "Former IndyCar Series driver and F1 TV analyst James Hinchcliffe says McLaren's performance at Monza will dictate whether Lando Norris can realistically challenge for the 2026 championship title.Norris will arrive at the Italian Grand Prix on the back of two consecutive wins at the Hungarian and Dutch Grands Prix. The victories and a third-place finish in the Dutch sprint race have narrowed ...<a class='",
+        "title": "Haas updates car for Monza as Oliver Bearman remains \"sceptical\" of VF-26 performance",
+        "summary": "After starting the 2026 Formula 1 season strongly, Haas admits that it has been overtaken and out-developed by its rivals this year. However, team boss Ayao Komatsu and driver Oliver Bearman both remain hopeful that it can catch back up with the pack “soon”.Haas has traditionally started the season strong, and continued this tradition in 2026 when it picked up points in the first three ...<a class='more'",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/lando-norriss-2026-f1-title-hopes-face-crucial-monza-test-says-james-hinchcliffe/10851144/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-31T17:08:22.000Z",
+        "url": "https://www.motorsport.com/f1/news/haas-car-updates-coming-soon-as-oliver-bearman-concedes-its-now-f1s-10th-best-team/10851288/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-01T15:59:05.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Guenther Steiner: Lewis Hamilton has chance of eighth title if Ferrari makes one call",
-        "summary": "Former Haas team principal Guenther Steiner believes Lewis Hamilton has a genuine, albeit small, chance of securing a record-breaking eighth Formula 1 championship in 2026, but insists Ferrari must throw its full support behind the Briton to make it happen.Speaking on The Red Flags Podcast, Steiner suggested that Ferrari team boss Fred Vasseur will soon need to implement strict team orders to ...<a class",
+        "title": "Rivals copying Ferrari F1 aero designs \"a good reward\" for Maranello",
+        "summary": "Ferrari team boss Fred Vasseur says rival teams copying its innovative Formula 1 designs is a \"good reward\" for Maranello.Ferrari came into the 2026 regulations cycle with a striking car, the SF-26, which featured a number of intriguing areas of innovation.At winter testing in Bahrain, the team attached a winglet to the structure behind the exhaust, internally dubbed Flick Tail Mode ...<a class='more",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/guenther-steiner-lewis-hamilton-has-chance-of-eighth-title-if-ferrari-makes-one-call/10851113/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-08-31T17:00:02.000Z",
+        "url": "https://www.motorsport.com/f1/news/rivals-copying-ferrari-f1-aero-designs-a-good-reward-for-maranello/10851332/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-01T13:00:03.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "One of Elden Ring's top sleuths has already unmasked its new DLC characters",
-        "summary": "You look familiar.",
+        "title": "Former id Software producer says the team faced the 'worst crunch' in the series' history on Doom: The Dark Ages – Revelations: 'There were days where I didn't see my son'",
+        "summary": "\"There were two months where I was working something like at least 12 hours every day.\"",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/rpg/one-of-elden-rings-top-sleuths-has-already-unmasked-its-new-dlc-characters/",
-        "seendate": "2026-08-31T22:07:30.000Z",
+        "url": "https://www.pcgamer.com/gaming-industry/former-id-software-producer-says-the-team-faced-the-worst-crunch-in-the-series-history-on-doom-the-dark-ages-revelations-there-were-days-where-i-didnt-see-my-son/",
+        "seendate": "2026-09-02T00:21:12.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "After the debacle of Cyberpunk 2077, CD Projekt says The Witcher 4 is already running on PC and consoles, promises 'it's going to run' on all target platforms",
-        "summary": "Sure, it's a low bar, but after the Cyberpunk 2077 fiasco you can understand why CD Projekt Red would want to make the point.",
+        "title": "Good reviews are a 'great relief,' says Blood of Dawnwalker director, as former CD Projekt coworkers line up to offer congratulations",
+        "summary": "Rebel Wolves' vampire RPG is holding an aggregate 83 score on Metacritic.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/the-witcher/after-the-debacle-of-cyberpunk-2077-cd-projekt-says-the-witcher-4-is-already-running-on-pc-and-consoles-promises-its-going-to-run-on-all-target-platforms/",
-        "seendate": "2026-08-31T21:43:46.000Z",
+        "url": "https://www.pcgamer.com/games/rpg/good-reviews-are-a-great-relief-says-blood-of-dawnwalker-director-as-former-cd-projekt-coworkers-line-up-to-offer-congratulations/",
+        "seendate": "2026-09-01T23:17:32.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "CD Projekt Red opens its 'Arasaka hardware archives' to help an indie dev whose gear was stolen during 1 of at least 4 Gamescom thefts",
-        "summary": "In a statement, Gamescom organizers said attendees \"are advised to insure equipment against theft.\"",
+        "title": "5 top tips from World of Warcraft housing creators for making amazing masterworks",
+        "summary": "Improve your housing game with advice from some of WoW's best home designers.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/cd-projekt-red-opens-its-arasaka-hardware-archives-to-help-an-indie-dev-whose-gear-was-stolen-during-1-of-at-least-4-gamescom-thefts/",
-        "seendate": "2026-08-31T20:42:45.000Z",
+        "url": "https://www.pcgamer.com/games/world-of-warcraft/5-top-tips-from-world-of-warcraft-housing-creators-for-making-amazing-masterworks/",
+        "seendate": "2026-09-01T22:54:49.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Some of WoW's hardest dungeons and raids have gotten just a bit easier—that's on purpose, developers say",
-        "summary": "\"People are a little bit more willing now to say, 'Well I'd like to try out tanking. I'd like to try out healing.'\"",
+        "title": "That Grand Theft Auto 6 exclusive reveal worked out pretty well for Netflix: It was the platform's biggest show last week",
+        "summary": "The GTA 6 reveal showcase pulled in more than 31 million views over just four days.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/world-of-warcraft/some-of-wows-hardest-dungeons-and-raids-have-gotten-just-a-bit-easier-thats-on-purpose-developers-say/",
-        "seendate": "2026-08-31T18:19:34.000Z",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/that-grand-theft-auto-6-exclusive-reveal-worked-out-pretty-well-for-netflix-it-was-the-platforms-biggest-show-last-week/",
+        "seendate": "2026-09-01T22:45:20.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Haunted Chocolatier's development has been 'very productive' in recent months, Eric Barone says: 'Working on Haunted Chocolatier is what I’m most eager and driven to do'",
-        "summary": "The Stardew developer says he's now \"certain\" he'll enjoy Haunted Chocolatier once it's finished.",
+        "title": "August was a milestone month if you love watching robots completely eat it",
+        "summary": "The World Robot Humanoid Games gave us more footage of malfunctioning robots than we know what to do with.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/life-sim/haunted-chocolatiers-development-has-been-very-productive-in-recent-months-eric-barone-says-working-on-haunted-chocolatier-is-what-im-most-eager-and-driven-to-do/",
-        "seendate": "2026-08-31T17:06:08.000Z",
+        "url": "https://www.pcgamer.com/hardware/august-was-a-milestone-month-if-you-love-watching-robots-completely-eat-it/",
+        "seendate": "2026-09-01T18:42:18.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
+      {
+        "title": "‘Not perfectly aligned’ with human values: Anthropic admits security failures behind AI hacking incidents",
+        "summary": "US owner of Claude chatbot previously said its models had hacked three organisations during testingThe US startup behind the Claude chatbot has admitted a series of hacking incidents involving its models reflected a “failure of operational security” and said it has tightened its testing procedures.Anthropic revealed",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/sep/01/anthropic-claude-ai-hacking-human-values",
+        "seendate": "2026-09-01T15:18:10.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Dyson launches £420 toothbrush that films ‘live cleaning footage’ inside your mouth",
+        "summary": "James Dyson says ‘complete dental system’ will also include toothpaste and mouth rinse that each cost £8.50It is the live stream you never wanted to see but may find impossible to resist: rolling footage beamed live from inside your mouth while you are cleaning your teeth.Dyson, the home appliance maker that made its name inventing bagless vacuums and bladeless fans, has turned its attention to oral",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/sep/01/dyson-toothbrush-camera-films-live-footage-inside-mouth",
+        "seendate": "2026-09-01T14:39:38.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Rise of Chicken Shop Date highlights how YouTube turned the tables on TV",
         "summary": "Amelia Dimoldenberg says publicists ignored her interview show for years but she can now be picky over A-list guestsJust a decade ago, Amelia Dimoldenberg found it impossible to drum up any mainstream celebrities to come on her mock date YouTube show, in which she chats awkwardly with guests over chicken and chips.Even persuading a",
@@ -321,67 +337,59 @@
         "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/29/hilarity-unease-and-relief-games-show-china-is-not-over-the-finish-line-in-humanoid-robot-race",
         "seendate": "2026-08-29T05:00:19.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "UK risks falling behind in AI race without faster telecoms upgrades, say executives",
-        "summary": "Planning delays and slow 5G upgrades could leave the UK unable to cope with a surge in AI-related traffic The UK risks becoming a laggard in the global AI race as crucial telecoms upgrades to harness the technology fall behind rival nations, according to senior industry executives.The",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/aug/29/uk-risk-falling-behind-ai-telecoms-upgrades",
-        "seendate": "2026-08-29T06:00:19.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "What could Meta’s US settlement mean around the world – and what now for other claims against firm?",
-        "summary": "Other governments could seek similar concessions, while separate legal action is pending in places ranging from Kenya to the NetherlandsIn October 2021, Abrham Meareg’s father, a professor of chemistry in Ethiopia’s northern town of Bahir Dar, was shot at close range and died outside his family home. This was in the middle of the country’s civil war.For weeks, Facebook’s algorithm had actively promot",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/aug/28/meta-facebook-us-lawsuit-settlement-world-impact",
-        "seendate": "2026-08-28T04:00:48.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "climate": [
       {
-        "title": "Two dead and at least 15 missing after flash flood in Grand Canyon",
-        "summary": "National Park Service confirms second death from weekend flash flood as area braces for more stormsA second death was confirmed by National Park Service officials on Monday after a flash flood sent a surge of water and d",
+        "title": "Hungry bears are wandering into US homes and shops in record numbers – video",
+        "summary": "Experts say more bears are wandering into human's homes and shops in search of food, due to drought-driven food shortages across the US west Continue reading...",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/aug/31/grand-canyon-storms-flash-flood",
-        "seendate": "2026-09-01T00:15:04.000Z",
+        "url": "https://www.theguardian.com/us-news/video/2026/sep/01/bears-wandering-west-colorado-homes-stores-food-shortage",
+        "seendate": "2026-09-01T18:16:40.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "How intense rains in the Grand Canyon turned into a deadly disaster",
-        "summary": "Flash flooding in Arizona tourist destination was likely triggered by compounding climate factors, such as drought and warming in Pacific OceanRemote Grand Canyon lodge hit by deadly flash flood boasts fabled historyA <a href=\"https://www.theguardian.com/us-news/2026/aug/31/grand-can",
+        "title": "Judge strikes down New York law that forced climate polluters to pay damages",
+        "summary": "State cannot enforce policy requiring oil firms to pay $75bn over 25 years for climate mitigation and adaptationA federal judge has struck down a landmark New York law that forces major polluters to pay climate damages.In her Monday ruling, Brenda Sannes, chief judge of the US district court for the northern district of New York, sided with Republican-led states and oil interests in saying the state",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/ng-interactive/2026/aug/31/grand-canyon-flash-flood-causes",
-        "seendate": "2026-08-31T22:02:05.000Z",
+        "url": "https://www.theguardian.com/us-news/2026/sep/01/judge-strikes-new-york-law-climate-polluters-damage-pay",
+        "seendate": "2026-09-01T16:11:11.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Remote Grand Canyon lodge hit by deadly flash flood boasts fabled history",
-        "summary": "Phantom Ranch, set up by Teddy Roosevelt, has welcomed exhausted hikers to its famed cabins for over a centuryTwo dead and at least 15 missing in Grand Canyon flash floodPhantom Ranch has been a solitary refuge visited by some of the most famous names of history. More typically, it’s been a",
+        "title": "US border patrol expected to aid Grand Canyon search for missing person",
+        "summary": "Nearly 80 people have been rescued, and two people confirmed dead, after flood hit national parkA US border patrol technical search team is expected to deploy in the Grand Canyon, as authorities continue the search for at least one missing person after a fatal flash flood washed through th",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/aug/31/grand-canyon-flash-flood-phantom-ranch",
-        "seendate": "2026-08-31T21:12:24.000Z",
+        "url": "https://www.theguardian.com/us-news/2026/sep/01/border-patrol-missing-person-grand-canyon-flood",
+        "seendate": "2026-09-01T14:19:17.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "US man says ‘hold tight’ to loved ones after wife and toddler killed by lightning",
-        "summary": "Kameron Glasgow of Florida honors wife Kenya and daughter Kennedi at local vigil after last week’s tragedyA Florida man whose wife and toddler daughter were killed by a lightning strike while he was near them recently has implored people to “hold …",
+        "title": "Forest Service chief faces scrutiny over logging ties as Trump plans to scrap protections",
+        "summary": "Rollback of ‘roadless rule’ expected to benefit companies US Forest Service chief, Tom Schultz, previously lobbied forDonald Trump this month announced plans to rescind a landmark rule that has protected old-growth forests in the US for 25 years. If finalized, the rollback is expected to benefit the companies that Tom Schultz, chief of the US Forest Service, represented in his previous roles as a timber ind",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/aug/31/florida-man-wife-daughter-killed-lightning",
-        "seendate": "2026-08-31T10:00:24.000Z",
+        "url": "https://www.theguardian.com/us-news/2026/sep/01/trump-roadless-rule-old-growth-forests",
+        "seendate": "2026-09-01T11:00:03.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "One dead and 15 people may be missing after flash flood in Arizona’s Grand Canyon",
-        "summary": "Dozens evacuated after flash-flood event near Bright Angel Canyon and Phantom Ranch, officials sayOne person died and about 15 people were missing or unaccounted for after a major flash flood swept through the Grand Canyon national park in Arizona on Saturday afternoon, according to the N",
+        "title": "Nepal’s glacial collapse foreshadowed a future of climate disaster | Michael Mann",
+        "summary": "The deluge capped a summer of extreme climate events, from deadly heatwaves to wildfires. We must take action nowFor millennia, the high peaks of the Himalayas were held together by an invisible, frozen cement – permafrost and glacial ice that bound ancient rock into seemingly unshakable fortresses. But as the planet continues to warm, this alpine glue is liquefying.The glacial collapse and deluge in",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/aug/30/grand-canyon-flash-flood-arizona-people-missing-evacuated",
-        "seendate": "2026-08-31T05:26:53.000Z",
+        "url": "https://www.theguardian.com/commentisfree/2026/sep/01/nepal-flooding-climate-disaster",
+        "seendate": "2026-09-01T09:00:05.000Z",
         "domain": "theguardian.com"
       }
     ],
     "science": [
+      {
+        "title": "Could humans ever communicate with whales? - video",
+        "summary": "Ever since the earliest known recording of whale song was made in 1949, researchers have been captivated by the wails, rumbles, clicks, grunts and squeals of their communication. As technology improves, scientists are decoding the intricate patterns that make di",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/video/2026/sep/01/could-humans-ever-communicate-with-whales-video",
+        "seendate": "2026-09-01T13:22:59.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Smelling test: children need education in sniffing aromas, scientist says",
         "summary": "Exclusive: Dr Will Tullett says better understanding of scents can improve wellbeing and perception of the worldChildren need a better education in sniffing aromas, a leading historian of smells has said, noting it may improve their wellbeing and help them understand the world around them.Dr Will Tullett, of the University of York, said pollution had been found to impair people’s olfactory abilities,",
@@ -412,14 +420,6 @@
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/uk-news/2026/aug/30/11th-century-conquest-man-scandinavian-norman-army",
         "seendate": "2026-08-30T07:00:49.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Artemis II astronauts receive nation's highest space honor for their successful moonshot",
-        "summary": "Reid Wiseman, Victor Glover, Christina Koch and Jeremy Hansen receive Congressional Space Medal of HonorThe Artemis II astronauts who flew around the moon in April received the US’s highest space honor on Friday.Donald Trump presented the Congressional Space Medal of Honor to the",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/aug/29/artemis-ii-astronauts-congressional-space-medal-of-honor",
-        "seendate": "2026-08-29T16:03:37.000Z",
         "domain": "theguardian.com"
       }
     ]
