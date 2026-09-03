@@ -1,8 +1,24 @@
 window.NEWS_CACHE = {
-  "generatedAt": "2026-09-02T00:38:38.998Z",
+  "generatedAt": "2026-09-03T00:48:32.494Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
+      {
+        "title": "New constitution in Guinea-Bissau will undermine democracy, opponents say",
+        "summary": "Referendum result means fewer seats in parliament and new rules on candidates, ahead of December electionsGuinea-Bissau voters have approved a new constitution, which critics say will undermine democracy, that significantly expands presidential powers ahead of elections due in December.According to provisional results, 70% of voters approved sweeping changes in the tiny west African state’s first con",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/sep/02/guinea-bissau-voters-approve-constitution-elections",
+        "seendate": "2026-09-02T09:20:55.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Almost half of world’s farmers poisoned by pesticides every year, experts find",
+        "summary": "Study reveals that pesticide poisoning kills 11,000 people each year, with India accounting for nearly 60% of fatalitiesAlmost half of the world’s farmers are poisoned by pesticides every single year, a study has found.Using publicly available data from 2006-2023, the study, which was commiss",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/environment/2026/sep/02/50-per-cent-world-farmers-poisoned-pesticides-every-year-experts",
+        "seendate": "2026-09-02T06:00:25.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "South African airline defends dramatic low-level flyby before rugby union clash",
         "summary": "Cape Town stunt sparks major debate over safety risksAirlink insists flyby conducted according to regulationsA pre-game stunt involving two passenger jets flying dramatically low over a stadium in South Africa drew huge cheers from the estimated crowd of 56,000 people, but also sparked a major debate over safety risks. The flyby by two Embraer jets, operated by the local ai",
@@ -25,27 +41,27 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/world/2026/aug/31/morocco-ceuta-border-breach-spanish-pm-migration-pedro-sanchez",
         "seendate": "2026-08-31T10:21:56.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "People fleeing Sudan civil war face ‘dire and deteriorating’ conditions in refuge city",
-        "summary": "More traumatised civilians are arriving every day at ‘shockingly overcrowded’ El Obeid and camps on its outskirtsHumanitarian conditions in the Sudanese city of El Obeid and two camps on its outskirts are dire and deteriorating, according to people on the ground, as civilians displaced by fighting between the Sudanese Armed Forces and Rapid Support Forces (RSF) militia continue to pour in from the surroundi",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/aug/30/humanitarian-crisis-worsening-refuge-civilians-sudan-el-obeid",
-        "seendate": "2026-08-30T06:00:48.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Egyptian queen’s 673-diamond necklace stolen in Vienna smash-and-grab raid",
-        "summary": "Police hunt two suspects after historic 200-carat piece is snatched from Austrian museum during opening hoursAustrian police are hunting two men alleged to have stolen a 200-carat platinum necklace encrusted with 673 diamonds that was on loan to a museum in Vienna and once belonged to Egyptian royalty.Authorities in the capital released <a href=\"https://www.polizei.gv.at/wien/lpd/fahndung/fahndungd63",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/artanddesign/2026/aug/28/egyptian-queen-diamond-necklace-stolen-vienna-raid",
-        "seendate": "2026-08-28T14:46:25.000Z",
         "domain": "theguardian.com"
       }
     ],
     "conflict": [
       {
+        "title": "New constitution in Guinea-Bissau will undermine democracy, opponents say",
+        "summary": "Referendum result means fewer seats in parliament and new rules on candidates, ahead of December electionsGuinea-Bissau voters have approved a new constitution, which critics say will undermine democracy, that significantly expands presidential powers ahead of elections due in December.According to provisional results, 70% of voters approved sweeping changes in the tiny west African state’s first con",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/sep/02/guinea-bissau-voters-approve-constitution-elections",
+        "seendate": "2026-09-02T09:20:55.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Almost half of world’s farmers poisoned by pesticides every year, experts find",
+        "summary": "Study reveals that pesticide poisoning kills 11,000 people each year, with India accounting for nearly 60% of fatalitiesAlmost half of the world’s farmers are poisoned by pesticides every single year, a study has found.Using publicly available data from 2006-2023, the study, which was commiss",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/environment/2026/sep/02/50-per-cent-world-farmers-poisoned-pesticides-every-year-experts",
+        "seendate": "2026-09-02T06:00:25.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "South African airline defends dramatic low-level flyby before rugby union clash",
         "summary": "Cape Town stunt sparks major debate over safety risksAirlink insists flyby conducted according to regulationsA pre-game stunt involving two passenger jets flying dramatically low over a stadium in South Africa drew huge cheers from the estimated crowd of 56,000 people, but also sparked a major debate over safety risks. The flyby by two Embraer jets, operated by the local ai",
         "source": "theguardian.com",
@@ -68,25 +84,41 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/world/2026/aug/31/morocco-ceuta-border-breach-spanish-pm-migration-pedro-sanchez",
         "seendate": "2026-08-31T10:21:56.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "People fleeing Sudan civil war face ‘dire and deteriorating’ conditions in refuge city",
-        "summary": "More traumatised civilians are arriving every day at ‘shockingly overcrowded’ El Obeid and camps on its outskirtsHumanitarian conditions in the Sudanese city of El Obeid and two camps on its outskirts are dire and deteriorating, according to people on the ground, as civilians displaced by fighting between the Sudanese Armed Forces and Rapid Support Forces (RSF) militia continue to pour in from the surroundi",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/aug/30/humanitarian-crisis-worsening-refuge-civilians-sudan-el-obeid",
-        "seendate": "2026-08-30T06:00:48.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Egyptian queen’s 673-diamond necklace stolen in Vienna smash-and-grab raid",
-        "summary": "Police hunt two suspects after historic 200-carat piece is snatched from Austrian museum during opening hoursAustrian police are hunting two men alleged to have stolen a 200-carat platinum necklace encrusted with 673 diamonds that was on loan to a museum in Vienna and once belonged to Egyptian royalty.Authorities in the capital released <a href=\"https://www.polizei.gv.at/wien/lpd/fahndung/fahndungd63",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/artanddesign/2026/aug/28/egyptian-queen-diamond-necklace-stolen-vienna-raid",
-        "seendate": "2026-08-28T14:46:25.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "economy": [
+      {
+        "title": "Teamsters union leaders support Republicans despite members endorsing Democrats",
+        "summary": "Sean O’Brien, president of 1.3 million-strong union, was also first to speak at the Republican national convention in 2024The powerful Teamsters union is backing Republican candidates in the 2026 election cycle even after members have voted to support their Democratic opponents.The 1.3 million-strong union’s president, Sean O’Brien, angered",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/sep/02/teamsters-union-republican-endorsement",
+        "seendate": "2026-09-02T11:00:22.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Tim Cook handed $47m package for new role as executive chair of Apple",
+        "summary": "Pay and shares deal nearly matches $58m award to John Ternus, his successor as CEO at the $4.7tn tech companyTim Cook has received a $47m (£35m) pay deal as Apple’s executive chair, a remuneration package that nears the level set for his successor as chief executive.Cook, who handed over to John Ternus on",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/sep/02/tim-cook-47m-package-chair-apple",
+        "seendate": "2026-09-02T14:46:36.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Global bond sell-off intensifies as US-Iran tensions stoke inflation fears",
+        "summary": "UK borrowing costs driven up, adding to challenges facing John Healey as he prepares for first budgetThe global government bond sell-off resumed on Wednesday, driving up the UK’s borrowing costs and exacerbating the challenges facing John Healey as he prepares his first budget.The yield – effectively the interest rate – on 10-year UK government bonds, or gilts, jumped to just below 5.3% in early trad",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/business/2026/sep/02/global-bond-sell-off-us-iran-tensions-inflation-fears",
+        "seendate": "2026-09-02T08:54:52.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Pentagon official overseeing military AI sold millions worth of stock in AI firm",
+        "summary": "Exclusive: financial disclosures from Emil Michael – who also reaped millions from xAI stock earlier this year – show he sold his Perplexity stock for up to $25mThe top Pentagon official overseeing military artificial intelligence policy, who reaped profits earlier this year of up to $24m selling his private investment in Elon Musk’s AI company, has now sold his holdings in another AI company for between $5",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/sep/01/top-pentagon-official-ai-stock-holdings",
+        "seendate": "2026-09-01T19:17:49.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "US trade regulator and 22 states accuse Amazon of taking $20bn with secret surcharges",
         "summary": "FTC alleges in lawsuit that online retailer ‘secretly and systematically overcharged’ advertisers for yearsThe US’s main trade regulator and 22 states sued Amazon on Monday, alleging the online retailer “secretly and systematically overcharged” advertisers on Amazon.com.The Federal Trade Commission (FTC) said these practices led to higher co",
@@ -94,41 +126,33 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/technology/2026/aug/31/amazon-advertising-lawsuit",
         "seendate": "2026-08-31T19:41:52.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "As US-Canada tensions flare, who’s calling the shots in Trump’s trade team?",
-        "summary": "US trade representative Jamieson Greer has a level-headed reputation but commerce secretary Howard Lutnick and White House adviser Peter Navarro also have key rolesHaving reportedly read Victor Hugo’s Les Misérables, in French, during a military tour of duty in Iraq, Jamieson Greer considered himself an unlikel",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/aug/31/trump-trade-officials-tariffs-canada",
-        "seendate": "2026-08-31T10:00:23.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "‘Revenge of the Rust belt’: Starbucks film-maker on Baristas vs Billionaires",
-        "summary": "Director Mark Mori followed coffee chain workers’ struggle to unionize: ‘These young kids are so inspirational’As the food service industry was pushed on to the frontlines of the Covid-19 pandemic in 2021, workers at Starbucks stores in the Buffalo region of New York went public to announce their union-organizing campaign.Their efforts, and Starbucks’ responses, have culminated in one of the most exp",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/aug/31/starbucks-documentary-baristas-billionaires",
-        "seendate": "2026-08-31T11:00:24.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Anthropic sued over alleged theft of ‘tens of thousands’ of songs",
-        "summary": "AI company faces multibillion dollar lawsuit over misuse of copyrighted songs to train Claude modelsAll AI wants for Christmas is a vast back catalogue of songs without paying for it, according to a multibillion-dollar lawsuit against the startup behind the Claude chatbot.Sony Music Publishing and Warner Chappell, music publishers who manage the copyright of songs on behalf of songwriters and compose",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/aug/31/aanthropic-sued-alleged-theft-songs-ai-train-claude",
-        "seendate": "2026-08-31T12:42:05.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "AI could cause global economic downturn, Bank of England governor tells G20",
-        "summary": "Andrew Bailey, in role as financial stability watchdog chief, warns advanced models risk destabilising systemThe Bank of England’s governor, Andrew Bailey, has joined the throng of figures warning about the global risks posed by the most advanced artificial intelligence technology.In a two-page letter sent to international finance ministers and central bank governors as part of his role as chair of t",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/aug/31/advanced-frontier-ai-financial-stability-andrew-bailey-g20",
-        "seendate": "2026-08-31T09:00:47.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "literature": [
+      {
+        "title": "Espionage, true crime and war: Baillie Gifford longlist revealed",
+        "summary": "Patrick Radden Keefe, Ben Macintyre and the Guardian’s Charlotte Higgins are among the 13 authors selected for the nonfiction awardThe Guardian’s chief culture writer Charlotte Higgins joins American investigative journalist Patrick Radden Keefe and bestselling historian Ben Macintyre on this year’s Baillie Gifford prize longlist.Higgins’ book, <a href=\"https://www.theguardian.com/books/2026/aug/18/u",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/sep/03/espionage-true-and-war-baillie-gifford-longlist-revealed",
+        "seendate": "2026-09-02T23:01:37.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "The Bridge by Colm Tóibín review – betrayal and survival in the High Pyrenees",
+        "summary": "Deep sorrow mingles with illicit desire in this potent novella, the follow-up to a 2006 story about an isolated family in the Catalan mountainsTwenty years ago, Colm Tóibín published a steadily desolating novella set in the high villages of the Catalan Pyrenees. A woman walks out of her house and her life, starts along the mountain road and disappears in the snow. Her son Miquel, failing to find her body, w",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/sep/02/the-bridge-by-colm-toibin-review-betrayal-and-survival-in-the-high-pyrenees",
+        "seendate": "2026-09-02T06:00:24.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Profits, Prophets, Coaches and Kings by Jared Diamond review – how to change the course of history",
+        "summary": "The author of Guns, Germs and Steel falters in this flawed study of whether individuals really make a differenceEarly in this book, Jared Diamond proudly introduces “what I term ‘the Hamlet test’”, which helps decide whether prominent individuals really make a difference, or whether others might have done just as well. Among William Shakespeare’s contemporaries on the Elizabethan stage, he explains, were “B",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/sep/02/profits-prophets-coaches-and-kings-by-jared-diamond-review-how-to-change-the-course-of-history",
+        "seendate": "2026-09-02T08:00:27.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Anita Brookner by Hermione Lee review – an enigmatic literary great given her due",
         "summary": "This exhaustive biography of the Booker winner brings her properly out of the shadows for the first time‘Dr Weiss, at forty, knew that her&nbsp;life had been ruined by literature.” The first fictional sentence Anita Brookner ever published, aged 53, in A Start in Life, certainly set a tone. If people have heard of Brookner today, Hermione Lee says, they imagine a lonely, cardiganed woman yearning for an abs",
@@ -144,155 +168,131 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/books/2026/sep/01/emily-wilson-to-retranslate-the-odyssey-from-scratch-christopher-nolan",
         "seendate": "2026-09-01T15:09:14.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Wendell Berry, US author, farmer and environmentalist, dies aged 92",
-        "summary": "Author and Kentucky native, who celebrated the farming world of his home state and warned of the excesses of industrial society, died at homeWendell Berry, the Kentucky-born author and agrarian whose poems, stories, novels and essays celebrated the farming communities of his native state and warned of the excesses and misjudgments of an industrial, commercialized society, has died aged 92.His daughte",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/sep/01/wendell-berry-us-author-dead",
-        "seendate": "2026-09-01T06:34:17.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Under Story by Chloe Benjamin review – this time-reversal melodrama is quantum hokum",
-        "summary": "A grieving couple who have lost their son find a way to a mirror universe where time runs backwards – but the narrative machinery is shonky and distractingThere is something farcical – grotesque, even – about life played in reverse. A child falling into a tree. A sandwich emerging from a mouth, bite by reconstituted bite. A doctor unstitching a wound. The world is strange in any order, but rewind helps us n",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/sep/01/under-story-by-chloe-benjamin-review-this-time-reversal-melodrama-is-quantum-hokum",
-        "seendate": "2026-09-01T08:00:49.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Switzy by Emma Cline review – this Booker-listed account of a man’s last days is profoundly moving",
-        "summary": "Struggling with Alzheimer’s, the central character sets out on his final journey to a euthanasia clinicThe word “Alzheimer’s” never appears in Switzy, Emma Cline’s third novel, which arrives pre-endorsed as a Booker prize longlistee. But we can be certain that it is the disease afflicting its central character, David Hastings – certain in a way he finds it increasingly hard to be about&nbsp;anything.",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/aug/31/switzy-by-emma-cline-review-this-booker-listed-account-of-a-mans-last-days-is-profoundly-moving",
-        "seendate": "2026-08-31T06:00:17.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "entertainment": [
       {
-        "title": "Todd Haynes and Wallace Shawn among signatories of letter backing Mark Ruffalo amid antisemitism charge",
-        "summary": "More than 170 Jewish artists, also including Joel Coen, Hannah Einbinder and Miranda July, have supported the actor after he criticized ParamountA collective of more than 170 prominent Jewish artists and academics – including Todd Haynes, <a href=\"http",
+        "title": "Ink review – Danny Boyle turns the birth of the Sun into a lurid tabloid frenzy",
+        "summary": "Venice film festivalJack O’Connell is terrific as editor Larry Lamb in James Graham’s tale of Rupert Murdoch, Page 3 and the newspaper that transformed Fleet StreetDanny Boyle presents us with a lurid, violent and thumpingly unsubtle movie full of Dutch angles, cartoony shocks and gargoyle closeups. It’s a chapter in the prehistory of modern media, adapted by James Graham <a href=\"https",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/sep/01/jewish-artist-support-mark-ruffalo-antisemitism",
-        "seendate": "2026-09-01T18:42:05.000Z",
+        "url": "https://www.theguardian.com/film/2026/sep/02/ink-review-danny-boyle-jack-oconnell",
+        "seendate": "2026-09-02T18:24:34.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Emily Wilson to retranslate the Odyssey from scratch",
-        "summary": "Wilson, whose 2017 English translation of Homer’s epic poem inspired Christopher Nolan’s box office hit, is revisiting it after criticising the film adaptationEmily Wilson, the first woman to translate Homer’s Odyssey into English, is to retranslate the ancient Greek epic poem from scratch less than a decade after the publication of her acclaimed version.The announcement comes after Wilson attracted",
+        "title": "Quidditch, Muggles, magic: new Harry Potter trailer gives full look at TV show",
+        "summary": "HBO’s extended trailer reveals more details of JK Rowling’s wizarding world coming to screens this ChristmasThe second official trailer has been released for HBO’s forthcoming TV adaptation of Harry Potter and the Philos",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/sep/01/emily-wilson-to-retranslate-the-odyssey-from-scratch-christopher-nolan",
-        "seendate": "2026-09-01T15:09:14.000Z",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/sep/02/harry-potter-hbo-tv-show-trailer",
+        "seendate": "2026-09-02T16:23:37.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Summer box office 2026: what can we learn from the hits and misses?",
-        "summary": "It was a bumper season for Hollywood, almost back to pre-pandemic levels, with Tom Holland blockbusters winning out, but there was still a string of disappointmentsAs the world continued to burn and temperatures reached worrying highs, most of us decided to take refuge in the cinema this summer. It provided some relief for audiences, but even more so for the industry at large, with the season pushing past t",
+        "title": "Rupert Murdoch ‘very happy’ that Guy Pearce plays him in Fleet Street biopic Ink",
+        "summary": "Actor says the press baron’s daughter Elisabeth told him her father was pleased, ‘but he hadn’t seen the film at that point’Rupert Murdoch is “very happy” that he’s being portrayed by Guy Pearce in a new film about the origins of British tabloid the Sun, the Australian actor has said.Speaking at the Venice film festival ahead of the premiere of 28 Days Later director Danny Boyle’s Ink, Pearce said he",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/sep/01/summer-movie-hits-misses",
-        "seendate": "2026-09-01T09:00:04.000Z",
+        "url": "https://www.theguardian.com/film/2026/sep/02/rupert-murdoch-very-happy-that-guy-pearce-plays-him-in-fleet-street-biopic-ink",
+        "seendate": "2026-09-02T16:07:56.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘She inspired my proposal’: Readers on Yayoi Kusama",
-        "summary": "From wedding ceremonies to sunsets with pumpkins, even in urinals, Kusama’s work brought joy, mischief and inspiration to so manyI have always loved Yayoi Kusama’s work, and when I visited an exhibition of hers on a gap year in Sydney I was spellbound by her infinity mirror rooms. I immediately thought, despite being single at the time, this is a fantastic space to propose in. Fast forward around eight year",
+        "title": "Mayday review – Ryan Reynolds and Kenneth Branagh set cold war bromance alight",
+        "summary": "An American fighter pilot teams up with a retired KGB officer for hijinks and hilarity in Soviet RussiaRyan Reynolds and Kenneth Branagh star in this goofy but entertaining action-comedy bromance set in the cold war 80s, when it seemed every red-blooded young guy in America adored Top Gun and wanted to be a US Navy fighter pilot. It’s got some outrageous close-quarter fight scenes – and who knew Branagh cou",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/artanddesign/2026/sep/01/she-inspired-my-proposal-readers-on-yayoi-kusama",
-        "seendate": "2026-09-01T14:00:38.000Z",
+        "url": "https://www.theguardian.com/film/2026/sep/02/mayday-review-ryan-reynolds-kenneth-branagh-cold-war-bromance",
+        "seendate": "2026-09-02T16:00:28.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘Led us down such a dark path’: documentary explores how 9/11 changed America",
-        "summary": "In Netflix film Turning Point: Generation 9/11, the lives of people forever impacted by the terrorist attack in 2001 are exploredTwenty-five years on, memory is giving way to history. Soon the US will cross the point where half its population were born after 11 September 2001 or were too young to remember the day that terrorists crashed planes in",
+        "title": "‘He’s a good man’: George Clooney defends Mark Ruffalo in Paramount-Warner Bros merger row",
+        "summary": "‘I worry whenever big companies are consolidating,’ Clooney said at Venice film festival, supporting Ruffalo’s right to criticise the deal amid antisemitism accusationsGeorge Clooney has defended Mark Ruffalo’s right to criticise the proposed $111bn Paramount takeover of Warner Bros Discovery, saying he is concerned abo",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/sep/01/9-11-documentary-netflix-turning-point",
-        "seendate": "2026-09-01T11:00:03.000Z",
+        "url": "https://www.theguardian.com/film/2026/sep/02/george-clooney-defends-mark-ruffalo-paramount-warner-bros-merger",
+        "seendate": "2026-09-02T15:08:54.000Z",
         "domain": "theguardian.com"
       }
     ],
     "f1": [
       {
-        "title": "Red Bull confirms hire of key Aston Martin engineer as Gianpiero Lambiase replacement",
-        "summary": "The Red Bull Formula 1 team has confirmed it has hired long-time Aston Martin engineer Tom McCullough to replace McLaren bound Gianpiero Lambiase as head of racing.Lambiase will join McLaren in 2028 to become its chief racing officer, reporting into team principal Andrea Stella. The Briton is currently serving a dual role at the team as Max Verstappen's race engineer, dovetailing those duties ...<a class",
+        "title": "Lando Norris launches race team, young driver programme",
+        "summary": "Reigning F1 world champion Lando Norris has launched his own race team and young driver programme that will compete across Europe's single-seater ladder from 2027.McLaren driver Norris joined forces with British karting team Fusion Motorsport to establish LN4 Fusion, which will compete in Formula 3 and 4 next year. The team has acquired selected assets of AIX Racing and also intends to enter ...<a class=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/red-bull-confirms-hire-of-key-aston-martin-engineer-as-lambiase-replacement/10851422/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-01T17:39:38.000Z",
+        "url": "https://www.motorsport.com/f1/news/lando-norris-launches-race-team-young-driver-programme/10851664/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-02T19:11:12.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Pirelli unveils unique trophies for 2026 Italian Grand Prix",
-        "summary": "Pirelli has revealed the trophies for this weekend's Italian Grand Prix, continuing a multi-year partnership with the Pirelli HangarBicocca Museum of Contemporary Art, which is entering its sixth year.Created by the artist duo known as Vedovamazzei - Stella Scala and Simeone Crispino - the trophies are titled \"FRAGILE\". Made via a 3D printing process using nylon powder, the trophies are ...<a class='more",
+        "title": "‘They think we're against the British’ - FIA president wades into F1 stewards debate",
+        "summary": "The Formula 1 stewards once again found themselves under the spotlight at the Dutch Grand Prix after handing drive-through penalties to Franco Colapinto and Arvid Lindblad.Both drivers were penalised for overtaking another competitor under yellow flags in the aftermath of Max Verstappen’s heavy crash on the opening lap of the Zandvoort race.The Alpine and Racing Bulls drivers both ...<a class='more'",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/pirelli-unveils-unique-trophies-for-2026-italian-grand-prix/10851413/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-01T17:03:05.000Z",
+        "url": "https://www.motorsport.com/f1/news/ben-sulayem-on-colapintos-f1-penalty-they-also-think-the-fia-is-against-the-british/10851615/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-02T16:16:10.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "McLaren to run rotating F1 rear wing in Italy, calls it H-wing",
-        "summary": "The McLaren Formula 1 team will introduce the H-Wing, its own version of the rotating rear wing, at this weekend's Italian Grand Prix at Monza.McLaren had been working on its own interpretation of the upside-down rear wing, which rotates 180 degrees between cornering mode and straight mode, for some time after seeing Ferrari introduce it during winter testing.Read Also:Formula ...<a class",
+        "title": "Five things to look out for at the F1 Italian GP",
+        "summary": "Formula 1 hosts round 13 of its 2026 campaign this weekend with the Italian Grand Prix, and there are plenty of talking points heading into Monza.It is the place where championship leader and home hero Kimi Antonelli must overcome a grid penalty due to an engine change on his Mercedes, so how will this affect his title run-in?The 19-year-old leads the standings by 59 points over team-mate ...<a class",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/mclaren-to-run-rotating-rear-wing-in-italy-f1-calls-it-h-wing/10851399/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-01T16:19:26.000Z",
+        "url": "https://www.motorsport.com/f1/news/five-things-to-watch-out-for-at-the-f1-italian-gp/10851613/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-02T15:23:24.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Haas updates car for Monza as Oliver Bearman remains \"sceptical\" of VF-26 performance",
-        "summary": "After starting the 2026 Formula 1 season strongly, Haas admits that it has been overtaken and out-developed by its rivals this year. However, team boss Ayao Komatsu and driver Oliver Bearman both remain hopeful that it can catch back up with the pack “soon”.Haas has traditionally started the season strong, and continued this tradition in 2026 when it picked up points in the first three ...<a class='more'",
+        "title": "Mercedes rules out ADUO engine upgrade at Italian GP as updated F1 power unit due in October",
+        "summary": "Mercedes was permitted one upgrade token under Formula 1’s Additional Development and Upgrade Opportunities scheme, but has confirmed that Kimi Antonelli won’t race with an updated power unit at this weekend’s Italian Grand Prix.One of the biggest talking points heading into the Monza round is Antonelli’s grid drop, which comes as he exceeds his power unit allowance for the 2026 ...<a class='more' href='",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/haas-car-updates-coming-soon-as-oliver-bearman-concedes-its-now-f1s-10th-best-team/10851288/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-01T15:59:05.000Z",
+        "url": "https://www.motorsport.com/f1/news/f1-mercedes-no-aduo-at-monza-new-pu-due-in-october/10851589/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-02T14:43:35.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Rivals copying Ferrari F1 aero designs \"a good reward\" for Maranello",
-        "summary": "Ferrari team boss Fred Vasseur says rival teams copying its innovative Formula 1 designs is a \"good reward\" for Maranello.Ferrari came into the 2026 regulations cycle with a striking car, the SF-26, which featured a number of intriguing areas of innovation.At winter testing in Bahrain, the team attached a winglet to the structure behind the exhaust, internally dubbed Flick Tail Mode ...<a class='more",
+        "title": "Isack Hadjar to miss Italian GP as Yuki Tsunoda returns to Racing Bulls",
+        "summary": "Isack Hadjar will sit out this weekend's Italian GP at Monza as he recovers from a wrist injury he sustained during Formula 1's summer break. As a result, Liam Lawson will once again replace him at Red Bull and Yuki Tsunoda slots back into the Racing Bulls car.Hadjar sustained a wrist fracture during a boxing session during the summer break, forcing him to watch the Dutch Grand Prix in ...<a class='more'",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/rivals-copying-ferrari-f1-aero-designs-a-good-reward-for-maranello/10851332/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-01T13:00:03.000Z",
+        "url": "https://www.motorsport.com/f1/news/red-bull-shares-isack-hadjar-injury-update-/10851580/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-02T14:02:15.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "Former id Software producer says the team faced the 'worst crunch' in the series' history on Doom: The Dark Ages – Revelations: 'There were days where I didn't see my son'",
-        "summary": "\"There were two months where I was working something like at least 12 hours every day.\"",
+        "title": "All Witchcraft ability manual locations in The Blood of Dawnwalker",
+        "summary": "Learn these hexes to confound your enemies.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/former-id-software-producer-says-the-team-faced-the-worst-crunch-in-the-series-history-on-doom-the-dark-ages-revelations-there-were-days-where-i-didnt-see-my-son/",
-        "seendate": "2026-09-02T00:21:12.000Z",
+        "url": "https://www.pcgamer.com/games/rpg/blood-of-dawnwalker-witchcraft-ability-manual-locations/",
+        "seendate": "2026-09-02T22:00:00.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Good reviews are a 'great relief,' says Blood of Dawnwalker director, as former CD Projekt coworkers line up to offer congratulations",
-        "summary": "Rebel Wolves' vampire RPG is holding an aggregate 83 score on Metacritic.",
+        "title": "Full prologue walkthrough and quest order for The Blood of Dawnwalker",
+        "summary": "Use this ideal quest order to get the least bloody mass because there's not enough time to do it all and lives are on the line.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/rpg/good-reviews-are-a-great-relief-says-blood-of-dawnwalker-director-as-former-cd-projekt-coworkers-line-up-to-offer-congratulations/",
-        "seendate": "2026-09-01T23:17:32.000Z",
+        "url": "https://www.pcgamer.com/games/rpg/blood-of-dawnwalker-prologue-quests-order/",
+        "seendate": "2026-09-02T22:00:00.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "5 top tips from World of Warcraft housing creators for making amazing masterworks",
-        "summary": "Improve your housing game with advice from some of WoW's best home designers.",
+        "title": "All Swordmastery ability manual locations in The Blood of Dawnwalker",
+        "summary": "Unlock these blade skills early.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/world-of-warcraft/5-top-tips-from-world-of-warcraft-housing-creators-for-making-amazing-masterworks/",
-        "seendate": "2026-09-01T22:54:49.000Z",
+        "url": "https://www.pcgamer.com/games/rpg/blood-of-dawnwalker-swordmastery-ability-manual-locations/",
+        "seendate": "2026-09-02T22:00:00.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "That Grand Theft Auto 6 exclusive reveal worked out pretty well for Netflix: It was the platform's biggest show last week",
-        "summary": "The GTA 6 reveal showcase pulled in more than 31 million views over just four days.",
+        "title": "Should you spare Xanthe in The Blood of Dawnwalker?",
+        "summary": "Make a deal with this ancient Vrakhiri or send her packing.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/that-grand-theft-auto-6-exclusive-reveal-worked-out-pretty-well-for-netflix-it-was-the-platforms-biggest-show-last-week/",
-        "seendate": "2026-09-01T22:45:20.000Z",
+        "url": "https://www.pcgamer.com/games/rpg/blood-of-dawnwalker-should-you-spare-xanthe/",
+        "seendate": "2026-09-02T22:00:00.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "August was a milestone month if you love watching robots completely eat it",
-        "summary": "The World Robot Humanoid Games gave us more footage of malfunctioning robots than we know what to do with.",
+        "title": "How to beat the Ravenous Bear and complete Into the Den in The Blood of Dawnwalker",
+        "summary": "Kill this hangry boss and find the flat stone marked with X.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/hardware/august-was-a-milestone-month-if-you-love-watching-robots-completely-eat-it/",
-        "seendate": "2026-09-01T18:42:18.000Z",
+        "url": "https://www.pcgamer.com/games/rpg/blood-of-dawnwalker-ravenous-bear-into-the-den/",
+        "seendate": "2026-09-02T22:00:00.000Z",
         "domain": "pcgamer.com"
       }
     ],
@@ -304,6 +304,22 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/technology/2026/sep/01/anthropic-claude-ai-hacking-human-values",
         "seendate": "2026-09-01T15:18:10.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Freelancers are getting buried with ‘soulless’ AI slop cleanup: ‘It’s a shame we need to do it’",
+        "summary": "As more companies turn to AI, they’re hiring freelancers to clean up its mistakes rather than create original workLisa, a freelance graphic designer based in Spain, noticed a shift in her work after the release of ChatGPT in 2022. She went from receiving slow one-off jobs creating logos and packaging to an onslaught of requests asking her to fix versions that were generated by artificial intelligence – from",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/sep/02/ai-jobs-freelance-cleanup",
+        "seendate": "2026-09-02T12:00:23.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Tim Cook handed $47m package for new role as executive chair of Apple",
+        "summary": "Pay and shares deal nearly matches $58m award to John Ternus, his successor as CEO at the $4.7tn tech companyTim Cook has received a $47m (£35m) pay deal as Apple’s executive chair, a remuneration package that nears the level set for his successor as chief executive.Cook, who handed over to John Ternus on",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/sep/02/tim-cook-47m-package-chair-apple",
+        "seendate": "2026-09-02T14:46:36.000Z",
         "domain": "theguardian.com"
       },
       {
@@ -321,63 +337,47 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/technology/2026/aug/31/amelia-dimoldenberg-chicken-shop-date-youtube-tv",
         "seendate": "2026-08-31T12:00:25.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Sharp rise in incidents of AI escaping users’ control, research finds",
-        "summary": "Exclusive: Number of times AI lies, ignores instructions and pursues goals in harmful ways almost doubles in JulyIncidents of AIs escaping users’ control to lie, ignore instructions and pursue goals in harmful ways have hit a new high, according to research that also suggests the severity of deception and misalignment is worsening.Analysis of real-world loss of control incidents involving AI models f",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/aug/29/sharp-rise-in-incidents-of-ai-escaping-users-control-research-finds",
-        "seendate": "2026-08-29T06:00:20.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Faster, higher, funnier: what we learned from China’s robot games",
-        "summary": "Five-day showcase reveals leaps Beijing has made in humanoid tech, but also its limitations as US rivals come up from the rearWith exploding pelvises, enough comic pratfalls for a Buster Keaton show reel and the odd moment of ruthless violence, the World Humanoid Robot Games in Beijing gripped the world this week with an unsettling mixture of hilarity, trepidation and relief.The five-day showcase sta",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/29/hilarity-unease-and-relief-games-show-china-is-not-over-the-finish-line-in-humanoid-robot-race",
-        "seendate": "2026-08-29T05:00:19.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "climate": [
       {
+        "title": "Patagonia sues Trump over slashing of protected areas in Utah",
+        "summary": "President’s order strips nearly 3m acres of Bears Ears and Grand Staircase-Escalante, sacred tribal sites, of safeguardsPatagonia, the outdoor clothing and gear company, has joined a lawsuit challenging Donald Trump’s decision to significantly reduce the Bears Ears and Grand Staircase-Escalante national monuments in Utah, removing protections from nearly 3m acres.In July, the president <a href=\"https",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/sep/02/trump-patagonia-lawsuit-utah-national-monuments",
+        "seendate": "2026-09-02T20:51:54.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Temperature check: alarm as prediction markets lean into weather and climate bets",
+        "summary": "Climate experts warn that US Kalshi and Polymarket users are ‘gamifying disasters’ as they bet on events like heatwaves and daily temperaturesOnline prediction markets, saturated by money staked on sport, crypto and politics, have now set their sights on a promising new area of growth: betting on the future livability of the planet itself.The rise of gamified predictions on the unfolding climate cris",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/sep/02/weather-betting-kalshi-polymarket",
+        "seendate": "2026-09-02T15:00:28.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Blackout risk rises as heatwave stresses largest US electric grids",
+        "summary": "US energy department warns of potential for outages in PJM Interconnection, serving 67 million from DC to ChicagoThe risk ⁠of power outages ⁠is expected to ​escalate across a broad swath of the United States on Wednesday as intense heat will test the capacity of electricity supplies ⁠serving millions of homes and businesses from the midwest through the mid-Atlantic.The US Department of Energy warned",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/sep/02/heatwave-power-outage-risk",
+        "seendate": "2026-09-02T12:16:52.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Transforming toxic: a new vision for urban waterways takes shape in Brooklyn – in photos",
+        "summary": "Designers are rethinking one of New York City’s most polluted sites with climate adaptation and community benefitsThe Guardian receives support for visual climate coverage from the Outrider Foundation. The Guardian’s coverage is editorially independent <a href=\"https://www.theguardian.com/artanddesign/gallery/2026/sep/02/new-york-city-brookl",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/artanddesign/gallery/2026/sep/02/new-york-city-brooklyn-waterways-photos",
+        "seendate": "2026-09-02T12:00:23.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Hungry bears are wandering into US homes and shops in record numbers – video",
-        "summary": "Experts say more bears are wandering into human's homes and shops in search of food, due to drought-driven food shortages across the US west Continue reading...",
+        "summary": "Experts say more bears are wandering into humans' homes and shops in search of food, due to drought-driven food shortages across the US west Continue reading...",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/us-news/video/2026/sep/01/bears-wandering-west-colorado-homes-stores-food-shortage",
         "seendate": "2026-09-01T18:16:40.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Judge strikes down New York law that forced climate polluters to pay damages",
-        "summary": "State cannot enforce policy requiring oil firms to pay $75bn over 25 years for climate mitigation and adaptationA federal judge has struck down a landmark New York law that forces major polluters to pay climate damages.In her Monday ruling, Brenda Sannes, chief judge of the US district court for the northern district of New York, sided with Republican-led states and oil interests in saying the state",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/sep/01/judge-strikes-new-york-law-climate-polluters-damage-pay",
-        "seendate": "2026-09-01T16:11:11.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "US border patrol expected to aid Grand Canyon search for missing person",
-        "summary": "Nearly 80 people have been rescued, and two people confirmed dead, after flood hit national parkA US border patrol technical search team is expected to deploy in the Grand Canyon, as authorities continue the search for at least one missing person after a fatal flash flood washed through th",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/sep/01/border-patrol-missing-person-grand-canyon-flood",
-        "seendate": "2026-09-01T14:19:17.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Forest Service chief faces scrutiny over logging ties as Trump plans to scrap protections",
-        "summary": "Rollback of ‘roadless rule’ expected to benefit companies US Forest Service chief, Tom Schultz, previously lobbied forDonald Trump this month announced plans to rescind a landmark rule that has protected old-growth forests in the US for 25 years. If finalized, the rollback is expected to benefit the companies that Tom Schultz, chief of the US Forest Service, represented in his previous roles as a timber ind",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/sep/01/trump-roadless-rule-old-growth-forests",
-        "seendate": "2026-09-01T11:00:03.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Nepal’s glacial collapse foreshadowed a future of climate disaster | Michael Mann",
-        "summary": "The deluge capped a summer of extreme climate events, from deadly heatwaves to wildfires. We must take action nowFor millennia, the high peaks of the Himalayas were held together by an invisible, frozen cement – permafrost and glacial ice that bound ancient rock into seemingly unshakable fortresses. But as the planet continues to warm, this alpine glue is liquefying.The glacial collapse and deluge in",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/commentisfree/2026/sep/01/nepal-flooding-climate-disaster",
-        "seendate": "2026-09-01T09:00:05.000Z",
         "domain": "theguardian.com"
       }
     ],
