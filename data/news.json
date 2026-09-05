@@ -1,8 +1,16 @@
 {
-  "generatedAt": "2026-09-04T00:30:00.576Z",
+  "generatedAt": "2026-09-05T00:27:36.025Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
+      {
+        "title": "UN votes to adopt new world map that shows Africa’s true scale",
+        "summary": "Togo-sponsored resolution called to phase out traditional map that depicts continent as similar size to GreenlandThe United Nations has voted to adopt a resolution for the world to formally phase out the traditional Mercator map of the globe in favour of one that more accurately displays Africa’s size.In a session at its headquarters in New York, the UN general assembly officially retired the 16th-ce",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/sep/04/un-vote-world-map-mercator-equal-earth-africa",
+        "seendate": "2026-09-04T16:49:29.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Spain’s PM says no evidence ‘whatsoever’ Morocco behind Ceuta border breach",
         "summary": "Pedro Sánchez continues to defend Rabat after police report claiming border forces helped 70,000 cross borderEurope live – latest updatesSpain has seen no evidence “whatsoever” that Morocco planned or facilitated a",
@@ -33,60 +41,76 @@
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/environment/2026/sep/02/50-per-cent-world-farmers-poisoned-pesticides-every-year-experts",
         "seendate": "2026-09-02T06:00:25.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "South African airline defends dramatic low-level flyby before rugby union clash",
-        "summary": "Cape Town stunt sparks major debate over safety risksAirlink insists flyby conducted according to regulationsA pre-game stunt involving two passenger jets flying dramatically low over a stadium in South Africa drew huge cheers from the estimated crowd of 56,000 people, but also sparked a major debate over safety risks. The flyby by two Embraer jets, operated by the local ai",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/sport/2026/aug/31/south-african-airline-defends-dramatic-low-level-flyby-before-rugby-union-springboks-new-zealand",
-        "seendate": "2026-08-31T13:44:39.000Z",
         "domain": "theguardian.com"
       }
     ],
     "conflict": [
       {
-        "title": "Spain’s PM says no evidence ‘whatsoever’ Morocco behind Ceuta border breach",
-        "summary": "Pedro Sánchez continues to defend Rabat after police report claiming border forces helped 70,000 cross borderEurope live – latest updatesSpain has seen no evidence “whatsoever” that Morocco planned or facilitated a",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/sep/03/spain-pm-evidence-morocco-ceuta-border-breach",
-        "seendate": "2026-09-03T12:52:08.000Z",
-        "domain": "theguardian.com"
+        "title": "Muddy but alive : two workers rescued from Nepal tunnel",
+        "summary": "Nine days after devastating floods swept through the Himalayas, rescue workers in Nepal have pulled two workers alive...",
+        "source": "queanbeyanage.com.au",
+        "url": "https://www.queanbeyanage.com.au/story/9344289/muddy-but-alive-two-workers-rescued-from-nepal-tunnel/",
+        "seendate": "20260905T000000Z",
+        "domain": "queanbeyanage.com.au"
       },
       {
-        "title": "‘We continue to suffer’: victims of apartheid-era Sharpeville massacre demand compensation",
-        "summary": "Claim relating to 1960 attack on hundreds of protesters part of wave of litigation over apartheid crimes in South AfricaThe day dawned brightly on 21 March 1960, as residents of the South African township of Sharpeville gathered to protest against pass laws, which forced “Black, Indian and Coloured” South Africans to carry documents at all times specifying where they were allowed to be.Abraham Mofoke",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/sep/03/victims-sue-south-african-government-sharpeville-massacre-apartheid",
-        "seendate": "2026-09-03T10:11:37.000Z",
-        "domain": "theguardian.com"
+        "title": "US targets Trkiye - based bank in latest sanctions on Iran financial network",
+        "summary": "The United States, in its latest efforts of economic sanctions under Operation Economic Outcast, on Friday (local time) imposed fresh sanctions on a Trkiye-based financial institution and two of its subsidiaries, accusing them of facilitating transactions linked to Iran's Islamic Revolutionary Guard Corps-Qods Force (IRGC-QF) and providing the Iranian regime with access to international correspondent banking services",
+        "source": "shanghaisun.com",
+        "url": "http://www.shanghaisun.com/news/279286914/us-targets-trkiye-based-bank-in-latest-sanctions-on-iran-financial-network",
+        "seendate": "20260905T000000Z",
+        "domain": "shanghaisun.com"
       },
       {
-        "title": "New constitution in Guinea-Bissau will undermine democracy, opponents say",
-        "summary": "Referendum result means fewer seats in parliament and new rules on candidates, ahead of December electionsGuinea-Bissau voters have approved a new constitution, which critics say will undermine democracy, that significantly expands presidential powers ahead of elections due in December.According to provisional results, 70% of voters approved sweeping changes in the tiny west African state’s first con",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/sep/02/guinea-bissau-voters-approve-constitution-elections",
-        "seendate": "2026-09-02T09:20:55.000Z",
-        "domain": "theguardian.com"
+        "title": "Colin Kaepernick impact , 10 years after his kneeling protest with 49ers",
+        "summary": "“It wasn’t a sudden act,” he wrote in a statement this spring announcing his memoir, ”The Perilous Fight,” a title borrowed from a passage of the very song to which his name will forever be linked.",
+        "source": "ukiahdailyjournal.com",
+        "url": "https://www.ukiahdailyjournal.com/2026/09/04/colin-kaepernick-kneeling-protest-decade-impact-49ers/",
+        "seendate": "20260905T000000Z",
+        "domain": "ukiahdailyjournal.com"
       },
       {
-        "title": "Almost half of world’s farmers poisoned by pesticides every year, experts find",
-        "summary": "Study reveals that pesticide poisoning kills 11,000 people each year, with India accounting for nearly 60% of fatalitiesAlmost half of the world’s farmers are poisoned by pesticides every single year, a study has found.Using publicly available data from 2006-2023, the study, which was commiss",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/2026/sep/02/50-per-cent-world-farmers-poisoned-pesticides-every-year-experts",
-        "seendate": "2026-09-02T06:00:25.000Z",
-        "domain": "theguardian.com"
+        "title": "Trump says envoys taking plan to  end the war  to Moscow , Kyiv",
+        "summary": "It will be Jared Kushner&#x27;s and Steve Witkoff&#x27;s first visit to war-torn Kyiv since the US president returned to office last year.",
+        "source": "freemalaysiatoday.com",
+        "url": "https://www.freemalaysiatoday.com/category/highlight/2026/09/05/trump-says-envoys-taking-plan-to-end-the-war-to-moscow-kyiv",
+        "seendate": "20260905T000000Z",
+        "domain": "freemalaysiatoday.com"
       },
       {
-        "title": "South African airline defends dramatic low-level flyby before rugby union clash",
-        "summary": "Cape Town stunt sparks major debate over safety risksAirlink insists flyby conducted according to regulationsA pre-game stunt involving two passenger jets flying dramatically low over a stadium in South Africa drew huge cheers from the estimated crowd of 56,000 people, but also sparked a major debate over safety risks. The flyby by two Embraer jets, operated by the local ai",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/sport/2026/aug/31/south-african-airline-defends-dramatic-low-level-flyby-before-rugby-union-springboks-new-zealand",
-        "seendate": "2026-08-31T13:44:39.000Z",
-        "domain": "theguardian.com"
+        "title": "Woolworths , Coles : Profit margins challenge price gouging claims | Tenterfield Star",
+        "summary": "This is what your grocery bill actually pays for.",
+        "source": "tenterfieldstar.com.au",
+        "url": "https://www.tenterfieldstar.com.au/story/9342351/woolworths-coles-profit-margins-challenge-price-gouging-claims/",
+        "seendate": "20260905T000000Z",
+        "domain": "tenterfieldstar.com.au"
       }
     ],
     "economy": [
+      {
+        "title": "‘There’s no plan’: as instability in global bond markets rises, what are the knock-on effects?",
+        "summary": "From mortgages to inflation, concerns about the public finances of major economies have wide-reaching consequencesWhen Donald Trump was asked recently about the threat of rising interest rates on US government debt, he told baffled reporters: “The ultimate intervention is our military. And if we have to use that, we will.”Perhaps not surprisingly, his bellicose words did not soothe fractious bond mar",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/business/2026/sep/04/instability-in-global-bond-markets-rising-knock-on-effects",
+        "seendate": "2026-09-04T16:49:28.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Maria Bartiromo’s lawyer denies she was fired from Fox News anchor role",
+        "summary": "Fox announced host’s departure Thursday but gave no explanation, only saying it was effective immediatelyMaria Bartiromo’s lawyer sharply denied that she was fired from her job at Fox News on Friday, after reports that she was dismissed after divulging the network’s editorial guidance to the White House.Fox announced <a href=\"https://www.theguardian.com/media/2026/sep/03/maria-bartiromo-fox-news-depa",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/media/2026/sep/04/maria-bartiromo-lawyer-denies-fox-news-firing",
+        "seendate": "2026-09-04T17:56:11.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "US added 162,000 jobs in August, with unemployment rate holding steady",
+        "summary": "Number of new jobs being added has been fluctuating, with private companies adding 38,000 jobs in AugustThe US economy added 162,000 jobs in August, an uptick after a sluggish summer for the labor market.The unemployment rate held steady at 4.1%, still down from its most recent peak of 4.5% last November, according to new data from the Bureau of Labor Statistics (BLS). Despite the relative stability",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/business/2026/sep/04/august-economy-jobs-report",
+        "seendate": "2026-09-04T12:40:44.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Nvidia to buy developer platform Hugging Face in $12.9bn deal",
         "summary": "Semi-conductor giant bets that support for open AI models could offset potential slowdown in demand for chipsNvidia will buy the popular developer platform Hugging Face for nearly $13bn, betting that support for ⁠open AI models could offset a potential slowdown in demand for the semiconductor giant’s chips.Shares ⁠in Nvidia were ⁠slightly lo",
@@ -96,39 +120,39 @@
         "domain": "theguardian.com"
       },
       {
-        "title": "Fox News Media abruptly ousts longtime anchor Maria Bartiromo",
-        "summary": "Bartiromo had been a host at the network for more than a decade and Fox gave no explanation for the decisionFox News Media on Thursday abruptly ousted one of its most well-known hosts and anchors, Maria Bartiromo, without providing an explanation.“Effective today, Maria Bartiromo is no longer with FOX News Media,” the network said in a press release, adding in a statement: “We thank Maria for her wor",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/media/2026/sep/03/maria-bartiromo-fox-news-departure",
-        "seendate": "2026-09-03T18:20:24.000Z",
-        "domain": "theguardian.com"
-      },
-      {
         "title": "Dutch central bank moves 86 tonnes of gold to UK from US and Canada, citing ‘geopolitical unrest’",
         "summary": "Bank says gold reserves held in London could be traded more easily and the move will allow it to respond more rapidly in a ‘crisis situation’The Dutch central bank says it has moved 86 tonnes of its gold reserves out of the US and Canada to London, citing “increasing geopolitical unrest”.De Nederlandsche Bank (DNB) said gold reserves held in London could be traded more easily than those held in New Y",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/world/2026/sep/03/netherlands-gold-dutch-central-bank-uk-us-and-canada-geopolitical-unrest",
         "seendate": "2026-09-02T23:47:15.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Thieves steal more than 70,000 pints’ worth of Guinness from depot in Cheshire",
-        "summary": "Police say two lorries were driven into industrial estate in Runcorn and attached to trailers holding about 800 barrelsThe famous tagline “Guinness is good for you” applies only when the drink is bought and paid for, police have said, after thieves made off with more than 70,000 pints’ worth in Cheshire.Officers said they believed two lorries were driven into a depot in Runcorn on Monday and attached",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/uk-news/2026/sep/03/thieves-steal-guinness-depot-cheshire-runcorn",
-        "seendate": "2026-09-03T17:18:45.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Teamsters union leaders support Republicans despite members endorsing Democrats",
-        "summary": "Sean O’Brien, president of 1.3 million-strong union, was also first to speak at the Republican national convention in 2024The powerful Teamsters union is backing Republican candidates in the 2026 election cycle even after members have voted to support their Democratic opponents.The 1.3 million-strong union’s president, Sean O’Brien, angered",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/sep/02/teamsters-union-republican-endorsement",
-        "seendate": "2026-09-02T11:00:22.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "literature": [
+      {
+        "title": "The best recent poetry – review roundup",
+        "summary": "Fetch by Colin Bramwell; Girling by Eve Esfandiari-Denney; The Dead One, The Unconscious One, Thundering in Your Ear, Thriving Slumber by Jay Gao; Belling the Leopard by Clementine Ewokolo Burnley; The Matter by Padraig ReganFetch by Colin Bramwell (",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/sep/04/the-best-recent-poetry-review-roundup",
+        "seendate": "2026-09-04T11:00:05.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "The Golden Hours by Louisa Young review – this continuation of the Cazalet Chronicles is a total delight",
+        "summary": "Elizabeth Jane Howard’s niece has picked up the thread of her much-loved family saga series, taking the story into the 1960sElizabeth Jane Howard’s beloved family saga the Cazalet Chronicles spans three decades in the life of the upper-middle-class Cazalet family. The first four books, written in the 1990s, run from a bucolic prewar 1937 to a bruising 1947, while the fifth, 2013’s <a href=\"https://www.thegu",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/sep/04/the-golden-hours-by-louisa-young-review-this-continuation-of-the-cazalet-chronicles-is-a-total-delight",
+        "seendate": "2026-09-04T06:00:02.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Kevin Powers: ‘I was ready to abandon Infinite Jest a thousand times’",
+        "summary": "The American author on falling in love with The Great Gatsby, being inspired by Dylan Thomas – and the memoir of a canoe trip in Texas he comes back toMy earliest reading memoryThe deaths of Old Dan and Little Ann in Wilson Rawls’s Where the Red Fern Grows were etched into my being as a first grader in Chesterfield County, Virginia.My favourite book growing up</strong",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/sep/04/kevin-powers-i-was-ready-to-abandon-infinite-jest-a-thousand-times",
+        "seendate": "2026-09-04T09:00:02.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Gloria Steinem, groundbreaking feminist campaigner, dies aged 92",
         "summary": "Prolific author campaigned against domestic violence, female genital mutilation, pornography and the Vietnam and Gulf wars‘We badly need to raise our boys more like our girls’: Gloria Steinem – a life in quotesHillary C",
@@ -144,198 +168,174 @@
         "url": "https://www.theguardian.com/books/2026/sep/03/what-were-reading-irvine-welsh-janice-hallett-and-guardian-readers-on-the-books-they-enjoyed-in-august",
         "seendate": "2026-09-03T12:01:06.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Espionage, true crime and war: Baillie Gifford longlist revealed",
-        "summary": "Patrick Radden Keefe, Ben Macintyre and the Guardian’s Charlotte Higgins are among the 13 authors selected for the nonfiction awardThe Guardian’s chief culture writer Charlotte Higgins joins American investigative journalist Patrick Radden Keefe and bestselling historian Ben Macintyre on this year’s Baillie Gifford prize longlist.Higgins’ book, <a href=\"https://www.theguardian.com/books/2026/aug/18/u",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/sep/03/espionage-true-and-war-baillie-gifford-longlist-revealed",
-        "seendate": "2026-09-02T23:01:37.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "A Death of One’s Own by Terry Eagleton review – meditations on arriving at a full stop",
-        "summary": "The literary critic brings his vast reading to bear on life’s most inescapable factTerry Eagleton is not a fan of sloppy thinking, especially when it comes to the granite fact of death. He particularly doesn’t like the attitude of Dylan Thomas who famously urged his ailing father to “not go gentle into that good night”. If the “night” – death – is",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/sep/03/a-death-of-ones-own-by-terry-eagleton-review-meditations-on-arriving-at-a-full-stop",
-        "seendate": "2026-09-03T06:00:45.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "New Cemetery by Simon Armitage audiobook review – the poet laureate’s meditations take flight",
-        "summary": "The building of a cemetery during the pandemic inspires the Huddersfield-born author to reflect on childhood memories and the changing local landscapeWhen Huddersfield council proposed turning some local grazing land into a cemetery during the Covid lockdown, some nearby residents were unhappy. Not poet laureate Simon Armitage, who also lived close to the site. In the introductory essay to his poetry collec",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/sep/03/new-cemetery-by-simon-armitage-audiobook-review-the-poet-laureates-meditations-take-flight",
-        "seendate": "2026-09-03T14:00:40.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "entertainment": [
       {
-        "title": "Wild Horse Nine review – Malkovich and Rockwell head to Easter Island for McDonagh’s acid bromance",
-        "summary": "Venice film festivalTwo men, some violence, much freewheeling chat: so far, so standard fare from the Oscar-winning writer-director. But this time the comedy and charm can feel diluted by blood and machismoIt isn’t a Martin McDonagh movie unless you’ve got two morose guys – one old, one not so old – who do nothing all the livelong day but bitch and snipe and quarrel and exchange barbed",
+        "title": "‘Like a tired boxer, battered by applause’: as Andrew Scott’s biopic premieres, Richard Eyre remembers Ian Charleson’s superb, near-death Hamlet",
+        "summary": "In 1989, the Chariots of Fire actor took on the incredible task of playing Shakespeare’s prince while terminally ill from Aids. This weekend sees the world premiere of Elsinore, a new film about the episode, itself heavily-tipped for awardsIan Charleson was one of the finest actors of his generation and an important figure in the fight for gay rights. Yet the extraordinary circumstances of his final perform",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/sep/03/wild-horse-nine-review-sam-rockwell-john-malkovich-martin-mcdonagh",
-        "seendate": "2026-09-03T17:30:44.000Z",
+        "url": "https://www.theguardian.com/film/2026/sep/04/like-a-tired-boxer-battered-by-applause-as-andrew-scotts-biopic-premieres-richard-eyre-remembers-ian-charlesons-superb-near-death-hamlet",
+        "seendate": "2026-09-04T14:03:50.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Gloria Steinem, groundbreaking feminist campaigner, dies aged 92",
-        "summary": "Prolific author campaigned against domestic violence, female genital mutilation, pornography and the Vietnam and Gulf wars‘We badly need to raise our boys more like our girls’: Gloria Steinem – a life in quotesHillary C",
+        "title": "‘I’m used to doing the impossible’: George Lucas unveils new LA museum – what’s its story?",
+        "summary": "Spaceship-shaped gallery, featuring works from Banksy, Norman Rockwell and Frida Kahlo, is devoted to ‘visual storytelling’ – and is finally ready to open“I’m used to doing the impossible,” George Lucas said on Wednesday. But “this one almost broke my will”.The film-maker was describing the decades of work that went into his latest project, the Lucas Museum of Narrative Art, as it was unveiled to the",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/sep/03/gloria-steinem-groundbreaking-feminist-campaigner-dies-aged-92",
-        "seendate": "2026-09-03T16:42:35.000Z",
+        "url": "https://www.theguardian.com/culture/2026/sep/04/george-lucas-art-museum-los-angeles",
+        "seendate": "2026-09-04T13:00:07.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "By Any Means review – Mark Wahlberg and Yahya Abdul-Mateen II drama provokes with horror of 1960s racism",
-        "summary": "Elegance Bratton’s civil rights drama in the Jim Crow south confronts you with almost unbearable brutalityBlack people officially won the unrestricted right to vote in the US in 1965 but many still encountered hurdles on their path to the ballot box: 11 states in the south quickly introduced a poll tax requiring an annual fee to be allowed to vote. The practice unambiguously targeted poor Blac",
+        "title": "A remarkable documentary made by blind students: ‘We were stunned by the footage’",
+        "summary": "In Brailled It, the tension and stakes of the annual Braille Challenge are brought to the screen by three of the competitorsFor the past 26 years, about 22,000 blind and visually impaired schoolchildren from around the world have competed in the Braille Challenge: a literacy test against a loudly ticking clock. It has all the theater of a Model UN competition, all the stakes of a make-or-break standardized",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/sep/03/by-any-means-review-mark-wahlberg-yahya-abdul-mateen-ii-elegance-bratton",
-        "seendate": "2026-09-03T16:00:42.000Z",
+        "url": "https://www.theguardian.com/film/2026/sep/04/brailled-it-blind-documentary",
+        "seendate": "2026-09-04T09:00:03.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Bucking Fastard review – Herzog’s starry twins soap provokes a syncing feeling",
-        "summary": "Venice film festival: Rooney and Kate Mara play the real-life Chaplin sisters who spoke in unsettling unison in this silly, pointless dramaWerner Herzog is such a unique film-maker that even a dud from him has some interest, but sadly a dud is what this is. It is a fiction feature based on a true story which – despite a few laughs – systematically wastes the audience’s time, as well as the",
+        "title": "‘I didn’t know if I’d ever have sex again’: inside Sharon Horgan’s excruciating post-divorce comedy",
+        "summary": "Horgan’s hilarious new show probes the perils of ageing and the horror of being single again – and it has sex scenes so wild you’ll be laughing for weeks. The creator and her co-stars open up about YouthWhen Sharon Horgan walked into HBO to pitch her new series, Youth, she basically just said “sandwich generation” to them. Alex, the protagonist, is squished between a teenage son and two elderly parents. Tha",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/sep/03/bucking-fastard-review-werner-herzog-rooney-kate-mara-chaplin-sisters",
-        "seendate": "2026-09-03T15:00:41.000Z",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/sep/04/sharon-horgan-post-divorce-comedy-youth",
+        "seendate": "2026-09-04T12:00:07.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "The Bayeux tapestry: a stupefying, thrilling, horrifying masterpiece that shakes the earth",
-        "summary": "British Museum, LondonThe greatest battle ever depicted in art is here at last – and it hurtles along, making your heart pound with its sense of doom and destiny, culminating in fires and corpses on a battlefield full of pathosIt should not work. It should not even exist. Nothing about the Bayeux tapestry makes sense according to any norms of art: its creators couldn’t do proper portrai",
+        "title": "‘Many of us in Israel live in a state of shock at the savagery’: veteran director Amos Gitai returns to Gaza",
+        "summary": "The writer-director once called Israel’s ‘one-man New Wave’ is in Venice with The Road to Jericho, a new and poetic attempt to highlight the plight of those in the occupied West BankThe Palestinian village of Khan al-Ahmar sits off dust-blown Highway-1, between Jerusalem and Jericho in the Israeli-occupied West Bank. At the village centre is the “school of tires”, a fragile construction of rubber, wood and",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/artanddesign/2026/sep/03/the-bayeux-tapestry-british-museum-london",
-        "seendate": "2026-09-03T14:51:33.000Z",
+        "url": "https://www.theguardian.com/film/2026/sep/04/israel-director-amos-gitai-gaza-the-road-to-jericho-venice",
+        "seendate": "2026-09-04T11:55:19.000Z",
         "domain": "theguardian.com"
       }
     ],
     "f1": [
       {
-        "title": "F1 races set to be shortened to 290km in 2027",
-        "summary": "Formula 1 grands prix are set to become shorter in 2027 as the series changes the balance between electrical and internal-combustion power.This has been a possibility since changes to the technical formula were discussed by the stakeholders earlier this season, but at that stage it was believed only a few events would be affected.Instead, it has been agreed that the maximum length of all ...<a class=",
+        "title": "\"We clearly have an issue\" – Red Bull responds to Max Verstappen's radio complaints",
+        "summary": "Friday ahead of the Formula 1 Italian Grand Prix was far from trouble-free for Red Bull. There had been hope beforehand that Monza’s layout would suit the team better than Zandvoort, but after Friday practice both Red Bulls were behind a Racing Bulls (Arvid Lindblad) and a Haas (Oliver Bearman).Max Verstappen gave up his seat to Ayumu Iwasa during first practice, but once he got behind the ...<a class='m",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/why-all-f1-gps-could-be-shortened-next-season/10851980/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-03T18:32:17.000Z",
+        "url": "https://www.motorsport.com/f1/news/we-clearly-have-an-issue-red-bull-responds-to-max-verstappens-radio-complaints/10852336/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-04T18:00:11.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Max Verstappen reveals Red Bull response to playful \"shunt\" request in 100-driver karting challenge",
-        "summary": "Four-time Formula 1 champion Max Verstappen has revealed that he jokingly asked Red Bull for permission to \"shunt\" his rivals while filming for a challenge in which he took on 100 drivers at a go-karting event.The challenge took place on a purpose-built track at Silverstone. Verstappen started at the back, behind 100 other drivers, with the aim of overtaking every competitor.Verstappen ...<a class='m",
+        "title": "F1 Italian GP: Saturday schedule, weather forecast and how to watch",
+        "summary": "Formula 1 heads into Saturday at Monza with George Russell fastest after second practice for the Italian Grand Prix.The Mercedes driver beat Ferrari’s Charles Leclerc by 0.120s in FP2, with championship leader Kimi Antonelli third as Mercedes and Ferrari traded blows at the front. Lando Norris, winner of the last two grands prix, was fourth for McLaren ahead of Lewis Hamilton and Oscar ...<a class='more'",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/max-verstappen-reveals-red-bull-response-to-playful-shunt-request-in-100-driver-karting-challenge/10851969/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-03T17:41:15.000Z",
+        "url": "https://www.motorsport.com/f1/news/f1-italian-gp-saturday-schedule-weather-forecast-and-how-to-watch/10852320/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-04T17:50:38.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "F1 Italian GP: Friday schedule, weather forecast and how to watch",
-        "summary": "Formula 1 heads to Monza this weekend for the Italian GP, with Ferrari chasing home glory and Kimi Antonelli facing a difficult race in front of his own crowd.The Mercedes driver arrives as Italy’s main home hope and with a 59-point lead over George Russell and Lewis Hamilton, but an engine change means he is set to start at the back of the grid, regardless of his qualifying result. That ...<a class='mor",
+        "title": "Mercedes vs Ferrari: Italian GP long runs leave no clear favourite",
+        "summary": "After Charles Leclerc topped the opening practice session for Ferrari, Mercedes struck back in the more representative second practice session, with George Russell setting the fastest time.That made the long runs at the end of FP2 particularly intriguing. They are considered an important indicator of potential race pace for Sunday. Yet the picture could hardly be any less clear.Read ...<a class='more",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/f1-italian-gp-friday-schedule-weather-forecast-and-how-to-watch/10851963/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-03T17:35:43.000Z",
+        "url": "https://www.motorsport.com/f1/news/mercedes-vs-ferrari-italian-gp-long-runs-leave-no-clear-favourite/10852331/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-04T17:47:00.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Kimi Antonelli hit with Mercedes revenge prank at Italian GP",
-        "summary": "The prank war between Kimi Antonelli and Mercedes has continued at the Italian Grand Prix.The Brackley outfit has taken its revenge on the current championship leader, attacking Antonelli with whipped cream during media day at Monza. Antonelli, who celebrated his 20th birthday on 25 August, was caught off guard in the paddock when mechanics, wearing protective ponchos to avoid the ...<a class='more'",
+        "title": "McLaren \"not in the fight for Italian GP pole\", admits downbeat Lando Norris",
+        "summary": "After completing two practice sessions on Monza's Temple of Speed, reigning world champion Lando Norris has found few reasons to believe he can deliver a hat-trick of Formula 1 wins at this weekend's Italian Grand Prix.Norris claimed fourth in Monza's second practice outing, 0.384s behind Mercedes' George Russell, as he sounded surprised by McLaren's relative lack of pace compared to the ...<a class='mor",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/kimi-antonelli-hit-with-mercedes-revenge-prank-at-italian-gp/10851955/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-03T17:15:19.000Z",
+        "url": "https://www.motorsport.com/f1/news/mclaren-not-in-the-fight-for-italian-gp-pole-admits-downbeat-lando-norris/10852303/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-04T17:35:01.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Fernando Alonso reveals emotional helmet tribute for Italian Grand Prix",
-        "summary": "Fernando Alonso will honour his late mentor and first manager, Adrián Campos, with a tribute helmet design at this weekend's Italian Grand Prix at Monza.Aston Martin officially unveiled the striking new lid on social media, showing the design that steps away from the two-time champion's traditional blue and yellow theme. Instead, it features the red and yellow of the Spanish flag and is ...<a class='more",
+        "title": "Lewis Hamilton worried about Mercedes top speed after Italian GP practice",
+        "summary": "Lewis Hamilton feels Mercedes has a top speed advantage over Ferrari at Monza which will be crucial at the Formula 1 Italian Grand Prix.Ferrari delivered an engine upgrade at Monza as permitted under ADUO, and started its home round brightly with Charles Leclerc leading a 1-2 in first practice.But in second practice George Russell fought back to top the session for Mercedes ahead ...<a class='more' h",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/fernando-alonso-reveals-emotional-helmet-tribute-for-italian-grand-prix/10851944/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-03T16:43:35.000Z",
+        "url": "https://www.motorsport.com/f1/news/lewis-hamilton-worried-about-mercedes-top-speed-after-italian-gp-practice/10852292/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-04T17:11:05.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "It's really starting to look like a new StarCraft game will be revealed at BlizzCon",
-        "summary": "Initial reports of a Nexon-developed shooter were met with doubt, but now something funky is happening with the StarCraft 2 website. And have you seen the BlizzCon schedule?",
+        "title": "As Wardogs blows past 200k Steam concurrents, its developers are prepared for the day 'hype dies down'",
+        "summary": "\"Doesn't make it a bad game, or even a problem.\"",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/its-really-starting-to-look-like-a-new-starcraft-game-will-be-revealed-at-blizzcon/",
-        "seendate": "2026-09-03T21:48:29.000Z",
+        "url": "https://www.pcgamer.com/games/fps/as-wardogs-blows-past-200k-steam-concurrents-its-developers-are-prepared-for-the-day-hype-dies-down/",
+        "seendate": "2026-09-04T23:22:45.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Owner of nearly decade-old Dell laptop reportedly wore through the wrist rest and is 'being stabbed by carbon fibers'",
-        "summary": "Ouch.",
+        "title": "'Grand Theft Auto is a videogame franchise built around criminal activity': Miami-Dade County Sheriff comes out hard against a proposed GTA 6 collab with Rockstar",
+        "summary": "It actually sounds like a really good idea, but of course the cops are against it.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/hardware/gaming-laptops/owner-of-nearly-decade-old-dell-laptop-reportedly-wore-through-the-wrist-rest-and-is-being-stabbed-by-carbon-fibers/",
-        "seendate": "2026-09-03T19:28:36.000Z",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-is-a-videogame-franchise-built-around-criminal-activity-miami-dade-county-sheriff-comes-out-hard-against-a-proposed-gta-6-collab-with-rockstar/",
+        "seendate": "2026-09-04T21:54:43.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "The bizarre spirit of classic Elder Scrolls games is alive and well in little lo-fi RPG A Short Quest",
-        "summary": "A few hours with a recent playtest has me eager to play the full thing next year.",
+        "title": "After a massive 2021 office expansion, Bungie is now trying to sublease its 211,000 square foot headquarters",
+        "summary": "Bungie says it \"will continue to maintain a physical office presence in Bellevue.\"",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/rpg/the-bizarre-spirit-of-classic-elder-scrolls-games-is-alive-and-well-in-little-lo-fi-rpg-a-short-quest/",
-        "seendate": "2026-09-03T19:00:00.000Z",
+        "url": "https://www.pcgamer.com/gaming-industry/after-a-massive-2021-office-expansion-bungie-is-now-trying-to-sublease-its-211-000-square-foot-headquarters/",
+        "seendate": "2026-09-04T21:21:31.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Onimusha: Way of the Sword launch times and release date",
-        "summary": "Your countdown to some quality katana time.",
+        "title": "The White House launches online 'arcade' with its own takes on Tetris and other popular games, and it's as rotten as you'd expect",
+        "summary": "The arcade currently includes games based on Tetris, Flappy Bird, and Snake, and of course a healthy dose of racism and pro-Trump propaganda.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/action/onimusha-way-of-the-sword-launch-time-release-date/",
-        "seendate": "2026-09-03T17:57:53.000Z",
+        "url": "https://www.pcgamer.com/games/the-white-house-launches-online-arcade-with-its-own-takes-on-tetris-and-other-popular-games-and-its-as-rotten-as-youd-expect/",
+        "seendate": "2026-09-04T21:11:38.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Stalker 2 studio is raffling keychains made from a shot-down Russian helicopter to raise funds for mine removal in the real-world Chornobyl Exclusion Zone",
-        "summary": "Other prizes include patches, t-shirts, and game keys—GSC Game World hopes to raise at least $100,000 for the effort.",
+        "title": "Me: You can now run DLSS 5 on AMD GPUs. My RX 9070 XT: Please stop, it hurts us",
+        "summary": "A new app allows you to inject DLSS Neural Rendering deep into games even if you're running an AMD card. You probably won't want to, though.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/fps/stalker-2-studio-is-raffling-keychains-made-from-a-shot-down-russian-helicopter-to-raise-funds-for-mine-removal-in-the-real-world-chornobyl-exclusion-zone/",
-        "seendate": "2026-09-03T15:46:03.000Z",
+        "url": "https://www.pcgamer.com/hardware/graphics-cards/me-you-can-now-run-dlss-5-on-amd-gpus-my-rx-9070-xt-please-stop-it-hurts-us/",
+        "seendate": "2026-09-04T20:10:48.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
       {
-        "title": "Apocalypse prep or pure pragmatism: what is behind Peter Thiel’s move to Argentina?",
-        "summary": "Relocation coincides with proposed laws that opponents say would entrench power of US tech billionaires in countryDozens of protesters converged on Peter Thiel’s mansion in Buenos Aires this week after a congressional session raised questions about the billionaire’s presence in the country.In white masks, they held signs saying “Peter Thief” and “No to the Peter Thiel law” in front of the wrought-iro",
+        "title": "Serbians targeted with spyware in country’s ‘largest documented wave of surveillance’",
+        "summary": "Student protesters among those hacked, says digital rights group, though Aleksandar Vučić’s government denies spying At least 14 people from across Serbian civil society were targeted with advanced spyware earlier this year in what the digital rights group Share Foundation said was the largest documented ​wave of such infection in Serbia to date.The wave of spyware infections was discovered in August",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/sep/03/peter-thiel-argentina-javier-milei",
-        "seendate": "2026-09-03T12:00:29.000Z",
+        "url": "https://www.theguardian.com/world/2026/sep/03/serbians-targeted-with-advanced-spyware",
+        "seendate": "2026-09-03T22:10:18.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Nvidia to buy developer platform Hugging Face in $12.9bn deal",
-        "summary": "Semi-conductor giant bets that support for open AI models could offset potential slowdown in demand for chipsNvidia will buy the popular developer platform Hugging Face for nearly $13bn, betting that support for ⁠open AI models could offset a potential slowdown in demand for the semiconductor giant’s chips.Shares ⁠in Nvidia were ⁠slightly lo",
+        "title": "US military disables ad trackers on troops’ phones amid security fears",
+        "summary": "Senator releases letters from armed forces after reports of location data being used to track US troops in Middle EastUS military officials say they have disabled advertising trackers on a range of phones and computers, according to letters released on Friday by the US senator Ron Wyden and ⁠statements given to Reuters.The development foll",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/sep/03/nvidia-to-buy-hugging-face-in-129bn-deal",
-        "seendate": "2026-09-03T16:59:56.000Z",
+        "url": "https://www.theguardian.com/us-news/2026/sep/04/military-disables-phone-ad-trackers",
+        "seendate": "2026-09-04T12:36:01.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Black Box: The Chatbots | Spirals | Ep 1 – podcast",
-        "summary": "Across the world, hundreds of people have come to believe they have made extraordinary scientific discoveries with AI chatbots such as ChatGPT, Claude and Gemini. Others say their AI has ‘awakened’, or is leading them to a higher spiritual realm. The Guardian journalist Michael Safi begins investigating a phenomenon labelled ‘AI psychosis’, travelling to the US to meet two people who have been on weird journeys wi",
+        "title": "Sadiq Khan agrees to have his texts and emails searched in Palantir legal battle",
+        "summary": "US tech company has sued London mayor after he prevented it from working with Metropolitan policeSadiq Khan has agreed for his text messages and emails to be searched as part of a legal battle with Palantir, the high court has been told, after he prevented the US technology company from working with the Metropolitan police.The London mayor stepped in to block a £50m deal between Palantir and the Met",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/audio/2026/sep/03/black-box-the-chatbots-spirals-ai-psychosis-podcast",
-        "seendate": "2026-09-03T12:42:54.000Z",
+        "url": "https://www.theguardian.com/politics/2026/sep/03/sadiq-khan-agrees-have-texts-emails-searched-palantir-legal-battle",
+        "seendate": "2026-09-03T22:04:49.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Child sexual abuse survivor alleges Elon Musk’s AI chatbot used photos of her to generate new illegal images",
-        "summary": "Musk denied he was aware Grok ever produced ‘any naked underage images’A survivor of child sexual abuse has sued Elon Musk’s artificial intelligence company, alleging that its chatbot used pictures of her abuse to generate new illegal pornographic images that depict he",
+        "title": "OpenAI hails ‘new era of artificial general intelligence’ with Astra model release",
+        "summary": "Astra’s arrival comes days after Sam Altman, OpenAI’s chief executive, described AGI as an ‘irrelevant marketing term’The president of OpenAI, Greg Brockman, has claimed the world has entered a new era of artificial general intelligence after the release of his company’s latest model, Astra, which it described as the “world’s most intelligent and aligned model”.Brockman made the claim on Thursday as",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/sep/03/elon-musk-ai-grok-child-porn-lawsuit",
-        "seendate": "2026-09-03T09:00:49.000Z",
+        "url": "https://www.theguardian.com/technology/2026/sep/03/openai-artificial-general-intelligence-astra-release",
+        "seendate": "2026-09-03T18:24:42.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "London’s first self-driving taxis for hire hit the streets",
-        "summary": "Wayve robotaxis added to Uber app and will have human in front ready to take over if needed – but only 15 cars licensedLondoners are now able to hire self-driving taxis for the first time, after rides in Wayve’s autonomous vehicles were added to the Uber app on Thursday.The chances of landing a robotaxi on request immediately are slim, with only 15 vehicles so far licensed. That contrasts with the mo",
+        "title": "Hundreds gather to urge Scottish government to pause datacentre boom",
+        "summary": "Opposition mounts as at least 20 projects proposed, including one in Fife billed as second largest in worldKat Jones may be the closest thing Scotland has to Erin Brockovich in 2026. Standing in the shadow of Arthur’s Seat outside Holyrood, the 52-year-old is revving up the crowd of protesters around her. “Who is here from Lammermuir? Ayrshire? What about Aberdeen?” she calls to the crowd.On Thursday",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/sep/03/london-first-self-driving-taxis-for-hire-wayve-uber",
-        "seendate": "2026-09-03T05:00:44.000Z",
+        "url": "https://www.theguardian.com/uk-news/2026/sep/03/hundreds-holyrood-pause-scotland-datacentre-boom-ai",
+        "seendate": "2026-09-03T17:48:48.000Z",
         "domain": "theguardian.com"
       }
     ],
@@ -383,43 +383,43 @@
     ],
     "science": [
       {
+        "title": "‘They’ll be finding bodies next year’: a renowned forensic scientist on Nepal’s ‘extreme challenges’",
+        "summary": "Prof Richard Bassed helped identify Boxing Day tsunami and victims of Australia’s catastrophic Black Saturday bushfires. ‘The randomness of this massive flood,’ he says. ‘That gets to you’Get our breaking news email, free app or <a href=\"https://www.theguardian.com/australia-news/ser",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/sep/04/nepal-tibet-flood-victim-identification-australian-forensic-scientist-richard-bassed-ntwnfb",
+        "seendate": "2026-09-04T02:02:42.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Milky Way at the dining table: Bath art show celebrates 18th-century brother and sister astronomers",
+        "summary": "Exhibition opens in former home of William Herschel, who discovered Uranus, and his comet-spotting sibling CarolineFrom the garden of their Georgian townhouse in Bath in the late 18th century, a brother and sister made a series of extraordinary astronomical discoveries.A new art show in the house where the siblings – William and Caroline Herschel – worked and lived highlights their pioneering spirit",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/sep/04/bath-show-astronomers-william-caroline-herschel-art",
+        "seendate": "2026-09-04T15:00:10.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Genetically modified pig kidney keeps man alive for record nine months",
+        "summary": "Organ kept Tim Andrews off dialysis and acted as a ‘bridge’ while he waited for a human transplant in the USA genetically modified kidney from a pig called Wilma has kept a 66-year-old man with kidney failure alive for a record nine months and successfully acted as a “bridge” to a human transplant in a world first.Tim Andrews was seriously ill with end-stage kidney disease caused by type 2 diabetes a",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/sep/03/genetically-modified-pig-kidney-keeps-man-alive-record-nine-months",
+        "seendate": "2026-09-03T22:30:50.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Rich people more likely to steal children’s sweets, finds Ig Nobel prize-winning study",
+        "summary": "We round up this year’s winners at awards for achievements that ‘first make people laugh and then make them think’It’s that time of year again: a select group of scientists have been summoned to a ceremony to receive coveted prizes, be showered in paper planes, and leave with a 10tn dollar bill, albeit in the form of a phased-out note from Zimbabwe. It is, of course, the annual Ig Nobel awards.Not to",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/sep/03/ig-nobel-prize-awards-2026-winners",
+        "seendate": "2026-09-03T17:00:43.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "There’s a quick way to slow climate change. Why isn’t everyone doing it? - video",
         "summary": "Methane is a potent greenhouse gas that traps more than 80 times as much heat than carbon dioxide over a 20-year period and causes 25% of global heating today. We definitely don’t want this gas spewing needlessly into the atmosphere, but in 2023 that’s exactly what environment editor Damian Carrington found was happening when he reported on 1,000 super-emitting methane leaks across the globe. Now Turkmenis",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/science/video/2026/sep/03/theres-a-quick-way-to-slow-climate-change-why-isnt-everyone-doing-it-video",
         "seendate": "2026-09-03T15:01:36.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Smelling test: children need education in sniffing aromas, scientist says",
-        "summary": "Exclusive: Dr Will Tullett says better understanding of scents can improve wellbeing and perception of the worldChildren need a better education in sniffing aromas, a leading historian of smells has said, noting it may improve their wellbeing and help them understand the world around them.Dr Will Tullett, of the University of York, said pollution had been found to impair people’s olfactory abilities,",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/aug/31/children-education-sniffing-aromas-scientist",
-        "seendate": "2026-08-31T13:00:25.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Could humans ever communicate with whales? - video",
-        "summary": "Ever since the earliest known recording of whale song was made in 1949, researchers have been captivated by the wails, rumbles, clicks, grunts and squeals of their communication. As technology improves, scientists are decoding the intricate patterns that make di",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/video/2026/sep/01/could-humans-ever-communicate-with-whales-video",
-        "seendate": "2026-09-01T13:22:59.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Forbidden planet: was Pluto’s 2006 demotion a big mistake?",
-        "summary": "Since it was stripped of planetary status, Pluto’s defenders have been fighting the decision – and they’re only getting more passionateTwenty years ago, Pluto got demoted. After a vote by the International Astronomical Union (IAU) in August 2006, Pluto was relegated from major planet to dwarf planet status. Our solar system dropped from nine planets to eight. At the time, many scientists were unhappy with t",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/aug/31/forbidden-planet-was-plutos-2006-demotion-a-big-mistake",
-        "seendate": "2026-08-31T04:00:16.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Starwatch: Sagitta’s arrow shape makes it easy to see against a dark sky",
-        "summary": "The third-smallest constellation can be found partway along one of the imaginary lines of the summer triangleWe are on the hunt for another small, northern summer constellation this week: Sagitta, the arrow. Although it consists of just a handful of faint stars, Sagitta’s distinctive shape (it really does look like an arrow) makes it easy to identify against a dark sky.The chart shows the view lookin",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/aug/31/starwatch-sagittas-arrow-shape-makes-it-easy-to-see-against-a-dark-sky",
-        "seendate": "2026-08-31T05:00:16.000Z",
         "domain": "theguardian.com"
       }
     ]
