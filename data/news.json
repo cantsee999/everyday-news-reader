@@ -1,8 +1,16 @@
 {
-  "generatedAt": "2026-09-05T00:27:36.025Z",
+  "generatedAt": "2026-09-06T00:20:51.238Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
+      {
+        "title": "Egyptian TV presenter among 12 sentenced to death for drug crime",
+        "summary": "Sarah Khalifa, 39, charged with forming organised criminal gang to manufacture and traffic drugsAn Egyptian court sentenced a well-known television presenter and 11 others to death for manufacturing and trafficking narcotics in a sprawling drug case, official media reported on Saturday.The presenter, Sarah Khalifa, 39, is best known for her programme Mission Impossible, which dealt with issues concer",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/sep/05/egyptian-tv-presenter-among-12-sentenced-to-death-for-drug",
+        "seendate": "2026-09-05T18:00:15.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "UN votes to adopt new world map that shows Africa’s true scale",
         "summary": "Togo-sponsored resolution called to phase out traditional map that depicts continent as similar size to GreenlandThe United Nations has voted to adopt a resolution for the world to formally phase out the traditional Mercator map of the globe in favour of one that more accurately displays Africa’s size.In a session at its headquarters in New York, the UN general assembly officially retired the 16th-ce",
@@ -34,56 +42,48 @@
         "url": "https://www.theguardian.com/world/2026/sep/02/guinea-bissau-voters-approve-constitution-elections",
         "seendate": "2026-09-02T09:20:55.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Almost half of world’s farmers poisoned by pesticides every year, experts find",
-        "summary": "Study reveals that pesticide poisoning kills 11,000 people each year, with India accounting for nearly 60% of fatalitiesAlmost half of the world’s farmers are poisoned by pesticides every single year, a study has found.Using publicly available data from 2006-2023, the study, which was commiss",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/2026/sep/02/50-per-cent-world-farmers-poisoned-pesticides-every-year-experts",
-        "seendate": "2026-09-02T06:00:25.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "conflict": [
       {
-        "title": "Muddy but alive : two workers rescued from Nepal tunnel",
-        "summary": "Nine days after devastating floods swept through the Himalayas, rescue workers in Nepal have pulled two workers alive...",
-        "source": "queanbeyanage.com.au",
-        "url": "https://www.queanbeyanage.com.au/story/9344289/muddy-but-alive-two-workers-rescued-from-nepal-tunnel/",
-        "seendate": "20260905T000000Z",
-        "domain": "queanbeyanage.com.au"
+        "title": "Egyptian TV presenter among 12 sentenced to death for drug crime",
+        "summary": "Sarah Khalifa, 39, charged with forming organised criminal gang to manufacture and traffic drugsAn Egyptian court sentenced a well-known television presenter and 11 others to death for manufacturing and trafficking narcotics in a sprawling drug case, official media reported on Saturday.The presenter, Sarah Khalifa, 39, is best known for her programme Mission Impossible, which dealt with issues concer",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/sep/05/egyptian-tv-presenter-among-12-sentenced-to-death-for-drug",
+        "seendate": "2026-09-05T18:00:15.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "US targets Trkiye - based bank in latest sanctions on Iran financial network",
-        "summary": "The United States, in its latest efforts of economic sanctions under Operation Economic Outcast, on Friday (local time) imposed fresh sanctions on a Trkiye-based financial institution and two of its subsidiaries, accusing them of facilitating transactions linked to Iran's Islamic Revolutionary Guard Corps-Qods Force (IRGC-QF) and providing the Iranian regime with access to international correspondent banking services",
-        "source": "shanghaisun.com",
-        "url": "http://www.shanghaisun.com/news/279286914/us-targets-trkiye-based-bank-in-latest-sanctions-on-iran-financial-network",
-        "seendate": "20260905T000000Z",
-        "domain": "shanghaisun.com"
+        "title": "UN votes to adopt new world map that shows Africa’s true scale",
+        "summary": "Togo-sponsored resolution called to phase out traditional map that depicts continent as similar size to GreenlandThe United Nations has voted to adopt a resolution for the world to formally phase out the traditional Mercator map of the globe in favour of one that more accurately displays Africa’s size.In a session at its headquarters in New York, the UN general assembly officially retired the 16th-ce",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/sep/04/un-vote-world-map-mercator-equal-earth-africa",
+        "seendate": "2026-09-04T16:49:29.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Colin Kaepernick impact , 10 years after his kneeling protest with 49ers",
-        "summary": "“It wasn’t a sudden act,” he wrote in a statement this spring announcing his memoir, ”The Perilous Fight,” a title borrowed from a passage of the very song to which his name will forever be linked.",
-        "source": "ukiahdailyjournal.com",
-        "url": "https://www.ukiahdailyjournal.com/2026/09/04/colin-kaepernick-kneeling-protest-decade-impact-49ers/",
-        "seendate": "20260905T000000Z",
-        "domain": "ukiahdailyjournal.com"
+        "title": "Spain’s PM says no evidence ‘whatsoever’ Morocco behind Ceuta border breach",
+        "summary": "Pedro Sánchez continues to defend Rabat after police report claiming border forces helped 70,000 cross borderEurope live – latest updatesSpain has seen no evidence “whatsoever” that Morocco planned or facilitated a",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/sep/03/spain-pm-evidence-morocco-ceuta-border-breach",
+        "seendate": "2026-09-03T12:52:08.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Trump says envoys taking plan to  end the war  to Moscow , Kyiv",
-        "summary": "It will be Jared Kushner&#x27;s and Steve Witkoff&#x27;s first visit to war-torn Kyiv since the US president returned to office last year.",
-        "source": "freemalaysiatoday.com",
-        "url": "https://www.freemalaysiatoday.com/category/highlight/2026/09/05/trump-says-envoys-taking-plan-to-end-the-war-to-moscow-kyiv",
-        "seendate": "20260905T000000Z",
-        "domain": "freemalaysiatoday.com"
+        "title": "‘We continue to suffer’: victims of apartheid-era Sharpeville massacre demand compensation",
+        "summary": "Claim relating to 1960 attack on hundreds of protesters part of wave of litigation over apartheid crimes in South AfricaThe day dawned brightly on 21 March 1960, as residents of the South African township of Sharpeville gathered to protest against pass laws, which forced “Black, Indian and Coloured” South Africans to carry documents at all times specifying where they were allowed to be.Abraham Mofoke",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/sep/03/victims-sue-south-african-government-sharpeville-massacre-apartheid",
+        "seendate": "2026-09-03T10:11:37.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Woolworths , Coles : Profit margins challenge price gouging claims | Tenterfield Star",
-        "summary": "This is what your grocery bill actually pays for.",
-        "source": "tenterfieldstar.com.au",
-        "url": "https://www.tenterfieldstar.com.au/story/9342351/woolworths-coles-profit-margins-challenge-price-gouging-claims/",
-        "seendate": "20260905T000000Z",
-        "domain": "tenterfieldstar.com.au"
+        "title": "New constitution in Guinea-Bissau will undermine democracy, opponents say",
+        "summary": "Referendum result means fewer seats in parliament and new rules on candidates, ahead of December electionsGuinea-Bissau voters have approved a new constitution, which critics say will undermine democracy, that significantly expands presidential powers ahead of elections due in December.According to provisional results, 70% of voters approved sweeping changes in the tiny west African state’s first con",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/sep/02/guinea-bissau-voters-approve-constitution-elections",
+        "seendate": "2026-09-02T09:20:55.000Z",
+        "domain": "theguardian.com"
       }
     ],
     "economy": [
@@ -214,90 +214,106 @@
     ],
     "f1": [
       {
-        "title": "\"We clearly have an issue\" – Red Bull responds to Max Verstappen's radio complaints",
-        "summary": "Friday ahead of the Formula 1 Italian Grand Prix was far from trouble-free for Red Bull. There had been hope beforehand that Monza’s layout would suit the team better than Zandvoort, but after Friday practice both Red Bulls were behind a Racing Bulls (Arvid Lindblad) and a Haas (Oliver Bearman).Max Verstappen gave up his seat to Ayumu Iwasa during first practice, but once he got behind the ...<a class='m",
+        "title": "F1 Italian GP: Sunday schedule, weather forecast and how to watch",
+        "summary": "Formula 1 heads into Sunday at Monza with Pierre Gasly on pole after a stunning qualifying result for Alpine at the Italian GP.Gasly beat George Russell by just 0.060s to take his first Formula 1 pole position, using a tow from Lewis Hamilton to vault to the top of the timesheets in Q3. Oscar Piastri qualified third, but will serve a three-place grid penalty for blocking Liam ...<a class='more' href='htt",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/we-clearly-have-an-issue-red-bull-responds-to-max-verstappens-radio-complaints/10852336/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-04T18:00:11.000Z",
+        "url": "https://www.motorsport.com/f1/news/f1-italian-gp-sunday-schedule-weather-forecast-and-how-to-watch/10852817/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-05T23:08:46.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "F1 Italian GP: Saturday schedule, weather forecast and how to watch",
-        "summary": "Formula 1 heads into Saturday at Monza with George Russell fastest after second practice for the Italian Grand Prix.The Mercedes driver beat Ferrari’s Charles Leclerc by 0.120s in FP2, with championship leader Kimi Antonelli third as Mercedes and Ferrari traded blows at the front. Lando Norris, winner of the last two grands prix, was fourth for McLaren ahead of Lewis Hamilton and Oscar ...<a class='more'",
+        "title": "Oscar Piastri on Monza 2025 team orders: \"I wouldn’t change how I responded\"",
+        "summary": "Exactly a year ago, Oscar Piastri arrived at Monza as the title favourite, leading team-mate Lando Norris by 34 points after the latter's retirement at Zandvoort - but it was from that weekend onwards that things started to go wrong. Piastri eventually lost the title, ending the season third behind not only Norris, but also Max Verstappen.While several poor performances and mistakes cost him a ...<a clas",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/f1-italian-gp-saturday-schedule-weather-forecast-and-how-to-watch/10852320/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-04T17:50:38.000Z",
+        "url": "https://www.motorsport.com/f1/news/oscar-piastri-on-monza-2025-team-orders-i-wouldnt-change-how-i-responded/10852790/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-05T22:56:11.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Mercedes vs Ferrari: Italian GP long runs leave no clear favourite",
-        "summary": "After Charles Leclerc topped the opening practice session for Ferrari, Mercedes struck back in the more representative second practice session, with George Russell setting the fastest time.That made the long runs at the end of FP2 particularly intriguing. They are considered an important indicator of potential race pace for Sunday. Yet the picture could hardly be any less clear.Read ...<a class='more",
+        "title": "How Oscar Piastri's Q3 mistake denied Lando Norris \"half a second\" in Italian GP qualifying",
+        "summary": "Lando Norris believes he could have set a quicker lap in Monza qualifying had his team-mate Oscar Piastri not made a mistake in the closing moments of Italian Grand Prix qualifying, which may effectively have cost the defending Formula 1 world champion a few positions on the grid.Norris was ninth in qualifying, with his best Q3 lap coming on his first attempt. His 1m22.256s put him seventh in ...<a class",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/mercedes-vs-ferrari-italian-gp-long-runs-leave-no-clear-favourite/10852331/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-04T17:47:00.000Z",
+        "url": "https://www.motorsport.com/f1/news/how-oscar-piastris-q3-mistake-denied-lando-norris-half-a-second-in-monza-qualifying/10852723/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-05T18:19:23.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "McLaren \"not in the fight for Italian GP pole\", admits downbeat Lando Norris",
-        "summary": "After completing two practice sessions on Monza's Temple of Speed, reigning world champion Lando Norris has found few reasons to believe he can deliver a hat-trick of Formula 1 wins at this weekend's Italian Grand Prix.Norris claimed fourth in Monza's second practice outing, 0.384s behind Mercedes' George Russell, as he sounded surprised by McLaren's relative lack of pace compared to the ...<a class='mor",
+        "title": "Jeremy Clarkson makes Alpine F1 promise after Pierre Gasly Italian GP pole",
+        "summary": "Former Top Gear and The Grand Tour host Jeremy Clarkson has promised the whole Alpine Formula 1 team a Hawkstone beer if Pierre Gasly wins the Italian Grand Prix.Gasly topped Saturday's qualifying session at Monza, securing his maiden pole position for Sunday's race.Clarkson, whose Diddly Squat Farm in Chipping Norton is situated close to Alpine's Enstone headquarters, quickly reacted to ...<a class=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/mclaren-not-in-the-fight-for-italian-gp-pole-admits-downbeat-lando-norris/10852303/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-04T17:35:01.000Z",
+        "url": "https://www.motorsport.com/f1/news/jeremy-clarkson-makes-alpine-f1-promise-after-pierre-gasly-italian-gp-pole/10852731/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-05T18:02:24.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Lewis Hamilton worried about Mercedes top speed after Italian GP practice",
-        "summary": "Lewis Hamilton feels Mercedes has a top speed advantage over Ferrari at Monza which will be crucial at the Formula 1 Italian Grand Prix.Ferrari delivered an engine upgrade at Monza as permitted under ADUO, and started its home round brightly with Charles Leclerc leading a 1-2 in first practice.But in second practice George Russell fought back to top the session for Mercedes ahead ...<a class='more' h",
+        "title": "George Russell frustrated with Max Verstappen qualifying antics: \"He just slammed on the brakes\"",
+        "summary": "George Russell was frustrated with Max Verstappen \"slamming on the brakes\" at the start of their final Q3 laps in Formula 1 Italian Grand Prix qualifying as the Mercedes driver narrowly missed out on pole.Heading into the decisive qualifying run, Verstappen was leading a train with Kimi Antonelli and Russell, who were planning to work together to hand Russell the best possible slipstream as ...<a class='",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/lewis-hamilton-worried-about-mercedes-top-speed-after-italian-gp-practice/10852292/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-04T17:11:05.000Z",
+        "url": "https://www.motorsport.com/f1/news/george-russell-frustrated-with-max-verstappen-qualifying-antics-he-just-slammed-on-the-brakes/10852698/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-05T17:46:38.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "As Wardogs blows past 200k Steam concurrents, its developers are prepared for the day 'hype dies down'",
-        "summary": "\"Doesn't make it a bad game, or even a problem.\"",
+        "title": "Peak studio Aggro Crab is publishing a sick-looking platformer about a blue collar guy doing dirty work on an alien world",
+        "summary": "That's what's up.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/fps/as-wardogs-blows-past-200k-steam-concurrents-its-developers-are-prepared-for-the-day-hype-dies-down/",
-        "seendate": "2026-09-04T23:22:45.000Z",
+        "url": "https://www.pcgamer.com/games/action/peak-studio-aggro-crab-is-publishing-a-sick-looking-platformer-about-a-blue-collar-guy-doing-dirty-work-on-an-alien-world/",
+        "seendate": "2026-09-05T20:32:46.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "'Grand Theft Auto is a videogame franchise built around criminal activity': Miami-Dade County Sheriff comes out hard against a proposed GTA 6 collab with Rockstar",
-        "summary": "It actually sounds like a really good idea, but of course the cops are against it.",
+        "title": "Saber CCO says the studio isn't changing up its comms strategy after recent controversies: 'There's always some dust up'",
+        "summary": "\"The games will speak for themselves.\"",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-is-a-videogame-franchise-built-around-criminal-activity-miami-dade-county-sheriff-comes-out-hard-against-a-proposed-gta-6-collab-with-rockstar/",
-        "seendate": "2026-09-04T21:54:43.000Z",
+        "url": "https://www.pcgamer.com/gaming-industry/saber-cco-says-the-studio-isnt-changing-up-its-comms-strategy-after-recent-controversies-theres-always-some-dust-up/",
+        "seendate": "2026-09-05T20:13:22.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "After a massive 2021 office expansion, Bungie is now trying to sublease its 211,000 square foot headquarters",
-        "summary": "Bungie says it \"will continue to maintain a physical office presence in Bellevue.\"",
+        "title": "Dwarf Fortress co-creator Tarn Adams was amazed other devs had heard of his game the first time he went to a convention: 'I didn't know that anyone knew what we were doing'",
+        "summary": "\"I try to have good moral qualities, but I am apparently subject to all forms of flattery and vanity and such.\"",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/after-a-massive-2021-office-expansion-bungie-is-now-trying-to-sublease-its-211-000-square-foot-headquarters/",
-        "seendate": "2026-09-04T21:21:31.000Z",
+        "url": "https://www.pcgamer.com/games/sim/dwarf-fortress-co-creator-tarn-adams-was-amazed-other-devs-had-heard-of-his-game-the-first-time-he-went-to-a-convention-i-didnt-know-that-anyone-knew-what-we-were-doing/",
+        "seendate": "2026-09-05T19:14:22.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "The White House launches online 'arcade' with its own takes on Tetris and other popular games, and it's as rotten as you'd expect",
-        "summary": "The arcade currently includes games based on Tetris, Flappy Bird, and Snake, and of course a healthy dose of racism and pro-Trump propaganda.",
+        "title": "8-year Old School RuneScape saga comes to a close with former dev sentenced for stealing $400K in gold and items from players",
+        "summary": "You ever just lose your 20s to a self-inflicted RuneScape legal saga.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/the-white-house-launches-online-arcade-with-its-own-takes-on-tetris-and-other-popular-games-and-its-as-rotten-as-youd-expect/",
-        "seendate": "2026-09-04T21:11:38.000Z",
+        "url": "https://www.pcgamer.com/games/mmo/8-year-old-school-runescape-saga-comes-to-a-close-with-former-dev-sentenced-for-stealing-usd400k-in-gold-and-items-from-players/",
+        "seendate": "2026-09-05T18:10:16.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Me: You can now run DLSS 5 on AMD GPUs. My RX 9070 XT: Please stop, it hurts us",
-        "summary": "A new app allows you to inject DLSS Neural Rendering deep into games even if you're running an AMD card. You probably won't want to, though.",
+        "title": "Kingdom Come: Deliverance director says DLSS 5 does right by KCD 2, 'people are crazy' for thinking it's AI slop",
+        "summary": "\"I am the creative director of the game. This is our original artistic vision.\"",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/hardware/graphics-cards/me-you-can-now-run-dlss-5-on-amd-gpus-my-rx-9070-xt-please-stop-it-hurts-us/",
-        "seendate": "2026-09-04T20:10:48.000Z",
+        "url": "https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-director-says-dlss-5-does-right-by-kcd-2-people-are-crazy-for-thinking-its-ai-slop/",
+        "seendate": "2026-09-05T16:08:04.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
+      {
+        "title": "‘We’re plausibly close to crossing the line’: are warnings of uncontrollable AI coming true?",
+        "summary": "A spate of serious safety incidents have increased fears about the power and impenetrability of the most advanced modelsPicture humanity in a boat being swept down a raging river, praying there is no Niagara Falls ahead. Or imagine standing with the pioneering physicists in 1942 before they triggered the first self-sustaining nuclear fission chain reaction beneath a Chicago stadium.These were two of",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/sep/05/uncontrollable-ai-artificial-general-intelligence-warnings",
+        "seendate": "2026-09-05T07:00:30.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Cut the cameras: Flock surveillance cameras spur rare bipartisan backlash",
+        "summary": "Politicians on the right and left are pushing back against Flock as more Americans voice opposition to the techGrowing factions from both sides of the political aisle in the US are pushing back against surveillance cameras made by a single company, a rare response in a sharply divided country with a president pushing an unwaveringly pro-tech agenda.The bipartisan backlash against Flock Safety cameras",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/sep/05/flock-cameras-political-backlash",
+        "seendate": "2026-09-05T14:00:37.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Serbians targeted with spyware in country’s ‘largest documented wave of surveillance’",
         "summary": "Student protesters among those hacked, says digital rights group, though Aleksandar Vučić’s government denies spying At least 14 people from across Serbian civil society were targeted with advanced spyware earlier this year in what the digital rights group Share Foundation said was the largest documented ​wave of such infection in Serbia to date.The wave of spyware infections was discovered in August",
@@ -321,25 +337,17 @@
         "url": "https://www.theguardian.com/politics/2026/sep/03/sadiq-khan-agrees-have-texts-emails-searched-palantir-legal-battle",
         "seendate": "2026-09-03T22:04:49.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "OpenAI hails ‘new era of artificial general intelligence’ with Astra model release",
-        "summary": "Astra’s arrival comes days after Sam Altman, OpenAI’s chief executive, described AGI as an ‘irrelevant marketing term’The president of OpenAI, Greg Brockman, has claimed the world has entered a new era of artificial general intelligence after the release of his company’s latest model, Astra, which it described as the “world’s most intelligent and aligned model”.Brockman made the claim on Thursday as",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/sep/03/openai-artificial-general-intelligence-astra-release",
-        "seendate": "2026-09-03T18:24:42.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Hundreds gather to urge Scottish government to pause datacentre boom",
-        "summary": "Opposition mounts as at least 20 projects proposed, including one in Fife billed as second largest in worldKat Jones may be the closest thing Scotland has to Erin Brockovich in 2026. Standing in the shadow of Arthur’s Seat outside Holyrood, the 52-year-old is revving up the crowd of protesters around her. “Who is here from Lammermuir? Ayrshire? What about Aberdeen?” she calls to the crowd.On Thursday",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/uk-news/2026/sep/03/hundreds-holyrood-pause-scotland-datacentre-boom-ai",
-        "seendate": "2026-09-03T17:48:48.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "climate": [
+      {
+        "title": "Trump order directs officials to consider stripping protections for gray wolves",
+        "summary": "Interior department given three months to decide whether wolves can be removed from endangered species listDonald Trump signed an executive order on Friday directing the interior department to consider de-listing gray wolves from the Endangered Species Act and to contemplate whether the agency could make it easier to authorize killing them.The <a href=\"https://www.whitehouse.gov/presidential-actions/",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/sep/04/trump-order-gray-wolves",
+        "seendate": "2026-09-05T00:50:41.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Razed by wildfire, erased by USPS: Hawaiians fight to restore mail delivery",
         "summary": "Wildfire victims rebuilt their homes in Lahaina only to find USPS had ‘eliminated’ their addresses – while houses that didn’t burn receive mail as normalTwo months after a devastating wildfire whipped through Lahaina in August 2023, Pam Reader was allowed back to see what was left of her home. With a heavy heart, she returned to the Hawaiian oceanside town now filled with endless blocks of burned houses. As",
@@ -370,14 +378,6 @@
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/us-news/2026/sep/02/weather-betting-kalshi-polymarket",
         "seendate": "2026-09-02T15:00:28.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Blackout risk rises as heatwave stresses largest US electric grids",
-        "summary": "US energy department warns of potential for outages in PJM Interconnection, serving 67 million from DC to ChicagoThe risk ⁠of power outages ⁠is expected to ​escalate across a broad swath of the United States on Wednesday as intense heat will test the capacity of electricity supplies ⁠serving millions of homes and businesses from the midwest through the mid-Atlantic.The US Department of Energy warned",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/sep/02/heatwave-power-outage-risk",
-        "seendate": "2026-09-02T12:16:52.000Z",
         "domain": "theguardian.com"
       }
     ],
