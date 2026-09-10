@@ -1,8 +1,24 @@
 {
-  "generatedAt": "2026-09-09T00:48:46.165Z",
+  "generatedAt": "2026-09-10T00:42:04.431Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
+      {
+        "title": "Uganda to withdraw from Invictus Games ‘out of respect for King Charles’, says military chief",
+        "summary": "Gen Muhoozi Kainerugaba announces decision to pull out in post on X, citing tensions over ‘Harry-Meghan nonsense’Uganda is withdrawing from the Duke of Sussex’s Invictus Games, the country’s military chief has said, out of respect for King Charles amid division over the “Harry-Meghan nonsense”.Gen Muhoozi Kainerugaba, son of the Ugandan president, made the surprise announcement in a post on X on Wedn",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/sep/09/uganda-withdraws-invictus-games-out-of-respect-king-charles",
+        "seendate": "2026-09-09T18:20:24.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Babies born to anaemic mothers have smaller brains, study finds",
+        "summary": "Key regions of the brain linked to movement, learning and emotions were affected and may lead to cognitive problems Babies born to mothers with anaemia have smaller brains, particularly in key regions linked to movement, learning and the regulation of emotion, according to a study.Researchers said the differences, first detected at the age of one, could lead to cognitive problems when children starte",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/global-development/2026/sep/09/babies-born-to-anaemic-mothers-have-smaller-brains-study-finds",
+        "seendate": "2026-09-09T04:00:58.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Hijacking pirates exploit regional chaos to return to seas off Somalia",
         "summary": "US-Israel war on Iran and political instability in Somalia lead to pirates targeting cargo ships off Horn of AfricaThe scourge of Somali piracy targeting cargo ships and smaller dhows off the Horn of Africa has returned to levels not seen in a decade, driven by a convergence of factors including disruptions to the shipping industry caused by the US-Israeli war against Iran and a resurgence of political inst",
@@ -25,27 +41,27 @@
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/world/2026/sep/05/egyptian-tv-presenter-among-12-sentenced-to-death-for-drug",
         "seendate": "2026-09-05T18:00:15.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "UN votes to adopt new world map that shows Africa’s true scale",
-        "summary": "Togo-sponsored resolution called to phase out traditional map that depicts continent as similar size to GreenlandThe United Nations has voted to adopt a resolution for the world to formally phase out the traditional Mercator map of the globe in favour of one that more accurately displays Africa’s size.In a session at its headquarters in New York, the UN general assembly officially retired the 16th-ce",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/sep/04/un-vote-world-map-mercator-equal-earth-africa",
-        "seendate": "2026-09-04T16:49:29.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Spain’s PM says no evidence ‘whatsoever’ Morocco behind Ceuta border breach",
-        "summary": "Pedro Sánchez continues to defend Rabat after police report claiming border forces helped 70,000 cross borderEurope live – latest updatesSpain has seen no evidence “whatsoever” that Morocco planned or facilitated a",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/sep/03/spain-pm-evidence-morocco-ceuta-border-breach",
-        "seendate": "2026-09-03T12:52:08.000Z",
         "domain": "theguardian.com"
       }
     ],
     "conflict": [
       {
+        "title": "Uganda to withdraw from Invictus Games ‘out of respect for King Charles’, says military chief",
+        "summary": "Gen Muhoozi Kainerugaba announces decision to pull out in post on X, citing tensions over ‘Harry-Meghan nonsense’Uganda is withdrawing from the Duke of Sussex’s Invictus Games, the country’s military chief has said, out of respect for King Charles amid division over the “Harry-Meghan nonsense”.Gen Muhoozi Kainerugaba, son of the Ugandan president, made the surprise announcement in a post on X on Wedn",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/sep/09/uganda-withdraws-invictus-games-out-of-respect-king-charles",
+        "seendate": "2026-09-09T18:20:24.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Babies born to anaemic mothers have smaller brains, study finds",
+        "summary": "Key regions of the brain linked to movement, learning and emotions were affected and may lead to cognitive problems Babies born to mothers with anaemia have smaller brains, particularly in key regions linked to movement, learning and the regulation of emotion, according to a study.Researchers said the differences, first detected at the age of one, could lead to cognitive problems when children starte",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/global-development/2026/sep/09/babies-born-to-anaemic-mothers-have-smaller-brains-study-finds",
+        "seendate": "2026-09-09T04:00:58.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Hijacking pirates exploit regional chaos to return to seas off Somalia",
         "summary": "US-Israel war on Iran and political instability in Somalia lead to pirates targeting cargo ships off Horn of AfricaThe scourge of Somali piracy targeting cargo ships and smaller dhows off the Horn of Africa has returned to levels not seen in a decade, driven by a convergence of factors including disruptions to the shipping industry caused by the US-Israeli war against Iran and a resurgence of political inst",
         "source": "theguardian.com",
@@ -68,67 +84,67 @@
         "url": "https://www.theguardian.com/world/2026/sep/05/egyptian-tv-presenter-among-12-sentenced-to-death-for-drug",
         "seendate": "2026-09-05T18:00:15.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "UN votes to adopt new world map that shows Africa’s true scale",
-        "summary": "Togo-sponsored resolution called to phase out traditional map that depicts continent as similar size to GreenlandThe United Nations has voted to adopt a resolution for the world to formally phase out the traditional Mercator map of the globe in favour of one that more accurately displays Africa’s size.In a session at its headquarters in New York, the UN general assembly officially retired the 16th-ce",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/sep/04/un-vote-world-map-mercator-equal-earth-africa",
-        "seendate": "2026-09-04T16:49:29.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Spain’s PM says no evidence ‘whatsoever’ Morocco behind Ceuta border breach",
-        "summary": "Pedro Sánchez continues to defend Rabat after police report claiming border forces helped 70,000 cross borderEurope live – latest updatesSpain has seen no evidence “whatsoever” that Morocco planned or facilitated a",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/sep/03/spain-pm-evidence-morocco-ceuta-border-breach",
-        "seendate": "2026-09-03T12:52:08.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "economy": [
       {
-        "title": "Canada’s retaliatory US tariffs take effect as trade dispute grows",
-        "summary": "Counter-measures covering several sectors come after Trump announced 50% tariffs on Canadian goods Canada’s retaliatory tariffs on billions of dollars’ worth of American imports have come into effect, escalating a trade fight that has been marked by intensifying tensions between the U",
+        "title": "Bond market rebuffs US treasury’s plan to buy back $6bn in government debt",
+        "summary": "Scott Bessent made announcement on Wednesday as bond yields rose to highest point since 2008 financial crisisUS politics live – latest updatesThe US treasury moved to cut the cost of borrowing on Wednesday only to be swiftly rebuffe",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/sep/07/canada-tariffs-us-trump",
-        "seendate": "2026-09-08T04:00:59.000Z",
+        "url": "https://www.theguardian.com/business/2026/sep/09/treasury-bond-buyback",
+        "seendate": "2026-09-09T19:56:30.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘The most anti-union president’: how Trump turned his back on US workers",
-        "summary": "Labor experts stunned at how anti-worker Trump has been with actions since last Labor Day that have hurt unionsDonald Trump has repeatedly vowed to champion US workers. Shortly before Labor Day last year, he said: “Every policy of the Trump administration is designed to lift up the American worker and “promote gr",
+        "title": "Oil prices rise above $100 a barrel for first time since July as Iran war escalates",
+        "summary": "Brent crude up by more than 3% after latest fire between US and Iran in Gulf and Houthi attacks on Saudi citiesThe price of oil has risen above $100 a barrel for the first time since July as the escalating conflict in the Middle East threatens further disruption to global supplies.Brent crude, the international benchmark for oil prices, rose by more than 3% to top $101 after tensions increased in the",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/sep/07/trump-workers-labor-union",
-        "seendate": "2026-09-07T11:00:49.000Z",
+        "url": "https://www.theguardian.com/business/2026/sep/09/oil-prices-rise-iran-war-brent-crude-inflation-higher-interest-rates",
+        "seendate": "2026-09-09T19:09:13.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘There’s no plan’: as instability in global bond markets rises, what are the knock-on effects?",
-        "summary": "From mortgages to inflation, concerns about the public finances of major economies have wide-reaching consequencesWhen Donald Trump was asked recently about the threat of rising interest rates on US government debt, he told baffled reporters: “The ultimate intervention is our military. And if we have to use that, we will.”Perhaps not surprisingly, his bellicose words did not soothe fractious bond mar",
+        "title": "Electronic shelf labels likely to cost jobs and drive up grocery prices, US report warns",
+        "summary": "AFL-CIO calls for ban on such labels to protect consumers and workers from surveillance pricing and job cutsThe universal adoption of electronic shelf labels in grocery stores across the US could cost tens of thousands of jobs and billions of dollars in lost wages while further driving up grocery costs, according to a report released on Tuesday.An analysis by the AFL-CIO Tech Institute of the label m",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/sep/04/instability-in-global-bond-markets-rising-knock-on-effects",
-        "seendate": "2026-09-04T16:49:28.000Z",
+        "url": "https://www.theguardian.com/us-news/2026/sep/09/electronic-shelf-labels-grocery",
+        "seendate": "2026-09-09T11:00:07.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Maria Bartiromo’s lawyer denies she was fired from Fox News anchor role",
-        "summary": "Fox announced host’s departure Thursday but gave no explanation, only saying it was effective immediatelyMaria Bartiromo’s lawyer sharply denied that she was fired from her job at Fox News on Friday, after reports that she was dismissed after divulging the network’s editorial guidance to the White House.Fox announced <a href=\"https://www.theguardian.com/media/2026/sep/03/maria-bartiromo-fox-news-depa",
+        "title": "US bans Canadian dairy, alcohol and motorcycles as trade war escalates",
+        "summary": "Trump responds after Canada imposes $20bn in retaliatory tariffs and Canadian PM vows to diversify trade abroadThe US is banning dairy products, most alcoholic beverages and motorcycles from Canada, the White House said on Tuesday, as the trade war between the two neighbors and longtime allies escalates.The ban will take effect in three weeks and",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/media/2026/sep/04/maria-bartiromo-lawyer-denies-fox-news-firing",
-        "seendate": "2026-09-04T17:56:11.000Z",
+        "url": "https://www.theguardian.com/us-news/2026/sep/08/trump-canada-trade-war-dairy-alcohol",
+        "seendate": "2026-09-08T23:59:37.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "US added 162,000 jobs in August, with unemployment rate holding steady",
-        "summary": "Number of new jobs being added has been fluctuating, with private companies adding 38,000 jobs in AugustThe US economy added 162,000 jobs in August, an uptick after a sluggish summer for the labor market.The unemployment rate held steady at 4.1%, still down from its most recent peak of 4.5% last November, according to new data from the Bureau of Labor Statistics (BLS). Despite the relative stability",
+        "title": "US labor unions saw membership gains in 2025, mostly in states with bargaining protections",
+        "summary": "Uptick in US union membership coincides with high public approval ratings of unionsAfter years of decline, union membership in the US increased by 411,000 members in 2025, the largest increase since 2008, according to a new report.The report makes clear the impact that “right to work” laws can have on union membership: most gains were concentrated in",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/sep/04/august-economy-jobs-report",
-        "seendate": "2026-09-04T12:40:44.000Z",
+        "url": "https://www.theguardian.com/us-news/2026/sep/07/labor-unions-membership-increase",
+        "seendate": "2026-09-07T11:00:48.000Z",
         "domain": "theguardian.com"
       }
     ],
     "literature": [
+      {
+        "title": "What Should My Children Do? by Daniel Susskind review – the case for embracing tech in the classroom",
+        "summary": "A refreshingly optimistic book that asks us to grasp the educational opportunities of AI, rather than shrink from themIn 1979, the government asked Wilfred Cockcroft, a now largely forgotten maths lecturer from the University of Hull, to write a report about a crisis in the teaching of his subject to children. It was wide-ranging and meticulous, and included&nbsp;a chapter on a technological innovation that",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/sep/09/what-should-my-children-do-by-daniel-susskind-review-the-case-for-embracing-tech-in-the-classroom",
+        "seendate": "2026-09-09T06:00:01.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "All About My Mother by Rachael Stirling review – a joyous love letter to Diana Rigg",
+        "summary": "Beautifully written by her daughter, this is a funny and intimate eulogy to the 60s star of The Avengers who went on to specialise in fierce, complicated womenThe late actor Diana Rigg declined to call herself a feminist, noting: “Why would I burn my bra? I need my bra.” Nonetheless, her ideas on womanhood were ahead of their time. In an interview with Michael Parkinson, she observed how marriage was “all r",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/sep/09/all-about-my-mother-by-rachael-stirling-review-a-joyous-love-letter-to-diana-rigg",
+        "seendate": "2026-09-09T08:00:03.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "‘She blazed in and opened my eyes to the real world’: Readers remember Gloria Steinem",
         "summary": "To generations of women, the feminist campaigner was an inspiration, a fearless challenger of sexism and domestic violence. Guardian readers share memories of her courage, intelligence, and warmthWhat I appreciated most about Gloria was she let me feel normal. I graduated in engineering as one of three women in a class of over 150. In her world, a feminist was a woman that wanted to be judged for her capabi",
@@ -152,236 +168,244 @@
         "url": "https://www.theguardian.com/books/2026/sep/08/the-castle-by-jon-ronson-review-bizarre-tales-of-modern-masculinity",
         "seendate": "2026-09-08T08:00:31.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Hawking by Graham Farmelo review – the dark side of genius",
-        "summary": "A biography of the physicist recognises his achievements, but also reveals the selfish narcissist underneathWhen I wrote an unadoring review of Stephen Hawking’s final book, a collection of essays published posthumously in 2018, New Scientist suppressed some of my criticisms on the grounds that it was “too early” to voice anything other than praise for the physicist who died, aged 76, that March. It was app",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/sep/07/hawking-by-graham-farmelo-review-the-dark-side-of-genius",
-        "seendate": "2026-09-07T06:00:26.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Our Noble Selves by Kate Atkinson review – quirky postwar nostalgia from the Life After Life author",
-        "summary": "There are glimpses of Atkinson’s subtle brilliance in this gentle noirish mystery set around the Festival of BritainIn 1951, in a desperate attempt to raise the spirits of a shattered nation, the government came up with the Festival of Britain, a celebration of national creativity, grit and ingenuity. It is a moment in history that could have been designed for Kate Atkinson, who loves nothing more than a qu",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/sep/07/our-noble-selves-by-kate-atkinson-review-quirky-postwar-nostalgia-from-the-life-after-life-author",
-        "seendate": "2026-09-07T14:11:29.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "entertainment": [
       {
-        "title": "Company review – Casey Affleck entertains us with creepy campfire tales",
-        "summary": "Venice film festival: Affleck’s third film as a director is a diverting gothic anthology about mysterious strangers, murder and – pointedly – wronged menGather ye ’round the glowing screen for a Casey Affleck campfire tale. It contains superstitions and murder and human oddities of all stripes. An old hermit in his shack. Something nasty in the woodshed. If you like the first tale, fill you",
+        "title": "Russian director refuses to denounce lead actor despite criticism from Ukraine",
+        "summary": "Ilya Khrzhanovsky’s DAU, about physicist Lev Landau, stars Russian conductor Teodor Currentzis, who has refused to speak out against Putin’s warThe director of a controversial new Russian film has said “everyone pays for his own choice” when asked about his lead’s refusal to condemn Russia’s war in Ukraine.In film-maker Ilya Khrzhanovsky’s DAU, which premiered at the Venice film festival on Wednesday",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/sep/08/company-review-casey-affleck-creepy-anthology",
-        "seendate": "2026-09-08T19:45:48.000Z",
+        "url": "https://www.theguardian.com/film/2026/sep/09/dau-director-defends-russian-lead-actor-ukraine-criticism",
+        "seendate": "2026-09-09T16:41:27.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "South Park changes name to South America in response to Trump changes",
-        "summary": "Satirical program’s new title is ‘inspired by bravery and patriotism’ of Apple and Google, who capitulated to Trump’s requests to change Lake Ontario to ‘Lake America’In light of Donald Trump’s attempts to rename a gulf, lakes and even states after “Americ",
+        "title": "Union Town review – passionate exposé of US delivery workers’ employment conditions",
+        "summary": "Venice film festival: Barbara Kopple returns with her third film investigating US workers’ rights – this time, undocumented ‘deliveristas’ and the attempts to unionise Amazon staffBarbara Kopple’s documentary about app-based delivery workers is a stirring, defiant, battle-hardened affair, swinging between the fraught picket line and the still more hazardous New York City streets. It’s a new",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/sep/08/south-park-changes-name-to-south-america-trump",
-        "seendate": "2026-09-08T18:21:11.000Z",
+        "url": "https://www.theguardian.com/film/2026/sep/09/union-town-review-barbara-kopple-amazon-ups",
+        "seendate": "2026-09-09T15:49:03.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Bunker review – Cruz and Bardem just can’t dig Florian Zeller’s shallow thriller out of a hole",
-        "summary": "Venice film festival: An architect (Javier Bardem) alienates his book editor wife (Penélope Cruz) when he agrees to build a luxurious bunker for a tech billionaireEven the formidable pairing of Penélope Cruz and Javier Bardem can’t save this new movie from writer-director Florian Zeller – his first created directly for the screen, and not adapted from his own stage original. It’s shallow an",
+        "title": "John Malkovich cancels Israel trip over fabricated solidarity quote",
+        "summary": "The Wild Horse Nine actor had been due to appear on stage in The Music Critic in Tel Aviv – but pulled out over PR firm’s ‘unacceptable and untenable’ attribution of statementJohn Malkovich has cancelled a planned trip to Israel next year to appear on stage after a PR firm hired by the show attributed quotes to the actor that the company had written.Malkovich, who is a leading Oscar contender for his",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/sep/08/the-bunker-review-penelope-cruz-javier-bardem-florian-zeller-venice-film-festival",
-        "seendate": "2026-09-08T17:00:45.000Z",
+        "url": "https://www.theguardian.com/film/2026/sep/09/john-malkovich-cancels-israel-trip-over-fabricated-solidarity-quote",
+        "seendate": "2026-09-09T15:23:41.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Andrew Garfield takes on Sam Altman in creepy first teaser for Artificial",
-        "summary": "Luca Guadagnino-directed film will be released by Neon after being dropped by Amazon amid OpenAI partnershipBig tech goes to Hollywood: is Silicon Valley ready for a silver-screen reckoning?The first teaser trailer of <a href=\"https://www.theguardian.com/film/luca-guadagnino",
+        "title": "‘We felt someone was watching us’: author Rozina Ali on the untold story of Islamophobia in the US",
+        "summary": "In her new book Seasons of Fury, Ali traces the impact of anti-Muslim policies in the US, from the 1967 Israel-Arab war and the ‘war on terror’ to TrumpGrowing up in the early 2000s in California, surrounded by piles of history books about the Kennedy family and her Buffy the Vampire Slayer DVDs, Rozina Ali’s childhood felt idyllic. She and her family had moved from Pakistan to the US when Ali was five year",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/sep/08/andrew-garfield-sam-altman-artificial-movie-openai",
-        "seendate": "2026-09-08T16:31:02.000Z",
+        "url": "https://www.theguardian.com/us-news/2026/sep/09/islamophobia-9-11-rozina-ali-interview",
+        "seendate": "2026-09-09T15:15:35.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Practical Magic 2 review – Bullock and Kidman return for odd sequel that still casts a spell",
-        "summary": "A nostalgia-bait return to the witchy 90s comedy is as strange and messy as the first but there are warm seasonal pleasures to be hadMuch has changed in the universe, cosmic and otherwise, since the Owens witches last graced the big screen with their practical magic of sleeping draughts, midnight margaritas and generational love curses. For one, movies like the 1998 cult-ish classic <a href=\"https://www.the",
+        "title": "Jon Stewart on Donald Trump’s hectic summer: ‘Relentless denial of reality’",
+        "summary": "Late-night hosts returned from summer break to address Trump’s trolling of Canada, the war in Iran and a rusty shipLate-night hosts returned from summer vacation to a nation still in crisis, from the war in Iran to gas prices to Donald Trump’s meme war to rena",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/sep/08/practical-magic-2-movie-review",
-        "seendate": "2026-09-08T16:05:39.000Z",
+        "url": "https://www.theguardian.com/culture/2026/sep/09/jon-stewart-donald-trump-denial-reality",
+        "seendate": "2026-09-09T14:53:29.000Z",
         "domain": "theguardian.com"
       }
     ],
     "f1": [
       {
-        "title": "Kimi Antonelli like “AI agent\" that's always getting better, according to Toto Wolff",
-        "summary": "Mercedes boss Toto Wolff admits that even he has been surprised by the rapid growth shown by Kimi Antonelli over the course of the 2026 Formula 1 season, likening him to an \"AI agent\" that is always improving.The 20-year-old Italian is in just his second F1 season after being fast-tracked to the top tier as a replacement for Lewis Hamilton when he left the Silver Arrows ahead of the 2025 ...<a class='mor",
+        "title": "Five things to look out for at the F1 Spanish GP",
+        "summary": "Formula 1 will welcome a new host of the Spanish Grand Prix this weekend as the Madring will make its debut on the outskirts of Spain’s capital city.It is replacing previous Spanish GP holder Barcelona, which is still on the F1 calendar but under a new name having hosted its 2026 race in June - won by Lewis Hamilton.This weekend will be the first time Madrid has appeared on the F1 ...<a class='more'",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/kimi-antonelli-like-an-ai-agent-that-continuously-improves-says-toto-wolff/10853636/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-08T15:30:47.000Z",
+        "url": "https://www.motorsport.com/f1/news/five-things-to-look-out-for-at-the-f1-spanish-gp/10853925/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-09T16:12:35.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "McLaren to \"review\" racing between Lando Norris and Oscar Piastri following Italian GP",
-        "summary": "After Lando Norris was heard accusing team-mate Oscar Piastri of forcing him off-track in the Formula 1 Italian Grand Prix, McLaren admits it will “review” its terms of engagement when the two drivers face one another on track.In Sunday’s 53-lap race at Monza, Piastri started sixth while Norris lined up eighth. By the closing stages of the race, the pair had begun tussling for position ...<a class='more'",
+        "title": "“Even a small mistake can cost you a lot” – How Madring will challenge F1 drivers",
+        "summary": "Ferrari Formula 1 junior Tuukka Taponen has described the new Madring circuit as “quite physical” and “very demanding”, explaining how tough perfection is to reach there.Taponen and other Formula 3 drivers were out on track for a two-day test at Madrid’s new circuit on 24-25 August, and the scale of the challenge noticeably emerged as successive crashes caused five red flags in one ...<a class='more' hre",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/mclaren-to-review-racing-between-lando-norris-and-oscar-piastri-following-italian-gp/10853620/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-08T14:58:16.000Z",
+        "url": "https://www.motorsport.com/f1/news/even-a-small-mistake-can-cost-you-a-lot-how-challenging-the-madring-f1-track-will-be/10853878/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-09T13:12:38.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Ferrari’s ADUO 2 upgrade is no “game changer” for Haas either",
-        "summary": "Oliver Bearman says Ferrari’s ADUO 2 engine upgrade represents “a much smaller step” than Haas’ updated Formula 1 chassis.The Prancing Horse introduced its second and final power unit upgrade of the 2026 season, courtesy of the Additional Development and Upgrade Opportunities system, with one such powertrain handed to Haas for the Italian Grand Prix. It was fitted to Bearman’s ...<a class='more' href='ht",
+        "title": "Red Bull signs Kimi Raikkonen’s son as junior driver",
+        "summary": "Robin Raikkonen, the son of 2007 Formula 1 world champion Kimi, has been signed to the Red Bull Junior Team.Raikkonen was born on 27 January 2015 and has been active in karting since 2022, having competed in the Rotax Max Challenge, first in Switzerland, then across Europe. He also took part in the WSK Super Master Series last year. In both cases, that was in age-appropriate ...<a class='more' href='http",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/ferraris-aduo-2-upgrade-is-no-game-changer-for-haas-either/10853480/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-08T08:18:58.000Z",
+        "url": "https://www.motorsport.com/f1/news/red-bull-signs-kimi-raikkonens-son-as-junior-driver/10853835/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-09T10:26:50.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Juan Pablo Montoya: Mercedes should have double-stacked George Russell and Kimi Antonelli at Monza",
-        "summary": "Former Formula 1 driver Juan Pablo Montoya believes Mercedes compromised George Russell's Italian Grand Prix by not double-stacking its drivers under the virtual safety car.Mercedes secured a 1-2 finish at Monza led by home hero Kimi Antonelli, who recovered from 19th on the grid to become the first Italian winner at the circuit since 1966. But Russell controlled the early phases of the race ...<a class=",
+        "title": "Charles Leclerc to avoid F1 Spanish GP engine penalty despite Monza crash",
+        "summary": "Charles Leclerc managed to avoid engine damage in his high-speed crash at Monza so will not receive a grid penalty for this weekend’s Formula 1 Spanish Grand Prix.The Ferrari driver retired on lap two of the Italian Grand Prix on Sunday after losing control of his car through the Parabolic at more than 230km/h.It came as the result of a bounce over a water drain causing Leclerc, who ...<a class='more",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/juan-pablo-montoya-mercedes-should-have-double-stacked-george-russell-and-kimi-antonelli-at-monza/10853452/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-08T08:00:05.000Z",
+        "url": "https://www.motorsport.com/f1/news/charles-leclerc-avoiding-spanish-gp-penalty/10853820/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-09T10:21:39.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Isack Hadjar to sit out third F1 race in Madrid as Yuki Tsunoda returns",
-        "summary": "Red Bull has confirmed Isack Hadjar will require more time to recover from his wrist injury, which will see the Frenchman sit out his third consecutive grand prix at this weekend's Formula 1 Spanish Grand Prix in Madrid. Liam Lawson will return to the RB22 to partner Max Verstappen, while Yuki Tsunoda gets another race with Racing Bulls.\"The decision has been taken as Isack's recovery ...<a class='mo",
+        "title": "What to expect from F1's newest race as Madring debuts",
+        "summary": "Madrid's 10-year tenure of the Spanish Grand Prix, taking over the moniker from the now biennial Barcelona race, is Formula 1's latest effort to bring its series to urban population centres.It does so for 57 laps on a two-headed monster of a circuit that will take drivers and teams some time to wrap their collective engineering minds around.Initial concept renderings of the so-called ...<a class='mor",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/isack-hadjar-to-sit-out-third-f1-race-in-madrid-as-yuki-tsunoda-returns/10853531/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-07T17:13:12.000Z",
+        "url": "https://www.motorsport.com/f1/news/what-to-expect-from-f1s-newest-race-track-as-madring-debuts/10853761/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-09T08:07:36.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "Corporations want to kill physical media because it suits them, but Big Box PC game packaging just got a second chance",
-        "summary": "It's now much easier to take the DIY approach.",
+        "title": "Steam now requires Australian users to have a credit card to purchase R18+ games, and no, a simple bank debit card won't work",
+        "summary": "If you don't have a credit card, you don't play adult games.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/corporations-want-to-kill-physical-media-because-it-suits-them-but-big-box-pc-game-packaging-just-got-a-second-chance/",
-        "seendate": "2026-09-08T23:54:37.000Z",
+        "url": "https://www.pcgamer.com/gaming-industry/steam-now-requires-australian-users-to-have-a-credit-card-to-purchase-r18-games-and-no-a-simple-bank-debit-card-wont-work/",
+        "seendate": "2026-09-09T22:40:41.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Less than a week after launch, The Blood of Dawnwalker developer is already getting to work on the sequel",
-        "summary": "Rebel Wolves is hiring.",
+        "title": "Ikea made a Skyrim mod starring Matt Berry as a sentient shelf named Kallax Storageborn",
+        "summary": "The mod includes a new quest, companion, and items—and as marketing stunts go, it looks pretty good.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/rpg/less-than-a-week-after-launch-the-blood-of-dawnwalker-developer-is-already-getting-to-work-on-the-sequel/",
-        "seendate": "2026-09-08T21:58:52.000Z",
+        "url": "https://www.pcgamer.com/games/the-elder-scrolls/ikea-made-a-skyrim-mod-starring-matt-berry-as-a-sentient-shelf-named-kallax-storageborn/",
+        "seendate": "2026-09-09T21:45:53.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Thousand Hells is a 'tactical narrative' feast of infernal storytelling, but its defeats can feel brutal",
-        "summary": "From the developer of King of Dragon Pass, a gorgeously imagined meat grinder for hapless adventuring parties.",
+        "title": "How to make money fast in Wardogs",
+        "summary": "An early guide to farming cash in Wardogs.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/rpg/thousand-hells-is-a-tactical-narrative-feast-of-infernal-storytelling-but-its-defeats-can-feel-brutal/",
-        "seendate": "2026-09-08T21:38:54.000Z",
+        "url": "https://www.pcgamer.com/games/fps/wardogs-money-farm/",
+        "seendate": "2026-09-09T21:32:31.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Inspired by the success of games like Clair Obscur: Expedition 33, French president Emmanuel Macron declares 'videogames are part of our culture' and announces a new international gaming festival",
-        "summary": "It seems like Clair Obscur: Expedition 33 really made an impact on Macron.",
+        "title": "'We are no longer using that one red pipe asset we weren't supposed to use': The Blood of Dawnwalker hotfix clears up one of the game's more charming mistakes",
+        "summary": "Dead bodies won't be so talkative anymore either.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/inspired-by-the-success-of-games-like-clair-obscur-expedition-33-french-president-emmanuel-macron-declares-videogames-are-part-of-our-culture-and-announces-a-new-international-gaming-festival/",
-        "seendate": "2026-09-08T20:45:50.000Z",
+        "url": "https://www.pcgamer.com/games/rpg/we-are-no-longer-using-that-one-red-pipe-asset-we-werent-supposed-to-use-the-blood-of-dawnwalker-hotfix-clears-up-one-of-the-games-more-charming-mistakes/",
+        "seendate": "2026-09-09T19:43:55.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Breaking Benjamin frontman pauses concert to rant about Fallout 4 modding beef: 'There was a modder in the community that was really mean to me'",
-        "summary": "The singer and guitarist spent several minutes asking fans to download his Fallout 4 'True First Person' mod after another modder criticized it.",
+        "title": "'What if you could own a space station?' asks No Man's Sky's Sean Murray, as he lets you own a space station",
+        "summary": "The Cosmos update is live now, and free for all players.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/fallout/breaking-benjamin-frontman-pauses-concert-to-rant-about-fallout-4-modding-beef-there-was-a-modder-in-the-community-that-was-really-mean-to-me/",
-        "seendate": "2026-09-08T19:36:27.000Z",
+        "url": "https://www.pcgamer.com/games/survival-crafting/what-if-you-could-own-a-space-station-no-mans-skys-sean-murray-asks-as-he-lets-you-own-a-space-station/",
+        "seendate": "2026-09-09T16:35:55.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
       {
-        "title": "Architect of UK’s AI policy quits after Anthropic conflict of interest concerns",
-        "summary": "Matt Clifford forced to stand down amid disquiet from senior MPs over his new full-time job at AI company The chair of the UK government’s “moonshot” science and technology research unit has been forced to stand down after taking a job with the San Francisco AI firm Anthropic, in a move senior MPs called a “clear conflict of interest”.Matt Clifford <a href=\"https://www.theguardian.com/technology/2026",
+        "title": "AI could kill all humans in next decade, warn experts: but how seriously should we take them?",
+        "summary": "Alarming warnings from industry insiders increase pressure for curbs on artificial superintelligenceDoes artificial superintelligence really pose a risk greater than nuclear weapons? Is there a significant chance of “a Chornobyl-sized catastrophe”. Might there even be a greater than 10% chance that AI could “kill all humans” in the next decade?These warnings were issued over the past 48 hours on both",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/sep/07/architect-uk-ai-policy-quits-anthropic-conflict-of-interest-concerns",
-        "seendate": "2026-09-07T14:42:24.000Z",
+        "url": "https://www.theguardian.com/technology/2026/sep/09/ai-superintelligence-risks-warnings-scientists-politicians",
+        "seendate": "2026-09-09T13:46:44.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "OpenAI releases new AI agent – after admitting one went rogue",
-        "summary": "Plus: Americans think they have it bad with unwanted surveillance. They should visit LondonHello, and welcome to TechScape. I’m your host, Blake Montgomery, US tech editor at the Guardian, writing to you after visiting Coney Island in New York City, where I ate a hotdog, rode a ferris wheel and enjoyed a quintessentially American summer holiday.Today in tech, we’re examining OpenAI’s new model releas",
+        "title": "UK datacentres will create just 25% of jobs predicted by tech sector, analysis finds",
+        "summary": "Facilities likely to employ 10,400 workers, compared with 40,000 in industry estimates, thinktank saysDatacentres in the UK will create just a quarter of the jobs predicted by the tech sector, while consuming vast amounts of energy, according to new research.Environmental thinktank Verdant predicts that all the datacentres currently planned are likely to directly employ 10,400 workers – compared with",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/sep/04/openai-agent-goes-rogue",
-        "seendate": "2026-09-08T13:29:51.000Z",
+        "url": "https://www.theguardian.com/uk-news/2026/sep/09/uk-datacentres-will-create-just-25-of-jobs-predicted-by-tech-sector-analysis-finds",
+        "seendate": "2026-09-09T06:00:00.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "AI will help find cure for cancer ‘within our lifetimes’, says Arm Holdings chief",
-        "summary": "Rene Haas also claims artificial intelligence could pave way for widespread use of humanoid robots within five yearsBusiness live – latest updatesThe boss of one of the UK’s biggest chip companies has claimed AI will be able to find",
+        "title": "US allies lack resources to keep pace on AI, top Pentagon official says",
+        "summary": "Cameron Stanley talks up ‘revolutionary’ AI capabilities and says Washington working with Nato and Five Eyes partnersThe Pentagon’s top artificial intelligence official said on Tuesday that America’s closest allies lack the resources to keep pace with the US military’s adoption of AI, and that Washington is working to steer them away from mistakes it made along the way.“They don’t have the resources",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/sep/08/ai-cure-cancer-arm-holdings-rene-haas",
-        "seendate": "2026-09-08T11:49:11.000Z",
+        "url": "https://www.theguardian.com/us-news/2026/sep/09/us-military-pentagon-allies-ai",
+        "seendate": "2026-09-09T10:00:05.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "US police fear Meta smart glasses could be used to secretly record them",
-        "summary": "Exclusive: Documents show officers from Maine to California worry Meta’s camera-equipped glasses will be used either to secretly record them or aid acts of terrorismIn January, the New York police department’s counter-terrorism unit sent out a memo warning police officers about a new potential “security and counterintelligence” threat: Ray-Ban Meta glasses.The memo directed officers to “conduct thoro",
+        "title": "OpenAI claims to have solved maths problem that stumped humans for decades",
+        "summary": "Company behind ChatGPT says 10,000 of its AI systems cracked the Navier-Stokes problem in 88 hoursOpenAI claims to have solved a major mathematics problem that has stumped humans for nearly a century after spending millions of dollars on the artificial intelligence-led endeavour.The company behind ChatGPT said it had cracked the Navier-Stokes problem, one of seven Millennium Prize Problems <a href=\"h",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/sep/08/us-law-enforcement-meta-smart-glasses",
-        "seendate": "2026-09-08T10:00:02.000Z",
+        "url": "https://www.theguardian.com/science/2026/sep/08/openai-claims-to-have-solved-maths-problem-that-stumped-humans-for-decades",
+        "seendate": "2026-09-08T21:29:10.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Trump administration attacks UK plans to boost traditional media on social platforms",
-        "summary": "US embassy says Downing Street’s plan to give BBC, ITV and other established media more online visibility carries risk of ‘censorship’The Trump administration has raised “serious concerns” over Downing Street’s plan to force YouTube and other digital platforms to hand more prominence to established broadcasters, warning the move risks “facilitating censorship”.In a pointed intervention, the US govern",
+        "title": "Apple unveils folding iPhone Duo as new CEO takes center stage",
+        "summary": "The passport-size iPhone Duo serves as the first big test for John Ternus, who took over for Tim Cook last weekApple has unveiled the iPhone Duo, the company’s first foldable phone and the most significant change to the iPhone since the smartphone’s introduction in 2007.</p",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/sep/07/trump-administration-attacks-uk-social-media-plans",
-        "seendate": "2026-09-07T14:20:12.000Z",
+        "url": "https://www.theguardian.com/technology/2026/sep/08/apple-new-folding-iphone",
+        "seendate": "2026-09-09T18:45:46.000Z",
         "domain": "theguardian.com"
       }
     ],
     "climate": [
       {
-        "title": "Celebrity Traitors and Clarkson Farm win top prizes at National TV Awards",
-        "summary": "The first celebrity spin-off of the BBC smash hit was named best reality competition.",
-        "source": "salisburyjournal.co.uk",
-        "url": "https://www.salisburyjournal.co.uk/news/national/26533682.celebrity-traitors-clarksons-farm-win-top-prizes-national-tv-awards/",
-        "seendate": "20260909T001500Z",
-        "domain": "salisburyjournal.co.uk"
+        "title": "California confirms rare sighting of gray wolf in Mendocino national forest",
+        "summary": "Officials say sighting a sign species – driven to extinction in state before reintroduction in 2011 – expanding its rangeA gray wolf has recently been seen in California’s Mendocino national forest for the first time since the species returned to the state 15 years ago, state wildlife officials confirmed.Officials in Lake county, which is about two hours north of San Francisco, said last week the Cal",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/sep/08/california-gray-wolf-mendocino-national-forest",
+        "seendate": "2026-09-08T22:09:59.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Erik and Lyle Menendez parole hearing moved up to March 2027",
-        "summary": "Erik and Lyle Menendez could face the parole board again in March, about 17 months earlier than expected.",
-        "source": "koco.com",
-        "url": "https://www.koco.com/article/menendez-brothers-parole-board-spring-2027/73644428",
-        "seendate": "20260909T001500Z",
-        "domain": "koco.com"
+        "title": "Hurricane Lowell’s fierce winds and rains knocks out power on Hawaii’s Kauai",
+        "summary": "Center of storm passed west of the islands and was moving away but flooding and mudslides will continue to be a riskDamaging winds and heavy rains from Hurricane Lowell pelted Hawaii’s western islands on Tuesday, knocking out power to thousands and ripping up stretches of beachside roads.Fierce winds downed trees and caused widespread power out",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/sep/08/hawaii-hurricane-lowell",
+        "seendate": "2026-09-08T20:47:38.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Construction Waste For Climate Protection In The Ocean ? ",
-        "summary": "Over the next seven weeks, the harbour of the small community of Taliarte on the east coast of Gran Canaria will become an open-air laboratory. In twelve",
-        "source": "eurasiareview.com",
-        "url": "https://www.eurasiareview.com/08092026-construction-waste-for-climate-protection-in-the-ocean/",
-        "seendate": "20260909T001500Z",
-        "domain": "eurasiareview.com"
+        "title": "US federal court says no constitutional right to clean water in Mississippi case",
+        "summary": "Appeals court dismisses lawsuit from Jackson residents claiming that tainted drinking water violated their rights A US appellate court has decided that the federal constitution does not guarantee a right to clean water.That legal opinion came in the form of a decision on Friday from the fifth circuit court of appeals to uphol",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/sep/08/mississippi-clean-water-case-constitutional-right",
+        "seendate": "2026-09-08T17:37:22.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Viet Nam race to go nuclear leaves villagers in limbo",
-        "summary": "Mekong Eye (mekongeye.com) là trang web và mạng lưới báo chí chuyên cung cấp thông tin về môi trường, khí hậu và các vấn đề phát triển tại khu vực sông Mê Kông. Đây là một dự án truyền thông phi lợ…",
-        "source": "dotchuoinon.com",
-        "url": "https://dotchuoinon.com/2026/09/08/viet-nams-race-to-go-nuclear-leaves-villagers-in-limbo/",
-        "seendate": "20260909T001500Z",
-        "domain": "dotchuoinon.com"
+        "title": "US datacenters face further backlash over wastewater pollution",
+        "summary": "From rare bacteria to ‘forever chemicals’, a series of cases of violations or alleged pollution has prompted alarmWhen officials in Wyoming conducted a routine test on the water that was being discharged from a massive under-construction Meta datacenter, it was a shock to find it contained a rare and potentially hazardous bacterium.While the wastewater <a href=\"https://www.theguardian.com/us-news/202",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/sep/08/us-datacenters-wastewater-pollution",
+        "seendate": "2026-09-08T11:47:13.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Tough new rules proposed to govern minister staff behaviour | Bay Post - Moruya Examiner",
-        "summary": "Draft code says official and personal gifts must be declared.",
-        "source": "batemansbaypost.com.au",
-        "url": "https://www.batemansbaypost.com.au/story/9346469/tough-new-rules-proposed-to-govern-ministers-staff-behaviour/",
-        "seendate": "20260909T001500Z",
-        "domain": "batemansbaypost.com.au"
+        "title": "We’re the mayors of Paris, Milan and Phoenix. The heat crisis has us all facing the same question | Emmanuel Grégoire, Giuseppe Sala and Kate Gallego",
+        "summary": "Our three cities are learning from each other about how to protect residents. These climate policies are also public health measuresThis summer, mayors met in London during the heatwave that ironically threatened to derail London Climate Action Week.As temperatures broke records across the UK and Europe, leading some climate talks to be suspend",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/commentisfree/2026/sep/07/heat-climate-crisis-paris-milan-phoenix",
+        "seendate": "2026-09-07T08:00:28.000Z",
+        "domain": "theguardian.com"
       }
     ],
     "science": [
+      {
+        "title": "OpenAI claims to have solved maths problem that stumped humans for decades",
+        "summary": "Company behind ChatGPT says 10,000 of its AI systems cracked the Navier-Stokes problem in 88 hoursOpenAI claims to have solved a major mathematics problem that has stumped humans for nearly a century after spending millions of dollars on the artificial intelligence-led endeavour.The company behind ChatGPT said it had cracked the Navier-Stokes problem, one of seven Millennium Prize Problems <a href=\"h",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/sep/08/openai-claims-to-have-solved-maths-problem-that-stumped-humans-for-decades",
+        "seendate": "2026-09-08T21:29:10.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Drinking very hot drinks could triple risk of oesophageal cancer, study finds",
+        "summary": "Research finds temperature and amount of hot drinks consumed heightens possibility of developing diseaseDrinking very hot tea and coffee triples the risk of developing cancer of the gullet, the world’s largest study of the link between them has found.The findings show that people should let very hot cups of tea and coffee cool down until they are comfortable to drink, in order to reduce their risk of",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/society/2026/sep/09/hot-drinks-triples-risk-oesophageal-cancer-study",
+        "seendate": "2026-09-09T06:25:27.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Babies born to anaemic mothers have smaller brains, study finds",
+        "summary": "Key regions of the brain linked to movement, learning and emotions were affected and may lead to cognitive problems Babies born to mothers with anaemia have smaller brains, particularly in key regions linked to movement, learning and the regulation of emotion, according to a study.Researchers said the differences, first detected at the age of one, could lead to cognitive problems when children starte",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/global-development/2026/sep/09/babies-born-to-anaemic-mothers-have-smaller-brains-study-finds",
+        "seendate": "2026-09-09T04:00:58.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "‘This is dangerous’: slime moulds and the bitter debate over the nature of intelligence",
         "summary": "Scientists are battling over whether supposedly simple organisms should be considered ‘intelligent’. The outcome could reshape our understanding of the natural world – and our own place within itForty years ago, as an undergraduate in Hokkaido, Toshiyuki Nakagaki came upon a lemon-yellow stain in a petri dish. That encounter turned him into a doyen of slime mould research – and fed a storm of biological and",
@@ -396,30 +420,6 @@
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/science/2026/sep/08/how-meteorologists-helped-recreate-one-of-historys-most-important-weather-forecasts",
         "seendate": "2026-09-08T11:59:58.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Cravings ‘like heroin withdrawal’: what happens when weight-loss drugs don’t work?",
-        "summary": "GLP-1 medications have been a gamechanger in the fight against obesity. But for a minority of patients, their impact is negligible. Why?When Mercedes was told by her doctor that she could be prescribed GLP-1 weight loss jabs in 2024, she broke down. “[When] she said yes, I cried in her office. And I didn’t really stop crying for a week,” she said.“Finally, after being overweight my entire life, this",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/sep/07/glp1s-weight-loss-drugs-cravings-non-responders",
-        "seendate": "2026-09-07T15:00:21.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Are rich people really worse behaved? Here’s the science – podcast",
-        "summary": "Who’s more likely to steal sweets from a child? According to science, it’s the rich. A study seemingly confirming our suspicions about the moral behaviour of the wealthy was one of the winners of the 2026 Ig Nobel prizes, which honour research that makes you laugh and then think. Science editor Ian Sample tells Madeleine Finlay what the researchers think could be behind the phenomenon, and they explore some of the",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/audio/2026/sep/08/ig-noble-prizes-rich-people-worse-behaved-science-podcast",
-        "seendate": "2026-09-08T04:00:28.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Milky Way at the dining table: Bath art show celebrates 18th-century brother and sister astronomers",
-        "summary": "Exhibition opens in former home of William Herschel, who discovered Uranus, and his comet-spotting sibling CarolineFrom the garden of their Georgian townhouse in Bath in the late 18th century, a brother and sister made a series of extraordinary astronomical discoveries.A new art show in the house where the siblings – William and Caroline Herschel – worked and lived highlights their pioneering spirit",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/sep/04/bath-show-astronomers-william-caroline-herschel-art",
-        "seendate": "2026-09-04T15:00:10.000Z",
         "domain": "theguardian.com"
       }
     ]
