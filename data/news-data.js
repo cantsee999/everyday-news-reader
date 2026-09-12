@@ -1,8 +1,16 @@
 window.NEWS_CACHE = {
-  "generatedAt": "2026-09-11T00:38:29.085Z",
+  "generatedAt": "2026-09-12T00:45:34.946Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
+      {
+        "title": "$15m fund launched to create ‘unstoppable momentum’ to end FGM worldwide",
+        "summary": "Her Horizon Fund seeks $100m to stop practice harming 230m women and girls globally Frontline activists and leaders in the fight against female genital mutilation, which has affected more than 230 million women and girls worldwide, have welcomed an unprecedented $15.5m (£11.4m) fund aimed at creating “unstoppable momentu",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/global-development/2026/sep/11/15m-fund-launched-to-create-unstoppable-momentum-to-end-fgm-worldwide",
+        "seendate": "2026-09-11T04:00:04.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Secret son revelation ignites bitter succession dispute in Ugandan kingdom",
         "summary": "Family of late King Oyo Nyimba Kabamba Iguru Rukidi IV reject committee’s choice of cousin and TV presenter as new monarchA traditional Ugandan kingdom has become engulfed in a bitter succession dispute after the family of a king who recently died rejected the selection of a television news anchor as his successor.King Oyo Nyimba Kabamba Iguru Rukidi IV, who became the world’s youngest reigning monar",
@@ -33,19 +41,19 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/world/2026/sep/08/hijacking-pirates-somalia-geopolitical-chaos",
         "seendate": "2026-09-08T04:00:27.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Weather tracker: Typhoon Saudel causes mass evacuations in south-east China",
-        "summary": "Torrential rain causes widespread damage; while north-west South Africa hit by thunderstorms and central-southern US faces oppressive heatTyphoon Saudel brought days of torrential rain to Zhejiang, Jiangxi, Fujian and Guangdong provinces in south-east China last week. The city of Putian, in Fujian province, recorded 416.5mm of rain in a 24-hour period between Thursday and Friday, with surrounding villages r",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/sep/07/typhoon-saudel-mass-evacuations-south-east-china-weather-tracker",
-        "seendate": "2026-09-07T08:27:08.000Z",
         "domain": "theguardian.com"
       }
     ],
     "conflict": [
       {
+        "title": "$15m fund launched to create ‘unstoppable momentum’ to end FGM worldwide",
+        "summary": "Her Horizon Fund seeks $100m to stop practice harming 230m women and girls globally Frontline activists and leaders in the fight against female genital mutilation, which has affected more than 230 million women and girls worldwide, have welcomed an unprecedented $15.5m (£11.4m) fund aimed at creating “unstoppable momentu",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/global-development/2026/sep/11/15m-fund-launched-to-create-unstoppable-momentum-to-end-fgm-worldwide",
+        "seendate": "2026-09-11T04:00:04.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Secret son revelation ignites bitter succession dispute in Ugandan kingdom",
         "summary": "Family of late King Oyo Nyimba Kabamba Iguru Rukidi IV reject committee’s choice of cousin and TV presenter as new monarchA traditional Ugandan kingdom has become engulfed in a bitter succession dispute after the family of a king who recently died rejected the selection of a television news anchor as his successor.King Oyo Nyimba Kabamba Iguru Rukidi IV, who became the world’s youngest reigning monar",
         "source": "theguardian.com",
@@ -76,17 +84,17 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/world/2026/sep/08/hijacking-pirates-somalia-geopolitical-chaos",
         "seendate": "2026-09-08T04:00:27.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Weather tracker: Typhoon Saudel causes mass evacuations in south-east China",
-        "summary": "Torrential rain causes widespread damage; while north-west South Africa hit by thunderstorms and central-southern US faces oppressive heatTyphoon Saudel brought days of torrential rain to Zhejiang, Jiangxi, Fujian and Guangdong provinces in south-east China last week. The city of Putian, in Fujian province, recorded 416.5mm of rain in a 24-hour period between Thursday and Friday, with surrounding villages r",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/sep/07/typhoon-saudel-mass-evacuations-south-east-china-weather-tracker",
-        "seendate": "2026-09-07T08:27:08.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "economy": [
+      {
+        "title": "US consumers faced more high prices in August as Iran war raised energy costs",
+        "summary": "Annualized inflation rate was 3.4%, same as July, and core inflation, which omits energy and food prices, rose to 2.4%US consumer prices remained stubbornly high in August as the end of the ceasefire between the US and Iran pushed energy prices up, according to data from the US Bureau of Labor Statistics released on Friday.The annualized <a href=\"h",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/business/2026/sep/11/inflation-august-interest-rates",
+        "seendate": "2026-09-11T12:38:12.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Global bond sell-off resumes as surging oil prices stoke fears about inflation",
         "summary": "Crude jumps above $107 a barrel amid concerns over Middle East conflict and out-of-control government borrowingNervous investors across big economies have been dumping government bonds, driving up the cost of borrowing, as surging oil prices amplified fears about rising inflation.The cost of a barrel of oil jumped 6% to above $107 on Thursday amid concerns that <a href=\"https://www.theguardian.com/wo",
@@ -118,17 +126,25 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/technology/2026/sep/09/apple-product-showcase-ceo-john-ternus",
         "seendate": "2026-09-09T19:07:53.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Oil prices rise above $100 a barrel for first time since July as Iran war escalates",
-        "summary": "Brent crude up by more than 3% after latest fire between US and Iran in Gulf and Houthi attacks on Saudi citiesThe price of oil has risen above $100 a barrel for the first time since July as the escalating conflict in the Middle East threatens further disruption to global supplies.Brent crude, the international benchmark for oil prices, rose by more than 3% to top $101 after tensions increased in the",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/sep/09/oil-prices-rise-iran-war-brent-crude-inflation-higher-interest-rates",
-        "seendate": "2026-09-09T19:09:13.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "literature": [
+      {
+        "title": "A Thought Without Collision by Adrian Duncan review – a brilliant interrogation of philosophy and wonder",
+        "summary": "With a character inspired by Wittgenstein, this exploration of the mysteries of the universe draws on multiple philosophical traditionsFor several years I ran community groups that involved reading books aloud with other adults. Sharing the experience of reading in that way made me notice how, when one or more of us was baffled by a story, this bafflement was rarely experienced without an accompanying sense",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/sep/11/a-thought-without-collision-by-adrian-duncan-review-a-brilliant-interrogation-of-philosophy-and-wonder",
+        "seendate": "2026-09-11T06:00:02.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "The best recent science fiction, fantasy and horror – review roundup",
+        "summary": "Massif by Garth Nix; Revolution in the Heart: Stories Inspired By Ursula K Le Guin edited by Jonathan Strahan; An Immaculate Deception by Isabela Livino; Serenity Falls by CJ TudorMassif by Garth Nix (Gollancz, £25)The bestselling fanta",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/sep/11/the-best-recent-science-fiction-fantasy-and-horror-review-roundup",
+        "seendate": "2026-09-11T11:00:06.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Taipei Story by Rebecca F Kuang review – the torture and hilarity of learning Chinese",
         "summary": "An American Chinese student studies Mandarin in Taiwan, in this heartfelt journey of self-discovery and family secretsWhat is Taiwan? A former Japanese colony? A centre of the semiconductor industry? A democracy overseen by&nbsp;American imperialism? China’s next military target? An island of Austronesian Indigenous tribes? Is&nbsp;Taipei a cultural emblem of Taiwan, or&nbsp;just another booming global capi",
@@ -152,158 +168,158 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/books/2026/sep/09/what-should-my-children-do-by-daniel-susskind-review-the-case-for-embracing-tech-in-the-classroom",
         "seendate": "2026-09-09T06:00:01.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "All About My Mother by Rachael Stirling review – a joyous love letter to Diana Rigg",
-        "summary": "Beautifully written by her daughter, this is a funny and intimate eulogy to the 60s star of The Avengers who went on to specialise in fierce, complicated womenThe late actor Diana Rigg declined to call herself a feminist, noting: “Why would I burn my bra? I need my bra.” Nonetheless, her ideas on womanhood were ahead of their time. In an interview with Michael Parkinson, she observed how marriage was “all r",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/sep/09/all-about-my-mother-by-rachael-stirling-review-a-joyous-love-letter-to-diana-rigg",
-        "seendate": "2026-09-09T08:00:03.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "‘She blazed in and opened my eyes to the real world’: Readers remember Gloria Steinem",
-        "summary": "To generations of women, the feminist campaigner was an inspiration, a fearless challenger of sexism and domestic violence. Guardian readers share memories of her courage, intelligence, and warmthWhat I appreciated most about Gloria was she let me feel normal. I graduated in engineering as one of three women in a class of over 150. In her world, a feminist was a woman that wanted to be judged for her capabi",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/sep/08/she-blazed-in-and-opened-my-eyes-to-the-real-world-readers-remember-gloria-steinem",
-        "seendate": "2026-09-08T10:26:19.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "entertainment": [
       {
-        "title": "Angine de Poitrine review – mind-boggling math rock mastery from freaky Québécois duo",
-        "summary": "Le Poisson Rouge, New YorkThe brilliantly strange experimental band’s live show is a must-see spectacle powered by glorious noise and wild flairTheir masks light up now. To the extent there was a hard news event from Wednesday’s exhilarating sold-out New York debut of Angine",
+        "title": "Faith review – intense performances power startling and unsettling tale of mysterious suitor",
+        "summary": "Toronto film festival: Erin Doherty plays a happily single mother in a downbeat town courted by an enigmatic James McAvoy in this expertly taut dramaErin Doherty and James McAvoy both bring their A-game in this startling, involving movie from British writer-director Paul Andrew Williams, whose productivity and creativity continue to be an industry tonic. It’s an eerie mystery drama that Doh",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/music/2026/sep/10/angine-de-poitrine-concert-review",
-        "seendate": "2026-09-10T18:21:50.000Z",
+        "url": "https://www.theguardian.com/film/2026/sep/11/faith-review-erin-doherty-james-mcavoy",
+        "seendate": "2026-09-11T20:30:14.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Jimmy Kimmel on RNC convention: ‘They’re very nervous about the midterms, and rightly so’",
-        "summary": "Late-night hosts recapped the Republican event in Dallas and calls to ban Zohran Mamdani from 9/11 ceremoniesLate-night hosts roasted the Republican National Committee’s underattended “midterm convention” and attempts to ban the New York mayor, Zohra",
+        "title": "River review – so-so survival slasher offers more of the same and little else",
+        "summary": "Toronto film festival: strong performances from two experienced scream queens and some surprisingly thoughtful direction can’t elevate yet another stalk-by-numbers horrorIt would be unwise and unfair to expect that Toronto’s genre-led Midnight Madness strand would open with quite the same jolt as it did last year with the record-breaking horror hit <a href=\"https://www.theguardian.com/film/",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/culture/2026/sep/10/jimmy-kimmel-trump-rnc-convention",
-        "seendate": "2026-09-10T15:21:53.000Z",
+        "url": "https://www.theguardian.com/film/2026/sep/11/river-movie-review",
+        "seendate": "2026-09-11T18:08:05.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "NAZA review – Israeli intelligence officers cast chilling light on civilian deaths",
-        "summary": "Venice film festival: Under the cover of night, anonymous personnel discuss AI, error rates and problematic intelligence units in a documentary produced by the GuardianHere is a disquieting documentary about what Israel’s military chiefs in Gaza reputedly call “Naza”, meaning civilian collateral damage – itself a queasy euphemism. The calculated “Naza” number is the amount of projected civi",
+        "title": "The Housewife review – Naomi Watts is a secret suburban Nazi in an overcooked melodrama",
+        "summary": "Toronto film festival: the chilling true story of a woman who tried to hide from her wartime crimes gets turned into a strangely inert misfireThe first scene of the 60s-set drama The Housewife is a closeup of a whistling kettle, an early “wink, wink” sign that we’re watching a story where tensions are set to boil but also that we’re watching a film of minimal subtlety.Perhaps if it h",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/sep/10/naza-review-israel-gaza",
-        "seendate": "2026-09-10T15:15:39.000Z",
+        "url": "https://www.theguardian.com/film/2026/sep/11/toronto-film-festival-housewife-review",
+        "seendate": "2026-09-11T15:39:40.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Alex Winter: ‘Michael Winner was the most erudite sociopath I’ve ever met’",
-        "summary": "The Bill &amp; Ted actor answers your questions about working with Keanu Reeves, whether there will be a fourth instalment and nights out in Brixton with the Death Wish directorYou were born in London but grew up in America. When do you feel most British? DonarudoToranpuThe UK is still my second home. I’ve work",
+        "title": "‘They know the house they are bombing is full of children’: NAZA’s directors on their devastating film about Israeli intelligence",
+        "summary": "Rachel Szor and Yuval Abraham collected the testimony of 24 insiders who helped remotely target Gazans’ homes. They explain how they got these self-professed ‘small cogs’ to talk about the killingOn a darkened rooftop in Tel Aviv, Israeli intelligence officers outline the details of their work. These men tell us how they helped develop an AI mapping tool that trawled for phone signals and recommended apartm",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/sep/10/alex-winter-michael-winner-was-the-most-erudite-sociopath-ive-ever-met",
-        "seendate": "2026-09-10T14:00:37.000Z",
+        "url": "https://www.theguardian.com/film/2026/sep/11/naza-directors-film-israeli-intelligence-rachel-szor-yuval-abraham-",
+        "seendate": "2026-09-11T15:18:52.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "The Odyssey and Spider-Man propel record-breaking summer box office worldwide",
-        "summary": "The biggest May to September of all time was recorded in US cinemas, with the UK enjoying a 56% rise in audiences, outstripped by an 88% lift in the Middle East and AfricaAs well as celebrating their wedding, the actors Tom Holland and Zendaya have something else to toast: their two summer blockbusters – The Odyssey and Spider-Man: Brand New Day – have officially made box office history.The films wer",
+        "title": "‘Somewhere to be themselves, and be kind’: the Filipino folk-popper creating a hand-drawn world for gen Z to escape to",
+        "summary": "What started as a school project about plucky fictional kids in animal masks sparked an obsessive fanbase and a major label deal. Now the artist behind it all – known as Yaelokre – is ready to reveal themselfHarpy Hare by Yaelokre is the kind of song you might expect to have gone viral in the 1520s, not the 2020s. Backed by guitalele (that’s a guitar/ukulele hybrid), the lullaby begins with the line “Harpy",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/sep/10/the-odyssey-and-spider-man-make-for-record-breaking-summer-box-office-worldwide",
-        "seendate": "2026-09-10T13:57:06.000Z",
+        "url": "https://www.theguardian.com/music/2026/sep/11/somewhere-to-be-themselves-and-be-kind-the-filipino-folk-popper-creating-a-hand-drawn-world-for-gen-z-to-escape-to",
+        "seendate": "2026-09-11T15:00:09.000Z",
         "domain": "theguardian.com"
       }
     ],
     "f1": [
       {
-        "title": "Oscar Piastri shoots down Lando Norris sabotage theory",
-        "summary": "In the fraught final moments of qualifying for the Italian Grand Prix last weekend, McLaren's plan was for Oscar Piastri to run ahead of team-mate Lando Norris on-track, giving him the benefit of a 'tow' on the straight. But Piastri locked a wheel into the first corner, ran over the asphalt run-off at the chicane, and aborted his lap.Naturally there were those who concluded that this was a ...<a class='m",
+        "title": "Max Verstappen reveals laid-back approach to 100-driver Silverstone challenge",
+        "summary": "Four-time Formula 1 champion Max Verstappen has admitted that he has done zero preparation ahead of a 30-lap challenge against 100 go-karters at Silverstone next week.The Dutchman will be given the challenge of starting at the back of the grid and will attempt to overtake all 100 go-karters in 30 laps of the Silverstone circuit. Included in the list of go-karters are athletes, streamers ...<a class='more",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/oscar-piastri-shoots-down-lando-norris-sabotage-theory/10854309/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-10T22:12:08.000Z",
+        "url": "https://www.motorsport.com/f1/news/max-verstappen-reveals-laid-back-approach-to-100-driver-silverstone-challenge/10854765/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-11T22:26:37.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "F1 drivers unveil striking one-off helmet designs for first Madrid Spanish GP",
-        "summary": "Formula 1's arrival in Madrid for the Spanish Grand Prix has prompted several drivers to introduce special helmet designs for the inaugural event.Set around the IFEMA exhibition centre, the new Madring circuit will host the Spanish Grand Prix for the first time. Ahead of the race weekend, home heroes Carlos Sainz, who also serves as an ambassador of the circuit, and two-time champion Fernando ...<a class",
+        "title": "George Russell shares childhood Silverstone connection and why he rejected bigger grandstand",
+        "summary": "George Russell has opened up about launching his own dedicated grandstand for his supporters at Silverstone.It was announced this week that the British driver would have the George Russell Grandstand at his home grand prix circuit from 2027.The grandstand will be located at Farm Curve and ticketholders will get a three-day reserved seat, an official George Russell T-shirt delivered ahead ...<a class=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/f1-drivers-unveil-striking-one-off-helmets-for-first-madrid-spanish-gp/10854347/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-10T21:51:10.000Z",
+        "url": "https://www.motorsport.com/f1/news/george-russell-shares-childhood-silverstone-connection-and-why-he-rejected-bigger-grandstand/10854755/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-11T21:55:17.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Williams pays tribute to 1981 title-winning car with special Spanish Grand Prix livery",
-        "summary": "Williams will be sporting a one-off 1981-inspired livery on its FW48 at this weekend's Spanish Grand Prix in Madrid.The special white, green and navy blue colourway pays homage to the FW07C, the car that claimed the constructors' championship in 1981. Interestingly, that year also marks the last time Formula 1 visited the Spanish capital, when Alan Jones and Carlos Reutemann competed at the ...<a class='",
+        "title": "David Coulthard says Kimi Antonelli proved he is an F1 \"phenomenon\" at Monza",
+        "summary": "Former Formula 1 driver David Coulthard says Kimi Antonelli's charge from 19th on the grid to win the Italian Grand Prix was a career-defining performance that sits alongside drives from the greatest drivers in the history of the series.The Mercedes driver secured his seventh career grand prix win in front of his home crowd at Monza, becoming the first Italian driver to win the event in 60 ...<a class='m",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/williams-pays-tribute-to-1981-title-winning-car-with-special-spanish-grand-prix-livery/10854341/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-10T20:56:36.000Z",
+        "url": "https://www.motorsport.com/f1/news/david-coulthard-says-kimi-antonelli-proved-he-is-an-f1-phenomenon-at-monza/10854748/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-11T21:24:20.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Why Max Verstappen isn’t buying the hype over a Red Bull surprise in Madrid",
-        "summary": "When Max Verstappen was asked during the Dutch media session in Monza whether he now thinks he might not win a single race this Formula 1 season – which would be the first time since his debut year in 2015 – a telling response followed:\"I'm obviously never going to say that out loud!\"Read Also:Formula 1Max Verstappen explains Red Bull car \"made out of paper\" comment after ...<a class='mor",
+        "title": "Mercedes clearly ahead: How long-run pace compared in F1 Spanish GP practice",
+        "summary": "George Russell was the fastest long-run driver with a lot of fuel on board. His closest challenger was Red Bull’s Max Verstappen over Friday’s practice sessions ahead of the Formula 1 Spanish Grand Prix. The Dutchman was just 0.13 seconds per lap slower after adjusting for different tyre compounds and stint lengths.World championship leader Kimi Antonelli was the third-fastest long-run ...<a class='more'",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/why-max-verstappen-isnt-buying-the-hype-over-a-red-bull-surprise-in-madrid/10854300/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-10T17:11:25.000Z",
+        "url": "https://www.motorsport.com/f1/news/mercedes-clearly-ahead-how-long-run-pace-compared-in-f1-spanish-gp-practice-/10854723/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-11T19:06:43.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "F1 Spanish GP at Madring: Friday schedule, weather forecast and how to watch",
-        "summary": "Formula 1 heads to Madrid this weekend as the new Madring circuit makes its debut as the host of the Spanish Grand Prix.It marks the first time Madrid has appeared on the Formula 1 calendar since Jarama in 1981, with the new circuit on the outskirts of Spain’s capital replacing Barcelona as Spanish GP host. Barcelona remains on the calendar under a new event name after holding its 2026 ...<a class='more'",
+        "title": "“High risk” and a chance of “chaos” - drivers open up on F1’s new Madring circuit",
+        "summary": "The Spanish Grand Prix's Madring circuit has received a thumbs-up from several leading Formula 1 drivers as they praised its high-commitment layout, although not everyone is as impressed.Having sampled the 5.4km circuit on the simulator, drivers were bracing for one of the most challenging weekends of the year on a track that combines the unforgiving nature of a street circuit with plenty of ...<a class=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/f1-spanish-gp-at-madring-friday-schedule-weather-forecast-and-how-to-watch/10854273/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-10T17:00:04.000Z",
+        "url": "https://www.motorsport.com/f1/news/very-high-risk-and-the-best-race-in-europe-f1-drivers-share-first-madring-impressions/10854690/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-11T18:12:35.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "How to increase your inventory in Valheim",
-        "summary": "Valheim 1.0 finally lets you deepen your pockets, but it'll cost you.",
+        "title": "While still headquartered in the US, Saber exec Tim Willits says it has 'no real development in North America anymore'",
+        "summary": "An international operation.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/survival-crafting/valheim-increase-inventory-size/",
-        "seendate": "2026-09-11T00:08:01.000Z",
+        "url": "https://www.pcgamer.com/gaming-industry/while-still-headquartered-in-the-us-saber-exec-tim-willits-says-it-has-no-real-development-in-north-america-anymore/",
+        "seendate": "2026-09-11T23:11:02.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Ubisoft is 'testing' making its games far less annoying to launch on Steam",
-        "summary": "Ubisoft Connect, your time is up.",
+        "title": "OpenAI employee takes down ChatGPT-coded RuneScape clone following Jagex cease-and-desist",
+        "summary": "Black Lodge Nintendo fan game life cycle.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/ubisoft-is-testing-making-its-games-far-less-annoying-to-launch-on-steam/",
-        "seendate": "2026-09-10T22:39:47.000Z",
+        "url": "https://www.pcgamer.com/software/ai/openai-employee-takes-down-chatgpt-coded-runescape-clone-following-jagex-cease-and-desist/",
+        "seendate": "2026-09-11T21:07:32.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "How to use Battle Idols and Protection Idols in Valheim, and where to find the Forge of Potential",
-        "summary": "Valheim 1.0 has added a new way to upgrade your gear.",
+        "title": "Nightdive officially confirms Thief Remastered is coming with a new campaign, The Tarnished Mirror",
+        "summary": "Another casualty of the Steam achievements mega leak.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/survival-crafting/how-to-use-battle-idols-and-protection-idols-in-valheim-and-where-to-find-the-forge-of-potential/",
-        "seendate": "2026-09-10T22:34:16.000Z",
+        "url": "https://www.pcgamer.com/games/fps/nightdive-officially-confirms-thief-remastered-is-coming-with-a-new-campaign-the-tarnished-mirror/",
+        "seendate": "2026-09-11T19:06:25.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Dave the Diver has now sold more than 10 million copies, Mintrocket 'can't wait to share our future plans'",
-        "summary": "In the Jungle, the expansion released earlier this year, is also putting up big numbers.",
+        "title": "Roblox games are escaping Roblox: Creators will soon be able to export standalone apps for PC, console, and mobile",
+        "summary": "The new Roblox Everywhere initiative will make Roblox games available outside of the Roblox platform, on PC, consoles, and mobile.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/life-sim/dave-the-diver-has-now-sold-more-than-10-million-copies-mintrocket-cant-wait-to-share-our-future-plans/",
-        "seendate": "2026-09-10T21:52:16.000Z",
+        "url": "https://www.pcgamer.com/software/platforms/roblox-games-are-escaping-roblox-creators-will-soon-be-able-to-export-standalone-apps-for-pc-console-and-mobile/",
+        "seendate": "2026-09-11T19:00:00.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Steam's latest beta brings 'Big Art' to Big Picture Mode and Steam Deck, and customizable screensavers too",
-        "summary": "The update makes a number of less flashy changes too.",
+        "title": "'We're not giving away pistols and cocaine to people': Miami Beach votes in favor of Grand Theft Auto 6 collab despite concerns",
+        "summary": "One city commissioner said he asked the police about it, and they \"actually kind of laughed at me.\"",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/steams-latest-beta-brings-big-art-to-big-picture-mode-and-steam-deck-and-customizable-screensavers-too/",
-        "seendate": "2026-09-10T20:57:26.000Z",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/were-not-giving-away-pistols-and-cocaine-to-people-miami-beach-votes-in-favor-of-grand-theft-auto-6-collab-despite-concerns/",
+        "seendate": "2026-09-11T18:35:30.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
       {
-        "title": "OpenAI not on track to reduce risk of ‘catastrophic’ loss of control, says board member",
-        "summary": "US government adviser Paul Christiano warns of risks to AI industry as he joins OpenAI’s non-profit foundationOpenAI is not on track to reduce the risk of “catastrophic” loss of control to an acceptable level, a member of its non-profit board has said, amid spreading public and political concern that super-advanced AIs could one day wipe out humanity.Paul Christiano, a US government technology advise",
+        "title": "More Anthropic researchers warn of AI’s perils but Musk dismisses ‘psyop’",
+        "summary": "Insiders at the firm fear tech’s advancement could cause human extinction, while others are calling their declarations of concern a ‘setup’A day after a former researcher at Anthropic made an apocalyptic declaration about artificial intelligence, more researchers and staff members at the AI startup publicly agreed with him and posted their own dire warnings.In response, Elon Musk and other conservati",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/sep/10/openai-risk-catastrophic-loss-control-board-member-paul-christiano",
-        "seendate": "2026-09-10T12:23:21.000Z",
+        "url": "https://www.theguardian.com/technology/2026/sep/10/anthropic-researchers-warn-ai-musk",
+        "seendate": "2026-09-10T21:51:26.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "I turned off my algorithm for 24 hours. Is this how social media used to be?",
+        "summary": "Thanks to a little-known feature in Instagram, I try to travel back to 2012 – before everything on the internet was an adFollow our Australia news live blog for latest updatesGet our <a href=\"http",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/media/2026/sep/11/i-turned-off-my-instagram-algorithm-opt-out-social-media-reforms-australia",
+        "seendate": "2026-09-10T15:00:43.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "China’s Huawei branded a criminal enterprise as tech firm’s US trial opens",
+        "summary": "The defense says: ‘It’s about competition, not conspiracy’ A US prosecutor described China’s Huawei as a criminal enterprise that stole from US companies to build its telecommunications empire, as ⁠the trial against the tech company kicked off in Brooklyn federal court on Wednesday.“Theft, lies, cover-up,” Taylor Stout, a trial attorney from the U",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/sep/10/china-huawei-trial-us",
+        "seendate": "2026-09-10T17:41:19.000Z",
         "domain": "theguardian.com"
       },
       {
@@ -320,22 +336,6 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/technology/2026/sep/08/apple-new-folding-iphone",
         "seendate": "2026-09-09T18:45:46.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Pixel 11 Pro review: Google’s best pocket camera goes customisable",
-        "summary": "Solid battery life, snappy performance and quality software make for a great smaller phone with a killer cameraGoogle’s latest Pro phone is out to prove it has the best camera on a smartphone while embracing customisation, allowing you to change the look and feel of your photos far beyond simple filters even if that means making them technically worse.The Pixel 11 Pro packs the best of Google’s hardw",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/sep/10/pixel-11-pro-review-googles-best-pocket-camera-goes-customisable",
-        "seendate": "2026-09-10T06:00:19.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Instagram boss says users will be ‘overwhelmed’ with brand content in algorithm-free world",
-        "summary": "Adam Mosseri says platform’s algorithm ‘feels like a black box’ but company trying to give users more control after Labor announces opt-out planInstagram’s chief executive has said users will have a worse experience in an algorithm-free world, seeing more brand-related content, and spend less time on the app.The comments come as the Australian government plans to give <a href=\"https://www.theguardian",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/media/2026/sep/10/instagram-boss-says-users-will-be-overwhelmed-with-brand-content-in-algorithm-free-world",
-        "seendate": "2026-09-10T02:10:08.000Z",
         "domain": "theguardian.com"
       }
     ],
@@ -391,6 +391,22 @@ window.NEWS_CACHE = {
         "domain": "theguardian.com"
       },
       {
+        "title": "One giant step: first known adult T rex footprints found in North Dakota",
+        "summary": "The 23ft-long trackway, consisting of four three-toed footprints, two left and two right, date from 66.5m years ago The first known series of footprints from an adult Tyrannosaurus rex has been found in North Dakota by a team of scientists.The 23ft-long trackway – consisting of four three-toed footprints, two left and two right – was first identified in the south-west of the state, in the dinosaur fo",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/sep/11/tyrannosaurus-rex-footprints-north-dakota",
+        "seendate": "2026-09-11T14:34:07.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Weatherwatch: soil moisture deficit – how dry are the UK’s thirsty soils?",
+        "summary": "SMD is the moisture the soil must make up until it is at capacity, with very dry conditions over most of England and WalesWhen the ground is thoroughly wet, after excess rainwater has run off it is said to be at field capacity. Meteorologists describe drought in terms of soil moisture deficit (SMD) from field capacity. The SMD is a m",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/news/2026/sep/11/weatherwatch-soil-moisture-deficit-dry-uk-thirsty-soils-drought",
+        "seendate": "2026-09-11T05:00:00.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "‘One of the biggest discoveries in science’: have scientists found dark matter? – podcast",
         "summary": "For decades physicists have been puzzling over the enigma of dark matter. We think it makes up 85% of the matter in the universe, but the mysterious substance cannot be seen or detected, and we know about it mainly through observations of the gravitational effects it has on other things. But now scientists believe they may be a step closer to detecting it. Science editor Ian Sample explains to <st",
         "source": "theguardian.com",
@@ -404,22 +420,6 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/science/2026/sep/08/openai-claims-to-have-solved-maths-problem-that-stumped-humans-for-decades",
         "seendate": "2026-09-08T21:29:10.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Drinking very hot drinks could triple risk of oesophageal cancer, study finds",
-        "summary": "Research finds temperature and amount of hot drinks consumed heightens possibility of developing diseaseDrinking very hot tea and coffee triples the risk of developing cancer of the gullet, the world’s largest study of the link between them has found.The findings show that people should let very hot cups of tea and coffee cool down until they are comfortable to drink, in order to reduce their risk of",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/society/2026/sep/09/hot-drinks-triples-risk-oesophageal-cancer-study",
-        "seendate": "2026-09-09T06:25:27.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Babies born to anaemic mothers have smaller brains, study finds",
-        "summary": "Key regions of the brain linked to movement, learning and emotions were affected and may lead to cognitive problems Babies born to mothers with anaemia have smaller brains, particularly in key regions linked to movement, learning and the regulation of emotion, according to a study.Researchers said the differences, first detected at the age of one, could lead to cognitive problems when children starte",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/global-development/2026/sep/09/babies-born-to-anaemic-mothers-have-smaller-brains-study-finds",
-        "seendate": "2026-09-09T04:00:58.000Z",
         "domain": "theguardian.com"
       }
     ]
