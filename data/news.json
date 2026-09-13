@@ -1,8 +1,24 @@
 {
-  "generatedAt": "2026-09-12T00:45:34.946Z",
+  "generatedAt": "2026-09-13T00:29:40.199Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
+      {
+        "title": "Burial of King Oyo takes place in Uganda as news anchor prepares for throne",
+        "summary": "Royal guards carry casket through streets of Fort Portal amid row over appointment of Edward Rukidi KijanangomaUganda’s King Oyo Nyimba Kabamba Iguru Rukidi IV, long the world’s youngest monarch, has been buried among the tombs of his royal forebears as ⁠his Tooro kingdom looked to put ⁠a bitter succession batt",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/sep/12/burial-king-oyo-uganda",
+        "seendate": "2026-09-12T15:09:05.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Six Nigerians extradited to US over $6m online romance scam",
+        "summary": "Alleged members of Black Axe criminal network that swindled US women out of $6m flown from South AfricaSix Nigerian nationals linked to an organized criminal network that allegedly swindled American women out of more than $6m through online romance scams were extradited to",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/sep/12/nigerians-extradited-online-romance-scams",
+        "seendate": "2026-09-12T14:05:45.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "$15m fund launched to create ‘unstoppable momentum’ to end FGM worldwide",
         "summary": "Her Horizon Fund seeks $100m to stop practice harming 230m women and girls globally Frontline activists and leaders in the fight against female genital mutilation, which has affected more than 230 million women and girls worldwide, have welcomed an unprecedented $15.5m (£11.4m) fund aimed at creating “unstoppable momentu",
@@ -25,27 +41,27 @@
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/world/2026/sep/09/uganda-withdraws-invictus-games-out-of-respect-king-charles",
         "seendate": "2026-09-09T18:20:24.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Babies born to anaemic mothers have smaller brains, study finds",
-        "summary": "Key regions of the brain linked to movement, learning and emotions were affected and may lead to cognitive problems Babies born to mothers with anaemia have smaller brains, particularly in key regions linked to movement, learning and the regulation of emotion, according to a study.Researchers said the differences, first detected at the age of one, could lead to cognitive problems when children starte",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/global-development/2026/sep/09/babies-born-to-anaemic-mothers-have-smaller-brains-study-finds",
-        "seendate": "2026-09-09T04:00:58.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Hijacking pirates exploit regional chaos to return to seas off Somalia",
-        "summary": "US-Israel war on Iran and political instability in Somalia lead to pirates targeting cargo ships off Horn of AfricaThe scourge of Somali piracy targeting cargo ships and smaller dhows off the Horn of Africa has returned to levels not seen in a decade, driven by a convergence of factors including disruptions to the shipping industry caused by the US-Israeli war against Iran and a resurgence of political inst",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/sep/08/hijacking-pirates-somalia-geopolitical-chaos",
-        "seendate": "2026-09-08T04:00:27.000Z",
         "domain": "theguardian.com"
       }
     ],
     "conflict": [
       {
+        "title": "Burial of King Oyo takes place in Uganda as news anchor prepares for throne",
+        "summary": "Royal guards carry casket through streets of Fort Portal amid row over appointment of Edward Rukidi KijanangomaUganda’s King Oyo Nyimba Kabamba Iguru Rukidi IV, long the world’s youngest monarch, has been buried among the tombs of his royal forebears as ⁠his Tooro kingdom looked to put ⁠a bitter succession batt",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/sep/12/burial-king-oyo-uganda",
+        "seendate": "2026-09-12T15:09:05.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Six Nigerians extradited to US over $6m online romance scam",
+        "summary": "Alleged members of Black Axe criminal network that swindled US women out of $6m flown from South AfricaSix Nigerian nationals linked to an organized criminal network that allegedly swindled American women out of more than $6m through online romance scams were extradited to",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/sep/12/nigerians-extradited-online-romance-scams",
+        "seendate": "2026-09-12T14:05:45.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "$15m fund launched to create ‘unstoppable momentum’ to end FGM worldwide",
         "summary": "Her Horizon Fund seeks $100m to stop practice harming 230m women and girls globally Frontline activists and leaders in the fight against female genital mutilation, which has affected more than 230 million women and girls worldwide, have welcomed an unprecedented $15.5m (£11.4m) fund aimed at creating “unstoppable momentu",
         "source": "theguardian.com",
@@ -68,31 +84,31 @@
         "url": "https://www.theguardian.com/world/2026/sep/09/uganda-withdraws-invictus-games-out-of-respect-king-charles",
         "seendate": "2026-09-09T18:20:24.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Babies born to anaemic mothers have smaller brains, study finds",
-        "summary": "Key regions of the brain linked to movement, learning and emotions were affected and may lead to cognitive problems Babies born to mothers with anaemia have smaller brains, particularly in key regions linked to movement, learning and the regulation of emotion, according to a study.Researchers said the differences, first detected at the age of one, could lead to cognitive problems when children starte",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/global-development/2026/sep/09/babies-born-to-anaemic-mothers-have-smaller-brains-study-finds",
-        "seendate": "2026-09-09T04:00:58.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Hijacking pirates exploit regional chaos to return to seas off Somalia",
-        "summary": "US-Israel war on Iran and political instability in Somalia lead to pirates targeting cargo ships off Horn of AfricaThe scourge of Somali piracy targeting cargo ships and smaller dhows off the Horn of Africa has returned to levels not seen in a decade, driven by a convergence of factors including disruptions to the shipping industry caused by the US-Israeli war against Iran and a resurgence of political inst",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/sep/08/hijacking-pirates-somalia-geopolitical-chaos",
-        "seendate": "2026-09-08T04:00:27.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "economy": [
+      {
+        "title": "Tensions simmer on US-Canada border for two towns relying on each other",
+        "summary": "Canadians ‘angry’ at Trump for suggesting Canada should become 51st state, says mayor, as US businesses see sales fall amid trade warLike many Canadians, Tom Reid isn’t crossing the US-Canada border as often these days. But he needed a haircut.The woman who cuts his hair lives in International Falls, Minnesota – her “sister is married to my wife’s cousin”, he explained – and so Reid, whose duty free",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/sep/12/us-canada-border-tariffs-trade-war",
+        "seendate": "2026-09-12T10:00:31.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "US consumers faced more high prices in August as Iran war raised energy costs",
         "summary": "Annualized inflation rate was 3.4%, same as July, and core inflation, which omits energy and food prices, rose to 2.4%US consumer prices remained stubbornly high in August as the end of the ceasefire between the US and Iran pushed energy prices up, according to data from the US Bureau of Labor Statistics released on Friday.The annualized <a href=\"h",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/business/2026/sep/11/inflation-august-interest-rates",
         "seendate": "2026-09-11T12:38:12.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Iran’s Houthi allies capture strategic island on vital oil shipping route",
+        "summary": "Rampant Yemeni fighters take control of island in narrow point of Bab al-Mandab strait, which Saudi is relying on for oil exportsWhy the rapid Houthi advance matters and what’s at stakeYemen’s rampant Houthi forces have captured t",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/sep/11/iran-houthi-allies-capture-strategic-island-bab-al-mandab-strait",
+        "seendate": "2026-09-12T04:45:28.000Z",
         "domain": "theguardian.com"
       },
       {
@@ -110,25 +126,25 @@
         "url": "https://www.theguardian.com/business/2026/sep/10/ecb-raises-interest-rates-to-25-amid-warning-iran-war-is-fuelling-inflation",
         "seendate": "2026-09-10T13:10:15.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "The Odyssey and Spider-Man propel record-breaking summer box office worldwide",
-        "summary": "The biggest May to September of all time was recorded in US cinemas, with the UK enjoying a 56% rise in audiences, outstripped by an 88% lift in the Middle East and AfricaAs well as celebrating their wedding, the actors Tom Holland and Zendaya have something else to toast: their two summer blockbusters – The Odyssey and Spider-Man: Brand New Day – have officially made box office history.The films wer",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/sep/10/the-odyssey-and-spider-man-make-for-record-breaking-summer-box-office-worldwide",
-        "seendate": "2026-09-10T13:57:06.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Apple’s new CEO introduces himself at annual showcase: ‘I continue to be inspired every single day’",
-        "summary": "John Ternus helms his first major event as head of $4.5tn company, where he announces first foldable iPhoneJohn Ternus, Apple’s new CEO, helmed the company’s annual showcase of new iPhones and other products on Wednesday. It was the first time the public saw the warm and unpretentious demeanor of the executive, who is filling the shoes of Tim Cook and his predecessor, Steve Jobs, at the $4.5tn tech giant.</",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/sep/09/apple-product-showcase-ceo-john-ternus",
-        "seendate": "2026-09-09T19:07:53.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "literature": [
+      {
+        "title": "Julia Donaldson: ‘Am I the Gruffalo Granny? Not really. I’m the mouse’",
+        "summary": "As she introduces the latest member of her Gruffalo family, Julia Donaldson talks about storytelling, loss and the worries that come with being Britain’s all-time bestselling authorIn 1999 a journalist asked a then-unknown author to share her millennium wish. The author, who was 51 years old and had published only one book before, said she hoped her new one, out that year, would become a classic. “But then",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/sep/12/julia-donaldson-am-i-the-gruffalo-granny-not-really-im-the-mouse",
+        "seendate": "2026-09-12T10:00:32.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Naomi Klein: ‘Extreme wealth has a deranging effect. It turns you into a supremacist’",
+        "summary": "She’s tackled neoliberalism and the digital world, now the writer and activist is taking on tech billionaires. She explains how the super-rich are capitalising on climate and financial chaos in pursuit of powerNaomi Klein’s new book starts on a mountaintop with two&nbsp;“faithful men gathering an audience to share their vision”. It’s a vision of a paradise city, gated at every entrance, no need for",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/sep/12/naomi-klein-extreme-wealth-has-a-deranging-effect-it-turns-you-into-a-supremacist",
+        "seendate": "2026-09-12T08:00:28.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "A Thought Without Collision by Adrian Duncan review – a brilliant interrogation of philosophy and wonder",
         "summary": "With a character inspired by Wittgenstein, this exploration of the mysteries of the universe draws on multiple philosophical traditionsFor several years I ran community groups that involved reading books aloud with other adults. Sharing the experience of reading in that way made me notice how, when one or more of us was baffled by a story, this bafflement was rarely experienced without an accompanying sense",
@@ -151,22 +167,6 @@
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/books/2026/sep/11/taipei-story-by-rebecca-f-kuang-review-the-torture-and-hilarity-of-learning-chinese",
         "seendate": "2026-09-10T23:24:43.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "The Eleventh Hour by Salman Rushdie audiobook review – stories with levity and laughter",
-        "summary": "The author explores themes of legacy, mortality and loneliness in the first work of fiction since his near-fatal attackFive short stories and five readers make up Salman Rushdie’s collection, The Eleventh Hour, his first work of fiction since the near-fatal attack in 2022 where he sustained life-changing injuries. These tales find the author exploring legacy, mortality, loneliness and the ageing process. In",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/sep/10/the-eleventh-hour-by-salman-rushdie-audiobook-review-stories-with-levity-and-laughter",
-        "seendate": "2026-09-10T14:00:38.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "What Should My Children Do? by Daniel Susskind review – the case for embracing tech in the classroom",
-        "summary": "A refreshingly optimistic book that asks us to grasp the educational opportunities of AI, rather than shrink from themIn 1979, the government asked Wilfred Cockcroft, a now largely forgotten maths lecturer from the University of Hull, to write a report about a crisis in the teaching of his subject to children. It was wide-ranging and meticulous, and included&nbsp;a chapter on a technological innovation that",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/sep/09/what-should-my-children-do-by-daniel-susskind-review-the-case-for-embracing-tech-in-the-classroom",
-        "seendate": "2026-09-09T06:00:01.000Z",
         "domain": "theguardian.com"
       }
     ],
@@ -214,85 +214,85 @@
     ],
     "f1": [
       {
-        "title": "Max Verstappen reveals laid-back approach to 100-driver Silverstone challenge",
-        "summary": "Four-time Formula 1 champion Max Verstappen has admitted that he has done zero preparation ahead of a 30-lap challenge against 100 go-karters at Silverstone next week.The Dutchman will be given the challenge of starting at the back of the grid and will attempt to overtake all 100 go-karters in 30 laps of the Silverstone circuit. Included in the list of go-karters are athletes, streamers ...<a class='more",
+        "title": "Why Madring’s banked Turn 12 could be crucial in the F1 Spanish GP",
+        "summary": "The latest addition to the Formula 1 calendar had already sparked plenty of discussion in the paddock before the weekend. Most of the conversations centred on safety and whether the track around the IFEMA complex would actually prove to be a ‘car killer’, as several teams feared after the rather chaotic F3 test.Another aspect that attracted plenty of interest was La Monumental, Turn 12 of ...<a class='mo",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/max-verstappen-reveals-laid-back-approach-to-100-driver-silverstone-challenge/10854765/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-11T22:26:37.000Z",
+        "url": "https://www.motorsport.com/f1/news/why-madrings-banked-turn-12-could-be-crucial-in-the-spanish-gp/10854838/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-13T02:52:25.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "George Russell shares childhood Silverstone connection and why he rejected bigger grandstand",
-        "summary": "George Russell has opened up about launching his own dedicated grandstand for his supporters at Silverstone.It was announced this week that the British driver would have the George Russell Grandstand at his home grand prix circuit from 2027.The grandstand will be located at Farm Curve and ticketholders will get a three-day reserved seat, an official George Russell T-shirt delivered ahead ...<a class=",
+        "title": "“Pretty shocking”, “quite messy” – Oscar Piastri bewildered by poor Madring F1 qualifying",
+        "summary": "A downbeat Oscar Piastri described his Spanish Grand Prix qualifying as “shocking” and “messy”, having finished seventh while McLaren Formula 1 team-mate Lando Norris took pole position.Piastri has been struggling for pace all weekend at the new Madring track. Save for FP3, he failed to break into the top six in any practice session or qualifying segment in Madrid.Having been ...<a class='more' href=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/george-russell-shares-childhood-silverstone-connection-and-why-he-rejected-bigger-grandstand/10854755/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-11T21:55:17.000Z",
+        "url": "https://www.motorsport.com/f1/news/pretty-shocking-quite-messy-oscar-piastri-bewildered-by-poor-madring-f1-qualifying/10855166/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-13T00:00:02.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "David Coulthard says Kimi Antonelli proved he is an F1 \"phenomenon\" at Monza",
-        "summary": "Former Formula 1 driver David Coulthard says Kimi Antonelli's charge from 19th on the grid to win the Italian Grand Prix was a career-defining performance that sits alongside drives from the greatest drivers in the history of the series.The Mercedes driver secured his seventh career grand prix win in front of his home crowd at Monza, becoming the first Italian driver to win the event in 60 ...<a class='m",
+        "title": "How Lando Norris nearly lost his Madrid F1 pole",
+        "summary": "“That’s a masterpiece.”After Lando Norris snatched pole position away from Kimi Antonelli by a mere 0.011s at the Spanish Grand Prix, McLaren team principal Andrea Stella was both ecstatic and panegyrical towards his driver.At no point during the weekend had the papaya cars actually looked quick enough to be in the mix for glory. Mercedes had topped all practice sessions from ...<a class='more' href=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/david-coulthard-says-kimi-antonelli-proved-he-is-an-f1-phenomenon-at-monza/10854748/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-11T21:24:20.000Z",
+        "url": "https://www.motorsport.com/f1/news/lando-norris-lost-three-tenths-on-way-to-shock-madring-f1-pole/10855155/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-12T18:27:41.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Mercedes clearly ahead: How long-run pace compared in F1 Spanish GP practice",
-        "summary": "George Russell was the fastest long-run driver with a lot of fuel on board. His closest challenger was Red Bull’s Max Verstappen over Friday’s practice sessions ahead of the Formula 1 Spanish Grand Prix. The Dutchman was just 0.13 seconds per lap slower after adjusting for different tyre compounds and stint lengths.World championship leader Kimi Antonelli was the third-fastest long-run ...<a class='more'",
+        "title": "Lando Norris hailed for \"sensational\" Spanish GP pole after FP2 setback: \"Found his beast mode\"",
+        "summary": "Lando Norris's pole position for the Spanish Grand Prix has received widespread praise from Formula 1 fans, with his performance branded \"sensational\".The McLaren driver secured the front spot on the grid for Sunday's race at the Madring circuit, beating Mercedes' championship leader Kimi Antonelli by just 0.011 seconds. Red Bull's Max Verstappen claimed third. Norris's result was ...<a class='more'",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/mercedes-clearly-ahead-how-long-run-pace-compared-in-f1-spanish-gp-practice-/10854723/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-11T19:06:43.000Z",
+        "url": "https://www.motorsport.com/f1/news/lando-norris-hailed-for-sensational-spanish-gp-pole-after-fp2-setback-found-his-beast-mode/10855160/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-12T18:23:52.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "“High risk” and a chance of “chaos” - drivers open up on F1’s new Madring circuit",
-        "summary": "The Spanish Grand Prix's Madring circuit has received a thumbs-up from several leading Formula 1 drivers as they praised its high-commitment layout, although not everyone is as impressed.Having sampled the 5.4km circuit on the simulator, drivers were bracing for one of the most challenging weekends of the year on a track that combines the unforgiving nature of a street circuit with plenty of ...<a class=",
+        "title": "Max Verstappen on how to fix new Madrid F1 circuit: \"If they give me the track map…\"",
+        "summary": "While the Formula 2 and Formula 3 races around the IFEMA complex in Madrid have produced several crashes, the chaos in Formula 1 has so far remained limited.Nevertheless, criticism from the drivers emerged after qualifying in the Spanish capital.Over a single flying lap, the circuit is considered entertaining – although polesitter Lando Norris said the thrill certainly cannot be compared ...<a class='mor",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/very-high-risk-and-the-best-race-in-europe-f1-drivers-share-first-madring-impressions/10854690/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-11T18:12:35.000Z",
+        "url": "https://www.motorsport.com/f1/news/f1-drivers-criticise-madrid-circuit-max-verstappen-laughs-if-they-give-me-the-track-map/10855142/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-12T18:12:50.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "While still headquartered in the US, Saber exec Tim Willits says it has 'no real development in North America anymore'",
-        "summary": "An international operation.",
+        "title": "No more Diablo 4 expansions are planned, but there's 'a lot of room' for more storytelling in the lead-up to Diablo 5",
+        "summary": "The Diablo team is \"all focused on seasons and getting to Diablo 5,\" support for Diablo 4 will continue \"for a very long time,\" says Blizzard.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/while-still-headquartered-in-the-us-saber-exec-tim-willits-says-it-has-no-real-development-in-north-america-anymore/",
-        "seendate": "2026-09-11T23:11:02.000Z",
+        "url": "https://www.pcgamer.com/games/rpg/no-more-diablo-4-expansions-are-planned-but-theres-a-lot-of-room-for-more-storytelling-in-the-leadup-to-diablo-5/",
+        "seendate": "2026-09-12T21:56:55.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "OpenAI employee takes down ChatGPT-coded RuneScape clone following Jagex cease-and-desist",
-        "summary": "Black Lodge Nintendo fan game life cycle.",
+        "title": "Overwatch's newest hero is a robo-vampire, and reworks are on the way for Roadhog and Sombra",
+        "summary": "Triple threat.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/software/ai/openai-employee-takes-down-chatgpt-coded-runescape-clone-following-jagex-cease-and-desist/",
-        "seendate": "2026-09-11T21:07:32.000Z",
+        "url": "https://www.pcgamer.com/games/fps/overwatchs-newest-hero-is-a-robo-vampire-and-reworks-are-on-the-way-for-roadhog-and-sombra/",
+        "seendate": "2026-09-12T18:55:21.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Nightdive officially confirms Thief Remastered is coming with a new campaign, The Tarnished Mirror",
-        "summary": "Another casualty of the Steam achievements mega leak.",
+        "title": "Blizzard just dropped a new Warcraft 3 campaign, the first in 23 years",
+        "summary": "The year of the surprise old game expansion.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/fps/nightdive-officially-confirms-thief-remastered-is-coming-with-a-new-campaign-the-tarnished-mirror/",
-        "seendate": "2026-09-11T19:06:25.000Z",
+        "url": "https://www.pcgamer.com/games/rts/blizzard-just-dropped-a-new-warcraft-3-campaign-the-first-in-23-years/",
+        "seendate": "2026-09-12T18:51:39.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Roblox games are escaping Roblox: Creators will soon be able to export standalone apps for PC, console, and mobile",
-        "summary": "The new Roblox Everywhere initiative will make Roblox games available outside of the Roblox platform, on PC, consoles, and mobile.",
+        "title": "Hearthstone just got its first new class in four years: Warcraft's fire-breathing panda Monk",
+        "summary": "Have keg, will shuffle.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/software/platforms/roblox-games-are-escaping-roblox-creators-will-soon-be-able-to-export-standalone-apps-for-pc-console-and-mobile/",
-        "seendate": "2026-09-11T19:00:00.000Z",
+        "url": "https://www.pcgamer.com/games/card-games/hearthstone-just-got-its-first-new-class-in-four-years-warcrafts-fire-breathing-panda-monk/",
+        "seendate": "2026-09-12T18:40:05.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "'We're not giving away pistols and cocaine to people': Miami Beach votes in favor of Grand Theft Auto 6 collab despite concerns",
-        "summary": "One city commissioner said he asked the police about it, and they \"actually kind of laughed at me.\"",
+        "title": "Heroes of the Storm gets first new hero after supposed death and 6 year wait",
+        "summary": "Filling the void.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/were-not-giving-away-pistols-and-cocaine-to-people-miami-beach-votes-in-favor-of-grand-theft-auto-6-collab-despite-concerns/",
-        "seendate": "2026-09-11T18:35:30.000Z",
+        "url": "https://www.pcgamer.com/games/moba/heroes-of-the-storm-gets-first-new-hero-after-supposed-death-and-6-year-wait/",
+        "seendate": "2026-09-12T17:44:26.000Z",
         "domain": "pcgamer.com"
       }
     ],
@@ -341,6 +341,14 @@
     ],
     "climate": [
       {
+        "title": "We know how to prevent black lung, so why are workers still dying?",
+        "summary": "Silicosis sufferers are getting younger as Trump and the coal mining industry push back on protectionsSilicosis is one of the oldest workplace hazards and public health experts have known for decades how to prevent it. Yet a new wave of workers, from Appalachian coalminers to Latino countertop fabrication workers, are developing and dying from the disease as industry fights new protections and regulators fa",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/sep/12/black-lung-worker-deaths",
+        "seendate": "2026-09-12T11:00:34.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "People in the US: how have you coped during this summer of record heat?",
         "summary": "We’d like to hear from people about the impact of extreme heat this summer – and if you’ve had your power cutIt’s been a record summer of heat in the US with rolling heat domes and July being",
         "source": "theguardian.com",
@@ -370,14 +378,6 @@
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/environment/2026/sep/10/us-chemical-industry-air-pollution-monitors",
         "seendate": "2026-09-10T11:00:23.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Climate ‘feedback loops’ could worsen global warming by 30%, study finds",
-        "summary": "Emissions of planet-heating methane and CO2 from natural sources are worsening the climate crisis, paper saysRising global temperatures caused by the burning of fossil fuels are transforming the world’s forests, wetlands and tundra to the point they are releasing emissions that could further worsen global heating by as much as 30%, a new study has found.As the world heats up, permafrost in the high l",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/2026/sep/10/climate-feedback-loops-global-warming-study",
-        "seendate": "2026-09-10T08:00:19.000Z",
         "domain": "theguardian.com"
       }
     ],
