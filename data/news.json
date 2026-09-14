@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T00:29:40.199Z",
+  "generatedAt": "2026-09-14T00:31:03.422Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
@@ -88,6 +88,22 @@
     ],
     "economy": [
       {
+        "title": "‘Trump accounts’ promise to mint child millionaires. Experts have their doubts",
+        "summary": "President has hyped growth of federal investment accounts to help US children – for his own political gainSince returning to the White House, Donald Trump has scrapped rules that made childcare more affordable and pushed to <a href=\"https://www.edweek.org/policy-polit",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/sep/13/donald-trump-accounts-child-investment-wealth",
+        "seendate": "2026-09-13T11:00:05.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "OpenAI boss and Elon Musk back calls to put brakes on ‘reckless’ AI development",
+        "summary": "Rare show of unity from rival developers after safety warnings from Anthropic boss and AI researchersAnalysis: critics perplexed and suspicious of call for a slowdown<a href=\"https://www.theguardian.com/commentisfree/2026/sep/11/the-g",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/sep/13/openai-sam-altman-elon-musk-back-anthropic-calls-brakes-ai-development",
+        "seendate": "2026-09-13T14:02:24.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Tensions simmer on US-Canada border for two towns relying on each other",
         "summary": "Canadians ‘angry’ at Trump for suggesting Canada should become 51st state, says mayor, as US businesses see sales fall amid trade warLike many Canadians, Tom Reid isn’t crossing the US-Canada border as often these days. But he needed a haircut.The woman who cuts his hair lives in International Falls, Minnesota – her “sister is married to my wife’s cousin”, he explained – and so Reid, whose duty free",
         "source": "theguardian.com",
@@ -110,25 +126,33 @@
         "url": "https://www.theguardian.com/world/2026/sep/11/iran-houthi-allies-capture-strategic-island-bab-al-mandab-strait",
         "seendate": "2026-09-12T04:45:28.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Global bond sell-off resumes as surging oil prices stoke fears about inflation",
-        "summary": "Crude jumps above $107 a barrel amid concerns over Middle East conflict and out-of-control government borrowingNervous investors across big economies have been dumping government bonds, driving up the cost of borrowing, as surging oil prices amplified fears about rising inflation.The cost of a barrel of oil jumped 6% to above $107 on Thursday amid concerns that <a href=\"https://www.theguardian.com/wo",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/sep/10/global-bond-selloff-oil-prices-inflation-middle-east-conflict-government-borrowing",
-        "seendate": "2026-09-10T18:05:15.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "ECB raises interest rates to 2.5% and warns Iran war is fuelling inflation",
-        "summary": "Borrowing costs climb in Europe and oil tops $105 a barrel as bank says growing price pressures in eurozone will be ‘longer lasting than we had anticipated’Business live – latest updatesThe European Central Bank has raised interest rat",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/sep/10/ecb-raises-interest-rates-to-25-amid-warning-iran-war-is-fuelling-inflation",
-        "seendate": "2026-09-10T13:10:15.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "literature": [
+      {
+        "title": "Emily St John Mandel: ‘When half the electorate disagrees on basic reality, how do you come back from that?’",
+        "summary": "Her hit novel Station Eleven seemed to predict the pandemic, now the novelist is tackling the future of the US. She talks about chance, world-building and experiencing a ‘tiny bit’ of clairvoyanceWhen Emily St John Mandel was a child she had a dream that would stay with her for decades. It was a nightmare in which “I was trying to find my dad in a crowd, and there were other people who looked like him but w",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/sep/13/emily-st-john-mandel-when-half-the-electorate-disagrees-on-basic-reality-how-do-you-come-back-from-that",
+        "seendate": "2026-09-13T11:00:03.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Tom Gauld on a new case for Hercule Poirot – cartoon",
+        "summary": "Continue reading...",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/picture/2026/sep/13/tom-gauld-on-a-new-case-for-hercule-poirot-cartoon",
+        "seendate": "2026-09-13T15:00:05.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "AI will transform capitalism – but how?",
+        "summary": "Technology is going to drastically reshape the economy, and it’s within our power to decide what that looks likeThe idea that autonomous, thinking machines may one day destroy property, hierarchy and inequality is as old as western political thought. In Aristotle’s Politics, the philosopher cites a fantasy from the Iliad, in which machines begin to act independently of human direction, concluding: “If every",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/sep/13/ai-will-transform-capitalism-but-how",
+        "seendate": "2026-09-13T11:00:02.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Julia Donaldson: ‘Am I the Gruffalo Granny? Not really. I’m the mouse’",
         "summary": "As she introduces the latest member of her Gruffalo family, Julia Donaldson talks about storytelling, loss and the worries that come with being Britain’s all-time bestselling authorIn 1999 a journalist asked a then-unknown author to share her millennium wish. The author, who was 51 years old and had published only one book before, said she hoped her new one, out that year, would become a classic. “But then",
@@ -144,166 +168,142 @@
         "url": "https://www.theguardian.com/books/2026/sep/12/naomi-klein-extreme-wealth-has-a-deranging-effect-it-turns-you-into-a-supremacist",
         "seendate": "2026-09-12T08:00:28.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "A Thought Without Collision by Adrian Duncan review – a brilliant interrogation of philosophy and wonder",
-        "summary": "With a character inspired by Wittgenstein, this exploration of the mysteries of the universe draws on multiple philosophical traditionsFor several years I ran community groups that involved reading books aloud with other adults. Sharing the experience of reading in that way made me notice how, when one or more of us was baffled by a story, this bafflement was rarely experienced without an accompanying sense",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/sep/11/a-thought-without-collision-by-adrian-duncan-review-a-brilliant-interrogation-of-philosophy-and-wonder",
-        "seendate": "2026-09-11T06:00:02.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "The best recent science fiction, fantasy and horror – review roundup",
-        "summary": "Massif by Garth Nix; Revolution in the Heart: Stories Inspired By Ursula K Le Guin edited by Jonathan Strahan; An Immaculate Deception by Isabela Livino; Serenity Falls by CJ TudorMassif by Garth Nix (Gollancz, £25)The bestselling fanta",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/sep/11/the-best-recent-science-fiction-fantasy-and-horror-review-roundup",
-        "seendate": "2026-09-11T11:00:06.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Taipei Story by Rebecca F Kuang review – the torture and hilarity of learning Chinese",
-        "summary": "An American Chinese student studies Mandarin in Taiwan, in this heartfelt journey of self-discovery and family secretsWhat is Taiwan? A former Japanese colony? A centre of the semiconductor industry? A democracy overseen by&nbsp;American imperialism? China’s next military target? An island of Austronesian Indigenous tribes? Is&nbsp;Taipei a cultural emblem of Taiwan, or&nbsp;just another booming global capi",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/sep/11/taipei-story-by-rebecca-f-kuang-review-the-torture-and-hilarity-of-learning-chinese",
-        "seendate": "2026-09-10T23:24:43.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "entertainment": [
       {
-        "title": "Faith review – intense performances power startling and unsettling tale of mysterious suitor",
-        "summary": "Toronto film festival: Erin Doherty plays a happily single mother in a downbeat town courted by an enigmatic James McAvoy in this expertly taut dramaErin Doherty and James McAvoy both bring their A-game in this startling, involving movie from British writer-director Paul Andrew Williams, whose productivity and creativity continue to be an industry tonic. It’s an eerie mystery drama that Doh",
+        "title": "Babies review – Anna Kendrick and Seth Rogen embrace childlessness in breezy comedy",
+        "summary": "Toronto film festival: To be a parent or not to be a parent is the question propelling this often insightful yet largely run-of-the-mill riff on a Judd Apatow movieIt’s a question still casually and routinely asked to couples everywhere regardless of familiarity, one that many fear and some feel actively offended by: are you guys gonna have kids?Despite living in an age where we’re s",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/sep/11/faith-review-erin-doherty-james-mcavoy",
-        "seendate": "2026-09-11T20:30:14.000Z",
+        "url": "https://www.theguardian.com/film/2026/sep/13/babies-anna-kendrick-seth-rogen-movie-review-toronto",
+        "seendate": "2026-09-13T22:27:30.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "River review – so-so survival slasher offers more of the same and little else",
-        "summary": "Toronto film festival: strong performances from two experienced scream queens and some surprisingly thoughtful direction can’t elevate yet another stalk-by-numbers horrorIt would be unwise and unfair to expect that Toronto’s genre-led Midnight Madness strand would open with quite the same jolt as it did last year with the record-breaking horror hit <a href=\"https://www.theguardian.com/film/",
+        "title": "I Play Rocky review – crowd-pleasing Stallone biopic is heavy on fan service, light on real emotion",
+        "summary": "Toronto film festival: There’s a knockout central performance from Anthony Ippolito in this otherwise rather lightweight making-of comedy dramaWe first see Anthony Ippolito sauntering into a harsh spotlight in I Play Rocky’s opening frames. He’s squirrelling around an audition space, physicalizing the battle between his nerves and the stubborn self-confidence that gets him into those rooms,",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/sep/11/river-movie-review",
-        "seendate": "2026-09-11T18:08:05.000Z",
+        "url": "https://www.theguardian.com/film/2026/sep/13/i-play-rocky-review-stallone-biopic",
+        "seendate": "2026-09-13T16:29:11.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "The Housewife review – Naomi Watts is a secret suburban Nazi in an overcooked melodrama",
-        "summary": "Toronto film festival: the chilling true story of a woman who tried to hide from her wartime crimes gets turned into a strangely inert misfireThe first scene of the 60s-set drama The Housewife is a closeup of a whistling kettle, an early “wink, wink” sign that we’re watching a story where tensions are set to boil but also that we’re watching a film of minimal subtlety.Perhaps if it h",
+        "title": "Closing Night review – fiery women face off in Almodóvar-lite melodrama",
+        "summary": "Toronto film festival: Sarah Paulson, Naomi Watts and Dianne Wiest are all impressive in actor-turned-director Cody Fern’s debut but they’re left strandedThere are three relatively substantive roles for female actors over the age of 50 in actor-turned-film-maker Cody Fern’s talky drama Closing Night. It’s a sadly impressive feat even at a time when the industry has slowly become more aware",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/sep/11/toronto-film-festival-housewife-review",
-        "seendate": "2026-09-11T15:39:40.000Z",
+        "url": "https://www.theguardian.com/film/2026/sep/13/closing-night-review-sarah-paulson-naomi-watts-dianne-wiest",
+        "seendate": "2026-09-13T16:02:05.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘They know the house they are bombing is full of children’: NAZA’s directors on their devastating film about Israeli intelligence",
-        "summary": "Rachel Szor and Yuval Abraham collected the testimony of 24 insiders who helped remotely target Gazans’ homes. They explain how they got these self-professed ‘small cogs’ to talk about the killingOn a darkened rooftop in Tel Aviv, Israeli intelligence officers outline the details of their work. These men tell us how they helped develop an AI mapping tool that trawled for phone signals and recommended apartm",
+        "title": "NAZA director says 'it's important Israelis watch this film' after win at Venice festival – video",
+        "summary": "NAZA, a new film directed by Yuval Abraham and Rachel Szor and produced by the Guardian, has been awarded the special jury prize at the 83rd Venice film festival. Shot at night on the rooftops of Tel Aviv, NAZA reveals in detail the systems behind Israel’s calculated mass killing of Palestinian civilians in Gaza. Abraham, in his prize acceptance speech, said: 'It's really important Isrealis watch this film. It's o",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/sep/11/naza-directors-film-israeli-intelligence-rachel-szor-yuval-abraham-",
-        "seendate": "2026-09-11T15:18:52.000Z",
+        "url": "https://www.theguardian.com/world/video/2026/sep/13/naza-directors-yuval-abraham-speech-venice-film-festival-video",
+        "seendate": "2026-09-13T13:48:25.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘Somewhere to be themselves, and be kind’: the Filipino folk-popper creating a hand-drawn world for gen Z to escape to",
-        "summary": "What started as a school project about plucky fictional kids in animal masks sparked an obsessive fanbase and a major label deal. Now the artist behind it all – known as Yaelokre – is ready to reveal themselfHarpy Hare by Yaelokre is the kind of song you might expect to have gone viral in the 1520s, not the 2020s. Backed by guitalele (that’s a guitar/ukulele hybrid), the lullaby begins with the line “Harpy",
+        "title": "Burning Man at 40: the once anarchic desert festival faces a midlife crisis",
+        "summary": "The subversive bacchanal for San Francisco’s eccentric underground is ageing out amid an influx of the super-richBurning Man, the infamous arts festival in the Nevada desert, turned 40 this year, and it’s showing some distinct signs of middle age.It’s not just the tech billionaires who show up to party, the <a href=\"https://journa",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/music/2026/sep/11/somewhere-to-be-themselves-and-be-kind-the-filipino-folk-popper-creating-a-hand-drawn-world-for-gen-z-to-escape-to",
-        "seendate": "2026-09-11T15:00:09.000Z",
+        "url": "https://www.theguardian.com/culture/2026/sep/13/burning-man-crowd-age",
+        "seendate": "2026-09-13T13:00:04.000Z",
         "domain": "theguardian.com"
       }
     ],
     "f1": [
       {
-        "title": "Why Madring’s banked Turn 12 could be crucial in the F1 Spanish GP",
-        "summary": "The latest addition to the Formula 1 calendar had already sparked plenty of discussion in the paddock before the weekend. Most of the conversations centred on safety and whether the track around the IFEMA complex would actually prove to be a ‘car killer’, as several teams feared after the rather chaotic F3 test.Another aspect that attracted plenty of interest was La Monumental, Turn 12 of ...<a class='mo",
+        "title": "Kimi Antonelli's \"precious\" moment with father goes viral after Spanish GP win",
+        "summary": "A moment shared between Kimi Antonelli and his father, Marco Antonelli, has gone viral after the Mercedes driver celebrated his eighth Formula 1 win at the Spanish Grand Prix.After the Italian driver parked his Mercedes machinery on the grid, he went to celebrate with his team. Standing at the front of the barriers was his father, holding a red carnation ready to give to his son. As he handed ...<a class",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/why-madrings-banked-turn-12-could-be-crucial-in-the-spanish-gp/10854838/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-13T02:52:25.000Z",
+        "url": "https://www.motorsport.com/f1/news/kimi-antonellis-precious-moment-with-father-goes-viral-after-spanish-gp-win/10855648/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-13T21:11:41.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "“Pretty shocking”, “quite messy” – Oscar Piastri bewildered by poor Madring F1 qualifying",
-        "summary": "A downbeat Oscar Piastri described his Spanish Grand Prix qualifying as “shocking” and “messy”, having finished seventh while McLaren Formula 1 team-mate Lando Norris took pole position.Piastri has been struggling for pace all weekend at the new Madring track. Save for FP3, he failed to break into the top six in any practice session or qualifying segment in Madrid.Having been ...<a class='more' href=",
+        "title": "Lewis Hamilton “lucky to make it round” after Spanish GP brake failure",
+        "summary": "Ferrari driver Lewis Hamilton says he was \"lucky to make it round\" to the garage after suffering a brake failure in the opening stages of Madrid's Spanish GP.Hamilton had been battling Max Verstappen for third when his brake pedal started going long during the first couple of laps. Hamilton and Ferrari initially held some hope that the Briton could continue after changing a few settings as ...<a class='m",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/pretty-shocking-quite-messy-oscar-piastri-bewildered-by-poor-madring-f1-qualifying/10855166/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-13T00:00:02.000Z",
+        "url": "https://www.motorsport.com/f1/news/lewis-hamilton-lucky-to-make-it-round-after-spanish-gp-brake-failure/10855642/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-13T20:21:18.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "How Lando Norris nearly lost his Madrid F1 pole",
-        "summary": "“That’s a masterpiece.”After Lando Norris snatched pole position away from Kimi Antonelli by a mere 0.011s at the Spanish Grand Prix, McLaren team principal Andrea Stella was both ecstatic and panegyrical towards his driver.At no point during the weekend had the papaya cars actually looked quick enough to be in the mix for glory. Mercedes had topped all practice sessions from ...<a class='more' href=",
+        "title": "Lando Norris to test McLaren MCL-HY hypercar ahead of Azerbaijan GP",
+        "summary": "Lando Norris will test McLaren's new MCL-HY hypercar at the Algarve International Circuit ahead of the Azerbaijan Grand Prix.The test at the Portimao circuit is set to take place on Monday 14 September and will allow the Woking outfit to continue its development of the MCL-HY with feedback from the 2025 Formula 1 champion.The McLaren MCL-HY is the machine that will compete in the FIA ...<a class='mor",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/lando-norris-lost-three-tenths-on-way-to-shock-madring-f1-pole/10855155/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-12T18:27:41.000Z",
+        "url": "https://www.motorsport.com/f1/news/lando-norris-to-test-mclaren-mcl-hy-hypercar-ahead-of-azerbaijan-gp/10855632/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-13T19:40:23.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Lando Norris hailed for \"sensational\" Spanish GP pole after FP2 setback: \"Found his beast mode\"",
-        "summary": "Lando Norris's pole position for the Spanish Grand Prix has received widespread praise from Formula 1 fans, with his performance branded \"sensational\".The McLaren driver secured the front spot on the grid for Sunday's race at the Madring circuit, beating Mercedes' championship leader Kimi Antonelli by just 0.011 seconds. Red Bull's Max Verstappen claimed third. Norris's result was ...<a class='more'",
+        "title": "Winners and losers from F1's underwhelming Spanish Grand Prix",
+        "summary": "Formula 1's first visit to Madrid in 45 years went off to a smooth enough start off the track, but its inaugural race at the Madring left plenty to be desired.Starting from a relatively blank sheet of paper, some of the awkward corner designs and the lack of proper straight lines made overtaking all but impossible.Read Also:Formula 1F1 Spanish GP: Kimi Antonelli wins again as ...<a class=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/lando-norris-hailed-for-sensational-spanish-gp-pole-after-fp2-setback-found-his-beast-mode/10855160/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-12T18:23:52.000Z",
+        "url": "https://www.motorsport.com/f1/news/winners-and-losers-f1-underwhelming-spanish-gp/10855625/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-13T19:32:52.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Max Verstappen on how to fix new Madrid F1 circuit: \"If they give me the track map…\"",
-        "summary": "While the Formula 2 and Formula 3 races around the IFEMA complex in Madrid have produced several crashes, the chaos in Formula 1 has so far remained limited.Nevertheless, criticism from the drivers emerged after qualifying in the Spanish capital.Over a single flying lap, the circuit is considered entertaining – although polesitter Lando Norris said the thrill certainly cannot be compared ...<a class='mor",
+        "title": "Carlos Sainz accuses Fernando Alonso of provoking a penalty \"like always\"",
+        "summary": "As if complaints about the track layout weren't enough, the first Formula 1 Spanish Grand Prix at the new Madring circuit provoked an unseemly spat between the two home heroes. Fernando Alonso and Carlos Sainz were all smiles before the race, but the cordiality lasted only until lap 14, when Alonso was attacking Sainz for 17th place. Alonso was angling to get a run on Sainz on the right-hand ...<a class=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/f1-drivers-criticise-madrid-circuit-max-verstappen-laughs-if-they-give-me-the-track-map/10855142/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-12T18:12:50.000Z",
+        "url": "https://www.motorsport.com/f1/news/sainz-accuses-alonso-of-provoking-a-penalty-like-always/10855613/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-13T19:04:47.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "No more Diablo 4 expansions are planned, but there's 'a lot of room' for more storytelling in the lead-up to Diablo 5",
-        "summary": "The Diablo team is \"all focused on seasons and getting to Diablo 5,\" support for Diablo 4 will continue \"for a very long time,\" says Blizzard.",
+        "title": "10 big World of Warcraft Forever details from BlizzCon: No separate realms, optional transmog, and massively improved items",
+        "summary": "The classic-ish MMO has a ton of changes to make the original experience much smoother.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/rpg/no-more-diablo-4-expansions-are-planned-but-theres-a-lot-of-room-for-more-storytelling-in-the-leadup-to-diablo-5/",
-        "seendate": "2026-09-12T21:56:55.000Z",
+        "url": "https://www.pcgamer.com/games/world-of-warcraft/10-big-world-of-warcraft-forever-details-from-blizzcon-no-separate-realms-optional-transmog-and-massively-improved-items/",
+        "seendate": "2026-09-14T00:04:42.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Overwatch's newest hero is a robo-vampire, and reworks are on the way for Roadhog and Sombra",
-        "summary": "Triple threat.",
+        "title": "StarCraft is a narrative-driven shooter with 'a definitive ending' and 'not a seasonal game'",
+        "summary": "The shooter will have a \"beginning, middle, and end,\" according to StarCraft GM Dan Hay.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/fps/overwatchs-newest-hero-is-a-robo-vampire-and-reworks-are-on-the-way-for-roadhog-and-sombra/",
-        "seendate": "2026-09-12T18:55:21.000Z",
+        "url": "https://www.pcgamer.com/games/fps/starcraft-is-a-narrative-driven-shooter-with-a-definitive-ending-and-not-a-seasonal-game/",
+        "seendate": "2026-09-13T18:44:20.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Blizzard just dropped a new Warcraft 3 campaign, the first in 23 years",
-        "summary": "The year of the surprise old game expansion.",
+        "title": "Discussing 20 years of Company of Heroes with the team carrying its torch into the future",
+        "summary": "\"I'm really pleased that we're here, able to support the games, and able to celebrate this 20th anniversary.\"",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/rts/blizzard-just-dropped-a-new-warcraft-3-campaign-the-first-in-23-years/",
-        "seendate": "2026-09-12T18:51:39.000Z",
+        "url": "https://www.pcgamer.com/games/rts/discussing-20-years-of-company-of-heroes-with-the-team-carrying-its-torch-into-the-future/",
+        "seendate": "2026-09-13T18:08:38.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Hearthstone just got its first new class in four years: Warcraft's fire-breathing panda Monk",
-        "summary": "Have keg, will shuffle.",
+        "title": "YouTuber runs onto the stage at Roblox Developers Conference shouting 'We deserve better,' gets tackled and ejected from show",
+        "summary": "Mathieo shared the stunt online and explained his reasoning in a video.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/card-games/hearthstone-just-got-its-first-new-class-in-four-years-warcrafts-fire-breathing-panda-monk/",
-        "seendate": "2026-09-12T18:40:05.000Z",
+        "url": "https://www.pcgamer.com/software/platforms/youtuber-runs-onto-the-stage-at-roblox-developers-conference-shouting-we-deserve-better-gets-tackled-and-ejected-from-show/",
+        "seendate": "2026-09-13T16:19:36.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Heroes of the Storm gets first new hero after supposed death and 6 year wait",
-        "summary": "Filling the void.",
+        "title": "My favourite soundtrack of 2026 so far is tucked in one of this year's biggest sleeper hits",
+        "summary": "Australian duo aksfx have created something truly special.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/moba/heroes-of-the-storm-gets-first-new-hero-after-supposed-death-and-6-year-wait/",
-        "seendate": "2026-09-12T17:44:26.000Z",
+        "url": "https://www.pcgamer.com/games/puzzle/my-favourite-soundtrack-of-2026-so-far-is-tucked-in-one-of-this-years-biggest-sleeper-hits/",
+        "seendate": "2026-09-13T16:15:12.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
       {
-        "title": "More Anthropic researchers warn of AI’s perils but Musk dismisses ‘psyop’",
-        "summary": "Insiders at the firm fear tech’s advancement could cause human extinction, while others are calling their declarations of concern a ‘setup’A day after a former researcher at Anthropic made an apocalyptic declaration about artificial intelligence, more researchers and staff members at the AI startup publicly agreed with him and posted their own dire warnings.In response, Elon Musk and other conservati",
+        "title": "OpenAI boss and Elon Musk back calls to put brakes on ‘reckless’ AI development",
+        "summary": "Rare show of unity from rival developers after safety warnings from Anthropic boss and AI researchersAnalysis: critics perplexed and suspicious of call for a slowdown<a href=\"https://www.theguardian.com/commentisfree/2026/sep/11/the-g",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/sep/10/anthropic-researchers-warn-ai-musk",
-        "seendate": "2026-09-10T21:51:26.000Z",
+        "url": "https://www.theguardian.com/technology/2026/sep/13/openai-sam-altman-elon-musk-back-anthropic-calls-brakes-ai-development",
+        "seendate": "2026-09-13T14:02:24.000Z",
         "domain": "theguardian.com"
       },
       {
@@ -383,6 +383,30 @@
     ],
     "science": [
       {
+        "title": "‘Immature playground boasting’: Mathematicians uneasy at OpenAI’s latest scalp",
+        "summary": "As OpenAI model cracks Millennium Prize Problem that puzzled experts for decades, many feel shocked at pace of changeIt was a week that left mathematicians reeling. Hot on the heels of a flurry of cases of artificial intelligence <a href=\"https://deepmind.google/blog/ai-solves-imo-problems-at-silver",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/sep/12/openai-mathematicians-millennium-prize-problem",
+        "seendate": "2026-09-12T08:00:28.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Fossilized 10,000-year-old mastodon tooth found by California scientist",
+        "summary": "Molar from large mammal that once lived in North America is in ‘immaculate condition’ after discovery in Bay AreaA 10,000 year-old tooth in remarkable condition from an ancient Pacific mastodon, a large mammal that once inhabited North America, was recently discovered by a California scientist.Brigid Lynch, a geomorphologist, was working at",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/sep/12/fossilized-mastodon-tooth-10000-years-found-california",
+        "seendate": "2026-09-12T20:34:58.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Live episode: how AI is reshaping our minds – podcast",
+        "summary": "In this episode of Science Weekly, recorded in front of an audience at the London podcast festival on 3 September, Ian Sample hears from Michael Safi, the host of the Guardian’s chart-topping podcast about artificial intelligence, Black Box. In series two, Black Box: the chatbots, Michael meets people who have become convinced they have made scientific breakthroughs, cured diseases or invented new technologies usi",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/audio/2026/sep/13/live-episode-how-ai-is-reshaping-our-minds-podcast",
+        "seendate": "2026-09-13T04:00:53.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Indonesian foragers may have sucked on mind-altering nuts 25,000 years ago, research finds",
         "summary": "Analysis of two skeletons reveals tooth wear and traces of psychoactive substance in what may be earliest known evidence for human drug takingWhat may be the earliest known evidence for human drug taking has been traced to ancient Indonesian foragers who sucked on mind-altering nuts as long as 25,000 years ago.Analysis of two exceptionally rare skeletons from the Indonesian island of Sulawesi reveale",
         "source": "theguardian.com",
@@ -396,30 +420,6 @@
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/us-news/2026/sep/11/tyrannosaurus-rex-footprints-north-dakota",
         "seendate": "2026-09-11T14:34:07.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Weatherwatch: soil moisture deficit – how dry are the UK’s thirsty soils?",
-        "summary": "SMD is the moisture the soil must make up until it is at capacity, with very dry conditions over most of England and WalesWhen the ground is thoroughly wet, after excess rainwater has run off it is said to be at field capacity. Meteorologists describe drought in terms of soil moisture deficit (SMD) from field capacity. The SMD is a m",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/news/2026/sep/11/weatherwatch-soil-moisture-deficit-dry-uk-thirsty-soils-drought",
-        "seendate": "2026-09-11T05:00:00.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "‘One of the biggest discoveries in science’: have scientists found dark matter? – podcast",
-        "summary": "For decades physicists have been puzzling over the enigma of dark matter. We think it makes up 85% of the matter in the universe, but the mysterious substance cannot be seen or detected, and we know about it mainly through observations of the gravitational effects it has on other things. But now scientists believe they may be a step closer to detecting it. Science editor Ian Sample explains to <st",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/audio/2026/sep/10/dark-matter-science-biggest-discovery-podcast",
-        "seendate": "2026-09-10T04:00:16.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "OpenAI claims to have solved maths problem that stumped humans for decades",
-        "summary": "Company behind ChatGPT says 10,000 of its AI systems cracked the Navier-Stokes problem in 88 hoursOpenAI claims to have solved a major mathematics problem that has stumped humans for nearly a century after spending millions of dollars on the artificial intelligence-led endeavour.The company behind ChatGPT said it had cracked the Navier-Stokes problem, one of seven Millennium Prize Problems <a href=\"h",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/sep/08/openai-claims-to-have-solved-maths-problem-that-stumped-humans-for-decades",
-        "seendate": "2026-09-08T21:29:10.000Z",
         "domain": "theguardian.com"
       }
     ]
