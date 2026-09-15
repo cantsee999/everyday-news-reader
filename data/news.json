@@ -1,8 +1,24 @@
 {
-  "generatedAt": "2026-09-14T00:31:03.422Z",
+  "generatedAt": "2026-09-15T01:02:33.668Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
+      {
+        "title": "The London hospital funded by donors who invested in the slave trade",
+        "summary": "St Barts is one of many UK institutions whose benefactors were involved in the trafficking of enslaved AfricansInside the Great Hall of St Bartholomew’s North Wing, alongside stately portraits of the apostle from whom London’s oldest hospital takes its name and King Henry VIII, extravagant commemorative boards adorn the walls.The Great Hall was a grand, formal space where governors weighed their phil",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/uk-news/ng-interactive/2026/sep/14/london-hospital-st-barts-funded-donors-invested-slave-trade",
+        "seendate": "2026-09-14T13:00:58.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Africa’s richest man aiming to make $23bn from continent’s biggest-ever IPO",
+        "summary": "Public offering of Aliko Dangote’s Nigerian oil refinery business could swell his net wealth by two-thirdsThe fortune of Africa’s richest person could swell by two thirds to nearly $60bn (£44bn) after his refinery in Nigeria listed publicly in the continent’s biggest-ever initial public offering.If Monday’s flotation of Dangote Petroleum Refinery and Petrochemicals on the Nigerian exchange goes to pl",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/sep/14/aliko-dangote-nigeria-africa-richest-man-ipo",
+        "seendate": "2026-09-14T12:38:51.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Burial of King Oyo takes place in Uganda as news anchor prepares for throne",
         "summary": "Royal guards carry casket through streets of Fort Portal amid row over appointment of Edward Rukidi KijanangomaUganda’s King Oyo Nyimba Kabamba Iguru Rukidi IV, long the world’s youngest monarch, has been buried among the tombs of his royal forebears as ⁠his Tooro kingdom looked to put ⁠a bitter succession batt",
@@ -25,27 +41,27 @@
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/global-development/2026/sep/11/15m-fund-launched-to-create-unstoppable-momentum-to-end-fgm-worldwide",
         "seendate": "2026-09-11T04:00:04.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Secret son revelation ignites bitter succession dispute in Ugandan kingdom",
-        "summary": "Family of late King Oyo Nyimba Kabamba Iguru Rukidi IV reject committee’s choice of cousin and TV presenter as new monarchA traditional Ugandan kingdom has become engulfed in a bitter succession dispute after the family of a king who recently died rejected the selection of a television news anchor as his successor.King Oyo Nyimba Kabamba Iguru Rukidi IV, who became the world’s youngest reigning monar",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/sep/10/uganda-king-secret-son-succession-dispute",
-        "seendate": "2026-09-10T17:29:20.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Uganda to withdraw from Invictus Games ‘out of respect for King Charles’, says military chief",
-        "summary": "Gen Muhoozi Kainerugaba announces decision to pull out in post on X, citing tensions over ‘Harry-Meghan nonsense’Uganda is withdrawing from the Duke of Sussex’s Invictus Games, the country’s military chief has said, out of respect for King Charles amid division over the “Harry-Meghan nonsense”.Gen Muhoozi Kainerugaba, son of the Ugandan president, made the surprise announcement in a post on X on Wedn",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/sep/09/uganda-withdraws-invictus-games-out-of-respect-king-charles",
-        "seendate": "2026-09-09T18:20:24.000Z",
         "domain": "theguardian.com"
       }
     ],
     "conflict": [
       {
+        "title": "The London hospital funded by donors who invested in the slave trade",
+        "summary": "St Barts is one of many UK institutions whose benefactors were involved in the trafficking of enslaved AfricansInside the Great Hall of St Bartholomew’s North Wing, alongside stately portraits of the apostle from whom London’s oldest hospital takes its name and King Henry VIII, extravagant commemorative boards adorn the walls.The Great Hall was a grand, formal space where governors weighed their phil",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/uk-news/ng-interactive/2026/sep/14/london-hospital-st-barts-funded-donors-invested-slave-trade",
+        "seendate": "2026-09-14T13:00:58.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Africa’s richest man aiming to make $23bn from continent’s biggest-ever IPO",
+        "summary": "Public offering of Aliko Dangote’s Nigerian oil refinery business could swell his net wealth by two-thirdsThe fortune of Africa’s richest person could swell by two thirds to nearly $60bn (£44bn) after his refinery in Nigeria listed publicly in the continent’s biggest-ever initial public offering.If Monday’s flotation of Dangote Petroleum Refinery and Petrochemicals on the Nigerian exchange goes to pl",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/sep/14/aliko-dangote-nigeria-africa-richest-man-ipo",
+        "seendate": "2026-09-14T12:38:51.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Burial of King Oyo takes place in Uganda as news anchor prepares for throne",
         "summary": "Royal guards carry casket through streets of Fort Portal amid row over appointment of Edward Rukidi KijanangomaUganda’s King Oyo Nyimba Kabamba Iguru Rukidi IV, long the world’s youngest monarch, has been buried among the tombs of his royal forebears as ⁠his Tooro kingdom looked to put ⁠a bitter succession batt",
         "source": "theguardian.com",
@@ -68,31 +84,23 @@
         "url": "https://www.theguardian.com/global-development/2026/sep/11/15m-fund-launched-to-create-unstoppable-momentum-to-end-fgm-worldwide",
         "seendate": "2026-09-11T04:00:04.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Secret son revelation ignites bitter succession dispute in Ugandan kingdom",
-        "summary": "Family of late King Oyo Nyimba Kabamba Iguru Rukidi IV reject committee’s choice of cousin and TV presenter as new monarchA traditional Ugandan kingdom has become engulfed in a bitter succession dispute after the family of a king who recently died rejected the selection of a television news anchor as his successor.King Oyo Nyimba Kabamba Iguru Rukidi IV, who became the world’s youngest reigning monar",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/sep/10/uganda-king-secret-son-succession-dispute",
-        "seendate": "2026-09-10T17:29:20.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Uganda to withdraw from Invictus Games ‘out of respect for King Charles’, says military chief",
-        "summary": "Gen Muhoozi Kainerugaba announces decision to pull out in post on X, citing tensions over ‘Harry-Meghan nonsense’Uganda is withdrawing from the Duke of Sussex’s Invictus Games, the country’s military chief has said, out of respect for King Charles amid division over the “Harry-Meghan nonsense”.Gen Muhoozi Kainerugaba, son of the Ugandan president, made the surprise announcement in a post on X on Wedn",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/sep/09/uganda-withdraws-invictus-games-out-of-respect-king-charles",
-        "seendate": "2026-09-09T18:20:24.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "economy": [
       {
-        "title": "‘Trump accounts’ promise to mint child millionaires. Experts have their doubts",
-        "summary": "President has hyped growth of federal investment accounts to help US children – for his own political gainSince returning to the White House, Donald Trump has scrapped rules that made childcare more affordable and pushed to <a href=\"https://www.edweek.org/policy-polit",
+        "title": "AI-linked stocks slide after tech bosses call for slowdown in ‘reckless’ development",
+        "summary": "Donald Trump dismisses attempts to increase controls on artificial intelligence as ‘sick conspiracy’ AI-linked stocks tumbled on Monday after the bosses of Anthropic, OpenAI and SpaceX called for a sl",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/sep/13/donald-trump-accounts-child-investment-wealth",
-        "seendate": "2026-09-13T11:00:05.000Z",
+        "url": "https://www.theguardian.com/business/2026/sep/14/ai-linked-stocks-fall-tech-bosses-call-slowdown-anthropic-openai",
+        "seendate": "2026-09-14T22:10:52.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "US borrowing costs hit 5% for first time since 2023 amid bond sell-off",
+        "summary": "Soaring oil prices of above $108 a barrel after Houthi attacks on Saudi infrastructure stoke inflation fears US government borrowing costs have risen to 5% for the first time since 2023 as soaring oil prices fuelled by the war in the Middle East trigger an intensifying sell-off in the global bond market.The yield – in effect the interest rate – on 10-year US Treasury bonds hit the psychologically imp",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline",
+        "seendate": "2026-09-14T16:48:34.000Z",
         "domain": "theguardian.com"
       },
       {
@@ -118,17 +126,25 @@
         "url": "https://www.theguardian.com/business/2026/sep/11/inflation-august-interest-rates",
         "seendate": "2026-09-11T12:38:12.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Iran’s Houthi allies capture strategic island on vital oil shipping route",
-        "summary": "Rampant Yemeni fighters take control of island in narrow point of Bab al-Mandab strait, which Saudi is relying on for oil exportsWhy the rapid Houthi advance matters and what’s at stakeYemen’s rampant Houthi forces have captured t",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/sep/11/iran-houthi-allies-capture-strategic-island-bab-al-mandab-strait",
-        "seendate": "2026-09-12T04:45:28.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "literature": [
+      {
+        "title": "End Times Fascism by Naomi Klein and Astra Taylor review – the fightback starts here",
+        "summary": "A sharp analysis of the damage wrought by the reckless super-rich, and progressive toolkit for repairing itThe more power the radical rightwing nationalists of our age accrue, the greater the risk that their destructive brand of politics becomes normalised. We should not, for instance, regard it as normal that the man in charge of one of the world’s largest nuclear arsenals casually promises “a whole civili",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/sep/14/end-times-fascism-by-naomi-klein-and-astra-taylor-review-the-fightback-starts-here",
+        "seendate": "2026-09-14T06:00:25.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Farewell to Eden by Sebastian Faulks review – conflict and compromise, from a veteran of the genre",
+        "summary": "A returning British soldier is haunted by his time in Palestine in this panoramic epic set after the second world warSebastian Faulks’s latest book focuses on the most irreconcilable geopolitical struggle of our age, the Israel-Palestine conflict. While “the sound of mortar and machine gun, the collision of flesh and metal” are integral to Faulks’s best known works, such as Birdsong, in his 17th&nbsp;novel",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/sep/14/farewell-to-eden-by-sebastian-faulks-review-conflict-and-compromise-from-a-veteran-of-the-genre",
+        "seendate": "2026-09-14T08:00:26.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Emily St John Mandel: ‘When half the electorate disagrees on basic reality, how do you come back from that?’",
         "summary": "Her hit novel Station Eleven seemed to predict the pandemic, now the novelist is tackling the future of the US. She talks about chance, world-building and experiencing a ‘tiny bit’ of clairvoyanceWhen Emily St John Mandel was a child she had a dream that would stay with her for decades. It was a nightmare in which “I was trying to find my dad in a crowd, and there were other people who looked like him but w",
@@ -152,158 +168,166 @@
         "url": "https://www.theguardian.com/technology/2026/sep/13/ai-will-transform-capitalism-but-how",
         "seendate": "2026-09-13T11:00:02.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Julia Donaldson: ‘Am I the Gruffalo Granny? Not really. I’m the mouse’",
-        "summary": "As she introduces the latest member of her Gruffalo family, Julia Donaldson talks about storytelling, loss and the worries that come with being Britain’s all-time bestselling authorIn 1999 a journalist asked a then-unknown author to share her millennium wish. The author, who was 51 years old and had published only one book before, said she hoped her new one, out that year, would become a classic. “But then",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/sep/12/julia-donaldson-am-i-the-gruffalo-granny-not-really-im-the-mouse",
-        "seendate": "2026-09-12T10:00:32.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Naomi Klein: ‘Extreme wealth has a deranging effect. It turns you into a supremacist’",
-        "summary": "She’s tackled neoliberalism and the digital world, now the writer and activist is taking on tech billionaires. She explains how the super-rich are capitalising on climate and financial chaos in pursuit of powerNaomi Klein’s new book starts on a mountaintop with two&nbsp;“faithful men gathering an audience to share their vision”. It’s a vision of a paradise city, gated at every entrance, no need for",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/sep/12/naomi-klein-extreme-wealth-has-a-deranging-effect-it-turns-you-into-a-supremacist",
-        "seendate": "2026-09-12T08:00:28.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "entertainment": [
       {
-        "title": "Babies review – Anna Kendrick and Seth Rogen embrace childlessness in breezy comedy",
-        "summary": "Toronto film festival: To be a parent or not to be a parent is the question propelling this often insightful yet largely run-of-the-mill riff on a Judd Apatow movieIt’s a question still casually and routinely asked to couples everywhere regardless of familiarity, one that many fear and some feel actively offended by: are you guys gonna have kids?Despite living in an age where we’re s",
+        "title": "Emmy awards 2026 live: the red carpet, the winners, the losers, the speeches",
+        "summary": "The Emmys are here – and tonight’s ceremony is likely to be dominated by The Pitt, Pluribus, Hacks and Widow’s Bay. Follow live updatesEmmys 2026: red carpet looks and outfits at TV’s biggest night – in pictures<a href=\"https://www.theg",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/sep/13/babies-anna-kendrick-seth-rogen-movie-review-toronto",
-        "seendate": "2026-09-13T22:27:30.000Z",
+        "url": "https://www.theguardian.com/tv-and-radio/live/2026/sep/15/emmys-2026-live-updates-awards-winners-losers-biggest-shows-red-carpet-speeches-latest",
+        "seendate": "2026-09-15T00:41:27.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "I Play Rocky review – crowd-pleasing Stallone biopic is heavy on fan service, light on real emotion",
-        "summary": "Toronto film festival: There’s a knockout central performance from Anthony Ippolito in this otherwise rather lightweight making-of comedy dramaWe first see Anthony Ippolito sauntering into a harsh spotlight in I Play Rocky’s opening frames. He’s squirrelling around an audition space, physicalizing the battle between his nerves and the stubborn self-confidence that gets him into those rooms,",
+        "title": "Emmys 2026: red carpet looks and outfits at TV’s biggest night – in pictures",
+        "summary": "Zendaya, Nicole Kidman and Selena Gomez are among the stars at the 78th Primetime Emmys in Los Angeles, with actors from The Pitt, Pluribus, Hacks and Widow’s Bay walking the red (well, blue) carpetEmmys 2026: follow along live",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/sep/13/i-play-rocky-review-stallone-biopic",
-        "seendate": "2026-09-13T16:29:11.000Z",
+        "url": "https://www.theguardian.com/tv-and-radio/gallery/2026/sep/15/emmys-2026-red-carpet-fashion-looks-outfits-awards-photos-gallery-pictures",
+        "seendate": "2026-09-15T00:37:19.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Closing Night review – fiery women face off in Almodóvar-lite melodrama",
-        "summary": "Toronto film festival: Sarah Paulson, Naomi Watts and Dianne Wiest are all impressive in actor-turned-director Cody Fern’s debut but they’re left strandedThere are three relatively substantive roles for female actors over the age of 50 in actor-turned-film-maker Cody Fern’s talky drama Closing Night. It’s a sadly impressive feat even at a time when the industry has slowly become more aware",
+        "title": "Macklemore dropped from Ed Sheeran’s US tour after ‘free Palestine’ speech",
+        "summary": "The American rapper will no longer support Sheeran’s US leg of Loop tour after comments at MetLife Stadium showMacklemore has been dropped from the remainder of the US leg of Ed Sheeran’s Loop tour, after the American rapper drew headlines for saying “free Palestine” on stage at MetLife Stad",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/sep/13/closing-night-review-sarah-paulson-naomi-watts-dianne-wiest",
-        "seendate": "2026-09-13T16:02:05.000Z",
+        "url": "https://www.theguardian.com/music/2026/sep/14/macklemore-dropped-ed-sheeran-tour-free-palestine",
+        "seendate": "2026-09-14T15:39:57.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "NAZA director says 'it's important Israelis watch this film' after win at Venice festival – video",
-        "summary": "NAZA, a new film directed by Yuval Abraham and Rachel Szor and produced by the Guardian, has been awarded the special jury prize at the 83rd Venice film festival. Shot at night on the rooftops of Tel Aviv, NAZA reveals in detail the systems behind Israel’s calculated mass killing of Palestinian civilians in Gaza. Abraham, in his prize acceptance speech, said: 'It's really important Isrealis watch this film. It's o",
+        "title": "Ancestors review – messy but moving ghostly drama about the Aids crisis",
+        "summary": "Toronto film festival: Saipan standout Éanna Hardwicke is a soulful gay man looking for a missing friend in a striking yet muddled debutIt’s not normal to regularly contemplate mortality in your twenties, to ask questions about where we might go after we die and whether any part of our legacy will even matter in the years following. But for gay men in the 1980s, death was everywhere.",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/video/2026/sep/13/naza-directors-yuval-abraham-speech-venice-film-festival-video",
-        "seendate": "2026-09-13T13:48:25.000Z",
+        "url": "https://www.theguardian.com/film/2026/sep/14/ancestors-review-aids-crisis-toronto-film-festival",
+        "seendate": "2026-09-14T14:58:22.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Burning Man at 40: the once anarchic desert festival faces a midlife crisis",
-        "summary": "The subversive bacchanal for San Francisco’s eccentric underground is ageing out amid an influx of the super-richBurning Man, the infamous arts festival in the Nevada desert, turned 40 this year, and it’s showing some distinct signs of middle age.It’s not just the tech billionaires who show up to party, the <a href=\"https://journa",
+        "title": "‘The eye-gouging was very, very satisfying’: how we made cave horror classic The Descent",
+        "summary": "‘The child crawler whose head I crush with my boot was only 11, bless him. It was actually me stamping on a cauliflower’I was introduced to Christian Colson at Celador Films off the back of [2002 horror film] Dog Soldiers, and I pitched them a project – actually a feature-length version of my student graduation film – about zombies on an oil rig. They liked it but said it was too expensive, so on the train",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/culture/2026/sep/13/burning-man-crowd-age",
-        "seendate": "2026-09-13T13:00:04.000Z",
+        "url": "https://www.theguardian.com/culture/2026/sep/14/eye-how-we-made-cave-horror-classic-the-descent-child-crawler",
+        "seendate": "2026-09-14T14:23:56.000Z",
         "domain": "theguardian.com"
       }
     ],
     "f1": [
       {
-        "title": "Kimi Antonelli's \"precious\" moment with father goes viral after Spanish GP win",
-        "summary": "A moment shared between Kimi Antonelli and his father, Marco Antonelli, has gone viral after the Mercedes driver celebrated his eighth Formula 1 win at the Spanish Grand Prix.After the Italian driver parked his Mercedes machinery on the grid, he went to celebrate with his team. Standing at the front of the barriers was his father, holding a red carnation ready to give to his son. As he handed ...<a class",
+        "title": "Lando Norris completes first full test in McLaren’s Le Mans Hypercar",
+        "summary": "Reigning Formula 1 champion Lando Norris completed his first full-fledged test at the wheel of the McLaren MCL-HY Le Mans Hypercar at Portimao on Monday.Following last weekend’s Spanish Grand Prix at the new Madring circuit in which he was denied victory by an ill-timed Virtual Safety Car, Norris travelled across the border to Portugal for a one-day test.The Briton completed 38 laps of ...<a class='m",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/kimi-antonellis-precious-moment-with-father-goes-viral-after-spanish-gp-win/10855648/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-13T21:11:41.000Z",
+        "url": "https://www.motorsport.com/wec/news/lando-norris-completes-first-full-test-in-mclarens-le-mans-hypercar/10855952/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-14T18:20:49.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Lewis Hamilton “lucky to make it round” after Spanish GP brake failure",
-        "summary": "Ferrari driver Lewis Hamilton says he was \"lucky to make it round\" to the garage after suffering a brake failure in the opening stages of Madrid's Spanish GP.Hamilton had been battling Max Verstappen for third when his brake pedal started going long during the first couple of laps. Hamilton and Ferrari initially held some hope that the Briton could continue after changing a few settings as ...<a class='m",
+        "title": "Who is racing Max Verstappen in \"Max vs 100\"? Entry list revealed",
+        "summary": "The majority of the 100 karters preparing to challenge four-time Formula 1 champion Max Verstappen in the Max vs 100 event on Wednesday 16 September have been revealed.Streaming live on Disney+, the Max vs 100 event tasks the Dutchman with fighting his way through 100 opponents on a circuit purpose-built for the occasion at Silverstone. The objective for the opposition is to work together to ...<a class=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/lewis-hamilton-lucky-to-make-it-round-after-spanish-gp-brake-failure/10855642/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-13T20:21:18.000Z",
+        "url": "https://www.motorsport.com/f1/news/who-is-racing-max-verstappen-in-max-vs-100-entry-list-revealed/10855944/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-14T17:31:04.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Lando Norris to test McLaren MCL-HY hypercar ahead of Azerbaijan GP",
-        "summary": "Lando Norris will test McLaren's new MCL-HY hypercar at the Algarve International Circuit ahead of the Azerbaijan Grand Prix.The test at the Portimao circuit is set to take place on Monday 14 September and will allow the Woking outfit to continue its development of the MCL-HY with feedback from the 2025 Formula 1 champion.The McLaren MCL-HY is the machine that will compete in the FIA ...<a class='mor",
+        "title": "F1 Azerbaijan GP is on a Saturday in 2026, here's why",
+        "summary": "The 2026 Formula 1 campaign is reaching its end with 14 of the currently scheduled 23 rounds now complete after last weekend’s Spanish Grand Prix.Kimi Antonelli took the chequered flag in Madrid on Sunday, which marked an end to the European leg of the calendar, with Azerbaijan up next before a series of Asian and American flyaway races.But the Baku contest is taking place on a Saturday ...<a class='",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/lando-norris-to-test-mclaren-mcl-hy-hypercar-ahead-of-azerbaijan-gp/10855632/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-13T19:40:23.000Z",
+        "url": "https://www.motorsport.com/f1/news/f1-azerbaijan-gp-is-on-a-saturday-in-2026-why/10855369/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-14T16:46:02.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Winners and losers from F1's underwhelming Spanish Grand Prix",
-        "summary": "Formula 1's first visit to Madrid in 45 years went off to a smooth enough start off the track, but its inaugural race at the Madring left plenty to be desired.Starting from a relatively blank sheet of paper, some of the awkward corner designs and the lack of proper straight lines made overtaking all but impossible.Read Also:Formula 1F1 Spanish GP: Kimi Antonelli wins again as ...<a class=",
+        "title": "Guenther Steiner criticises Lando Norris's Coca-Cola Spanish GP moment as 'unprofessional'",
+        "summary": "Former Haas Formula 1 team principal Guenther Steiner has criticised Lando Norris's Coca-Cola cooldown room moment following the Spanish Grand Prix in Madrid, claiming it was unprofessional of the McLaren driver.After finishing third at the Madring circuit, Norris was seen drinking a Coca-Cola in the cooldown room. With rival drinks company PepsiCo having a partnership with F1, an official ...<a class='m",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/winners-and-losers-f1-underwhelming-spanish-gp/10855625/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-13T19:32:52.000Z",
+        "url": "https://www.motorsport.com/f1/news/guenther-steiner-brands-lando-norriss-coca-cola-spanish-gp-moment-unprofessional/10855926/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-14T16:18:54.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Carlos Sainz accuses Fernando Alonso of provoking a penalty \"like always\"",
-        "summary": "As if complaints about the track layout weren't enough, the first Formula 1 Spanish Grand Prix at the new Madring circuit provoked an unseemly spat between the two home heroes. Fernando Alonso and Carlos Sainz were all smiles before the race, but the cordiality lasted only until lap 14, when Alonso was attacking Sainz for 17th place. Alonso was angling to get a run on Sainz on the right-hand ...<a class=",
+        "title": "Why F1 should avoid knee-jerk rule changes after Lando Norris' Madrid heartbreak",
+        "summary": "Lando Norris lost a Formula 1 race win through no fault of his own - or his team's - but simply because of the unfortunate timing of a virtual safety car, triggered on lap 14 of the Spanish Grand Prix after Lance Stroll's retirement. The McLaren driver missed the pitlane entry by mere seconds before the VSC was activated - and was probably the only man to really lose out because of it. His main ...<a class='",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/sainz-accuses-alonso-of-provoking-a-penalty-like-always/10855613/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-13T19:04:47.000Z",
+        "url": "https://www.motorsport.com/f1/news/why-f1-should-avoid-knee-jerk-rule-changes-after-norris-madrid-heartbreak/10855905/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-14T16:02:16.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "10 big World of Warcraft Forever details from BlizzCon: No separate realms, optional transmog, and massively improved items",
-        "summary": "The classic-ish MMO has a ton of changes to make the original experience much smoother.",
+        "title": "After nearly a year of silence following its last-minute delay, Kingmakers resurfaces with an extended gameplay video and new playtest",
+        "summary": "Still no new release date, though.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/world-of-warcraft/10-big-world-of-warcraft-forever-details-from-blizzcon-no-separate-realms-optional-transmog-and-massively-improved-items/",
-        "seendate": "2026-09-14T00:04:42.000Z",
+        "url": "https://www.pcgamer.com/games/action/after-nearly-a-year-of-silence-following-its-last-minute-delay-kingmakers-resurfaces-with-an-extended-gameplay-video-and-new-playtest/",
+        "seendate": "2026-09-14T20:48:15.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "StarCraft is a narrative-driven shooter with 'a definitive ending' and 'not a seasonal game'",
-        "summary": "The shooter will have a \"beginning, middle, and end,\" according to StarCraft GM Dan Hay.",
+        "title": "Wardogs players are actively avoiding one team in particular: 'They are literally the dumbest people on the planet'",
+        "summary": "Some are convinced one team is set up to fail.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/fps/starcraft-is-a-narrative-driven-shooter-with-a-definitive-ending-and-not-a-seasonal-game/",
-        "seendate": "2026-09-13T18:44:20.000Z",
+        "url": "https://www.pcgamer.com/games/fps/wardogs-players-are-actively-avoiding-one-team-in-particular-they-are-literally-the-dumbest-people-on-the-planet/",
+        "seendate": "2026-09-14T20:16:07.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Discussing 20 years of Company of Heroes with the team carrying its torch into the future",
-        "summary": "\"I'm really pleased that we're here, able to support the games, and able to celebrate this 20th anniversary.\"",
+        "title": "The Steam Frame launches during one of the slowest periods for VR on Steam, but Valve hopes to 'rekindle the excitement' for PCVR",
+        "summary": "\"We also want to grow a healthy ecosystem for both the gamers and the game developers.\"",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/rts/discussing-20-years-of-company-of-heroes-with-the-team-carrying-its-torch-into-the-future/",
-        "seendate": "2026-09-13T18:08:38.000Z",
+        "url": "https://www.pcgamer.com/hardware/vr-hardware/the-steam-frame-launches-during-one-of-the-slowest-periods-for-vr-on-steam-but-valve-hopes-to-rekindle-the-excitement-for-pcvr/",
+        "seendate": "2026-09-14T19:00:00.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "YouTuber runs onto the stage at Roblox Developers Conference shouting 'We deserve better,' gets tackled and ejected from show",
-        "summary": "Mathieo shared the stunt online and explained his reasoning in a video.",
+        "title": "Bungie delays next Marathon update and ends 'strict seasonal schedule' as it goes all-in on Destiny-like features",
+        "summary": "Big changes are coming, but not until December.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/software/platforms/youtuber-runs-onto-the-stage-at-roblox-developers-conference-shouting-we-deserve-better-gets-tackled-and-ejected-from-show/",
-        "seendate": "2026-09-13T16:19:36.000Z",
+        "url": "https://www.pcgamer.com/games/fps/bungie-delays-next-marathon-update-and-ends-strict-seasonal-schedule-as-it-goes-all-in-on-destiny-like-features/",
+        "seendate": "2026-09-14T18:19:59.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "My favourite soundtrack of 2026 so far is tucked in one of this year's biggest sleeper hits",
-        "summary": "Australian duo aksfx have created something truly special.",
+        "title": "Valve had next-gen VR 'headsets ready three, four years ago and they were big, bulky devices' but went back to the drawing board after actually putting them on",
+        "summary": "The versatile Steam Frame's focus is \"on being lightweight and being comfortable\".",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/puzzle/my-favourite-soundtrack-of-2026-so-far-is-tucked-in-one-of-this-years-biggest-sleeper-hits/",
-        "seendate": "2026-09-13T16:15:12.000Z",
+        "url": "https://www.pcgamer.com/hardware/vr-hardware/valve-had-next-gen-vr-headsets-ready-three-four-years-ago-and-they-were-big-bulky-devices-but-went-back-to-the-drawing-board-after-actually-putting-them-on/",
+        "seendate": "2026-09-14T18:00:00.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
       {
-        "title": "OpenAI boss and Elon Musk back calls to put brakes on ‘reckless’ AI development",
-        "summary": "Rare show of unity from rival developers after safety warnings from Anthropic boss and AI researchersAnalysis: critics perplexed and suspicious of call for a slowdown<a href=\"https://www.theguardian.com/commentisfree/2026/sep/11/the-g",
+        "title": "AI-linked stocks slide after tech bosses call for slowdown in ‘reckless’ development",
+        "summary": "Donald Trump dismisses attempts to increase controls on artificial intelligence as ‘sick conspiracy’ AI-linked stocks tumbled on Monday after the bosses of Anthropic, OpenAI and SpaceX called for a sl",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/sep/13/openai-sam-altman-elon-musk-back-anthropic-calls-brakes-ai-development",
-        "seendate": "2026-09-13T14:02:24.000Z",
+        "url": "https://www.theguardian.com/business/2026/sep/14/ai-linked-stocks-fall-tech-bosses-call-slowdown-anthropic-openai",
+        "seendate": "2026-09-14T22:10:52.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "I worked at Google DeepMind. You should listen to the warnings about AI | Alex Turner",
+        "summary": "We must stop companies from allowing AI to self-improve into an uncontrollable level of intelligence Major AI lab CEOs advocated for slowing the pace of AI development this weekend. They are right to be concerned: the field runs an extremely dangerous race towards superintelligent AI. We can and should be demanding that our governments protect us from the catastrophe of out-of-control AI.This July, O",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/sep/14/google-deepmind-ai-warnings",
+        "seendate": "2026-09-14T12:00:59.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Pixel 11 Pro Fold review: the foldable with the best triple camera",
+        "summary": "Big screen folder with slick software and advanced AI is just like a regular Android when closedGoogle’s latest folding phone sticks with its tried and tested design of a traditional phone shape when closed and almost square when open, in the face of new competition from Apple’s squat iPhone fold.The Pixel 11 Pr",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/sep/14/pixel-11-pro-fold-review-the-foldable-with-the-best-triple-camera",
+        "seendate": "2026-09-14T06:00:24.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Democracy v the machine: the birth of the digital age and the warnings that were ignored – podcast",
+        "summary": "Many hoped that the march of technology would usher in an egalitarian utopia – but some foresaw the threat it would pose to liberal society. Why did nobody listen?By Jill Lepore. Read by Laurel LefkowRead the text version here<strong",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/news/audio/2026/sep/14/democracy-v-machine-birth-digital-age-warnings-ignored-podcast",
+        "seendate": "2026-09-14T04:00:22.000Z",
         "domain": "theguardian.com"
       },
       {
@@ -313,81 +337,73 @@
         "url": "https://www.theguardian.com/media/2026/sep/11/i-turned-off-my-instagram-algorithm-opt-out-social-media-reforms-australia",
         "seendate": "2026-09-10T15:00:43.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "China’s Huawei branded a criminal enterprise as tech firm’s US trial opens",
-        "summary": "The defense says: ‘It’s about competition, not conspiracy’ A US prosecutor described China’s Huawei as a criminal enterprise that stole from US companies to build its telecommunications empire, as ⁠the trial against the tech company kicked off in Brooklyn federal court on Wednesday.“Theft, lies, cover-up,” Taylor Stout, a trial attorney from the U",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/sep/10/china-huawei-trial-us",
-        "seendate": "2026-09-10T17:41:19.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Elon Musk attacks film-maker behind documentary about him",
-        "summary": "Tech mogul calls director Alex Gibney a ‘bitter old man’ who has ‘zero integrity’ in series of posts on XElon Musk has issued an angry tirade at the film-maker behind a four-hour documentary about his life and influence, labelling the director, Alex Gibney, a “bitter old man” who has “zero integrity”.Gibney, who has previously made films",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/sep/10/elon-musk-attacks-film-maker-behind-documentary-about-him",
-        "seendate": "2026-09-10T12:29:40.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Apple unveils folding iPhone Duo as new CEO takes center stage",
-        "summary": "The passport-size iPhone Duo serves as the first big test for John Ternus, who took over from Tim Cook last weekApple has unveiled the iPhone Duo, the company’s first foldable phone and the most significant change to the iPhone since the smartphone’s introduction in 2007.</",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/sep/08/apple-new-folding-iphone",
-        "seendate": "2026-09-09T18:45:46.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "climate": [
       {
-        "title": "We know how to prevent black lung, so why are workers still dying?",
-        "summary": "Silicosis sufferers are getting younger as Trump and the coal mining industry push back on protectionsSilicosis is one of the oldest workplace hazards and public health experts have known for decades how to prevent it. Yet a new wave of workers, from Appalachian coalminers to Latino countertop fabrication workers, are developing and dying from the disease as industry fights new protections and regulators fa",
+        "title": "Texas governor threatens to penalize datacenters not obeying water laws",
+        "summary": "Republican Greg Abbott says datacenters must help ‘protect’ drought-prone state and disclose water useGreg Abbott, the Texas governor, has directed state regulators to penalize datacenters that fail to comply with state laws",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/sep/12/black-lung-worker-deaths",
-        "seendate": "2026-09-12T11:00:34.000Z",
+        "url": "https://www.theguardian.com/us-news/2026/sep/14/greg-abbott-texas-datacenter-water-laws",
+        "seendate": "2026-09-14T22:57:15.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "People in the US: how have you coped during this summer of record heat?",
-        "summary": "We’d like to hear from people about the impact of extreme heat this summer – and if you’ve had your power cutIt’s been a record summer of heat in the US with rolling heat domes and July being",
+        "title": "US ends limits on coal and gas plant emissions, removing key tool to battle climate crisis",
+        "summary": "Trump’s EPA strips itself of regulation ability, gutting Clean Air Act in what experts say is a gift to planet pollutersOn the heels of the hottest summer ever recorded in the US, the Trump administration has said it will erase any limits on emissions from coal and gas plants that are dangerously heating up our planet.The US Environ",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/2026/sep/11/summer-record-heat-callout",
-        "seendate": "2026-09-10T14:00:38.000Z",
+        "url": "https://www.theguardian.com/environment/2026/sep/14/trump-epa-repeal-pollution-standards-power-plants",
+        "seendate": "2026-09-14T21:17:19.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Hawaii has often dodged the path of hurricanes. Why did it see so many storms this summer?",
-        "summary": "The island chain has tended to avoid the worst effects, but Hurricanes Lowell and Lala left a trail of damage this yearHurricane Lowell surged near the Hawaiian Islands this week, leaving a trail of downed trees and power lines, crumbled roads, sunken boats and destroyed piers on the island of Kauai.Residents were left to grapple not only with the damage, but the rising risks to the tropical archipel",
+        "title": "Firefighters make progress to contain northern California’s Lucas fire",
+        "summary": "Cal Fire official says Sunday was ‘big turning point’ to reduce blaze in Lake county, now 30% containedFirefighters made progress toward containing northern California’s Lucas fire, state officials said on Sunday.Fire officials are still investigating the cause of the fire, which has burned more than 4,120 acres across Lake and Mendocino co",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/sep/10/hawaii-hurricane-damage-el-nino",
-        "seendate": "2026-09-10T14:00:37.000Z",
+        "url": "https://www.theguardian.com/us-news/2026/sep/14/northern-california-lucas-fire-containment",
+        "seendate": "2026-09-14T19:53:57.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Chemical companies reach $455m settlement with North Carolina over ‘forever chemicals’ claims",
-        "summary": "Chemours, DuPont and Corteva reach settlement after lawsuits accuse companies of polluting drinking water Chemours, DuPont and Corteva on Thursday reached a $455m settlement with ⁠North Carolina and 11 local entities over Pfas contamination claims tied to ⁠Chemours’ Fayetteville Works ⁠plant and ​other historical discharges.Lawsuits accusing major chemical companies of polluting US drinking water ⁠wi",
+        "title": "Maryland boy recovering from surgeries after rabid beaver attack at state park",
+        "summary": "Teen was swimming at a popular spot at the time of the attack, the latest in a string that have occurred in the stateA 13-year-old Maryland boy is reported to be recovering from multiple surgeries and nerve damage after being attacked by a rabid beaver.The teen, Dominick Cebula, was swimming at a popular spot in Cunningham Falls state park in",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/sep/10/pfas-chemical-companies-north-carolina",
-        "seendate": "2026-09-10T12:50:32.000Z",
+        "url": "https://www.theguardian.com/us-news/2026/sep/14/maryland-rabid-beaver-attack",
+        "seendate": "2026-09-14T17:38:59.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Chemical industry backed laws in three US states to restrict use of air pollution data",
-        "summary": "As public air monitors disappear, federal rollbacks and state laws are making it harder than ever to know what’s in the airAs the US’s network for monitoring air pollution deteriorates, a Floodlight investigation has found that the chemical industry is going state-to-state to restrict one of the few options citizens have left for holdin",
+        "title": "Scientists find nine new sponge species in glimpse of Alaska’s deep-sea diversity",
+        "summary": "But their habitat is threatened by bottom trawling in the region and Trump’s plan to expand seafloor miningScientists have discovered nine new deep-sea sponge species off Alaska, offering new insights into the region’s largely unexplored marine biodiversity.The National Oceanic and Atmospheric Administration (Noaa) <a href=\"https://www.fisheries.noaa.gov/feature-story/nine-species-deep-sea-sponges-di",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/2026/sep/10/us-chemical-industry-air-pollution-monitors",
-        "seendate": "2026-09-10T11:00:23.000Z",
+        "url": "https://www.theguardian.com/us-news/2026/sep/14/deep-sea-sponges-discovery-mining-fishing",
+        "seendate": "2026-09-14T11:30:56.000Z",
         "domain": "theguardian.com"
       }
     ],
     "science": [
+      {
+        "title": "Scientists find nine new sponge species in glimpse of Alaska’s deep-sea diversity",
+        "summary": "But their habitat is threatened by bottom trawling in the region and Trump’s plan to expand seafloor miningScientists have discovered nine new deep-sea sponge species off Alaska, offering new insights into the region’s largely unexplored marine biodiversity.The National Oceanic and Atmospheric Administration (Noaa) <a href=\"https://www.fisheries.noaa.gov/feature-story/nine-species-deep-sea-sponges-di",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/sep/14/deep-sea-sponges-discovery-mining-fishing",
+        "seendate": "2026-09-14T11:30:56.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "‘Immature playground boasting’: Mathematicians uneasy at OpenAI’s latest scalp",
         "summary": "As OpenAI model cracks Millennium Prize Problem that puzzled experts for decades, many feel shocked at pace of changeIt was a week that left mathematicians reeling. Hot on the heels of a flurry of cases of artificial intelligence <a href=\"https://deepmind.google/blog/ai-solves-imo-problems-at-silver",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/science/2026/sep/12/openai-mathematicians-millennium-prize-problem",
         "seendate": "2026-09-12T08:00:28.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Starwatch: A Venus-spotting challenge with a beautiful reward",
+        "summary": "The bright planet and the young crescent moon will make an attractive pairing on Monday eveningThis week’s Starwatch is a challenge but a beautiful reward awaits for anyone who succeeds. The question is: how early in the evening can we find Venus?On Monday, the bright planet has a close encounter with a young crescent moon. The moon will be just over three days old with about 14% of its visible surfa",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/sep/14/starwatch-venus-spotting-challenge",
+        "seendate": "2026-09-14T05:00:23.000Z",
         "domain": "theguardian.com"
       },
       {
@@ -404,22 +420,6 @@
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/science/audio/2026/sep/13/live-episode-how-ai-is-reshaping-our-minds-podcast",
         "seendate": "2026-09-13T04:00:53.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Indonesian foragers may have sucked on mind-altering nuts 25,000 years ago, research finds",
-        "summary": "Analysis of two skeletons reveals tooth wear and traces of psychoactive substance in what may be earliest known evidence for human drug takingWhat may be the earliest known evidence for human drug taking has been traced to ancient Indonesian foragers who sucked on mind-altering nuts as long as 25,000 years ago.Analysis of two exceptionally rare skeletons from the Indonesian island of Sulawesi reveale",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/sep/09/indonesian-foragers-mind-altering-nuts-research-finds",
-        "seendate": "2026-09-09T18:00:02.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "One giant step: first known adult T rex footprints found in North Dakota",
-        "summary": "The 23ft-long trackway, consisting of four three-toed footprints, two left and two right, date from 66.5m years ago The first known series of footprints from an adult Tyrannosaurus rex has been found in North Dakota by a team of scientists.The 23ft-long trackway – consisting of four three-toed footprints, two left and two right – was first identified in the south-west of the state, in the dinosaur fo",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/sep/11/tyrannosaurus-rex-footprints-north-dakota",
-        "seendate": "2026-09-11T14:34:07.000Z",
         "domain": "theguardian.com"
       }
     ]
