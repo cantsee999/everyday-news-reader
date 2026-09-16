@@ -1,11 +1,27 @@
 window.NEWS_CACHE = {
-  "generatedAt": "2026-09-15T01:02:33.668Z",
+  "generatedAt": "2026-09-16T00:52:33.338Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
       {
+        "title": "‘I believed the hype’: the white South Africans denied refugee status in the US",
+        "summary": "Drive to save thousands of Afrikaners from false claims of ‘white genocide’ appears to show signs of slowingWhen Donald Trump announced in February 2025 that the US would accept Afrikaners from South Africa as refugees, many white South Africans who believed that they were victims of racism in their country thought that their prayers had been answered.However, in the past few months, dozens of applic",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/sep/15/white-south-africans-denied-refugee-status-us",
+        "seendate": "2026-09-15T04:00:27.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Ebola outbreak in DRC has peaked, say authorities, as infection rates slow",
+        "summary": "Almost 3,500 people have died in outbreak and experts say more must be done to ensure Bundibugyo is under controlAuthorities in the Democratic Republic of the Congo have announced that the Ebola outbreak ravaging parts of the country has reached its peak.For the first time since the epidemic was declared in May, the numbers of people becoming infected is slowing down, according to officials. <a h",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/global-development/2026/sep/15/ebola-outbreak-in-drc-has-peaked-say-authorities-as-infection-rates-slow",
+        "seendate": "2026-09-15T04:00:26.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "The London hospital funded by donors who invested in the slave trade",
-        "summary": "St Barts is one of many UK institutions whose benefactors were involved in the trafficking of enslaved AfricansInside the Great Hall of St Bartholomew’s North Wing, alongside stately portraits of the apostle from whom London’s oldest hospital takes its name and King Henry VIII, extravagant commemorative boards adorn the walls.The Great Hall was a grand, formal space where governors weighed their phil",
+        "summary": "Barts is one of many UK institutions whose benefactors were involved in the trafficking of enslaved AfricansInside the Great Hall of St Bartholomew’s North Wing, alongside stately portraits of the apostle from whom London’s oldest hospital takes its name and King Henry VIII, extravagant commemorative boards adorn the walls.The Great Hall was a grand, formal space where governors weighed their philant",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/uk-news/ng-interactive/2026/sep/14/london-hospital-st-barts-funded-donors-invested-slave-trade",
         "seendate": "2026-09-14T13:00:58.000Z",
@@ -25,29 +41,29 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/world/2026/sep/12/burial-king-oyo-uganda",
         "seendate": "2026-09-12T15:09:05.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Six Nigerians extradited to US over $6m online romance scam",
-        "summary": "Alleged members of Black Axe criminal network that swindled US women out of $6m flown from South AfricaSix Nigerian nationals linked to an organized criminal network that allegedly swindled American women out of more than $6m through online romance scams were extradited to",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/sep/12/nigerians-extradited-online-romance-scams",
-        "seendate": "2026-09-12T14:05:45.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "$15m fund launched to create ‘unstoppable momentum’ to end FGM worldwide",
-        "summary": "Her Horizon Fund seeks $100m to stop practice harming 230m women and girls globally Frontline activists and leaders in the fight against female genital mutilation, which has affected more than 230 million women and girls worldwide, have welcomed an unprecedented $15.5m (£11.4m) fund aimed at creating “unstoppable momentu",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/global-development/2026/sep/11/15m-fund-launched-to-create-unstoppable-momentum-to-end-fgm-worldwide",
-        "seendate": "2026-09-11T04:00:04.000Z",
         "domain": "theguardian.com"
       }
     ],
     "conflict": [
       {
+        "title": "‘I believed the hype’: the white South Africans denied refugee status in the US",
+        "summary": "Drive to save thousands of Afrikaners from false claims of ‘white genocide’ appears to show signs of slowingWhen Donald Trump announced in February 2025 that the US would accept Afrikaners from South Africa as refugees, many white South Africans who believed that they were victims of racism in their country thought that their prayers had been answered.However, in the past few months, dozens of applic",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/sep/15/white-south-africans-denied-refugee-status-us",
+        "seendate": "2026-09-15T04:00:27.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Ebola outbreak in DRC has peaked, say authorities, as infection rates slow",
+        "summary": "Almost 3,500 people have died in outbreak and experts say more must be done to ensure Bundibugyo is under controlAuthorities in the Democratic Republic of the Congo have announced that the Ebola outbreak ravaging parts of the country has reached its peak.For the first time since the epidemic was declared in May, the numbers of people becoming infected is slowing down, according to officials. <a h",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/global-development/2026/sep/15/ebola-outbreak-in-drc-has-peaked-say-authorities-as-infection-rates-slow",
+        "seendate": "2026-09-15T04:00:26.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "The London hospital funded by donors who invested in the slave trade",
-        "summary": "St Barts is one of many UK institutions whose benefactors were involved in the trafficking of enslaved AfricansInside the Great Hall of St Bartholomew’s North Wing, alongside stately portraits of the apostle from whom London’s oldest hospital takes its name and King Henry VIII, extravagant commemorative boards adorn the walls.The Great Hall was a grand, formal space where governors weighed their phil",
+        "summary": "Barts is one of many UK institutions whose benefactors were involved in the trafficking of enslaved AfricansInside the Great Hall of St Bartholomew’s North Wing, alongside stately portraits of the apostle from whom London’s oldest hospital takes its name and King Henry VIII, extravagant commemorative boards adorn the walls.The Great Hall was a grand, formal space where governors weighed their philant",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/uk-news/ng-interactive/2026/sep/14/london-hospital-st-barts-funded-donors-invested-slave-trade",
         "seendate": "2026-09-14T13:00:58.000Z",
@@ -68,25 +84,25 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/world/2026/sep/12/burial-king-oyo-uganda",
         "seendate": "2026-09-12T15:09:05.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Six Nigerians extradited to US over $6m online romance scam",
-        "summary": "Alleged members of Black Axe criminal network that swindled US women out of $6m flown from South AfricaSix Nigerian nationals linked to an organized criminal network that allegedly swindled American women out of more than $6m through online romance scams were extradited to",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/sep/12/nigerians-extradited-online-romance-scams",
-        "seendate": "2026-09-12T14:05:45.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "$15m fund launched to create ‘unstoppable momentum’ to end FGM worldwide",
-        "summary": "Her Horizon Fund seeks $100m to stop practice harming 230m women and girls globally Frontline activists and leaders in the fight against female genital mutilation, which has affected more than 230 million women and girls worldwide, have welcomed an unprecedented $15.5m (£11.4m) fund aimed at creating “unstoppable momentu",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/global-development/2026/sep/11/15m-fund-launched-to-create-unstoppable-momentum-to-end-fgm-worldwide",
-        "seendate": "2026-09-11T04:00:04.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "economy": [
+      {
+        "title": "US treasury secretary hails government’s bond buyback a success",
+        "summary": "On Tuesday, the 10-year treasury rate yield reached a 19-year high at 5.041%, even as investors wary Iran war falloutScott Bessent, the US treasury secretary, claimed the government’s massive buyback of US bonds was a success.The claim came as the 10-year treasury yield reached a 19-year high on Tuesday, increasing pressure on interest rates as the Federal Reserve weighs another hike to see off risin",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/business/2026/sep/15/scott-bessent-bonds-buyback",
+        "seendate": "2026-09-15T19:50:18.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Could AI really wipe out humanity – six experts spell out the risks",
+        "summary": "We examine claims and counterclaims about the risks and calls to slow down the pace of AI developmentThere have been some shocking claims in recent days about AI safety: we face a 10% chance of doom; AIs are worse than nukes; a “botnet” threatens the entire internet; it’s all a big tech psyop.Below, we look at six claims and reactions to them. <a href=\"https://www.theguardian.com/technology/2026/",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/sep/15/could-ai-really-wipe-out-humanity-and-hijack-the-internet",
+        "seendate": "2026-09-15T17:54:48.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "AI-linked stocks slide after tech bosses call for slowdown in ‘reckless’ development",
         "summary": "Donald Trump dismisses attempts to increase controls on artificial intelligence as ‘sick conspiracy’ AI-linked stocks tumbled on Monday after the bosses of Anthropic, OpenAI and SpaceX called for a sl",
@@ -110,28 +126,28 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/technology/2026/sep/13/openai-sam-altman-elon-musk-back-anthropic-calls-brakes-ai-development",
         "seendate": "2026-09-13T14:02:24.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Tensions simmer on US-Canada border for two towns relying on each other",
-        "summary": "Canadians ‘angry’ at Trump for suggesting Canada should become 51st state, says mayor, as US businesses see sales fall amid trade warLike many Canadians, Tom Reid isn’t crossing the US-Canada border as often these days. But he needed a haircut.The woman who cuts his hair lives in International Falls, Minnesota – her “sister is married to my wife’s cousin”, he explained – and so Reid, whose duty free",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/sep/12/us-canada-border-tariffs-trade-war",
-        "seendate": "2026-09-12T10:00:31.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "US consumers faced more high prices in August as Iran war raised energy costs",
-        "summary": "Annualized inflation rate was 3.4%, same as July, and core inflation, which omits energy and food prices, rose to 2.4%US consumer prices remained stubbornly high in August as the end of the ceasefire between the US and Iran pushed energy prices up, according to data from the US Bureau of Labor Statistics released on Friday.The annualized <a href=\"h",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/sep/11/inflation-august-interest-rates",
-        "seendate": "2026-09-11T12:38:12.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "literature": [
       {
+        "title": "The Rouse by China Miéville review – a mighty achievement from the ‘new weird’ author",
+        "summary": "Twenty years in the writing, this paranormal epic of cold war espionage and family tragedy is a quantum leap in terms of ambition and moral seriousnessChina Miéville’s epic new novel is presented as being “20 years in the making”. It is quite a testament to how extravagant – even Stakhanovite – his imagination is that during that period he also produced six novels (including <a href=\"https://www.theguardian",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/sep/15/the-rouse-by-china-mieville-review-a-mighty-achievement-from-the-new-weird-author",
+        "seendate": "2026-09-15T06:00:29.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "All the Wrong Moves by Anthony Scaramucci review – confessions of an ex-Trumper",
+        "summary": "The president’s former press secretary has learned all the right lessons, but how come it took him so long?The most interesting chapter in Anthony Scaramucci’s All the Wrong Moves is the one where the hedge funder turned podcaster goes to work for Donald Trump. It’s summer 2017, and he’s been given the job of comms director, which he doesn’t know how to do, but he and Trump think it’ll work out because they",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/sep/15/all-the-wrong-moves-by-anthony-scaramucci-review-confessions-of-an-ex-trumper",
+        "seendate": "2026-09-15T08:00:31.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "End Times Fascism by Naomi Klein and Astra Taylor review – the fightback starts here",
-        "summary": "A sharp analysis of the damage wrought by the reckless super-rich, and progressive toolkit for repairing itThe more power the radical rightwing nationalists of our age accrue, the greater the risk that their destructive brand of politics becomes normalised. We should not, for instance, regard it as normal that the man in charge of one of the world’s largest nuclear arsenals casually promises “a whole civili",
+        "summary": "A sharp analysis of the damage wrought by the reckless super-rich, and a progressive toolkit for repairing itThe more power the radical rightwing nationalists of our age accrue, the greater the risk that their destructive brand of politics becomes normalised. We should not, for instance, regard it as normal that the man in charge of one of the world’s largest nuclear arsenals casually promises “a whole civi",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/books/2026/sep/14/end-times-fascism-by-naomi-klein-and-astra-taylor-review-the-fightback-starts-here",
         "seendate": "2026-09-14T06:00:25.000Z",
@@ -152,194 +168,194 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/books/2026/sep/13/emily-st-john-mandel-when-half-the-electorate-disagrees-on-basic-reality-how-do-you-come-back-from-that",
         "seendate": "2026-09-13T11:00:03.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Tom Gauld on a new case for Hercule Poirot – cartoon",
-        "summary": "Continue reading...",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/picture/2026/sep/13/tom-gauld-on-a-new-case-for-hercule-poirot-cartoon",
-        "seendate": "2026-09-13T15:00:05.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "AI will transform capitalism – but how?",
-        "summary": "Technology is going to drastically reshape the economy, and it’s within our power to decide what that looks likeThe idea that autonomous, thinking machines may one day destroy property, hierarchy and inequality is as old as western political thought. In Aristotle’s Politics, the philosopher cites a fantasy from the Iliad, in which machines begin to act independently of human direction, concluding: “If every",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/sep/13/ai-will-transform-capitalism-but-how",
-        "seendate": "2026-09-13T11:00:02.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "entertainment": [
       {
-        "title": "Emmy awards 2026 live: the red carpet, the winners, the losers, the speeches",
-        "summary": "The Emmys are here – and tonight’s ceremony is likely to be dominated by The Pitt, Pluribus, Hacks and Widow’s Bay. Follow live updatesEmmys 2026: red carpet looks and outfits at TV’s biggest night – in pictures<a href=\"https://www.theg",
+        "title": "Ed Sheeran responds to backlash over removing Macklemore from tour after ‘Free Palestine’ comments",
+        "summary": "English singer outlines his position after US stadium owners refuse to let rapper perform after political speechMacklemore dropped from Ed Sheeran’s US tour after ‘free Palestine’ speechSinger Ed Sheeran has responde",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/tv-and-radio/live/2026/sep/15/emmys-2026-live-updates-awards-winners-losers-biggest-shows-red-carpet-speeches-latest",
-        "seendate": "2026-09-15T00:41:27.000Z",
+        "url": "https://www.theguardian.com/music/2026/sep/15/ed-sheeran-response-macklemore-free-palestine-comment",
+        "seendate": "2026-09-15T19:52:21.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Emmys 2026: red carpet looks and outfits at TV’s biggest night – in pictures",
-        "summary": "Zendaya, Nicole Kidman and Selena Gomez are among the stars at the 78th Primetime Emmys in Los Angeles, with actors from The Pitt, Pluribus, Hacks and Widow’s Bay walking the red (well, blue) carpetEmmys 2026: follow along live",
+        "title": "‘This should be condemned by any thinking human’: film industry rallies behind NAZA directors",
+        "summary": "Backing comes after Yuval Abraham and Rachel Szor were threatened with having their citizenship revoked and accused of treasonFilm industry heavyweights across the globe have expressed solidarity with Yuval Abraham and Rachel Szor, the Oscar-winning Israeli directors of documentary NAZA, who have been threatened with having their citizenship revoked by Israel’s culture minister, who accused them of “treason",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/tv-and-radio/gallery/2026/sep/15/emmys-2026-red-carpet-fashion-looks-outfits-awards-photos-gallery-pictures",
-        "seendate": "2026-09-15T00:37:19.000Z",
+        "url": "https://www.theguardian.com/film/2026/sep/15/naza-directors-yuval-abraham-rachel-szor-film-industry-support",
+        "seendate": "2026-09-15T16:44:12.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Macklemore dropped from Ed Sheeran’s US tour after ‘free Palestine’ speech",
-        "summary": "The American rapper will no longer support Sheeran’s US leg of Loop tour after comments at MetLife Stadium showMacklemore has been dropped from the remainder of the US leg of Ed Sheeran’s Loop tour, after the American rapper drew headlines for saying “free Palestine” on stage at MetLife Stad",
+        "title": "‘Every magazine cover needs to seduce’: designers pick their favourites",
+        "summary": "From a timeless portrait of Lana Del Rey to an alternative guide to the 2014 World Cup in Brazil, experts unpick what makes an enduring, shocking, or alluring print cover‘We need to rethink what a successful magazine looks like,” says Steve Watson, founder of the subscription magazine club Stack. “It doesn’t make sense to compare the magazines of today to those of the 1960s when many people still didn’t hav",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/music/2026/sep/14/macklemore-dropped-ed-sheeran-tour-free-palestine",
-        "seendate": "2026-09-14T15:39:57.000Z",
+        "url": "https://www.theguardian.com/artanddesign/2026/sep/15/every-magazine-cover-needs-to-seduce-designers-pick-their-favourites",
+        "seendate": "2026-09-15T16:18:43.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Ancestors review – messy but moving ghostly drama about the Aids crisis",
-        "summary": "Toronto film festival: Saipan standout Éanna Hardwicke is a soulful gay man looking for a missing friend in a striking yet muddled debutIt’s not normal to regularly contemplate mortality in your twenties, to ask questions about where we might go after we die and whether any part of our legacy will even matter in the years following. But for gay men in the 1980s, death was everywhere.",
+        "title": "New Order keyboardist Gillian Gilbert announces she is ‘living with cancer’",
+        "summary": "Musician clarified her own health status after concerns were raised by interview with husband and bandmate Stephen Morris earlier this monthGillian Gilbert, keyboardist with New Order, has announced she is again having treatment for cancer.The 65-year-old musician announced the news on Instagram, as a response to an interview her husband and New Order bandmate, drummer Stephen Morris, gave to Rolling",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/sep/14/ancestors-review-aids-crisis-toronto-film-festival",
-        "seendate": "2026-09-14T14:58:22.000Z",
+        "url": "https://www.theguardian.com/music/2026/sep/15/new-order-keyboardist-gillian-gilbert-announces-she-is-living-with-cancer",
+        "seendate": "2026-09-15T16:04:26.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘The eye-gouging was very, very satisfying’: how we made cave horror classic The Descent",
-        "summary": "‘The child crawler whose head I crush with my boot was only 11, bless him. It was actually me stamping on a cauliflower’I was introduced to Christian Colson at Celador Films off the back of [2002 horror film] Dog Soldiers, and I pitched them a project – actually a feature-length version of my student graduation film – about zombies on an oil rig. They liked it but said it was too expensive, so on the train",
+        "title": "Matthew Rhys’s alma mater pays tribute to ‘loyal pupil’ and Welsh language devotee",
+        "summary": "Actor, who made history at the Emmys, thanked the ‘great and the good people of Wales’ for nurturing his talentWhen Matthew Rhys made history as the first actor ever to win two best lead Emmy awards in one night, he paid tribute to his roots.“To the grea",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/culture/2026/sep/14/eye-how-we-made-cave-horror-classic-the-descent-child-crawler",
-        "seendate": "2026-09-14T14:23:56.000Z",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/sep/15/matthew-rhys-emmys-wales-welsh-language-school",
+        "seendate": "2026-09-15T15:53:59.000Z",
         "domain": "theguardian.com"
       }
     ],
     "f1": [
       {
-        "title": "Lando Norris completes first full test in McLaren’s Le Mans Hypercar",
-        "summary": "Reigning Formula 1 champion Lando Norris completed his first full-fledged test at the wheel of the McLaren MCL-HY Le Mans Hypercar at Portimao on Monday.Following last weekend’s Spanish Grand Prix at the new Madring circuit in which he was denied victory by an ill-timed Virtual Safety Car, Norris travelled across the border to Portugal for a one-day test.The Briton completed 38 laps of ...<a class='m",
+        "title": "Andrea Stella: McLaren must help Oscar Piastri stop \"thinking\" about how to drive '26 F1 car",
+        "summary": "McLaren team principal Andrea Stella believes Oscar Piastri's current deficit to Lando Norris is down to the Australian still \"thinking and driving\" with the 2026 Formula 1 machinery.Piastri's discomfort with the new breed of F1 cars has been evident throughout the season so far. It had become clear over the previous two years that his strengths lie in carrying speed through high-speed corners ...<a clas",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/wec/news/lando-norris-completes-first-full-test-in-mclarens-le-mans-hypercar/10855952/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-14T18:20:49.000Z",
+        "url": "https://www.motorsport.com/f1/news/stella-mclaren-must-help-piastri-stop-thinking-about-how-to-drive-26-f1-car/10856178/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-15T23:00:03.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Who is racing Max Verstappen in \"Max vs 100\"? Entry list revealed",
-        "summary": "The majority of the 100 karters preparing to challenge four-time Formula 1 champion Max Verstappen in the Max vs 100 event on Wednesday 16 September have been revealed.Streaming live on Disney+, the Max vs 100 event tasks the Dutchman with fighting his way through 100 opponents on a circuit purpose-built for the occasion at Silverstone. The objective for the opposition is to work together to ...<a class=",
+        "title": "Why Ferrari won't switch focus to 2027 F1 car yet",
+        "summary": "Ferrari team principal Fred Vasseur says the Scuderia will keep developing its SF-26 Formula 1 car, despite its diminishing title chances.After Lewis Hamilton retired from the Spanish Grand Prix with brake issues, the seven-time world champion is 101 points adrift of championship leader Kimi Antonelli in the drivers’ standings. Meanwhile, Charles Leclerc finished just fourth at Madring ...<a class='more'",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/who-is-racing-max-verstappen-in-max-vs-100-entry-list-revealed/10855944/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-14T17:31:04.000Z",
+        "url": "https://www.motorsport.com/f1/news/why-ferrari-wont-switch-focus-to-2027-f1-car-yet/10856168/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-15T15:49:53.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "F1 Azerbaijan GP is on a Saturday in 2026, here's why",
-        "summary": "The 2026 Formula 1 campaign is reaching its end with 14 of the currently scheduled 23 rounds now complete after last weekend’s Spanish Grand Prix.Kimi Antonelli took the chequered flag in Madrid on Sunday, which marked an end to the European leg of the calendar, with Azerbaijan up next before a series of Asian and American flyaway races.But the Baku contest is taking place on a Saturday ...<a class='",
+        "title": "Lando Norris lost Madring F1 win because of impossible overtaking – McLaren",
+        "summary": "McLaren Formula 1 team principal Andrea Stella says overtaking was too difficult at the Madring for Lando Norris to win the Spanish Grand Prix.Norris took pole position at Madrid’s new street circuit and pulled away by six seconds in the first 12 laps of the race, which proved to be his downfall as he was too far ahead to pit when the virtual safety car was called.Read ...<a class='more' href='https:",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/f1-azerbaijan-gp-is-on-a-saturday-in-2026-why/10855369/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-14T16:46:02.000Z",
+        "url": "https://www.motorsport.com/f1/news/lando-norris-lost-madring-f1-win-because-of-impossible-overtaking-mclaren/10856133/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-15T14:37:04.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Guenther Steiner criticises Lando Norris's Coca-Cola Spanish GP moment as 'unprofessional'",
-        "summary": "Former Haas Formula 1 team principal Guenther Steiner has criticised Lando Norris's Coca-Cola cooldown room moment following the Spanish Grand Prix in Madrid, claiming it was unprofessional of the McLaren driver.After finishing third at the Madring circuit, Norris was seen drinking a Coca-Cola in the cooldown room. With rival drinks company PepsiCo having a partnership with F1, an official ...<a class='m",
+        "title": "Five ways F1 can fix the Madring for next year's Spanish GP",
+        "summary": "F1's much-anticipated return to Madrid has left fans of the series wanting due to a lack of action, though the Madring venue itself put on a respectable event. Here are five ways organisers could improve the event for year two.By and large, Madrid's first F1 race in 45 years ran particularly smooth for a first-time event. The organisers planned to capitalise on the IFEMA fairgrounds' existing ...<a class",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/guenther-steiner-brands-lando-norriss-coca-cola-spanish-gp-moment-unprofessional/10855926/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-14T16:18:54.000Z",
+        "url": "https://www.motorsport.com/f1/news/five-ways-f1-can-fix-the-madring-for-next-years-spanish-gp/10856102/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-15T12:44:29.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Why F1 should avoid knee-jerk rule changes after Lando Norris' Madrid heartbreak",
-        "summary": "Lando Norris lost a Formula 1 race win through no fault of his own - or his team's - but simply because of the unfortunate timing of a virtual safety car, triggered on lap 14 of the Spanish Grand Prix after Lance Stroll's retirement. The McLaren driver missed the pitlane entry by mere seconds before the VSC was activated - and was probably the only man to really lose out because of it. His main ...<a class='",
+        "title": "Mercedes explains why George Russell pitted under VSC at Madring",
+        "summary": "Mercedes deputy team principal Bradley Lord has explained why George Russell pitted under the virtual safety car despite starting on hard tyres in Formula 1’s Spanish Grand Prix.Russell was the only driver from the top teams not to stick to a one-stop on a Madring track where overtaking was at a premium, which was largely down to the timing of the VSC intervention.Race control ...<a class='more' href",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/why-f1-should-avoid-knee-jerk-rule-changes-after-norris-madrid-heartbreak/10855905/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-14T16:02:16.000Z",
+        "url": "https://www.motorsport.com/f1/news/mercedes-explains-george-russells-two-stop-strategy-in-f1-spanish-gp/10856094/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-15T11:37:11.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "After nearly a year of silence following its last-minute delay, Kingmakers resurfaces with an extended gameplay video and new playtest",
-        "summary": "Still no new release date, though.",
+        "title": "As Skyblivion's launch approaches, the team is looking for help to get the word out",
+        "summary": "But will the long-awaited mega-mod make its 2026 release target?",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/action/after-nearly-a-year-of-silence-following-its-last-minute-delay-kingmakers-resurfaces-with-an-extended-gameplay-video-and-new-playtest/",
-        "seendate": "2026-09-14T20:48:15.000Z",
+        "url": "https://www.pcgamer.com/games/the-elder-scrolls/as-skyblivions-launch-approaches-the-team-is-looking-for-help-to-get-the-word-out/",
+        "seendate": "2026-09-15T21:47:31.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Wardogs players are actively avoiding one team in particular: 'They are literally the dumbest people on the planet'",
-        "summary": "Some are convinced one team is set up to fail.",
+        "title": "Wardogs CEO says he won't hire devs who aren't down with mandatory crunch: 'If you care about what you're making, this is the place to work'",
+        "summary": "A controversial stance, to say the least.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/fps/wardogs-players-are-actively-avoiding-one-team-in-particular-they-are-literally-the-dumbest-people-on-the-planet/",
-        "seendate": "2026-09-14T20:16:07.000Z",
+        "url": "https://www.pcgamer.com/games/fps/wardogs-ceo-says-he-wont-hire-devs-who-arent-down-with-mandatory-crunch-if-you-care-about-what-youre-making-this-is-the-place-to-work/",
+        "seendate": "2026-09-15T21:14:53.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "The Steam Frame launches during one of the slowest periods for VR on Steam, but Valve hopes to 'rekindle the excitement' for PCVR",
-        "summary": "\"We also want to grow a healthy ecosystem for both the gamers and the game developers.\"",
+        "title": "Steam reverses porn game rating it mistakenly gave to an indie vampire RPG, and despite the stress it was a 'net positive' overall as wishlists on Steam 'basically doubled overnight'",
+        "summary": "It's a happy ending, but Dave Gilbert of Wadjet Eyes Games says this was absolutely not a guerrilla marketing stunt: \"I’m not that dumb and I'm not that smart!\"",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/hardware/vr-hardware/the-steam-frame-launches-during-one-of-the-slowest-periods-for-vr-on-steam-but-valve-hopes-to-rekindle-the-excitement-for-pcvr/",
-        "seendate": "2026-09-14T19:00:00.000Z",
+        "url": "https://www.pcgamer.com/games/rpg/steam-reverses-porn-game-rating-it-mistakenly-gave-to-an-indie-vampire-rpg-and-despite-the-stress-it-was-a-net-positive-overall-as-wishlists-on-steam-basically-doubled-overnight/",
+        "seendate": "2026-09-15T20:03:51.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Bungie delays next Marathon update and ends 'strict seasonal schedule' as it goes all-in on Destiny-like features",
-        "summary": "Big changes are coming, but not until December.",
+        "title": "Wardogs delivers what Battlefield 6 was too console-brained to pull off: A real server browser",
+        "summary": "Millions of players, yet zero matchmaking.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/fps/bungie-delays-next-marathon-update-and-ends-strict-seasonal-schedule-as-it-goes-all-in-on-destiny-like-features/",
-        "seendate": "2026-09-14T18:19:59.000Z",
+        "url": "https://www.pcgamer.com/games/fps/wardogs-delivers-what-battlefield-6-was-too-console-brained-to-pull-off-a-real-server-browser/",
+        "seendate": "2026-09-15T19:49:32.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Valve had next-gen VR 'headsets ready three, four years ago and they were big, bulky devices' but went back to the drawing board after actually putting them on",
-        "summary": "The versatile Steam Frame's focus is \"on being lightweight and being comfortable\".",
+        "title": "Diablo 4 player discovers secret Diablo 2 easter egg in its new throwback season and now everyone is wondering what else Blizzard hid in there",
+        "summary": "It's more than old bosses coming back for the Season of Hell's Legacy.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/hardware/vr-hardware/valve-had-next-gen-vr-headsets-ready-three-four-years-ago-and-they-were-big-bulky-devices-but-went-back-to-the-drawing-board-after-actually-putting-them-on/",
-        "seendate": "2026-09-14T18:00:00.000Z",
+        "url": "https://www.pcgamer.com/games/rpg/diablo-4-player-discovers-secret-diablo-2-easter-egg-in-its-new-throwback-season-and-now-everyone-is-wondering-what-else-blizzard-hid-in-there/",
+        "seendate": "2026-09-15T18:55:37.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
       {
-        "title": "AI-linked stocks slide after tech bosses call for slowdown in ‘reckless’ development",
-        "summary": "Donald Trump dismisses attempts to increase controls on artificial intelligence as ‘sick conspiracy’ AI-linked stocks tumbled on Monday after the bosses of Anthropic, OpenAI and SpaceX called for a sl",
+        "title": "Trump facing AI backlash in Congress as push for guardrails intensifies",
+        "summary": "President has dismissed anxieties over AI’s dangerous potential even as Democrats and some Republicans acknowledge risksAnalysis: Why a decade of doomsday warnings failed to slow AI raceDonald Trump is facing a rare backlash from the US",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/sep/14/ai-linked-stocks-fall-tech-bosses-call-slowdown-anthropic-openai",
-        "seendate": "2026-09-14T22:10:52.000Z",
+        "url": "https://www.theguardian.com/technology/2026/sep/15/trump-ai-guardrails-democrats-republicans",
+        "seendate": "2026-09-15T06:39:40.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "I worked at Google DeepMind. You should listen to the warnings about AI | Alex Turner",
-        "summary": "We must stop companies from allowing AI to self-improve into an uncontrollable level of intelligence Major AI lab CEOs advocated for slowing the pace of AI development this weekend. They are right to be concerned: the field runs an extremely dangerous race towards superintelligent AI. We can and should be demanding that our governments protect us from the catastrophe of out-of-control AI.This July, O",
+        "title": "‘I created my mom and talk to her’: AI ghosts and deathslop are changing the way we mourn",
+        "summary": "The rise of AI-generated tributes and bots for ‘talking’ to the dead has experts concerned more people will grieve in isolationTributes rolled in after the death of Dolly Parton last month. Jack White performed Jolene at a London gig. Kesha <a href=\"https://x.com/daisyisOG/status/2092453079",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/sep/14/google-deepmind-ai-warnings",
-        "seendate": "2026-09-14T12:00:59.000Z",
+        "url": "https://www.theguardian.com/technology/2026/sep/15/ai-grief-bot-death-isolation",
+        "seendate": "2026-09-15T12:30:43.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Pixel 11 Pro Fold review: the foldable with the best triple camera",
-        "summary": "Big screen folder with slick software and advanced AI is just like a regular Android when closedGoogle’s latest folding phone sticks with its tried and tested design of a traditional phone shape when closed and almost square when open, in the face of new competition from Apple’s squat iPhone fold.The Pixel 11 Pr",
+        "title": "Why a decade of doomsday warnings failed to slow the AI race",
+        "summary": "From Stephen Hawking to Jacob Coxon’s viral Anthropic resignation, fears that AI could threaten humanity have shaken the industry without stopping its pursuit Before an Anthropic researcher resigned and declared human extinction imminent last week, tech leaders and scientists had sounded the alarm about a superintelligent AI ending humanity for over a decade.The development of artificial intelligence",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/sep/14/pixel-11-pro-fold-review-the-foldable-with-the-best-triple-camera",
-        "seendate": "2026-09-14T06:00:24.000Z",
+        "url": "https://www.theguardian.com/technology/2026/sep/15/ai-doomsday-warnings",
+        "seendate": "2026-09-15T08:00:30.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Democracy v the machine: the birth of the digital age and the warnings that were ignored – podcast",
-        "summary": "Many hoped that the march of technology would usher in an egalitarian utopia – but some foresaw the threat it would pose to liberal society. Why did nobody listen?By Jill Lepore. Read by Laurel LefkowRead the text version here<strong",
+        "title": "Digital ID comes of age as pubs and bars get go-ahead for biometric scan tech",
+        "summary": "New laws coming into force this week aim to streamline age checks although old-style plastic IDs will still be allowedYounger drinkers in England and Wales will be able to prove their age with a digital ID starting this week as new laws give pubs, off-licences, nightclubs and restaurants the right to use biometric scanning technology to check customers are over 18.Customers will be able to download s",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/news/audio/2026/sep/14/democracy-v-machine-birth-digital-age-warnings-ignored-podcast",
-        "seendate": "2026-09-14T04:00:22.000Z",
+        "url": "https://www.theguardian.com/business/2026/sep/15/pubs-and-bars-get-go-ahead-digital-id-biometric-scan-tech",
+        "seendate": "2026-09-15T04:00:26.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "I turned off my algorithm for 24 hours. Is this how social media used to be?",
-        "summary": "Thanks to a little-known feature in Instagram, I try to travel back to 2012 – before everything on the internet was an adFollow our Australia news live blog for latest updatesGet our <a href=\"http",
+        "title": "AI safety requires more than just slowing our pace | Stuart Russell",
+        "summary": "Safety requirements are non-negotiable. They depend on meeting concrete goals, not just adjusting a timelineIt has been a week of high drama in AI, precipitated by the resignation of the AI safety researcher Jacob Coxon from Anthropic. This followed several weeks of increasingly lurid and disturbing revelations about the OpenAI/Hugging Face incident.My inbox yesterday included a message from Business",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/media/2026/sep/11/i-turned-off-my-instagram-algorithm-opt-out-social-media-reforms-australia",
-        "seendate": "2026-09-10T15:00:43.000Z",
+        "url": "https://www.theguardian.com/commentisfree/2026/sep/15/ai-safety-requirements",
+        "seendate": "2026-09-15T08:00:31.000Z",
         "domain": "theguardian.com"
       }
     ],
     "climate": [
+      {
+        "title": "3M, DuPont and more to face lawsuit on Pfas in US firefighters’ protective gear",
+        "summary": "Connecticut plaintiffs say ‘forever chemicals’ in turnout gear increase risk of cancer by absorption and inhalationA federal judge on Tuesday said more than 20 defendants including 3M, DuPont and Honeywell must ⁠face claims by <",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/sep/15/connecticut-firefighters-pfas-lawsuit",
+        "seendate": "2026-09-15T21:06:55.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "World’s top 20 private equity firms produce more greenhouse gases a year than most countries, report finds",
+        "summary": "Firms manage $7.3tn in assets and could afford to transition away from fossil fuels yet invest in natural gas and coal-fired plants to power datacentersThe energy portfolios of 20 private equity firms produce 1.5bn tons of greenhouse gases a year, more than the annual emissions of any country except China, the US, India and Russia, according to a new report.Together, these firms manage $7.3tn in asse",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/sep/15/private-equity-firms-energy-assets-greenhouse-gas",
+        "seendate": "2026-09-15T12:42:59.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Texas governor threatens to penalize datacenters not obeying water laws",
         "summary": "Republican Greg Abbott says datacenters must help ‘protect’ drought-prone state and disclose water useGreg Abbott, the Texas governor, has directed state regulators to penalize datacenters that fail to comply with state laws",
@@ -363,25 +379,33 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/us-news/2026/sep/14/northern-california-lucas-fire-containment",
         "seendate": "2026-09-14T19:53:57.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Maryland boy recovering from surgeries after rabid beaver attack at state park",
-        "summary": "Teen was swimming at a popular spot at the time of the attack, the latest in a string that have occurred in the stateA 13-year-old Maryland boy is reported to be recovering from multiple surgeries and nerve damage after being attacked by a rabid beaver.The teen, Dominick Cebula, was swimming at a popular spot in Cunningham Falls state park in",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/sep/14/maryland-rabid-beaver-attack",
-        "seendate": "2026-09-14T17:38:59.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Scientists find nine new sponge species in glimpse of Alaska’s deep-sea diversity",
-        "summary": "But their habitat is threatened by bottom trawling in the region and Trump’s plan to expand seafloor miningScientists have discovered nine new deep-sea sponge species off Alaska, offering new insights into the region’s largely unexplored marine biodiversity.The National Oceanic and Atmospheric Administration (Noaa) <a href=\"https://www.fisheries.noaa.gov/feature-story/nine-species-deep-sea-sponges-di",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/sep/14/deep-sea-sponges-discovery-mining-fishing",
-        "seendate": "2026-09-14T11:30:56.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "science": [
+      {
+        "title": "US confirms for first time it has deployed weapons in space",
+        "summary": "Analysts warn of an acceleration in high-risk arms race with Russia and China in Earth’s orbitThe US has deployed weapons in space, the US military has confirmed, in an extraordinary public announcement that analysts warn will accelerate a high-risk arms race with Russia and China in Earth’s orbit.The US secretary of the air force, Troy Meink, said Washington had active “on-orbit” weapons, meaning th",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/sep/15/us-confirms-first-time-it-has-deployed-weapons-space",
+        "seendate": "2026-09-15T12:55:31.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "No, collagen won’t make your wrinkles disappear - video",
+        "summary": "Collagen powders, gummies and pills have boomed in popularity in recent years boosted by claims that they smooth wrinkles, promote glossy hair and help with joint pain. Amid the noise it can be hard to figure out whether there’s any actual science behind the promise of looking younger for longer. Luckily Dr Xand van Tulleken has spent the past three years writing Make me well: a quest to understand the confusi",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/video/2026/sep/15/is-collagen-a-lie-video",
+        "seendate": "2026-09-15T11:32:49.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "They’re the sopranos of the forest, so what’s silencing the gibbons’ morning chorus?",
+        "summary": "As human development and roads increasingly fragment their habitats, a study suggests traffic noise could be altering the animals’ wake-up callDawn has broken, and the air is cool and still. It’s at about this time that gibbons usually erupt into song, wa-oo-ing and wa-ing from the highest branches and filling the tree tops with rich melodies. But in this corner of Malaysian forest, bordered b",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/environment/2026/sep/15/singing-gibbons-forest-sopranos-malaysia-aoe",
+        "seendate": "2026-09-15T05:00:26.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Scientists find nine new sponge species in glimpse of Alaska’s deep-sea diversity",
         "summary": "But their habitat is threatened by bottom trawling in the region and Trump’s plan to expand seafloor miningScientists have discovered nine new deep-sea sponge species off Alaska, offering new insights into the region’s largely unexplored marine biodiversity.The National Oceanic and Atmospheric Administration (Noaa) <a href=\"https://www.fisheries.noaa.gov/feature-story/nine-species-deep-sea-sponges-di",
@@ -396,30 +420,6 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/science/2026/sep/12/openai-mathematicians-millennium-prize-problem",
         "seendate": "2026-09-12T08:00:28.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Starwatch: A Venus-spotting challenge with a beautiful reward",
-        "summary": "The bright planet and the young crescent moon will make an attractive pairing on Monday eveningThis week’s Starwatch is a challenge but a beautiful reward awaits for anyone who succeeds. The question is: how early in the evening can we find Venus?On Monday, the bright planet has a close encounter with a young crescent moon. The moon will be just over three days old with about 14% of its visible surfa",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/sep/14/starwatch-venus-spotting-challenge",
-        "seendate": "2026-09-14T05:00:23.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Fossilized 10,000-year-old mastodon tooth found by California scientist",
-        "summary": "Molar from large mammal that once lived in North America is in ‘immaculate condition’ after discovery in Bay AreaA 10,000 year-old tooth in remarkable condition from an ancient Pacific mastodon, a large mammal that once inhabited North America, was recently discovered by a California scientist.Brigid Lynch, a geomorphologist, was working at",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/sep/12/fossilized-mastodon-tooth-10000-years-found-california",
-        "seendate": "2026-09-12T20:34:58.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Live episode: how AI is reshaping our minds – podcast",
-        "summary": "In this episode of Science Weekly, recorded in front of an audience at the London podcast festival on 3 September, Ian Sample hears from Michael Safi, the host of the Guardian’s chart-topping podcast about artificial intelligence, Black Box. In series two, Black Box: the chatbots, Michael meets people who have become convinced they have made scientific breakthroughs, cured diseases or invented new technologies usi",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/audio/2026/sep/13/live-episode-how-ai-is-reshaping-our-minds-podcast",
-        "seendate": "2026-09-13T04:00:53.000Z",
         "domain": "theguardian.com"
       }
     ]
