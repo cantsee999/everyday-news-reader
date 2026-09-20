@@ -1,5 +1,5 @@
 window.NEWS_CACHE = {
-  "generatedAt": "2026-09-19T00:44:41.268Z",
+  "generatedAt": "2026-09-20T00:28:53.026Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
@@ -88,6 +88,14 @@ window.NEWS_CACHE = {
     ],
     "economy": [
       {
+        "title": "Kevin Warsh may be the adult in the room. But can he calm the US economy?",
+        "summary": "Fed chair presided over unanimous decision to raise interest rates despite intense campaign from White HouseIn the end, Kevin Warsh’s Federal Reserve acquitted itself well. For all the uncertainty he had sparked at the previous meeting of the Federal Open Market Committee, when he refused to provide any indication of what he was prepared to do to tame stubborn inflation, the chair on Wednesday presided over",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/business/2026/sep/19/kevin-warsh-interest-rate-hike",
+        "seendate": "2026-09-19T11:00:45.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Warren Buffett steps down as chair of Berkshire Hathaway after over 50 years",
         "summary": "‘Father Time always wins,’ Buffett, 96, says as his son, Howard, steps in as the $1tn conglomerate’s new chairWarren Buffett is stepping down as chair of Berkshire Hathaway, the company that he took from a faltering textile manufacturer into a $1tn conglomerate over the course of 60 years.Buffett’s son, Howard, 71, will take over as chair. Buffett, 96, cited his age as the main reason behind the tran",
         "source": "theguardian.com",
@@ -118,17 +126,17 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/us-news/2026/sep/17/trump-marco-rubio-cuba",
         "seendate": "2026-09-17T11:00:48.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Trump threatens to stop trading with EU over ‘laughable’ membership offer to Canada",
-        "summary": "US president responds as Mark Carney seeks to move closer to Europe and diversify defence tiesEurope live – latest updatesDonald Trump has threatened the EU with “serious tariffs” and a halt to trade",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/sep/17/trump-calls-eu-offer-to-canada-associate-membership-laughable-threatens-tariffs",
-        "seendate": "2026-09-17T08:25:32.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "literature": [
+      {
+        "title": "Jonathan Franzen: ‘It’s still mysterious to me that I was angry for so long’",
+        "summary": "The author of The Corrections talks about a new TV adaptation, the future of reading and why creating new work is ‘horrible’When HBO dropped its plan&nbsp;to adapt Jonathan Franzen’s bestselling novel The Corrections in 2012, the author was so relieved he says he performed his first and last cartwheel on the lawn of his home in Santa Cruz, California. There had been an attempted film adaptation before that,",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/sep/19/jonathan-franzen-its-still-mysterious-to-me-that-i-was-angry-for-so-long",
+        "seendate": "2026-09-19T08:00:41.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "The best books to read in September: new paperbacks from Margaret Atwood, Kiran Desai and Richard Holmes",
         "summary": "Looking for a new reading recommendation? Here are some great new paperbacks, from an epic multigenerational saga by a Booker winner to a biography of an iconic Victorian poet*** Continue reading...",
@@ -159,14 +167,6 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/film/2026/sep/18/the-damage-was-much-worse-than-i-had-imagined-the-shocking-inside-story-of-salman-rushdies-survival",
         "seendate": "2026-09-18T04:00:07.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Children’s and teens roundup – the best new picture books and novels",
-        "summary": "A tiger’s tale; the young Henry VIII; a fantasy follow‑up from Katherine Rundell; small-town secrets; ghosts galore and moreOnce Upon a Tiger by Sarah Massini, S&amp;S, £14.99Tiger is irate to find three cheeky human cubs",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/sep/18/childrens-and-teens-roundup-the-best-new-picture-books-and-novels",
-        "seendate": "2026-09-18T11:00:18.000Z",
         "domain": "theguardian.com"
       }
     ],
@@ -214,96 +214,112 @@ window.NEWS_CACHE = {
     ],
     "f1": [
       {
-        "title": "Williams shares behind-the-scenes look at Alex Albon’s life away from F1",
-        "summary": "The Williams Formula 1 team has released a behind-the-scenes look at the off-track life of Alex Albon.Filmed on a Tuesday following a race weekend alongside his fiancée, professional golfer Lily Muni He, Albon offered a look at the reality of living in Monaco and what he gets up to on a day off.With the majority of drivers living in the principality, Albon shared that it is difficult to ...<a class='",
+        "title": "George Russell praised for honest admission about Kimi Antonelli's F1 form",
+        "summary": "Former Formula 1 driver David Coulthard has praised George Russell for admitting that his Mercedes team-mate and current championship leader Kimi Antonelli is doing a better job.Antonelli secured his eighth victory of the season at the inaugural Spanish Grand Prix at the new Madring circuit, extending his lead in the standings to 81 points over Russell, who sits second. Russell, meanwhile ...<a class='mo",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/williams-shares-behind-the-scenes-look-at-alex-albons-life-away-from-f1/10856966/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-18T17:38:49.000Z",
+        "url": "https://www.motorsport.com/f1/news/george-russell-praised-for-honest-admission-about-kimi-antonellis-f1-form/10857086/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-19T17:00:02.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "David Coulthard explains why Robin Raikkonen's rise resembles Max Verstappen's",
-        "summary": "Former Formula 1 driver David Coulthard believes Kimi Raikkonen is mirroring Jos Verstappen's approach to developing Max with his own son, Robin, following the 11-year-old's signing with the Red Bull Junior Team.Red Bull announced earlier this month that it had signed Raikkonen to its driver development programme, starting work with the team from 2027. F1 drivers who have graduated from the ...<a class='",
+        "title": "Arvid Lindblad nearly flips world's shortest Fiat Panda in bizarre YouTube challenge",
+        "summary": "Racing Bulls Formula 1 rookie Arvid Lindblad has used some of his time off to test the world's shortest Fiat Panda in a recent YouTube video.The 19-year-old driver featured in a video by Italian car modification channel Carmagheddon, getting behind the wheel of a heavily modified Fiat Panda.During the video, Lindblad almost rolled the Guinness World Record-holding vehicle, but managed to ...<a class=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/david-coulthard-explains-why-robin-raikkonens-rise-resembles-max-verstappens/10856933/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-18T16:02:45.000Z",
+        "url": "https://www.motorsport.com/f1/news/arvid-lindblad-nearly-flips-worlds-shortest-fiat-panda-in-bizarre-youtube-challenge/10857231/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-19T15:43:52.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Guenther Steiner fires back at Mohammed Ben Sulayem over Fernando Alonso remarks",
-        "summary": "Former Haas Formula 1 team principal Guenther Steiner has heavily criticised suggestions from FIA president Mohammed Ben Sulayem that the governing body could help Aston Martin to retain Fernando Alonso in the championship.Amid a torrid 2026 campaign so far for the Silverstone outfit, Ben Sulayem stated ahead of the Spanish Grand Prix that it was \"not acceptable\" for the two-time champion to ...<a class=",
+        "title": "James Vowles faces \"tough moment\" as Nico Rosberg calls Williams woes \"a shocker\"",
+        "summary": "2016 Formula 1 champion Nico Rosberg has branded Williams's 2026 performance a \"shocker\" and argued that team principal James Vowles faces a major challenge to bring the Grove outfit back to where it needs to be.Williams entered the 2026 season already on the back foot, having missed the private testing in Barcelona in January and arrived at pre-season testing in Bahrain with an overweight ...<a class='m",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/guenther-steiner-fires-back-at-mohammed-ben-sulayem-over-fernando-alonso-remarks/10856898/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-18T15:12:08.000Z",
+        "url": "https://www.motorsport.com/f1/news/james-vowles-faces-tough-moment-as-nico-rosberg-calls-williams-woes-a-shocker/10857199/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-19T15:13:39.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Max Verstappen jokes about Kimi Antonelli’s F1 lead: “I’m definitely not having a comeback!”",
-        "summary": "With eight or nine race weekends remaining – depending on what happens with the grands prix in the Middle East at the end of the year – Kimi Antonelli is in pole position to claim his maiden Formula 1 world title, which would also see him replace Sebastian Vettel as the youngest world champion ever.Following Antonelli’s victory in Madrid, team-mate George Russell can no longer become ...<a class='more' h",
+        "title": "Ferrari reveals special black race suit for Charles Leclerc at F1 Singapore GP",
+        "summary": "Ferrari has unveiled a special-edition black race suit for Charles Leclerc, which the Monegasque driver will wear at next month's Singapore Grand Prix. Moving away from the traditional Ferrari red with white accents, Leclerc's bespoke race suit is almost entirely black. In addition to the race suit that \"embodies a night under the Singapore lights\", the Maranello outfit has revealed a ...<a class='more'",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/max-verstappen-jokes-about-kimi-antonellis-f1-lead-im-definitely-not-having-a-comeback/10856838/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-18T13:31:56.000Z",
+        "url": "https://www.motorsport.com/f1/news/ferrari-reveals-special-black-race-suit-for-charles-leclerc-at-f1-singapore-gp/10857172/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-19T14:07:24.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Williams upgrades \"won't be enough\" to fix 2026 F1 struggles, says James Vowles",
-        "summary": "Williams Formula 1 team principal James Vowles has admitted that the team's remaining 2026 upgrades will not be enough to consistently fight for points.The Grove outfit has struggled since the beginning of the 2026 season. It arrived at pre-season testing in Bahrain with an overweight car, and it has only picked up 11 points in 14 rounds.Speaking on The Fast And The Curious podcast, Vowles ...<a clas",
+        "title": "Otmar Szafnauer praises Toto Wolff after Kimi Antonelli gamble pays off",
+        "summary": "Former Alpine team principal Otmar Szafnauer says Mercedes boss Toto Wolff deserves credit for taking a gamble on Kimi Antonelli.After seven-time champion Lewis Hamilton decided to part ways with Mercedes to join Ferrari in 2025, the Brackley outfit was faced with deciding between signing another experienced driver and putting its support behind an up-and-comer.When Wolff opted to ...<a class='more'",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/williams-upgrades-wont-be-enough-to-fix-2026-f1-struggles-says-james-vowles/10856821/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-18T12:00:02.000Z",
+        "url": "https://www.motorsport.com/f1/news/otmar-szafnauer-praises-toto-wolff-after-kimi-antonelli-gamble-pays-off/10857159/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-19T13:39:05.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "The Last of Us game director apologizes for God of War Laufey criticism, points finger at industry leaders for triple-A stagnation",
-        "summary": "\"I want to apologize to the Laufey team for dragging you all into this uninvited & unnecessary negative attention,\" he said.",
+        "title": "Evidence of canceled Grand Theft Auto 5 Liberty City and 'Agent Trevor' DLC, plus early version of GTA6's map surface online",
+        "summary": "Their exact provenance is unclear, but they seem to have come from the big 2023 hack.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/the-last-of-us-game-director-apologizes-for-god-of-war-laufey-criticism-points-finger-at-industry-leaders-for-triple-a-stagnation/",
-        "seendate": "2026-09-18T22:18:52.000Z",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/evidence-of-canceled-grand-theft-auto-5-liberty-city-and-agent-trevor-dlc-plus-early-version-of-gta6s-map-surface-online/",
+        "seendate": "2026-09-19T19:47:25.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Final Fantasy 7 Revelation is apparently a super heavyweight 200GB installation: 'We need to overcome the hardware to a certain extent'",
-        "summary": "Better start cleaning up your hard drive.",
+        "title": "An ambitious fanmade expansion for Baldur's Gate 3 is out after almost two years in development",
+        "summary": "Enter The Chionthar Wilds with over 70 new items and 30 new fights.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/final-fantasy/final-fantasy-7-revelation-is-apparently-a-super-heavyweight-200gb-installation-we-need-to-overcome-the-hardware-to-a-certain-extent/",
-        "seendate": "2026-09-18T21:55:19.000Z",
+        "url": "https://www.pcgamer.com/games/baldurs-gate/an-ambitious-fanmade-expansion-for-baldurs-gate-3-is-out-after-almost-two-years-in-development/",
+        "seendate": "2026-09-19T18:14:04.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Industry vets behind Dishonored, Ultima Online, Her Story and more agree the games industry crisis goes beyond games: 'Ultimately, to fix what’s broken in the videogame industry, we might have to fix reality'",
-        "summary": "A new Edge report features multiple industry veterans sharing their thoughts on the state of the game industry, and what can be done about it.",
+        "title": "Japanese devs aren't facing the same layoff crisis because their executives are paid an order of magnitude less, 'they didn’t get swept up in the live-service trend,' and their teams are smaller, says industry expert",
+        "summary": "It's hard to argue against those takeaways.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/industry-vets-behind-dishonored-ultima-online-her-story-and-more-agree-the-games-industry-crisis-goes-beyond-games-ultimately-to-fix-whats-broken-in-the-videogame-industry-we-might-have-to-fix-reality/",
-        "seendate": "2026-09-18T21:35:14.000Z",
+        "url": "https://www.pcgamer.com/gaming-industry/japanese-devs-arent-facing-the-same-layoff-crisis-because-their-executives-are-paid-an-order-of-magnitude-less-they-didnt-get-swept-up-in-the-live-service-trend-and-their-teams-are-smaller-says-industry-expert/",
+        "seendate": "2026-09-19T18:13:42.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Reacher star Alan Ritchson is in talks to replace Jason Momoa on the Helldivers movie",
-        "summary": "There's a new John Helldiver in town (maybe).",
+        "title": "'The largest theft of labor in human history:' Court docs reveal Microsoft exec predicted AI 'doom loops' could hollow out the internet",
+        "summary": "Copilot's answer engine allegedly caused the New York Times' click-through rate to plummet by figures up to 93%.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/movies-tv/reacher-star-alan-ritchson-is-in-talks-to-replace-jason-momoa-on-the-helldivers-movie/",
-        "seendate": "2026-09-18T19:44:36.000Z",
+        "url": "https://www.pcgamer.com/software/ai/the-largest-theft-of-labor-in-human-history-court-docs-reveal-microsoft-exec-predicted-ai-doom-loops-could-hollow-out-the-internet/",
+        "seendate": "2026-09-19T15:59:49.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "I have modded the most exciting thing possible into GTA 5: Hard and soft credit checks and realistic personal finance",
-        "summary": "Money talk, wealth shoots.",
+        "title": "It rules that a 27-year-old RPG, one of the greatest of all time, is still getting patches",
+        "summary": "I wish all games worked like this.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-modded-the-most-exciting-thing-possible-into-gta-5-hard-and-soft-credit-checks-and-realistic-personal-finance/",
-        "seendate": "2026-09-18T17:00:00.000Z",
+        "url": "https://www.pcgamer.com/games/rpg/it-rules-that-a-27-year-old-rpg-one-of-the-greatest-of-all-time-is-still-getting-patches/",
+        "seendate": "2026-09-19T14:00:00.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
       {
-        "title": "‘A critical moment’: concern UK is not up to speed in acting on AI risks",
-        "summary": "Andy Burnham’s focus on immediate domestic problems leads some to fear issue has dropped off government’s radar Towards the end of Keir Starmer’s time in office, his senior ministers, alarmed by the latest developments in artificial intelligence, began drawing up plans for a new AI safety law.They ordered a review of existing legislation to see what powers they already had, according to those briefed",
+        "title": "China bogeyman looms large over American firms’ AI doomsday scenario",
+        "summary": "Silicon Valley China hawks, Anthropic CEO Dario Amodei among them, fear the country surpassing US’s AI lead as much as superintelligence destroying humanityWhen reporters asked Donald Trump this week if he supported calls to slow down the development of artificial intelligence out of growing fears for cybersecurity, public safety and the fate of humanity, he said no. His argument: China.</p",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/sep/18/a-critical-moment-concern-uk-is-not-up-to-speed-in-acting-on-ai-risks",
-        "seendate": "2026-09-18T14:57:11.000Z",
+        "url": "https://www.theguardian.com/technology/ng-interactive/2026/sep/19/china-ai-foreign-policy-dario-amodei",
+        "seendate": "2026-09-19T10:00:45.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Sensitive UK police data vulnerable to ‘compromise’ by US government and foreign actors",
+        "summary": "Exclusive: Official UK security assessment found Microsoft cloud platform storing files was at potential risk from hostile hackersVast troves of highly sensitive police data are lying on Microsoft cloud platforms which an oﬃcial UK security assessment deemed to be vulnerable to “compromise” by foreign actors and the US government, a Guardian investigation can reveal.The files include criminal records",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/uk-news/2026/sep/18/sensitive-uk-police-data-vulnerable-to-compromise-by-us-government-and-foreign-actors",
+        "seendate": "2026-09-18T17:00:23.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Why Europe has been absent from the great AI safety debate",
+        "summary": "Though Europe has measures that address how consumers might encounter AI, technology will impact them if the worst scenarios bearEurope’s dilemma over AI was rendered in stark terms this week. The head of the continent’s central bank, Christine Lagarde, said Europeans have two options: shun the technology and lose out on growth; or embrace it and become dependent on tools developed by the US and China.<",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/sep/18/europe-ai-safety-debate",
+        "seendate": "2026-09-18T18:37:36.000Z",
         "domain": "theguardian.com"
       },
       {
@@ -321,28 +337,12 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/technology/2026/sep/17/meta-ordered-remove-deepfakes-oversight-board-inadequate-safeguards",
         "seendate": "2026-09-17T14:43:34.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Former Labour deputy leader Tom Watson joins Palantir",
-        "summary": "Peer takes full-time position at the controversial company as it fends off pressure from both Andy Burnham’s government and Sadiq KhanAnother former government minister has been hired by a controversial US AI company, this time Palantir, which has appointed Andy Burnham’s former ministerial colleague Tom Watson.The Labour peer and former deputy leader will operate alongside Palantir’s UK and Europe c",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/politics/2026/sep/18/former-labour-deputy-leader-tom-watson-joins-palantir",
-        "seendate": "2026-09-18T06:00:11.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "OpenAI reveals cases of ‘concerning’ AI behaviour as it announces new disclosure system",
-        "summary": "Model adopting ‘jailbreak-like instructions’ among six more cases as firm reveals framework for tracking AI misalignmentOpenAI has disclosed six more examples of “unexpected or concerning” behaviour by its technology, as it warned that the pace of development could not continue at “maximum speed for much longer” responsibly.In one of the new cases reported by OpenAI, an unreleased research model inse",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/sep/17/openai-reports-concerning-ai-behaviour-jailbreak-talking-to-other-agents",
-        "seendate": "2026-09-17T13:33:57.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "climate": [
       {
         "title": "Trump administration pushes on with construction of controversial Big Bend border wall",
-        "summary": "Customs and Border Protection faces bipartisan backlash from locals for 30ft border wall through Texas national parkThe Trump administration is pressing forward with construction on the <a href=\"https://www.theguardian.com/us-news/2026/j",
+        "summary": "Customs and Border Protection faces bipartisan backlash from locals for 30ft border wall through west TexasThe Trump administration is pressing forward with construction on the <a href=\"https://www.theguardian.com/us-news/2026/jun/13/tex",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/us-news/2026/sep/18/trump-administration-big-bend-border-wall-texas-construction",
         "seendate": "2026-09-18T23:07:25.000Z",
@@ -383,6 +383,14 @@ window.NEWS_CACHE = {
     ],
     "science": [
       {
+        "title": "The US air force admitted to deploying weapons in space. Don’t expect the White House to explain why",
+        "summary": "The revelation ‘left experts scratching their heads at exactly what Donald Trump has in his cosmic arsenal’In Hollywood at least, space weapons are a relatively simple concept. The good guys, from Captain Kirk and his crew in Star Trek, to Luke Skywalker’s rebel alliance in Star Wars, battle intergalactic villains with an array of colorful lasers a",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/sep/19/space-weapons-white-house-nasa",
+        "seendate": "2026-09-19T11:00:45.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "‘A map is never neutral’: meet the cartographers who took on centuries of western bias",
         "summary": "Equal Earth projection, adopted by the UN last week, provides an alternative to 16th-century Mercator displayThree cartographers have spoken of their astonishment at the UN’s near-universal adoption of a map they created to more accurately show the sizes of Africa and Europe, even though they have recei",
         "source": "theguardian.com",
@@ -412,14 +420,6 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/science/2026/sep/17/black-hole-burps-scientists-solve-mystery-astronomy",
         "seendate": "2026-09-17T09:00:44.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Climate crisis probably weakened glacier that caused devastating Nepal-Tibet floods, first study finds",
-        "summary": "Scientists say global heating was a destabilising factor in collapse of 200,000 sq metre glacier in AugustClimate breakdown probably weakened the glacier that collapsed causing catastrophic floods and killing over a thousand people in Nepal and Tibet last month, the first scientific study of the disaster has found.Researchers identified unusually warm conditions before <a href=\"https://www.theguardia",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/sep/17/climate-crisis-likely-behind-deadly-nepal-tibet-floods",
-        "seendate": "2026-09-16T23:01:32.000Z",
         "domain": "theguardian.com"
       }
     ]
