@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T00:28:53.026Z",
+  "generatedAt": "2026-09-21T00:36:56.815Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
@@ -88,6 +88,14 @@
     ],
     "economy": [
       {
+        "title": "‘Do you have to be dead?’: US coalminers plead for benefits as black-lung disease cases surge",
+        "summary": "Trump says he digs coal – but pneumoconiosis cases are at a 50-year high, and sick miners are mired in benefit delaysFor 38 years, Josh Armes worked as a coal miner in West Virginia and Virginia.After retirement, Armes, 74, of Grundy, Virginia, was diagnosed with black lung disease, medically known as coal workers’",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/sep/20/us-coalminers-black-lung-disease",
+        "seendate": "2026-09-20T11:00:16.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Kevin Warsh may be the adult in the room. But can he calm the US economy?",
         "summary": "Fed chair presided over unanimous decision to raise interest rates despite intense campaign from White HouseIn the end, Kevin Warsh’s Federal Reserve acquitted itself well. For all the uncertainty he had sparked at the previous meeting of the Federal Open Market Committee, when he refused to provide any indication of what he was prepared to do to tame stubborn inflation, the chair on Wednesday presided over",
         "source": "theguardian.com",
@@ -118,17 +126,25 @@
         "url": "https://www.theguardian.com/us-news/2026/sep/18/autozone-new-york-union",
         "seendate": "2026-09-18T11:00:17.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Trump and Rubio allies are vying for control of Cuba’s assets if regime falls",
-        "summary": "Washington and Florida insiders are exploring lucrative deals for a post-communist Cuba crushed by ever-increasing US sanctionsSpanish hotel chains. A Canadian mining <a href=\"https://www.bloomberg.com/news/newsletters/2026-05-15/sherritt-international-ending-operations-in-cuba-after",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/sep/17/trump-marco-rubio-cuba",
-        "seendate": "2026-09-17T11:00:48.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "literature": [
+      {
+        "title": "I was asked to write a new Miss Marple, so I sent her to the Alps",
+        "summary": "Her last case was 50 years ago, written by Agatha Christie just before she died. Could I really follow in the footsteps of the Queen of Crime?When I was asked to write the first full-length Miss Marple novel since Sleeping Murder was published posthumously, 50 years ago in October, I immediately thought of my granny. My first encounter with the world of Agatha Christie was through her. Now I come to think o",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/sep/20/i-was-asked-to-write-a-new-miss-marple-so-i-sent-her-to-the-alps",
+        "seendate": "2026-09-20T11:00:15.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Is culture alive?",
+        "summary": "From Mozart to Madonna, dim sum to doughnuts, Shakespeare to Sartre – not all forms of life need DNAOn Mount Athos, in northern Greece, a monk rises before dawn to sing the same office that has been sung on that mountain for more than 1,000 years. He learned it from older monks who came before him, who learned it in turn in an unbroken chain stretching back to Athanasios the Athonite, in AD963.Over t",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/sep/20/is-culture-alive",
+        "seendate": "2026-09-20T11:00:14.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Jonathan Franzen: ‘It’s still mysterious to me that I was angry for so long’",
         "summary": "The author of The Corrections talks about a new TV adaptation, the future of reading and why creating new work is ‘horrible’When HBO dropped its plan&nbsp;to adapt Jonathan Franzen’s bestselling novel The Corrections in 2012, the author was so relieved he says he performed his first and last cartwheel on the lawn of his home in Santa Cruz, California. There had been an attempted film adaptation before that,",
@@ -138,35 +154,19 @@
         "domain": "theguardian.com"
       },
       {
+        "title": "Tom Gauld’s Jane Austen-inspired algorithm for gentlemen in want of a wife – cartoon",
+        "summary": "Continue reading...",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/picture/2026/sep/20/tom-gaulds-jane-austen-inspired-algorithm-for-gentlemen-in-want-of-a-wife-cartoon",
+        "seendate": "2026-09-20T15:00:18.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "The best books to read in September: new paperbacks from Margaret Atwood, Kiran Desai and Richard Holmes",
         "summary": "Looking for a new reading recommendation? Here are some great new paperbacks, from an epic multigenerational saga by a Booker winner to a biography of an iconic Victorian poet*** Continue reading...",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/books/ng-interactive/2026/sep/18/the-best-books-to-read-in-september-new-paperbacks-from-margaret-atwood-kiran-desai-and-richard-holmes",
         "seendate": "2026-09-18T17:19:59.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Singapore is paying people to read books – can it fix the reading crisis?",
-        "summary": "A government scheme is giving citizens cash for spending time with a good book. We ask behavioural scientists, along with The Anxious Generation author and psychologist Jonathan Haidt, whether it’ll help make the habit stickCould the solution to the reading crisis",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/sep/18/singapore-paid-reading-scheme",
-        "seendate": "2026-09-18T15:26:07.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "No Land to Stand On by Mahmoud Khalil review – a searing account of political imprisonment",
-        "summary": "The Palestinian Columbia student snatched by ICE writes about his Kafkaesque ordeal with a quiet furyMahmoud Khalil was completing a master’s degree at Columbia University when, in March 2025, plain-clothed officers from the Department of Homeland Security snatched him from his home in New York and took him to an immigration detention centre; he was then transferred to another facility in&nbsp;Louisiana, mo",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/sep/18/no-land-to-stand-on-by-mahmoud-khalil-review-a-searing-account-of-political-imprisonment",
-        "seendate": "2026-09-18T06:00:12.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "‘The damage was much worse than I had imagined’: the shocking inside story of Salman Rushdie’s survival",
-        "summary": "After ​the writer was stabbed in a horrific attack, his wife started making a video diary of his recovery. The clips are featured in a new film from Alex Gibney, who drew on Dennis Potter to create a powerful portrait of Rushdie’s tumultuous lifeEliza Griffiths was at home in New York, drinking a second cup of coffee one August morning in 2022, when her phone rang. She answered it to a frantic friend",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/sep/18/the-damage-was-much-worse-than-i-had-imagined-the-shocking-inside-story-of-salman-rushdies-survival",
-        "seendate": "2026-09-18T04:00:07.000Z",
         "domain": "theguardian.com"
       }
     ],
@@ -214,85 +214,85 @@
     ],
     "f1": [
       {
-        "title": "George Russell praised for honest admission about Kimi Antonelli's F1 form",
-        "summary": "Former Formula 1 driver David Coulthard has praised George Russell for admitting that his Mercedes team-mate and current championship leader Kimi Antonelli is doing a better job.Antonelli secured his eighth victory of the season at the inaugural Spanish Grand Prix at the new Madring circuit, extending his lead in the standings to 81 points over Russell, who sits second. Russell, meanwhile ...<a class='mo",
+        "title": "Lando Norris predicted to overtake George Russell in 2026 F1 standings",
+        "summary": "Guenther Steiner has backed Lando Norris to overtake George Russell for second place in the 2026 Formula 1 drivers' championship.Following the inaugural Spanish Grand Prix at the Madring circuit, Norris sits fourth in the drivers' standings with 186 points. Mercedes' Russell is second with 211 points, and his team-mate Kimi Antonelli currently leads with 292 points. Speaking on The Red ...<a class='m",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/george-russell-praised-for-honest-admission-about-kimi-antonellis-f1-form/10857086/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-19T17:00:02.000Z",
+        "url": "https://www.motorsport.com/f1/news/lando-norris-tipped-to-overtake-george-russell-in-2026-f1-standings/10857563/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-20T21:11:41.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Arvid Lindblad nearly flips world's shortest Fiat Panda in bizarre YouTube challenge",
-        "summary": "Racing Bulls Formula 1 rookie Arvid Lindblad has used some of his time off to test the world's shortest Fiat Panda in a recent YouTube video.The 19-year-old driver featured in a video by Italian car modification channel Carmagheddon, getting behind the wheel of a heavily modified Fiat Panda.During the video, Lindblad almost rolled the Guinness World Record-holding vehicle, but managed to ...<a class=",
+        "title": "David Coulthard warns unchanged Madring return in 2027 would be \"stupidity\"",
+        "summary": "David Coulthard has warned Formula 1 organisers that returning to the Madring circuit in 2027 without altering its layout would be \"stupidity\" following a processional first race.The race has faced criticism after it became clear that there were few overtaking opportunities around the semi-permanent circuit.After Lando Norris started from pole position, an ill-timed virtual safety car ...<a class='mo",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/arvid-lindblad-nearly-flips-worlds-shortest-fiat-panda-in-bizarre-youtube-challenge/10857231/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-19T15:43:52.000Z",
+        "url": "https://www.motorsport.com/f1/news/david-coulthard-warns-unchanged-madring-return-in-2027-would-be-stupidity/10857135/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-20T18:00:03.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "James Vowles faces \"tough moment\" as Nico Rosberg calls Williams woes \"a shocker\"",
-        "summary": "2016 Formula 1 champion Nico Rosberg has branded Williams's 2026 performance a \"shocker\" and argued that team principal James Vowles faces a major challenge to bring the Grove outfit back to where it needs to be.Williams entered the 2026 season already on the back foot, having missed the private testing in Barcelona in January and arrived at pre-season testing in Bahrain with an overweight ...<a class='m",
+        "title": "Sebastian Vettel weighs in on F1 2026 rules debate: 'We need to combine things we love'",
+        "summary": "Four-time world champion Sebastian Vettel believes Formula 1 has the technology to pair its sustainability goals with an exciting on-track product.As a racer with a deep-rooted passion for the history of the series, Vettel wasn't the biggest proponent of the turbo hybrids coming into the series in 2014, criticising their dulled sound and the impact of their complexity on the racing ...<a class='more' hre",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/james-vowles-faces-tough-moment-as-nico-rosberg-calls-williams-woes-a-shocker/10857199/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-19T15:13:39.000Z",
+        "url": "https://www.motorsport.com/f1/news/sebastian-vettel-weighs-in-on-f1-2026-rules-debate-we-need-to-combine-things-we-love/10857419/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-20T12:44:19.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Ferrari reveals special black race suit for Charles Leclerc at F1 Singapore GP",
-        "summary": "Ferrari has unveiled a special-edition black race suit for Charles Leclerc, which the Monegasque driver will wear at next month's Singapore Grand Prix. Moving away from the traditional Ferrari red with white accents, Leclerc's bespoke race suit is almost entirely black. In addition to the race suit that \"embodies a night under the Singapore lights\", the Maranello outfit has revealed a ...<a class='more'",
+        "title": "Guenther Steiner compares Madring backlash to Las Vegas debut with 2027 warning",
+        "summary": "Former Haas Formula 1 team principal Guenther Steiner has warned that the organisers of the Spanish Grand Prix at the Madring circuit must urgently change the track's layout for 2027.The inaugural 2026 Spanish Grand Prix in Madrid drew widespread criticism from drivers, fans and pundits following a processional race that featured virtually no overtaking.While Kimi Antonelli secured his ...<a class='m",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/ferrari-reveals-special-black-race-suit-for-charles-leclerc-at-f1-singapore-gp/10857172/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-19T14:07:24.000Z",
+        "url": "https://www.motorsport.com/f1/news/guenther-steiner-compares-madring-backlash-to-las-vegas-debut-with-2027-warning/10857396/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-20T10:28:16.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Otmar Szafnauer praises Toto Wolff after Kimi Antonelli gamble pays off",
-        "summary": "Former Alpine team principal Otmar Szafnauer says Mercedes boss Toto Wolff deserves credit for taking a gamble on Kimi Antonelli.After seven-time champion Lewis Hamilton decided to part ways with Mercedes to join Ferrari in 2025, the Brackley outfit was faced with deciding between signing another experienced driver and putting its support behind an up-and-comer.When Wolff opted to ...<a class='more'",
+        "title": "Former engineer urges F1 to introduce \"augmented\" stewarding group to speed up decisions",
+        "summary": "Former Ferrari and Williams race engineer Rob Smedley has proposed that Formula 1 introduce an \"augmented\" stewarding group to accelerate in-race decisions and prevent straightforward incidents from dragging on beyond the chequered flag.During an appearance on the High Performance Racing podcast alongside broadcaster Jake Humphrey and former Alpine team principal Otmar Szafnauer, Smedley ...<a class='mor",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/otmar-szafnauer-praises-toto-wolff-after-kimi-antonelli-gamble-pays-off/10857159/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-19T13:39:05.000Z",
+        "url": "https://www.motorsport.com/f1/news/former-engineer-urges-f1-to-introduce-augmented-stewarding-group-to-speed-up-decisions/10857147/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-20T10:00:03.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "Evidence of canceled Grand Theft Auto 5 Liberty City and 'Agent Trevor' DLC, plus early version of GTA6's map surface online",
-        "summary": "Their exact provenance is unclear, but they seem to have come from the big 2023 hack.",
+        "title": "First 5-day Tokyo Game Show in 30 years cuts back to 4 in face of Typhoon Dujuan",
+        "summary": "The gamer's traditional enemy, the typhoon.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/evidence-of-canceled-grand-theft-auto-5-liberty-city-and-agent-trevor-dlc-plus-early-version-of-gta6s-map-surface-online/",
-        "seendate": "2026-09-19T19:47:25.000Z",
+        "url": "https://www.pcgamer.com/gaming-industry/first-5-day-tokyo-game-show-in-30-years-cuts-back-to-4-in-face-of-typhoon-dujuan/",
+        "seendate": "2026-09-20T19:13:08.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "An ambitious fanmade expansion for Baldur's Gate 3 is out after almost two years in development",
-        "summary": "Enter The Chionthar Wilds with over 70 new items and 30 new fights.",
+        "title": "Elden Ring Nightreign is dead, but modders are dabbing on its corpse, with one porting an entire Dark Souls 2 DLC zone as a playable map",
+        "summary": "A new spin on an old favorite.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/baldurs-gate/an-ambitious-fanmade-expansion-for-baldurs-gate-3-is-out-after-almost-two-years-in-development/",
-        "seendate": "2026-09-19T18:14:04.000Z",
+        "url": "https://www.pcgamer.com/games/action/elden-ring-nightreign-is-dead-but-modders-are-dabbing-on-its-corpse-with-one-porting-an-entire-dark-souls-2-dlc-zone-as-a-playable-map/",
+        "seendate": "2026-09-20T18:38:15.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Japanese devs aren't facing the same layoff crisis because their executives are paid an order of magnitude less, 'they didn’t get swept up in the live-service trend,' and their teams are smaller, says industry expert",
-        "summary": "It's hard to argue against those takeaways.",
+        "title": "I lost hours to this roguelike card-based city builder even though I had no idea how all of those words could fit together",
+        "summary": "Boldly step into the mist and confront whatever horrors may emerge.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/japanese-devs-arent-facing-the-same-layoff-crisis-because-their-executives-are-paid-an-order-of-magnitude-less-they-didnt-get-swept-up-in-the-live-service-trend-and-their-teams-are-smaller-says-industry-expert/",
-        "seendate": "2026-09-19T18:13:42.000Z",
+        "url": "https://www.pcgamer.com/games/roguelike/i-lost-hours-to-this-roguelike-card-based-city-builder-even-though-i-had-no-idea-how-all-of-those-words-could-fit-together/",
+        "seendate": "2026-09-20T16:55:10.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "'The largest theft of labor in human history:' Court docs reveal Microsoft exec predicted AI 'doom loops' could hollow out the internet",
-        "summary": "Copilot's answer engine allegedly caused the New York Times' click-through rate to plummet by figures up to 93%.",
+        "title": "Solarpunk MMO Loftia is launching into early access November 3",
+        "summary": "Live on your very own island in the sky.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/software/ai/the-largest-theft-of-labor-in-human-history-court-docs-reveal-microsoft-exec-predicted-ai-doom-loops-could-hollow-out-the-internet/",
-        "seendate": "2026-09-19T15:59:49.000Z",
+        "url": "https://www.pcgamer.com/games/mmo/solarpunk-mmo-loftia-is-launching-into-early-access-november-3/",
+        "seendate": "2026-09-20T16:54:04.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "It rules that a 27-year-old RPG, one of the greatest of all time, is still getting patches",
-        "summary": "I wish all games worked like this.",
+        "title": "Unlock your inner Superman with a new demo from Undefeated: Genesis",
+        "summary": "Fly fast, shoot lasers from your eyes. You know? Superhero stuff.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/rpg/it-rules-that-a-27-year-old-rpg-one-of-the-greatest-of-all-time-is-still-getting-patches/",
-        "seendate": "2026-09-19T14:00:00.000Z",
+        "url": "https://www.pcgamer.com/games/action/unlock-your-inner-superman-with-a-new-demo-from-undefeated-genesis/",
+        "seendate": "2026-09-20T16:51:55.000Z",
         "domain": "pcgamer.com"
       }
     ],
@@ -300,7 +300,7 @@
     "technology": [
       {
         "title": "China bogeyman looms large over American firms’ AI doomsday scenario",
-        "summary": "Silicon Valley China hawks, Anthropic CEO Dario Amodei among them, fear the country surpassing US’s AI lead as much as superintelligence destroying humanityWhen reporters asked Donald Trump this week if he supported calls to slow down the development of artificial intelligence out of growing fears for cybersecurity, public safety and the fate of humanity, he said no. His argument: China.</p",
+        "summary": "Silicon Valley China hawks, Anthropic CEO Dario Amodei among them, fear the country surpassing US’s AI lead as much as superintelligence destroying humanityWhy China is pushing back on US warnings over rapid AI developmentWhen reporters asked Donald Trump th",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/technology/ng-interactive/2026/sep/19/china-ai-foreign-policy-dario-amodei",
         "seendate": "2026-09-19T10:00:45.000Z",
@@ -341,6 +341,30 @@
     ],
     "climate": [
       {
+        "title": "Bear-y good neighbors: humans and animals are learning to live together in an expanding LA",
+        "summary": "People are increasingly crossing paths with the wild animals as homes ring the outskirts of forests, sparking a new era of coexistenceEvery year, as summer draws to a close and fall begins, California’s bears get hungry.Black bears have long roamed the state, hunting for acorns, ants and pine nuts by the bucketload to pack on calories before hibernation. But increasingly, for every berry and root, th",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/sep/20/los-angeles-bear-coexistence",
+        "seendate": "2026-09-20T14:00:17.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "US environment agency let Bayer pick regulations for destructive weedkiller, documents show",
+        "summary": "Environmental Protection Agency asked firm to choose rules it wanted for dicamba, then put the choices in a proposed federal ruleThe EPA allowed pesticide giant Bayer to pick from a menu of regulation opt",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/sep/20/epa-bayer-regulation-pesticide-dicamba",
+        "seendate": "2026-09-20T12:00:14.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "‘Do you have to be dead?’: US coalminers plead for benefits as black-lung disease cases surge",
+        "summary": "Trump says he digs coal – but pneumoconiosis cases are at a 50-year high, and sick miners are mired in benefit delaysFor 38 years, Josh Armes worked as a coal miner in West Virginia and Virginia.After retirement, Armes, 74, of Grundy, Virginia, was diagnosed with black lung disease, medically known as coal workers’",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/sep/20/us-coalminers-black-lung-disease",
+        "seendate": "2026-09-20T11:00:16.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Trump administration pushes on with construction of controversial Big Bend border wall",
         "summary": "Customs and Border Protection faces bipartisan backlash from locals for 30ft border wall through west TexasThe Trump administration is pressing forward with construction on the <a href=\"https://www.theguardian.com/us-news/2026/jun/13/tex",
         "source": "theguardian.com",
@@ -355,33 +379,25 @@
         "url": "https://www.theguardian.com/environment/2026/sep/18/pfas-veterans-blood-forever-chemicals",
         "seendate": "2026-09-18T14:00:19.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Fat Bear Week has returned – and the salmon are swimming for their lives",
-        "summary": "The public will, for the 12th year in a row, vote for the fattest of brown bears in Alaska’s Katmai national parkThe bears have returned to the river and are packing on the pounds as another Fat Bear Week begins at Katmai national park.The 12th annual Fat Bear Week, in which the public will vote for the fattest of Katmai’s brown bears as mothers, cubs and males gather along the salmon-run at Brooks r",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/sep/18/fat-bear-week-2026",
-        "seendate": "2026-09-18T13:00:18.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Private jets pollute up to 14 times as much as commercial planes and are undertaxed in US, report says",
-        "summary": "Number of private jets has surged in recent years, but they do not pay commensurate portion of fees to FAA operationsA new report has put a spotlight on the rapid expansion of private jet travel in the US, revealing that owners are not paying their fair share of aviation tax despite the average owner’s wealth being $190m and private jets being up to 14 times more polluting than commercial flights.The",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/sep/18/private-jets-pollution-undertaxed",
-        "seendate": "2026-09-18T12:00:19.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "US wheat farmers navigate uncertainty amid drought and geopolitical chaos",
-        "summary": "Some experts worry factors affecting wheat exports could push global food prices even higher than they are nowWheat prices are at their highest level in three years, which means farmer Merrill Nielsen should be getting more for his crops out of his 2,500-acre (1,010-hectare) Kansas farm.Yet even as future prices for bread-type wheat are up 39%,",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/sep/18/wheat-farmers-drought-geopolitics",
-        "seendate": "2026-09-18T11:00:17.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "science": [
+      {
+        "title": "Adults with severe mental illness die 15 to 20 years earlier from diseases such as cancer",
+        "summary": "Exclusive: Stark health inequalities in terms of deaths before age of 75, NHS data revealsAdults with severe mental illness are nearly five times more likely than their peers to die from serious physical diseases before the age of 75, according to research.The analysis of <a href=\"https://digital.nhs.uk/data-and-information/publications/statistical/excess-under-75-mortality-rates-in-adults-with-serio",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/society/2026/sep/20/adults-severe-mental-illness-more-likely-die-earlier-diseases-cancer-nhs-data",
+        "seendate": "2026-09-20T15:00:19.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Is culture alive?",
+        "summary": "From Mozart to Madonna, dim sum to doughnuts, Shakespeare to Sartre – not all forms of life need DNAOn Mount Athos, in northern Greece, a monk rises before dawn to sing the same office that has been sung on that mountain for more than 1,000 years. He learned it from older monks who came before him, who learned it in turn in an unbroken chain stretching back to Athanasios the Athonite, in AD963.Over t",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/sep/20/is-culture-alive",
+        "seendate": "2026-09-20T11:00:14.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "The US air force admitted to deploying weapons in space. Don’t expect the White House to explain why",
         "summary": "The revelation ‘left experts scratching their heads at exactly what Donald Trump has in his cosmic arsenal’In Hollywood at least, space weapons are a relatively simple concept. The good guys, from Captain Kirk and his crew in Star Trek, to Luke Skywalker’s rebel alliance in Star Wars, battle intergalactic villains with an array of colorful lasers a",
@@ -404,22 +420,6 @@
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/science/2026/sep/18/tech-billionaires-live-forever-waste-of-time-says-physicist-royal-institution",
         "seendate": "2026-09-18T15:00:21.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Improved air quality linked to better mental development in toddlers, study finds",
-        "summary": "Long-term research in New York shows efforts to reduce air pollution associated with higher cognitive test scoresImprovements in air pollution are leading to brighter, smarter toddlers, according to a new study from Columbia University in New York.For more than two decades, <a href=\"https://www.publichealth.columbia.edu/profil",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/2026/sep/18/improved-air-quality-pollution-mental-development-toddlers-new-york-study",
-        "seendate": "2026-09-18T05:00:10.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "‘Very messy eaters’: scientists solve the mystery of when black holes ‘burp’",
-        "summary": "The astronomical bodies fire off powerful jets in two distinct phases in their feeding cycle, researchers discoverScientists have solved the mystery of when black holes “burp” – when the astronomical bodies launch jets after feeding on stars, blasting material enormous distances in space.Black holes are objects so densely compact that beyond a certain point their gravity is too strong for light and m",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/sep/17/black-hole-burps-scientists-solve-mystery-astronomy",
-        "seendate": "2026-09-17T09:00:44.000Z",
         "domain": "theguardian.com"
       }
     ]
