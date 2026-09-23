@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-22T01:20:26.926Z",
+  "generatedAt": "2026-09-23T01:00:43.055Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
       {
         "title": "Healthcare in Africa ‘under growing strain’ after US withdrawal from aid programs, report warns",
-        "summary": "Accra Reset’s report states countries in the region and global south should take greater control of their health development after USAID debacleThe United States’ withdrawal from key aid programs has put has put healthcare in Africa and the Global South “under growing strain” a new report warns.The report says the Trump administration’s cuts to programs such as US Agency for International Development",
+        "summary": "Accra Reset’s report states countries in the region and global south should take greater control of their health development after USAID debacleThe United States’ withdrawal from key aid programs has put healthcare in Africa and the Global South “under growing strain” a new report warns.The report says the Trump administration’s cuts to programs such as US Agency for International Development (USAID)",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/us-news/2026/sep/21/africa-healthcare-aid-program-withdrawl",
         "seendate": "2026-09-21T22:33:40.000Z",
@@ -47,7 +47,7 @@
     "conflict": [
       {
         "title": "Healthcare in Africa ‘under growing strain’ after US withdrawal from aid programs, report warns",
-        "summary": "Accra Reset’s report states countries in the region and global south should take greater control of their health development after USAID debacleThe United States’ withdrawal from key aid programs has put has put healthcare in Africa and the Global South “under growing strain” a new report warns.The report says the Trump administration’s cuts to programs such as US Agency for International Development",
+        "summary": "Accra Reset’s report states countries in the region and global south should take greater control of their health development after USAID debacleThe United States’ withdrawal from key aid programs has put healthcare in Africa and the Global South “under growing strain” a new report warns.The report says the Trump administration’s cuts to programs such as US Agency for International Development (USAID)",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/us-news/2026/sep/21/africa-healthcare-aid-program-withdrawl",
         "seendate": "2026-09-21T22:33:40.000Z",
@@ -88,6 +88,30 @@
     ],
     "economy": [
       {
+        "title": "Trump made over 1,000 July stock trades worth up to $270m, filings reveal",
+        "summary": "President made more than 440 purchases and 700 sales despite voter anger over elected officials trading stocksDonald Trump made over a thousand stock sales and purchases worth between $79m and $270m in July, according to a Guardian analysis of his latest financial disclosure released Tuesday.His two largest sales were of Amazon and Microsoft stock, selling between $5m and $25m each on 20 July. That s",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/sep/22/trump-stock-trades-july-filing",
+        "seendate": "2026-09-22T20:13:35.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Patrick Clancy interview on 60 Minutes fails to provide big ratings boost for CBS",
+        "summary": "Amid show’s major overhaul by Bari Weiss, Sunday’s episode draws third-smallest audience for a second episode in the past 25 years60 Minutes’ blockbuster interview with Patrick Clancy, the ex-husband of Lindsay Clancy, failed to provide a major ratings boost for the Sunday show, according to audience figures released Tuesday.Sunday night’s episode of the newsmagazine show drew an average of 6.77m tot",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/sep/22/60-minutes-patrick-clancy-cbs",
+        "seendate": "2026-09-22T21:29:36.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Trump says he backs diesel export ban to curb soaring energy costs",
+        "summary": "But industry trade group says plan would backfire and lead to even higher prices for gasolineUS politics live – latest updatesDonald Trump on Tuesday said he backed ⁠the idea of a ban on",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/sep/22/trump-diesel-export-ban",
+        "seendate": "2026-09-22T19:48:39.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Plan for editorial oversight board at CNN and CBS News draws skepticism: ‘Utter garbage’",
         "summary": "Some network employees and media-watchers have questions and concerns about how arrangement will workLeading media figures and insiders dismissed plans to create an editorial oversight board to protect CNN’s independence as “utter garbage” – in one staffer’s words – after a settlement was reached to resolve a lawsuit filed by a coalition of 12 states to bl",
         "source": "theguardian.com",
@@ -96,39 +120,47 @@
         "domain": "theguardian.com"
       },
       {
-        "title": "CNN, MS Now and Politico sue Trump after being blocked from White House",
-        "summary": "Three news outlets filed lawsuit in attempt to regain access to the White House after having badges disabledIn what will be one of the largest battles yet between the press and Donald Trump’s administration, three news organizations – CNN, MS Now (formerly MSNBC) and Politico – that have been <a href=\"https://www.theguardian.com/us-news/",
+        "title": "EU spends three times more on imports from China than bloc exports there",
+        "summary": "Days before Xi Jinping’s summit with Donald Trump, new study shows trade deficit ran at more than €1bn daily in JulyConsumers and businesses in the EU are spending three times more on Chinese imports than their counterparts in China are buying from the bloc, a study has shown.Customs data showed the gap between the EU’s imports from China and expo",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/sep/21/white-house-news-organization-ban-lawsuit",
-        "seendate": "2026-09-21T14:42:12.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Starbucks baristas reel from surges in health insurance costs: ‘I’m considering a second job’",
-        "summary": "Several workers say they’re opting to go without health coverage due to premium costs soaring this yearStarbucks workers say their health insurance premiums have soared this year, in some cases more than doubling, according to a recent survey conducted by Starbucks Workers United.The survey of more than 130 Starbucks workers in both unionized and non-unionized stores, shared exclusively with the Guar",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/sep/21/starbucks-baristas-health-insurance-surge",
-        "seendate": "2026-09-21T11:00:23.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Converse apologizes and pulls ad that critics said evoked racist imagery",
-        "summary": "Sneaker company removes social media ad after backlash from critics who said it resembled KKK imageryThe sneaker company Converse has removed a social media ad that sparked outrage among critics who viewed it as evoking the Ku Klux Klan and lynching.The Instagram ad photo showed K-pop singer Karina wearing a skirt and holding a pair of Chuck 70 X",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/sep/21/converse-ad-apology-racist-imagery",
-        "seendate": "2026-09-21T12:03:16.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Kevin Warsh may be the adult in the room. But can he calm the US economy?",
-        "summary": "Fed chair presided over unanimous decision to raise interest rates despite intense campaign from White HouseIn the end, Kevin Warsh’s Federal Reserve acquitted itself well. For all the uncertainty he had sparked at the previous meeting of the Federal Open Market Committee, when he refused to provide any indication of what he was prepared to do to tame stubborn inflation, the chair on Wednesday presided over",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/sep/19/kevin-warsh-interest-rate-hike",
-        "seendate": "2026-09-19T11:00:45.000Z",
+        "url": "https://www.theguardian.com/business/2026/sep/22/eu-imports-china-exports-trade-deficit-xi-jinping-donald-trump",
+        "seendate": "2026-09-22T11:54:08.000Z",
         "domain": "theguardian.com"
       }
     ],
     "literature": [
+      {
+        "title": "Previous winners Marlon James and Douglas Stuart shortlisted for Booker prize",
+        "summary": "The two authors are in the running for the £50,000 award alongside a Pulitzer winner, a science fiction legend, a comic writer and a debut novelist• Booker judge Mary Beard on this year’s shortlistThis year’s Booker prize shortlist features some very familiar",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/sep/22/booker-prize-shortlist-pulitzer-previous-winners",
+        "seendate": "2026-09-22T18:55:24.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Swan Song by Charles Spencer review – a furious exercise in score-settling by Diana’s brother",
+        "summary": "Amid genuinely touching passages about his sister, the earl can’t help but put himself and his grievances centre stageCharles Spencer’s Swan Song, a memoir of his relationship with his sister, the late Diana, Princess of Wales, is a fascinating document that tells us a little about Diana and a great deal about Charles Spencer – perhaps more than we needed to know. If that sounds snarky, after 400 pages of s",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/sep/22/swan-song-charles-spencer-review-diana-princess-of-wales-brother-earl",
+        "seendate": "2026-09-22T11:09:24.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Doom Painting by AK Blakemore review – a dazzling epic of the Peasants’ Revolt",
+        "summary": "This recklessly ambitious doorstopper follows the 16 days of England’s medieval uprising from a vast array of viewpoints, and in startlingly rich proseAK Blakemore’s third novel tells the story of the Peasants’ Revolt of 1381, when commoners of all classes – not only peasants, but merchants, servants, smugglers, and some local lords and officials – rebelled at the imposition of a poll tax and rampaged throu",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/sep/22/doom-painting-by-ak-blakemore-review-a-dazzling-epic-of-the-peasants-revolt",
+        "seendate": "2026-09-22T06:00:38.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Autumn by Kate Mosse review – tender reflections on time and place",
+        "summary": "The author of Labyrinth on the turning of the seasons and the lore and landscape of her beloved SussexKate Mosse’s new book is a love-song to West Sussex, part of a series designed to bring out its authors’ personal connections to a&nbsp;home landscape. It began last year, with Michael Morpurgo welcoming spring in Devon, where he has lived – at the farm that inspired War Horse – for over 50 years; and then",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/sep/22/autumn-by-kate-mosse-review-tender-reflections-on-time-and-place",
+        "seendate": "2026-09-22T08:00:39.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Celebrity, sex and motherhood misery: the 10 best books by Rachel Cusk … ranked!",
         "summary": "From an abstract portrait of an actor who might be Natalie Portman to a groundbreaking work of autofiction, we rate the best from the coolly controversial authorIn Cusk’s headline-grabbing latest, a&nbsp;writer&nbsp;invents the biography of a film star who sounds very like Natalie Portman. Set in the now standard late-Cusk sans&nbsp;serif typeface (no frivolous flourishes!), Life of M serves up observations",
@@ -136,168 +168,168 @@
         "url": "https://www.theguardian.com/culture/2026/sep/21/books-story-ranked",
         "seendate": "2026-09-21T11:00:22.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "The American Way of Killing by Malcolm Gladwell review – wide of the mark",
-        "summary": "Gladwell’s highly readable investigation into US gun culture fails to engage with the bigger questionsOnce, while having a steak dinner with Republicans in a small town in Indiana, the man sitting opposite me asked: “How do you cope in London, when Muslims elected that mayor and you have all that gun control?” I’d been in enough such situations to know that there was no “winning” a conversation that starts",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/sep/21/the-american-way-of-killing-by-malcolm-gladwell-review-wide-of-the-mark",
-        "seendate": "2026-09-21T06:00:38.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "The Recovery House by Derek Owusu review – a uniquely honest view of mental health",
-        "summary": "Writing from firsthand experience, the author offers an affecting meditation on art, mental fragility and faith“What’s in your head?” Dolores O’Riordan’s raw, plaintive refrain loops through the Cranberries’ 1994 hit Zombie. A protest song about the Troubles could, on paper, hardly seem further removed from Derek Owusu’s third novel, about a young writer recovering from a mental health crisis. But in an aut",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/sep/21/the-recovery-house-by-derek-owusu-review-a-uniquely-honest-view-of-mental-health",
-        "seendate": "2026-09-21T08:00:38.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "I was asked to write a new Miss Marple, so I sent her to the Alps",
-        "summary": "Her last case was 50 years ago, written by Agatha Christie just before she died. Could I really follow in the footsteps of the Queen of Crime?When I was asked to write the first full-length Miss Marple novel since Sleeping Murder was published posthumously, 50 years ago in October, I immediately thought of my granny. My first encounter with the world of Agatha Christie was through her. Now I come to think o",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/sep/20/i-was-asked-to-write-a-new-miss-marple-so-i-sent-her-to-the-alps",
-        "seendate": "2026-09-20T11:00:15.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Is culture alive?",
-        "summary": "From Mozart to Madonna, dim sum to doughnuts, Shakespeare to Sartre – not all forms of life need DNAOn Mount Athos, in northern Greece, a monk rises before dawn to sing the same office that has been sung on that mountain for more than 1,000 years. He learned it from older monks who came before him, who learned it in turn in an unbroken chain stretching back to Athanasios the Athonite, in AD963.Over t",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/sep/20/is-culture-alive",
-        "seendate": "2026-09-20T11:00:14.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "entertainment": [
       {
-        "title": "John Oliver on UnitedHealth Group: ‘Algorithmically driven, ruthless arbiters of who lives and who dies’",
-        "summary": "Ahead of Luigi Mangione’s sentencing, the Last Week Tonight host looked into the corporate healthcare behemoth that is UnitedHealth GroupAfter a month hiatus, John Oliver returned to Last Week Tonight with a look at United Healthcare, the largest insurance company in the US, which served over 50 million people last year. The company, part of",
+        "title": "Choosin’ Texas unseats All I Want for Christmas as longest-running No 1 song on Billboard Hot 100",
+        "summary": "Ella Langley’s record-breaking song has spent 23 weeks at the top, surpassing Mariah Carey’s holiday anthemElla Langley’s hit song Choosin’ Texas has made Billboard Hot 100 history, spending 23 weeks on the chart and breaking the record for the longest-running No 1 song in the chart’s 68-year old history.The track, which was released last October as the lead single on the 27-year-old singer and songw",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/sep/21/john-oliver-united-healthcare",
-        "seendate": "2026-09-21T15:43:33.000Z",
+        "url": "https://www.theguardian.com/music/2026/sep/22/choosin-texas-ella-langley-billboard-mariah-carey",
+        "seendate": "2026-09-22T19:45:14.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Sense and Sensibility review – Daisy Edgar-Jones leads sober-minded next-gen do-over of Austen romcom",
-        "summary": "With Edgar-Jones and Esmé Creed-Miles as the Dashwood sisters, this fresh take on a beloved classic is not to be confused with Ang Lee’s There’s no reason for anyone working on a new adaptation of Jane Austen’s Sense and Sensibility to be intimidated by th",
+        "title": "Jon Stewart on Trump’s White House media ban: ‘authoritarian crackdown’",
+        "summary": "Late-night hosts respond to Trump’s removal of outlets such as CNN and Politico from the White House press pool over ‘negative stories’Late-night hosts reacted to Donald Trump’s dramatic White House media ban and casual disregard of the first",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/sep/21/sense-and-sensibility-review-romcom-austen-daisy-edgar-jones",
-        "seendate": "2026-09-21T15:00:35.000Z",
+        "url": "https://www.theguardian.com/culture/2026/sep/22/jon-stewart-trump-white-house-media-ban",
+        "seendate": "2026-09-22T15:49:49.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "From the ridicule of Trump to the rise of Jack Welch: how the 1980s shaped and changed America",
-        "summary": "In When America Roared, Pulitzer-winning reporter Jonathan Kaufman looks back to a decade of greed and excess, and uses it to explore where we are todayDonald Trump is “so much a creature of the 80s but even in the 80s, everyone made fun of him,” Jonathan Kaufman said. General Electric CEO Jack Welch, “the most prominent business figure in the country, maybe in the world, mocked him. No one took him serious",
+        "title": "‘We didn’t set out to make a show for animals!’ The Netflix seal cartoon that’s a huge hit … with pets",
+        "summary": "Videos of cats and dogs transfixed by Netflix kids’ show Sealook – or pawing at its characters – are everywhere. We tried to find out why … and asked a goldendoodle for its verdictOzzy the four-month-old goldendoodle isn’t normally allowed on the sofa. But today he has been granted special privileges because I’ve come round specifically to watch TV with him. We’re not watching Paw Patrol, Scooby-Doo, or eve",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/sep/21/trump-1980s-book-jonathan-kaufman",
-        "seendate": "2026-09-21T10:00:22.000Z",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/sep/22/sealook-netflix-seal-cartoon-pet-dogs-cats-transfixed",
+        "seendate": "2026-09-22T14:41:11.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘My whole identity was wrapped up in Ally McBeal’ – Calista Flockhart on her smash hit 90s comedy rollercoaster",
-        "summary": "‘In the street or at restaurants, people still come up to me and say, “I became a lawyer because of you.” But I just went to work and said my lines!’I was doing a play in New York, Three Sisters by Chekhov. We regularly got scripts sent to us. One going around was written by David E Kelley. I flew out to Los Angeles to screen test, and I got the part right in the moment. It was a difficult transition as I f",
+        "title": "Hayden Panettiere’s cause of death confirmed as fentanyl overdose",
+        "summary": "South Carolina medical examiner says ‘no signs of trauma’ and ‘the manner of death has been ruled accident’Hayden Panettiere died from a fentanyl overdose, according to the Greenville county coroner’s office.Medical examiners in South Carolina confirmed the 36-year old actor’s c",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/culture/2026/sep/21/how-we-made-ally-mcbeal-calista-flockhart",
-        "seendate": "2026-09-21T12:12:30.000Z",
+        "url": "https://www.theguardian.com/society/2026/sep/22/hayden-panettiere-cause-death",
+        "seendate": "2026-09-22T14:43:17.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Silent Hill: Townfall review – shame and suffering on the Scottish coast",
-        "summary": "PlayStation 5 (version played), PC; Screen BurnTragedy, and an apocalyptic fog, befall a fishing community. It is up to outsider Simon to offer some kind of closureYou spend a considerable portion of Silent Hill: Townfall in a kind of foetal position, cowering behind objects that will be eerily familiar to anyone who lived in the UK during the 1990s. Cars seem to be modelled on the era’",
+        "title": "Heart of the Beast review – Brad Pitt survivalist dogmance serves up wilderness with side of cheese",
+        "summary": "Pitt and loyal hound Odin get stuck in remote Alaska in this serviceable adventure with hints of Jack London and Marley &amp; MeOne man and his dog have an amazing adventure in this survivalist drama starring Brad Pitt, from screenwriter Cameron Alexander and director David Ayer, for which the first and last words of the title have been carefully chosen to signal a mix of sentimentality and thrills. It’s an",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/games/2026/sep/21/silent-hill-townfall-review-screen-burn",
-        "seendate": "2026-09-21T12:00:23.000Z",
+        "url": "https://www.theguardian.com/film/2026/sep/22/heart-of-the-beast-review-brad-pitt-survivalist-dogmance-serves-up-wilderness-with-side-of-cheese",
+        "seendate": "2026-09-22T13:00:02.000Z",
         "domain": "theguardian.com"
       }
     ],
     "f1": [
       {
-        "title": "F1 confirms new Hot Wheels \"Infinite Rush\" car collection for 2027 release",
-        "summary": "Formula 1 has announced that all 22 official team cars from the 2026 season will be added to the Hot Wheels Infinite Rush video game via a new F1 Car Collection Pack, launching in March 2027.The downloadable content pack, developed in conjunction with global racing game studio Milestone and toy manufacturer Mattel, will mark the first time that official F1 machinery will be playable within a ...<a class=",
+        "title": "Why is a Formula 1 race 305 kilometres long? Race distances from 1950 to 2027",
+        "summary": "A Formula 1 Grand Prix is more than 305 kilometres long. More precisely, a race consists of the minimum number of laps required to exceed 305 kilometres. The only exception is Monaco, where the minimum distance is 260 kilometres.There is also a two-hour limit on actual racing time. If a race is suspended, the total duration including the interruption may not exceed three hours. That is what ...<a class='",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/f1-confirms-new-hot-wheels-infinite-rush-car-collection-for-2027-release/10857826/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-21T21:32:34.000Z",
+        "url": "https://www.motorsport.com/f1/news/why-is-a-formula-1-race-305-kilometres-long-race-distances-from-1950-to-2027/10858004/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-22T16:00:18.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "F1 approves shorter races for 2027 to fit revised power unit plan",
-        "summary": "The Formula 1 Commission has rubber-stamped the proposed changes to reduce the lengths of races in 2027 by 15km, in line with the expected power unit changes for next season.During Monday's F1 Commission in London, the decision to reduce the standard grand prix length from 305km to 290km was agreed upon - pending approval from the FIA's World Motor Sport Council - to reduce the cost associated ...<a clas",
+        "title": "What were Charles Leclerc's \"other opportunities\" before signing new Ferrari deal?",
+        "summary": "Every time Ferrari and Charles Leclerc agree to extend their relationship, the news comes against a background of allusions to other suitors Charles has spurned to remain with his true love.\"For that, I'm also lucky to be in the position where I've got my manager,\" he said on a recent episode of F1's Beyond the Grid podcast when asked how seriously he had considered a life away from ...<a class='more' hr",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/f1-approves-shorter-races-for-2027-to-fit-revised-power-unit-plan/10857797/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-21T16:52:15.000Z",
+        "url": "https://www.motorsport.com/f1/news/what-were-leclercs-other-opportunities-before-signing-new-ferrari-deal/10857955/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-22T15:30:36.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Carlos Sainz backs bold approach for Williams junior Will Green's racing future",
-        "summary": "Carlos Sainz has urged Williams Formula 1 junior Will Green to prioritise finding the limits over consistency as the 13-year-old prepares to graduate from karting to single-seaters.Green was announced as a Williams Racing Academy driver in December 2024 and recently became the 2026 Karting European Championship junior champion.Speaking in an interview conducted by the teenage karting ...<a class='mor",
+        "title": "Five things to look out for at the F1 Azerbaijan GP",
+        "summary": "Formula 1 returns to familiar ground this weekend as Azerbaijan celebrates its 10th anniversary of being on the calendar.The Baku street circuit first entered as the European Grand Prix in 2016 before running as the Azerbaijan Grand Prix from 2017, featuring every season bar the COVID-struck 2020 campaign.It has produced many memorable moments from Daniel Ricciardo’s mega win from 10th ...<a class='m",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/carlos-sainz-backs-bold-approach-for-williams-junior-will-greens-racing-future/10857759/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-21T14:42:31.000Z",
+        "url": "https://www.motorsport.com/f1/news/five-things-to-look-out-for-at-the-f1-azerbaijan-gp/10857961/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-22T14:49:50.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Guenther Steiner predicts Max Verstappen will go winless in 2026 F1 season",
-        "summary": "Former Haas Formula 1 team principal Guenther Steiner believes four-time champion Max Verstappen will fail to win a single grand prix during the 2026 F1 season, arguing that Red Bull's package is not competitive enough.Verstappen currently sits sixth in the standings with 145 points, 147 points behind championship leader Kimi Antonelli. The Dutchman's best results so far this year have been ...<a class='",
+        "title": "Isack Hadjar to make Red Bull return at F1 Azerbaijan GP",
+        "summary": "Isack Hadjar will return to Red Bull for this weekend's Azerbaijan Grand Prix at Baku after recovering from a wrist injury, as Liam Lawson moves back to Racing Bulls.Hadjar had injured his wrist in training over the summer break and, following medical advice, was told to avoid driving to manage his recovery. Lawson thus deputised for the Frenchman at Red Bull, starting with the Dutch Grand ...<a class='m",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/guenther-steiner-predicts-max-verstappen-will-go-winless-in-2026-f1-season/10857570/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-21T14:00:02.000Z",
+        "url": "https://www.motorsport.com/f1/news/isack-hadjar-to-make-red-bull-return-at-f1-azerbaijan-gp/10857869/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-22T08:29:58.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "2025 F1 Academy champion Doriane Pin sets timeline for Formula 1 race seat",
-        "summary": "Mercedes Formula 1 development driver Doriane Pin has set a five-year target to secure a race seat on the F1 grid.Speaking in a recent Mercedes In Convo With Kids interview, the French driver confirmed her long-term career goals and her belief that female drivers can reach the championship. When asked where she sees herself in five years' time, Pin responded directly: \"In Formula 1.\"That ...<a class=",
+        "title": "Doriane Pin shares powerful advice to young girls hoping to reach motorsport",
+        "summary": "Mercedes Formula 1 development driver and 2025 F1 Academy champion Doriane Pin has urged young girls aiming for a career in motorsport to \"dare to believe\" in their ambitions.Pin began karting at the age of nine and started competing in the national championship when she was 12 in 2016. In her three years in the karting championship, she finished 10th and fifth in the junior class in the ...<a class='mor",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/2025-f1-academy-champion-doriane-pin-sets-timeline-for-formula-1-race-seat/10857711/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-21T11:57:16.000Z",
+        "url": "https://www.motorsport.com/f1/news/doriane-pin-shares-powerful-advice-to-young-girls-hoping-to-reach-motorsport/10857714/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-22T08:00:03.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "Blizzard warns World of Warcraft: Forever players it will 'very aggressively' punish anyone who buys gold with real money",
-        "summary": "Preserving the economy of the MMO is a top priority, the studio says.",
+        "title": "'Guardians make their own fate.' Destiny 2 players and creators celebrate following Bungie's shock U-turn, as the studio admits: 'Your voices mattered'",
+        "summary": "Are we actually so back, or is the elation premature?",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/world-of-warcraft/blizzard-warns-world-of-warcraft-forever-players-it-will-very-aggressively-punish-anyone-who-buys-gold-with-real-money/",
-        "seendate": "2026-09-21T21:15:56.000Z",
+        "url": "https://www.pcgamer.com/games/guardians-make-their-own-fate-destiny-2-players-and-creators-celebrate-following-bungies-shock-u-turn-as-the-studio-admits-your-voices-mattered/",
+        "seendate": "2026-09-22T22:25:32.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "'All roads lead back to Arma'",
-        "summary": "Without Arma, gaming would look a lot different right now.",
+        "title": "Vindicated: after speaking to some pro Counter-Strike players I'm sure I was right when I said 360 Hz is the sweet spot for competitive FPS",
+        "summary": "The two CS2 players I spoke to seem to agree.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/fps/all-roads-lead-back-to-arma/",
-        "seendate": "2026-09-21T20:39:21.000Z",
+        "url": "https://www.pcgamer.com/hardware/gaming-monitors/vindicated-after-speaking-to-some-pro-counter-strike-players-im-sure-i-was-right-when-i-said-360-hz-is-the-sweet-spot-for-competitive-fps/",
+        "seendate": "2026-09-22T22:08:27.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Rockstar asks modders to please take its games very seriously",
-        "summary": "In mod guidelines published earlier this month, Rockstar tells modders to \"respect our games.\"",
+        "title": "Diablo 5 will 'take a somewhat different approach' to Diablo 4's monster level scaling so your character feels noticeably stronger as you progress",
+        "summary": "Blizzard wants leveling up and finding new items to have an immediate impact on combat.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-asks-modders-to-please-take-its-games-very-seriously/",
-        "seendate": "2026-09-21T20:14:25.000Z",
+        "url": "https://www.pcgamer.com/games/rpg/diablo-5-will-take-a-somewhat-different-approach-to-diablo-4s-monster-level-scaling-so-your-character-feels-noticeably-stronger-as-you-progress/",
+        "seendate": "2026-09-22T21:52:34.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Wait, how did Lego beat Minecraft to making a city builder?",
-        "summary": "The only thing more obvious than a Lego city builder is a Minecraft city builder.",
+        "title": "World of Warcraft: Forever players find rule-breaking new items that defy 22 years of experience with the classic MMO",
+        "summary": "Blizzard snuck in an item that finally gives mages a reason to swing a sword.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/city-builder/wait-how-did-lego-beat-minecraft-to-making-a-city-builder/",
-        "seendate": "2026-09-21T17:14:31.000Z",
+        "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-players-find-rule-breaking-new-items-that-defy-22-years-of-experience-with-the-classic-mmo/",
+        "seendate": "2026-09-22T19:50:47.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Bungie un-cancels Destiny: Vaulted content is coming back as new leadership promises 'Destiny is foundational to our future'",
-        "summary": "\"We are not done with Destiny.\"",
+        "title": "The mythology of Gabe Newell now includes Mongolian throat singing",
+        "summary": "Counter-Strike co-creator says Valve employees once endured daily psychic damage from the founder's fixation.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/bungie-un-cancels-destiny-vaulted-content-is-coming-back-as-new-leadership-promises-destiny-is-foundational-to-our-future/",
-        "seendate": "2026-09-21T17:13:29.000Z",
+        "url": "https://www.pcgamer.com/gaming-industry/the-mythology-of-gabe-newell-now-includes-mongolian-throat-singing/",
+        "seendate": "2026-09-22T19:34:50.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
+      {
+        "title": "OpenAI’s George Osborne says datacentre nimbys holding back Britain",
+        "summary": "Former chancellor, now senior figure at OpenAI, says UK needs datacentres to maintain ‘sovereignty’ over AI techUK politics live – latest updatesDatacentre nimbys are holding Britain back, George Osborne has said in reaction to nationwide protests",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/politics/2026/sep/22/george-osborne-ai-datacentre-nimbys-holding-back-britain",
+        "seendate": "2026-09-22T11:46:01.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Using AI to ‘talk to animals’ might make us feel clever – but what, if anything, does it do for them?",
+        "summary": "As animal behaviorists increasingly use AI in their research, they grapple with how to wield the technology responsiblyI’m sitting in a small boat in Shark Bay, Australia, eavesdropping on a conversation between some of Earth’s most intelligent beings. The motor is off, the turquoise sea is glassy, and Stephanie King and I are motionless, transfixed by the whistles, clicks and squeezy, whirring noises made",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/ng-interactive/2026/sep/22/animal-language-recordings-ai",
+        "seendate": "2026-09-22T12:00:54.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Stop relying on AI chatbots for customer care, UK banks and energy firms told",
+        "summary": "Citizens Advice says providers of essential services such as energy, banking, phone and internet should guarantee the ‘right to talk to a human’Stop relying on AI chatbots for customer care and guarantee the “right to talk to a human”, Citizens Advice has urged essential service providers, as research found they wasted time, caused stress and delayed problem solving for more than half of users.The sp",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/sep/21/stop-relying-on-chatbots-for-customer-care-uk-service-providers-urged",
+        "seendate": "2026-09-21T16:35:31.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Black Tesla employees accuse company of fostering racial discrimination in major trial",
+        "summary": "Lawyers say Black employees at Tesla experienced ‘rampant racism’ that was left unchecked for years at their flagship factory in CaliforniaDozens of Black employees at Tesla’s flagship plant in California said they were subject to racist slurs, unequal pay and promotions, and bullying by supervisors on a daily basis, a situation management did little to nothing to fix.Their complaints form the basis",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/sep/21/black-employees-accuse-tesla-fostering-discrimination",
+        "seendate": "2026-09-21T23:20:34.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Nvidia boss says there is ‘0% chance’ AI destroys the world by 2030",
         "summary": "Jensen Huang dismisses warnings from former Anthropic researcher and others as ‘doomsday narratives’ The boss of the chipmaker Nvidia has said AI will not develop to a point that will lead to the extinction of the human race within a few years, rejecting such assertions as overblown “doomsday narratives”.Jensen Huang, the co-founder and chief executive of the $5tn AI chipmaker, said the claims made o",
@@ -305,41 +337,17 @@
         "url": "https://www.theguardian.com/technology/2026/sep/21/nvidia-boss-jensen-huang-dismisses-warnings-ai-destroys-world-anthropic",
         "seendate": "2026-09-21T10:31:47.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Google fined more than €400m by Irish regulator over its use of location data",
-        "summary": "Watchdog says users may have been unaware their information was used to target adverts or infer their interestsGoogle has been fined more than €400m (£345m) over the way it processed users’ location data, following claims that the tech giant had manipulated users into agreeing to be constantly tracked on their mobile phones.The fine, imposed by Ireland’s Data Protection Commission (DPC), comes after",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/sep/21/google-is-fined-more-than-400m-by-irish-regulator-over-its-use-of-location-data",
-        "seendate": "2026-09-21T10:57:26.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "China bogeyman looms large over American firms’ AI doomsday scenario",
-        "summary": "Silicon Valley China hawks, Anthropic CEO Dario Amodei among them, fear the country surpassing US’s AI lead as much as superintelligence destroying humanityWhy China is pushing back on US warnings over rapid AI developmentWhen reporters asked Donald Trump th",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/ng-interactive/2026/sep/19/china-ai-foreign-policy-dario-amodei",
-        "seendate": "2026-09-19T10:00:45.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Sensitive UK police data vulnerable to ‘compromise’ by US government and foreign actors",
-        "summary": "Exclusive: Official UK security assessment found Microsoft cloud platform storing files was at potential risk from hostile hackersVast troves of highly sensitive police data are lying on Microsoft cloud platforms which an oﬃcial UK security assessment deemed to be vulnerable to “compromise” by foreign actors and the US government, a Guardian investigation can reveal.The files include criminal records",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/uk-news/2026/sep/18/sensitive-uk-police-data-vulnerable-to-compromise-by-us-government-and-foreign-actors",
-        "seendate": "2026-09-18T17:00:23.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Why Europe has been absent from the great AI safety debate",
-        "summary": "Though Europe has measures that address how consumers might encounter AI, technology will impact them if the worst scenarios bearEurope’s dilemma over AI was rendered in stark terms this week. The head of the continent’s central bank, Christine Lagarde, said Europeans have two options: shun the technology and lose out on growth; or embrace it and become dependent on tools developed by the US and China.<",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/sep/18/europe-ai-safety-debate",
-        "seendate": "2026-09-18T18:37:36.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "climate": [
+      {
+        "title": "Hats, pencils and baby pacifiers: Yellowstone staffers retrieve record amount of trash from hot springs",
+        "summary": "The park is the most highly visited and strong winds make trash problem worse, with gusts blowing away itemsHold on to your hats – Yellowstone national park staffers have removed a record-setting 20,100 pieces of trash from hydrothermal areas around the geyser-filled park so far this year",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/sep/22/yellowstone-trash-record",
+        "seendate": "2026-09-22T20:46:15.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "World leaders address climate crisis before UN meet amid record-breaking El Niño",
         "summary": "Prime ministers of Australia and Iceland discuss effects on their countries even as some shy away in face of war and inflationWorld political leaders are descending on New York for the UN general assembly and some of them are putting the climate crisis on the agenda as they spoke on Monday at the start of the city’s annual Climate Week.This year’s Climate Week – which runs alongside UNGA – comes afte",
@@ -371,56 +379,48 @@
         "url": "https://www.theguardian.com/environment/2026/sep/21/planetary-boundaries-breached-scientists-warn-climate-crisis",
         "seendate": "2026-09-21T14:00:33.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Bear-y good neighbors: humans and animals are learning to live together in an expanding LA",
-        "summary": "People are increasingly crossing paths with the wild animals as homes ring the outskirts of forests, sparking a new era of coexistenceEvery year, as summer draws to a close and fall begins, California’s bears get hungry.Black bears have long roamed the state, hunting for acorns, ants and pine nuts by the bucketload to pack on calories before hibernation. But increasingly, for every berry and root, th",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/sep/20/los-angeles-bear-coexistence",
-        "seendate": "2026-09-20T14:00:17.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "science": [
       {
-        "title": "BBB Warns : Be on the lookout for fake home warranty letters",
-        "summary": "As Fall approaches, scam artists continue to target homeowners with fake home warranty expiration letters that appear official but are fraudulent. Experts advise verifying any correspondence by contacting your mortgage lender directly to avoid falling victim to these scams.",
-        "source": "local3news.com",
-        "url": "https://www.local3news.com/local-news/bbb-warns-be-on-the-lookout-for-fake-home-warranty-letters/article_ab1f4766-0093-440c-97f9-2ba056a90f72.html",
-        "seendate": "20260922T010000Z",
-        "domain": "local3news.com"
+        "title": "Tree vaccines and gene-edited butterflies among biotechnology projects funded by UK ‘invention agency’",
+        "summary": "Exclusive: The tax-funded brainchild of Dominic Cummings hopes to find ways to speed up wild species’ evolutionVaccines for ash trees, skin treatments for newts and gene-edited swallowtail butterflies are among 14 tax-funded projects from the UK’s “in",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/environment/2026/sep/21/gene-edited-butterflies-vaccines-ash-trees-uk-science-projects-30m-funding",
+        "seendate": "2026-09-21T10:00:21.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Jipmer performs its first paediatric kidney transplant",
-        "summary": "Jipmer achieves a milestone with its first successful paediatric kidney transplant, led by the Department of Paediatrics.",
-        "source": "thehindu.com",
-        "url": "https://www.thehindu.com/news/cities/puducherry/jipmer-performs-its-first-paediatric-kidney-transplant/article71490459.ece",
-        "seendate": "20260922T010000Z",
-        "domain": "thehindu.com"
+        "title": "From paleo to intermittent fasting: are any diets actually good for us? - podcast",
+        "summary": "As diet trends proliferate on social media, it can be hard to work out which are backed by science and which should be ignored. From paleo to keto, raw food to intermittent fasting, each attracts a tribe of ardent followers. Now Daniel Lieberman, professor of biological sciences at Harvard University, has written a book to try to cut through the noise. In Fed Up, he uses his background as an evolutionary anthropol",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/lifeandstyle/audio/2026/sep/22/do-any-diets-actually-work-podcast",
+        "seendate": "2026-09-22T06:11:29.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Surging diesel prices add to affordability pressures weeks before midterms",
-        "summary": "Climbing prices for diesel fuel are adding to economic headwinds facing Republicans with just weeks left before the midterm elections as they confront prospects",
-        "source": "okcfox.com",
-        "url": "https://okcfox.com/news/connect-to-congress/surging-diesel-prices-add-to-affordability-pressures-weeks-before-midterms",
-        "seendate": "20260922T010000Z",
-        "domain": "okcfox.com"
+        "title": "US judge declines to block transfer of wildlife refuge land to Musk’s SpaceX",
+        "summary": "Environmental groups vow to continue opposition to deal that would expand site for Elon Musk rocket companyA federal judge on Monday refused to block the Trump administration from giving SpaceX more than 700 acres of wildlife refuge as part of a land swap in <a href=\"https://www.th",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/sep/21/judge-spacex-wildlife-refuge-musk",
+        "seendate": "2026-09-21T23:54:10.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Franklin County prosecutor wont pursue charges against Whitehall City Councilmember Gerald Dixon",
-        "summary": "Dixon was arrested a day before he was set to be sworn into a new term on council in December and accused of sexually abusing multiple underage boys dating back to 1996.",
-        "source": "wosu.org",
-        "url": "https://www.wosu.org/politics-government/2026-09-21/franklin-county-prosecutor-wont-pursue-charges-against-whitehall-city-councilmember-gerald-dixon",
-        "seendate": "20260922T010000Z",
-        "domain": "wosu.org"
+        "title": "Discovery of new Australian stick insect species reveals case of mistaken identity",
+        "summary": "New study describes two species, Anchiale robusta and Anchiale mabiensis, both found in far north QueenslandFollow our Australia news live blog for latest updates<a href=\"https://www.theguardian.com/e",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/australia-news/2026/sep/22/two-new-australian-stick-insect-species-found-queensland",
+        "seendate": "2026-09-21T15:00:35.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "TSS to Participate in the Singular Research Autumn Equinox Compelling Values Webinar",
-        "summary": "GEORGETOWN, TX / ACCESS Newswire / September 21, 2026 / TSS, Inc. (Nasdaq:TSSI), a data center services company that integrates AI and other high-performance co",
-        "source": "newjerseytelegraph.com",
-        "url": "http://www.newjerseytelegraph.com/news/279322125/tss-to-participate-in-the-singular-research-autumn-equinox-compelling-values-webinar",
-        "seendate": "20260922T010000Z",
-        "domain": "newjerseytelegraph.com"
+        "title": "‘Jaw-dropping’ El Niño bursts through temperature record months before peak",
+        "summary": "‘Godzilla-level’ phenomenon is supercharging the climate crisis and will have a huge impact on communities across the worldThe “jaw-dropping” El Niño currently heating up the planet has burst through the highest temperature ever recorded for the phenomenon, several months before its expected peak.The latest data shows the tempe",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/environment/2026/sep/21/super-el-nino-temperature-record",
+        "seendate": "2026-09-21T13:25:04.000Z",
+        "domain": "theguardian.com"
       }
     ]
   }
