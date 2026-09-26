@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T00:59:56.103Z",
+  "generatedAt": "2026-09-26T01:01:55.903Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
@@ -88,7 +88,31 @@
     ],
     "economy": [
       {
-        "title": "EU says Trump plan to ban US diesel exports would ‘negatively impact both sides’",
+        "title": "‘Your body fights to stay cool’: workers toil in record heat as federal rule frozen",
+        "summary": "Trump officials and Republicans are rolling back protections against heat-related illnesses and deathsWhen it’s 90F on a hot summer day, Esther Minton wears a long-sleeved shirt to work.“Working outside, you don’t have cover. There’s nowhere for you to really go if you’re on a roof or if you’re on the side of a building,” said Minton, a member of the Sheet Metal Workers Local Union 28 in New York Cit",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/environment/2026/sep/25/extreme-heat-regulations-trump",
+        "seendate": "2026-09-25T11:00:49.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Revealed: the undisclosed safety data emerging as weedkiller maker faces Parkinson’s lawsuits in US",
+        "summary": "Syngenta denies keeping relevant data from the EPA as paraquat stays in the US market despite global bansSweden started ringing the alarm bell more than 20 years ago, calling for a ban on the weedkilling chemical paraquat in 2004. One by one, dozens of other countries did the same as evidence of paraquat risks to human health mounted. Even the Chinese government, which owns the longtime paraquat maker <a hr",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/environment/ng-interactive/2026/sep/25/syngenta-paraquat-parkinsons-lawsuits-epa",
+        "seendate": "2026-09-25T12:00:50.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "White House television pool resumes after banned news outlets regain access",
+        "summary": "Trump’s media ban resulted in an effective TV blackout of coverage of the president during the UN general assemblyThe primary White House television pool has resumed filming administration events after a court ruling temporarily overturned a Trump administration ban on CN",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/media/2026/sep/25/trump-media-ban-white-house-pool",
+        "seendate": "2026-09-25T16:03:18.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "EU says Trump’s plan to ban US diesel exports would ‘negatively impact both sides’",
         "summary": "US president’s suggested 90-day export ban before midterm elections could bring even higher fuel prices across EuropeThe EU has warned Donald Trump against plans to ban US diesel exports to the global market, saying the move would negatively affect Europe and the US.The European Commission has reacted with “concern” to",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/business/2026/sep/24/eu-trump-diesel-export-ban-fuel-prices-europe",
@@ -102,33 +126,33 @@
         "url": "https://www.theguardian.com/business/2026/sep/24/mortgage-rates-housing-market",
         "seendate": "2026-09-24T16:31:58.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "CNN and MS Now journalists denied access to White House state dinner despite court ruling",
-        "summary": "Other news networks boycott dinner in honor of Xi Jinping after officials deny CNN and MS Now permissionUS politics live – latest updatesJournalists for CNN and MS Now were denied access to the White House state dinner in honor of Xi Jinping, China’s pr",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/sep/24/judge-orders-trump-restore-white-house-access-cnn-ms-now-politico-media-ban",
-        "seendate": "2026-09-25T00:24:54.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "JoAnn Fabrics fans seek to stitch void left by private equity with crafts co-op",
-        "summary": "US crafters are looking to build a communal network to replace the company after it was bankrupted by private equity investors in 2025To its dedicated fans, JoAnn Fabrics wasn’t just a fabric store. It was a vital hub for small businesses – wedding dress makers, upholsters, milliners and rug repairers. It taught generations to make, fix and craft. A visit sparked new ideas in a way that shopping online just",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/sep/24/joann-fabrics-fans-crafts-co-op",
-        "seendate": "2026-09-24T11:00:16.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Stung by Trump, machinists union campaigns for affordability in midterms",
-        "summary": "One of the largest labor unions in the US targets eight battleground states in ‘workers v billionaires’ campaignThe International Association of Machinists and Aerospace Workers (IAM), one of the largest labor unions in the US, has launched a “workers v billionaires” political campaign tour target",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/sep/23/machinists-union-midterms-workers-billionaires",
-        "seendate": "2026-09-23T11:00:47.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "literature": [
+      {
+        "title": "‘My generation of novelists is dying’: Rose Tremain on 70 years of writing, and late-life inspiration",
+        "summary": "As her latest novel about Daphne du Maurier is published, the bestselling author reflects on age and creativity – and why at 83 she has no plans to stop My generation of writers is dying. Of&nbsp;Granta’s fabled list of 20 Best of Young British Novelists, 1983, six&nbsp;are gone, including our most princely satirist, Martin Amis. We’re all approaching birthdays where the cake is too small&nbsp;for the candl",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/sep/25/my-generation-of-novelists-is-dying-rose-tremain-on-70-years-of-writing-and-late-life-inspiration",
+        "seendate": "2026-09-25T09:00:45.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "The best recent crime and thrillers – review roundup",
+        "summary": "Murder at the Grand Alpine Hotel by Lucy Foley; The Silent Appeal by Janice Hallett; Cold Sunset by William Boyd; The Occidental Book of the Dead by T Geronimo Johnson and The Last Tenant by Eva Björg ÆgisdóttirMurder at the Grand Alpine Hotel<",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/sep/25/the-best-recent-and-thrillers-review-roundup",
+        "seendate": "2026-09-25T11:00:48.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Can’t Get You Out of My Head by Michael Cragg review – what’s the secret of Kylie’s genius?",
+        "summary": "The pop star emerges as a great unifier in this in-depth yet heartfelt portrait of an Aussie icon‘There’s an anxiety in declaring oneself a Kylie fan,” wrote the late San Francisco poet Kevin Killian (who nonetheless once published an entire collection devoted to the singer). Despite her remarkable longevity, with record-breaking chart success across five decades, Kylie’s place in the pop firmament has ofte",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/music/2026/sep/25/cant-get-you-out-of-my-head-by-michael-cragg-review-whats-the-secret-of-kylies-genius",
+        "seendate": "2026-09-25T06:00:41.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Yellow Dog by Martin Amis review – Bill Nighy has a ball",
         "summary": "From spoof monarch to porn tycoon, the actor narrator goes to town on the larger-than-life characters in this Booker-nominated satire In the 2003 novel Yellow Dog, Xan Meo is set upon by two men in a pub who cosh him over the head: “Like the statue of a fallen tyrant, he crashed sideways into the damp paving, and lay still.” Meo is a writer and actor whose late father was a dangerous gangster; the attack is",
@@ -144,160 +168,160 @@
         "url": "https://www.theguardian.com/books/2026/sep/24/exit-party-by-emily-st-john-mandel-review-alternate-visions-of-post-crisis-america",
         "seendate": "2026-09-24T06:00:10.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Previous winners Marlon James and Douglas Stuart shortlisted for Booker prize",
-        "summary": "The two authors are in the running for the £50,000 award alongside a Pulitzer winner, a science fiction legend, a comic writer and a debut novelist• Booker judge Mary Beard on this year’s shortlistThis year’s Booker prize shortlist features some very familiar",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/sep/22/booker-prize-shortlist-pulitzer-previous-winners",
-        "seendate": "2026-09-22T18:55:24.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Britain’s Slave Traders by William A Pettigrew review – the inconvenient truth",
-        "summary": "This revelatory history shows just how deeply embedded slavery is in the foundations of modern BritainOne tedious aspect of Britain’s post-imperial melancholia is the&nbsp;number of amateur historians who would rather we stopped going on about our role in the&nbsp;slave trade. Isn’t it all in the past? Weren’t we the first to abolish it anyway? In April, the Reform party announced a <a href=\"https://www.the",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/sep/23/britains-slave-traders-by-william-a-pettigrew-review-the-inconvenient-truth",
-        "seendate": "2026-09-23T06:00:16.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "The Complex by Karan Mahajan review – a superb family saga set in Delhi",
-        "summary": "At once a grand sweep through history and a domestic novel of petty differences, this tale of corruption and betrayal is packed with drama We learn about the murder of&nbsp;the Chopra clan’s shifty, crude, charismatic patriarch Laxman in the opening pages of The Complex. Twenty-five years have passed, but the stain on this once-respectable Punjabi family remains. The man who did it, Laxman’s nephew Brij, ha",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/sep/23/the-complex-by-karan-mahajan-review-a-superb-family-saga-set-in-delhi",
-        "seendate": "2026-09-23T08:00:19.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "entertainment": [
       {
-        "title": "Macklemore announces Free Palestine tour to benefit humanitarian aid organisations",
-        "summary": "The US rapper, removed from Ed Sheeran’s US stadium tour after voicing support of Palestine, has convened a charity show that will visit Dublin, Paris and London, with a North American run to be announcedMacklemore has announced a “Free Palestine” tour, a series of live shows that will feature the US rapper performing alongside musicians and friends to raise funds for humanitarian causes in Palestine.<p",
+        "title": "Taylor Swift: The Life of a Showgirl: The Encore review – flashes of humanity and bafflingly vindictive love songs",
+        "summary": "(Republic)This four-track addition to a critically maligned album works hard to remind fans what they love about Swift, with some sweet highs and galling lowsOne downside of turning your release strategies into scavenger hunts and layering clues within your work is that it invites enormous amounts of scrutiny about your potential motive. When Taylor Swift announced an expanded edition o",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/music/2026/sep/24/macklemore-free-palestine-tour-ed-sheeran",
-        "seendate": "2026-09-24T16:05:09.000Z",
+        "url": "https://www.theguardian.com/music/2026/sep/25/taylor-swift-the-life-of-a-showgirl-the-encore-review",
+        "seendate": "2026-09-25T13:13:33.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Seth Meyers on Trump’s praise of Xi Jinping: ‘Not even Chinese citizens gush this much about Xi’",
-        "summary": "Late-night hosts discussed Donald Trump’s unusually lavish state reception for the visiting Chinese leaderLate-night hosts reacted to Donald Trump’s lavish praise for visiting Chinese leader Xi Jinping and Republicans’ desperate efforts to save their chances in the midterms. <a href=\"",
+        "title": "Jimmy Kimmel: ‘The only thing more unwelcome in the Oval Office than CNN is a salad’",
+        "summary": "Late night hosts discussed the overturning of Trump’s White House media ban and Xi Jinping’s visitOn Thursday’s late night shows, hosts discussed Donald Trump’s visit by Xi Jinping, reports of China gifting two giant pandas to the US and news that the White House had lifted their press ba",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/culture/2026/sep/24/seth-meyers-trump-praise-xi-jinping",
-        "seendate": "2026-09-24T15:25:29.000Z",
+        "url": "https://www.theguardian.com/culture/2026/sep/25/jimmy-kimmel-recap-trump-white-house-media-ban",
+        "seendate": "2026-09-25T15:00:49.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Big Little Truths by Liane Moriarty review – Big Little Lies sequel shoots for high drama but fails to deliver",
-        "summary": "At 400-plus pages, Moriarty’s follow-up is too long and offers too little reward, with menopause, vaping teens and even a stalker failing to raise the stakesLiane Moriarty’s Big Little Lies was such a runaway success – debuting at No 1 on the New York Times bestseller list and <a href=\"https://www.theguardian.com/tv-and-radio/2017/feb/17/big-little-lies-nicole-kidman-and-reese-witherspoon-shine-in-masterful",
+        "title": "Always a joker: Magda Szubanski reveals Heath Ledger asked to play her stalker on Kath and Kim",
+        "summary": "In her new memoir, I Can’t Tell You But I Will, Szubanski recalls how Ledger enjoyed their improvised kiss so much that he asked to be on the sitcomIt was the pash that stopped the nation. At the 2006 Australian Film Institute awards, Heath Ledger was being interviewed by a TV journalist when a screech made everyone jump. Magda Szubanski, who was wandering the red carpet in character as her graceless Kath a",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/sep/24/big-little-truths-by-liane-moriarty-book-review",
-        "seendate": "2026-09-24T15:00:22.000Z",
+        "url": "https://www.theguardian.com/culture/2026/sep/26/magda-szubanski-memoir-reveals-heath-ledger-kiss-kath-and-kim-stalker-role",
+        "seendate": "2026-09-25T15:00:10.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Price hikes, ads and lower quality: has ‘streamflation’ ruined the TV experience?",
-        "summary": "US consumers are starting to opt out of the streaming world as several services raise prices without offering many perksIt may not be quite as politically buzzy as the price of gasoline or eggs, but another household expense is going up for millions of people. Disney has brought the price-gouging experience of its theme park home again by raising the prices of most iterations and bundles of its Disney+ and",
+        "title": "Ace Combat 8: Wings of Theve review – brilliant aerial combat game fulfils the Top Gun fantasy",
+        "summary": "PlayStation 5, Xbox, PC (version played); Bandai NamcoThe game generates blood-pumping moments as you twist, turn and weave through the skies, while your locked-on missiles speed away to obliterate an enemy planeThe core appeal of any Ace Combat game lies in the moment when the beautiful clouds part, the sunlight glints off your perfectly rendered state-of-the-art fighter jet, and guita",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/sep/24/streaming-services-inflation-ads",
-        "seendate": "2026-09-24T14:04:25.000Z",
+        "url": "https://www.theguardian.com/games/2026/sep/25/ace-combat-8-wings-of-theve-review",
+        "seendate": "2026-09-25T14:00:08.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Greek epics, gory obsessions and awkward invites: where does this year’s Oscars race stand?",
-        "summary": "Christopher Nolan’s The Odyssey might be the one to beat but a crop of competitors is starting to materialiseReporting from fall film festivals used to be a more streamlined process – what’s good, what’s bad, what’s being sold, what has Oscars chances – but with each year, the season arrives with larger, more existential questions.The 2025 run, fr",
+        "title": "Woman who accused Jay-Z of raping her aged 13 says claims were false",
+        "summary": "Unnamed woman who filed and later dropped lawsuit against rap superstar states that she never met him, contrary to initial allegation of 2000 assaultA woman who accused Jay-Z of raping her when she was 13 years old has formally withdrawn her allegation, saying that she has n",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/sep/24/oscar-movie-contenders-predictions",
-        "seendate": "2026-09-24T09:00:14.000Z",
+        "url": "https://www.theguardian.com/music/2026/sep/25/woman-who-accused-jay-z-of-raping-her-aged-13-says-claims-were-false",
+        "seendate": "2026-09-25T13:00:58.000Z",
         "domain": "theguardian.com"
       }
     ],
     "f1": [
       {
-        "title": "David Coulthard warns \"heads will roll\" if Williams FW48 upgrade fails",
-        "summary": "Former Formula 1 driver David Coulthard has warned that \"heads will roll\" if Williams's upgraded FW48 fails to deliver an immediate step forward in performance. The Grove outfit has struggled all season with an overweight car. After 14 rounds, it sits ninth in the constructors' championship with 11 points: six points from Carlos Sainz and five points from Alex Albon.But it has now ...<a class='more'",
+        "title": "Oscar Piastri: I need a tow bar to hook onto Mercedes to fight for Baku win",
+        "summary": "Having qualified third in Baku after enduring a difficult build-up to the main sessions, Oscar Piastri was happy with the grid position he earned for Formula 1's Azerbaijan Grand Prix.However, the McLaren driver thinks expecting to go much further in the race is unrealistic, given the gap to Mercedes. While the Australian lost just 0.001s to Charles Leclerc in Q3, the deficit to George ...<a class='more'",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/david-coulthard-warns-heads-will-roll-if-williams-fw48-upgrade-fails/10858684/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-24T17:10:05.000Z",
+        "url": "https://www.motorsport.com/f1/news/oscar-piastri-i-need-a-tow-bar-to-hook-onto-mercedes-to-fight-for-baku-win/10859038/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-25T23:00:02.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Why Mercedes’ huge Baku practice advantage may not be the real picture",
-        "summary": "Mercedes made a very strong statement during Thursday’s practice sessions at the Baku City Circuit. George Russell topped the times in both sessions, with the first non-Mercedes car almost a second adrift at the end of the day (Max Verstappen at 0.827s).Mercedes will introduce its long-awaited upgrade package for the W17 in Malaysia, but even without new parts on the car, rivals have been ...<a class='more'",
+        "title": "Guenther Steiner calls out Williams over F1 infrastructure complaints: \"Crocodile tears\"",
+        "summary": "Former Haas Formula 1 team principal Guenther Steiner has labelled Williams's complaints regarding capital expenditure limits \"crocodile tears\", questioning team boss James Vowles for continually moving the timeline for the Grove outfit's recovery.Since taking over Williams in 2023, the Briton has repeatedly pointed to the team's outdated infrastructure as a primary limiting factor in its bid ...<a class",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/out-of-reach-or-not-the-real-picture-why-mercedes-thinks-it-is-so-far-ahead-in-baku/10858680/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-24T17:07:24.000Z",
+        "url": "https://www.motorsport.com/f1/news/guenther-steiner-calls-out-williams-over-f1-infrastructure-complaints-crocodile-tears/10859062/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-25T20:23:14.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "F1 Azerbaijan GP: Friday schedule, weather forecast and how to watch",
-        "summary": "Formula 1 heads into Friday in Baku with Mercedes firmly on top after George Russell led championship leader Kimi Antonelli in second practice for the Azerbaijan GP.Russell topped FP2 by more than half a second from his team-mate, with Max Verstappen third for Red Bull. Charles Leclerc and Lewis Hamilton followed in fourth and fifth, while Lando Norris was the leading McLaren in sixth after ...<a class='",
+        "title": "Stefano Domenicali reveals bizarre Jimmy Fallon prank at Miami GP Michelin-starred dinner",
+        "summary": "Formula 1 CEO Stefano Domenicali has detailed a bizarre off-track encounter with American television host Jimmy Fallon, who interrupted his business dinner at a Michelin-starred restaurant by sending a takeaway pizza to his table.Domenicali made an appearance on The Tonight Show Starring Jimmy Fallon ahead of the Azerbaijan Grand Prix, and the pair reflected on Fallon's first experience of F1 ...<a class",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/f1-azerbaijan-gp-friday-schedule-weather-forecast-and-how-to-watch/10858665/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-24T16:31:25.000Z",
+        "url": "https://www.motorsport.com/f1/news/stefano-domenicali-reveals-bizarre-jimmy-fallon-prank-at-miami-gp-michelin-starred-dinner/10859056/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-25T19:58:49.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Jacques Villeneuve identifies barrier facing female F1 drivers after Jamie Chadwick Williams test",
-        "summary": "1997 Formula 1 champion Jacques Villeneuve says the lack of female drivers on the current grid is fundamentally a numbers game.Speaking on Sky Sports F1 in Azerbaijan alongside three-time W Series champion Jamie Chadwick, who became the first woman in over a decade to test a Williams F1 car this week, Villeneuve pointed to the small talent pool as a major issue for women in ...<a class='more' href='https",
+        "title": "F1 closing in on 1 billion fans as Stefano Domenicali hails female audience growth",
+        "summary": "Formula 1 CEO Stefano Domenicali says the championship is closing in on 1 billion global fans, driven by a younger audience, an increase in female viewership and more access to driver personalities.Speaking during an appearance on The Tonight Show Starring Jimmy Fallon, Domenicali discussed F1's ongoing expansion and its success in growing in the United States.\"We are almost at 1 billion ...<a class=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/jacques-villeneuve-identifies-barrier-facing-female-f1-drivers-after-jamie-chadwick-williams-test/10858643/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-24T16:16:31.000Z",
+        "url": "https://www.motorsport.com/f1/news/f1-closing-in-on-1-billion-fans-as-stefano-domenicali-hails-female-audience-growth/10859054/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-25T19:31:31.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Lando Norris: McLaren’s Baku deficit is a “knife in the heart”",
-        "summary": "Lando Norris has described McLaren’s lack of performance at Formula 1’s Azerbaijan Grand Prix as “a little knife in the heart”.Norris took a lowly 14th in the opening practice session on Thursday, 1.6s slower than George Russell’s benchmark – although team-mate Oscar Piastri was just one second down. His deficit was 1.5s as he drove to sixth in FP2, with Red Bull and Ferrari ...<a class='more' href='http",
+        "title": "Williams’ long-awaited F1 upgrade is delivering in Baku – but was Q3 an “overachievement”?",
+        "summary": "Williams’ 2026 car had infamously been overweight after Formula 1 switched to a new technical ruleset, but a brand-new chassis introduced at the Azerbaijan Grand Prix has provided substantial performance.Carlos Sainz was consistently quick in Baku, finishing 11th in Q1, then ninth in the next two segments of qualifying. Williams had never done so well this year – its best results had been ...<a class='mo",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/lando-norris-mclarens-baku-deficit-is-a-knife-in-the-heart/10858617/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-24T15:36:54.000Z",
+        "url": "https://www.motorsport.com/f1/news/williams-upgrade-delivering-baku-overachievement/10859048/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-25T18:36:43.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "14 days in Dragon Shelter: A play by play of my first season in the Stardew-style farm sim where dragons help bake pies",
-        "summary": "I'm trying out the new farm sim with dragon-assisted cooking to see if it could be my next obsession.",
+        "title": "A running tally of the most ridiculous things AI bigwigs have said so far",
+        "summary": "Clear as mud.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/life-sim/14-days-in-dragon-shelter-a-play-by-play-of-my-first-season-in-the-stardew-style-farm-sim-where-dragons-help-bake-pies/",
-        "seendate": "2026-09-25T00:46:20.000Z",
+        "url": "https://www.pcgamer.com/games/live/news/what-are-the-ai-guys-saying-now/",
+        "seendate": "2026-09-26T00:12:34.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Call of Duty 'cosmetic toggle' will cleanse Warzone of its Party City aesthetic",
-        "summary": "Is the toggle a half measure?",
+        "title": "I did the math on my Wardogs XP grind, and now I wish I hadn't",
+        "summary": "The Wardogs grind is real, and kind of exhausting.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/call-of-duty/call-of-duty-cosmetic-toggle-will-cleanse-warzone-of-its-party-city-aesthetic/",
-        "seendate": "2026-09-24T21:54:30.000Z",
+        "url": "https://www.pcgamer.com/games/fps/i-did-the-math-on-my-wardogs-xp-grind-and-now-i-wish-i-hadnt/",
+        "seendate": "2026-09-25T23:47:08.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "8 strong Elder Scrolls opinions: With over 2,500 combined hours (and not all as stealth archers), we shout at each other about Skyrim, Morrowind, and Oblivion",
-        "summary": "Five editors Mid-Vur-Share their thoughts for the past and future of the series.",
+        "title": "My favorite $6 RPG on Steam just got a beastmode free 'Enhanced Edition' update",
+        "summary": "It's actually on sale for $4 at the moment.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/the-elder-scrolls/8-strong-elder-scrolls-opinions-with-over-2-500-combined-hours-and-not-all-as-stealth-archers-we-shout-at-each-other-about-skyrim-morrowind-and-oblivion/",
-        "seendate": "2026-09-24T21:15:36.000Z",
+        "url": "https://www.pcgamer.com/games/rpg/my-favorite-usd6-rpg-on-steam-just-got-a-beastmode-free-enhanced-edition-update/",
+        "seendate": "2026-09-25T22:26:16.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "The best Valheim mods for no-nonsense crafting, portable building plans, and more RNG sightseeing",
-        "summary": "And best of all, these mods are 1.0-ready.",
+        "title": "Guess who patented a new system for in-game ads",
+        "summary": "The future's so bright you gotta wear shades.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/survival-crafting/best-valheim-mods/",
-        "seendate": "2026-09-24T21:08:12.000Z",
+        "url": "https://www.pcgamer.com/gaming-industry/guess-who-patented-a-new-system-for-in-game-ads/",
+        "seendate": "2026-09-25T22:10:04.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "After mainlining 30 hours of 1440p Bloodborne, I know in my heart it belongs on PC",
-        "summary": "You can force it, but it shouldn't be so unapproachable.",
+        "title": "'I sit in terror looking at the 750,000 wishlists': A nervous dev brings a classic Flash game to Steam",
+        "summary": "\"I realistically was thinking maybe 5k at best,\" says the maker of ragdoll physics game Happy Wheels.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/after-mainlining-30-hours-of-1440p-bloodborne-i-know-in-my-heart-it-belongs-on-pc/",
-        "seendate": "2026-09-24T20:17:55.000Z",
+        "url": "https://www.pcgamer.com/games/i-sit-in-terror-looking-at-the-750-000-wishlists-a-nervous-dev-brings-a-classic-flash-game-to-steam/",
+        "seendate": "2026-09-25T21:13:49.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
+      {
+        "title": "Launch of UK’s ‘largest AI supercomputer’ delayed by power supply problems",
+        "summary": "Datacentre hailed by government was supposed to start operating next year but may be held back into mid-2030sA huge datacentre project hailed by the UK government will miss its launch date next year and could be delayed into the mid-2030s.The site in Loughton, Essex, was described as the country’s largest AI supercomputer when it was announced in 2025, but power supply problems mean it now faces a le",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/sep/24/construction-largest-supercomputer-delayed",
+        "seendate": "2026-09-24T17:26:26.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "The comedians turning AI anxiety into punchlines: ‘It’s so good, it’ll completely alter our grasp on reality’",
+        "summary": "Across videos, standup and cartoons, humorists are skewering big tech’s attempt to make AI ubiquitous and inevitable“Best case scenario, we never have to do any admin again,” says an AI CEO. “Worst case, we all die.”A young man struggles to the top of a beautiful mountain, words echoing in hi",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/sep/25/ai-anxiety-comedy",
+        "seendate": "2026-09-25T12:00:50.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "TikTok drops appeal against £12.7m fine for not keeping under-13s off platform",
+        "summary": "UK watchdog fined video app in 2023 for failing to enforce minimum age limit and remove underage usersTikTok will pay a £12.7m fine to the UK’s data watchdog after dropping an appeal against a ruling that it did not do enough to keep children below the age of 13 off the platform.The video app was <a href=\"https://www.theguardian.com/technology/2023/apr/04/tiktok-fined-uk-data-protection-law-breaches\"",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/sep/24/tiktok-drops-appeal-over-fine-for-not-keeping-under-13s-off-platform",
+        "seendate": "2026-09-24T15:00:34.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Nick Clegg plays down fears ‘godlike’ AI could exterminate humanity",
         "summary": "Former deputy PM now involved in tech industry says many within sector are ‘winding themselves up into a lather’Nick Clegg has dismissed fears over AI’s “godlike power to exterminate humanity”, calling it a sign that tech bosses are “breathing their own fumes”.The former UK deputy prime minister said that tech bosses should focus on addressing known specific threats such as cybersecurity and bioweapo",
@@ -313,33 +337,41 @@
         "url": "https://www.theguardian.com/technology/2026/sep/23/andy-burnham-national-centre-russian-disinformation-deepfakes",
         "seendate": "2026-09-23T07:52:20.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "OpenAI’s George Osborne says datacentre nimbys holding back Britain",
-        "summary": "Former chancellor, now senior figure at OpenAI, says UK needs datacentres to maintain ‘sovereignty’ over AI techUK politics live – latest updatesDatacentre nimbys are holding Britain back, George Osborne has said in reaction to nationwide protests",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/politics/2026/sep/22/george-osborne-ai-datacentre-nimbys-holding-back-britain",
-        "seendate": "2026-09-22T11:46:01.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Using AI to ‘talk to animals’ might make us feel clever – but what, if anything, does it do for them?",
-        "summary": "As animal behaviorists increasingly use AI in their research, they grapple with how to wield the technology responsiblyI’m sitting in a small boat in Shark Bay, Australia, eavesdropping on a conversation between some of Earth’s most intelligent beings. The motor is off, the turquoise sea is glassy, and Stephanie King and I are motionless, transfixed by the whistles, clicks and squeezy, whirring noises made",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/ng-interactive/2026/sep/22/animal-language-recordings-ai",
-        "seendate": "2026-09-22T12:00:54.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Stop relying on AI chatbots for customer care, UK banks and energy firms told",
-        "summary": "Citizens Advice says providers of essential services such as energy, banking, phone and internet should guarantee the ‘right to talk to a human’Stop relying on AI chatbots for customer care and guarantee the “right to talk to a human”, Citizens Advice has urged essential service providers, as research found they wasted time, caused stress and delayed problem solving for more than half of users.The sp",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/sep/21/stop-relying-on-chatbots-for-customer-care-uk-service-providers-urged",
-        "seendate": "2026-09-21T16:35:31.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "climate": [
+      {
+        "title": "New Jersey datacenter fined $1.1m after visual investigation showed dozens of unpermitted generators",
+        "summary": "State regulator’s record fine for DataOne facility in Vineland follows Floodlight investigation with the GuardianNew Jersey regulators issued their largest-ever fine against a datacenter on Tuesday following a recent Floodlight investigation <a href=\"https://www.the",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/environment/2026/sep/25/new-jersey-fines-datacenter-unpermitted-generators",
+        "seendate": "2026-09-25T15:52:21.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Revealed: the undisclosed safety data emerging as weedkiller maker faces Parkinson’s lawsuits in US",
+        "summary": "Syngenta denies keeping relevant data from the EPA as paraquat stays in the US market despite global bansSweden started ringing the alarm bell more than 20 years ago, calling for a ban on the weedkilling chemical paraquat in 2004. One by one, dozens of other countries did the same as evidence of paraquat risks to human health mounted. Even the Chinese government, which owns the longtime paraquat maker <a hr",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/environment/ng-interactive/2026/sep/25/syngenta-paraquat-parkinsons-lawsuits-epa",
+        "seendate": "2026-09-25T12:00:50.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Trump’s executive order on recreational fishing is a ‘giveaway of fish and ocean ecosystem’, advocates warn",
+        "summary": "Federal agencies told to prioritize recreational fishing and to reconsider scientific standards as well as regulationsDonald Trump’s latest fishing order is raising new concerns about US marine protections, as it directs federal agencies to prioritize recreational fishing while reconsidering the scientific standards and environmental regulations that govern American fisheries.The National Marine Fish",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/sep/25/recreational-fishing-trump-executive-order",
+        "seendate": "2026-09-25T12:00:50.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "‘Your body fights to stay cool’: workers toil in record heat as federal rule frozen",
+        "summary": "Trump officials and Republicans are rolling back protections against heat-related illnesses and deathsWhen it’s 90F on a hot summer day, Esther Minton wears a long-sleeved shirt to work.“Working outside, you don’t have cover. There’s nowhere for you to really go if you’re on a roof or if you’re on the side of a building,” said Minton, a member of the Sheet Metal Workers Local Union 28 in New York Cit",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/environment/2026/sep/25/extreme-heat-regulations-trump",
+        "seendate": "2026-09-25T11:00:49.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Gavin Newsom condemns Democrats’ ‘climate hushing’, predicts Trump’s downfall and expects AOC to run in 2028",
         "summary": "Democrats must show links of climate shocks to ‘kitchen table’ issues, California governor saysIt’s a mistake for Democratic politicians not to talk about climate change, and the reason they don’t is “because they don’t know how to talk about it”, the California governor,",
@@ -347,79 +379,47 @@
         "url": "https://www.theguardian.com/us-news/2026/sep/24/gavin-newsom-interview-trump-aoc",
         "seendate": "2026-09-24T16:00:24.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Fossil-fuel firms in line for billions in benefits after answering Trump’s donation call",
-        "summary": "Senators’ report says taxpayers face higher bills after ‘bargain’ between president and major pollutersThe fossil fuel industry secured an estimated $190bn in tax breaks and subsidies over the next decade after responding to Donald Trump’s pre-election call for major campaign donations, leaving American taxpayers to shoulder higher bills and public health costs associated with pollution, according to a new",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/sep/24/fossil-fuels-trump-donations",
-        "seendate": "2026-09-24T12:30:17.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "In historic first, tropical turtles spotted nesting on California beaches",
-        "summary": "What caused the turtles to begin nesting farther north than usual is the ‘million dollar question’A sea turtle crawled out of the surf in southern California last weekend around sunset and started laying eggs in the sand.People on Huntington Beach who saw the female olive ridley sea turtle were shocked and excited. And they weren’t the only ones freaking out, said Justin Viezbicke, the California str",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/sep/23/sea-turtle-nesting-california-beaches",
-        "seendate": "2026-09-24T00:32:02.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Twenty years after An Inconvenient Truth, Al Gore still believes in the climate fight: ‘We are going to win this’",
-        "summary": "Former US vice-president still has optimism for climate advocacy two decades after groundbreaking documentaryTwo decades after the release of his groundbreaking documentary An Inconvenient Truth, Al Gore has admitted he was surprised by the ferocious backlash from the fossil fuel industry and its political allies. But the former US vice-president insists he still has optimism the world will confront the cli",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/sep/23/al-gore-climate-crisis-an-inconvenient-truth",
-        "seendate": "2026-09-23T21:43:16.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "At Climate Week, Elmo recalls a storm on Sesame Street: ‘Courage is when you still help others’",
-        "summary": "New York event hears about the red Muppet’s fears during a recent storm as climate crisis increasingly affects childrenA generation of political leaders has failed to galvanize sufficient action on the climate crisis for so long now that it was perhaps little surprise that an audience in <a href=\"https://www.theguardian.com/us-news/new-yor",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/2026/sep/23/elmo-new-york-climate-week-sesame-street-storm",
-        "seendate": "2026-09-23T10:00:47.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "science": [
+      {
+        "title": "‘Gamechanging’ brain tumour test reduces diagnosis from eight weeks to two hours",
+        "summary": "NHS England says test can be done while patient is on operating table and is being piloted in five centres around the countryA rapid new test for brain tumours can diagnose patients while they are still on the operating table.Scientists have called the development “gamechanging” and said it could secure early treatment for those who “do not have time on their side”. <a href=\"https://www.theguardi",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/society/2026/sep/25/gamechanging-brain-tumour-test-reduces-diagnosis-eight-weeks-two-hours",
+        "seendate": "2026-09-25T11:53:43.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "DNA database of UK dogs could help police collar criminals",
+        "summary": "Experts working on database that could identify particular breeds involved in crimes, or rule out canine suspectsFrom tracking criminals to sniffing out drugs, dogs have long helped police crack cases. Now experts are hoping a database of canine DNA could offer vital leads.While hair, saliva and other canine material may be found at crime scenes, or on individuals connected to incidents, scientists s",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/sep/25/dna-database-uk-dogs-vital-evidence-police-criminals",
+        "seendate": "2026-09-25T12:00:49.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Ancient wall found beneath Paris could confirm site of first settlement",
+        "summary": "Discovery of Gallo-Roman period structure hailed as ‘major breakthrough’ by French culture ministryAn ancient wall discovered beneath Paris has been described as a “major breakthrough” by France’s culture ministry, with the archaeological find possibly confirming the location of the city’s original settlement.A roughly 20-metre (65ft) stretch of wall dating from the <a href=\"https://www.theguardian.c",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/sep/23/ancient-wall-paris-first-settlement-archaeology-roman",
+        "seendate": "2026-09-23T12:06:21.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Bats originated in Europe, rewriting mammals’ family tree, study reveals",
+        "summary": "Biggest study of its kind provides insights into bats’ evolution – a potential gamechanger for research into treating viruses and cancer in humansIn the northern forests of the Congo-Brazzaville, as the sun slips away, a distinctive honking fills the dusky sky. Every evening, thousands of hammer-headed fruit bats depart their daytime roosts in search of mates, calling out through large, box-shaped sn",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/environment/2026/sep/23/bats-originated-in-europe-disease-study-reveals-aoe",
+        "seendate": "2026-09-23T15:00:52.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Glimpses into lives of Roman suburbanites in Bath revealed in rare finds",
         "summary": "Exclusive: Restoration work at Bath Assembly Rooms unearths Roman ditches containing pottery, coins and fragments of a military helmetThe restoration of a Georgian building in Bath once frequented by Jane Austen has unexpectedly provided a tantalising glimpse into the life of the city’s Roman suburbanites.A network of Roman ditches containing pottery, coins, glassware and a fragment of a military hel",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/science/2026/sep/23/archaeologists-clues-suburban-life-roman-times-bath",
         "seendate": "2026-09-23T06:00:19.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Are baby girls more sociable? Super El Niño, meningitis outbreak explained – podcast",
-        "summary": "Madeleine Finlay sits down with her co-host and Guardian science editor, Ian Sample, to discuss three science stories from the week, including a study that offers a clue in the age-old debate about whether sex differences are present from birth or a product of socialisation. Also on the agenda is the super El Niño, which is predicted to lead to 450,000 deaths in the next six months, and an answer",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/audio/2026/sep/24/are-baby-girls-more-sociable-super-el-nino-meningitis-outbreak-explained-podcast",
-        "seendate": "2026-09-24T04:00:07.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "How opencast mining risks reawakening dormant geological faults",
-        "summary": "New study finds subsidence caused by groundwater extraction can take place as far as 20km from site of mineThe impact of opencast mining goes far beyond the edge of the pit. Studies of an opencast coalmine in western Germany show that opencast mining triggered ex",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/sep/23/how-opencast-mining-risks-reawakening-dormant-geological-faults",
-        "seendate": "2026-09-23T05:00:15.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Tree vaccines and gene-edited butterflies among biotechnology projects funded by UK ‘invention agency’",
-        "summary": "Exclusive: The tax-funded brainchild of Dominic Cummings hopes to find ways to speed up wild species’ evolutionVaccines for ash trees, skin treatments for newts and gene-edited swallowtail butterflies are among 14 tax-funded projects from the UK’s “in",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/2026/sep/21/gene-edited-butterflies-vaccines-ash-trees-uk-science-projects-30m-funding",
-        "seendate": "2026-09-21T10:00:21.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "From paleo to intermittent fasting: are any diets actually good for us? - podcast",
-        "summary": "As diet trends proliferate on social media, it can be hard to work out which are backed by science and which should be ignored. From paleo to keto, raw food to intermittent fasting, each attracts a tribe of ardent followers. Now Daniel Lieberman, professor of biological sciences at Harvard University, has written a book to try to cut through the noise. In Fed Up, he uses his background as an evolutionary anthropol",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/lifeandstyle/audio/2026/sep/22/do-any-diets-actually-work-podcast",
-        "seendate": "2026-09-22T06:11:29.000Z",
         "domain": "theguardian.com"
       }
     ]
