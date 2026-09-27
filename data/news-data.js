@@ -1,5 +1,5 @@
 window.NEWS_CACHE = {
-  "generatedAt": "2026-09-26T01:01:55.903Z",
+  "generatedAt": "2026-09-27T01:00:27.127Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
@@ -88,11 +88,11 @@ window.NEWS_CACHE = {
     ],
     "economy": [
       {
-        "title": "‘Your body fights to stay cool’: workers toil in record heat as federal rule frozen",
-        "summary": "Trump officials and Republicans are rolling back protections against heat-related illnesses and deathsWhen it’s 90F on a hot summer day, Esther Minton wears a long-sleeved shirt to work.“Working outside, you don’t have cover. There’s nowhere for you to really go if you’re on a roof or if you’re on the side of a building,” said Minton, a member of the Sheet Metal Workers Local Union 28 in New York Cit",
+        "title": "‘It’s just getting worse’: anger in Maine over Trump’s trade war with close neighbor Canada",
+        "summary": "President’s tariffs have hurt fishers, loggers and others in a state with deep bonds to Canada – will voters show their displeasure in the midterms?It was an ideal summer to cut trees.The weather in Maine’s Penobscot county – one of the most heavily forested counties in a state dense with trees – was warm and dry. Yet even as the county’s wood had grown to an ideal size to harvest, t",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/2026/sep/25/extreme-heat-regulations-trump",
-        "seendate": "2026-09-25T11:00:49.000Z",
+        "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/26/maine-voters-canada-trump-trade-war",
+        "seendate": "2026-09-26T11:00:35.000Z",
         "domain": "theguardian.com"
       },
       {
@@ -130,6 +130,14 @@ window.NEWS_CACHE = {
     ],
     "literature": [
       {
+        "title": "‘We left Ireland because there wasn’t work – and we wanted to get the hell away’: Trespasses author Louise Kennedy",
+        "summary": "Her Troubles-set debut became a hit TV series starring Gillian Anderson. Now the novelist has returned to her teen years for a follow-up. She talks about her journey from chef to author, and how her cancer diagnosis inspired her to writeLouise Kennedy’s life&nbsp;has hardly wanted for dramatic events, but the recent past has been spectacularly busy, even by her standards. You wouldn’t know it to look at her",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/sep/26/we-left-ireland-because-there-wasnt-work-and-we-wanted-to-get-the-hell-away-trespasses-author-louise-kennedy",
+        "seendate": "2026-09-26T08:00:30.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "‘My generation of novelists is dying’: Rose Tremain on 70 years of writing, and late-life inspiration",
         "summary": "As her latest novel about Daphne du Maurier is published, the bestselling author reflects on age and creativity – and why at 83 she has no plans to stop My generation of writers is dying. Of&nbsp;Granta’s fabled list of 20 Best of Young British Novelists, 1983, six&nbsp;are gone, including our most princely satirist, Martin Amis. We’re all approaching birthdays where the cake is too small&nbsp;for the candl",
         "source": "theguardian.com",
@@ -160,17 +168,17 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/books/2026/sep/24/yellow-dog-by-martin-amis-review-bill-nighy-has-a-ball",
         "seendate": "2026-09-24T14:00:19.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Exit Party by Emily St John Mandel review – alternate visions of post-crisis America",
-        "summary": "Is the price of stability necessarily the loss of freedom? Two possible future worlds are linked in the new novel from the author of Station ElevenIn her second novel, 2009’s The&nbsp;Singer’s Gun, Emily St John Mandel tells the story of Anton Waker, a young man desperate to make a break from his criminal family. His plans are thwarted by his cousin Ari, whose hard-nosed talent for operating outside the law",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/sep/24/exit-party-by-emily-st-john-mandel-review-alternate-visions-of-post-crisis-america",
-        "seendate": "2026-09-24T06:00:10.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "entertainment": [
+      {
+        "title": "‘A couple of times people walked out’: how an Anne Frank musical became the hottest theater ticket of the year",
+        "summary": "The creators and stars of Slam Frank on their off-Broadway production - which reimagines the Holocaust victim as a pansexual rapperIt’s difficult to not invoke the term “woke” when discussing Slam Frank, the 2025 musical that reimagines Anne Frank as a pansexual Latina. Controversial even before its fi",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/stage/2026/sep/25/slam-frank-musical-off-broadway",
+        "seendate": "2026-09-26T04:00:25.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Taylor Swift: The Life of a Showgirl: The Encore review – flashes of humanity and bafflingly vindictive love songs",
         "summary": "(Republic)This four-track addition to a critically maligned album works hard to remind fans what they love about Swift, with some sweet highs and galling lowsOne downside of turning your release strategies into scavenger hunts and layering clues within your work is that it invites enormous amounts of scrutiny about your potential motive. When Taylor Swift announced an expanded edition o",
@@ -202,102 +210,118 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/games/2026/sep/25/ace-combat-8-wings-of-theve-review",
         "seendate": "2026-09-25T14:00:08.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Woman who accused Jay-Z of raping her aged 13 says claims were false",
-        "summary": "Unnamed woman who filed and later dropped lawsuit against rap superstar states that she never met him, contrary to initial allegation of 2000 assaultA woman who accused Jay-Z of raping her when she was 13 years old has formally withdrawn her allegation, saying that she has n",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/music/2026/sep/25/woman-who-accused-jay-z-of-raping-her-aged-13-says-claims-were-false",
-        "seendate": "2026-09-25T13:00:58.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "f1": [
       {
-        "title": "Oscar Piastri: I need a tow bar to hook onto Mercedes to fight for Baku win",
-        "summary": "Having qualified third in Baku after enduring a difficult build-up to the main sessions, Oscar Piastri was happy with the grid position he earned for Formula 1's Azerbaijan Grand Prix.However, the McLaren driver thinks expecting to go much further in the race is unrealistic, given the gap to Mercedes. While the Australian lost just 0.001s to Charles Leclerc in Q3, the deficit to George ...<a class='more'",
+        "title": "Isack Hadjar earns \"team-mate points\" after \"exceptional comeback\" in Baku, says Alex Brundle",
+        "summary": "Red Bull's Isack Hadjar earned crucial \"team-mate points\" following an \"exceptional comeback\" drive to third at the Azerbaijan Grand Prix, according to F1 TV pundit Alex Brundle.Returning to the cockpit after a wrist injury with a newly signed Red Bull contract for 2027, Hadjar capitalised on a late lock-up from McLaren's Oscar Piastri to secure a double podium for the Milton Keynes outfit ...<a class='m",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/oscar-piastri-i-need-a-tow-bar-to-hook-onto-mercedes-to-fight-for-baku-win/10859038/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-25T23:00:02.000Z",
+        "url": "https://www.motorsport.com/f1/news/isack-hadjar-earns-team-mate-points-after-exceptional-comeback-in-baku-says-alex-brundle/10859432/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-26T21:35:27.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Guenther Steiner calls out Williams over F1 infrastructure complaints: \"Crocodile tears\"",
-        "summary": "Former Haas Formula 1 team principal Guenther Steiner has labelled Williams's complaints regarding capital expenditure limits \"crocodile tears\", questioning team boss James Vowles for continually moving the timeline for the Grove outfit's recovery.Since taking over Williams in 2023, the Briton has repeatedly pointed to the team's outdated infrastructure as a primary limiting factor in its bid ...<a class",
+        "title": "Liam Lawson: “I don’t understand” why Arvid Lindblad escaped penalty after wrecking my floor",
+        "summary": "Liam Lawson says he ‘doesn’t understand’ Azerbaijan Grand Prix stewards took no further action against Racing Bulls team-mate Arvid Lindblad, who spun him around in today’s Formula 1 race.After Alexander Albon crashed out on lap 30 in Baku, causing a safety car intervention, Lawson and Lindblad lay 12th and 14th ahead of the restart.When the green flag was waved, Franco Colapinto ...<a class='more' h",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/guenther-steiner-calls-out-williams-over-f1-infrastructure-complaints-crocodile-tears/10859062/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-25T20:23:14.000Z",
+        "url": "https://www.motorsport.com/f1/news/liam-lawson-i-dont-understand-why-arvid-lindblad-escaped-penalty-after-wrecking-my-floor/10859401/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-26T17:51:13.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Stefano Domenicali reveals bizarre Jimmy Fallon prank at Miami GP Michelin-starred dinner",
-        "summary": "Formula 1 CEO Stefano Domenicali has detailed a bizarre off-track encounter with American television host Jimmy Fallon, who interrupted his business dinner at a Michelin-starred restaurant by sending a takeaway pizza to his table.Domenicali made an appearance on The Tonight Show Starring Jimmy Fallon ahead of the Azerbaijan Grand Prix, and the pair reflected on Fallon's first experience of F1 ...<a class",
+        "title": "\"Mr Horner is looking for a job\" – Frederic Vasseur claps back at Ferrari rumours",
+        "summary": "Ferrari is practically Italy’s second religion – so whenever it falls short of its lofty ambitions, speculation follows that its leaders are under threat.After showing considerable promise in the pre-season and early races following the 2026 rules reset, Ferrari has drifted into a competitive no-man’s land epitomised by CharlesLeclerc and Lewis Hamilton finishing fourth and sixth ...<a class='more' h",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/stefano-domenicali-reveals-bizarre-jimmy-fallon-prank-at-miami-gp-michelin-starred-dinner/10859056/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-25T19:58:49.000Z",
+        "url": "https://www.motorsport.com/f1/news/mr-horner-is-looking-for-a-job-frederic-vasseur-claps-back-at-ferrari-rumours/10859397/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-26T17:35:29.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "F1 closing in on 1 billion fans as Stefano Domenicali hails female audience growth",
-        "summary": "Formula 1 CEO Stefano Domenicali says the championship is closing in on 1 billion global fans, driven by a younger audience, an increase in female viewership and more access to driver personalities.Speaking during an appearance on The Tonight Show Starring Jimmy Fallon, Domenicali discussed F1's ongoing expansion and its success in growing in the United States.\"We are almost at 1 billion ...<a class=",
+        "title": "Winners and losers from F1's Azerbaijan Grand Prix street brawl",
+        "summary": "Not for the first time, Baku was the epitome of a race of two halves. A flavourless main course washed down with an indulgent dessert, triggered by a mid-race pair of safety cars. With one dab of the brake pedal, the lap 36 restart melee doubled the number of candidates for the loser category, while the list of winners boasts a number of unlikely heroes.Winner: George RussellThings got a ...<a class=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/f1-closing-in-on-1-billion-fans-as-stefano-domenicali-hails-female-audience-growth/10859054/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-25T19:31:31.000Z",
+        "url": "https://www.motorsport.com/f1/news/winners-losers-f1-azerbaijan-grand-prix-street-brawl/10859378/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-26T16:58:38.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Williams’ long-awaited F1 upgrade is delivering in Baku – but was Q3 an “overachievement”?",
-        "summary": "Williams’ 2026 car had infamously been overweight after Formula 1 switched to a new technical ruleset, but a brand-new chassis introduced at the Azerbaijan Grand Prix has provided substantial performance.Carlos Sainz was consistently quick in Baku, finishing 11th in Q1, then ninth in the next two segments of qualifying. Williams had never done so well this year – its best results had been ...<a class='mo",
+        "title": "James Vowles hails Williams factory effort after major Baku F1 upgrade",
+        "summary": "Williams team principal James Vowles has praised the Grove outfit's relentless factory effort to deliver a major upgrade package for the Azerbaijan Grand Prix, despite the team only walking away with one point from the weekend.Williams arrived at the Baku City Circuit with a substantial update, which included two new chassis, an extensive weight-saving programme and a revised aerodynamic ...<a class='mor",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/williams-upgrade-delivering-baku-overachievement/10859048/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-25T18:36:43.000Z",
+        "url": "https://www.motorsport.com/f1/news/james-vowles-hails-williams-factory-effort-after-major-baku-f1-upgrade/10859369/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-26T16:18:51.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "A running tally of the most ridiculous things AI bigwigs have said so far",
-        "summary": "Clear as mud.",
+        "title": "Former Elder Scrolls designer Kurt Kuhlmann on Fallout: New Vegas diehards: 'I don't know that Todd wanted to create that situation again for The Elder Scrolls'",
+        "summary": "\"Todd, from my time there, he is very protective of it.\"",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/live/news/what-are-the-ai-guys-saying-now/",
-        "seendate": "2026-09-26T00:12:34.000Z",
+        "url": "https://www.pcgamer.com/games/the-elder-scrolls/former-elder-scrolls-designer-kurt-kuhlmann-on-fallout-new-vegas-diehards-i-dont-know-that-todd-wanted-to-create-that-situation-again-for-the-elder-scrolls/",
+        "seendate": "2026-09-26T21:54:26.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "I did the math on my Wardogs XP grind, and now I wish I hadn't",
-        "summary": "The Wardogs grind is real, and kind of exhausting.",
+        "title": "After Warcraft 3's first new campaign in 23 years, let's normalize releasing new DLC for ancient RTS games",
+        "summary": "Age of Empires and Blizzard's RTS offer a playbook for how to keep the nostalgia fires burning.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/fps/i-did-the-math-on-my-wardogs-xp-grind-and-now-i-wish-i-hadnt/",
-        "seendate": "2026-09-25T23:47:08.000Z",
+        "url": "https://www.pcgamer.com/games/rts/after-warcraft-3s-first-new-campaign-in-23-years-lets-normalize-releasing-new-dlc-for-ancient-rts-games/",
+        "seendate": "2026-09-26T14:17:56.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "My favorite $6 RPG on Steam just got a beastmode free 'Enhanced Edition' update",
-        "summary": "It's actually on sale for $4 at the moment.",
+        "title": "Microsoft CEO says Xbox's 'streamlining' process is 'great to see' following its most recent round of layoffs",
+        "summary": "Satya Nadella says that Microsoft has to \"invent the right business model\" to deliver gaming to \"more and more people\".",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/rpg/my-favorite-usd6-rpg-on-steam-just-got-a-beastmode-free-enhanced-edition-update/",
-        "seendate": "2026-09-25T22:26:16.000Z",
+        "url": "https://www.pcgamer.com/gaming-industry/microsoft-ceo-says-xboxs-streamlining-process-is-great-to-see-following-its-most-recent-round-of-layoffs/",
+        "seendate": "2026-09-26T13:21:21.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Guess who patented a new system for in-game ads",
-        "summary": "The future's so bright you gotta wear shades.",
+        "title": "Dressmaker is a serious seamstress sim with a lot of love stitched into the finer details",
+        "summary": "Here are my five favorite features from the sewing game.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/guess-who-patented-a-new-system-for-in-game-ads/",
-        "seendate": "2026-09-25T22:10:04.000Z",
+        "url": "https://www.pcgamer.com/games/sim/dressmaker-is-a-serious-seamstress-sim-with-a-lot-of-love-stitched-into-the-finer-details/",
+        "seendate": "2026-09-26T13:00:00.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "'I sit in terror looking at the 750,000 wishlists': A nervous dev brings a classic Flash game to Steam",
-        "summary": "\"I realistically was thinking maybe 5k at best,\" says the maker of ragdoll physics game Happy Wheels.",
+        "title": "It took CD Projekt two years to design Phantom Liberty's Chimera Tank boss fight: 'We were iterating over and over'",
+        "summary": "The Polish developer believes the tank to be \"one of the most expensive art assets ever.\"",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/i-sit-in-terror-looking-at-the-750-000-wishlists-a-nervous-dev-brings-a-classic-flash-game-to-steam/",
-        "seendate": "2026-09-25T21:13:49.000Z",
+        "url": "https://www.pcgamer.com/games/rpg/it-took-cd-projekt-two-years-to-design-phantom-libertys-chimera-tank-boss-fight-we-were-iterating-over-and-over/",
+        "seendate": "2026-09-26T12:00:01.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
+      {
+        "title": "OpenAI says agents leaked 53 images from ChatGPT users in latest example of rogue activity",
+        "summary": "Disclosure reveals ⁠new area of privacy risk for the company and illustrates ​how difficult it is to inventory unauthorized activity tied to its agentsTwo ⁠months after OpenAI disclosed the accidental hacking of Hugging Face, the ChatGPT maker is still working to understand the full scope of its rogue agent activity, two people briefed on the matter told Reuters.The latest example came on Friday when",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/sep/25/openai-agents-leaked-53-images-chatgpt",
+        "seendate": "2026-09-26T00:24:43.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Pope Leo warns of AI threat to humanity at start of three-day France visit",
+        "summary": "Pontiff says artificial intelligence must remain at service of people in first official papal visit to country in 18 yearsPope Leo has warned against losing humanity in a “paradise of machines” as he addressed global concerns over the dangers of artificial intelligence a",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/sep/25/pope-leo-ai-threat-to-humanity-three-day-france-visit",
+        "seendate": "2026-09-25T16:01:10.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Drones could speed up getting defibrillators to people having cardiac arrests, study suggests",
+        "summary": "New research suggests the technology could be used to increase out-of-hospital access to life-saving devicesDrones could help cut the time it takes to get a defibrillator to people experiencing cardiac arrests when not in hospital, researchers have suggested.In the UK alone, there are more than 30,000 out-of-hospital cardiac arrests a year where emergency medical services attempt to resuscitate the i",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/society/2026/sep/26/drones-could-speed-up-getting-defibrillators-to-people-having-cardiac-arrests-study-suggests",
+        "seendate": "2026-09-26T05:00:28.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Launch of UK’s ‘largest AI supercomputer’ delayed by power supply problems",
         "summary": "Datacentre hailed by government was supposed to start operating next year but may be held back into mid-2030sA huge datacentre project hailed by the UK government will miss its launch date next year and could be delayed into the mid-2030s.The site in Loughton, Essex, was described as the country’s largest AI supercomputer when it was announced in 2025, but power supply problems mean it now faces a le",
@@ -313,33 +337,17 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/technology/2026/sep/25/ai-anxiety-comedy",
         "seendate": "2026-09-25T12:00:50.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "TikTok drops appeal against £12.7m fine for not keeping under-13s off platform",
-        "summary": "UK watchdog fined video app in 2023 for failing to enforce minimum age limit and remove underage usersTikTok will pay a £12.7m fine to the UK’s data watchdog after dropping an appeal against a ruling that it did not do enough to keep children below the age of 13 off the platform.The video app was <a href=\"https://www.theguardian.com/technology/2023/apr/04/tiktok-fined-uk-data-protection-law-breaches\"",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/sep/24/tiktok-drops-appeal-over-fine-for-not-keeping-under-13s-off-platform",
-        "seendate": "2026-09-24T15:00:34.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Nick Clegg plays down fears ‘godlike’ AI could exterminate humanity",
-        "summary": "Former deputy PM now involved in tech industry says many within sector are ‘winding themselves up into a lather’Nick Clegg has dismissed fears over AI’s “godlike power to exterminate humanity”, calling it a sign that tech bosses are “breathing their own fumes”.The former UK deputy prime minister said that tech bosses should focus on addressing known specific threats such as cybersecurity and bioweapo",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/sep/24/nick-clegg-plays-down-fears-godlike-ai-could-exterminate-humanity",
-        "seendate": "2026-09-24T09:19:28.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "New UK agency to fight ‘information warfare’ from likes of Russia, Burnham tells UN",
-        "summary": "PM aims to ‘stem poisonous tide’ of disinformation and deepfakes with National Centre for Information DefenceSecurity chiefs will set up a new national centre to tackle disinformation and deepfakes from hostile states such as Russia, Andy Burnham has announced, saying the government had a duty to “stem the poisonous tide” from damaging British interests.The National Centre for Information Defence wil",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/sep/23/andy-burnham-national-centre-russian-disinformation-deepfakes",
-        "seendate": "2026-09-23T07:52:20.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "climate": [
+      {
+        "title": "New research finds 485 chemicals in US pesticide products linked to breast cancer",
+        "summary": "Paper raises questions about safety of food and other products as early onset breast cancer rates surge worldwideNew research has identified at least 485 chemicals used in US pesticide products that are linked to breast cancer, raising questions about the safety of food and other products at a time when early onset breast cancer rates are <a href=\"https://www.theguardian.com/society/2025/feb/24/breast-cance",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/sep/26/breast-cancer-us-pesticide-products",
+        "seendate": "2026-09-26T13:00:36.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "New Jersey datacenter fined $1.1m after visual investigation showed dozens of unpermitted generators",
         "summary": "State regulator’s record fine for DataOne facility in Vineland follows Floodlight investigation with the GuardianNew Jersey regulators issued their largest-ever fine against a datacenter on Tuesday following a recent Floodlight investigation <a href=\"https://www.the",
@@ -370,14 +378,6 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/environment/2026/sep/25/extreme-heat-regulations-trump",
         "seendate": "2026-09-25T11:00:49.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Gavin Newsom condemns Democrats’ ‘climate hushing’, predicts Trump’s downfall and expects AOC to run in 2028",
-        "summary": "Democrats must show links of climate shocks to ‘kitchen table’ issues, California governor saysIt’s a mistake for Democratic politicians not to talk about climate change, and the reason they don’t is “because they don’t know how to talk about it”, the California governor,",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/sep/24/gavin-newsom-interview-trump-aoc",
-        "seendate": "2026-09-24T16:00:24.000Z",
         "domain": "theguardian.com"
       }
     ],
