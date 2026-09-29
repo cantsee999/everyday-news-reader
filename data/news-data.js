@@ -1,8 +1,16 @@
 window.NEWS_CACHE = {
-  "generatedAt": "2026-09-28T01:16:00.025Z",
+  "generatedAt": "2026-09-29T02:22:01.978Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
+      {
+        "title": "DRC politician beaten to death after radio appearance about Ebola outbreak",
+        "summary": "Marie-Celestin Karondwa was attacked on Sunday after promoting measures to prevent spread of disease, his party saysA senior member of the Democratic Republic of the Congo’s ruling party was beaten to death on Sunday after appearing on a radio programme to raise awareness about the Ebola outbreak, a party representative has said.Marie-Celestin Karondwa, the acting president of the Union for De",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/sep/28/drc-politician-beaten-death-radio-appearance-ebola",
+        "seendate": "2026-09-28T15:54:25.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "At least 27 dead after two mass shootings in South Africa, police say",
         "summary": "Seventeen people killed near Johannesburg in suspected ‘illegal goldmining turf war’, as 10 killed in separate incident at barbecue venue near Cape TownTwo separate mass shootings near South Africa’s two biggest cities killed at least 27 people, as the country grapples with one of the world’s highest murder rates amid investigations into corruption and criminality within the police.The South African",
@@ -33,19 +41,19 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/business/2026/sep/23/indian-billionaire-payments-firm-london-flotation-airtel-money",
         "seendate": "2026-09-23T11:08:01.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Top South African police officer charged with raping woman, 18, and grooming 16-year-old girl",
-        "summary": "Arrest of Shadrack Sibiya comes as country reels from cases of femicide and alleged police corruption and criminalityOne of South Africa’s most senior police officers has been charged with raping an 18-year-old woman and grooming a 16-year-old girl, as the country’s police face allegations of corruption and failing to tackle violence against women and girls.Shadrack Sibiya, who was already suspended",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/sep/23/south-africa-top-police-officer-shadrack-sibiya-charged-rape-grooming",
-        "seendate": "2026-09-23T09:38:06.000Z",
         "domain": "theguardian.com"
       }
     ],
     "conflict": [
       {
+        "title": "DRC politician beaten to death after radio appearance about Ebola outbreak",
+        "summary": "Marie-Celestin Karondwa was attacked on Sunday after promoting measures to prevent spread of disease, his party saysA senior member of the Democratic Republic of the Congo’s ruling party was beaten to death on Sunday after appearing on a radio programme to raise awareness about the Ebola outbreak, a party representative has said.Marie-Celestin Karondwa, the acting president of the Union for De",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/sep/28/drc-politician-beaten-death-radio-appearance-ebola",
+        "seendate": "2026-09-28T15:54:25.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "At least 27 dead after two mass shootings in South Africa, police say",
         "summary": "Seventeen people killed near Johannesburg in suspected ‘illegal goldmining turf war’, as 10 killed in separate incident at barbecue venue near Cape TownTwo separate mass shootings near South Africa’s two biggest cities killed at least 27 people, as the country grapples with one of the world’s highest murder rates amid investigations into corruption and criminality within the police.The South African",
         "source": "theguardian.com",
@@ -76,31 +84,31 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/business/2026/sep/23/indian-billionaire-payments-firm-london-flotation-airtel-money",
         "seendate": "2026-09-23T11:08:01.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Top South African police officer charged with raping woman, 18, and grooming 16-year-old girl",
-        "summary": "Arrest of Shadrack Sibiya comes as country reels from cases of femicide and alleged police corruption and criminalityOne of South Africa’s most senior police officers has been charged with raping an 18-year-old woman and grooming a 16-year-old girl, as the country’s police face allegations of corruption and failing to tackle violence against women and girls.Shadrack Sibiya, who was already suspended",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/sep/23/south-africa-top-police-officer-shadrack-sibiya-charged-rape-grooming",
-        "seendate": "2026-09-23T09:38:06.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "economy": [
       {
-        "title": "Democracy blindsides Silicon Valley’s power players looking to transform the world with AI",
-        "summary": "‘The push against datacenters speaks to the frustration of people who don’t feel they are making the choices in their lives’The Stanford ethicist Rob Reich was once invited to a dinner organized by a Silicon Valley mogul to discuss what a state designed to maximize science and tech powered by commercial models might look like. The gathered",
+        "title": "As the US midterms approach, Trump’s boasts on the economy fall flat with voters",
+        "summary": "Trump’s tariffs and his war against Iran caused prices to rise, but the US president continues to claim it’s ‘the greatest economy in history’Sign up for The Stakes 2026: your weekly guide to the US midtermsDonald Trump has taken to repeating a familiar boast",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/ng-interactive/2026/sep/27/democracy-ai-datacenters-power",
-        "seendate": "2026-09-27T11:00:03.000Z",
+        "url": "https://www.theguardian.com/business/2026/sep/28/trump-us-economy-midterm-elections",
+        "seendate": "2026-09-28T11:00:32.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘It’s just getting worse’: anger in Maine over Trump’s trade war with close neighbor Canada",
-        "summary": "President’s tariffs have hurt fishers, loggers and others in a state with deep bonds to Canada – will voters show their displeasure in the midterms?It was an ideal summer to cut trees.The weather in Maine’s Penobscot county – one of the most heavily forested counties in a state dense with trees – was warm and dry. Yet even as the county’s wood had grown to an ideal size to harvest, t",
+        "title": "Gouged: why Americans are being ripped off – and what to do about it",
+        "summary": "How can we fix our pricing crisis? Economic sociologist Lindsay Owens urges tough new rules – and a consumer uprising“Repeat after me: it’s not my fault, it’s not my fault, it’s not my fault.” That’s the message to frustrated US shoppers in Gouged: The End of a Fair Price – and What That Means for Your Wallet by Lindsay Owens, economic sociologist and head of the Groundwork Collaborative, a progressive Wash",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/26/maine-voters-canada-trump-trade-war",
-        "seendate": "2026-09-26T11:00:35.000Z",
+        "url": "https://www.theguardian.com/us-news/2026/sep/28/corporate-profiteering-americans-economy",
+        "seendate": "2026-09-28T11:00:32.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Nvidia unveils security platform to rein in AI agents and $150bn stock buyback",
+        "summary": "Chipmaker says new system was designed to prevent AI agents from going rogue amid incidents at top companiesNvidia on Monday unveiled a new security platform that the chipmaker said can stop artificial intelligence agents from going rogue.The company announced a $1",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/sep/28/nvidia-ai-agent-security-platform-stock-buyback",
+        "seendate": "2026-09-28T19:24:07.000Z",
         "domain": "theguardian.com"
       },
       {
@@ -118,17 +126,25 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/media/2026/sep/25/trump-media-ban-white-house-pool",
         "seendate": "2026-09-25T16:03:18.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "EU says Trump’s plan to ban US diesel exports would ‘negatively impact both sides’",
-        "summary": "US president’s suggested 90-day export ban before midterm elections could bring even higher fuel prices across EuropeThe EU has warned Donald Trump against plans to ban US diesel exports to the global market, saying the move would negatively affect Europe and the US.The European Commission has reacted with “concern” to",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/sep/24/eu-trump-diesel-export-ban-fuel-prices-europe",
-        "seendate": "2026-09-24T14:46:44.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "literature": [
+      {
+        "title": "Range by Dorthe Nors review – an astrophysicist at odds with reality",
+        "summary": "In the Danish writer’s latest novel, an eminent scientist withdraws to the countrysideWhen Gunn Haven, an eminent professor of astrophysics at an urban university, moves to rural Denmark, she tells a local newspaper: “It’s to do with the sky.” From the outset of Range, Danish author Dorthe Nors’s fifth full-length novel, it is apparent this is not the whole truth. Soon after arriving, Gunn is compelled to t",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/sep/28/range-by-dorthe-nors-review-an-astrophysicist-at-odds-with-reality",
+        "seendate": "2026-09-28T08:00:28.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Deep into the Sixties: Britain 1965-66 by David Kynaston review – a tour de force of popular history",
+        "summary": "From the Beatles and the World Cup to racism and homophobia, the latest instalment in Kynaston’s series captures a society in the throes of changeIn February 1965, the civil rights activist Malcolm X visited Smethwick, in the Midlands, where the Conservative-run council was planning to buy up houses to stop the area becoming a “coloured ghetto”. He wanted to see how bad the racism was and he experienced it",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/sep/28/deep-into-the-sixties-britain-1965-66-by-david-kynaston-review-beatles-bigots-and-streets-in-the-sky",
+        "seendate": "2026-09-28T06:00:25.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Tomi Adeyemi on the film of her hit novel Children of Blood and Bone: ‘I don’t plan to watch it’",
         "summary": "Her debut earned a record-breaking YA book deal – then came her fallout with Hollywood. The author talks about the pressures of success and why she is pictured on the cover of her new novelThere is a photograph of Tomi Adeyemi staring out from the cover of her new novel, The Siren. It is an arresting image: her face fills the frame, unsoftened by a smile, her piercing gaze fixed directly on the viewer. “It’",
@@ -152,166 +168,158 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/books/2026/sep/26/we-left-ireland-because-there-wasnt-work-and-we-wanted-to-get-the-hell-away-trespasses-author-louise-kennedy",
         "seendate": "2026-09-26T08:00:30.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Tom Gauld on the author simulator – cartoon",
-        "summary": "Continue reading...",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/picture/2026/sep/27/tom-gauld-on-the-author-simulator-cartoon",
-        "seendate": "2026-09-27T15:00:08.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "‘My generation of novelists is dying’: Rose Tremain on 70 years of writing, and late-life inspiration",
-        "summary": "As her latest novel about Daphne du Maurier is published, the bestselling author reflects on age and creativity – and why at 83 she has no plans to stop My generation of writers is dying. Of&nbsp;Granta’s fabled list of 20 Best of Young British Novelists, 1983, six&nbsp;are gone, including our most princely satirist, Martin Amis. We’re all approaching birthdays where the cake is too small&nbsp;for the candl",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/sep/25/my-generation-of-novelists-is-dying-rose-tremain-on-70-years-of-writing-and-late-life-inspiration",
-        "seendate": "2026-09-25T09:00:45.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "entertainment": [
       {
-        "title": "Rapper and actor Eve looks back: ‘I was the only girl in the boardroom in major label meetings – that Philly girl had to come out’",
-        "summary": "The Grammy-winning artist on ​d​estroying egos in school, the dealers who looked out for her, and learning from early failureBorn Eve Jihan Jeffers in Philadelphia in 1978, rapper Eve released her debut album, Let There Be Eve … Ruff Ryders’ First Lady, in 1999; it entered the Billboard 200 at No&nbsp;1. She&nbsp;followed its&nbsp;success with the platinum-selling Scorpion, which went on to win a Grammy for",
+        "title": "John Oliver on Brazil’s Flávio Bolsonaro: ‘Fearmongering and flagrant daddy issues’",
+        "summary": "The Last Week Tonight host digs into Brazil’s election, with current leader Lula faces a disgraced former president’s sonOn the latest Last Week Tonight, John Oliver looked ahead to Sunday’s major election in Brazil, where 160 million people will vote to determine the country’s president",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/lifeandstyle/2026/sep/27/eve-looks-back-interview-musician-actor-rapper",
-        "seendate": "2026-09-27T13:00:05.000Z",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/sep/28/john-oliver-brazil-flavio-bolsonaro",
+        "seendate": "2026-09-28T15:29:07.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘Eminem’s Lose Yourself is my anthem for getting the kids out of the house’: Kimberly Wyatt’s honest playlist",
-        "summary": "The Pussycat Doll went roller skating to the Beach Boys and is ‘completely over’ Gangnam Style. But what song makes her cry every time?The first song I fell in love with When I learned to drive and got my first car, I felt this real freedom. I’d put the windows down, blare out Ghetto Supastar (That Is What You Are) by&nbsp;Pras, featuring Ol’ Dirty Bastard and Mýa, and sing at the top o",
+        "title": "Stevie Wonder releases four unheard songs from Songs in the Key of Life sessions",
+        "summary": "Previously unreleased material comes as Wonder marks 50th anniversary of album with arena tourStevie Wonder has expanded the scope of what was already the most epic studio album in his catalogue, 1976’s Songs in the Key of Life.Four unheard songs from the recording sessions have been released today as a new EP of the same name, marking the 50th anniversary of an album which won album of the year at t",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/music/2026/sep/27/kimberly-wyatt-pussycat-dolls-honest-playlist-whitney-houston-eminem",
-        "seendate": "2026-09-27T12:00:04.000Z",
+        "url": "https://www.theguardian.com/music/2026/sep/28/stevie-wonder-releases-four-unheard-songs-from-songs-in-the-key-of-life-sessions",
+        "seendate": "2026-09-28T13:27:33.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Tomi Adeyemi on the film of her hit novel Children of Blood and Bone: ‘I don’t plan to watch it’",
-        "summary": "Her debut earned a record-breaking YA book deal – then came her fallout with Hollywood. The author talks about the pressures of success and why she is pictured on the cover of her new novelThere is a photograph of Tomi Adeyemi staring out from the cover of her new novel, The Siren. It is an arresting image: her face fills the frame, unsoftened by a smile, her piercing gaze fixed directly on the viewer. “It’",
+        "title": "‘Richly rewarding’: why Netflix’s A Different World is the only TV reboot worth watching this year",
+        "summary": "With zany twists and lovable new faces, reboot of the Black sitcom is a worthy sequel to the trailblazing 1980s originalIt’s often the case that nothing disappoints like a sitcom reboot. The Malcolm in the Middle revival is <a href=\"https://variety.com/2026/tv/news/malcolm-in",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/sep/27/tomi-adeyemi-on-the-film-of-her-hit-novel-children-of-blood-and-bone-i-dont-plan-to-watch-it",
-        "seendate": "2026-09-27T11:00:02.000Z",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/sep/28/a-different-world-netflix-reboot",
+        "seendate": "2026-09-28T11:00:31.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘I’m an everythingist’: How Es Devlin became the go-to for Beyoncé gigs, fashion runways and the Olympics",
-        "summary": "The Londoner is the set designer big names turn to for eye-popping spectacle. As a new retrospective opens, she gives the Guardian a glimpse at her studioFour years ago, the V&amp;A East Storehouse in east London got in touch with Es Devlin. The museum’s curators wanted to invite the British artist and designer to respond to a 100-year-old theatrical backdrop by the Russian artist and designer Natalia Gonch",
+        "title": "Rediscovered chalk drawing of child attributed to Édouard Manet",
+        "summary": "Exclusive: Work, whose subject resembles street urchin in masterpiece by artist, chanced upon in private collectionA red chalk drawing of a crouching child, spotted in a private Italian collection, has been attributed by an art historian to the French modernist painter Édouard Manet.The child, whose identity has yet to be established, resembles a street urchin in the Manet masterpiece <a href=\"https:",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/stage/2026/sep/27/stage-designer-es-devlin-design-museum-london-lehman-trilogy",
-        "seendate": "2026-09-27T09:00:00.000Z",
+        "url": "https://www.theguardian.com/artanddesign/2026/sep/28/drawing-child-attributed-edouard-manet",
+        "seendate": "2026-09-28T09:55:44.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "NAZA film-makers address threats at documentary’s New York City premiere",
-        "summary": "Yuval Abraham and Rachel Szor defend findings on Israel’s killing of Palestinians amid threats from Israeli officialsThe film-makers behind NAZA, the award-winning documentary on Israel’s systemic mass killing of Palestinians in Gaza, defended their findings at the film’s North American premiere in New York on Saturday, amid protests in Israel and escalati",
+        "title": "‘Should have garnered the actor an Oscar’: why Liar Liar is my feelgood movie",
+        "summary": "The latest in our series of writers paying tribute to the films they watch when they need a lift is an appreciation of Jim Carrey’s manic 90s comedyTo be completely honest, whenever anybody asks what my favorite movies are, my list has some typical standbys: Goodfellas and It’s a Wonderful Life among them. The holiday classic National Lampoon’s Christmas Vacation is another. But there’s one feelgood fave on",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/sep/27/naza-film-new-york-city-premiere",
-        "seendate": "2026-09-27T00:48:09.000Z",
+        "url": "https://www.theguardian.com/film/2026/sep/28/liar-liar-jim-carrey-feelgood-movie",
+        "seendate": "2026-09-28T09:00:29.000Z",
         "domain": "theguardian.com"
       }
     ],
     "f1": [
       {
-        "title": "Arvid Lindblad issues apology after Racing Bulls team-mate clash in Baku",
-        "summary": "Racing Bulls Formula 1 rookie Arvid Lindblad has issued a public apology to his team-mate Liam Lawson following their collision during the Azerbaijan Grand Prix.The British driver secured six points with a seventh-place finish around the Baku City Circuit, but the race was marred when he collided with his team-mate Lawson.During a safety car restart after Williams' Alex Albon crashed ...<a class='mor",
+        "title": "McLaren Racing reportedly set for historic $1billion revenue milestone",
+        "summary": "McLaren Racing is projected to become the first Formula 1 team to surpass $1billion in annual revenue, according to a report by Sky News.The report states that McLaren Racing Ltd's accounts for the 2025 calendar year will be filed this week. Sources indicate the Woking outfit will declare revenue of £588million ($779.6million). While the figures include McLaren's IndyCar operations, F1 ...<a class='more'",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/arvid-lindblad-issues-apology-after-racing-bulls-team-mate-clash-in-baku/10859656/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-27T22:25:41.000Z",
+        "url": "https://www.motorsport.com/f1/news/mclaren-racing-reportedly-set-for-historic-1billion-revenue-milestone/10859918/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-28T22:00:26.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Oscar Piastri: Error that cost me F1 Azerbaijan GP podium was \"a bit weird\"",
-        "summary": "McLaren Formula 1 driver Oscar Piastri has labelled his late-race Azerbaijan Grand Prix mistake as “a bit weird”, after losing the podium in Baku.Piastri was running third following the second safety-car restart and came under pressure from Red Bull’s Isack Hadjar after being overtaken by Max Verstappen at the first restart.Attempting to defend on the inside in Turn 1, the Australian ...<a class='mor",
+        "title": "Williams F1 announces huge K-pop star TZUYU collaboration",
+        "summary": "Williams has announced that K-pop artist TZUYU will record the official theme song for its ongoing partnership with the global anime property DAN DA DAN.Following a mixed weekend at the Azerbaijan Grand Prix, where Carlos Sainz collected one point with a 10th-place finish and Alex Albon crashed out, the team now heads to the next stop in the triple-header. The Bahrain Grand Prix, held in ...<a class='mor",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/oscar-piastri-the-error-that-cost-me-baku-f1-podium-was-a-bit-weird/10859516/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-27T22:00:02.000Z",
+        "url": "https://www.motorsport.com/f1/news/williams-f1-announces-huge-k-pop-star-tzuyu-collaboration/10859893/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-28T17:46:54.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "George Russell after rejuvenating Baku win: \"It would have been very easy for me to lose the faith\"",
-        "summary": "Saturday's Azerbaijan Grand Prix was George Russell's third victory of the 2026 Formula 1 campaign, and his first career grand slam, but leading every lap in the wind-swept streets of Baku meant much more to the Mercedes driver than just a fancy statistic.For Russell, Baku ended a character building spell of six winless weekends in which his younger team-mate Kimi Antonelli only further ...<a class='more",
+        "title": "Lewis Hamilton honours Roscoe with touching tribute one year after his death",
+        "summary": "Seven-time Formula 1 champion Lewis Hamilton has shared a touching tribute to his late dog Roscoe on the first anniversary of the English Bulldog's passing.Hamilton has taken to social media to honour the memory of his famous bulldog, Roscoe, exactly one year after his passing. The much-loved bulldog died on 28 September 2025, having been placed into a coma after being treated for ...<a class='more' href",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/george-russell-after-rejuvenating-baku-win-it-would-have-been-very-easy-for-me-to-lose-the-faith/10859613/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-27T15:18:24.000Z",
+        "url": "https://www.motorsport.com/f1/news/lewis-hamilton-honours-roscoe-with-touching-tribute-one-year-after-his-death/10859889/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-28T17:31:17.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Alpine makes statement as Franco Colapinto-related abuse accelerates",
-        "summary": "The Alpine Formula 1 team has again spoken out against social media abuse following Franco Colapinto’s shunt in the Azerbaijan Grand Prix.Argentinian fans’ behaviour has been scrutinised lately following waves of hateful comments. Those were aimed at FIA stewards and the Alpine squad when Colapinto was handed a drive-through penalty for overtaking under a double yellow flag in ...<a class='more' href='ht",
+        "title": "Max Verstappen was \"nightmare fuel\" for George Russell in Baku, says Alex Brundle",
+        "summary": "F1 TV pundit Alex Brundle says Max Verstappen relentlessly hunting down George Russell in the closing stages of the Azerbaijan Grand Prix was \"nightmare fuel\" for the Mercedes driver.While Russell had built a commanding lead, the safety car neutralised the field and he found himself with Verstappen right on his heels at the restart. The Briton held on to win the Baku race by just 0.1 seconds ...<a class=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/alpine-makes-statement-as-franco-colapinto-related-abuse-accelerates/10859568/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-27T12:05:29.000Z",
+        "url": "https://www.motorsport.com/f1/news/max-verstappen-was-nightmare-fuel-for-george-russell-in-baku-says-alex-brundle/10859884/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-28T17:10:43.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Charles Leclerc: “McLaren and Red Bull did a step forward that we didn’t do”",
-        "summary": "Red Bull now has a clear advantage over Ferrari in terms of chassis performance, with McLaren having also markedly improved, Charles Leclerc believes following the Formula 1 Azerbaijan Grand Prix.Both teams brought significant upgrade packages to Baku, focusing on the sidepods, floor and diffuser – McLaren’s also included a revised engine cover, rear suspension and rear wing while Red ...<a class='more'",
+        "title": "Colton Herta aiming at F1 by 2028: 'I still have a chance'",
+        "summary": "“It would be foolish to sit here and think that I will be on the pace right away, that I will be on the pace and ready to win in my first race. I may be older, but speed-wise, these guys are just as fast as anybody out there.”This was how Colton Herta viewed his gamble of a Formula 2 switch from IndyCar as he pursued his Formula 1 dream, and he has so far been proven right – actually ...<a class='more' h",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/charles-leclerc-mclaren-and-red-bull-did-a-step-forward-that-we-didnt-do/10859495/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-27T11:00:04.000Z",
+        "url": "https://www.motorsport.com/f1/news/colton-herta-aiming-at-f1-by-2028-i-still-have-a-chance/10859691/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-28T16:57:11.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "Former Dragon Age executive producer Mark Darrah explains what he'd change about each game: 'It's kind of filler'",
-        "summary": "A candid look at what one of the series' creators would like to have done differently.",
+        "title": "This mod delivers what Valheim was missing all these years: seasons",
+        "summary": "Another reason to update our list of recommendations.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/dragon-age/former-dragon-age-executive-producer-mark-darrah-explains-what-hed-change-about-each-game-its-kind-of-filler/",
-        "seendate": "2026-09-28T00:15:39.000Z",
+        "url": "https://www.pcgamer.com/games/survival-crafting/this-mod-delivers-what-valheim-was-missing-all-these-years-seasons/",
+        "seendate": "2026-09-29T00:34:36.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "After 12 years, Dark Souls 2 is finally playable in co-op without interruptions",
-        "summary": "Community maestro Yui made similar mods for Elden Ring and the original Dark Souls.",
+        "title": "I can't stop comparing the dialogue from the original, messy FF7 localization and its vastly improved fan translation",
+        "summary": "The Shinra Archaeology Cut of FF7 gives the game the treatment Square Enix's official PC release deserved.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/dark-souls/after-12-years-dark-souls-2-is-finally-playable-in-co-op-without-interruptions/",
-        "seendate": "2026-09-27T19:28:43.000Z",
+        "url": "https://www.pcgamer.com/games/final-fantasy/i-cant-stop-comparing-the-dialogue-from-the-original-messy-ff7-localization-and-its-vastly-improved-fan-translation/",
+        "seendate": "2026-09-29T00:05:26.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Gears of War story director laid off mere days after E-Day went gold",
-        "summary": "Microsoft's layoffs continue to hit accomplished teams.",
+        "title": "Former Elder Scrolls writer Kurt Kuhlmann is '100% convinced' a load-bearing bit of series lore was inspired by a typo",
+        "summary": "The Warp in the Draft.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/third-person-shooter/gears-of-war-story-director-laid-off-mere-days-after-e-day-went-gold/",
-        "seendate": "2026-09-27T18:19:43.000Z",
+        "url": "https://www.pcgamer.com/games/the-elder-scrolls/former-elder-scrolls-writer-kurt-kuhlmann-is-100-percent-convinced-a-load-bearing-bit-of-series-lore-was-inspired-by-a-typo/",
+        "seendate": "2026-09-28T22:16:37.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Shadow the Hedgehog is supposed to be dead",
-        "summary": "It all starts with this: a jewel containing the ultimate power.",
+        "title": "World of Warcraft: Forever dev teases new 'mega dungeon' to get lost in for hours like the good ol' days",
+        "summary": "Blackrock Depths fans will have a new dungeon that takes as long as a raid to complete.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/action/shadow-the-hedgehog-is-supposed-to-be-dead/",
-        "seendate": "2026-09-27T16:44:32.000Z",
+        "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-dev-teases-new-mega-dungeon-to-get-lost-in-for-hours-like-the-good-ol-days/",
+        "seendate": "2026-09-28T22:15:09.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Lords of the End Times' greatest fantasy is letting us rewrite the most hated lore in Warhammer's history",
-        "summary": "The end of The End Times.",
+        "title": "World of Warcraft: Forever players find black market NPC who sells a 15-day movement speed buff and other rare items that nobody can afford yet",
+        "summary": "Blizzard is also using it to get ahead of price inflation.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/strategy/lords-of-the-end-times-greatest-fantasy-is-letting-us-rewrite-the-most-hated-lore-in-warhammers-history/",
-        "seendate": "2026-09-27T15:00:00.000Z",
+        "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-players-find-black-market-npc-who-sells-a-15-day-movement-speed-buff-and-other-rare-items-that-nobody-can-afford-yet/",
+        "seendate": "2026-09-28T21:09:12.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
       {
-        "title": "Bill Gates says unchecked AI could ‘cause a billion deaths’ in call for regulation",
-        "summary": "Microsoft co-founder and philanthropist speaks with NBC’s Kristen Welker in interview airing on SundayBill Gates has called on the US’s federal legislators and law enforcers to regulate the development of artificial intelligence (AI), saying in an interview airing on Sun",
+        "title": "AI godfathers warn of runaway ‘intelligence explosion’",
+        "summary": "OpenAI chief scientist also among authors of report on prospect of ‘most consequential technological development in history’Two of the “godfathers” of modern AI and senior executives at OpenAI and Anthropic have warned governments to prepare for an AI “intelligence explosion”, which they say could be the most consequential technological development in history.A report co-authored by the <a href=\"http",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/sep/27/bill-gates-artificial-intelligence-kristen-welker",
-        "seendate": "2026-09-27T09:00:01.000Z",
+        "url": "https://www.theguardian.com/technology/2026/sep/28/ai-godfathers-warn-of-runaway-intelligence-explosion",
+        "seendate": "2026-09-28T15:00:36.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Pope Leo warns of AI threat to humanity at start of three-day France visit",
-        "summary": "Pontiff says artificial intelligence must remain at service of people in first official papal visit to country in 18 yearsPope Leo has warned against losing humanity in a “paradise of machines” as he addressed global concerns over the dangers of artificial intelligence a",
+        "title": "Teachers at Euan Blair firm report ‘horrendous stress’ after AI used to rate their work",
+        "summary": "Exclusive: Instructors at tech training company Multiverse hit out at ‘remorseless’ and ‘unnerving’ monitoring systemTeachers at Euan Blair’s £1.6bn tech training company, Multiverse, have blown the whistle about “horrendous stress” and feeling constantly watched after bosses started using AI models to surveil and rate their teaching.Staff delivering apprenticeship training in computer and AI skills",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/sep/25/pope-leo-ai-threat-to-humanity-three-day-france-visit",
-        "seendate": "2026-09-25T16:01:10.000Z",
+        "url": "https://www.theguardian.com/technology/2026/sep/28/teachers-euan-blair-firm-report-horrendous-stress-ai-used-to-rate-their-work",
+        "seendate": "2026-09-28T11:57:57.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
+        "summary": "Decision follows disclosures that OpenAI agents searching government websites had acted in unexpected waysOpenAI said it has paused training of its latest artificial intelligence models as reports of AI agents going rogue mount.The decision to halt development came just hours after the company disclosed Friday that it was reviewing several incidents from the summer in which <a href=\"https://www.thegu",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue",
+        "seendate": "2026-09-27T01:10:21.000Z",
         "domain": "theguardian.com"
       },
       {
@@ -323,65 +331,73 @@ window.NEWS_CACHE = {
         "domain": "theguardian.com"
       },
       {
-        "title": "Launch of UK’s ‘largest AI supercomputer’ delayed by power supply problems",
-        "summary": "Datacentre hailed by government was supposed to start operating next year but may be held back into mid-2030sA huge datacentre project hailed by the UK government will miss its launch date next year and could be delayed into the mid-2030s.The site in Loughton, Essex, was described as the country’s largest AI supercomputer when it was announced in 2025, but power supply problems mean it now faces a le",
+        "title": "AI leaders have known about the extinction threat for decades | Judith Levine",
+        "summary": "Scientists and entrepreneurs knew the dangers of AI a quarter-century ago. But animated by curiosity and profit, they went ahead anywayOver the past few weeks, many of us have struggled to concoct a mental image of brains in the cloud jumping their “sandbox”, sneaking on to the internet, recruiting “swarms” of other “agents” to cheat on a test, and, after discussing the ethics of the act, hacking into a wik",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/sep/24/construction-largest-supercomputer-delayed",
-        "seendate": "2026-09-24T17:26:26.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "The comedians turning AI anxiety into punchlines: ‘It’s so good, it’ll completely alter our grasp on reality’",
-        "summary": "Across videos, standup and cartoons, humorists are skewering big tech’s attempt to make AI ubiquitous and inevitable“Best case scenario, we never have to do any admin again,” says an AI CEO. “Worst case, we all die.”A young man struggles to the top of a beautiful mountain, words echoing in hi",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/sep/25/ai-anxiety-comedy",
-        "seendate": "2026-09-25T12:00:50.000Z",
+        "url": "https://www.theguardian.com/commentisfree/2026/sep/28/ai-extinction-threats",
+        "seendate": "2026-09-28T10:00:31.000Z",
         "domain": "theguardian.com"
       }
     ],
     "climate": [
       {
-        "title": "Dog dies trying to protect northern California couple from bear attack",
-        "summary": "Couple was seriously injured after attack on 19 September and are mourning the death of their French bulldog A bear attack last weekend has left a California couple seriously injured and mourning the death of their French bulldog, who tried to protect them from the animal.In the early hours of 19 September, Jeff Wilson, who lives in rural northern California, let his dog Cassie go outside, the San Fr",
+        "title": "Samuel Alito steps aside in a major climate case amid scrutiny over oil stock holdings",
+        "summary": "Decision from conservative justice comes before court hears case on whether fossil-fuel firms deceived US publicSupreme court justice Samuel Alito recused himself on Monday from a major climate-change case after facing calls to step aside due to stock holdings in oil companies.A letter posted in the case did not specify a reason, but the conservative justice has previously recused himself from other",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/sep/27/northern-california-bear-attack",
-        "seendate": "2026-09-27T22:22:38.000Z",
+        "url": "https://www.theguardian.com/us-news/2026/sep/28/samuel-alito-supreme-court-oil-climate-case",
+        "seendate": "2026-09-28T21:47:41.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Nor’easter storm batters US east coast with heavy winds and power outages",
-        "summary": "At least one person killed and about 110,500 households still without power from North Carolina to New EnglandA strong, deadly storm known as a nor’easter battered the US’s east coast over the weekend, bringing power ou",
+        "title": "Trump administration to slash clean car rules aimed at cutting climate emissions",
+        "summary": "Environmentalists decry move that relaxes requirements on automakers to control pollution from gas-powered carsThe Trump administration on Monday announced it was slashing clean car rules that had been aimed at reducing planet-heating emissions and boosting electric vehicles.The move, which was criticized by environmentalists, relaxes requirements on automakers to control pollution from gasoline-powe",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/sep/27/noreaster-storm-east-coast-death-power-outages",
-        "seendate": "2026-09-27T21:52:59.000Z",
+        "url": "https://www.theguardian.com/us-news/2026/sep/28/trump-administration-slashes-clean-car-rules",
+        "seendate": "2026-09-28T15:56:32.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Datacenter developers accused of skirting key US pollution rules",
-        "summary": "Firms manipulating process to avoid emission controls and scrutiny of their projects, environmental groups warnDatacenter developers are manipulating the EPA’s air pollution permitting process to avoid emission controls and scrutiny of their projects, environmental advocates allege.Companies need federal permits to emit a range of pollutants. In their permit applications, some in big tech are avoidin",
+        "title": "Decades of fossil fuel influence paved way for Trump’s assault on university research, study says",
+        "summary": "Fossil fuel firms have spent years trying to regulate climate research by donating to US universities, study authors argueRecent attacks on US universities by the Trump administration have built on decades of efforts by libertarian donor networks, fossil fuel companies and conservative thinktanks to reshape university governance and increase outside influence, according to a new study.The authors of",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/sep/27/datacenter-developers-us-pollution-rules",
-        "seendate": "2026-09-27T14:00:06.000Z",
+        "url": "https://www.theguardian.com/us-news/2026/sep/28/fossil-fuel-industry-climate-research-universities-study",
+        "seendate": "2026-09-28T12:00:33.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Grizzly reality: US states grapple with uptick in encounters between bears and humans",
-        "summary": "Bears are increasingly entering places where humans live in the US, forcing wildlife workers to make tough decisionsDan Thompson, supervisor of the large carnivore section of the Wyoming game and fish department, enjoys the field work of capturing mountain lions, wolves, black bears and grizzly bears to study them.“I have always been personally intrigued with carnivores and their role throughout any",
+        "title": "Concern mounts over slow-moving, planetary-scale ‘Kelvin’ wave heading for California",
+        "summary": "The ocean phenomenon could raise sea levels by up to a foot as El Niño keeps warm water trapped along the coastConcerns are mounting about an ocean phenomenon known as a Kelvin wave that could raise sea levels along the California coastline by up to a foot, as scientists say El Niño is supercharging the threat of storm surges and flooding in the coming months.As an incredibly strong El Niño continues",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/sep/27/bear-human-encounters",
-        "seendate": "2026-09-27T12:00:04.000Z",
+        "url": "https://www.theguardian.com/us-news/2026/sep/28/california-kelvin-wave",
+        "seendate": "2026-09-28T11:00:33.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "New research finds 485 chemicals in US pesticide products linked to breast cancer",
-        "summary": "Paper raises questions about safety of food and other products as early onset breast cancer rates surge worldwideNew research has identified at least 485 chemicals used in US pesticide products that are linked to breast cancer, raising questions about the safety of food and other products at a time when early onset breast cancer rates are <a href=\"https://www.theguardian.com/society/2025/feb/24/breast-cance",
+        "title": "Hormone-disrupting herbicide contaminating 25% of continental US rivers, report finds",
+        "summary": "Atrazine, banned in 60 countries, polluting rivers at levels that can harm wildlife and may threaten human healthThe hormone-disrupting herbicide atrazine is contaminating nearly 25%, or about 860,000 miles, of all continental US rivers at levels that can harm wildlife and may threaten human health, a <a href=\"https://biologicaldiversity.org/campaigns/pesticides_reduction/atrazine/pdfs/Pernicious-Pesticide-",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/sep/26/breast-cancer-us-pesticide-products",
-        "seendate": "2026-09-26T13:00:36.000Z",
+        "url": "https://www.theguardian.com/environment/2026/sep/28/atrazine-herbicide-pollution-rivers",
+        "seendate": "2026-09-28T11:00:31.000Z",
         "domain": "theguardian.com"
       }
     ],
     "science": [
+      {
+        "title": "‘Starship is in orbit’: cheers go up as huge SpaceX rocket circles Earth for first time",
+        "summary": "Mission goes ahead despite some fears an initial engine failure after the Texas launch would scupper the attemptSpaceX has sent its enormous Starship rocket into Earth’s orbit for the first time on a milestone flight intended to pave the way for future missions to the moon and Mars.The rocket, the largest and most powerful ever built, blasted off from SpaceX’s Starbase launch facility in Texas at 7.4",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/sep/28/spacex-starship-rocket-orbits-earth-texas",
+        "seendate": "2026-09-28T16:23:49.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Gene-edited bananas that don’t go brown could hit UK supermarkets",
+        "summary": "Scientific breakthrough could reduce food waste and make it easier to add the fruit to prepackaged foodIt is the bane of every fruit bowl: sliced banana that turns brown before it has reached the table. But such woes could soon be a thing of the past, with gene-edited bananas that keep their freshly peeled colour now one step closer to reaching British shoppers.According to Tropic, the Norwich-based",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/sep/28/gene-edited-non-browning-banana-britain-shops",
+        "seendate": "2026-09-28T15:50:44.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "‘Gamechanging’ brain tumour test reduces diagnosis from eight weeks to two hours",
         "summary": "NHS England says test can be done while patient is on operating table and is being piloted in five centres around the countryA rapid new test for brain tumours can diagnose patients while they are still on the operating table.Scientists have called the development “gamechanging” and said it could secure early treatment for those who “do not have time on their side”. <a href=\"https://www.theguardi",
@@ -391,35 +407,19 @@ window.NEWS_CACHE = {
         "domain": "theguardian.com"
       },
       {
-        "title": "DNA database of UK dogs could help police collar criminals",
-        "summary": "Experts working on database that could identify particular breeds involved in crimes, or rule out canine suspectsFrom tracking criminals to sniffing out drugs, dogs have long helped police crack cases. Now experts are hoping a database of canine DNA could offer vital leads.While hair, saliva and other canine material may be found at crime scenes, or on individuals connected to incidents, scientists s",
+        "title": "Can you solve it? Isaac Newton’s tower drop puzzle",
+        "summary": "The problem that changed the worldUPDATE: Solution is now upToday’s puzzle played a pivotal role in the birth of classical physics.The tower dropslightly to the westslightly to the eastexactly at the bottom <a href=\"https://www.theguardian.com",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/sep/25/dna-database-uk-dogs-vital-evidence-police-criminals",
-        "seendate": "2026-09-25T12:00:49.000Z",
+        "url": "https://www.theguardian.com/science/2026/sep/28/can-you-solve-it-isaac-newtons-tower-drop-puzzle",
+        "seendate": "2026-09-28T06:10:25.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Ancient wall found beneath Paris could confirm site of first settlement",
-        "summary": "Discovery of Gallo-Roman period structure hailed as ‘major breakthrough’ by French culture ministryAn ancient wall discovered beneath Paris has been described as a “major breakthrough” by France’s culture ministry, with the archaeological find possibly confirming the location of the city’s original settlement.A roughly 20-metre (65ft) stretch of wall dating from the <a href=\"https://www.theguardian.c",
+        "title": "Starwatch: Tracking down the faint stars of Pisces",
+        "summary": "Below the southern edge of the Great Square of Pegasus lie the fishes, linked by two stringsThis week we will track down Pisces, the fishes. Despite being one of the largest zodiacal constellations, it can be surprisingly difficult to identify because it contains no bright stars.The chart shows the view looking east from London at 10pm on Monday. As the week progresses, the bright waning moon will ri",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/sep/23/ancient-wall-paris-first-settlement-archaeology-roman",
-        "seendate": "2026-09-23T12:06:21.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Bats originated in Europe, rewriting mammals’ family tree, study reveals",
-        "summary": "Biggest study of its kind provides insights into bats’ evolution – a potential gamechanger for research into treating viruses and cancer in humansIn the northern forests of the Congo-Brazzaville, as the sun slips away, a distinctive honking fills the dusky sky. Every evening, thousands of hammer-headed fruit bats depart their daytime roosts in search of mates, calling out through large, box-shaped sn",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/2026/sep/23/bats-originated-in-europe-disease-study-reveals-aoe",
-        "seendate": "2026-09-23T15:00:52.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Glimpses into lives of Roman suburbanites in Bath revealed in rare finds",
-        "summary": "Exclusive: Restoration work at Bath Assembly Rooms unearths Roman ditches containing pottery, coins and fragments of a military helmetThe restoration of a Georgian building in Bath once frequented by Jane Austen has unexpectedly provided a tantalising glimpse into the life of the city’s Roman suburbanites.A network of Roman ditches containing pottery, coins, glassware and a fragment of a military hel",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/sep/23/archaeologists-clues-suburban-life-roman-times-bath",
-        "seendate": "2026-09-23T06:00:19.000Z",
+        "url": "https://www.theguardian.com/science/2026/sep/28/starwatch-tracking-down-faint-stars-of-pisces",
+        "seendate": "2026-09-28T05:00:25.000Z",
         "domain": "theguardian.com"
       }
     ]
