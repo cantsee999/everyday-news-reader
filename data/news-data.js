@@ -1,5 +1,5 @@
 window.NEWS_CACHE = {
-  "generatedAt": "2026-09-29T02:22:01.978Z",
+  "generatedAt": "2026-09-30T01:43:25.215Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
@@ -88,11 +88,35 @@ window.NEWS_CACHE = {
     ],
     "economy": [
       {
+        "title": "Anthropic ‘warns of existential AI risks to humanity’ in IPO document",
+        "summary": "Reported admission to investors of AI’s ‘self-preserving behaviours’ comes as company prepares for a potential $2tn flotationAnthropic is telling investors that advanced AI could pose “catastrophic or existential risks to humanity”, according to reports, as it prepares for a potential $2tn (£1.5tn) flotation.The warning inside the startup’s IPO prospectus, which has yet to be made public, was reporte",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/sep/29/anthropic-warns-existential-ai-risks-humanity-ipo-document-claude",
+        "seendate": "2026-09-29T10:17:58.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "US ban on Canadian imports likely to weaken already fragile relationship",
+        "summary": "It marks another ratcheting up of Trump’s trade war and affects nearly $1bn in imports of a $880bn trade relationshipUS-Canada relations, already tense, are likely to deteriorate further after the United States went ahead early on Tuesday with a decision to ban nearly $1bn worth of Canadian imports, including alcoholic beverages, dairy products and moto",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/sep/29/ban-canada-imports",
+        "seendate": "2026-09-29T14:04:53.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "As the US midterms approach, Trump’s boasts on the economy fall flat with voters",
         "summary": "Trump’s tariffs and his war against Iran caused prices to rise, but the US president continues to claim it’s ‘the greatest economy in history’Sign up for The Stakes 2026: your weekly guide to the US midtermsDonald Trump has taken to repeating a familiar boast",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/business/2026/sep/28/trump-us-economy-midterm-elections",
         "seendate": "2026-09-28T11:00:32.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "On the rocks? Scotch distilleries pause production as unsold ‘whisky loch’ grows",
+        "summary": "Demand for Scotland’s most famous export has slumped, with industry facing job cuts and closuresObscured by the Scottish countryside on the outskirts of Kirkcaldy, Cluny bond is, in effect, a small town built to store whisky. By the time the latest set of warehouses are finished on the former opencast coal mine, Diageo’s 220-hectare (544-acre) maturation campus will be able to store almost 3m casks of Scotc",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/food/2026/sep/29/scotch-distilleries-pause-production-whisky-loch-scotland",
+        "seendate": "2026-09-29T09:01:00.000Z",
         "domain": "theguardian.com"
       },
       {
@@ -102,33 +126,33 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/us-news/2026/sep/28/corporate-profiteering-americans-economy",
         "seendate": "2026-09-28T11:00:32.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Nvidia unveils security platform to rein in AI agents and $150bn stock buyback",
-        "summary": "Chipmaker says new system was designed to prevent AI agents from going rogue amid incidents at top companiesNvidia on Monday unveiled a new security platform that the chipmaker said can stop artificial intelligence agents from going rogue.The company announced a $1",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/sep/28/nvidia-ai-agent-security-platform-stock-buyback",
-        "seendate": "2026-09-28T19:24:07.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Revealed: the undisclosed safety data emerging as weedkiller maker faces Parkinson’s lawsuits in US",
-        "summary": "Syngenta denies keeping relevant data from the EPA as paraquat stays in the US market despite global bansSweden started ringing the alarm bell more than 20 years ago, calling for a ban on the weedkilling chemical paraquat in 2004. One by one, dozens of other countries did the same as evidence of paraquat risks to human health mounted. Even the Chinese government, which owns the longtime paraquat maker <a hr",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/ng-interactive/2026/sep/25/syngenta-paraquat-parkinsons-lawsuits-epa",
-        "seendate": "2026-09-25T12:00:50.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "White House television pool resumes after banned news outlets regain access",
-        "summary": "Trump’s media ban resulted in an effective TV blackout of coverage of the president during the UN general assemblyThe primary White House television pool has resumed filming administration events after a court ruling temporarily overturned a Trump administration ban on CN",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/media/2026/sep/25/trump-media-ban-white-house-pool",
-        "seendate": "2026-09-25T16:03:18.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "literature": [
+      {
+        "title": "Cherise Saywell wins national short story award for ‘tender’ tale of a child facing violence – read an extract here",
+        "summary": "The Edinburgh-based writer takes £15,000 prize for Ditto, a ‘beautifully told’ story about domestic abuse in a small Australian townRead an extract from Ditto belowEdinburgh-based writer Cherise Saywell has won this year’s BBC national short story award for a “tender” and “taut” story about a young boy caught in the midst of domestic violence.Saywell was anno",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/sep/29/cherise-saywell-wins-bbc-short-story-award-ditto",
+        "seendate": "2026-09-29T19:00:04.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "The Fall of the West by Owen Jones review – a bracing history of the changing world order",
+        "summary": "A journalist charts a quarter century of geopolitical hubris and economic overreach Like many Britons born in the 1980s, the journalist and Guardian columnist Owen Jones came of age with Tony Blair’s platitudes ringing in his ears. Politics at the turn of the millennium was a story of temporary dispensations mistaken for eternal truths: the definitive triumph of free market ideology; US military supremacy;",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/sep/29/the-fall-of-the-west-by-owen-jones-review-a-bracing-history-of-the-changing-world-order",
+        "seendate": "2026-09-29T08:00:57.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Stations by Louise Kennedy review – a superb follow-up to Trespasses",
+        "summary": "This tale of broken hearts and broken people moves from the Troubles of 1980s Northern Ireland to an unforgiving London of squats and payphonesLouise Kennedy’s first novel, Trespasses, was one of those rare triumphs, a debut that was not only rapturously received by critics but adored by re",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/sep/29/stations-by-louise-kennedy-review-a-superb-follow-up-to-trespasses",
+        "seendate": "2026-09-29T06:00:55.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Range by Dorthe Nors review – an astrophysicist at odds with reality",
         "summary": "In the Danish writer’s latest novel, an eminent scientist withdraws to the countrysideWhen Gunn Haven, an eminent professor of astrophysics at an urban university, moves to rural Denmark, she tells a local newspaper: “It’s to do with the sky.” From the outset of Range, Danish author Dorthe Nors’s fifth full-length novel, it is apparent this is not the whole truth. Soon after arriving, Gunn is compelled to t",
@@ -144,166 +168,166 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/books/2026/sep/28/deep-into-the-sixties-britain-1965-66-by-david-kynaston-review-beatles-bigots-and-streets-in-the-sky",
         "seendate": "2026-09-28T06:00:25.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Tomi Adeyemi on the film of her hit novel Children of Blood and Bone: ‘I don’t plan to watch it’",
-        "summary": "Her debut earned a record-breaking YA book deal – then came her fallout with Hollywood. The author talks about the pressures of success and why she is pictured on the cover of her new novelThere is a photograph of Tomi Adeyemi staring out from the cover of her new novel, The Siren. It is an arresting image: her face fills the frame, unsoftened by a smile, her piercing gaze fixed directly on the viewer. “It’",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/sep/27/tomi-adeyemi-on-the-film-of-her-hit-novel-children-of-blood-and-bone-i-dont-plan-to-watch-it",
-        "seendate": "2026-09-27T11:00:02.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Does avoiding misery make you happy?",
-        "summary": "It might seem like self-preservation, but the results aren’t necessarily what you’d expectIn Dr Seuss’s Green Eggs and Ham, the relentlessly upbeat Sam-I-Am spends the entire book badgering a grouchy, nameless narrator into tasting the eponymous dish. He cycles through one inventive but futile pitch after another – in a hous",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/sep/27/does-avoiding-misery-make-you-happy",
-        "seendate": "2026-09-27T11:00:04.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "‘We left Ireland because there wasn’t work – and we wanted to get the hell away’: Trespasses author Louise Kennedy",
-        "summary": "Her Troubles-set debut became a hit TV series starring Gillian Anderson. Now the novelist has returned to her teen years for a follow-up. She talks about her journey from chef to author, and how her cancer diagnosis inspired her to writeLouise Kennedy’s life&nbsp;has hardly wanted for dramatic events, but the recent past has been spectacularly busy, even by her standards. You wouldn’t know it to look at her",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/sep/26/we-left-ireland-because-there-wasnt-work-and-we-wanted-to-get-the-hell-away-trespasses-author-louise-kennedy",
-        "seendate": "2026-09-26T08:00:30.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "entertainment": [
       {
-        "title": "John Oliver on Brazil’s Flávio Bolsonaro: ‘Fearmongering and flagrant daddy issues’",
-        "summary": "The Last Week Tonight host digs into Brazil’s election, with current leader Lula faces a disgraced former president’s sonOn the latest Last Week Tonight, John Oliver looked ahead to Sunday’s major election in Brazil, where 160 million people will vote to determine the country’s president",
+        "title": "The cure for doomscrolling? Why Tom Cruise stopped a woman mid-scroll",
+        "summary": "Viral CCTV footage shows the star checking in on a woman he thought was in distress, but who was only engrossed in social media. Perhaps we could all use some CruiseName: Doomscrolling interventions.Age: Very recent. Continue reading...",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/sep/28/john-oliver-brazil-flavio-bolsonaro",
-        "seendate": "2026-09-28T15:29:07.000Z",
+        "url": "https://www.theguardian.com/film/2026/sep/29/doomscrolling-tom-cruise-woman-viral-tiktok-digger",
+        "seendate": "2026-09-29T16:34:45.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Stevie Wonder releases four unheard songs from Songs in the Key of Life sessions",
-        "summary": "Previously unreleased material comes as Wonder marks 50th anniversary of album with arena tourStevie Wonder has expanded the scope of what was already the most epic studio album in his catalogue, 1976’s Songs in the Key of Life.Four unheard songs from the recording sessions have been released today as a new EP of the same name, marking the 50th anniversary of an album which won album of the year at t",
+        "title": "Digger review – Tom Cruise’s loudmouth oil tycoon goes hard in Alejandro G Iñárritu’s eco-satire",
+        "summary": "One man’s irresponsible drilling causes a global crisis in Iñárritu’s exasperatingly laborious, self-congratulatory filmA new movie from the Oscar-winning Mexican director Alejandro González Iñárritu is always an event. So it’s disconcerting to discover that the event in question is the most disappointing film of the year: an exasperatingly shallow, laborious, self-congratulatory satire with a trick up its",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/music/2026/sep/28/stevie-wonder-releases-four-unheard-songs-from-songs-in-the-key-of-life-sessions",
-        "seendate": "2026-09-28T13:27:33.000Z",
+        "url": "https://www.theguardian.com/film/2026/sep/29/digger-review-tom-cruise-satire-alejandro-gonzalez-inarritu",
+        "seendate": "2026-09-29T16:00:00.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘Richly rewarding’: why Netflix’s A Different World is the only TV reboot worth watching this year",
-        "summary": "With zany twists and lovable new faces, reboot of the Black sitcom is a worthy sequel to the trailblazing 1980s originalIt’s often the case that nothing disappoints like a sitcom reboot. The Malcolm in the Middle revival is <a href=\"https://variety.com/2026/tv/news/malcolm-in",
+        "title": "‘We got naked and covered ourselves in Vaseline’: Katherine Hubbard on photographing her ailing mother",
+        "summary": "Over five years, Hubbard photographed her mother at home as her memory declined – even persuading her to make nude body prints. What does her mum think of the wrenchingly beautiful images?At the peak of the Covid-19 pandemic in 2020, artist Katherine Hubbard started to sense something was not right with her mother, Antonette Berger. “It was impossible at the time to say what I was noticing, but something wa",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/sep/28/a-different-world-netflix-reboot",
-        "seendate": "2026-09-28T11:00:31.000Z",
+        "url": "https://www.theguardian.com/artanddesign/2026/sep/29/katherine-hubbard-mother-dementia-studio-voltaire-the-great-room",
+        "seendate": "2026-09-29T15:04:34.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Rediscovered chalk drawing of child attributed to Édouard Manet",
-        "summary": "Exclusive: Work, whose subject resembles street urchin in masterpiece by artist, chanced upon in private collectionA red chalk drawing of a crouching child, spotted in a private Italian collection, has been attributed by an art historian to the French modernist painter Édouard Manet.The child, whose identity has yet to be established, resembles a street urchin in the Manet masterpiece <a href=\"https:",
+        "title": "Jon Stewart on Trump offering to sell weapons to China: ‘How does America even stay on the map sometimes?’",
+        "summary": "Late-night hosts discussed Trump’s private ballroom tour for China’s Xi Jinping and his ‘great interest’ in graniteLate-night hosts recapped Donald Trump’s lavish state dinner for the Chinese leader, <a href=\"https://www.theguardi",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/artanddesign/2026/sep/28/drawing-child-attributed-edouard-manet",
-        "seendate": "2026-09-28T09:55:44.000Z",
+        "url": "https://www.theguardian.com/culture/2026/sep/29/jon-stewart-trump-xi-jinping-visit",
+        "seendate": "2026-09-29T15:01:12.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘Should have garnered the actor an Oscar’: why Liar Liar is my feelgood movie",
-        "summary": "The latest in our series of writers paying tribute to the films they watch when they need a lift is an appreciation of Jim Carrey’s manic 90s comedyTo be completely honest, whenever anybody asks what my favorite movies are, my list has some typical standbys: Goodfellas and It’s a Wonderful Life among them. The holiday classic National Lampoon’s Christmas Vacation is another. But there’s one feelgood fave on",
+        "title": "‘Stern, sensuous, almost kissable lips’: why sculptures can have far more power when they’re broken",
+        "summary": "From a pharoah’s pouting and almost kissable lips to a Mussolini with a hole in the head, a new exhibition is exploring how some ancient fragments speak more profoundly than fully intact treasuresThe nose of Cleopatra VII was supposed to have been so beautiful that it changed the course of history: if it had been shorter, French philosopher Blaise Pascal wrote, “the whole face of the earth would have change",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/sep/28/liar-liar-jim-carrey-feelgood-movie",
-        "seendate": "2026-09-28T09:00:29.000Z",
+        "url": "https://www.theguardian.com/artanddesign/2026/sep/29/sculpture-far-more-power-if-broken",
+        "seendate": "2026-09-29T14:00:52.000Z",
         "domain": "theguardian.com"
       }
     ],
     "f1": [
       {
-        "title": "McLaren Racing reportedly set for historic $1billion revenue milestone",
-        "summary": "McLaren Racing is projected to become the first Formula 1 team to surpass $1billion in annual revenue, according to a report by Sky News.The report states that McLaren Racing Ltd's accounts for the 2025 calendar year will be filed this week. Sources indicate the Woking outfit will declare revenue of £588million ($779.6million). While the figures include McLaren's IndyCar operations, F1 ...<a class='more'",
+        "title": "Was Baku really Max Verstappen's best chance to win in F1 2026?",
+        "summary": "When Max Verstappen walked into the Red Bull hospitality on Friday for his Dutch Formula 1 media session – which in Azerbaijan, incidentally, consisted of just two Dutch journalists – the message was clear. The Baku City Circuit offered Red Bull its best opportunity to win a race this year, but Verstappen added: \"We’ve done a great job messing it up.\"A day later, he still came remarkably ...<a class='mor",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/mclaren-racing-reportedly-set-for-historic-1billion-revenue-milestone/10859918/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-28T22:00:26.000Z",
+        "url": "https://www.motorsport.com/f1/news/was-baku-really-max-verstappens-best-chance-to-win-in-f1-2026/10859854/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-29T15:30:02.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Williams F1 announces huge K-pop star TZUYU collaboration",
-        "summary": "Williams has announced that K-pop artist TZUYU will record the official theme song for its ongoing partnership with the global anime property DAN DA DAN.Following a mixed weekend at the Azerbaijan Grand Prix, where Carlos Sainz collected one point with a 10th-place finish and Alex Albon crashed out, the team now heads to the next stop in the triple-header. The Bahrain Grand Prix, held in ...<a class='mor",
+        "title": "How Isack Hadjar injured his wrist during F1 2026 summer break",
+        "summary": "Isack Hadjar broke a bone in his wrist while training during the 2026 Formula 1 summer break, forcing him to sit out the Dutch Grand Prix at Zandvoort and requiring Red Bull and Racing Bulls to reshuffle their driver line-ups.The will-he-won't-he question of his return then provided fodder for headlines in the following weeks as he skipped the next two rounds at the recommendation of MotoGP ...<a class='",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/williams-f1-announces-huge-k-pop-star-tzuyu-collaboration/10859893/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-28T17:46:54.000Z",
+        "url": "https://www.motorsport.com/f1/news/how-isack-hadjar-injured-his-wrist-during-f1-2026-summer-break/10859838/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-29T14:30:04.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Lewis Hamilton honours Roscoe with touching tribute one year after his death",
-        "summary": "Seven-time Formula 1 champion Lewis Hamilton has shared a touching tribute to his late dog Roscoe on the first anniversary of the English Bulldog's passing.Hamilton has taken to social media to honour the memory of his famous bulldog, Roscoe, exactly one year after his passing. The much-loved bulldog died on 28 September 2025, having been placed into a coma after being treated for ...<a class='more' href",
+        "title": "McLaren Racing and Edward Jones join forces in multi-year F1 and IndyCar partnership",
+        "summary": "In a joint announcement, McLaren Racing and Edward Jones revealed a new multi-year partnership designating the St. Louis–based firm as the Official Private Wealth Management Partner across both Formula 1 and IndyCar. The agreement establishes a long-term, year-round presence across two of global motorsport's premier racing platforms.The activation begins during the 2026 Formula 1 season with ...<a class=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/lewis-hamilton-honours-roscoe-with-touching-tribute-one-year-after-his-death/10859889/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-28T17:31:17.000Z",
+        "url": "https://www.motorsport.com/indycar/news/mclaren-racing-and-edward-jones-join-forces-in-multi-year-f1-and-indycar-pa/10859933/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-29T13:03:26.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Max Verstappen was \"nightmare fuel\" for George Russell in Baku, says Alex Brundle",
-        "summary": "F1 TV pundit Alex Brundle says Max Verstappen relentlessly hunting down George Russell in the closing stages of the Azerbaijan Grand Prix was \"nightmare fuel\" for the Mercedes driver.While Russell had built a commanding lead, the safety car neutralised the field and he found himself with Verstappen right on his heels at the restart. The Briton held on to win the Baku race by just 0.1 seconds ...<a class=",
+        "title": "“I fear something bad is going to happen soon” – 2026 F1 cars are “too dangerous”, Sergio Perez warns",
+        "summary": "Sergio Perez says he fears “something bad” might happen due to the speed differential between cars with Formula 1’s new machinery.This was a major topic early in the 2026 season, especially after Oliver Bearman had a mammoth crash in the Japanese Grand Prix. The Haas driver lost control of his car after taking avoiding action when he encountered a slower Franco Colapinto on track during ...<a class='more",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/max-verstappen-was-nightmare-fuel-for-george-russell-in-baku-says-alex-brundle/10859884/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-28T17:10:43.000Z",
+        "url": "https://www.motorsport.com/f1/news/i-fear-something-bad-is-going-to-happen-soon-2026-f1-cars-are-too-dangerous-sergio-perez-warns/10859878/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-29T12:39:15.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Colton Herta aiming at F1 by 2028: 'I still have a chance'",
-        "summary": "“It would be foolish to sit here and think that I will be on the pace right away, that I will be on the pace and ready to win in my first race. I may be older, but speed-wise, these guys are just as fast as anybody out there.”This was how Colton Herta viewed his gamble of a Formula 2 switch from IndyCar as he pursued his Formula 1 dream, and he has so far been proven right – actually ...<a class='more' h",
+        "title": "Fernando Alonso extends Aston Martin contract into F1 2027",
+        "summary": "Fernando Alonso has finally confirmed that he will continue with Aston Martin into the 2027 Formula 1 campaign, ending all speculation surrounding his future.For months the 45-year-old had been answering questions about whether or not he will stick with F1, given his then Aston Martin contract expired at the end of the current 2026 campaign.The double champion claimed it depended on which ...<a class",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/colton-herta-aiming-at-f1-by-2028-i-still-have-a-chance/10859691/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-28T16:57:11.000Z",
+        "url": "https://www.motorsport.com/f1/news/fernando-alonso-extends-aston-martin-contract-into-f1-2027/10860010/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-29T11:04:57.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "This mod delivers what Valheim was missing all these years: seasons",
-        "summary": "Another reason to update our list of recommendations.",
+        "title": "Making our favorite FPS modes 1v1 to decide the greatest of them all",
+        "summary": "Vote on the greatest FPS mode of all time. There can only be one.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/survival-crafting/this-mod-delivers-what-valheim-was-missing-all-these-years-seasons/",
-        "seendate": "2026-09-29T00:34:36.000Z",
+        "url": "https://www.pcgamer.com/games/fps/making-our-favorite-fps-modes-1v1-to-decide-the-greatest-of-them-all/",
+        "seendate": "2026-09-29T23:46:49.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "I can't stop comparing the dialogue from the original, messy FF7 localization and its vastly improved fan translation",
-        "summary": "The Shinra Archaeology Cut of FF7 gives the game the treatment Square Enix's official PC release deserved.",
+        "title": "One of my all-time favorite games just announced an expansion, yet all I feel is fear",
+        "summary": "More Satisfactory is a good thing. Why, then, do I feel this dread welling up inside me?",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/final-fantasy/i-cant-stop-comparing-the-dialogue-from-the-original-messy-ff7-localization-and-its-vastly-improved-fan-translation/",
-        "seendate": "2026-09-29T00:05:26.000Z",
+        "url": "https://www.pcgamer.com/games/survival-crafting/one-of-my-all-time-favorite-games-just-announced-an-expansion-yet-all-i-feel-is-fear/",
+        "seendate": "2026-09-29T23:15:21.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Former Elder Scrolls writer Kurt Kuhlmann is '100% convinced' a load-bearing bit of series lore was inspired by a typo",
-        "summary": "The Warp in the Draft.",
+        "title": "Deadlock's gigantic new update gives its city a spooky new coat of paint and debuts 6 new heroes, including the one and only Rat King",
+        "summary": "Valve continues to polish the game into one of the moodiest MOBAs out there.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/the-elder-scrolls/former-elder-scrolls-writer-kurt-kuhlmann-is-100-percent-convinced-a-load-bearing-bit-of-series-lore-was-inspired-by-a-typo/",
-        "seendate": "2026-09-28T22:16:37.000Z",
+        "url": "https://www.pcgamer.com/games/moba/deadlocks-gigantic-new-update-gives-its-city-a-spooky-new-coat-of-paint-and-debuts-6-new-heroes-including-the-one-and-only-rat-king/",
+        "seendate": "2026-09-29T22:19:27.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "World of Warcraft: Forever dev teases new 'mega dungeon' to get lost in for hours like the good ol' days",
-        "summary": "Blackrock Depths fans will have a new dungeon that takes as long as a raid to complete.",
+        "title": "Diablo 5 director promises Diablo 2-style combat where 'the right build' matters more than Diablo 4's action-heavy approach",
+        "summary": "Blizzard wants some classic action RPG DNA in the next Diablo game.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-dev-teases-new-mega-dungeon-to-get-lost-in-for-hours-like-the-good-ol-days/",
-        "seendate": "2026-09-28T22:15:09.000Z",
+        "url": "https://www.pcgamer.com/games/rpg/diablo-5-director-promises-diablo-2-style-combat-where-the-right-build-matters-more-than-diablo-4s-action-heavy-approach/",
+        "seendate": "2026-09-29T22:10:46.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "World of Warcraft: Forever players find black market NPC who sells a 15-day movement speed buff and other rare items that nobody can afford yet",
-        "summary": "Blizzard is also using it to get ahead of price inflation.",
+        "title": "Ace Combat 8 Steam reviewers are steaming mad about its pre-order bonus not being a standalone app",
+        "summary": "The fine print for freebie Ace Combat Zero changed before launch.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-players-find-black-market-npc-who-sells-a-15-day-movement-speed-buff-and-other-rare-items-that-nobody-can-afford-yet/",
-        "seendate": "2026-09-28T21:09:12.000Z",
+        "url": "https://www.pcgamer.com/games/sim/ace-combat-8-steam-reviewers-are-steaming-mad-about-its-pre-order-bonus-not-being-a-standalone-app/",
+        "seendate": "2026-09-29T22:05:43.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
       {
-        "title": "AI godfathers warn of runaway ‘intelligence explosion’",
-        "summary": "OpenAI chief scientist also among authors of report on prospect of ‘most consequential technological development in history’Two of the “godfathers” of modern AI and senior executives at OpenAI and Anthropic have warned governments to prepare for an AI “intelligence explosion”, which they say could be the most consequential technological development in history.A report co-authored by the <a href=\"http",
+        "title": "Anthropic ‘warns of existential AI risks to humanity’ in IPO document",
+        "summary": "Reported admission to investors of AI’s ‘self-preserving behaviours’ comes as company prepares for a potential $2tn flotationAnthropic is telling investors that advanced AI could pose “catastrophic or existential risks to humanity”, according to reports, as it prepares for a potential $2tn (£1.5tn) flotation.The warning inside the startup’s IPO prospectus, which has yet to be made public, was reporte",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/sep/28/ai-godfathers-warn-of-runaway-intelligence-explosion",
-        "seendate": "2026-09-28T15:00:36.000Z",
+        "url": "https://www.theguardian.com/technology/2026/sep/29/anthropic-warns-existential-ai-risks-humanity-ipo-document-claude",
+        "seendate": "2026-09-29T10:17:58.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Mac mini M6 review: truly mighty but now more pricey",
+        "summary": "Apple’s cheapest desktop computer is no longer a bargain but its newest, fastest chip makes it a pocket powerhouseApple’s latest Mac mini brings real speed and power for far more than everyday tasks in a practically pocketable form you can fit almost anywhere.The impressive new desktop machine is the first to receive an update to Apple’s latest M6 chip while remaining smaller than a headphones box. I",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/sep/29/mac-mini-m6-review",
+        "seendate": "2026-09-29T06:00:55.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Trial of live facial recognition in London stations leads to a false positive and no arrests",
+        "summary": "Freedom of information request finds six-month trial cost £320,000, used almost 100 police hours and led to just one – incorrect – alertA six-month trial of live facial recognition (LFR) technology in London’s railway stations that cost more than £320,000 and almost 100 hours of police officers’ time led to one false match against a watchlist of suspects and no arrests.More than half a million faces",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/sep/29/trial-live-facial-recognition-cameras-london-stations-false-positive",
+        "seendate": "2026-09-29T09:48:29.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Stop shaming people for using AI. Start organizing to prevent our obsolescence | Garrison Lovely",
+        "summary": "The industry is engaged in a perverse quest to replace humans. We cannot cede the best tools available to the other sideI don’t need to tell you that people hate AI. The list of grievances is long: slop, cheating, bias, enfeeblement, electricity bills, environmental destruction, exploitation, theft, cybercrime, doom. But resistance to the technology has often taken the form of shaming people for personally",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/commentisfree/2026/sep/29/ai-replace-humans",
+        "seendate": "2026-09-29T12:00:50.000Z",
         "domain": "theguardian.com"
       },
       {
@@ -313,33 +337,33 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/technology/2026/sep/28/teachers-euan-blair-firm-report-horrendous-stress-ai-used-to-rate-their-work",
         "seendate": "2026-09-28T11:57:57.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
-        "summary": "Decision follows disclosures that OpenAI agents searching government websites had acted in unexpected waysOpenAI said it has paused training of its latest artificial intelligence models as reports of AI agents going rogue mount.The decision to halt development came just hours after the company disclosed Friday that it was reviewing several incidents from the summer in which <a href=\"https://www.thegu",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue",
-        "seendate": "2026-09-27T01:10:21.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Drones could speed up getting defibrillators to people having cardiac arrests, study suggests",
-        "summary": "New research suggests the technology could be used to increase out-of-hospital access to life-saving devicesDrones could help cut the time it takes to get a defibrillator to people experiencing cardiac arrests when not in hospital, researchers have suggested.In the UK alone, there are more than 30,000 out-of-hospital cardiac arrests a year where emergency medical services attempt to resuscitate the i",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/society/2026/sep/26/drones-could-speed-up-getting-defibrillators-to-people-having-cardiac-arrests-study-suggests",
-        "seendate": "2026-09-26T05:00:28.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "AI leaders have known about the extinction threat for decades | Judith Levine",
-        "summary": "Scientists and entrepreneurs knew the dangers of AI a quarter-century ago. But animated by curiosity and profit, they went ahead anywayOver the past few weeks, many of us have struggled to concoct a mental image of brains in the cloud jumping their “sandbox”, sneaking on to the internet, recruiting “swarms” of other “agents” to cheat on a test, and, after discussing the ethics of the act, hacking into a wik",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/commentisfree/2026/sep/28/ai-extinction-threats",
-        "seendate": "2026-09-28T10:00:31.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "climate": [
+      {
+        "title": "EPA union sues Trump administration to restore collective bargaining contract",
+        "summary": "Federal workers’ union alleges EPA illegally terminated agreement with the goal of repressing political dissentThe union representing more than 8,000 workers at the Environmental Protection Agency (EPA) filed a lawsuit against the agency and administrator Lee Zeldin on Tuesday alleging the agency illegally terminated the union’s collective bargaining agreement.The lawsuit, filed by two local unions o",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/environment/2026/sep/29/epa-union-sues-trump-administration",
+        "seendate": "2026-09-29T16:28:31.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "‘It’s just cruel’: US households hit by surge in electricity shutoffs amid record hot summer",
+        "summary": "Utility disconnections were up 28% in 10 states in July 2026 – the hottest month ever recorded in the US – compared with July 2024, data showsA record hot summer collided unhappily with rising energy costs for households across the US that struggled to the point where many were disconnected from their el",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/environment/2026/sep/29/electricity-disconnected-record-heat",
+        "seendate": "2026-09-29T13:00:51.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "The night sky is getting 10% brighter every year. We’re forgetting what darkness feels like",
+        "summary": "If more cities start regulating outdoor lighting, we humans could make the environment better for all living creaturesEvery night, I can turn off the lights in my room – but I can’t do anything about the outdoor lights in the walkway or parking lot that leak through the curtains. Living in Portland, where the night is still illuminated by street lights, porch lights and parking lot glare, I",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/environment/2026/sep/29/night-sky-darkness-city-regulation",
+        "seendate": "2026-09-29T12:00:49.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Samuel Alito steps aside in a major climate case amid scrutiny over oil stock holdings",
         "summary": "Decision from conservative justice comes before court hears case on whether fossil-fuel firms deceived US publicSupreme court justice Samuel Alito recused himself on Monday from a major climate-change case after facing calls to step aside due to stock holdings in oil companies.A letter posted in the case did not specify a reason, but the conservative justice has previously recused himself from other",
@@ -355,30 +379,6 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/us-news/2026/sep/28/trump-administration-slashes-clean-car-rules",
         "seendate": "2026-09-28T15:56:32.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Decades of fossil fuel influence paved way for Trump’s assault on university research, study says",
-        "summary": "Fossil fuel firms have spent years trying to regulate climate research by donating to US universities, study authors argueRecent attacks on US universities by the Trump administration have built on decades of efforts by libertarian donor networks, fossil fuel companies and conservative thinktanks to reshape university governance and increase outside influence, according to a new study.The authors of",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/sep/28/fossil-fuel-industry-climate-research-universities-study",
-        "seendate": "2026-09-28T12:00:33.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Concern mounts over slow-moving, planetary-scale ‘Kelvin’ wave heading for California",
-        "summary": "The ocean phenomenon could raise sea levels by up to a foot as El Niño keeps warm water trapped along the coastConcerns are mounting about an ocean phenomenon known as a Kelvin wave that could raise sea levels along the California coastline by up to a foot, as scientists say El Niño is supercharging the threat of storm surges and flooding in the coming months.As an incredibly strong El Niño continues",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/sep/28/california-kelvin-wave",
-        "seendate": "2026-09-28T11:00:33.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Hormone-disrupting herbicide contaminating 25% of continental US rivers, report finds",
-        "summary": "Atrazine, banned in 60 countries, polluting rivers at levels that can harm wildlife and may threaten human healthThe hormone-disrupting herbicide atrazine is contaminating nearly 25%, or about 860,000 miles, of all continental US rivers at levels that can harm wildlife and may threaten human health, a <a href=\"https://biologicaldiversity.org/campaigns/pesticides_reduction/atrazine/pdfs/Pernicious-Pesticide-",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/2026/sep/28/atrazine-herbicide-pollution-rivers",
-        "seendate": "2026-09-28T11:00:31.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "science": [
@@ -388,6 +388,14 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/science/2026/sep/28/spacex-starship-rocket-orbits-earth-texas",
         "seendate": "2026-09-28T16:23:49.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Are household cleaning products damaging our health? – podcast",
+        "summary": "Our use of cleaning products has increased since the pandemic, but do we understand what they could be doing to our health? The journalist Rebecca Seal recently wrote for the Guardian about the potential impacts of the many chemicals we now use in our homes. She tells Madeleine Finlay how social media has also played a role in transforming our cleaning habits, why the impact of indoor air pollution is so hard to s",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/audio/2026/sep/29/science-weekly-cleaning-products-chemicals-podcast",
+        "seendate": "2026-09-29T04:00:52.000Z",
         "domain": "theguardian.com"
       },
       {
@@ -407,19 +415,11 @@ window.NEWS_CACHE = {
         "domain": "theguardian.com"
       },
       {
-        "title": "Can you solve it? Isaac Newton’s tower drop puzzle",
-        "summary": "The problem that changed the worldUPDATE: Solution is now upToday’s puzzle played a pivotal role in the birth of classical physics.The tower dropslightly to the westslightly to the eastexactly at the bottom <a href=\"https://www.theguardian.com",
+        "title": "Did you solve it? Isaac Newton’s tower drop puzzle",
+        "summary": "The solution to the seventeenth century stumperEarlier today I set you a puzzle that Isaac Newton posed in 1679 in a latter to Robert Hooke. I mentioned that the answer is counter-intuitive, and also gave you the hint that it might have something to do with figure skating. Here’s the problem again, with its solution.The tower dropslightly to the westslightly to the east",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/sep/28/can-you-solve-it-isaac-newtons-tower-drop-puzzle",
-        "seendate": "2026-09-28T06:10:25.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Starwatch: Tracking down the faint stars of Pisces",
-        "summary": "Below the southern edge of the Great Square of Pegasus lie the fishes, linked by two stringsThis week we will track down Pisces, the fishes. Despite being one of the largest zodiacal constellations, it can be surprisingly difficult to identify because it contains no bright stars.The chart shows the view looking east from London at 10pm on Monday. As the week progresses, the bright waning moon will ri",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/sep/28/starwatch-tracking-down-faint-stars-of-pisces",
-        "seendate": "2026-09-28T05:00:25.000Z",
+        "url": "https://www.theguardian.com/science/2026/sep/28/did-you-solve-it-isaac-newtons-tower-drop-puzzle",
+        "seendate": "2026-09-28T15:48:00.000Z",
         "domain": "theguardian.com"
       }
     ]
