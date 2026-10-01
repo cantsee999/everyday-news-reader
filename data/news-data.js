@@ -1,8 +1,32 @@
 window.NEWS_CACHE = {
-  "generatedAt": "2026-09-30T01:43:25.215Z",
+  "generatedAt": "2026-10-01T01:39:04.629Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
+      {
+        "title": "Trump administration diverts human rights funds to push far-right agenda abroad",
+        "summary": "Support such as for white Afrikaners and anti-communism reveals how US is redefining what qualifies as human rightsWith hours left before the funding expires, the Trump administration is pushing to direct more than $175m of the state department’s flagship human rights fund to a slate of awards that includes a huge $40m grant for an anti-communism fund, support for a group advancing white Afrikaner rights in",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund",
+        "seendate": "2026-09-30T19:51:24.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "South African leader urges men to speak up on gender-based violence after series of killings",
+        "summary": "President announces measures amid anger at authorities over recent murders of womenSouth Africa’s president has called on men to take more responsibility for violence against women as he announced measures to tackle the problem, amid anger at authorities over a recent wave of murders.Cyril Ramaphosa acknowledged that not enough had been done to protect women. He said police would be reviewing unsolve",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/sep/30/south-africa-gender-based-violence-women-killings",
+        "seendate": "2026-09-30T14:16:33.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Burundi agrees to receive ‘third-country’ migrant deportees from US",
+        "summary": "Burundi joins several other African nations in accepting people deported under Trump’s hardline policyBurundi has agreed to join a clutch of ⁠other African nations in receiving migrants from other countries deported from the US under ⁠<a href=\"",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/sep/30/burundi-third-country-deportations-trump-immigration",
+        "seendate": "2026-09-30T12:47:15.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "DRC politician beaten to death after radio appearance about Ebola outbreak",
         "summary": "Marie-Celestin Karondwa was attacked on Sunday after promoting measures to prevent spread of disease, his party saysA senior member of the Democratic Republic of the Congo’s ruling party was beaten to death on Sunday after appearing on a radio programme to raise awareness about the Ebola outbreak, a party representative has said.Marie-Celestin Karondwa, the acting president of the Union for De",
@@ -17,35 +41,35 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
         "seendate": "2026-09-27T13:46:49.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "‘It’s hard to sell a house when it’s covered in baboon faeces’: Cape Town divided over plan to remove its monkeys",
-        "summary": "Two troops of chacma baboons are breaking into homes and shops but animal rights activists insist coexistence is the answerCape Town’s city council has said it will “imminently” round up two baboon troops coming into repeated conflict with residents. The animals will be sterilis",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/2026/sep/27/baboons-cape-town-divided-over-plan-to-remove-its-monkeys-aoe",
-        "seendate": "2026-09-27T11:00:03.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Rebel offensive against Ethiopian army stokes fears of return to civil war",
-        "summary": "Fighting escalates after Tigrayan rebels form new coalition aimed at overthrowing Abiy Ahmed governmentThere are growing fears of a return to civil war in Ethiopia after an offensive by fighters from Tigray into the neighbouring states of Afar and Amhara and the formation of a new rebel alliance aimed at overthrowing the government of the prime minister, Abiy Ahmed.About 600,000 people died between 2",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army",
-        "seendate": "2026-09-24T15:29:42.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Indian billionaire’s payments firm plots biggest London flotation in years",
-        "summary": "Sunil Bharti Mittal’s Airtel Money targets $9bn IPO in boost for ailing UK stock marketNils Pratley: Does this mark the end of London’s listing drought? Not yetA payments business that operates across Africa and is ultimately controlled by an Indian billionaire has",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/sep/23/indian-billionaire-payments-firm-london-flotation-airtel-money",
-        "seendate": "2026-09-23T11:08:01.000Z",
         "domain": "theguardian.com"
       }
     ],
     "conflict": [
       {
+        "title": "Trump administration diverts human rights funds to push far-right agenda abroad",
+        "summary": "Support such as for white Afrikaners and anti-communism reveals how US is redefining what qualifies as human rightsWith hours left before the funding expires, the Trump administration is pushing to direct more than $175m of the state department’s flagship human rights fund to a slate of awards that includes a huge $40m grant for an anti-communism fund, support for a group advancing white Afrikaner rights in",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund",
+        "seendate": "2026-09-30T19:51:24.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "South African leader urges men to speak up on gender-based violence after series of killings",
+        "summary": "President announces measures amid anger at authorities over recent murders of womenSouth Africa’s president has called on men to take more responsibility for violence against women as he announced measures to tackle the problem, amid anger at authorities over a recent wave of murders.Cyril Ramaphosa acknowledged that not enough had been done to protect women. He said police would be reviewing unsolve",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/sep/30/south-africa-gender-based-violence-women-killings",
+        "seendate": "2026-09-30T14:16:33.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Burundi agrees to receive ‘third-country’ migrant deportees from US",
+        "summary": "Burundi joins several other African nations in accepting people deported under Trump’s hardline policyBurundi has agreed to join a clutch of ⁠other African nations in receiving migrants from other countries deported from the US under ⁠<a href=\"",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/sep/30/burundi-third-country-deportations-trump-immigration",
+        "seendate": "2026-09-30T12:47:15.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "DRC politician beaten to death after radio appearance about Ebola outbreak",
         "summary": "Marie-Celestin Karondwa was attacked on Sunday after promoting measures to prevent spread of disease, his party saysA senior member of the Democratic Republic of the Congo’s ruling party was beaten to death on Sunday after appearing on a radio programme to raise awareness about the Ebola outbreak, a party representative has said.Marie-Celestin Karondwa, the acting president of the Union for De",
         "source": "theguardian.com",
@@ -60,33 +84,33 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
         "seendate": "2026-09-27T13:46:49.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "‘It’s hard to sell a house when it’s covered in baboon faeces’: Cape Town divided over plan to remove its monkeys",
-        "summary": "Two troops of chacma baboons are breaking into homes and shops but animal rights activists insist coexistence is the answerCape Town’s city council has said it will “imminently” round up two baboon troops coming into repeated conflict with residents. The animals will be sterilis",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/2026/sep/27/baboons-cape-town-divided-over-plan-to-remove-its-monkeys-aoe",
-        "seendate": "2026-09-27T11:00:03.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Rebel offensive against Ethiopian army stokes fears of return to civil war",
-        "summary": "Fighting escalates after Tigrayan rebels form new coalition aimed at overthrowing Abiy Ahmed governmentThere are growing fears of a return to civil war in Ethiopia after an offensive by fighters from Tigray into the neighbouring states of Afar and Amhara and the formation of a new rebel alliance aimed at overthrowing the government of the prime minister, Abiy Ahmed.About 600,000 people died between 2",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army",
-        "seendate": "2026-09-24T15:29:42.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Indian billionaire’s payments firm plots biggest London flotation in years",
-        "summary": "Sunil Bharti Mittal’s Airtel Money targets $9bn IPO in boost for ailing UK stock marketNils Pratley: Does this mark the end of London’s listing drought? Not yetA payments business that operates across Africa and is ultimately controlled by an Indian billionaire has",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/sep/23/indian-billionaire-payments-firm-london-flotation-airtel-money",
-        "seendate": "2026-09-23T11:08:01.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "economy": [
+      {
+        "title": "Federal Reserve watchdog finds no criminal violations for building renovation cost overruns",
+        "summary": "Trump criticized $2.4bn rehab amid attempts to pressure then Fed chair Jerome Powell into lowering interest ratesAn internal watchdog said the Federal Reserve mismanaged costs associated with a $2.4bn renovation of its Washington DC headquarters, but noted that no criminal violations occurred, according to a report released on Wednesday.",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/business/2026/sep/30/federal-reserve-watchdog-building-renovation",
+        "seendate": "2026-09-30T17:49:27.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Good news in US inflation report boosts chances Fed won’t hike rates",
+        "summary": "Traders see about a 35% chance of an October rate hike, down from ​about 45% following White House pressureGood economic news boosted Wall Street’s main indexes on Wednesday, as a softer-than-anticipated inflation reading buoyed up hopes that the Federal Reserve might not hike rate",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/business/2026/sep/30/inflation-report-interest-rates-fed",
+        "seendate": "2026-09-30T15:34:20.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "A ‘freaked out’ US food industry is hitting back at Maha – with social media influencers",
+        "summary": "Cross-partisan support in Washington on issues like pesticides and food additives pose a threat to the industry’s bottom line Some of the biggest food and agriculture corporations in the US are funding a campaign that pays social media influencers to combat elements of Robert F Kennedy Jr’s Make America Healthy Again platform, according to an investigation by the Guardian and Documented, an investigative wa",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/business/2026/sep/30/us-food-industry-maga-social-media-influencers",
+        "seendate": "2026-09-30T10:00:24.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Anthropic ‘warns of existential AI risks to humanity’ in IPO document",
         "summary": "Reported admission to investors of AI’s ‘self-preserving behaviours’ comes as company prepares for a potential $2tn flotationAnthropic is telling investors that advanced AI could pose “catastrophic or existential risks to humanity”, according to reports, as it prepares for a potential $2tn (£1.5tn) flotation.The warning inside the startup’s IPO prospectus, which has yet to be made public, was reporte",
@@ -102,33 +126,41 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/us-news/2026/sep/29/ban-canada-imports",
         "seendate": "2026-09-29T14:04:53.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "As the US midterms approach, Trump’s boasts on the economy fall flat with voters",
-        "summary": "Trump’s tariffs and his war against Iran caused prices to rise, but the US president continues to claim it’s ‘the greatest economy in history’Sign up for The Stakes 2026: your weekly guide to the US midtermsDonald Trump has taken to repeating a familiar boast",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/sep/28/trump-us-economy-midterm-elections",
-        "seendate": "2026-09-28T11:00:32.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "On the rocks? Scotch distilleries pause production as unsold ‘whisky loch’ grows",
-        "summary": "Demand for Scotland’s most famous export has slumped, with industry facing job cuts and closuresObscured by the Scottish countryside on the outskirts of Kirkcaldy, Cluny bond is, in effect, a small town built to store whisky. By the time the latest set of warehouses are finished on the former opencast coal mine, Diageo’s 220-hectare (544-acre) maturation campus will be able to store almost 3m casks of Scotc",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/food/2026/sep/29/scotch-distilleries-pause-production-whisky-loch-scotland",
-        "seendate": "2026-09-29T09:01:00.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Gouged: why Americans are being ripped off – and what to do about it",
-        "summary": "How can we fix our pricing crisis? Economic sociologist Lindsay Owens urges tough new rules – and a consumer uprising“Repeat after me: it’s not my fault, it’s not my fault, it’s not my fault.” That’s the message to frustrated US shoppers in Gouged: The End of a Fair Price – and What That Means for Your Wallet by Lindsay Owens, economic sociologist and head of the Groundwork Collaborative, a progressive Wash",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/sep/28/corporate-profiteering-americans-economy",
-        "seendate": "2026-09-28T11:00:32.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "literature": [
+      {
+        "title": "Patrick Radden Keefe’s bestseller London Falling shortlisted for Baillie Gifford prize",
+        "summary": "The acclaimed American journalist, who won the nonfiction prize in 2021, is shortlisted alongside Andrea Wulf and Matthew SweetFormer Baillie Gifford winner Patrick Radden Keefe is among the authors shortlisted for the 2026 prize, this time with his book on London’s criminal underbelly.The six-strong shortlist spans literary biography, ancient history, true crime and international reportage, with Jam",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/oct/01/baillie-gifford-prize-shortlist-patrick-radden-keefe-matthew-sweet-london-falling",
+        "seendate": "2026-09-30T23:01:20.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Missouri Williams and China Miéville among writers on ‘adventurous’ Goldsmiths shortlist",
+        "summary": "Six writers are in contention for the £10,000 books prize, which celebrates fiction that ‘breaks the mould or extends the possibilities of the novel form’Missouri Williams, China Miéville and Polly Barton are among the writers shortlisted for this year’s Goldsmiths prize.The £10,000 award recognises fiction that “breaks the mould or extends the possibilities of the novel form”.Explore the shor",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/sep/30/missouri-williams-china-mieville-writers-shortlisted-2026-goldsmiths-prize",
+        "seendate": "2026-09-30T08:30:20.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "On the Equality of All Things by Carlo Rovelli review – a physicist’s guide to life, the universe and everything",
+        "summary": "Near-mystical musings from a scientist who believes we are on the brink of a revolution in understanding ourselvesUnder the letter “B” in the index at the back of Carlo Rovelli’s latest book you will find Francis Bacon, bats, behaviourism, Henri Bergson, and the big bang. This intriguing little miscellany reflects the sweeping ambition of what is perhaps Rovelli’s most overtly philosophical work to date",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/sep/30/on-the-equality-of-all-things-by-carlo-rovelli-review-a-physicists-guide-to-life-the-universe-and-everything",
+        "seendate": "2026-09-30T06:00:12.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Dèy by Edwidge Danticat review – motherhood and trauma in Miami",
+        "summary": "The first novel in over a decade from the acclaimed Haitian-American author lacks the power of earlier worksDèy, Edwidge Danticat’s first novel in over a decade, begins with a bang. Magnolia, the daughter of Haitian parents now shopping for a birthday present for her own daughter, hears gunfire, maybe bombs, in a Miami mall. A killer is on the loose – a young man high on hate, the author of online screeds a",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/sep/30/dey-by-edwidge-danticat-review-motherhood-and-trauma-in-miami",
+        "seendate": "2026-09-30T08:00:20.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Cherise Saywell wins national short story award for ‘tender’ tale of a child facing violence – read an extract here",
         "summary": "The Edinburgh-based writer takes £15,000 prize for Ditto, a ‘beautifully told’ story about domestic abuse in a small Australian townRead an extract from Ditto belowEdinburgh-based writer Cherise Saywell has won this year’s BBC national short story award for a “tender” and “taut” story about a young boy caught in the midst of domestic violence.Saywell was anno",
@@ -136,168 +168,160 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/books/2026/sep/29/cherise-saywell-wins-bbc-short-story-award-ditto",
         "seendate": "2026-09-29T19:00:04.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "The Fall of the West by Owen Jones review – a bracing history of the changing world order",
-        "summary": "A journalist charts a quarter century of geopolitical hubris and economic overreach Like many Britons born in the 1980s, the journalist and Guardian columnist Owen Jones came of age with Tony Blair’s platitudes ringing in his ears. Politics at the turn of the millennium was a story of temporary dispensations mistaken for eternal truths: the definitive triumph of free market ideology; US military supremacy;",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/sep/29/the-fall-of-the-west-by-owen-jones-review-a-bracing-history-of-the-changing-world-order",
-        "seendate": "2026-09-29T08:00:57.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Stations by Louise Kennedy review – a superb follow-up to Trespasses",
-        "summary": "This tale of broken hearts and broken people moves from the Troubles of 1980s Northern Ireland to an unforgiving London of squats and payphonesLouise Kennedy’s first novel, Trespasses, was one of those rare triumphs, a debut that was not only rapturously received by critics but adored by re",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/sep/29/stations-by-louise-kennedy-review-a-superb-follow-up-to-trespasses",
-        "seendate": "2026-09-29T06:00:55.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Range by Dorthe Nors review – an astrophysicist at odds with reality",
-        "summary": "In the Danish writer’s latest novel, an eminent scientist withdraws to the countrysideWhen Gunn Haven, an eminent professor of astrophysics at an urban university, moves to rural Denmark, she tells a local newspaper: “It’s to do with the sky.” From the outset of Range, Danish author Dorthe Nors’s fifth full-length novel, it is apparent this is not the whole truth. Soon after arriving, Gunn is compelled to t",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/sep/28/range-by-dorthe-nors-review-an-astrophysicist-at-odds-with-reality",
-        "seendate": "2026-09-28T08:00:28.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Deep into the Sixties: Britain 1965-66 by David Kynaston review – a tour de force of popular history",
-        "summary": "From the Beatles and the World Cup to racism and homophobia, the latest instalment in Kynaston’s series captures a society in the throes of changeIn February 1965, the civil rights activist Malcolm X visited Smethwick, in the Midlands, where the Conservative-run council was planning to buy up houses to stop the area becoming a “coloured ghetto”. He wanted to see how bad the racism was and he experienced it",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/sep/28/deep-into-the-sixties-britain-1965-66-by-david-kynaston-review-beatles-bigots-and-streets-in-the-sky",
-        "seendate": "2026-09-28T06:00:25.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "entertainment": [
       {
-        "title": "The cure for doomscrolling? Why Tom Cruise stopped a woman mid-scroll",
-        "summary": "Viral CCTV footage shows the star checking in on a woman he thought was in distress, but who was only engrossed in social media. Perhaps we could all use some CruiseName: Doomscrolling interventions.Age: Very recent. Continue reading...",
+        "title": "The Swan contestants on the ‘sadistic’ pageant reality show: ‘Ultimately, we were just a job’",
+        "summary": "In a new documentary, film-maker Erin Lee Carr lifts the lid on the 2000s TV series that shocked AmericaIt was in 2003, while listening to country radio, that Kelly first heard the casting call: “Have you dreamed about plastic surgery but never thought you could afford it?” She immediately turned up the volume. The pitch sounded too good to be true: free cosmetic procedures, a nutritionist, self-esteem work",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/sep/29/doomscrolling-tom-cruise-woman-viral-tiktok-digger",
-        "seendate": "2026-09-29T16:34:45.000Z",
+        "url": "https://www.theguardian.com/film/2026/sep/30/the-swan-behind-the-mirror-hulu",
+        "seendate": "2026-09-30T09:00:22.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Digger review – Tom Cruise’s loudmouth oil tycoon goes hard in Alejandro G Iñárritu’s eco-satire",
-        "summary": "One man’s irresponsible drilling causes a global crisis in Iñárritu’s exasperatingly laborious, self-congratulatory filmA new movie from the Oscar-winning Mexican director Alejandro González Iñárritu is always an event. So it’s disconcerting to discover that the event in question is the most disappointing film of the year: an exasperatingly shallow, laborious, self-congratulatory satire with a trick up its",
+        "title": "Seth Meyers on Trump canceling $1bn in federal funds: ‘Is he adding a waterslide to the reflecting pool?’",
+        "summary": "Late-night hosts weighed in on Trump’s relationship with tech leaders and the White House’s new AI-powered siteOn Tuesday night, late-night hosts discussed a Maha summit in Washington DC, the White House’s new AI-powered website and Donald Trump once again falling aslee",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/sep/29/digger-review-tom-cruise-satire-alejandro-gonzalez-inarritu",
-        "seendate": "2026-09-29T16:00:00.000Z",
+        "url": "https://www.theguardian.com/culture/2026/sep/30/seth-meyers-trump-federal-funds-ai",
+        "seendate": "2026-09-30T15:46:19.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘We got naked and covered ourselves in Vaseline’: Katherine Hubbard on photographing her ailing mother",
-        "summary": "Over five years, Hubbard photographed her mother at home as her memory declined – even persuading her to make nude body prints. What does her mum think of the wrenchingly beautiful images?At the peak of the Covid-19 pandemic in 2020, artist Katherine Hubbard started to sense something was not right with her mother, Antonette Berger. “It was impossible at the time to say what I was noticing, but something wa",
+        "title": "‘The Savage Skulls were the most dangerous gang in the Bronx’: Jean-Pierre Laffont’s best photograph",
+        "summary": "‘I’d read stories about gangs killing drug-pushers who targeted young people. Police would find their bodies at the bottom of five-storey buildings. I didn’t want to go looking for them alone’The late 1960s and most of the 1970s were a difficult time for New York. I’d moved there from France in 1965 with a reporter friend and a plan to start a little agency, but soon found myself working alone. It could be",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/artanddesign/2026/sep/29/katherine-hubbard-mother-dementia-studio-voltaire-the-great-room",
-        "seendate": "2026-09-29T15:04:34.000Z",
+        "url": "https://www.theguardian.com/artanddesign/2026/sep/30/bronx-street-gang-new-york-jean-pierre-laffont-best-photograph",
+        "seendate": "2026-09-30T14:41:26.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Jon Stewart on Trump offering to sell weapons to China: ‘How does America even stay on the map sometimes?’",
-        "summary": "Late-night hosts discussed Trump’s private ballroom tour for China’s Xi Jinping and his ‘great interest’ in graniteLate-night hosts recapped Donald Trump’s lavish state dinner for the Chinese leader, <a href=\"https://www.theguardi",
+        "title": "How Zach Cregger’s Resident Evil stands out from all other game adaptations",
+        "summary": "There’s no Leon, Claire or Ada Wong in Cregger’s adaptation. Instead, it re-creates something more fundamental – the strange, terrifying experience of actually playing the game• Don’t get Pushing Buttons delivered to your inbox? Sign up",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/culture/2026/sep/29/jon-stewart-trump-xi-jinping-visit",
-        "seendate": "2026-09-29T15:01:12.000Z",
+        "url": "https://www.theguardian.com/games/2026/sep/30/pushing-buttons-zach-cregger-resident-evil-film-adaptation",
+        "seendate": "2026-09-30T14:00:42.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘Stern, sensuous, almost kissable lips’: why sculptures can have far more power when they’re broken",
-        "summary": "From a pharoah’s pouting and almost kissable lips to a Mussolini with a hole in the head, a new exhibition is exploring how some ancient fragments speak more profoundly than fully intact treasuresThe nose of Cleopatra VII was supposed to have been so beautiful that it changed the course of history: if it had been shorter, French philosopher Blaise Pascal wrote, “the whole face of the earth would have change",
+        "title": "How do you cope when your sacred land becomes Times Square? The art of the first Native New Yorkers",
+        "summary": "A new exhibit of Lenape paintings, traditional dress and music proves their modern-day culture is vibrant and aliveDuring the 19th century, the US government funded more than 500 “Indian boarding schools” aimed at forcibly assimilating Native American children into western culture. Students were taken from their families, frequ",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/artanddesign/2026/sep/29/sculpture-far-more-power-if-broken",
-        "seendate": "2026-09-29T14:00:52.000Z",
+        "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/30/native-american-lenape-art-exhibit",
+        "seendate": "2026-09-30T13:00:41.000Z",
         "domain": "theguardian.com"
       }
     ],
     "f1": [
       {
-        "title": "Was Baku really Max Verstappen's best chance to win in F1 2026?",
-        "summary": "When Max Verstappen walked into the Red Bull hospitality on Friday for his Dutch Formula 1 media session – which in Azerbaijan, incidentally, consisted of just two Dutch journalists – the message was clear. The Baku City Circuit offered Red Bull its best opportunity to win a race this year, but Verstappen added: \"We’ve done a great job messing it up.\"A day later, he still came remarkably ...<a class='mor",
+        "title": "Guenther Steiner jokes Christian Horner Ferrari talk is good book publicity",
+        "summary": "Former Haas Formula 1 team principal Guenther Steiner has dismissed the possibility of Christian Horner and Fred Vasseur working alongside each other at Ferrari.Speculation regarding Horner's future intensified after he told The Times he would consider a leadership role at the Maranello outfit. Horner described working with Ferrari as \"the dream\" and indicated it is the only team at which he ...<a class=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/was-baku-really-max-verstappens-best-chance-to-win-in-f1-2026/10859854/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-29T15:30:02.000Z",
+        "url": "https://www.motorsport.com/f1/news/guenther-steiner-jokes-christian-horner-ferrari-talk-is-good-book-publicity/10860349/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-30T21:37:14.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "How Isack Hadjar injured his wrist during F1 2026 summer break",
-        "summary": "Isack Hadjar broke a bone in his wrist while training during the 2026 Formula 1 summer break, forcing him to sit out the Dutch Grand Prix at Zandvoort and requiring Red Bull and Racing Bulls to reshuffle their driver line-ups.The will-he-won't-he question of his return then provided fodder for headlines in the following weeks as he skipped the next two rounds at the recommendation of MotoGP ...<a class='",
+        "title": "Kimi Antonelli has \"spooked himself\" amid F1 title pressure, says Naomi Schiff",
+        "summary": "Championship leader Kimi Antonelli has \"spooked himself\" and must \"get out of his head\" to avoid crumbling under the pressure of the Formula 1 fight, according to pundit Naomi Schiff.The Mercedes driver arrived at the Azerbaijan Grand Prix with a commanding 81-point lead. But that advantage was reduced to 66 points after team-mate George Russell successfully converted pole position to a race ...<a class=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/how-isack-hadjar-injured-his-wrist-during-f1-2026-summer-break/10859838/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-29T14:30:04.000Z",
+        "url": "https://www.motorsport.com/f1/news/kimi-antonelli-has-spooked-himself-amid-f1-title-pressure-says-naomi-schiff/10860343/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-30T20:20:47.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "McLaren Racing and Edward Jones join forces in multi-year F1 and IndyCar partnership",
-        "summary": "In a joint announcement, McLaren Racing and Edward Jones revealed a new multi-year partnership designating the St. Louis–based firm as the Official Private Wealth Management Partner across both Formula 1 and IndyCar. The agreement establishes a long-term, year-round presence across two of global motorsport's premier racing platforms.The activation begins during the 2026 Formula 1 season with ...<a class=",
+        "title": "George Russell details F1 drivers' Langkawi boys' trip ahead of Bahrain GP in Malaysia",
+        "summary": "Mercedes driver George Russell has shared details of a boys' trip to Langkawi, which included a local go-karting race, ahead of this weekend's Bahrain Grand Prix in Malaysia.Taking to Instagram, Russell posted photographs of the trip with six other Formula 1 drivers: Oscar Piastri, Alex Albon, Oliver Bearman, Carlos Sainz, Gabriel Bortoleto and Lando Norris.The photos show the group ...<a class='more",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/indycar/news/mclaren-racing-and-edward-jones-join-forces-in-multi-year-f1-and-indycar-pa/10859933/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-29T13:03:26.000Z",
+        "url": "https://www.motorsport.com/f1/news/george-russell-details-f1-drivers-langkawi-boys-trip-ahead-of-bahrain-gp-in-malaysia/10860341/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-30T19:56:36.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "“I fear something bad is going to happen soon” – 2026 F1 cars are “too dangerous”, Sergio Perez warns",
-        "summary": "Sergio Perez says he fears “something bad” might happen due to the speed differential between cars with Formula 1’s new machinery.This was a major topic early in the 2026 season, especially after Oliver Bearman had a mammoth crash in the Japanese Grand Prix. The Haas driver lost control of his car after taking avoiding action when he encountered a slower Franco Colapinto on track during ...<a class='more",
+        "title": "F1 pundit says drivers are \"complicit\" if they stay silent on fan abuse",
+        "summary": "Formula 1 broadcaster Will Buxton says drivers who fail to publicly condemn toxic online abuse from their supporters are \"complicit\" in the behaviour.2025 F1 champion Lando Norris's heat-of-the-moment comments following the Azerbaijan Grand Prix led to a wave of backlash online from Alpine driver Franco Colapinto's passionate Argentine fanbase.Colapinto locked up and triggered a multi-car ...<a class",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/i-fear-something-bad-is-going-to-happen-soon-2026-f1-cars-are-too-dangerous-sergio-perez-warns/10859878/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-29T12:39:15.000Z",
+        "url": "https://www.motorsport.com/f1/news/f1-pundit-says-drivers-are-complicit-if-they-stay-silent-on-fan-abuse/10860316/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-30T16:04:16.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Fernando Alonso extends Aston Martin contract into F1 2027",
-        "summary": "Fernando Alonso has finally confirmed that he will continue with Aston Martin into the 2027 Formula 1 campaign, ending all speculation surrounding his future.For months the 45-year-old had been answering questions about whether or not he will stick with F1, given his then Aston Martin contract expired at the end of the current 2026 campaign.The double champion claimed it depended on which ...<a class",
+        "title": "Five things to look out for at the F1 Bahrain GP in Malaysia",
+        "summary": "Formula 1 heads to the middle point of its current triple header this weekend with the Bahrain Grand Prix in Malaysia serving as round 16 of the 2026 season.It marks the first time that F1 will race in the country since 2017 as a result of the ongoing Middle Eastern conflict, which forced Bahrain to cancel its grand prix earlier in the year.But that is not the only talking point, so here ...<a class=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/fernando-alonso-extends-aston-martin-contract-into-f1-2027/10860010/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-29T11:04:57.000Z",
+        "url": "https://www.motorsport.com/f1/news/five-things-to-look-out-for-at-the-f1-bahrain-gp-in-malaysia/10860309/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-09-30T15:49:48.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "Making our favorite FPS modes 1v1 to decide the greatest of them all",
-        "summary": "Vote on the greatest FPS mode of all time. There can only be one.",
+        "title": "TIL what may or may not be the oldest board game in recorded history is also, perhaps inevitably, now a roguelike",
+        "summary": "Oh!Ware on Steam slaps a little Slay the Spire onto a 5000-year-old game.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/fps/making-our-favorite-fps-modes-1v1-to-decide-the-greatest-of-them-all/",
-        "seendate": "2026-09-29T23:46:49.000Z",
+        "url": "https://www.pcgamer.com/games/roguelike/til-what-may-or-may-not-be-the-oldest-board-game-in-recorded-history-is-also-perhaps-inevitably-now-a-roguelike/",
+        "seendate": "2026-10-01T00:16:35.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "One of my all-time favorite games just announced an expansion, yet all I feel is fear",
-        "summary": "More Satisfactory is a good thing. Why, then, do I feel this dread welling up inside me?",
+        "title": "Valve says Deadlock is still too unfinished to release publicly, but has hero cosmetics and new game modes in the works",
+        "summary": "A new development update leaves us with more questions than answers.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/survival-crafting/one-of-my-all-time-favorite-games-just-announced-an-expansion-yet-all-i-feel-is-fear/",
-        "seendate": "2026-09-29T23:15:21.000Z",
+        "url": "https://www.pcgamer.com/games/moba/valve-says-deadlock-is-still-too-unfinished-to-release-publicly-but-has-hero-cosmetics-and-new-game-modes-in-the-works/",
+        "seendate": "2026-09-30T20:52:39.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Deadlock's gigantic new update gives its city a spooky new coat of paint and debuts 6 new heroes, including the one and only Rat King",
-        "summary": "Valve continues to polish the game into one of the moodiest MOBAs out there.",
+        "title": "Agony! Two life sims I really want to play launched back to back",
+        "summary": "How do you choose to spend your time when two games you've been waiting for show up at once?",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/moba/deadlocks-gigantic-new-update-gives-its-city-a-spooky-new-coat-of-paint-and-debuts-6-new-heroes-including-the-one-and-only-rat-king/",
-        "seendate": "2026-09-29T22:19:27.000Z",
+        "url": "https://www.pcgamer.com/games/life-sim/agony-two-life-sims-i-really-want-to-play-launched-back-to-back/",
+        "seendate": "2026-09-30T19:34:44.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Diablo 5 director promises Diablo 2-style combat where 'the right build' matters more than Diablo 4's action-heavy approach",
-        "summary": "Blizzard wants some classic action RPG DNA in the next Diablo game.",
+        "title": "The Americans have officially renamed artificial intelligence to 'Super Intelligence,' which should fix everything",
+        "summary": "We're one step closer to \"Super Earth\" becoming a real thing.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/rpg/diablo-5-director-promises-diablo-2-style-combat-where-the-right-build-matters-more-than-diablo-4s-action-heavy-approach/",
-        "seendate": "2026-09-29T22:10:46.000Z",
+        "url": "https://www.pcgamer.com/software/ai/the-americans-have-officially-renamed-artificial-intelligence-to-super-intelligence-which-should-fix-everything/",
+        "seendate": "2026-09-30T18:57:58.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Ace Combat 8 Steam reviewers are steaming mad about its pre-order bonus not being a standalone app",
-        "summary": "The fine print for freebie Ace Combat Zero changed before launch.",
+        "title": "I have saved GTA 5 from death and also added tornadoes",
+        "summary": "These were two separate tasks.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/sim/ace-combat-8-steam-reviewers-are-steaming-mad-about-its-pre-order-bonus-not-being-a-standalone-app/",
-        "seendate": "2026-09-29T22:05:43.000Z",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-saved-gta-5-from-death-and-also-added-tornadoes/",
+        "seendate": "2026-09-30T17:00:00.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
+      {
+        "title": "We need ‘right to intervene’ in AI amid growing threat, says Bank of England boss",
+        "summary": "Andrew Bailey’s comments come as fears grow that rogue models could take financial system hostageBusiness live – latest updatesThe governor of the Bank of England has called for the “right to intervene” in the AI industry am",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/sep/30/intervene-ai-growing-threat-bank-of-england-boss",
+        "seendate": "2026-09-30T15:22:25.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Reanimated AI Greta Garbo stars again … in a ball-bearing advert",
+        "summary": "Relatives of Hollywood legend say her doppelganger could now be used for more glamorous rolesShe shimmered in Hollywood’s silent movie era and lit up the first talkies – now Greta Garbo may be about to star in cinema’s new AI age.More than a century after her screen debut and decades after her ashes were laid to rest in a Swedish woodland cemetery, the Hollywood superstar’s descendants are ready to c",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/film/2026/sep/30/ai-greta-garbo-stars-again-ball-bearing-advert",
+        "seendate": "2026-09-30T05:00:12.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Nandy says children’s social media ban only ‘staging post’ in online safety drive",
+        "summary": "Exclusive: Culture secretary says UK will crack down further and be ‘pioneer of tech as a force for good’Lisa Nandy has warned technology firms that the government’s online safety crackdown is not finished, saying that banning under-16s from social media platforms is only a “staging post”.Earlier this year the government announced that <a href=\"https://www.theguardian.com/uk-news/2026/jun/12/uk-to-ba",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/sep/30/lisa-nandy-social-media-ban-online-safety-culture-secretary",
+        "seendate": "2026-09-30T05:00:12.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Anthropic ‘warns of existential AI risks to humanity’ in IPO document",
         "summary": "Reported admission to investors of AI’s ‘self-preserving behaviours’ comes as company prepares for a potential $2tn flotationAnthropic is telling investors that advanced AI could pose “catastrophic or existential risks to humanity”, according to reports, as it prepares for a potential $2tn (£1.5tn) flotation.The warning inside the startup’s IPO prospectus, which has yet to be made public, was reporte",
@@ -307,39 +331,31 @@ window.NEWS_CACHE = {
         "domain": "theguardian.com"
       },
       {
-        "title": "Mac mini M6 review: truly mighty but now more pricey",
-        "summary": "Apple’s cheapest desktop computer is no longer a bargain but its newest, fastest chip makes it a pocket powerhouseApple’s latest Mac mini brings real speed and power for far more than everyday tasks in a practically pocketable form you can fit almost anywhere.The impressive new desktop machine is the first to receive an update to Apple’s latest M6 chip while remaining smaller than a headphones box. I",
+        "title": "Smart ring maker Oura puts off initial public offering due to market ‘uncertainty’",
+        "summary": "Researchers say the IPO market was off to a solid start but tailed off in the third quarterSmart ring maker Oura Inc says it is postponing a planned initial public offering due to market “uncertainty”.In a Tuesday press release, Oura said it is delaying the stock market floa",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/sep/29/mac-mini-m6-review",
-        "seendate": "2026-09-29T06:00:55.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Trial of live facial recognition in London stations leads to a false positive and no arrests",
-        "summary": "Freedom of information request finds six-month trial cost £320,000, used almost 100 police hours and led to just one – incorrect – alertA six-month trial of live facial recognition (LFR) technology in London’s railway stations that cost more than £320,000 and almost 100 hours of police officers’ time led to one false match against a watchlist of suspects and no arrests.More than half a million faces",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/sep/29/trial-live-facial-recognition-cameras-london-stations-false-positive",
-        "seendate": "2026-09-29T09:48:29.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Stop shaming people for using AI. Start organizing to prevent our obsolescence | Garrison Lovely",
-        "summary": "The industry is engaged in a perverse quest to replace humans. We cannot cede the best tools available to the other sideI don’t need to tell you that people hate AI. The list of grievances is long: slop, cheating, bias, enfeeblement, electricity bills, environmental destruction, exploitation, theft, cybercrime, doom. But resistance to the technology has often taken the form of shaming people for personally",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/commentisfree/2026/sep/29/ai-replace-humans",
-        "seendate": "2026-09-29T12:00:50.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Teachers at Euan Blair firm report ‘horrendous stress’ after AI used to rate their work",
-        "summary": "Exclusive: Instructors at tech training company Multiverse hit out at ‘remorseless’ and ‘unnerving’ monitoring systemTeachers at Euan Blair’s £1.6bn tech training company, Multiverse, have blown the whistle about “horrendous stress” and feeling constantly watched after bosses started using AI models to surveil and rate their teaching.Staff delivering apprenticeship training in computer and AI skills",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/sep/28/teachers-euan-blair-firm-report-horrendous-stress-ai-used-to-rate-their-work",
-        "seendate": "2026-09-28T11:57:57.000Z",
+        "url": "https://www.theguardian.com/technology/2026/sep/29/oura-ring-public-offering",
+        "seendate": "2026-09-29T17:57:01.000Z",
         "domain": "theguardian.com"
       }
     ],
     "climate": [
+      {
+        "title": "California rushes to prepare for massive ‘Kelvin’ wave and predicted sea level rise",
+        "summary": "Wave nearing southern California expected to reach San Francisco Bay Area by October as it crawls toward AlaskaCommunities across California are rushing to prepare for the imminent arrival of the so-called “Kelvin wave”, a massive underwater band of warm water threatening to inundate swaths of the vast North American shoreline.The wave is nearing southern California and expected to reach the San Fran",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/sep/30/california-kelvin-wave-sea-level-rise",
+        "seendate": "2026-09-30T11:00:39.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Insects play critical role in ecosystems beyond just providing food, new research shows",
+        "summary": "Insects provide protection, sanitation and even shelter to vertebrates, making them a priority for conservation effortsFor many vertebrates, insects are more than a food source. As “little things that run the world”, insects provide critical functions such as protection, sanitation and shelter across ecosystems, according to a new study.Th",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/environment/2026/sep/30/insects-ecosystems-conservation",
+        "seendate": "2026-09-30T10:00:24.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "EPA union sues Trump administration to restore collective bargaining contract",
         "summary": "Federal workers’ union alleges EPA illegally terminated agreement with the goal of repressing political dissentThe union representing more than 8,000 workers at the Environmental Protection Agency (EPA) filed a lawsuit against the agency and administrator Lee Zeldin on Tuesday alleging the agency illegally terminated the union’s collective bargaining agreement.The lawsuit, filed by two local unions o",
@@ -363,25 +379,33 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/environment/2026/sep/29/night-sky-darkness-city-regulation",
         "seendate": "2026-09-29T12:00:49.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Samuel Alito steps aside in a major climate case amid scrutiny over oil stock holdings",
-        "summary": "Decision from conservative justice comes before court hears case on whether fossil-fuel firms deceived US publicSupreme court justice Samuel Alito recused himself on Monday from a major climate-change case after facing calls to step aside due to stock holdings in oil companies.A letter posted in the case did not specify a reason, but the conservative justice has previously recused himself from other",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/sep/28/samuel-alito-supreme-court-oil-climate-case",
-        "seendate": "2026-09-28T21:47:41.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Trump administration to slash clean car rules aimed at cutting climate emissions",
-        "summary": "Environmentalists decry move that relaxes requirements on automakers to control pollution from gas-powered carsThe Trump administration on Monday announced it was slashing clean car rules that had been aimed at reducing planet-heating emissions and boosting electric vehicles.The move, which was criticized by environmentalists, relaxes requirements on automakers to control pollution from gasoline-powe",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/sep/28/trump-administration-slashes-clean-car-rules",
-        "seendate": "2026-09-28T15:56:32.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "science": [
+      {
+        "title": "All of a flutter: how butterflies avoid being a predator’s lunch",
+        "summary": "Their whirring wings and bright patterns help keep them safe from birds, British study findsNaturalists have long wondered how brightly coloured butterflies manage to evade the attention of birds that make a meal of other insects.New research from British ecologists suggests it is not simply a matter of good luck but instead a visual illusion created by their fluttering wings. <a href=\"https://ww",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/sep/30/how-butterflies-avoid-being-eaten-by-predators-wildlife-insects",
+        "seendate": "2026-09-30T15:00:43.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Can a mushroom make music? Devon exhibition explores ‘cultural world’ of fungi",
+        "summary": "Exeter museum to host DJ’s ‘collaboration’ with woodland fungi and artist’s map of her own body’s mycobiomeFor one of the installations, a musician spent hours in woodland “collaborating” with fungi to create a soundscape inspired by the electricity they emit.Another is a kinetic sculpture of an extinct fungus that honours Beatrix Potter not for her tales of mischievous rabbits but for her lesser-kno",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/sep/30/exeter-devon-exhibition-fungi-mushrooms-living-labyrinths-ramm",
+        "seendate": "2026-09-30T04:00:09.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "‘Godzilla’ of weight-loss drugs could provide other important health benefits",
+        "summary": "Though not yet approved by any regulatory agency, retatrutide could help improve blood sugar levels and reduce inflammationThe ‘Godzilla’ of weight-loss drugs could help improve blood sugar levels, reduce inflammation and cut a person’s body weight by a quarter, according to the largest study of its kind.Retatrutide mimics three key gut hormones that help control appetite, blood sugar and metabolism:",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/sep/29/retatrutide-godzilla-of-weight-loss-drugs-other-health-benefits",
+        "seendate": "2026-09-29T22:01:02.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "‘Starship is in orbit’: cheers go up as huge SpaceX rocket circles Earth for first time",
         "summary": "Mission goes ahead despite some fears an initial engine failure after the Texas launch would scupper the attemptSpaceX has sent its enormous Starship rocket into Earth’s orbit for the first time on a milestone flight intended to pave the way for future missions to the moon and Mars.The rocket, the largest and most powerful ever built, blasted off from SpaceX’s Starbase launch facility in Texas at 7.4",
@@ -396,30 +420,6 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/science/audio/2026/sep/29/science-weekly-cleaning-products-chemicals-podcast",
         "seendate": "2026-09-29T04:00:52.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Gene-edited bananas that don’t go brown could hit UK supermarkets",
-        "summary": "Scientific breakthrough could reduce food waste and make it easier to add the fruit to prepackaged foodIt is the bane of every fruit bowl: sliced banana that turns brown before it has reached the table. But such woes could soon be a thing of the past, with gene-edited bananas that keep their freshly peeled colour now one step closer to reaching British shoppers.According to Tropic, the Norwich-based",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/sep/28/gene-edited-non-browning-banana-britain-shops",
-        "seendate": "2026-09-28T15:50:44.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "‘Gamechanging’ brain tumour test reduces diagnosis from eight weeks to two hours",
-        "summary": "NHS England says test can be done while patient is on operating table and is being piloted in five centres around the countryA rapid new test for brain tumours can diagnose patients while they are still on the operating table.Scientists have called the development “gamechanging” and said it could secure early treatment for those who “do not have time on their side”. <a href=\"https://www.theguardi",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/society/2026/sep/25/gamechanging-brain-tumour-test-reduces-diagnosis-eight-weeks-two-hours",
-        "seendate": "2026-09-25T11:53:43.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Did you solve it? Isaac Newton’s tower drop puzzle",
-        "summary": "The solution to the seventeenth century stumperEarlier today I set you a puzzle that Isaac Newton posed in 1679 in a latter to Robert Hooke. I mentioned that the answer is counter-intuitive, and also gave you the hint that it might have something to do with figure skating. Here’s the problem again, with its solution.The tower dropslightly to the westslightly to the east",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/sep/28/did-you-solve-it-isaac-newtons-tower-drop-puzzle",
-        "seendate": "2026-09-28T15:48:00.000Z",
         "domain": "theguardian.com"
       }
     ]
