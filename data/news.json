@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T01:39:04.629Z",
+  "generatedAt": "2026-10-02T01:51:54.985Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
@@ -88,6 +88,14 @@
     ],
     "economy": [
       {
+        "title": "US borrowing costs hit 24-year high as global bond sell-off intensifies",
+        "summary": "Fears that US deficit is unsustainable also drive UK 30-year bond yields briefly above 6% for first time since 1998Business live – latest updatesThe global bond sell-off intensified on Thursday, driving 10-year US governme",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/business/2026/oct/01/global-bond-sell-off-uk-long-term-borrowing-costs-us-bond-yield",
+        "seendate": "2026-10-01T17:56:18.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Federal Reserve watchdog finds no criminal violations for building renovation cost overruns",
         "summary": "Trump criticized $2.4bn rehab amid attempts to pressure then Fed chair Jerome Powell into lowering interest ratesAn internal watchdog said the Federal Reserve mismanaged costs associated with a $2.4bn renovation of its Washington DC headquarters, but noted that no criminal violations occurred, according to a report released on Wednesday.",
         "source": "theguardian.com",
@@ -118,17 +126,33 @@
         "url": "https://www.theguardian.com/technology/2026/sep/29/anthropic-warns-existential-ai-risks-humanity-ipo-document-claude",
         "seendate": "2026-09-29T10:17:58.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "US ban on Canadian imports likely to weaken already fragile relationship",
-        "summary": "It marks another ratcheting up of Trump’s trade war and affects nearly $1bn in imports of a $880bn trade relationshipUS-Canada relations, already tense, are likely to deteriorate further after the United States went ahead early on Tuesday with a decision to ban nearly $1bn worth of Canadian imports, including alcoholic beverages, dairy products and moto",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/sep/29/ban-canada-imports",
-        "seendate": "2026-09-29T14:04:53.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "literature": [
+      {
+        "title": "The Mercy Step by Marcia Hutchinson audiobook review – a Caribbean child’s-eye view of 60s Bradford",
+        "summary": "The author captures the comedy and cruelty in this tenderly written coming-of-age taleThis Women’s prize-nominated novel from Marcia Hutchinson is told from the perspective of Mercy Hanson, a girl born in Bradford in 1962 to a mother she adores and a father she fears. We follow Mercy, their spirited fifth child, from birth through her toddler years to primary education. There she discovers books for the fir",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/oct/01/the-mercy-step-by-marcia-hutchinson-audiobook-review-a-caribbean-childs-eye-view-of-60s-bradford",
+        "seendate": "2026-10-01T14:00:52.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "What we’re reading: China Miéville, Sebastian Barry, Derek Owusu and Guardian readers on the books they enjoyed in September",
+        "summary": "Writers and Guardian readers discuss the titles they have read over the last month. Join the conversation in the commentsI was sideswiped by Giada Scodellaro’s Ruins, Child. A brilliant, strange book that challenged me in the most exhilarating way, with its fractured language and dream-cinema visions, the sense it bestowed of walking through a corridor full of echoes. Echoes of a less ellip",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/oct/01/what-were-reading-sebastian-barry-china-mieville-readers-and-derek-owusu-on-the-books-they-enjoyed-in-september",
+        "seendate": "2026-10-01T11:48:27.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Dodge City by Patrick deWitt review – a wild draft-dodging road trip",
+        "summary": "This tale of a 60s college dropout driving across the US to avoid being sent to Vietnam is committed to both readerly pleasure and literary artificeCanadian author Patrick deWitt broke through with a western, 2011’s Booker-shortlisted The Sisters Brothers. Now, he has taken on another hallowed American genre:",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/oct/01/dodge-city-by-patrick-dewitt-review-a-wild-draft-dodging-road-trip",
+        "seendate": "2026-10-01T06:00:29.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Patrick Radden Keefe’s bestseller London Falling shortlisted for Baillie Gifford prize",
         "summary": "The acclaimed American journalist, who won the nonfiction prize in 2021, is shortlisted alongside Andrea Wulf and Matthew SweetFormer Baillie Gifford winner Patrick Radden Keefe is among the authors shortlisted for the 2026 prize, this time with his book on London’s criminal underbelly.The six-strong shortlist spans literary biography, ancient history, true crime and international reportage, with Jam",
@@ -144,202 +168,210 @@
         "url": "https://www.theguardian.com/books/2026/sep/30/missouri-williams-china-mieville-writers-shortlisted-2026-goldsmiths-prize",
         "seendate": "2026-09-30T08:30:20.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "On the Equality of All Things by Carlo Rovelli review – a physicist’s guide to life, the universe and everything",
-        "summary": "Near-mystical musings from a scientist who believes we are on the brink of a revolution in understanding ourselvesUnder the letter “B” in the index at the back of Carlo Rovelli’s latest book you will find Francis Bacon, bats, behaviourism, Henri Bergson, and the big bang. This intriguing little miscellany reflects the sweeping ambition of what is perhaps Rovelli’s most overtly philosophical work to date",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/sep/30/on-the-equality-of-all-things-by-carlo-rovelli-review-a-physicists-guide-to-life-the-universe-and-everything",
-        "seendate": "2026-09-30T06:00:12.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Dèy by Edwidge Danticat review – motherhood and trauma in Miami",
-        "summary": "The first novel in over a decade from the acclaimed Haitian-American author lacks the power of earlier worksDèy, Edwidge Danticat’s first novel in over a decade, begins with a bang. Magnolia, the daughter of Haitian parents now shopping for a birthday present for her own daughter, hears gunfire, maybe bombs, in a Miami mall. A killer is on the loose – a young man high on hate, the author of online screeds a",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/sep/30/dey-by-edwidge-danticat-review-motherhood-and-trauma-in-miami",
-        "seendate": "2026-09-30T08:00:20.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Cherise Saywell wins national short story award for ‘tender’ tale of a child facing violence – read an extract here",
-        "summary": "The Edinburgh-based writer takes £15,000 prize for Ditto, a ‘beautifully told’ story about domestic abuse in a small Australian townRead an extract from Ditto belowEdinburgh-based writer Cherise Saywell has won this year’s BBC national short story award for a “tender” and “taut” story about a young boy caught in the midst of domestic violence.Saywell was anno",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/sep/29/cherise-saywell-wins-bbc-short-story-award-ditto",
-        "seendate": "2026-09-29T19:00:04.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "entertainment": [
       {
-        "title": "The Swan contestants on the ‘sadistic’ pageant reality show: ‘Ultimately, we were just a job’",
-        "summary": "In a new documentary, film-maker Erin Lee Carr lifts the lid on the 2000s TV series that shocked AmericaIt was in 2003, while listening to country radio, that Kelly first heard the casting call: “Have you dreamed about plastic surgery but never thought you could afford it?” She immediately turned up the volume. The pitch sounded too good to be true: free cosmetic procedures, a nutritionist, self-esteem work",
+        "title": "You Can See Everything review – Nathan Fielder’s Elizabeth Holmes doc is a modern masterpiece of deceit",
+        "summary": "New York film festival: No spoilers here – TV’s grand illusionist meets his match when he moves in with Theranos founder and her familyFor anyone remotely near the worlds of documentary, comedy or medical fraud, there has been one thing on the mind for weeks now: a single-minute clip of Nathan Fielder, the absurdist comed",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/sep/30/the-swan-behind-the-mirror-hulu",
-        "seendate": "2026-09-30T09:00:22.000Z",
+        "url": "https://www.theguardian.com/film/2026/oct/01/you-can-see-everything-movie-review",
+        "seendate": "2026-10-01T16:51:21.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Seth Meyers on Trump canceling $1bn in federal funds: ‘Is he adding a waterslide to the reflecting pool?’",
-        "summary": "Late-night hosts weighed in on Trump’s relationship with tech leaders and the White House’s new AI-powered siteOn Tuesday night, late-night hosts discussed a Maha summit in Washington DC, the White House’s new AI-powered website and Donald Trump once again falling aslee",
+        "title": "Sex, drugs and amoebic dysentery: the 20 best making-of documentaries – ranked!",
+        "summary": "From tropical disasters and doomed sci-fi epics to bribing Orson Welles and fending off a puma, we rate cinema’s most revealing glimpses behind the scenesBehind-the-scenes footage from Dawn of the Dead is the highlight of this aficionados-only affair, which follows the 1979 satirical zombie horror all the way through to distribution. Director George A Romero, makeup maestro Tom Savini and the occasional zom",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/culture/2026/sep/30/seth-meyers-trump-federal-funds-ai",
-        "seendate": "2026-09-30T15:46:19.000Z",
+        "url": "https://www.theguardian.com/film/2026/oct/01/20-best-making-of-documentaries-ranked",
+        "seendate": "2026-10-01T15:31:13.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘The Savage Skulls were the most dangerous gang in the Bronx’: Jean-Pierre Laffont’s best photograph",
-        "summary": "‘I’d read stories about gangs killing drug-pushers who targeted young people. Police would find their bodies at the bottom of five-storey buildings. I didn’t want to go looking for them alone’The late 1960s and most of the 1970s were a difficult time for New York. I’d moved there from France in 1965 with a reporter friend and a plan to start a little agency, but soon found myself working alone. It could be",
+        "title": "Rick Ross arrested on domestic battery and strangulation charges",
+        "summary": "The rapper was arrested in Miami Beach on Thursday, days after an ex-girlfriend accused him of physical abuseRick Ross has been arrested on domestic violence charges in Miami Beach, according to local police.The rapper was booked at Tur",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/artanddesign/2026/sep/30/bronx-street-gang-new-york-jean-pierre-laffont-best-photograph",
-        "seendate": "2026-09-30T14:41:26.000Z",
+        "url": "https://www.theguardian.com/music/2026/oct/01/rick-ross-arrest-miami-battery-strangulation",
+        "seendate": "2026-10-01T14:34:42.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "How Zach Cregger’s Resident Evil stands out from all other game adaptations",
-        "summary": "There’s no Leon, Claire or Ada Wong in Cregger’s adaptation. Instead, it re-creates something more fundamental – the strange, terrifying experience of actually playing the game• Don’t get Pushing Buttons delivered to your inbox? Sign up",
+        "title": "The Last First: Winter K2 review – race up second highest mountain reveals fatal cost of human ambition",
+        "summary": "Amir Bar-Lev’s doc covering competing climbers trying to achieve something that has not been done before uncovers a fascinating tapestry of aspiration and follyDuring the Covid pandemic in 2021, a “last first” in mountaineering was achieved: the forbidding K2 mountain was scaled in winter for",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/games/2026/sep/30/pushing-buttons-zach-cregger-resident-evil-film-adaptation",
-        "seendate": "2026-09-30T14:00:42.000Z",
+        "url": "https://www.theguardian.com/film/2026/oct/01/the-last-first-winter-k2-review-race-up-second-highest-mountain-reveals-fatal-cost-of-regrettable-traits",
+        "seendate": "2026-10-01T13:53:11.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "How do you cope when your sacred land becomes Times Square? The art of the first Native New Yorkers",
-        "summary": "A new exhibit of Lenape paintings, traditional dress and music proves their modern-day culture is vibrant and aliveDuring the 19th century, the US government funded more than 500 “Indian boarding schools” aimed at forcibly assimilating Native American children into western culture. Students were taken from their families, frequ",
+        "title": "Gears of War: E-Day review – an alien invasion shouldn’t be this boring",
+        "summary": "Xbox, PC (version tested); The Coalition/Xbox Game StudiosE-Day boasts the best combat in 20 years of Gears games – but everything surrounding it is disappointingEvery Gears of War game released in the last 20 years has made reverent reference to Emergence Day, when alien creatures emerged from the earth, single-minded in their savagery. In E-Day, you’re there to witness it: the police",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/30/native-american-lenape-art-exhibit",
-        "seendate": "2026-09-30T13:00:41.000Z",
+        "url": "https://www.theguardian.com/games/2026/sep/30/gears-of-war-e-day-review-xbox-pc",
+        "seendate": "2026-10-01T13:09:12.000Z",
         "domain": "theguardian.com"
       }
     ],
     "f1": [
       {
-        "title": "Guenther Steiner jokes Christian Horner Ferrari talk is good book publicity",
-        "summary": "Former Haas Formula 1 team principal Guenther Steiner has dismissed the possibility of Christian Horner and Fred Vasseur working alongside each other at Ferrari.Speculation regarding Horner's future intensified after he told The Times he would consider a leadership role at the Maranello outfit. Horner described working with Ferrari as \"the dream\" and indicated it is the only team at which he ...<a class=",
+        "title": "The sim rig Max Verstappen swears by ahead of his GT3 race against Rossi",
+        "summary": "Max Verstappen hasn't sat in a GT3 car since leading his class at the Nurburgring 24 Hours back in May, and he's about to jump into one against Valentino Rossi with very little lead time. On October 17, he'll climb into the No. 3 Mercedes-AMG GT3 for the GT World Challenge Europe finale at Portimao, sharing driving duties with Chris Lulham and Ben Barnicoat.The seat opened up because ...<a class='more' h",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/guenther-steiner-jokes-christian-horner-ferrari-talk-is-good-book-publicity/10860349/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-30T21:37:14.000Z",
+        "url": "https://www.motorsport.com/f1/news/the-sim-rig-max-verstappen-swears-by-ahead-of-his-gt3-race-against-rossi/10860740/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-01T21:18:00.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Kimi Antonelli has \"spooked himself\" amid F1 title pressure, says Naomi Schiff",
-        "summary": "Championship leader Kimi Antonelli has \"spooked himself\" and must \"get out of his head\" to avoid crumbling under the pressure of the Formula 1 fight, according to pundit Naomi Schiff.The Mercedes driver arrived at the Azerbaijan Grand Prix with a commanding 81-point lead. But that advantage was reduced to 66 points after team-mate George Russell successfully converted pole position to a race ...<a class=",
+        "title": "Ayrton Senna's 1991 Honda NSX to go under the hammer for eye-watering sum",
+        "summary": "A 1991 Honda NSX previously owned by three-time Formula 1 champion Ayrton Senna will go under the hammer in London on 31 October and is expected to reach between £500,000 and £800,000.Chassis T000233, which is in Formula Red with a contrasting black roof, was one of three NSX models allocated to the Brazilian driver. The legendary car boasts a six-cylinder three-litre engine producing 271bhp ...<a class=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/kimi-antonelli-has-spooked-himself-amid-f1-title-pressure-says-naomi-schiff/10860343/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-30T20:20:47.000Z",
+        "url": "https://www.motorsport.com/f1/news/ayrton-sennas-1991-honda-nsx-to-go-under-the-hammer-for-eye-watering-sum/10860727/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-01T19:40:59.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "George Russell details F1 drivers' Langkawi boys' trip ahead of Bahrain GP in Malaysia",
-        "summary": "Mercedes driver George Russell has shared details of a boys' trip to Langkawi, which included a local go-karting race, ahead of this weekend's Bahrain Grand Prix in Malaysia.Taking to Instagram, Russell posted photographs of the trip with six other Formula 1 drivers: Oscar Piastri, Alex Albon, Oliver Bearman, Carlos Sainz, Gabriel Bortoleto and Lando Norris.The photos show the group ...<a class='more",
+        "title": "McLaren fans say Colapinto's latest interview is keeping the Norris row alive",
+        "summary": "Lando Norris has apologised for his Baku outburst twice now, once privately to Franco Colapinto and once publicly on Instagram. By any normal standard, that should have closed the book on what became a messy weekend. But fans of the reigning champion have found an interview between Colapinto and ESPN Argentina, and aren't too fussed with what the driver had to say as they took out their ...<a class='more' hr",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/george-russell-details-f1-drivers-langkawi-boys-trip-ahead-of-bahrain-gp-in-malaysia/10860341/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-30T19:56:36.000Z",
+        "url": "https://www.motorsport.com/f1/news/mclaren-fans-say-colapintos-latest-interview-is-keeping-the-norris-row-alive/10860725/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-01T19:39:45.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "F1 pundit says drivers are \"complicit\" if they stay silent on fan abuse",
-        "summary": "Formula 1 broadcaster Will Buxton says drivers who fail to publicly condemn toxic online abuse from their supporters are \"complicit\" in the behaviour.2025 F1 champion Lando Norris's heat-of-the-moment comments following the Azerbaijan Grand Prix led to a wave of backlash online from Alpine driver Franco Colapinto's passionate Argentine fanbase.Colapinto locked up and triggered a multi-car ...<a class",
+        "title": "Oscar Piastri brushes off F1 friendship fears after Langkawi boys' trip",
+        "summary": "McLaren driver Oscar Piastri has brushed off concerns that close friendships between Formula 1 drivers could impact their competitive edge on track.McLaren Racing CEO Zak Brown stated in his book that he prefers drivers not to be friends, explaining that off-track camaraderie can make them reluctant to race each other aggressively.Several of the current F1 drivers went to the island of ...<a class='m",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/f1-pundit-says-drivers-are-complicit-if-they-stay-silent-on-fan-abuse/10860316/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-30T16:04:16.000Z",
+        "url": "https://www.motorsport.com/f1/news/oscar-piastri-brushes-off-f1-friendship-fears-after-langkawi-boys-trip/10860715/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-01T18:26:18.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Five things to look out for at the F1 Bahrain GP in Malaysia",
-        "summary": "Formula 1 heads to the middle point of its current triple header this weekend with the Bahrain Grand Prix in Malaysia serving as round 16 of the 2026 season.It marks the first time that F1 will race in the country since 2017 as a result of the ongoing Middle Eastern conflict, which forced Bahrain to cancel its grand prix earlier in the year.But that is not the only talking point, so here ...<a class=",
+        "title": "F1 Bahrain GP in Malaysia: Friday schedule, weather forecast and how to watch",
+        "summary": "Formula 1 returns to Sepang this weekend for the first time since 2017, with Malaysia stepping in to host the relocated Bahrain Grand Prix.The Bahrain GP was originally scheduled for April but was cancelled amid the conflict in the Middle East. The replacement event keeps the Bahrain name and instead takes place at the Sepang International Circuit near Kuala Lumpur.Kimi Antonelli arrives ...<a class=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/five-things-to-look-out-for-at-the-f1-bahrain-gp-in-malaysia/10860309/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-09-30T15:49:48.000Z",
+        "url": "https://www.motorsport.com/f1/news/f1-bahrain-gp-in-malaysia-friday-schedule-weather-forecast-and-how-to-watch/10860693/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-01T16:34:54.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "TIL what may or may not be the oldest board game in recorded history is also, perhaps inevitably, now a roguelike",
-        "summary": "Oh!Ware on Steam slaps a little Slay the Spire onto a 5000-year-old game.",
+        "title": "9 new 2026 games on sale in the Steam Autumn Sale",
+        "summary": "Including three $70 games that are now under $50.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/roguelike/til-what-may-or-may-not-be-the-oldest-board-game-in-recorded-history-is-also-perhaps-inevitably-now-a-roguelike/",
-        "seendate": "2026-10-01T00:16:35.000Z",
+        "url": "https://www.pcgamer.com/software/platforms/9-new-2026-games-on-sale-in-the-steam-autumn-sale/",
+        "seendate": "2026-10-02T00:46:56.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Valve says Deadlock is still too unfinished to release publicly, but has hero cosmetics and new game modes in the works",
-        "summary": "A new development update leaves us with more questions than answers.",
+        "title": "There's something even scarier than Huggy Wuggy in the Playtime toy factory this weekend",
+        "summary": "Poppy Playtime's multiplayer prequel, Escape from Playtime, is in open beta on Steam until Sunday.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/moba/valve-says-deadlock-is-still-too-unfinished-to-release-publicly-but-has-hero-cosmetics-and-new-game-modes-in-the-works/",
-        "seendate": "2026-09-30T20:52:39.000Z",
+        "url": "https://www.pcgamer.com/games/horror/theres-something-even-scarier-than-huggy-wuggy-in-the-playtime-toy-factory-this-weekend/",
+        "seendate": "2026-10-01T22:33:50.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Agony! Two life sims I really want to play launched back to back",
-        "summary": "How do you choose to spend your time when two games you've been waiting for show up at once?",
+        "title": "Masters of Albion, Peter Molyneux's final game, just got a huge update and, [vigorous, lips-pursed nodding of approval], suddenly the old god game magic is back",
+        "summary": "And there's a tantalising, titan-sized teaser included, too",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/life-sim/agony-two-life-sims-i-really-want-to-play-launched-back-to-back/",
-        "seendate": "2026-09-30T19:34:44.000Z",
+        "url": "https://www.pcgamer.com/games/strategy/masters-of-albion-peter-molyneuxs-final-game-just-got-a-huge-update-and-vigorous-lips-pursed-nodding-of-approval-suddenly-the-old-god-game-magic-is-back/",
+        "seendate": "2026-10-01T21:35:00.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "The Americans have officially renamed artificial intelligence to 'Super Intelligence,' which should fix everything",
-        "summary": "We're one step closer to \"Super Earth\" becoming a real thing.",
+        "title": "One story about my first 30 minutes in this post-apocalyptic robot game led multiple people to buy it",
+        "summary": "Radiosol released on Steam this week.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/software/ai/the-americans-have-officially-renamed-artificial-intelligence-to-super-intelligence-which-should-fix-everything/",
-        "seendate": "2026-09-30T18:57:58.000Z",
+        "url": "https://www.pcgamer.com/games/adventure/one-story-about-my-first-30-minutes-in-this-post-apocalyptic-robot-game-led-multiple-people-to-buy-it/",
+        "seendate": "2026-10-01T21:06:12.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "I have saved GTA 5 from death and also added tornadoes",
-        "summary": "These were two separate tasks.",
+        "title": "'Open world fatigue' is one reason indie RPG Entropy is borrowing from the classics: 'PS1, PS2, GameCube games really never outstayed their welcome'",
+        "summary": "Except Drakengard.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-saved-gta-5-from-death-and-also-added-tornadoes/",
-        "seendate": "2026-09-30T17:00:00.000Z",
+        "url": "https://www.pcgamer.com/games/rpg/open-world-fatigue-is-one-reason-indie-rpg-entropy-is-borrowing-from-the-classics-ps1-ps2-gamecube-games-really-never-outstayed-their-welcome/",
+        "seendate": "2026-10-01T21:04:15.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
       {
-        "title": "We need ‘right to intervene’ in AI amid growing threat, says Bank of England boss",
-        "summary": "Andrew Bailey’s comments come as fears grow that rogue models could take financial system hostageBusiness live – latest updatesThe governor of the Bank of England has called for the “right to intervene” in the AI industry am",
+        "title": "AI chatbots remove hijabs from images of Muslim women when prompted",
+        "summary": "Guardian tested chatbots after French far-right politician stripped a Muslim woman of her hijab in a photoWhen prompted, AI chatbots will edit images to remove the hijabs from Muslim women, a violation of one of the world’s most common and visible expressions of faith.The Guardian asked <a href=\"https://www.theguardian.com/",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/sep/30/intervene-ai-growing-threat-bank-of-england-boss",
-        "seendate": "2026-09-30T15:22:25.000Z",
+        "url": "https://www.theguardian.com/technology/2026/oct/01/ai-chatbots-hijabs-muslim-women",
+        "seendate": "2026-10-01T10:00:34.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Reanimated AI Greta Garbo stars again … in a ball-bearing advert",
-        "summary": "Relatives of Hollywood legend say her doppelganger could now be used for more glamorous rolesShe shimmered in Hollywood’s silent movie era and lit up the first talkies – now Greta Garbo may be about to star in cinema’s new AI age.More than a century after her screen debut and decades after her ashes were laid to rest in a Swedish woodland cemetery, the Hollywood superstar’s descendants are ready to c",
+        "title": "Tech in cars can be used to snoop on you, Dutch spy chiefs warn",
+        "summary": "Hostile states could access cameras, microphones or GPS, says intelligence agency amid concerns over Chinese importsDrivers have been warned that the smart features built into modern cars such as microphones, cameras and GPS trackers could be used by hostile states to spy on them.The Dutch General Intelligence and Security Service (AIVD) called for “awareness of espionage risks around modern vehicles",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/sep/30/ai-greta-garbo-stars-again-ball-bearing-advert",
-        "seendate": "2026-09-30T05:00:12.000Z",
+        "url": "https://www.theguardian.com/technology/2026/oct/01/cars-smart-features-spy-gps-chinese-imports",
+        "seendate": "2026-10-01T10:49:24.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Nandy says children’s social media ban only ‘staging post’ in online safety drive",
-        "summary": "Exclusive: Culture secretary says UK will crack down further and be ‘pioneer of tech as a force for good’Lisa Nandy has warned technology firms that the government’s online safety crackdown is not finished, saying that banning under-16s from social media platforms is only a “staging post”.Earlier this year the government announced that <a href=\"https://www.theguardian.com/uk-news/2026/jun/12/uk-to-ba",
+        "title": "More than 44,000 file legal objections to Palantir NHS platform handling their data",
+        "summary": "Exclusive: Campaign comes amid backlash against tech company’s involvement with Israeli military and Trump’s ICE crackdownUK politics live – latest updatesTens of thousands of people have formally demanded NHS England blocks the Palanti",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/sep/30/lisa-nandy-social-media-ban-online-safety-culture-secretary",
-        "seendate": "2026-09-30T05:00:12.000Z",
+        "url": "https://www.theguardian.com/technology/2026/sep/30/legal-objections-palantir-nhs-platform-handling-data",
+        "seendate": "2026-09-30T14:51:08.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Anthropic ‘warns of existential AI risks to humanity’ in IPO document",
-        "summary": "Reported admission to investors of AI’s ‘self-preserving behaviours’ comes as company prepares for a potential $2tn flotationAnthropic is telling investors that advanced AI could pose “catastrophic or existential risks to humanity”, according to reports, as it prepares for a potential $2tn (£1.5tn) flotation.The warning inside the startup’s IPO prospectus, which has yet to be made public, was reporte",
+        "title": "How AI could ‘supercharge’ election risks across south-east Asia",
+        "summary": "Some experts fear AI could be weaponised in south-east Asia, home to nations with predominately young and hyper-connected populationsYears ago it would have been an elaborate operation involving an army of cyber troops creating fake news websites, social media accounts and forged dossiers, all deployed to spread disinformation en masse.Now, all you need is AI. <a href=\"https://www.theguardian.com",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/sep/29/anthropic-warns-existential-ai-risks-humanity-ipo-document-claude",
-        "seendate": "2026-09-29T10:17:58.000Z",
+        "url": "https://www.theguardian.com/technology/2026/oct/01/how-ai-could-supercharge-fake-news-elections-south-east-asia",
+        "seendate": "2026-10-01T01:58:40.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Smart ring maker Oura puts off initial public offering due to market ‘uncertainty’",
-        "summary": "Researchers say the IPO market was off to a solid start but tailed off in the third quarterSmart ring maker Oura Inc says it is postponing a planned initial public offering due to market “uncertainty”.In a Tuesday press release, Oura said it is delaying the stock market floa",
+        "title": "OpenAI announces ‘dots’ agent after scrapping launch of new AI model over safety concerns",
+        "summary": "Company’s product comes weeks after Meta introduced its own artificial intelligence agent MuseLess than 24 hours after OpenAI announced it would scrap the launch of an artificial intelligence model over safety concerns, the company debuted a whole new suite of AI tools.During its annual showcase for developers in San Francisco on Tuesday, Sam Altman, OpenAI’s CEO, enthusiastically unveiled an AI agen",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/sep/29/oura-ring-public-offering",
-        "seendate": "2026-09-29T17:57:01.000Z",
+        "url": "https://www.theguardian.com/technology/2026/sep/29/openai-announces-dots-agent-safety-concerns",
+        "seendate": "2026-09-29T21:25:33.000Z",
         "domain": "theguardian.com"
       }
     ],
     "climate": [
+      {
+        "title": "US states and cities sue over Trump EPA’s repeal of emissions rules",
+        "summary": "Democratic-led coalition says gutting key protections will set US back decades and worsen climate crisisStates and cities sued the Trump administration on Thursday for repealing rules that limit planet-warming greenhouse gas emissions from power plants fueled by coal and natural gas.Twenty-one states, led by New York, are challenging the Environmental Protection Agency’s power plant rule. The Democra",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/environment/2026/oct/01/us-states-cities-trump-epa-climate-emissions",
+        "seendate": "2026-10-01T22:24:25.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Is Trump to blame for Americans getting explosive diarrhea? | Arwa Mahdawi",
+        "summary": "As the midterms approach, Americans’ digestive health has become a bizarre talking pointDonald Trump seems to spend an unusual amount of time thinking about toilets.Back in 2019, he bizarrely claimed: “People are flushing toilets 10 times, 15 times as opposed to once.” He repea",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/commentisfree/2026/oct/01/trump-lettuce-diarrhea-midterms",
+        "seendate": "2026-10-01T13:00:52.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "US datacenter discharged large amounts of pollution for almost a year with no permits",
+        "summary": "Records show Vineland facility in New Jersey emitted health-harming pollution before regulators stepped inDataOne, the Microsoft-linked New Jersey datacenter recently hit with a $1m fine for running unpermitted generators, emitted large amounts of health-harming air pollution for nearly a yea",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/environment/2026/oct/01/us-datacenter-new-jersey-pollution",
+        "seendate": "2026-10-01T12:00:51.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Trump the environmentalist? How his Iran war exposed the fragility of dirty energy",
+        "summary": "Gavin Newsom says Trump is a ‘gift’ to the climate cause for dispelling notions of fossil fuel energy securitySend us your questions about how the Iran war will affect US voters in the midtermsOf all the epithets hurled at Donald Trump since he became US president, perhaps the m",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/oct/01/trump-iran-war-oil-gas-energy",
+        "seendate": "2026-10-01T11:30:49.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "California rushes to prepare for massive ‘Kelvin’ wave and predicted sea level rise",
         "summary": "Wave nearing southern California expected to reach San Francisco Bay Area by October as it crawls toward AlaskaCommunities across California are rushing to prepare for the imminent arrival of the so-called “Kelvin wave”, a massive underwater band of warm water threatening to inundate swaths of the vast North American shoreline.The wave is nearing southern California and expected to reach the San Fran",
@@ -347,80 +379,48 @@
         "url": "https://www.theguardian.com/us-news/2026/sep/30/california-kelvin-wave-sea-level-rise",
         "seendate": "2026-09-30T11:00:39.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Insects play critical role in ecosystems beyond just providing food, new research shows",
-        "summary": "Insects provide protection, sanitation and even shelter to vertebrates, making them a priority for conservation effortsFor many vertebrates, insects are more than a food source. As “little things that run the world”, insects provide critical functions such as protection, sanitation and shelter across ecosystems, according to a new study.Th",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/2026/sep/30/insects-ecosystems-conservation",
-        "seendate": "2026-09-30T10:00:24.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "EPA union sues Trump administration to restore collective bargaining contract",
-        "summary": "Federal workers’ union alleges EPA illegally terminated agreement with the goal of repressing political dissentThe union representing more than 8,000 workers at the Environmental Protection Agency (EPA) filed a lawsuit against the agency and administrator Lee Zeldin on Tuesday alleging the agency illegally terminated the union’s collective bargaining agreement.The lawsuit, filed by two local unions o",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/2026/sep/29/epa-union-sues-trump-administration",
-        "seendate": "2026-09-29T16:28:31.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "‘It’s just cruel’: US households hit by surge in electricity shutoffs amid record hot summer",
-        "summary": "Utility disconnections were up 28% in 10 states in July 2026 – the hottest month ever recorded in the US – compared with July 2024, data showsA record hot summer collided unhappily with rising energy costs for households across the US that struggled to the point where many were disconnected from their el",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/2026/sep/29/electricity-disconnected-record-heat",
-        "seendate": "2026-09-29T13:00:51.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "The night sky is getting 10% brighter every year. We’re forgetting what darkness feels like",
-        "summary": "If more cities start regulating outdoor lighting, we humans could make the environment better for all living creaturesEvery night, I can turn off the lights in my room – but I can’t do anything about the outdoor lights in the walkway or parking lot that leak through the curtains. Living in Portland, where the night is still illuminated by street lights, porch lights and parking lot glare, I",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/2026/sep/29/night-sky-darkness-city-regulation",
-        "seendate": "2026-09-29T12:00:49.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "science": [
       {
-        "title": "All of a flutter: how butterflies avoid being a predator’s lunch",
-        "summary": "Their whirring wings and bright patterns help keep them safe from birds, British study findsNaturalists have long wondered how brightly coloured butterflies manage to evade the attention of birds that make a meal of other insects.New research from British ecologists suggests it is not simply a matter of good luck but instead a visual illusion created by their fluttering wings. <a href=\"https://ww",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/sep/30/how-butterflies-avoid-being-eaten-by-predators-wildlife-insects",
-        "seendate": "2026-09-30T15:00:43.000Z",
-        "domain": "theguardian.com"
+        "title": "newsroomamerica . com",
+        "summary": "News in real-time",
+        "source": "newsroomamerica.com",
+        "url": "https://newsroomamerica.com/?before=111886",
+        "seendate": "20261002T011500Z",
+        "domain": "newsroomamerica.com"
       },
       {
-        "title": "Can a mushroom make music? Devon exhibition explores ‘cultural world’ of fungi",
-        "summary": "Exeter museum to host DJ’s ‘collaboration’ with woodland fungi and artist’s map of her own body’s mycobiomeFor one of the installations, a musician spent hours in woodland “collaborating” with fungi to create a soundscape inspired by the electricity they emit.Another is a kinetic sculpture of an extinct fungus that honours Beatrix Potter not for her tales of mischievous rabbits but for her lesser-kno",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/sep/30/exeter-devon-exhibition-fungi-mushrooms-living-labyrinths-ramm",
-        "seendate": "2026-09-30T04:00:09.000Z",
-        "domain": "theguardian.com"
+        "title": "Top 5 : The October 2026 California Hot List",
+        "summary": "The Top 5 five things to see and do in the Golden State this October. Make the most of your month with these unmissable sights and activities!",
+        "source": "magazinec.com",
+        "url": "https://magazinec.com/top5/top-5-the-october-2026-california-hot-list/",
+        "seendate": "20261002T011500Z",
+        "domain": "magazinec.com"
       },
       {
-        "title": "‘Godzilla’ of weight-loss drugs could provide other important health benefits",
-        "summary": "Though not yet approved by any regulatory agency, retatrutide could help improve blood sugar levels and reduce inflammationThe ‘Godzilla’ of weight-loss drugs could help improve blood sugar levels, reduce inflammation and cut a person’s body weight by a quarter, according to the largest study of its kind.Retatrutide mimics three key gut hormones that help control appetite, blood sugar and metabolism:",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/sep/29/retatrutide-godzilla-of-weight-loss-drugs-other-health-benefits",
-        "seendate": "2026-09-29T22:01:02.000Z",
-        "domain": "theguardian.com"
+        "title": "  Theyre not all monster : Child sexual abuse prevention experts visit Detroit , discuss early intervention",
+        "summary": "Child sexual abuse can be prevented, according to experts, but say more education, resources and early intervention are needed to stop harm before it happens.",
+        "source": "clickondetroit.com",
+        "url": "https://www.clickondetroit.com/news/local/2026/10/01/theyre-not-all-monsters-child-sexual-abuse-prevention-experts-visit-detroit-discuss-early-intervention/",
+        "seendate": "20261002T011500Z",
+        "domain": "clickondetroit.com"
       },
       {
-        "title": "‘Starship is in orbit’: cheers go up as huge SpaceX rocket circles Earth for first time",
-        "summary": "Mission goes ahead despite some fears an initial engine failure after the Texas launch would scupper the attemptSpaceX has sent its enormous Starship rocket into Earth’s orbit for the first time on a milestone flight intended to pave the way for future missions to the moon and Mars.The rocket, the largest and most powerful ever built, blasted off from SpaceX’s Starbase launch facility in Texas at 7.4",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/sep/28/spacex-starship-rocket-orbits-earth-texas",
-        "seendate": "2026-09-28T16:23:49.000Z",
-        "domain": "theguardian.com"
+        "title": "Nigeria : Unions Call 3 - Day Warning Strike From 2 October",
+        "summary": "Nigeria’s public sector unions have called a three-day warning strike from Friday, 2 October, over petrol prices, a wage award and a new minimum wage.",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/nigeria-warning-strike-october-2-petrol-minimum-wage-2026/",
+        "seendate": "20261002T011500Z",
+        "domain": "riotimesonline.com"
       },
       {
-        "title": "Are household cleaning products damaging our health? – podcast",
-        "summary": "Our use of cleaning products has increased since the pandemic, but do we understand what they could be doing to our health? The journalist Rebecca Seal recently wrote for the Guardian about the potential impacts of the many chemicals we now use in our homes. She tells Madeleine Finlay how social media has also played a role in transforming our cleaning habits, why the impact of indoor air pollution is so hard to s",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/audio/2026/sep/29/science-weekly-cleaning-products-chemicals-podcast",
-        "seendate": "2026-09-29T04:00:52.000Z",
-        "domain": "theguardian.com"
+        "title": "Fire Safety Training for Higher Education -- Occupational Health & Safety",
+        "summary": "This paper explores the importance of comprehensive fire safety training on college campuses, where residence halls, classrooms and other shared spaces can present significant fire risks. It covers fire extinguisher training, fire science fundamentals, regulatory requirements and modern hands-on and digital training tools designed to help students, faculty and staff respond effectively and improve campus safety.",
+        "source": "ohsonline.com",
+        "url": "https://ohsonline.com/whitepapers/2026/10/lion-fire-safety-training-higher-education.aspx",
+        "seendate": "20261002T011500Z",
+        "domain": "ohsonline.com"
       }
     ]
   }
