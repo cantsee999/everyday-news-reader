@@ -1,8 +1,16 @@
 {
-  "generatedAt": "2026-10-02T01:51:54.985Z",
+  "generatedAt": "2026-10-03T01:31:20.768Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
+      {
+        "title": "Row erupts over Cairo mural depicting Tutankhamun and Nefertiti with dark skin",
+        "summary": "Artwork created in Tahrir Square for Chinese president’s state visit to Egypt is painted over amid allegations it revived Afrocentric claims about pharaohs’ originsOn the eve of the Chinese president Xi Jinping’s state visit to Cairo last month, the city authorities were busy removing a 66-metre-long mural from the esteemed guest’s line of sight.Depicting the Pharaoh Tutankhamun and",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/global-development/2026/oct/02/row-erupts-over-cairo-mural-depicting-tutankhamun-and-nefertiti-with-dark-skin",
+        "seendate": "2026-10-02T08:55:42.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Trump administration diverts human rights funds to push far-right agenda abroad",
         "summary": "Support such as for white Afrikaners and anti-communism reveals how US is redefining what qualifies as human rightsWith hours left before the funding expires, the Trump administration is pushing to direct more than $175m of the state department’s flagship human rights fund to a slate of awards that includes a huge $40m grant for an anti-communism fund, support for a group advancing white Afrikaner rights in",
@@ -33,19 +41,19 @@
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/world/2026/sep/28/drc-politician-beaten-death-radio-appearance-ebola",
         "seendate": "2026-09-28T15:54:25.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "At least 27 dead after two mass shootings in South Africa, police say",
-        "summary": "Seventeen people killed near Johannesburg in suspected ‘illegal goldmining turf war’, as 10 killed in separate incident at barbecue venue near Cape TownTwo separate mass shootings near South Africa’s two biggest cities killed at least 27 people, as the country grapples with one of the world’s highest murder rates amid investigations into corruption and criminality within the police.The South African",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
-        "seendate": "2026-09-27T13:46:49.000Z",
         "domain": "theguardian.com"
       }
     ],
     "conflict": [
       {
+        "title": "Row erupts over Cairo mural depicting Tutankhamun and Nefertiti with dark skin",
+        "summary": "Artwork created in Tahrir Square for Chinese president’s state visit to Egypt is painted over amid allegations it revived Afrocentric claims about pharaohs’ originsOn the eve of the Chinese president Xi Jinping’s state visit to Cairo last month, the city authorities were busy removing a 66-metre-long mural from the esteemed guest’s line of sight.Depicting the Pharaoh Tutankhamun and",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/global-development/2026/oct/02/row-erupts-over-cairo-mural-depicting-tutankhamun-and-nefertiti-with-dark-skin",
+        "seendate": "2026-10-02T08:55:42.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Trump administration diverts human rights funds to push far-right agenda abroad",
         "summary": "Support such as for white Afrikaners and anti-communism reveals how US is redefining what qualifies as human rightsWith hours left before the funding expires, the Trump administration is pushing to direct more than $175m of the state department’s flagship human rights fund to a slate of awards that includes a huge $40m grant for an anti-communism fund, support for a group advancing white Afrikaner rights in",
         "source": "theguardian.com",
@@ -76,17 +84,25 @@
         "url": "https://www.theguardian.com/world/2026/sep/28/drc-politician-beaten-death-radio-appearance-ebola",
         "seendate": "2026-09-28T15:54:25.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "At least 27 dead after two mass shootings in South Africa, police say",
-        "summary": "Seventeen people killed near Johannesburg in suspected ‘illegal goldmining turf war’, as 10 killed in separate incident at barbecue venue near Cape TownTwo separate mass shootings near South Africa’s two biggest cities killed at least 27 people, as the country grapples with one of the world’s highest murder rates amid investigations into corruption and criminality within the police.The South African",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
-        "seendate": "2026-09-27T13:46:49.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "economy": [
+      {
+        "title": "US added just 29,000 jobs in September in sharp drop from last month’s gains",
+        "summary": "Final jobs report before the midterm elections also shows the US unemployment rate rose slightly to 4.2%US employers added just 29,000 jobs in September, a sharp drop from last month’s gains, and unemployment rose slightly to 4.2%, a sign of a cooling labor market in the final jobs report before the midterm election.The numbers were under half of economists’ expectations of <a href=\"https://www.wsj.c",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/business/2026/oct/02/september-jobs-report",
+        "seendate": "2026-10-02T14:04:29.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "G7 to release up to 100m barrels of emergency oil and diesel reserves",
+        "summary": "Leaders agree a coordinated drawdown after surge in prices and Donald Trump’s threat to cut off US suppliesLeaders of G7 nations are to release up to 100m barrels of their emergency diesel and crude oil stockpiles after Donald Trump threatened to cut off supplies of US diesel.",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/business/2026/oct/02/g7-release-barrels-oil-diesel-reserves-emergency",
+        "seendate": "2026-10-02T18:52:03.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "US borrowing costs hit 24-year high as global bond sell-off intensifies",
         "summary": "Fears that US deficit is unsustainable also drive UK 30-year bond yields briefly above 6% for first time since 1998Business live – latest updatesThe global bond sell-off intensified on Thursday, driving 10-year US governme",
@@ -110,25 +126,33 @@
         "url": "https://www.theguardian.com/business/2026/sep/30/inflation-report-interest-rates-fed",
         "seendate": "2026-09-30T15:34:20.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "A ‘freaked out’ US food industry is hitting back at Maha – with social media influencers",
-        "summary": "Cross-partisan support in Washington on issues like pesticides and food additives pose a threat to the industry’s bottom line Some of the biggest food and agriculture corporations in the US are funding a campaign that pays social media influencers to combat elements of Robert F Kennedy Jr’s Make America Healthy Again platform, according to an investigation by the Guardian and Documented, an investigative wa",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/sep/30/us-food-industry-maga-social-media-influencers",
-        "seendate": "2026-09-30T10:00:24.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Anthropic ‘warns of existential AI risks to humanity’ in IPO document",
-        "summary": "Reported admission to investors of AI’s ‘self-preserving behaviours’ comes as company prepares for a potential $2tn flotationAnthropic is telling investors that advanced AI could pose “catastrophic or existential risks to humanity”, according to reports, as it prepares for a potential $2tn (£1.5tn) flotation.The warning inside the startup’s IPO prospectus, which has yet to be made public, was reporte",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/sep/29/anthropic-warns-existential-ai-risks-humanity-ipo-document-claude",
-        "seendate": "2026-09-29T10:17:58.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "literature": [
+      {
+        "title": "Stories shortlisted for 4thWrite prize offer ‘a whole world in a few pages’",
+        "summary": "The six stories on the shortlist for the 10th year of the writing award run by 4th Estate and the Guardian and open to unpublished writers of colour are ‘affecting in new and surprising ways’, said judge and author Gurnaik JohalThe shortlist for the 10th year of the 4thWrite prize – the short story competition for unpublished writers of colour run by the publisher 4th Estate in association with the Guardian",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/oct/02/shortlist-4thwrite-prize-revealed",
+        "seendate": "2026-10-02T11:00:18.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Rhapsody: A Manifesto by Alice Oswald review – a history of the spoken word, from Homer to Ted Hughes",
+        "summary": "A twisting, beguiling investigation into the art of poetry that ends in a call to arms on behalf of the natural worldThe poet Alice Oswald is no stranger to thinking in public about her art. She was Oxford professor of poetry until 2023, and her lectures are available online. But this is her first full-length book, and as such is something of an occasion.So what exactly is it? For a work of prose it",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/oct/02/rhapsody-a-manifesto-by-alice-oswald-review-a-history-of-the-spoken-word-from-homer-to-ted-hughes",
+        "seendate": "2026-10-02T06:00:11.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "The best recent poetry – review roundup",
+        "summary": "Have It by John Cooper Clarke; The Dodo Stories by Mary Mulholland; Red River Valley by Ian McMillan; Some Sacred Harbour by Roger Robinson; Otherwhere by Carolyn ForchéHave It by John Cooper Clarke (Picador, £16.99)The latest collect",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/oct/02/the-best-recent-poetry-review-roundup",
+        "seendate": "2026-10-02T11:00:17.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "The Mercy Step by Marcia Hutchinson audiobook review – a Caribbean child’s-eye view of 60s Bradford",
         "summary": "The author captures the comedy and cruelty in this tenderly written coming-of-age taleThis Women’s prize-nominated novel from Marcia Hutchinson is told from the perspective of Mercy Hanson, a girl born in Bradford in 1962 to a mother she adores and a father she fears. We follow Mercy, their spirited fifth child, from birth through her toddler years to primary education. There she discovers books for the fir",
@@ -144,198 +168,174 @@
         "url": "https://www.theguardian.com/books/2026/oct/01/what-were-reading-sebastian-barry-china-mieville-readers-and-derek-owusu-on-the-books-they-enjoyed-in-september",
         "seendate": "2026-10-01T11:48:27.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Dodge City by Patrick deWitt review – a wild draft-dodging road trip",
-        "summary": "This tale of a 60s college dropout driving across the US to avoid being sent to Vietnam is committed to both readerly pleasure and literary artificeCanadian author Patrick deWitt broke through with a western, 2011’s Booker-shortlisted The Sisters Brothers. Now, he has taken on another hallowed American genre:",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/oct/01/dodge-city-by-patrick-dewitt-review-a-wild-draft-dodging-road-trip",
-        "seendate": "2026-10-01T06:00:29.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Patrick Radden Keefe’s bestseller London Falling shortlisted for Baillie Gifford prize",
-        "summary": "The acclaimed American journalist, who won the nonfiction prize in 2021, is shortlisted alongside Andrea Wulf and Matthew SweetFormer Baillie Gifford winner Patrick Radden Keefe is among the authors shortlisted for the 2026 prize, this time with his book on London’s criminal underbelly.The six-strong shortlist spans literary biography, ancient history, true crime and international reportage, with Jam",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/oct/01/baillie-gifford-prize-shortlist-patrick-radden-keefe-matthew-sweet-london-falling",
-        "seendate": "2026-09-30T23:01:20.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Missouri Williams and China Miéville among writers on ‘adventurous’ Goldsmiths shortlist",
-        "summary": "Six writers are in contention for the £10,000 books prize, which celebrates fiction that ‘breaks the mould or extends the possibilities of the novel form’Missouri Williams, China Miéville and Polly Barton are among the writers shortlisted for this year’s Goldsmiths prize.The £10,000 award recognises fiction that “breaks the mould or extends the possibilities of the novel form”.Explore the shor",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/sep/30/missouri-williams-china-mieville-writers-shortlisted-2026-goldsmiths-prize",
-        "seendate": "2026-09-30T08:30:20.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "entertainment": [
       {
-        "title": "You Can See Everything review – Nathan Fielder’s Elizabeth Holmes doc is a modern masterpiece of deceit",
-        "summary": "New York film festival: No spoilers here – TV’s grand illusionist meets his match when he moves in with Theranos founder and her familyFor anyone remotely near the worlds of documentary, comedy or medical fraud, there has been one thing on the mind for weeks now: a single-minute clip of Nathan Fielder, the absurdist comed",
+        "title": "Cameron Winter at Carnegie Hall review – Paul Thomas Anderson’s sumptuous recording is an immediate classic",
+        "summary": "New York Film Festival: The Geese frontman mesmerizes in a concert film that is both swoony and austereOne night last December, weary from a busy week and the impending doom of winter, I hurried into Carnegie Hall to witness Cameron Winter. The Geese frontman was marking the end of a <a href=\"https://www.theguardian.com/music/2025/may/06",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/oct/01/you-can-see-everything-movie-review",
-        "seendate": "2026-10-01T16:51:21.000Z",
+        "url": "https://www.theguardian.com/film/2026/oct/02/cameron-winter-carnegie-hall-review-paul-thomas-anderson",
+        "seendate": "2026-10-02T20:13:24.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Sex, drugs and amoebic dysentery: the 20 best making-of documentaries – ranked!",
-        "summary": "From tropical disasters and doomed sci-fi epics to bribing Orson Welles and fending off a puma, we rate cinema’s most revealing glimpses behind the scenesBehind-the-scenes footage from Dawn of the Dead is the highlight of this aficionados-only affair, which follows the 1979 satirical zombie horror all the way through to distribution. Director George A Romero, makeup maestro Tom Savini and the occasional zom",
+        "title": "Olivia Dean accused of plagiarism on her I’ve Seen It track",
+        "summary": "Mattie Music Group, owners of Bill Withers’ back catalogue, contend the Grammy winner infringed on Just the Two of UsOlivia Dean has been accused of plagiarizing the Bill Withers classic Just the Two of Us.The owners of Withers’ back catalogue aimed that allegation at his fellow Gr",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/oct/01/20-best-making-of-documentaries-ranked",
-        "seendate": "2026-10-01T15:31:13.000Z",
+        "url": "https://www.theguardian.com/music/2026/oct/02/olivia-dean-ive-seen-it-plagiarism",
+        "seendate": "2026-10-02T17:25:35.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Rick Ross arrested on domestic battery and strangulation charges",
-        "summary": "The rapper was arrested in Miami Beach on Thursday, days after an ex-girlfriend accused him of physical abuseRick Ross has been arrested on domestic violence charges in Miami Beach, according to local police.The rapper was booked at Tur",
+        "title": "Seth Meyers on Trump: ‘Is there anything this grub won’t make us pay for?’",
+        "summary": "Late-night hosts talked Trump’s use of taxpayer money to fund campaign ads as GOP candidates distance themselvesLate-night hosts dug into Donald Trump’s unpopularity with GOP midterm candidates and his insistence on having US taxpayers foot the bill for recycled campaign ads. <a href=\"https://www.theguardian.com/culture/2026/oct/02/seth-meyer",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/music/2026/oct/01/rick-ross-arrest-miami-battery-strangulation",
-        "seendate": "2026-10-01T14:34:42.000Z",
+        "url": "https://www.theguardian.com/culture/2026/oct/02/seth-meyers-trump-taxpayer-funded-ads",
+        "seendate": "2026-10-02T14:40:06.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "The Last First: Winter K2 review – race up second highest mountain reveals fatal cost of human ambition",
-        "summary": "Amir Bar-Lev’s doc covering competing climbers trying to achieve something that has not been done before uncovers a fascinating tapestry of aspiration and follyDuring the Covid pandemic in 2021, a “last first” in mountaineering was achieved: the forbidding K2 mountain was scaled in winter for",
+        "title": "How Bassam Tariq pivoted from stalled Blade reboot to new Mahershala Ali thriller: ‘I’m happier I made this movie’",
+        "summary": "In the film-maker’s Houston-set film, Ali stars as a devout Muslim who moonlights as a vicious hitmanMahershala Ali is swinging around a blade in Your Mother Your Mother Your Mother. That’s not a nod to Ali’s previous <a href=\"https://www.theguar",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/oct/01/the-last-first-winter-k2-review-race-up-second-highest-mountain-reveals-fatal-cost-of-regrettable-traits",
-        "seendate": "2026-10-01T13:53:11.000Z",
+        "url": "https://www.theguardian.com/film/2026/oct/02/bassam-tariq-your-mother-your-mother-your-mother-interview-mahershala-ali-marvel-blade",
+        "seendate": "2026-10-02T11:00:18.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Gears of War: E-Day review – an alien invasion shouldn’t be this boring",
-        "summary": "Xbox, PC (version tested); The Coalition/Xbox Game StudiosE-Day boasts the best combat in 20 years of Gears games – but everything surrounding it is disappointingEvery Gears of War game released in the last 20 years has made reverent reference to Emergence Day, when alien creatures emerged from the earth, single-minded in their savagery. In E-Day, you’re there to witness it: the police",
+        "title": "‘It’s rational to fear the music industry’: Grouper’s Liz Harris on virality, streaming scammers and her ‘restorative’ dream-pop trio",
+        "summary": "When a rarity blew up on TikTok, the solitary ambient artist had fraudsters trying to steal her royalties. It reinforced her DIY mentality – until reforming her band Helen reminded her of the beauty of collaborationIn mid-September, I watched as Liz Harris soundchecked to 1,500 empty seats at midtown Manhattan’s historic Town Hall theatre. Soon each plush red chair would be filled for the second of two sold",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/games/2026/sep/30/gears-of-war-e-day-review-xbox-pc",
-        "seendate": "2026-10-01T13:09:12.000Z",
+        "url": "https://www.theguardian.com/music/2026/oct/02/grouper-liz-harris-tour-helen-band-lindas-head-interview",
+        "seendate": "2026-10-02T10:00:17.000Z",
         "domain": "theguardian.com"
       }
     ],
     "f1": [
       {
-        "title": "The sim rig Max Verstappen swears by ahead of his GT3 race against Rossi",
-        "summary": "Max Verstappen hasn't sat in a GT3 car since leading his class at the Nurburgring 24 Hours back in May, and he's about to jump into one against Valentino Rossi with very little lead time. On October 17, he'll climb into the No. 3 Mercedes-AMG GT3 for the GT World Challenge Europe finale at Portimao, sharing driving duties with Chris Lulham and Ben Barnicoat.The seat opened up because ...<a class='more' h",
+        "title": "Lewis Hamilton's custom Monza outfit revealed after iconic Ferrari F40 photoshoot",
+        "summary": "Details about the outfit Lewis Hamilton wore during his iconic arrival at the Italian Grand Prix in September have been revealed.The seven-time champion immediately turned heads at the Monza circuit as he rolled up in his restored Ferrari F40 and stepped out in a black suit with a tan overcoat. He later posed in a custom-made Khaite look.While Khaite does not produce a dedicated menswear ...<a class=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/the-sim-rig-max-verstappen-swears-by-ahead-of-his-gt3-race-against-rossi/10860740/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-01T21:18:00.000Z",
+        "url": "https://www.motorsport.com/f1/news/lewis-hamiltons-custom-monza-outfit-revealed-after-iconic-ferrari-f40-photoshoot/10861185/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-02T21:45:11.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Ayrton Senna's 1991 Honda NSX to go under the hammer for eye-watering sum",
-        "summary": "A 1991 Honda NSX previously owned by three-time Formula 1 champion Ayrton Senna will go under the hammer in London on 31 October and is expected to reach between £500,000 and £800,000.Chassis T000233, which is in Formula Red with a contrasting black roof, was one of three NSX models allocated to the Brazilian driver. The legendary car boasts a six-cylinder three-litre engine producing 271bhp ...<a class=",
+        "title": "Lewis Hamilton goes viral with Fernando Alonso verdict as fans hail \"legend\"",
+        "summary": "Seven-time Formula 1 champion Lewis Hamilton has drawn widespread praise across social media for his comments about Fernando Alonso's contract extension with Aston Martin.Ahead of the Bahrain Grand Prix, held in Malaysia, the Spaniard signed a contract extension with the Silverstone outfit that will keep him with the team until at least the end of 2027.Naturally, the two-time champion's ...<a class='",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/ayrton-sennas-1991-honda-nsx-to-go-under-the-hammer-for-eye-watering-sum/10860727/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-01T19:40:59.000Z",
+        "url": "https://www.motorsport.com/f1/news/lewis-hamilton-goes-viral-with-fernando-alonso-verdict-as-fans-hail-legend/10861182/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-02T21:06:06.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "McLaren fans say Colapinto's latest interview is keeping the Norris row alive",
-        "summary": "Lando Norris has apologised for his Baku outburst twice now, once privately to Franco Colapinto and once publicly on Instagram. By any normal standard, that should have closed the book on what became a messy weekend. But fans of the reigning champion have found an interview between Colapinto and ESPN Argentina, and aren't too fussed with what the driver had to say as they took out their ...<a class='more' hr",
+        "title": "George Russell left \"lost for words\" by Malaysian F1 fans’ special gift",
+        "summary": "Formula 1 is back at Sepang International Circuit for the first time in nine years, and the homecoming came with a gift for Mercedes driver George Russell. A video posted to the team's social media channels this week shows Russell holding a scrapbook so thick it looks like it belongs in a library. The group behind it calls itself 'Team GR63, Malaysia', and judging by his reaction, they did a good ...<a class",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/mclaren-fans-say-colapintos-latest-interview-is-keeping-the-norris-row-alive/10860725/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-01T19:39:45.000Z",
+        "url": "https://www.motorsport.com/f1/news/george-russell-left-lost-for-words-by-malaysian-f1-fans-special-gift/10861153/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-02T18:44:30.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Oscar Piastri brushes off F1 friendship fears after Langkawi boys' trip",
-        "summary": "McLaren driver Oscar Piastri has brushed off concerns that close friendships between Formula 1 drivers could impact their competitive edge on track.McLaren Racing CEO Zak Brown stated in his book that he prefers drivers not to be friends, explaining that off-track camaraderie can make them reluctant to race each other aggressively.Several of the current F1 drivers went to the island of ...<a class='m",
+        "title": "F1 Bahrain GP in Malaysia: Saturday schedule, weather forecast and how to watch",
+        "summary": "Formula 1 heads into Saturday at Sepang with Charles Leclerc fastest after second practice for the Bahrain GP in Malaysia.The Ferrari driver edged Isack Hadjar by just 0.099s in FP2, with Lando Norris third for McLaren. Max Verstappen was fourth after setting his quickest time on the medium tyre, while Lewis Hamilton completed the top five.Mercedes had a more difficult session after ...<a class='more",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/oscar-piastri-brushes-off-f1-friendship-fears-after-langkawi-boys-trip/10860715/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-01T18:26:18.000Z",
+        "url": "https://www.motorsport.com/f1/news/f1-bahrain-gp-in-malaysia-saturday-schedule-weather-forecast-and-how-to-watch/10861161/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-02T17:13:43.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "F1 Bahrain GP in Malaysia: Friday schedule, weather forecast and how to watch",
-        "summary": "Formula 1 returns to Sepang this weekend for the first time since 2017, with Malaysia stepping in to host the relocated Bahrain Grand Prix.The Bahrain GP was originally scheduled for April but was cancelled amid the conflict in the Middle East. The replacement event keeps the Bahrain name and instead takes place at the Sepang International Circuit near Kuala Lumpur.Kimi Antonelli arrives ...<a class=",
+        "title": "Max Verstappen’s unusual run plan and F1 teams’ biggest challenge in Malaysia explained",
+        "summary": "Friday practice for the Formula 1 Bahrain Grand Prix in Malaysia was atypical in several respects. Lap times turned out to be four and a half seconds slower than expected due to the poor track surface, Mercedes did not impress as much as perhaps expected and the run plans were rather unusual.The latter was perhaps most evident with Max Verstappen. Normally, drivers complete their qualifying ...<a class='",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/f1-bahrain-gp-in-malaysia-friday-schedule-weather-forecast-and-how-to-watch/10860693/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-01T16:34:54.000Z",
+        "url": "https://www.motorsport.com/f1/news/max-verstappens-unusual-run-plan-and-f1-teams-biggest-challenge-in-malaysia-explained/10861101/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-02T13:42:25.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "9 new 2026 games on sale in the Steam Autumn Sale",
-        "summary": "Including three $70 games that are now under $50.",
+        "title": "GTA 6 marketing stunt reveals none of our UK editors have heard of the Miami Heat",
+        "summary": "I don't even know ball but I feel like I'm losing my mind.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/software/platforms/9-new-2026-games-on-sale-in-the-steam-autumn-sale/",
-        "seendate": "2026-10-02T00:46:56.000Z",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-marketing-stunt-reveals-none-of-our-uk-editors-have-heard-of-the-miami-heat/",
+        "seendate": "2026-10-02T22:49:09.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "There's something even scarier than Huggy Wuggy in the Playtime toy factory this weekend",
-        "summary": "Poppy Playtime's multiplayer prequel, Escape from Playtime, is in open beta on Steam until Sunday.",
+        "title": "Let's catch you up on all the latest news from Steam's 20 most-wishlisted games",
+        "summary": "Get up to speed on Steam's most anticipated games.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/horror/theres-something-even-scarier-than-huggy-wuggy-in-the-playtime-toy-factory-this-weekend/",
-        "seendate": "2026-10-01T22:33:50.000Z",
+        "url": "https://www.pcgamer.com/games/lets-catch-you-up-on-all-the-latest-news-from-steams-20-most-wishlisted-games/",
+        "seendate": "2026-10-02T22:34:28.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Masters of Albion, Peter Molyneux's final game, just got a huge update and, [vigorous, lips-pursed nodding of approval], suddenly the old god game magic is back",
-        "summary": "And there's a tantalising, titan-sized teaser included, too",
+        "title": "After 30 years they finally let Ace Combat's director fly in a real jet, and I'm taking credit",
+        "summary": "This is what a man looks like after fulfilling a lifelong dream.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/strategy/masters-of-albion-peter-molyneuxs-final-game-just-got-a-huge-update-and-vigorous-lips-pursed-nodding-of-approval-suddenly-the-old-god-game-magic-is-back/",
-        "seendate": "2026-10-01T21:35:00.000Z",
+        "url": "https://www.pcgamer.com/games/sim/after-30-years-they-finally-let-ace-combats-director-fly-in-a-real-jet-and-im-taking-credit/",
+        "seendate": "2026-10-02T19:44:33.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "One story about my first 30 minutes in this post-apocalyptic robot game led multiple people to buy it",
-        "summary": "Radiosol released on Steam this week.",
+        "title": "Destiny 2 might be back, but the Bungie Store is going away",
+        "summary": "Bungie is 'building a new home for our merchandise that's more aligned with our current goals and vision,' and for some reason that means the old home has to go away.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/adventure/one-story-about-my-first-30-minutes-in-this-post-apocalyptic-robot-game-led-multiple-people-to-buy-it/",
-        "seendate": "2026-10-01T21:06:12.000Z",
+        "url": "https://www.pcgamer.com/games/fps/destiny-2-might-be-back-but-the-bungie-store-is-going-away/",
+        "seendate": "2026-10-02T18:30:45.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "'Open world fatigue' is one reason indie RPG Entropy is borrowing from the classics: 'PS1, PS2, GameCube games really never outstayed their welcome'",
-        "summary": "Except Drakengard.",
+        "title": "Dear former NFL head coach Mike Tomlin: Your 12-year Minecraft city is beautiful",
+        "summary": "It may or may not have contributed to the Steelers' years of postseason woes—but at least it's walkable.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/rpg/open-world-fatigue-is-one-reason-indie-rpg-entropy-is-borrowing-from-the-classics-ps1-ps2-gamecube-games-really-never-outstayed-their-welcome/",
-        "seendate": "2026-10-01T21:04:15.000Z",
+        "url": "https://www.pcgamer.com/games/survival-crafting/dear-former-nfl-head-coach-mike-tomlin-your-12-year-minecraft-city-is-beautiful/",
+        "seendate": "2026-10-02T18:11:22.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
       {
+        "title": "Recent lobbyist for Palantir had key role in helping Andy Burnham become PM",
+        "summary": "Exclusive: Martha Dalton worked closely with Burnham’s team on byelection that secured his return to parliamentA recent lobbyist for the controversial $450bn US tech company Palantir played a senior role in helping Andy Burnham become prime minister, it has emerged.Martha Dalton, whose company Lodestone worked for Palantir in 2024 and 2025, campaigned for Burnham in the Makerfield byelection that sec",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/oct/02/lobbyist-palantir-martha-dalton-andy-burnham",
+        "seendate": "2026-10-02T08:47:47.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Kinky dating app Feeld’s founders share in record £3.8m dividend after sales jump",
+        "summary": "Platform ‘for the curious’ says users outside the UK account for nearly 90% of its revenuesBusiness live – latest updatesFeeld, a UK-based dating app aimed at non-monogamous, queer and kinky users, has reported",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/oct/02/feeld-dating-app-pays-founders-sales-jump",
+        "seendate": "2026-10-02T09:58:19.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Google rolls out new Gemini AI model but restricts access over safety concerns",
+        "summary": "Tech company releases Gemini 4 Argon only to a vetted group of cybersecurity experts to avoid misuse by hackersGoogle on Wednesday said it would withhold its most powerful artificial intelligence model from the public for now, releasing Gemini 4 Argon only to a vetted group of cybersecurity experts to avoid misuse by hackers.“Safely releasing frontier capabilities at this level requires a phas",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/oct/01/google-releases-gemini-model-restrictions",
+        "seendate": "2026-10-01T16:47:29.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "SpaceX launches crew to ISS successfully: ‘Thanks for an amazing ride’",
+        "summary": "Jessica Watkins, the first Black woman to lead a crew to orbit, is making her second trip to the space stationFour astronauts rocketed into orbit on Thursday on a space station mission that will stretch until spring, among them a Canadian whose wife will give birth while he is away.SpaceX launched commander Jessica Watkins and her crew for <a h",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/oct/01/spacex-nasa-watkins-launch",
+        "seendate": "2026-10-01T16:22:30.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "AI chatbots remove hijabs from images of Muslim women when prompted",
         "summary": "Guardian tested chatbots after French far-right politician stripped a Muslim woman of her hijab in a photoWhen prompted, AI chatbots will edit images to remove the hijabs from Muslim women, a violation of one of the world’s most common and visible expressions of faith.The Guardian asked <a href=\"https://www.theguardian.com/",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/technology/2026/oct/01/ai-chatbots-hijabs-muslim-women",
         "seendate": "2026-10-01T10:00:34.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Tech in cars can be used to snoop on you, Dutch spy chiefs warn",
-        "summary": "Hostile states could access cameras, microphones or GPS, says intelligence agency amid concerns over Chinese importsDrivers have been warned that the smart features built into modern cars such as microphones, cameras and GPS trackers could be used by hostile states to spy on them.The Dutch General Intelligence and Security Service (AIVD) called for “awareness of espionage risks around modern vehicles",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/oct/01/cars-smart-features-spy-gps-chinese-imports",
-        "seendate": "2026-10-01T10:49:24.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "More than 44,000 file legal objections to Palantir NHS platform handling their data",
-        "summary": "Exclusive: Campaign comes amid backlash against tech company’s involvement with Israeli military and Trump’s ICE crackdownUK politics live – latest updatesTens of thousands of people have formally demanded NHS England blocks the Palanti",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/sep/30/legal-objections-palantir-nhs-platform-handling-data",
-        "seendate": "2026-09-30T14:51:08.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "How AI could ‘supercharge’ election risks across south-east Asia",
-        "summary": "Some experts fear AI could be weaponised in south-east Asia, home to nations with predominately young and hyper-connected populationsYears ago it would have been an elaborate operation involving an army of cyber troops creating fake news websites, social media accounts and forged dossiers, all deployed to spread disinformation en masse.Now, all you need is AI. <a href=\"https://www.theguardian.com",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/oct/01/how-ai-could-supercharge-fake-news-elections-south-east-asia",
-        "seendate": "2026-10-01T01:58:40.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "OpenAI announces ‘dots’ agent after scrapping launch of new AI model over safety concerns",
-        "summary": "Company’s product comes weeks after Meta introduced its own artificial intelligence agent MuseLess than 24 hours after OpenAI announced it would scrap the launch of an artificial intelligence model over safety concerns, the company debuted a whole new suite of AI tools.During its annual showcase for developers in San Francisco on Tuesday, Sam Altman, OpenAI’s CEO, enthusiastically unveiled an AI agen",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/sep/29/openai-announces-dots-agent-safety-concerns",
-        "seendate": "2026-09-29T21:25:33.000Z",
         "domain": "theguardian.com"
       }
     ],
@@ -346,6 +346,14 @@
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/environment/2026/oct/01/us-states-cities-trump-epa-climate-emissions",
         "seendate": "2026-10-01T22:24:25.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "The Colorado River is shrinking. What happens next?",
+        "summary": "Lake Mead is at its lowest level since it was filled nearly 90 years ago, Lake Powell also at a historic lowIt was 42C (108F) degrees as we motored across Nevada’s Lake Mead in our rented pontoon boat. Colby Pellegrino with the Southern Nevada Water Authority wanted to show us something we shouldn’t have been able to see. She pointed toward a rock isl",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/oct/01/colorado-river-nevada-shrinking",
+        "seendate": "2026-10-01T15:55:58.000Z",
         "domain": "theguardian.com"
       },
       {
@@ -371,56 +379,48 @@
         "url": "https://www.theguardian.com/us-news/2026/oct/01/trump-iran-war-oil-gas-energy",
         "seendate": "2026-10-01T11:30:49.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "California rushes to prepare for massive ‘Kelvin’ wave and predicted sea level rise",
-        "summary": "Wave nearing southern California expected to reach San Francisco Bay Area by October as it crawls toward AlaskaCommunities across California are rushing to prepare for the imminent arrival of the so-called “Kelvin wave”, a massive underwater band of warm water threatening to inundate swaths of the vast North American shoreline.The wave is nearing southern California and expected to reach the San Fran",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/sep/30/california-kelvin-wave-sea-level-rise",
-        "seendate": "2026-09-30T11:00:39.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "science": [
       {
-        "title": "newsroomamerica . com",
-        "summary": "News in real-time",
-        "source": "newsroomamerica.com",
-        "url": "https://newsroomamerica.com/?before=111886",
-        "seendate": "20261002T011500Z",
-        "domain": "newsroomamerica.com"
+        "title": "‘An amazing ride’: SpaceX flight led by first Black female commander sets US speed record",
+        "summary": "Four astronauts pulled up at International Space Station after eight-hour express flight led by Jessica WatkinsFour astronauts pulled up at the International Space Station (ISS) on Thursday after launching on an eight-hour express that set a US speed record, and that created further history with the first Black woman to lead a crew to orbit.SpaceX launched commander Jessica Watkins and her crew for N",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/oct/01/spacex-speed-record-first-black-female-commander",
+        "seendate": "2026-10-02T03:18:45.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Top 5 : The October 2026 California Hot List",
-        "summary": "The Top 5 five things to see and do in the Golden State this October. Make the most of your month with these unmissable sights and activities!",
-        "source": "magazinec.com",
-        "url": "https://magazinec.com/top5/top-5-the-october-2026-california-hot-list/",
-        "seendate": "20261002T011500Z",
-        "domain": "magazinec.com"
+        "title": "‘Hugely exciting’ finds on tiny Scottish island shed light on spread of Christianity",
+        "summary": "Community-funded archaeological excavations of ‘really important’ sixth-century monastery also rewrite story of LismoreTo the residents of the Scottish island of Lismore, population 190, history is never very far away. The tiny island near Oban in Argyll has no row of shops or even a pub – if islanders want to meet for a coffee, the only place to do so is in the lively <a href=\"https://www.lismoregaelicheri",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/oct/01/lismore-archaeological-finds-scottish-island-monastery-spread-of-christianity",
+        "seendate": "2026-09-30T23:00:21.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "  Theyre not all monster : Child sexual abuse prevention experts visit Detroit , discuss early intervention",
-        "summary": "Child sexual abuse can be prevented, according to experts, but say more education, resources and early intervention are needed to stop harm before it happens.",
-        "source": "clickondetroit.com",
-        "url": "https://www.clickondetroit.com/news/local/2026/10/01/theyre-not-all-monsters-child-sexual-abuse-prevention-experts-visit-detroit-discuss-early-intervention/",
-        "seendate": "20261002T011500Z",
-        "domain": "clickondetroit.com"
+        "title": "The incredible science of memory manipulation – podcast",
+        "summary": "Madeleine Finlay hears from Steve Ramirez, an associate professor of psychological and brain sciences at Boston University, whose book How to Change a Memory was shortlisted for this year’s Royal Society Trivedi science book prize. He explains how scientists have been able to locate memories in the brains of rodents, trigger them artificially and even remove them, and reveals what the practical applications of thi",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/audio/2026/oct/01/science-of-memory-manipulation-podcast",
+        "seendate": "2026-10-01T04:00:28.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Nigeria : Unions Call 3 - Day Warning Strike From 2 October",
-        "summary": "Nigeria’s public sector unions have called a three-day warning strike from Friday, 2 October, over petrol prices, a wage award and a new minimum wage.",
-        "source": "riotimesonline.com",
-        "url": "https://www.riotimesonline.com/nigeria-warning-strike-october-2-petrol-minimum-wage-2026/",
-        "seendate": "20261002T011500Z",
-        "domain": "riotimesonline.com"
+        "title": "All of a flutter: how butterflies avoid being a predator’s lunch",
+        "summary": "Their whirring wings and bright patterns help keep them safe from birds, British study findsNaturalists have long wondered how brightly coloured butterflies manage to evade the attention of birds that make a meal of other insects.New research from British ecologists suggests it is not simply a matter of good luck but instead a visual illusion created by their fluttering wings. <a href=\"https://ww",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/sep/30/how-butterflies-avoid-being-eaten-by-predators-wildlife-insects",
+        "seendate": "2026-09-30T15:00:43.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Fire Safety Training for Higher Education -- Occupational Health & Safety",
-        "summary": "This paper explores the importance of comprehensive fire safety training on college campuses, where residence halls, classrooms and other shared spaces can present significant fire risks. It covers fire extinguisher training, fire science fundamentals, regulatory requirements and modern hands-on and digital training tools designed to help students, faculty and staff respond effectively and improve campus safety.",
-        "source": "ohsonline.com",
-        "url": "https://ohsonline.com/whitepapers/2026/10/lion-fire-safety-training-higher-education.aspx",
-        "seendate": "20261002T011500Z",
-        "domain": "ohsonline.com"
+        "title": "I went to America’s largest gathering of astrologers. It was a battle over how to read the stars",
+        "summary": "Now a $15bn industry, astrology is more mainstream in the US than ever. But its practitioners are still debating: who gets to have authority on the celestial bodies?“The dwarf planets change everything,” said the woman with the smart haircut as she made a mind blown gesture with her fingertips, temples to air.I am at the United Astrology Conference, the largest professional gathering of astr",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/ng-interactive/2026/oct/01/united-astrology-conference",
+        "seendate": "2026-10-01T11:00:49.000Z",
+        "domain": "theguardian.com"
       }
     ]
   }
