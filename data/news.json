@@ -1,8 +1,16 @@
 {
-  "generatedAt": "2026-10-03T01:31:20.768Z",
+  "generatedAt": "2026-10-04T02:12:22.869Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
+      {
+        "title": "Libyan unity talks upended as warlord’s son linked to drone attacks on fuel facilities",
+        "summary": "Western Libya’s GNU say working with Saddam Haftar ‘impossible’ as US-backed merger plan breaks downAllegations that the son of the Libyan warlord Khalifa Haftar oversaw a “terror cell” that launched drone attacks on fuel storage facilities and power stations in western Libya have upended plans for the Tripoli-based government of national unity (GNU) to continue cooperating with Haftar on a plan to unify th",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/oct/03/libyan-unity-talks-warlord-son-linked-drone-attack-khalifa-haftar",
+        "seendate": "2026-10-03T09:00:56.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Row erupts over Cairo mural depicting Tutankhamun and Nefertiti with dark skin",
         "summary": "Artwork created in Tahrir Square for Chinese president’s state visit to Egypt is painted over amid allegations it revived Afrocentric claims about pharaohs’ originsOn the eve of the Chinese president Xi Jinping’s state visit to Cairo last month, the city authorities were busy removing a 66-metre-long mural from the esteemed guest’s line of sight.Depicting the Pharaoh Tutankhamun and",
@@ -33,19 +41,19 @@
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/us-news/2026/sep/30/burundi-third-country-deportations-trump-immigration",
         "seendate": "2026-09-30T12:47:15.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "DRC politician beaten to death after radio appearance about Ebola outbreak",
-        "summary": "Marie-Celestin Karondwa was attacked on Sunday after promoting measures to prevent spread of disease, his party saysA senior member of the Democratic Republic of the Congo’s ruling party was beaten to death on Sunday after appearing on a radio programme to raise awareness about the Ebola outbreak, a party representative has said.Marie-Celestin Karondwa, the acting president of the Union for De",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/sep/28/drc-politician-beaten-death-radio-appearance-ebola",
-        "seendate": "2026-09-28T15:54:25.000Z",
         "domain": "theguardian.com"
       }
     ],
     "conflict": [
       {
+        "title": "Libyan unity talks upended as warlord’s son linked to drone attacks on fuel facilities",
+        "summary": "Western Libya’s GNU say working with Saddam Haftar ‘impossible’ as US-backed merger plan breaks downAllegations that the son of the Libyan warlord Khalifa Haftar oversaw a “terror cell” that launched drone attacks on fuel storage facilities and power stations in western Libya have upended plans for the Tripoli-based government of national unity (GNU) to continue cooperating with Haftar on a plan to unify th",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/oct/03/libyan-unity-talks-warlord-son-linked-drone-attack-khalifa-haftar",
+        "seendate": "2026-10-03T09:00:56.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Row erupts over Cairo mural depicting Tutankhamun and Nefertiti with dark skin",
         "summary": "Artwork created in Tahrir Square for Chinese president’s state visit to Egypt is painted over amid allegations it revived Afrocentric claims about pharaohs’ originsOn the eve of the Chinese president Xi Jinping’s state visit to Cairo last month, the city authorities were busy removing a 66-metre-long mural from the esteemed guest’s line of sight.Depicting the Pharaoh Tutankhamun and",
         "source": "theguardian.com",
@@ -76,17 +84,17 @@
         "url": "https://www.theguardian.com/us-news/2026/sep/30/burundi-third-country-deportations-trump-immigration",
         "seendate": "2026-09-30T12:47:15.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "DRC politician beaten to death after radio appearance about Ebola outbreak",
-        "summary": "Marie-Celestin Karondwa was attacked on Sunday after promoting measures to prevent spread of disease, his party saysA senior member of the Democratic Republic of the Congo’s ruling party was beaten to death on Sunday after appearing on a radio programme to raise awareness about the Ebola outbreak, a party representative has said.Marie-Celestin Karondwa, the acting president of the Union for De",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/sep/28/drc-politician-beaten-death-radio-appearance-ebola",
-        "seendate": "2026-09-28T15:54:25.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "economy": [
+      {
+        "title": "The American dream remains elusive in the valley that inspired East of Eden",
+        "summary": "John Steinbeck’s hometown of Salinas is the least affordable city in the US for the middle class, a recent Brookings Institution analysis found Nestled between two mountain ranges at the crook of central California’s coastline sits a valley known as the “salad bowl of the world”.Farm workers stoop over neatly lined rows of crops off Highway 101 to harvest more than half of the nation’s supply of lett",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/oct/03/salinas-california-john-steinbeck",
+        "seendate": "2026-10-03T09:00:54.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "US added just 29,000 jobs in September in sharp drop from last month’s gains",
         "summary": "Final jobs report before the midterm elections also shows the US unemployment rate rose slightly to 4.2%US employers added just 29,000 jobs in September, a sharp drop from last month’s gains, and unemployment rose slightly to 4.2%, a sign of a cooling labor market in the final jobs report before the midterm election.The numbers were under half of economists’ expectations of <a href=\"https://www.wsj.c",
@@ -118,17 +126,17 @@
         "url": "https://www.theguardian.com/business/2026/sep/30/federal-reserve-watchdog-building-renovation",
         "seendate": "2026-09-30T17:49:27.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Good news in US inflation report boosts chances Fed won’t hike rates",
-        "summary": "Traders see about a 35% chance of an October rate hike, down from ​about 45% following White House pressureGood economic news boosted Wall Street’s main indexes on Wednesday, as a softer-than-anticipated inflation reading buoyed up hopes that the Federal Reserve might not hike rate",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/sep/30/inflation-report-interest-rates-fed",
-        "seendate": "2026-09-30T15:34:20.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "literature": [
+      {
+        "title": "‘I thought, if I’m going to die, I’m going to write a book first’: Pachinko author Min Jin Lee",
+        "summary": "Her last novel sold 5m copies and was adapted into a hit series. Nearly 10 years on, the Korean-American author has written another epic. She discusses ambition and the diagnosis that inspired her to leave work and writeBack in 1995, when she was in her mid-20s, Min Jin Lee quit her job as a corporate lawyer. As a teenager she had been diagnosed as a hepatitis B carrier and doctors told her she was highly l",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/oct/03/i-thought-if-im-going-to-die-im-going-to-write-a-book-first-pachinko-author-min-jin-lee",
+        "seendate": "2026-10-03T08:00:53.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Stories shortlisted for 4thWrite prize offer ‘a whole world in a few pages’",
         "summary": "The six stories on the shortlist for the 10th year of the writing award run by 4th Estate and the Guardian and open to unpublished writers of colour are ‘affecting in new and surprising ways’, said judge and author Gurnaik JohalThe shortlist for the 10th year of the 4thWrite prize – the short story competition for unpublished writers of colour run by the publisher 4th Estate in association with the Guardian",
@@ -160,17 +168,41 @@
         "url": "https://www.theguardian.com/books/2026/oct/01/the-mercy-step-by-marcia-hutchinson-audiobook-review-a-caribbean-childs-eye-view-of-60s-bradford",
         "seendate": "2026-10-01T14:00:52.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "What we’re reading: China Miéville, Sebastian Barry, Derek Owusu and Guardian readers on the books they enjoyed in September",
-        "summary": "Writers and Guardian readers discuss the titles they have read over the last month. Join the conversation in the commentsI was sideswiped by Giada Scodellaro’s Ruins, Child. A brilliant, strange book that challenged me in the most exhilarating way, with its fractured language and dream-cinema visions, the sense it bestowed of walking through a corridor full of echoes. Echoes of a less ellip",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/oct/01/what-were-reading-sebastian-barry-china-mieville-readers-and-derek-owusu-on-the-books-they-enjoyed-in-september",
-        "seendate": "2026-10-01T11:48:27.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "entertainment": [
+      {
+        "title": "‘Brave from the beginning’: 20 years of Friday Night Lights – the sports drama that dared to be different",
+        "summary": "It launched the careers of Jesse Plemons and Michael B Jordan, and let its stars improvise in a way that was fresh and new. This show about smalltown US football was confident, trailblazing – and wonderfulI’ve been around the south of the US enough to have seen the importance of football: little burgs where the high-school football field has stands that wouldn’t disgrace a League Two soccer club in the UK.",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/oct/03/friday-night-lights-us-sports-drama-20-years",
+        "seendate": "2026-10-03T11:00:56.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "‘An extraordinary hour’: the explosive play re-staging the biggest TV clash of the Aids era",
+        "summary": "A New York production brings Larry Kramer and Anthony Fauci’s 1993 debate to life in a masterclass of controlled furyOn 30 November 1993, the Aids activist Larry Kramer and Anthony Fauci, director of the National Institute of Allergy and Infecti",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/stage/2026/oct/03/kramer-fauci-aids-play-brookyn-new-york",
+        "seendate": "2026-10-03T09:00:55.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "‘I thought, if I’m going to die, I’m going to write a book first’: Pachinko author Min Jin Lee",
+        "summary": "Her last novel sold 5m copies and was adapted into a hit series. Nearly 10 years on, the Korean-American author has written another epic. She discusses ambition and the diagnosis that inspired her to leave work and writeBack in 1995, when she was in her mid-20s, Min Jin Lee quit her job as a corporate lawyer. As a teenager she had been diagnosed as a hepatitis B carrier and doctors told her she was highly l",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/oct/03/i-thought-if-im-going-to-die-im-going-to-write-a-book-first-pachinko-author-min-jin-lee",
+        "seendate": "2026-10-03T08:00:53.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Behemoth! review - Pedro Pascal classical music drama hits all the wrong notes",
+        "summary": "New York film festival: The actor stumbles through Tony Gilroy’s forgettable film marred by stylistic gimmicksTony Gilroy has built a sturdy career as the director of the Bourne films and show runner of the popular Star Wars spin-off <a href=\"https://www.theguardian.com/tv-",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/film/2026/oct/02/behemoth-pedro-pascal-movie-review",
+        "seendate": "2026-10-03T00:00:43.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Cameron Winter at Carnegie Hall review – Paul Thomas Anderson’s sumptuous recording is an immediate classic",
         "summary": "New York Film Festival: The Geese frontman mesmerizes in a concert film that is both swoony and austereOne night last December, weary from a busy week and the impending doom of winter, I hurried into Carnegie Hall to witness Cameron Winter. The Geese frontman was marking the end of a <a href=\"https://www.theguardian.com/music/2025/may/06",
@@ -178,121 +210,89 @@
         "url": "https://www.theguardian.com/film/2026/oct/02/cameron-winter-carnegie-hall-review-paul-thomas-anderson",
         "seendate": "2026-10-02T20:13:24.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Olivia Dean accused of plagiarism on her I’ve Seen It track",
-        "summary": "Mattie Music Group, owners of Bill Withers’ back catalogue, contend the Grammy winner infringed on Just the Two of UsOlivia Dean has been accused of plagiarizing the Bill Withers classic Just the Two of Us.The owners of Withers’ back catalogue aimed that allegation at his fellow Gr",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/music/2026/oct/02/olivia-dean-ive-seen-it-plagiarism",
-        "seendate": "2026-10-02T17:25:35.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Seth Meyers on Trump: ‘Is there anything this grub won’t make us pay for?’",
-        "summary": "Late-night hosts talked Trump’s use of taxpayer money to fund campaign ads as GOP candidates distance themselvesLate-night hosts dug into Donald Trump’s unpopularity with GOP midterm candidates and his insistence on having US taxpayers foot the bill for recycled campaign ads. <a href=\"https://www.theguardian.com/culture/2026/oct/02/seth-meyer",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/culture/2026/oct/02/seth-meyers-trump-taxpayer-funded-ads",
-        "seendate": "2026-10-02T14:40:06.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "How Bassam Tariq pivoted from stalled Blade reboot to new Mahershala Ali thriller: ‘I’m happier I made this movie’",
-        "summary": "In the film-maker’s Houston-set film, Ali stars as a devout Muslim who moonlights as a vicious hitmanMahershala Ali is swinging around a blade in Your Mother Your Mother Your Mother. That’s not a nod to Ali’s previous <a href=\"https://www.theguar",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/oct/02/bassam-tariq-your-mother-your-mother-your-mother-interview-mahershala-ali-marvel-blade",
-        "seendate": "2026-10-02T11:00:18.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "‘It’s rational to fear the music industry’: Grouper’s Liz Harris on virality, streaming scammers and her ‘restorative’ dream-pop trio",
-        "summary": "When a rarity blew up on TikTok, the solitary ambient artist had fraudsters trying to steal her royalties. It reinforced her DIY mentality – until reforming her band Helen reminded her of the beauty of collaborationIn mid-September, I watched as Liz Harris soundchecked to 1,500 empty seats at midtown Manhattan’s historic Town Hall theatre. Soon each plush red chair would be filled for the second of two sold",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/music/2026/oct/02/grouper-liz-harris-tour-helen-band-lindas-head-interview",
-        "seendate": "2026-10-02T10:00:17.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "f1": [
       {
-        "title": "Lewis Hamilton's custom Monza outfit revealed after iconic Ferrari F40 photoshoot",
-        "summary": "Details about the outfit Lewis Hamilton wore during his iconic arrival at the Italian Grand Prix in September have been revealed.The seven-time champion immediately turned heads at the Monza circuit as he rolled up in his restored Ferrari F40 and stepped out in a black suit with a tan overcoat. He later posed in a custom-made Khaite look.While Khaite does not produce a dedicated menswear ...<a class=",
+        "title": "Why Malaysia would be the best place for F1’s first wet-weather race in 2026",
+        "summary": "While Formula 1 has already reached the 16th round of the 2026 season, fans have still not been treated to a wet-weather race under the new regulations – or even a wet session. Rain has threatened on several occasions, but the on-track action has consistently remained unaffected.Following initial concerns about safety in wet conditions, the FIA has made several changes to this year’s ...<a class='more' h",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/lewis-hamiltons-custom-monza-outfit-revealed-after-iconic-ferrari-f40-photoshoot/10861185/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-02T21:45:11.000Z",
+        "url": "https://www.motorsport.com/f1/news/why-malaysia-would-be-the-best-place-for-f1s-first-wet-weather-race-in-2026/10861394/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-03T15:45:03.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Lewis Hamilton goes viral with Fernando Alonso verdict as fans hail \"legend\"",
-        "summary": "Seven-time Formula 1 champion Lewis Hamilton has drawn widespread praise across social media for his comments about Fernando Alonso's contract extension with Aston Martin.Ahead of the Bahrain Grand Prix, held in Malaysia, the Spaniard signed a contract extension with the Silverstone outfit that will keep him with the team until at least the end of 2027.Naturally, the two-time champion's ...<a class='",
+        "title": "Max Verstappen reveals Valentino Rossi wish ahead of Portimao GT3 season finale",
+        "summary": "Four-time Formula 1 champion Max Verstappen says he hopes to avoid an on-track battle with Valentino Rossi when the pair share the GT3 starting grid for the first time at Portimao.Heading into the F1 race weekend at the Sepang International Circuit, Verstappen confirmed that he would be competing in the season finale of the GT World Challenge Europe Cup at Portimao in Portugal. Sandwiched ...<a class='mo",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/lewis-hamilton-goes-viral-with-fernando-alonso-verdict-as-fans-hail-legend/10861182/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-02T21:06:06.000Z",
+        "url": "https://www.motorsport.com/f1/news/max-verstappen-reveals-valentino-rossi-wish-ahead-of-portimao-gt3-season-finale/10861597/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-03T14:40:22.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "George Russell left \"lost for words\" by Malaysian F1 fans’ special gift",
-        "summary": "Formula 1 is back at Sepang International Circuit for the first time in nine years, and the homecoming came with a gift for Mercedes driver George Russell. A video posted to the team's social media channels this week shows Russell holding a scrapbook so thick it looks like it belongs in a library. The group behind it calls itself 'Team GR63, Malaysia', and judging by his reaction, they did a good ...<a class",
+        "title": "Max Verstappen responds to George Russell: \"Maybe I should take him to the sauna!\"",
+        "summary": "The debate over cooling vests has been revived during the Formula 1 weekend in Malaysia. Two years ago, there were discussions behind the scenes about making the cooling vest mandatory, something the FIA was open to, but after strong opposition from several drivers, that idea was ultimately abandoned.Verstappen was already one of the drivers strongly opposed to it at the time. The Dutchman ...<a class='m",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/george-russell-left-lost-for-words-by-malaysian-f1-fans-special-gift/10861153/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-02T18:44:30.000Z",
+        "url": "https://www.motorsport.com/f1/news/max-verstappen-responds-to-george-russell-maybe-i-should-take-him-to-the-sauna/10861581/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-03T13:48:29.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "F1 Bahrain GP in Malaysia: Saturday schedule, weather forecast and how to watch",
-        "summary": "Formula 1 heads into Saturday at Sepang with Charles Leclerc fastest after second practice for the Bahrain GP in Malaysia.The Ferrari driver edged Isack Hadjar by just 0.099s in FP2, with Lando Norris third for McLaren. Max Verstappen was fourth after setting his quickest time on the medium tyre, while Lewis Hamilton completed the top five.Mercedes had a more difficult session after ...<a class='more",
+        "title": "What's actually going on with George Russell's FIA cooling vest complaints",
+        "summary": "Mercedes Formula 1 driver George Russell caused a stir in some quarters by appearing to suggest the FIA should protect teams against themselves by ensuring cooling vests are commonly used in hot races.Driver comfort in hot climates has been a topic since the 2023 Qatar Grand Prix, when several drivers experienced heat exhaustion symptoms during the Doha race, which was held October before ...<a class='mo",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/f1-bahrain-gp-in-malaysia-saturday-schedule-weather-forecast-and-how-to-watch/10861161/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-02T17:13:43.000Z",
+        "url": "https://www.motorsport.com/f1/news/whats-actually-going-on-with-george-russells-fia-cooling-vest-complaints/10861562/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-03T13:03:01.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Max Verstappen’s unusual run plan and F1 teams’ biggest challenge in Malaysia explained",
-        "summary": "Friday practice for the Formula 1 Bahrain Grand Prix in Malaysia was atypical in several respects. Lap times turned out to be four and a half seconds slower than expected due to the poor track surface, Mercedes did not impress as much as perhaps expected and the run plans were rather unusual.The latter was perhaps most evident with Max Verstappen. Normally, drivers complete their qualifying ...<a class='",
+        "title": "Kimi Antonelli’s priceless reaction after learning he will start Bahrain GP P3",
+        "summary": "Qualifying wasn't easy for Kimi Antonelli as he struggled to extract the level of performance he's got used to from his Mercedes machinery. Finishing five-tenths off polesitter Max Verstappen, he stood in front of microphones thinking he was indeed fourth on the grid. But, thanks to a grid-place penalty for Isack Hadjar ahead of him, he was promoted to third. This resulted in a brilliant reaction ...<a class",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/max-verstappens-unusual-run-plan-and-f1-teams-biggest-challenge-in-malaysia-explained/10861101/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-02T13:42:25.000Z",
+        "url": "https://www.motorsport.com/f1/news/kimi-antonellis-priceless-reaction-after-learning-he-will-start-bahrain-gp-p3/10861564/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-03T12:58:37.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "GTA 6 marketing stunt reveals none of our UK editors have heard of the Miami Heat",
-        "summary": "I don't even know ball but I feel like I'm losing my mind.",
+        "title": "One of the most popular Total War: Warhammer 3 mods was 'deliberately corrupted' by its creator to sabotage AI-made copies",
+        "summary": "SFO Grimhammer 3 has since been restored to its original version, but the point's been made.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-marketing-stunt-reveals-none-of-our-uk-editors-have-heard-of-the-miami-heat/",
-        "seendate": "2026-10-02T22:49:09.000Z",
+        "url": "https://www.pcgamer.com/games/strategy/one-of-the-most-popular-total-war-warhammer-3-mods-was-deliberately-corrupted-by-its-creator-to-sabotage-ai-made-copies/",
+        "seendate": "2026-10-04T01:16:02.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Let's catch you up on all the latest news from Steam's 20 most-wishlisted games",
-        "summary": "Get up to speed on Steam's most anticipated games.",
+        "title": "Crimson Desert DLC delayed by 2 weeks, please join me in wishing the devs a fond 'take your time, please drink some water'",
+        "summary": "Even a man forged from steel falters sometimes.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/lets-catch-you-up-on-all-the-latest-news-from-steams-20-most-wishlisted-games/",
-        "seendate": "2026-10-02T22:34:28.000Z",
+        "url": "https://www.pcgamer.com/games/rpg/crimson-desert-dlc-delayed-by-2-weeks-please-join-me-in-wishing-the-devs-a-fond-take-your-time-please-drink-some-water/",
+        "seendate": "2026-10-03T23:19:41.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "After 30 years they finally let Ace Combat's director fly in a real jet, and I'm taking credit",
-        "summary": "This is what a man looks like after fulfilling a lifelong dream.",
+        "title": "Valorant player claims to have inherited hardware ban through secondhand CPU, Riot anticheat boss disputes parts of story",
+        "summary": "Unlikely, but not impossible?",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/sim/after-30-years-they-finally-let-ace-combats-director-fly-in-a-real-jet-and-im-taking-credit/",
-        "seendate": "2026-10-02T19:44:33.000Z",
+        "url": "https://www.pcgamer.com/games/fps/valorant-player-claims-to-have-inherited-hardware-ban-through-secondhand-cpu-riot-anticheat-boss-disputes-parts-of-story/",
+        "seendate": "2026-10-03T22:41:35.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Destiny 2 might be back, but the Bungie Store is going away",
-        "summary": "Bungie is 'building a new home for our merchandise that's more aligned with our current goals and vision,' and for some reason that means the old home has to go away.",
+        "title": "The Witcher 3's remaster just brought it to a new all-time concurrent player count peak",
+        "summary": "Toss a coin—oh, it's a free upgrade.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/fps/destiny-2-might-be-back-but-the-bungie-store-is-going-away/",
-        "seendate": "2026-10-02T18:30:45.000Z",
+        "url": "https://www.pcgamer.com/games/the-witcher/the-witcher-3s-remaster-just-brought-it-to-a-new-all-time-concurrent-player-count-peak/",
+        "seendate": "2026-10-03T16:40:35.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Dear former NFL head coach Mike Tomlin: Your 12-year Minecraft city is beautiful",
-        "summary": "It may or may not have contributed to the Steelers' years of postseason woes—but at least it's walkable.",
+        "title": "Deadlock is the king of MOBA character designs, and it's all thanks to Valve's embrace of New Yorkyness",
+        "summary": "I want to be a part of it…",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/survival-crafting/dear-former-nfl-head-coach-mike-tomlin-your-12-year-minecraft-city-is-beautiful/",
-        "seendate": "2026-10-02T18:11:22.000Z",
+        "url": "https://www.pcgamer.com/games/moba/deadlock-is-the-king-of-moba-character-designs-and-its-all-thanks-to-valves-embrace-of-new-yorkyness/",
+        "seendate": "2026-10-03T16:06:23.000Z",
         "domain": "pcgamer.com"
       }
     ],
