@@ -1,5 +1,5 @@
 window.NEWS_CACHE = {
-  "generatedAt": "2026-10-07T01:52:58.176Z",
+  "generatedAt": "2026-10-08T02:20:56.761Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
@@ -88,6 +88,22 @@ window.NEWS_CACHE = {
     ],
     "economy": [
       {
+        "title": "Skepticism mires Trump’s Iowa steel plant project: ‘Promises are not the same as jobs’",
+        "summary": "The project has sparked doubts over whether the plant will be built and delivered as promised, given Trump’s recordDonald Trump has long sought to portray himself as a man of steel, from the White House photoshopping Trump to look like Superman, to enacting tariffs on steel and app",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/business/2026/oct/07/trump-steel-plant-iowa-skepticism",
+        "seendate": "2026-10-07T10:00:40.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "McDonald’s sued for allegedly using AI tool to determine pricing for franchises",
+        "summary": "Suit says AI tool allows independently owned franchises to exchange nonpublic price and sales informationMcDonald’s is facing a lawsuit in federal court over its alleged use of an AI tool to determine pricing across independent franchises, which prosecutors say violates antitrust laws and has unfairly inflated menu prices for Amer",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/business/2026/oct/07/mcdonalds-ai-prices-lawsuit",
+        "seendate": "2026-10-07T11:00:08.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Disney accuses Trump officials of ‘blatant violations’ of constitution amid FCC battle",
         "summary": "Lawyers tell judge ABC being unfairly targeted as US regulator seeks review of network’s local TV station licensesLawyers for Disney accused the Trump administration of “blatant violations of the US constitution” and censorship on Tuesday in the first court hearing over the Federal Communications Commission’s early review of the media giant’s eight local television station licenses.District judge Lor",
         "source": "theguardian.com",
@@ -110,25 +126,33 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/technology/2026/oct/06/ai-misuse-brand-reputation",
         "seendate": "2026-10-06T11:00:35.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Paramount completes $111bn acquisition of Warner Bros to form new media empire Skydance",
-        "summary": "David Ellison and ex-Mattel CEO Ynon Kreiz to oversee both film studios, HBO Max, CNN and CBS News as co-executivesParamount completed its $111bn acquisition of Warner Bros Discovery on Tuesday, consolidating some of the world’s most recognizable studios and news outlets after a b",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/oct/06/paramount-warner-bros-skydance-merger",
-        "seendate": "2026-10-06T14:14:56.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "US supreme court hears big oil’s bid to block climate damage lawsuits",
-        "summary": "How the court will lean is unclear amid Suncor Energy and ExxonMobil’s attempt to stop lawsuits at state levelThe US supreme court began its new nine-month term hearing arguments on Monday in a major case in which big oil companies attempted to",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/oct/05/supreme-court-big-oil-climate-damage-lawsuits",
-        "seendate": "2026-10-05T19:57:36.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "literature": [
+      {
+        "title": "Blockers by Michael Lewis review – the quiet heroes who tried to stop Doge",
+        "summary": "The author of Moneyball brings his exceptional narrative skills to bear on Musk’s anti-government crusadeDonald Trump’s catastrophic errors get so much attention that his systemic ones can easily be missed. While the world looks on in dismay at his farcical war in Iran, the thuggery of Ice agents or clownish attacks on erstwhile allies like Canada and Denmark, the core functions of the American government a",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/oct/07/blockers-by-michael-lewis-review-the-quiet-heroes-who-tried-to-stop-doge",
+        "seendate": "2026-10-07T06:00:35.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Anne Carson and Can Xue favourites to win Nobel prize in literature",
+        "summary": "The Canadian poet and Chinese experimental writer are the bookmakers’ favourites to win, with Haruki Murakami, Gerald Murnane and Margaret Atwood also in the mixCanadian poet Anne Carson and Chinese experimental writer Can Xue are the bookies’ favourites to win this year’s Nobel prize in literature, set to be announced Thursday.The frontrunners both have 10/1 odds of taking home the world’s most pres",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/oct/07/anne-carson-and-can-xue-favourites-to-win-nobel-prize-in-literature",
+        "seendate": "2026-10-07T13:29:06.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Other Worlds Than These by Stephen King and Peter Straub review – a self-indulgent finale to the Talisman trilogy",
+        "summary": "There are moments of shivering joy as the protagonist of two enduring classics, Jack Sawyer, returns – but this time his journey feels endlessly repetitiveBear with me, because there is some backstory to get through before we can talk about the book I am actually here to review. Back in 1984, Stephen King and Peter Straub collaborated on the fantasy novel The Talisman. Like all the best King stories, it fol",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/oct/07/other-worlds-than-these-by-stephen-king-and-peter-straub-review-a-self-indulgent-finale-to-the-talisman-trilogy",
+        "seendate": "2026-10-07T08:00:38.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Partita By Barbara Kingsolver review – a midlife follow-up to Demon Copperhead",
         "summary": "The sex writing threatens to throw the novel off-kilter, but there are rich rewards in this tale of music and middle-aged compromisesWhat is the role of art in an artist’s life? Should you commit everything to honing your talent in the hope of becoming a great master? Or should you use your artistic gift to enrich your life and that of your community? In Partita, acclaimed American novelist Barbara Kingsolv",
@@ -144,160 +168,152 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/music/2026/oct/06/holding-lightning-by-emily-lordi-review-an-intimate-portrait-of-whitney-houston",
         "seendate": "2026-10-06T08:00:06.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "A former poet laureate and a Pulitzer winner lead TS Eliot prize shortlist",
-        "summary": "10 poets are in the running for the prestigious £25,000 prize, with collections that ‘remind us why it’s to poetry we turn to reorient ourselves’The former poet laureate Andrew Motion and Pulitzer prize winner Jorie Graham are among the 10 poets shortlisted for this year’s £25,000 TS Eliot prize, the UK and Ireland’s most prestigious award for a single volume of poetry.Motion has been selected for Gr",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/oct/05/a-former-poet-laureate-and-a-pulitzer-winner-lead-ts-eliot-prize-shortlist",
-        "seendate": "2026-10-05T16:15:34.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Children’s books with Black main characters down 8% in a year, study shows",
-        "summary": "Only 150 of 2,189 titles published in UK for young children last year focused on minority ethnic, disabled or neurodivergent charactersThe number of children’s books featuring Black main characters fell by almost 8% last year, according to research into diversity in UK publishing.Just 47 – or 2.1% – of the 2,189 books published for under-10s in 2025 featured a Black main character, a 7.8% fall from t",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/oct/05/childrens-books-with-black-main-characters-down-study-uk",
-        "seendate": "2026-10-04T23:01:40.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Sleeping Beauties by David Byrne review – a quirky journey through the afterlife of invention",
-        "summary": "The Talking Heads frontman considers dormant ideas that made a comeback – from Indian irrigation to KafkaThere’s barely been a moment in&nbsp; the last half-century when David Byrne hasn’t been zinging about, dancing forward, opting odd. The art-school dropout frontman of Talking Heads, he moved sideways into ballet, dance and experimental theatre, collaborated on the proto-ambient LP My Life in the Bush of",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/music/2026/oct/05/sleeping-beauties-by-david-byrne-review-a-quirky-journey-through-the-afterlife-of-invention",
-        "seendate": "2026-10-05T06:00:48.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "entertainment": [
       {
-        "title": "Who Is Hoon Lee ? Meet the Powerhouse Supporting Actor in Florence Pugh  East of Eden  ",
-        "summary": "Hoon Lee is earning widespread praise for his performance as Lee in Netflix&#039;s &#039;East of Eden&#039;, following a career spanning Broadway, television and supporting film roles.",
-        "source": "ibtimes.co.uk",
-        "url": "https://www.ibtimes.co.uk/hoon-lee-east-eden-netflix-star-1823867",
-        "seendate": "20261006T083000Z",
-        "domain": "ibtimes.co.uk"
+        "title": "Jimmy Kimmel on Trump’s joke about Iran bombing LA: ‘Our own president wishing death to America’",
+        "summary": "Late-night hosts discuss Trump’s rally line that Iran should bomb LA or San Diego as he continues to defend costly warLate-night hosts reacted to Donald Trump’s inflammatory comments about Iran bombing US cities as he continues to defend his war in the region. <a href=\"https://www.theguardian.com/culture/2026/oct/07/jimmy-kimmel-trump-joke-ir",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/culture/2026/oct/07/jimmy-kimmel-trump-joke-iran-la-bombing",
+        "seendate": "2026-10-07T14:43:56.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Trailer of Sonakshi Sinha , Zaheer Iqbal film  Tu Hai Meri Kiran  unveiled",
-        "summary": "",
-        "source": "aninews.in",
-        "url": "https://aninews.in/news/entertainment/bollywood/trailer-of-sonakshi-sinha-zaheer-iqbals-film-tu-hai-meri-kiran-unveiled16020261006131419/",
-        "seendate": "20261006T083000Z",
-        "domain": "aninews.in"
+        "title": "Cruel torment, depraved violence, evil turns: where did TV’s real baddies go?",
+        "summary": "From Carrie’s bullies to Cathy Ames, sympathetic backstories have made villains boring. It’s time to bring back truly awful villains – in all their deliciously sinful gloryThe new Netflix adaptation of East of Eden largely sticks to the plot of the John Steinbeck novel. There are tweaks",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/oct/07/cruel-torment-depraved-violence-evil-turns-where-did-tvs-real-baddies-go",
+        "seendate": "2026-10-07T14:11:15.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Jim Bakker , who built  PTL Club  televangelism empire , has died at 86",
-        "summary": "Jim Bakker, along with his first wife Tammy Faye built an evangelical empire around the hugely successful \"The PTL Club\" TV show, only to lose it all over a sex scandal and financial crimes.",
-        "source": "wkms.org",
-        "url": "https://www.wkms.org/npr-news/2026-10-06/jim-bakker-who-built-ptl-club-televangelism-empire-has-died-at-86",
-        "seendate": "20261006T083000Z",
-        "domain": "wkms.org"
+        "title": "Will the Zuckerberg, Musk and Altman movies make a dent on tech giant evangelism?",
+        "summary": "The triple release of The Social Reckoning, Musk and Artificial is less a clear political stance, more like movie studio opportunismHollywood is sending a clear message: it’s a friend of tech. Netflix is no longer a lone disruptor: historic studio MGM is now the property of Amazon’s Jeff Bezos; David Ellison’s takeover of Paramount and subsequent Warner Bros merger was supported by his tech giant father; an",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/film/2026/oct/07/the-social-reckoning-musk-and-artificial-zuckerberg-musk-and-altman-movies-tech",
+        "seendate": "2026-10-07T13:43:43.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Sunny Leone - Rahul Dev Chudail lands in rights ROW ; Ganesh Jain issues public notice claiming exclusive digital , TV and allied rights : Bollywood News",
-        "summary": "A public notice concerning the Sunny Leone and Rahul Dev-starrer Chudail, earlier titled Koka Kola, has surfaced in the film trade, raising questions over",
-        "source": "bollywoodhungama.com",
-        "url": "https://www.bollywoodhungama.com/news/bollywood/sunny-leone-rahul-devs-chudail-lands-in-rights-row-ganesh-jain-issues-public-notice-claiming-exclusive-digital-tv-and-allied-rights/",
-        "seendate": "20261006T083000Z",
-        "domain": "bollywoodhungama.com"
+        "title": "The Social Reckoning review – Aaron Sorkin’s jittery sequel with all-new evil puppet Zuckerberg",
+        "summary": "Jeremy Strong’s slow-talking Facebook founder turns into a cameo, background to a thriller about a whistleblower that somehow never mentions TrumpHere is a film for all those people who solemnly deplore social media in conversation but haven’t quite got round to deleting their accounts. Sixteen years have gone by since The Soci",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/film/2026/oct/07/the-social-reckoning-review-aaron-sorkin-jeremy-strong-mikey-madison",
+        "seendate": "2026-10-07T13:00:04.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "  Once Saw Giant Rat …: Mumbaikars Divided Over Andheri Iconic Suraj Lama Momos Licence Suspension , Bollywood Connection Resurfaces",
-        "summary": "The Maharashtra FDA has suspended food licences of Suraj Lama Momos outlets at 7 Bungalows and Country Club in Andheri West following hygiene and compliance inspections. The Mumbai momo chain, founded by former Bollywood celebrity chauffeur Suraj Lama, has drawn mixed reactions online, with customers alleging poor hygiene and food poisoning while others defended their experiences.",
-        "source": "freepressjournal.in",
-        "url": "https://www.freepressjournal.in/lifestyle/once-saw-giant-rat-mumbaikars-divided-over-andheris-iconic-suraj-lama-momos-licence-suspension-bollywood-connection-resurfaces",
-        "seendate": "20261006T083000Z",
-        "domain": "freepressjournal.in"
+        "title": "‘Curious and circumspect creatures’: the artist making sculptures for the rats of New York City",
+        "summary": "For his latest project, Asad Raza made ‘public art’ for rats with pieces designed to appeal to the city’s maligned rodents“We call this the Hell Door,” artist Asad Raza explained animatedly. It’s 10pm on a warm August evening, and we are standing outside a small enclosure at the back of a seafood restaurant under the Manhattan Bridge that to any other passersby would have been invisible. “Are you ready?” he",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/artanddesign/2026/oct/07/nyc-rat-art-sculptures",
+        "seendate": "2026-10-07T10:00:40.000Z",
+        "domain": "theguardian.com"
       }
     ],
     "f1": [
       {
-        "title": "Naomi Schiff raises Mercedes concern that 'could cost Kimi Antonelli more victories'",
-        "summary": "Sky Sports Formula 1 pundit and former W Series driver Naomi Schiff has warned that ongoing power unit issues at Mercedes could cost Kimi Antonelli race wins and threaten his championship campaign.The Italian driver currently leads the drivers' standings on 320 points, with his Mercedes team-mate George Russell sitting second on 236 points.Speaking on the Sky Sports F1 Show following the ...<a class=",
+        "title": "Apple TV announces major F1 broadcast upgrade for United States Grand Prix",
+        "summary": "Formula 1 is about to become a little bit louder in the best way. Dolby Laboratories and Apple have announced that, from the United States Grand Prix race weekend that stars on the 23 October, Apple TV subscribers will have access to Dolby Atmos as well as Dolby Vision in their F1 coverage.Both audio formats will be available to viewers who have compatible Apple devices as well as ...<a class='more' href",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/naomi-schiff-raises-mercedes-concern-that-could-cost-kimi-antonelli-more-victories/10862602/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-06T23:24:59.000Z",
+        "url": "https://www.motorsport.com/f1/news/apple-tv-announces-major-f1-broadcast-upgrade-for-united-states-grand-prix/10862810/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-07T23:38:45.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "2026 Singapore Grand Prix: Guide to schedule, driver meet-ups, and race week parties",
-        "summary": "Singapore in October means the floodlights are being illuminated at Marina Bay for Formula 1, and this year the city is pushing hard to give fans everything they need to have an unforgettable experience. While the race weekend begins on Friday, 9 October, the festivities begin much sooner.Drivers will meet fans in malls, hotels and bars around the areas of Orchard Road, Clarke Quay, and ...<a class='more",
+        "title": "McLaren CEO drops major update on Gianpiero Lambiase's Red Bull exit",
+        "summary": "If McLaren Racing CEO Zak Brown is to be believed, Red Bull's Gianpiero Lambiase may be leaving the papaya team for Milton Keynes as soon as 2027. The American told Sky Sports that he is feeling optimistic that Max Verstappen's current race engineer will be moving to Woking much sooner than expected.“I’m optimistic we’ll see him in papaya at some point next year,\" he told the ...<a class='more' href='htt",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/2026-singapore-grand-prix-guide-to-schedule-driver-meet-ups-and-race-week-parties/10862599/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-06T23:02:17.000Z",
+        "url": "https://www.motorsport.com/f1/news/mclaren-ceo-drops-major-update-on-gianpiero-lambiases-red-bull-exit/10862808/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-07T23:19:01.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "F1 fashion goes local as Ferrari, McLaren and Mercedes celebrate Singapore",
-        "summary": "Formula 1 merchandise has tended to evolve slowly as it keeps up with team colours, sponsors and other branding. But more recently, fashion has become a large part of the championship and has even mirrored the culture of the countries your favourite teams visit in some examples. This weekend, two of the championship's biggest apparel brands have produced clothing to celebrate what should be a ...<a class='mo",
+        "title": "Max Verstappen on life after Christian Horner: “It is less stressful”",
+        "summary": "Max Verstappen has admitted that he doesn't miss the friction that was created when Christian Horner was leading the Red Bull Formula 1 team. Speaking to the Press Association, the four-time champion admitted that the team is less stressful now his former boss has left the championship.Conflict sells. Arguments between and within teams create plots that shape the likes of Drive to Survive and ...<a class",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/f1-fashion-goes-local-as-ferrari-mclaren-and-mercedes-celebrate-singapore/10862577/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-06T17:08:00.000Z",
+        "url": "https://www.motorsport.com/f1/news/max-verstappen-on-life-after-christian-horner-its-less-stressful/10862804/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-07T22:47:58.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Fernando Alonso builds his dream F1 circuit but Sergio Perez spots one major problem",
-        "summary": "If you were given the power to stitch together the greatest corners of global motorsport to create the ultimate Formula 1 track, what would you choose?During a recent stage appearance alongside his fellow drivers, Aston Martin veteran Fernando Alonso was asked to build his \"dream circuit\" by picking three individual sectors from the current F1 calendar. While the two-time world champion built ...<a class",
+        "title": "Max Verstappen believes he can finally end Singapore F1 drought",
+        "summary": "Following Red Bull Racing's monumental victory at the rain-delayed 2026 Bahrain Grand Prix in Sepang, Malaysia, former team adviser Helmut Marko is already looking ahead to the next historic milestone. The Marina Bay Street Circuit remains the ultimate white whale for Max Verstappen. While the Dutch driver has dominated almost every other venue on the modern calendar, a victory on the bumpy ...<a class='",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/fernando-alonso-just-revealed-his-dream-f1-track-but-one-brutal-reality-would-ruin-it/10862446/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-06T15:55:03.000Z",
+        "url": "https://www.motorsport.com/f1/news/verstappen-believes-he-can-finally-end-his-singapore-f1-drought-says-marko/10862737/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-07T22:15:08.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Red Bull is overcoming ADUO restrictions but still calls on tweaks for F1 2027",
-        "summary": "Red Bull is working with the FIA on how to tweak Formula 1’s Additional Development and Upgrades Opportunities system after its contentious findings, says team boss Laurent Mekies.ADUO is new for 2026 and measures the V6 engine performance of all power units at the end of each quarter, handing at least one upgrade token to manufacturers lagging behind.But it was initially assumed that ...<a class='mo",
+        "title": "Helmut Marko brands F1 Malaysia software failure \"shameful\"",
+        "summary": "Formula 1 cars have essentially evolved into 200-mph rolling computers under the new 2026 regulations, and the entire system just crashed in front of a global audience at the relocated Bahrain Grand Prix in Sepang, Malaysia.With the cars demanding massive amounts of background coding to safely manage the controversial 50/50 power split between the internal combustion engine and the electrical ...<a class",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/red-bull-is-overcoming-aduo-restrictions-but-still-calls-on-tweaks-for-f1-2027/10862326/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-06T15:51:13.000Z",
+        "url": "https://www.motorsport.com/f1/news/helmut-marko-brands-f1-malaysia-software-failure-shameful/10862743/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-07T15:40:08.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "My most-played album of 2026? Sorry, Mitski—it's Final Fantasy 10: House Grooves, a real thing that exists",
-        "summary": "When music licensing goes too far.",
+        "title": "Here's the Dragon's Dogma 2: Dark Arisen release time for your region",
+        "summary": "Travel to the wild and wintery realm of Norgan.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/final-fantasy/my-most-played-album-of-2026-sorry-mitski-its-final-fantasy-10-house-grooves-a-real-thing-that-exists/",
-        "seendate": "2026-10-06T21:45:24.000Z",
+        "url": "https://www.pcgamer.com/games/rpg/heres-the-dragons-dogma-2-dark-arisen-release-time-for-your-region/",
+        "seendate": "2026-10-08T00:00:00.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "'Please give Novus one more chance': An 11-year-old early access survival game just got its first update since 2018",
-        "summary": "\"I'm trying to bring it all back and fix it,\" says Novus Inceptio developer McMagic Productions.",
+        "title": "With Grand Theft Auto 6 poised to take over the world, I reached out to Jack Thompson and it did not go well",
+        "summary": "GTA is mainstream now, but the fiery activist who raged against violent videogames in the early 2000s has not softened.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/survival-crafting/please-give-novus-one-more-chance-an-11-year-old-early-access-survival-game-just-got-its-first-update-since-2018/",
-        "seendate": "2026-10-06T21:44:55.000Z",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/with-grand-theft-auto-6-poised-to-take-over-the-world-i-reached-out-to-jack-thompson-and-it-did-not-go-well/",
+        "seendate": "2026-10-07T22:41:23.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "The PC Gamer Mysteries, Case #1: \"A Slice of Death\": Why is there a dead golfer hidden in Golden Tee '99?",
-        "summary": "This murder's gone decades without being solved... until now.",
+        "title": "'You have HOW MANY unread emails?' PC Gamer shares their inbox shame",
+        "summary": "Think you can beat our totals?",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/sports/the-pc-gamer-mysteries-case-1-a-slice-of-death-why-is-there-a-dead-golfer-hidden-in-golden-tee-99/",
-        "seendate": "2026-10-06T19:48:42.000Z",
+        "url": "https://www.pcgamer.com/software/you-have-how-many-unread-emails-pc-gamer-shares-their-inbox-shame/",
+        "seendate": "2026-10-07T22:06:11.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Gears of War: E-Day review — terrific shooting buoys a sluggish campaign",
-        "summary": "Gears has never felt better to play, or more creatively stagnant.",
+        "title": "Steam is about to start getting some of the best Japanese pixel art in gaming history",
+        "summary": "It only took about 35 years for these PC-98 games to start being released in English.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/third-person-shooter/gears-of-war-e-day-review/",
-        "seendate": "2026-10-06T17:59:46.000Z",
+        "url": "https://www.pcgamer.com/games/adventure/steam-is-about-to-start-getting-some-of-the-best-japanese-pixel-art-in-gaming-history/",
+        "seendate": "2026-10-07T20:15:43.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "I've added scams to GTA 5, but I might have scammed myself",
-        "summary": "At least I have a stylish new bag.",
+        "title": "We tried to earn as much gold in WoW: Forever as we could in 2 hours—which involved a mugging, slander, and at least one crashout",
+        "summary": "Wisdom, charisma, and courage.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/ive-added-scams-to-gta-5-but-i-might-have-scammed-myself/",
-        "seendate": "2026-10-06T17:00:00.000Z",
+        "url": "https://www.pcgamer.com/games/world-of-warcraft/we-tried-to-earn-as-much-gold-in-wow-forever-as-we-could-in-2-hours-which-involved-a-mugging-slander-and-at-least-one-crashout/",
+        "seendate": "2026-10-07T19:50:00.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
+      {
+        "title": "OpenAI’s release of mathematical findings draws concerns from experts",
+        "summary": "Leaders worry OpenAI is not doing due diligence to vet results and that AI models aren’t accessible to broader field of mathematicians OpenAI has astounded mathematicians after releasing hundreds of new mathematical findings on Tuesday.The company published over 370 mathematical results across a variety of topics such as algebra, theoretical computer scien",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/oct/07/openai-mathematical-findings-concerns",
+        "seendate": "2026-10-07T15:40:51.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Police routinely failing to investigate ‘revenge porn’, research reveals",
+        "summary": "Lawyers launch super-complaint over finding that officers in England and Wales frequently dismiss image-based abusePolice forces are routinely failing to investigate complaints about the circulation of image-based abuse, previously known as “revenge pornography”, according to research that has triggered a super-complaint over the way such crimes are handled.Lawyers have gathered evidence from 100 peo",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/society/2026/oct/07/police-routinely-failing-to-investigate-revenge-porn-reports-research-shows",
+        "seendate": "2026-10-07T08:00:38.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Ofcom investigates Meta over Instagram Instants safety checks",
         "summary": "Watchdog examining whether company carried out adequate risk assessment as required by Online Safety ActMark Zuckerberg’s Meta is under investigation for a potential breach of the UK’s digital safety laws after launching a Snapchat-style feature on Instagram.The communications watchdog, Ofcom, is investigating whether the $1.9tn (£1.4tn) company infringed the Online Safety Act (OSA) by failing to car",
@@ -307,39 +323,39 @@ window.NEWS_CACHE = {
         "domain": "theguardian.com"
       },
       {
-        "title": "Misuse of AI is brands’ top reputational threat, new survey says",
-        "summary": "The findings come after warnings from tech leaders that AI placed in the wrong hands could trigger larger threats such as nuclear war or bioweaponry destructionMisusing artificial intelligence (AI) is the top threat to companies’ reputations – more so than being accused of putting children in the way of mental, emotional or physic",
+        "title": "Scientists who put faith in technology less likely to take climate action",
+        "summary": "‘Techno-optimism’ may lead to reliance on unproven solutions at expense of societal changes neededScientists who believe technology will largely solve the problems caused by the climate crisis are less likely to engage in civic action on the issue, according to a study.The report from the London School of Economics found they are 23",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/oct/06/ai-misuse-brand-reputation",
-        "seendate": "2026-10-06T11:00:35.000Z",
+        "url": "https://www.theguardian.com/environment/2026/oct/07/scientists-technology-less-likely-climate-crisis-action",
+        "seendate": "2026-10-07T06:00:36.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Who owns ‘brain rot’? Inside the international legal drama over a beloved meme",
-        "summary": "Copyright law in the US only applies to human-made creations, but AI characters like Tung Tung Tung Sahur are challenging thatOne of the most beloved characters in an absurdist genre of online video content has become the center of an internati",
+        "title": "Privacy watchdog launches investigation into China-based company behind Kmart ‘pervert glasses’ app",
+        "summary": "Commissioner says Shenzhen Qingcheng, the app maker behind the HeyCyan app in the smartglasses, failed to respond to her inquiriesGet our breaking news email, free app or daily news podcast</l",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/oct/06/brain-rot-tung-tung-tung-sahur-noxa-openai-video",
-        "seendate": "2026-10-06T14:00:16.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Trump makes it clear his power is becoming entwined with AI",
-        "summary": "New alliances between the White House, the Pentagon, US intelligence and AI companies are looming ominouslyHello, and welcome to TechScape. I’m your host, Blake Montgomery, writing to you as I sit under yellowing leaves in New York. Today in tech, we’re discussing technocracy.",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/oct/05/trump-power-ai-techscape",
-        "seendate": "2026-10-06T13:23:45.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Norway plans temporary ban on smart glasses in some public places",
-        "summary": "Camera-enabled Meta spectacles are already restricted in UK and US because of fears about covert recordingNorway is planning a temporary ban on smart glasses in some public places, amid rising global concern at the spread of the AI-enabled recording devices.The Oslo government is planning a bill to prevent the use of the camera-enabled spectacles in parks, beaches, museums, shopping centres, schools,",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/oct/05/norway-temporary-ban-smart-glasses-public-places",
-        "seendate": "2026-10-05T16:11:31.000Z",
+        "url": "https://www.theguardian.com/technology/2026/oct/07/privacy-regulator-probe-kmart-anko-meta-smartglasses-australia",
+        "seendate": "2026-10-07T02:00:15.000Z",
         "domain": "theguardian.com"
       }
     ],
     "climate": [
+      {
+        "title": "Landslides, flash floods and raging seas: is California ready for the ravages of El Niño?",
+        "summary": "A mix of natural disasters could all befall the state at once as it finds itself in the crosshairs of the climate phenomenonOn a cloudless autumn afternoon, sunlight sparkled on the water that had quietly swallowed a busy intersection to the north of San Francisco, as the surrounding rush-hour traffic slowed to a painful crawl.There were no crashing waves or storm surges to blame for the flood. Marin",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/oct/07/california-el-nino-preparedness",
+        "seendate": "2026-10-07T14:30:52.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Heatstroke ruined his health. Years before, it took the life of another farm worker at the same company",
+        "summary": "A farm labor contractor exposed laborers on H-2A agricultural visas to heat-related health hazards, but is still bringing hundreds of migrant farm workers to North CarolinaIt was 4pm and 90F (32C) when Carlos Vargas Moreno and other farm workers set out to weed a watermelon field in Goldsboro, North Carolina, on 19 July 2022.The work day",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/environment/ng-interactive/2026/oct/07/north-carolina-farm-workers-disability-health-heat",
+        "seendate": "2026-10-07T11:00:08.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Veteran conservative lawyer quits Trump’s interior department and warns of ‘assault on the rule of law’",
         "summary": "John Murdock had been working for the agency for 18 years and his resignation comes during an exodus of longtime federal workers and scientists An 18-year veteran of the US Department of the Interior has resigned in protest from the sprawling federal agency, denouncing “a deeply troubling assault on the rule of the law” that took place at the department under Donald Trump.John Murdock, an attorney an",
@@ -363,63 +379,47 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/us-news/2026/oct/05/supreme-court-big-oil-climate-damage-lawsuits",
         "seendate": "2026-10-05T19:57:36.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Snakes, bobcats, mountain lions: the secret animal world beneath the Hollywood sign",
-        "summary": "An international symbol for the city, the sign is also hallmark of the region’s environmental richnessAtop Mount Lee, in the heart of Los Angeles, the wind is quiet. Two red-tailed hawks sail above, barely flapping as they coast the thermal air like surfers on a wave. Standing beside the giant letters of the Hollywood sign, the city seems peaceful. On a clear day, blocks and blocks of homes unfold beneath a",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/oct/05/secret-animal-world-beneath-hollywood-sign",
-        "seendate": "2026-10-05T14:00:27.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "More than 1,200 Colorado students have earned a climate ‘seal’: ‘We’re the ones growing up in this world’",
-        "summary": "A statewide initiative pairs climate-focused coursework with community service – and is spreading to other statesAs a student at a high school not far from Denver’s main airport, Anthony Muñoz wondered whether the jet fuel from airplanes flying above his campus was harming living things.An avid gardener, Muñoz partnered with a local university to create a garden on the campus of his charter school, V",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/oct/04/colorado-climate-high-school-students",
-        "seendate": "2026-10-04T12:30:27.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "science": [
       {
-        "title": "Cancer rates rising more quickly among younger people, international research finds",
-        "summary": "Experts looking at UK, US and Dutch data found ‘significant increases’ in early onset cases of seven cancers, prompting warnings about lifestyle choicesCases of seven types of cancer have risen sharply among younger people in England, major new research has found, prompting warnings that lifestyle choices are costing thousands of lives each year.The number of people under 50 diagnosed with prostate c",
+        "title": "Nobel prize in chemistry awarded for work on mirror-image molecules",
+        "summary": "Henri B Kagan and Kensō Soai awarded prize for discovery that has aided understanding of how medicines work in the bodyThe Nobel prize in chemistry 2026 has been awarded to two scientists for discoveries that showed how chemical reactions can produce an overwhelming excess of one of two mirror image forms of a molecule.Henri B Kagan at Paris-Sud University in France and Kensō Soai at Tokyo University",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/society/2026/oct/06/cancer-rates-rising-more-quickly-among-younger-people-international-study-finds",
-        "seendate": "2026-10-06T04:01:01.000Z",
+        "url": "https://www.theguardian.com/science/2026/oct/07/nobel-prize-chemistry-awarded-work-on-mirror-image-molecules",
+        "seendate": "2026-10-07T13:36:45.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Making scents: could AI help perfumers take pressure off endangered plants?",
-        "summary": "Firms working on reproducing compounds without need for repeated harvesting but conservationists are scepticalMany of the world’s most expensive perfumes begin with a wounded tree. When some Aquilaria trees are damaged, they produce a dark, fragrant resin that becomes agarwood, or oudh – an ingredient so valuable that wild trees have been illegally felled in its pursuit.The result has devast",
+        "title": "The generation raised on sugar rations – and what their health reveals 70 years later",
+        "summary": "From blood pressure to ageing, research suggests the first 1,000 days of sugar exposure could leave a decades-long mark on healthThey were born into a Britain still recovering from the hardships of war. Though the air-raid sirens had fallen silent, many everyday foods remained rationed, including sugar. Adults were restricted to about 3 tablespoons (40g) a day to stretch between cups of tea, baking and dess",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/oct/06/fragrance-biotechnology-endangered-plants-perfume",
-        "seendate": "2026-10-06T13:00:15.000Z",
+        "url": "https://www.theguardian.com/society/2026/oct/07/sugar-rations-health-blood-pressure-ageing",
+        "seendate": "2026-10-07T05:00:35.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Nobel prize in physics goes to Francis Halzen for south pole work on neutrinos",
-        "summary": "Belgian physicist praised for work on the IceCube detector that observes the ghost-like particles in AntarcticaThe Nobel prize in physics 2026 has been awarded to a researcher who turned an enormous block of ice at the south pole into a detector for ghostly particles called neutrinos that reach Earth from outer space.Prof Francis Halzen, a Belgian particle physicist at the University of Wisconsin-Mad",
+        "title": "Nobel prize in physics 2026: high energy cosmic neutrinos",
+        "summary": "Second up for the 2026 Nobel Prizes was the award for physics. And this year it went to just one scientist, Francis Halzen. The Belgian physicist won the prize based on his work on the IceCube detector that observes ghostly particles called neutrinos. Science editor Ian Sample tells host Madeleine Finlay how Halzen came up with the brilliant idea to use sensors buried in the ice to detect these extraterrestrial pa",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/oct/06/nobel-prize-in-physics-francis-halzen-south-pole-neutrinos-icecube-detector",
-        "seendate": "2026-10-06T11:25:25.000Z",
+        "url": "https://www.theguardian.com/science/video/2026/oct/06/nobel-prize-in-physics-2026-high-energy-cosmic-neutrinos",
+        "seendate": "2026-10-06T18:44:30.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Narcolepsy: why you’ve been thinking about it all wrong – podcast",
-        "summary": "The sleep disorder has been the butt of jokes and a comedic plot point, but the reality of living with narcolepsy is anything but funny. Things could be about to change for people with the condition though, after the US Food and Drug Administration (FDA) approved the first ever drug to treat narcolepsy itself, rather than just its symptoms. Madeleine Finlay tells Ian Sample how the scientific breakthrough came abo",
+        "title": "Moment Karl Deisseroth tells his family he won the Nobel prize in medicine – video",
+        "summary": "Stanford University has shared a video of Karl Deisseroth telling his two daughters and one of his sons he has won a Nobel prize in medicine.Deisseroth spent hours fielding congratulatory calls on Monday after learning he had won the prize for helping to open a field of brain science called optogenetics. But it wasn't long before the California scientist asked for a break for a more ordinary task: he needed",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/audio/2026/oct/06/narcolepsy-why-youve-been-thinking-about-it-all-wrong-podcast",
-        "seendate": "2026-10-06T04:00:01.000Z",
+        "url": "https://www.theguardian.com/science/video/2026/oct/07/moment-karl-deisseroth-tells-his-family-he-won-the-nobel-prize-in-medicine-video",
+        "seendate": "2026-10-07T09:14:32.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Nobel prize in medicine 2026 awarded for research into mysteries of brain",
-        "summary": "Three scientists to share 12m Swedish kronor prize for their work on ‘light-gated ion channels and optogenetics’The Nobel prize in physiology or medicine 2026 has been awarded to three scientists for their work investigating the mysteries of the brain.Karl Deisseroth of the Howard Hughes Medical Institute and Stanford University, Peter Hegemann of the Humboldt University of Berlin and Georg Nagel of",
+        "title": "Scientists who put faith in technology less likely to take climate action",
+        "summary": "‘Techno-optimism’ may lead to reliance on unproven solutions at expense of societal changes neededScientists who believe technology will largely solve the problems caused by the climate crisis are less likely to engage in civic action on the issue, according to a study.The report from the London School of Economics found they are 23",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/oct/05/nobel-prize-medicine-2026-winner",
-        "seendate": "2026-10-05T09:52:07.000Z",
+        "url": "https://www.theguardian.com/environment/2026/oct/07/scientists-technology-less-likely-climate-crisis-action",
+        "seendate": "2026-10-07T06:00:36.000Z",
         "domain": "theguardian.com"
       }
     ]
