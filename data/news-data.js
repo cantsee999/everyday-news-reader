@@ -1,8 +1,24 @@
 window.NEWS_CACHE = {
-  "generatedAt": "2026-10-08T02:20:56.761Z",
+  "generatedAt": "2026-10-09T02:38:38.877Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
+      {
+        "title": "Scientists discover 180,000 giant tortoises on one Seychelles island",
+        "summary": "Free-roaming Aldabra population far exceeds human population of Seychelles after decades-long recovery programmeA survey of the world’s largest free-roaming giant tortoise population has discovered that the once endangered species is thriving.A population of Aldabra giant tortoises lives on an island in Seychelles called Aldabra Atoll. <a href=\"https://www.theguardian.com/environment/2026/oct/08/",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles",
+        "seendate": "2026-10-08T20:20:31.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Ethiopia launches drone attack against Eritrean troops who crossed into Tigray",
+        "summary": "Government forces’ attack raises risk of internal conflict in Ethiopia that could trigger regional war Eritrean troops who crossed into Ethiopia’s Tigray region have come under drone attack from government forces, raising the risk that renewed internal conflict in Ethiopia could trigger an all-out regional war between the neighbouring countries.Military vehicles carrying soldiers drove across Eritrea",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/oct/08/ethiopia-drone-attack-against-eritrean-troops-in-tigray",
+        "seendate": "2026-10-08T16:11:32.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Kenya confirms first Ebola case as virus ‘surges’ in DR Congo province",
         "summary": "Health minister says 28 contacts identified after death of citizen who arrived from DRC on SaturdayKenya has reported its first-ever Ebola death, the health minister announced on Tuesday, as the disease continues to spread rapidly through the north-east of the Democratic Republic of Congo (DRC), where the outbreak was announced in May.This is the 17th outbreak of the highly infectious, often deadly d",
@@ -25,27 +41,27 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/global-development/2026/oct/05/guardian-readers-fundraising-somalian-boy-injured-in-us-strike-surgery-abdiqadir-salah",
         "seendate": "2026-10-05T12:00:24.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Skull fractures suggest servants of Egypt’s ancient kings were sacrificed",
-        "summary": "Study of remains taken from royal cemetery at Umm el-Qa’ab appears to confirm early Egyptologist’s theoryCourt officials and craftspeople serving early Egyptian kings may have been sacrificed when their ruler died, according to research that found fractures in several ancient skulls.The royal cemetery of Umm el-Qa’ab near Abydos features the tombs and enclosures of the First Dynasty rulers of Egypt,",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/oct/05/skull-fractures-suggest-servants-of-egypts-ancient-kings-were-sacrificed",
-        "seendate": "2026-10-05T04:00:48.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Egyptian journalist faces terrorism charges after entire newsroom detained",
-        "summary": "Calls for release of six Matsadaash staff after one is charged, while whereabouts of other five remain unknownAn Egyptian journalist has been charged with joining a terrorist group, days after an entire newsroom was detained in what rights groups have said is a crackdown on press freedoms.Last week, authorities arrested six journalists from the independent fact-checking and investigative platform Mat",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/oct/04/egyptian-journalist-faces-terrorism-charges-entire-newsroom-detained-matsadaash-press-freedom",
-        "seendate": "2026-10-04T15:16:03.000Z",
         "domain": "theguardian.com"
       }
     ],
     "conflict": [
       {
+        "title": "Scientists discover 180,000 giant tortoises on one Seychelles island",
+        "summary": "Free-roaming Aldabra population far exceeds human population of Seychelles after decades-long recovery programmeA survey of the world’s largest free-roaming giant tortoise population has discovered that the once endangered species is thriving.A population of Aldabra giant tortoises lives on an island in Seychelles called Aldabra Atoll. <a href=\"https://www.theguardian.com/environment/2026/oct/08/",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles",
+        "seendate": "2026-10-08T20:20:31.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Ethiopia launches drone attack against Eritrean troops who crossed into Tigray",
+        "summary": "Government forces’ attack raises risk of internal conflict in Ethiopia that could trigger regional war Eritrean troops who crossed into Ethiopia’s Tigray region have come under drone attack from government forces, raising the risk that renewed internal conflict in Ethiopia could trigger an all-out regional war between the neighbouring countries.Military vehicles carrying soldiers drove across Eritrea",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/oct/08/ethiopia-drone-attack-against-eritrean-troops-in-tigray",
+        "seendate": "2026-10-08T16:11:32.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Kenya confirms first Ebola case as virus ‘surges’ in DR Congo province",
         "summary": "Health minister says 28 contacts identified after death of citizen who arrived from DRC on SaturdayKenya has reported its first-ever Ebola death, the health minister announced on Tuesday, as the disease continues to spread rapidly through the north-east of the Democratic Republic of Congo (DRC), where the outbreak was announced in May.This is the 17th outbreak of the highly infectious, often deadly d",
         "source": "theguardian.com",
@@ -68,266 +84,250 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/global-development/2026/oct/05/guardian-readers-fundraising-somalian-boy-injured-in-us-strike-surgery-abdiqadir-salah",
         "seendate": "2026-10-05T12:00:24.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Skull fractures suggest servants of Egypt’s ancient kings were sacrificed",
-        "summary": "Study of remains taken from royal cemetery at Umm el-Qa’ab appears to confirm early Egyptologist’s theoryCourt officials and craftspeople serving early Egyptian kings may have been sacrificed when their ruler died, according to research that found fractures in several ancient skulls.The royal cemetery of Umm el-Qa’ab near Abydos features the tombs and enclosures of the First Dynasty rulers of Egypt,",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/oct/05/skull-fractures-suggest-servants-of-egypts-ancient-kings-were-sacrificed",
-        "seendate": "2026-10-05T04:00:48.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Egyptian journalist faces terrorism charges after entire newsroom detained",
-        "summary": "Calls for release of six Matsadaash staff after one is charged, while whereabouts of other five remain unknownAn Egyptian journalist has been charged with joining a terrorist group, days after an entire newsroom was detained in what rights groups have said is a crackdown on press freedoms.Last week, authorities arrested six journalists from the independent fact-checking and investigative platform Mat",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/oct/04/egyptian-journalist-faces-terrorism-charges-entire-newsroom-detained-matsadaash-press-freedom",
-        "seendate": "2026-10-04T15:16:03.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "economy": [
       {
-        "title": "Skepticism mires Trump’s Iowa steel plant project: ‘Promises are not the same as jobs’",
-        "summary": "The project has sparked doubts over whether the plant will be built and delivered as promised, given Trump’s recordDonald Trump has long sought to portray himself as a man of steel, from the White House photoshopping Trump to look like Superman, to enacting tariffs on steel and app",
+        "title": "Oil prices jump 5% on Middle East tensions and US hurricane threat",
+        "summary": "Global bond market sell-off continues and stocks fall amid reports White House has asked to see options for more strikes against IranOil prices have risen sharply amid fears about escalating tensions in the Middle East and a squeeze on production from the threat of a hurricane off the US coast.Brent crude, the international benchmark, rose by 5% to $105.3 a barrel on Thursday, triggering a wave of se",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/oct/07/trump-steel-plant-iowa-skepticism",
-        "seendate": "2026-10-07T10:00:40.000Z",
+        "url": "https://www.theguardian.com/business/2026/oct/08/oil-prices-rise-middle-east-tensions-us-hurricane-threat",
+        "seendate": "2026-10-08T11:11:47.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "McDonald’s sued for allegedly using AI tool to determine pricing for franchises",
-        "summary": "Suit says AI tool allows independently owned franchises to exchange nonpublic price and sales informationMcDonald’s is facing a lawsuit in federal court over its alleged use of an AI tool to determine pricing across independent franchises, which prosecutors say violates antitrust laws and has unfairly inflated menu prices for Amer",
+        "title": "Trump made ‘clear’ that media ban was due to critical coverage, court told",
+        "summary": "Lawyer for CNN, MS Now and Politico says Trump admitted he banned networks from White House over their coverageDonald Trump continues to be the strongest witness for the media companies arguing that they were unfairly barred from the White House at his direction, a lawyer representing CNN, MS Now and Politico told a federal judge on Thursday afternoon.The media coalition was in court asking the judge",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/oct/07/mcdonalds-ai-prices-lawsuit",
-        "seendate": "2026-10-07T11:00:08.000Z",
+        "url": "https://www.theguardian.com/media/2026/oct/08/trump-media-ban-hearing",
+        "seendate": "2026-10-08T17:56:04.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Disney accuses Trump officials of ‘blatant violations’ of constitution amid FCC battle",
-        "summary": "Lawyers tell judge ABC being unfairly targeted as US regulator seeks review of network’s local TV station licensesLawyers for Disney accused the Trump administration of “blatant violations of the US constitution” and censorship on Tuesday in the first court hearing over the Federal Communications Commission’s early review of the media giant’s eight local television station licenses.District judge Lor",
+        "title": "Starbucks reportedly exploring Chipotle takeover",
+        "summary": "Move would reunite chief executive Brian Niccol with chain he led before joining coffee company two years agoStarbucks has explored a takeover of Chipotle Mexican Grill, the Financial Times reported on Thursday, in a move that ⁠would reunite chief executive Brian Niccol with the burrito chain he led before joining t",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/media/2026/oct/06/disney-trump-abc-fcc",
-        "seendate": "2026-10-06T20:12:20.000Z",
+        "url": "https://www.theguardian.com/business/2026/oct/08/starbucks-chipotle-merger",
+        "seendate": "2026-10-08T17:35:53.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "S&P 500 and Nasdaq surge to record highs after AI chipmaker rally",
-        "summary": "S&amp;P tops 7,800 for first time in history as investors optimistic despite signs of instability in US economyThe S&amp;P 500 and Nasdaq closed at a record high after a rally around AI chipmakers and a dip in US treasury yields.At market’s close, the S&amp;P 500 was up 0.58%, topping 7,800 for the first time in its history. The tech-heavy Nasdaq index rose 0.45%, while the Dow, which is slightly dow",
+        "title": "Top bosses at Goldman Sachs to share bonus pot worth up to $500m",
+        "summary": "Eye-watering sum, to be split between 20 bankers, is one of the biggest payouts in the bank’s historyTop bosses at Goldman Sachs are in line to share a bonus pot worth up to $500m (£378m) this year, marking one of the biggest payouts in the Wall Street bank’s history.The eye-watering sum will be shared between 20 bankers, with its chief executive, David Solomon, due to take about $100m (£75.6m) of th",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/oct/06/sp-500-nasdaq-stocks-ai-chipmakers",
-        "seendate": "2026-10-06T20:28:42.000Z",
+        "url": "https://www.theguardian.com/business/2026/oct/08/top-bosses-goldman-sachs-bonus-pot",
+        "seendate": "2026-10-08T18:09:14.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Misuse of AI is brands’ top reputational threat, new survey says",
-        "summary": "The findings come after warnings from tech leaders that AI placed in the wrong hands could trigger larger threats such as nuclear war or bioweaponry destructionMisusing artificial intelligence (AI) is the top threat to companies’ reputations – more so than being accused of putting children in the way of mental, emotional or physic",
+        "title": "Microsoft suspended from applying for green cards for H-1B workers, JD Vance says",
+        "summary": "Vice-president also says Adobe is barred from visa program that allows high-skilled workers to apply for US residencyMicrosoft is suspended from applying for permanent residency for workers employed through a US visa program for high-skilled workers, JD Vance announced on Thursday.The US vice-president accused the tech company of abusing the H-1B system, which allows those on the visa to work while t",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/oct/06/ai-misuse-brand-reputation",
-        "seendate": "2026-10-06T11:00:35.000Z",
+        "url": "https://www.theguardian.com/technology/2026/oct/08/jd-vance-microsoft-visa-workers-green-card-suspension",
+        "seendate": "2026-10-08T18:23:47.000Z",
         "domain": "theguardian.com"
       }
     ],
     "literature": [
       {
-        "title": "Blockers by Michael Lewis review – the quiet heroes who tried to stop Doge",
-        "summary": "The author of Moneyball brings his exceptional narrative skills to bear on Musk’s anti-government crusadeDonald Trump’s catastrophic errors get so much attention that his systemic ones can easily be missed. While the world looks on in dismay at his farcical war in Iran, the thuggery of Ice agents or clownish attacks on erstwhile allies like Canada and Denmark, the core functions of the American government a",
+        "title": "Meghan Markle spotted enjoying cosy girl dinner at Claridge ",
+        "summary": "Meghan Markle was spotted out on a girls&#x27; night with Nobel Peace Prize winner Malala Yousafzai at Claridge&#x27;s, the famed hotel in Mayfair, London. See details.",
+        "source": "hellomagazine.com",
+        "url": "https://www.hellomagazine.com/royalty/927765/meghan-markle-spotted-enjoying-cosy-girls-dinner-at-claridges/",
+        "seendate": "20261008T053000Z",
+        "domain": "hellomagazine.com"
+      },
+      {
+        "title": "Florence Pugh is a force in Netflix new East of Eden series | Milton Ulladulla Times",
+        "summary": "New streaming highlights include East of Eden, War and Taskmaster.",
+        "source": "ulladullatimes.com.au",
+        "url": "https://www.ulladullatimes.com.au/story/9364094/florence-pugh-is-a-force-in-netflixs-new-east-of-eden-series/",
+        "seendate": "20261008T053000Z",
+        "domain": "ulladullatimes.com.au"
+      },
+      {
+        "title": "Battle for the Ballot Box - The American Scholar",
+        "summary": "How decades of legal attacks and court decisions have undermined the crown jewel of the civil rights movement",
+        "source": "theamericanscholar.org",
+        "url": "https://theamericanscholar.org/battle-for-the-ballot-box/",
+        "seendate": "20261008T053000Z",
+        "domain": "theamericanscholar.org"
+      },
+      {
+        "title": "  That is a lie : alleged Alan Jones victim denies family tried to get money out of broadcaster , court hears | Alan Jones trial",
+        "summary": "Youngest complainant in trial alleges Jones put his tongue in his mouth and touched him on the bottom during visit to shock jock’s property",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/oct/07/blockers-by-michael-lewis-review-the-quiet-heroes-who-tried-to-stop-doge",
-        "seendate": "2026-10-07T06:00:35.000Z",
+        "url": "https://www.theguardian.com/australia-news/2026/oct/08/that-is-a-lie-alleged-alan-jones-victim-denies-family-tried-to-get-money-out-of-broadcaster-court-hears-ntwnfb",
+        "seendate": "20261008T053000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Anne Carson and Can Xue favourites to win Nobel prize in literature",
-        "summary": "The Canadian poet and Chinese experimental writer are the bookmakers’ favourites to win, with Haruki Murakami, Gerald Murnane and Margaret Atwood also in the mixCanadian poet Anne Carson and Chinese experimental writer Can Xue are the bookies’ favourites to win this year’s Nobel prize in literature, set to be announced Thursday.The frontrunners both have 10/1 odds of taking home the world’s most pres",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/oct/07/anne-carson-and-can-xue-favourites-to-win-nobel-prize-in-literature",
-        "seendate": "2026-10-07T13:29:06.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Other Worlds Than These by Stephen King and Peter Straub review – a self-indulgent finale to the Talisman trilogy",
-        "summary": "There are moments of shivering joy as the protagonist of two enduring classics, Jack Sawyer, returns – but this time his journey feels endlessly repetitiveBear with me, because there is some backstory to get through before we can talk about the book I am actually here to review. Back in 1984, Stephen King and Peter Straub collaborated on the fantasy novel The Talisman. Like all the best King stories, it fol",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/oct/07/other-worlds-than-these-by-stephen-king-and-peter-straub-review-a-self-indulgent-finale-to-the-talisman-trilogy",
-        "seendate": "2026-10-07T08:00:38.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Partita By Barbara Kingsolver review – a midlife follow-up to Demon Copperhead",
-        "summary": "The sex writing threatens to throw the novel off-kilter, but there are rich rewards in this tale of music and middle-aged compromisesWhat is the role of art in an artist’s life? Should you commit everything to honing your talent in the hope of becoming a great master? Or should you use your artistic gift to enrich your life and that of your community? In Partita, acclaimed American novelist Barbara Kingsolv",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/oct/06/partita-by-barbara-kingsolver-review-a-quieter-follow-up-to-demon-copperhead",
-        "seendate": "2026-10-06T06:00:05.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Holding Lightning by Emily Lordi review – an intimate portrait of Whitney Houston",
-        "summary": "An empathetic biography of the the singer recasts her tumultuous later career as a triumph of self-expressionSince Whitney Houston’s death in&nbsp;2012, a flurry of books and documentaries have appeared, most of them presenting her life as a cautionary tale. In this new biography, Emily Lordi, a professor of English at Vanderbilt University, refuses to reduce Houston’s story to another “good girl gone bad”",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/music/2026/oct/06/holding-lightning-by-emily-lordi-review-an-intimate-portrait-of-whitney-houston",
-        "seendate": "2026-10-06T08:00:06.000Z",
-        "domain": "theguardian.com"
+        "title": "Study highlights need for smarter , locally tailored trauma - care systems",
+        "summary": "A study of almost 9,000 injury patients across Africa and South Asia has found that nearly half were dead or disabled after three months - highlighting the need for smarter, locally tailored trauma-care systems.",
+        "source": "news-medical.net",
+        "url": "https://www.news-medical.net/news/20261008/Study-highlights-need-for-smarter-locally-tailored-trauma-care-systems.aspx",
+        "seendate": "20261008T053000Z",
+        "domain": "news-medical.net"
       }
     ],
     "entertainment": [
       {
-        "title": "Jimmy Kimmel on Trump’s joke about Iran bombing LA: ‘Our own president wishing death to America’",
-        "summary": "Late-night hosts discuss Trump’s rally line that Iran should bomb LA or San Diego as he continues to defend costly warLate-night hosts reacted to Donald Trump’s inflammatory comments about Iran bombing US cities as he continues to defend his war in the region. <a href=\"https://www.theguardian.com/culture/2026/oct/07/jimmy-kimmel-trump-joke-ir",
+        "title": "Matchbox: the Movie review – as pointless as a film based on a toy car could be",
+        "summary": "John Cena and Jessica Biel collect paychecks in a soulless and synthetic slab of corporate product that hints at what we can expect from the Paramount-Warner mergerAfter a windy road, this week it finally happened. The day that Hollywood, and many of those who are invested in it, had been dreading, the griml",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/culture/2026/oct/07/jimmy-kimmel-trump-joke-iran-la-bombing",
-        "seendate": "2026-10-07T14:43:56.000Z",
+        "url": "https://www.theguardian.com/film/2026/oct/08/matchbox-movie-review",
+        "seendate": "2026-10-08T18:23:59.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Cruel torment, depraved violence, evil turns: where did TV’s real baddies go?",
-        "summary": "From Carrie’s bullies to Cathy Ames, sympathetic backstories have made villains boring. It’s time to bring back truly awful villains – in all their deliciously sinful gloryThe new Netflix adaptation of East of Eden largely sticks to the plot of the John Steinbeck novel. There are tweaks",
+        "title": "Israel promotes film that mimics NAZA documentary",
+        "summary": "Embassies post links to hastily produced online film echoing style of real Guardian documentary about mass killings of Gaza civiliansThe Israeli government is promoting an online film project that mimics the style of NAZA, the award-winning documentary that details Israel’s mass killings of civilians in Gaza, in an attempt to counter the real film’s findings.The <a href=\"https://www.theguardian.com/f",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/oct/07/cruel-torment-depraved-violence-evil-turns-where-did-tvs-real-baddies-go",
-        "seendate": "2026-10-07T14:11:15.000Z",
+        "url": "https://www.theguardian.com/world/2026/oct/08/israel-promotes-film-that-mimics-naza-documentary",
+        "seendate": "2026-10-08T17:52:35.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Will the Zuckerberg, Musk and Altman movies make a dent on tech giant evangelism?",
-        "summary": "The triple release of The Social Reckoning, Musk and Artificial is less a clear political stance, more like movie studio opportunismHollywood is sending a clear message: it’s a friend of tech. Netflix is no longer a lone disruptor: historic studio MGM is now the property of Amazon’s Jeff Bezos; David Ellison’s takeover of Paramount and subsequent Warner Bros merger was supported by his tech giant father; an",
+        "title": "Anne Carson wins Nobel prize in literature 2026",
+        "summary": "Most prestigious literature prize goes to Canadian known for genre-crossing works such as Autobiography of Red‘Delights await!’: Margaret Atwood and other writers on Nobel winner Anne Carson<a href=\"https://www.theguardian.com/books/2026/oct/08/where-to-start-with-an",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/oct/07/the-social-reckoning-musk-and-artificial-zuckerberg-musk-and-altman-movies-tech",
-        "seendate": "2026-10-07T13:43:43.000Z",
+        "url": "https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026",
+        "seendate": "2026-10-08T14:03:29.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "The Social Reckoning review – Aaron Sorkin’s jittery sequel with all-new evil puppet Zuckerberg",
-        "summary": "Jeremy Strong’s slow-talking Facebook founder turns into a cameo, background to a thriller about a whistleblower that somehow never mentions TrumpHere is a film for all those people who solemnly deplore social media in conversation but haven’t quite got round to deleting their accounts. Sixteen years have gone by since The Soci",
+        "title": "Seth Meyers on Trump: ‘Speaks in mangled, incoherent half-sentences that no one can understand’",
+        "summary": "Late-night hosts discuss Trump’s delusions of power, Iran and the US president’s plan for his Florida golf courseLate-night hosts dug into Donald Trump’s incoherent statements on Iran and his plan to turn his Florida golf course into a Camp David-style retreat. <a href=\"https://www.theguardian.com/culture/2026/oct/08/seth-meyers-jimmy-kimmel-",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/oct/07/the-social-reckoning-review-aaron-sorkin-jeremy-strong-mikey-madison",
-        "seendate": "2026-10-07T13:00:04.000Z",
+        "url": "https://www.theguardian.com/culture/2026/oct/08/seth-meyers-jimmy-kimmel-trump-iran-camp-david",
+        "seendate": "2026-10-08T15:24:29.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘Curious and circumspect creatures’: the artist making sculptures for the rats of New York City",
-        "summary": "For his latest project, Asad Raza made ‘public art’ for rats with pieces designed to appeal to the city’s maligned rodents“We call this the Hell Door,” artist Asad Raza explained animatedly. It’s 10pm on a warm August evening, and we are standing outside a small enclosure at the back of a seafood restaurant under the Manhattan Bridge that to any other passersby would have been invisible. “Are you ready?” he",
+        "title": "The woman with the mattress: the radical, rage-fuelled history of anti-rape art",
+        "summary": "A performance piece from 2014 has gone viral in response to an allegation of rape at Cornell University. But with such defiant pieces stretching back hundreds of years, will things ever change?In September 2014, Emma Sulkowicz began to carry a blue mattress weighing 23kg around her university campus. The mattress was similar to the ones New York’s Columbia University used in its dorm rooms, where Sulkowicz",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/artanddesign/2026/oct/07/nyc-rat-art-sculptures",
-        "seendate": "2026-10-07T10:00:40.000Z",
+        "url": "https://www.theguardian.com/artanddesign/2026/oct/08/anti-rape-art-history-cornell-mattress-performance",
+        "seendate": "2026-10-08T14:19:35.000Z",
         "domain": "theguardian.com"
       }
     ],
     "f1": [
       {
-        "title": "Apple TV announces major F1 broadcast upgrade for United States Grand Prix",
-        "summary": "Formula 1 is about to become a little bit louder in the best way. Dolby Laboratories and Apple have announced that, from the United States Grand Prix race weekend that stars on the 23 October, Apple TV subscribers will have access to Dolby Atmos as well as Dolby Vision in their F1 coverage.Both audio formats will be available to viewers who have compatible Apple devices as well as ...<a class='more' href",
+        "title": "Will Buxton raises alarm over Mercedes F1 upgrades ahead of Singapore GP",
+        "summary": "Formula 1 broadcaster Will Buxton has raised concerns over Mercedes' latest upgrade package, claiming team boss Toto Wolff suspects their major floor and sidepod changes may have cost them as much as half a second in lap time.The Brackley outfit introduced major upgrades at the Bahrain Grand Prix in Malaysia. The upgrades, which resulted in modifications to almost every body surface, were ...<a class='mo",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/apple-tv-announces-major-f1-broadcast-upgrade-for-united-states-grand-prix/10862810/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-07T23:38:45.000Z",
+        "url": "https://www.motorsport.com/f1/news/will-buxton-raises-alarm-over-mercedes-f1-upgrades-ahead-of-singapore-gp/10863178/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-08T23:25:08.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "McLaren CEO drops major update on Gianpiero Lambiase's Red Bull exit",
-        "summary": "If McLaren Racing CEO Zak Brown is to be believed, Red Bull's Gianpiero Lambiase may be leaving the papaya team for Milton Keynes as soon as 2027. The American told Sky Sports that he is feeling optimistic that Max Verstappen's current race engineer will be moving to Woking much sooner than expected.“I’m optimistic we’ll see him in papaya at some point next year,\" he told the ...<a class='more' href='htt",
+        "title": "Naomi Schiff questions Mercedes' George Russell F1 engine penalty decision",
+        "summary": "Former W Series driver and Sky Sports analyst Naomi Schiff has questioned Mercedes' decision to take a power unit penalty for George Russell at this weekend's Singapore Grand Prix.Schiff argued that the Marina Bay Street Circuit is ill-suited for a recovery drive from the back of the grid.Russell will drop towards the rear of Sunday's field after exceeding his allocation of internal ...<a class='more",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/mclaren-ceo-drops-major-update-on-gianpiero-lambiases-red-bull-exit/10862808/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-07T23:19:01.000Z",
+        "url": "https://www.motorsport.com/f1/news/naomi-schiff-questions-mercedes-george-russell-f1-engine-penalty-decision/10863171/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-08T20:57:20.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Max Verstappen on life after Christian Horner: “It is less stressful”",
-        "summary": "Max Verstappen has admitted that he doesn't miss the friction that was created when Christian Horner was leading the Red Bull Formula 1 team. Speaking to the Press Association, the four-time champion admitted that the team is less stressful now his former boss has left the championship.Conflict sells. Arguments between and within teams create plots that shape the likes of Drive to Survive and ...<a class",
+        "title": "Oscar Piastri: Red Bull has become “the class of the field” in F1 2026",
+        "summary": "Oscar Piastri now views Red Bull as “the class of the field” alongside Mercedes, as McLaren loses ground in Formula 1’s 2026 pecking order.Red Bull brought a significant upgrade to its RB22 at the Azerbaijan Grand Prix, with revamped sidepods, floor, mirrors, halo and diffuser.This led to the team’s best two results of the season so far, with Max Verstappen hounding George Russell ...<a class='more'",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/max-verstappen-on-life-after-christian-horner-its-less-stressful/10862804/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-07T22:47:58.000Z",
+        "url": "https://www.motorsport.com/f1/news/oscar-piastri-red-bull-has-become-the-class-of-the-field-in-f1-2026/10863147/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-08T20:05:02.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Max Verstappen believes he can finally end Singapore F1 drought",
-        "summary": "Following Red Bull Racing's monumental victory at the rain-delayed 2026 Bahrain Grand Prix in Sepang, Malaysia, former team adviser Helmut Marko is already looking ahead to the next historic milestone. The Marina Bay Street Circuit remains the ultimate white whale for Max Verstappen. While the Dutch driver has dominated almost every other venue on the modern calendar, a victory on the bumpy ...<a class='",
+        "title": "F1 Singapore GP: Friday schedule, weather forecast and how to watch",
+        "summary": "Formula 1 remains in south-east Asia this weekend for the Singapore Grand Prix, the final race of the current triple-header and round 17 of the 2026 season.Kimi Antonelli arrives at Marina Bay with an 84-point championship lead over Mercedes team-mate George Russell after the Briton suffered another engine failure in Malaysia. Russell will also take a grid penalty in Singapore after exceeding ...<a class",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/verstappen-believes-he-can-finally-end-his-singapore-f1-drought-says-marko/10862737/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-07T22:15:08.000Z",
+        "url": "https://www.motorsport.com/f1/news/f1-singapore-gp-friday-schedule-weather-forecast-and-how-to-watch/10863120/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-08T19:21:54.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Helmut Marko brands F1 Malaysia software failure \"shameful\"",
-        "summary": "Formula 1 cars have essentially evolved into 200-mph rolling computers under the new 2026 regulations, and the entire system just crashed in front of a global audience at the relocated Bahrain Grand Prix in Sepang, Malaysia.With the cars demanding massive amounts of background coding to safely manage the controversial 50/50 power split between the internal combustion engine and the electrical ...<a class",
+        "title": "Guenther Steiner calls out Ferrari for refusing to admit F1 strategy mistakes",
+        "summary": "Former Haas Formula 1 team principal Guenther Steiner believes Ferrari's reluctance to acknowledge errors is actively damaging its on-track performance.Speaking on The Red Flags Podcast, Steiner analysed the strategy calls made during the chaotic Bahrain Grand Prix in Malaysia, where Ferrari decided to start on soft slick tyres despite the wet-weather conditions.The gamble immediately ...<a class='mo",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/helmut-marko-brands-f1-malaysia-software-failure-shameful/10862743/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-07T15:40:08.000Z",
+        "url": "https://www.motorsport.com/f1/news/guenther-steiner-calls-out-ferrari-for-refusing-to-admit-f1-strategy-mistakes/10863139/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-08T16:00:14.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "Here's the Dragon's Dogma 2: Dark Arisen release time for your region",
-        "summary": "Travel to the wild and wintery realm of Norgan.",
+        "title": "Why a 21-year-old coder finally ported the real P.T. to PC: 'That something so influential could eventually become unplayable never sat right with me'",
+        "summary": "Not emulation or a remake, a native PC port of Kojima's horror classic has arrived.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/rpg/heres-the-dragons-dogma-2-dark-arisen-release-time-for-your-region/",
-        "seendate": "2026-10-08T00:00:00.000Z",
+        "url": "https://www.pcgamer.com/games/horror/why-a-21-year-old-coder-finally-ported-the-real-p-t-to-pc-that-something-so-influential-could-eventually-become-unplayable-never-sat-right-with-me/",
+        "seendate": "2026-10-08T21:32:33.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "With Grand Theft Auto 6 poised to take over the world, I reached out to Jack Thompson and it did not go well",
-        "summary": "GTA is mainstream now, but the fiery activist who raged against violent videogames in the early 2000s has not softened.",
+        "title": "Jason may or may not appear fully nude in GTA 6, but either way we've now seen his dong",
+        "summary": "Cyberleek's back, this time with nude Jason riding a dirt bike.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/with-grand-theft-auto-6-poised-to-take-over-the-world-i-reached-out-to-jack-thompson-and-it-did-not-go-well/",
-        "seendate": "2026-10-07T22:41:23.000Z",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/jason-may-or-may-not-appear-fully-nude-in-gta-6-but-either-way-weve-now-seen-his-dong/",
+        "seendate": "2026-10-08T20:12:16.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "'You have HOW MANY unread emails?' PC Gamer shares their inbox shame",
-        "summary": "Think you can beat our totals?",
+        "title": "Vampire games on Steam are a recession indicator and I have the charts to prove it",
+        "summary": "Nothing is scarier during Halloween season than amateur statistics.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/software/you-have-how-many-unread-emails-pc-gamer-shares-their-inbox-shame/",
-        "seendate": "2026-10-07T22:06:11.000Z",
+        "url": "https://www.pcgamer.com/games/vampire-games-on-steam-are-a-recession-indicator-and-i-have-the-charts-to-prove-it/",
+        "seendate": "2026-10-08T19:55:17.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Steam is about to start getting some of the best Japanese pixel art in gaming history",
-        "summary": "It only took about 35 years for these PC-98 games to start being released in English.",
+        "title": "A great indie studio is making a sequel to one of my favorite adventures 17 years later, for one simple reason: 'We're not getting any younger, and the world seems to be ending'",
+        "summary": "Machinarium 2 is finally happening.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/adventure/steam-is-about-to-start-getting-some-of-the-best-japanese-pixel-art-in-gaming-history/",
-        "seendate": "2026-10-07T20:15:43.000Z",
+        "url": "https://www.pcgamer.com/games/adventure/a-great-indie-studio-is-making-a-sequel-to-one-of-my-favorite-adventures-17-years-later-for-one-simple-reason-were-not-getting-any-younger-and-the-world-seems-to-be-ending/",
+        "seendate": "2026-10-08T17:56:59.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "We tried to earn as much gold in WoW: Forever as we could in 2 hours—which involved a mugging, slander, and at least one crashout",
-        "summary": "Wisdom, charisma, and courage.",
+        "title": "I have added roving bands of militant furries to Grand Theft Auto 5",
+        "summary": "Thereby bringing it a bit closer to real life.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/world-of-warcraft/we-tried-to-earn-as-much-gold-in-wow-forever-as-we-could-in-2-hours-which-involved-a-mugging-slander-and-at-least-one-crashout/",
-        "seendate": "2026-10-07T19:50:00.000Z",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-added-roving-bands-of-militant-furries-to-grand-theft-auto-5/",
+        "seendate": "2026-10-08T17:00:00.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
       {
-        "title": "OpenAI’s release of mathematical findings draws concerns from experts",
-        "summary": "Leaders worry OpenAI is not doing due diligence to vet results and that AI models aren’t accessible to broader field of mathematicians OpenAI has astounded mathematicians after releasing hundreds of new mathematical findings on Tuesday.The company published over 370 mathematical results across a variety of topics such as algebra, theoretical computer scien",
+        "title": "‘Dystopian’: Co-op becomes latest firm to put staff under AI surveillance",
+        "summary": "Whistleblower says recording and analysis of all probate calls in Co-op Legal Services is oppressiveThe Co-op has become the latest employer to place workers under AI surveillance with an automated listening technology that rates every phone call some of them make to customers.In a system described as “oppressive and dystopian” by a whistleblower, Co-op Legal Services is using AI models to record, an",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/oct/07/openai-mathematical-findings-concerns",
-        "seendate": "2026-10-07T15:40:51.000Z",
+        "url": "https://www.theguardian.com/technology/2026/oct/08/co-op-legal-services-ai-customer-phone-call-surveillance",
+        "seendate": "2026-10-08T09:00:16.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Police routinely failing to investigate ‘revenge porn’, research reveals",
-        "summary": "Lawyers launch super-complaint over finding that officers in England and Wales frequently dismiss image-based abusePolice forces are routinely failing to investigate complaints about the circulation of image-based abuse, previously known as “revenge pornography”, according to research that has triggered a super-complaint over the way such crimes are handled.Lawyers have gathered evidence from 100 peo",
+        "title": "Molly Russell’s father to tell UK cinemagoers: ‘Instagram helped kill my daughter’",
+        "summary": "In ad to be shown before The Social Reckoning, Ian Russell will say ‘too little has changed’ since death of Molly, 14Molly Russell’s father will tell UK cinemagoers that “Instagram helped kill my daughter” in an advert to be shown before screenings of a new film about Mark Zuckerberg’s social media empire.In the 30-second ad",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/society/2026/oct/07/police-routinely-failing-to-investigate-revenge-porn-reports-research-shows",
-        "seendate": "2026-10-07T08:00:38.000Z",
+        "url": "https://www.theguardian.com/media/2026/oct/08/molly-russell-father-uk-cinemas-the-social-reckoning",
+        "seendate": "2026-10-08T08:03:50.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Ofcom investigates Meta over Instagram Instants safety checks",
-        "summary": "Watchdog examining whether company carried out adequate risk assessment as required by Online Safety ActMark Zuckerberg’s Meta is under investigation for a potential breach of the UK’s digital safety laws after launching a Snapchat-style feature on Instagram.The communications watchdog, Ofcom, is investigating whether the $1.9tn (£1.4tn) company infringed the Online Safety Act (OSA) by failing to car",
+        "title": "Google told to halt work on datacentres in Finland over environmental concerns",
+        "summary": "Order on two construction sites comes after Google failed to carry out environmental impact assessmentsGoogle has been ordered to temporarily stop work on two datacentres in Finland after failing to carry out the necessary environmental impact assessments on its construction sites.The planned datacentres in Muhos and Kajanni are part of a €13bn (£11bn) project across multiple sites in northern Finlan",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/oct/06/ofcom-investigates-meta-instagram-instants-safety-checks",
-        "seendate": "2026-10-06T13:22:43.000Z",
+        "url": "https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment",
+        "seendate": "2026-10-06T18:02:56.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Scientists who put faith in technology less likely to take climate action",
-        "summary": "‘Techno-optimism’ may lead to reliance on unproven solutions at expense of societal changes neededScientists who believe technology will largely solve the problems caused by the climate crisis are less likely to engage in civic action on the issue, according to a study.The report from the London School of Economics found they are 23",
+        "title": "EU drops sponsorship of disinformation conference at Trump officials’ request",
+        "summary": "Lithuania and Canada were also pressured to withdraw, and days before #Disinfo2026, logos were wiped off website The Trump administration pressured multiple countries to withdraw their sponsorship of a leading European conference on disinformation, with Canada, Lithuania and the EU’s diplomatic service subsequently agreeing to do so, the",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/2026/oct/07/scientists-technology-less-likely-climate-crisis-action",
-        "seendate": "2026-10-07T06:00:36.000Z",
+        "url": "https://www.theguardian.com/us-news/2026/oct/07/trump-eu-disinformation-conference",
+        "seendate": "2026-10-07T19:38:24.000Z",
         "domain": "theguardian.com"
       },
       {
@@ -341,7 +341,15 @@ window.NEWS_CACHE = {
     ],
     "climate": [
       {
-        "title": "Landslides, flash floods and raging seas: is California ready for the ravages of El Niño?",
+        "title": "As monarch butterflies migrate for the fall, meet the Chicago woman trying to protect them",
+        "summary": "Claudia Galeno-Sánchez has turned her home into a sanctuary for the insects by planting native milkweed and wildflowers – and sharing her experienceAlong the concrete streets of Chicago’s Pilsen neighborhood, a vividly colored home stands out among the rest.Over the past few years, Claudia Galeno-Sánchez has transformed her modest family home,",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/artanddesign/2026/oct/08/monarch-butterflies-chicago-garden",
+        "seendate": "2026-10-08T11:00:18.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "‘Like an earthquake’: El Niño is coming for California – is the state ready?",
         "summary": "A mix of natural disasters could all befall the state at once as it finds itself in the crosshairs of the climate phenomenonOn a cloudless autumn afternoon, sunlight sparkled on the water that had quietly swallowed a busy intersection to the north of San Francisco, as the surrounding rush-hour traffic slowed to a painful crawl.There were no crashing waves or storm surges to blame for the flood. Marin",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/us-news/2026/oct/07/california-el-nino-preparedness",
@@ -371,39 +379,31 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/us-news/2026/oct/06/households-drinking-water-cost-study",
         "seendate": "2026-10-06T09:00:09.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "US supreme court hears big oil’s bid to block climate damage lawsuits",
-        "summary": "How the court will lean is unclear amid Suncor Energy and ExxonMobil’s attempt to stop lawsuits at state levelThe US supreme court began its new nine-month term hearing arguments on Monday in a major case in which big oil companies attempted to",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/oct/05/supreme-court-big-oil-climate-damage-lawsuits",
-        "seendate": "2026-10-05T19:57:36.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "science": [
       {
-        "title": "Nobel prize in chemistry awarded for work on mirror-image molecules",
-        "summary": "Henri B Kagan and Kensō Soai awarded prize for discovery that has aided understanding of how medicines work in the bodyThe Nobel prize in chemistry 2026 has been awarded to two scientists for discoveries that showed how chemical reactions can produce an overwhelming excess of one of two mirror image forms of a molecule.Henri B Kagan at Paris-Sud University in France and Kensō Soai at Tokyo University",
+        "title": "Teenager becomes first person to have testicular tissue transplant in UK",
+        "summary": "Operation on 19-year-old who had no sperm after chemotherapy offers hope of preserving children’s fertility after cancer treatment Surgeons have performed the first testicular tissue transplant on a teenager in the UK, offering hope that boys left infertile by chemotherapy could one day have biological children.The 19-year-old had his tissue removed and frozen three years ago before undergoing treatm",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/oct/07/nobel-prize-chemistry-awarded-work-on-mirror-image-molecules",
-        "seendate": "2026-10-07T13:36:45.000Z",
+        "url": "https://www.theguardian.com/society/2026/oct/08/teenager-first-person-testicular-tissue-transplant-uk-cancer-chemotherapy-fertility",
+        "seendate": "2026-10-08T04:00:10.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "The generation raised on sugar rations – and what their health reveals 70 years later",
-        "summary": "From blood pressure to ageing, research suggests the first 1,000 days of sugar exposure could leave a decades-long mark on healthThey were born into a Britain still recovering from the hardships of war. Though the air-raid sirens had fallen silent, many everyday foods remained rationed, including sugar. Adults were restricted to about 3 tablespoons (40g) a day to stretch between cups of tea, baking and dess",
+        "title": "Margaret Hamilton, trailblazer whose software powered Apollo 11 moon landing, dies aged 90",
+        "summary": "MIT computer scientist led development of software for moon mission and earned Presidential Medal of FreedomMargaret Hamilton, the computer pioneer whose software powered the first moon landing, has died, the Massachusetts Institute of Technology (MIT) announced on Wednesday. She was 90.In an era before titles such",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/society/2026/oct/07/sugar-rations-health-blood-pressure-ageing",
-        "seendate": "2026-10-07T05:00:35.000Z",
+        "url": "https://www.theguardian.com/science/2026/oct/07/margaret-hamilton-moon-computer-software",
+        "seendate": "2026-10-08T00:40:37.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Nobel prize in physics 2026: high energy cosmic neutrinos",
-        "summary": "Second up for the 2026 Nobel Prizes was the award for physics. And this year it went to just one scientist, Francis Halzen. The Belgian physicist won the prize based on his work on the IceCube detector that observes ghostly particles called neutrinos. Science editor Ian Sample tells host Madeleine Finlay how Halzen came up with the brilliant idea to use sensors buried in the ice to detect these extraterrestrial pa",
+        "title": "All the news and science from the 2026 Nobel prizes – podcast",
+        "summary": "This year’s Nobel prizes in chemistry, physics and physiology or medicine have celebrated work that has been used to develop countless drugs and transform modern medicine, allowed physicists to observe one of the most mysterious particles, and provided a tool that could act as an on/off switch for brain cells. To find out more, Madeleine Finlay talks to our science editor, Ian Sample, and correspondents Nicola Dav",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/video/2026/oct/06/nobel-prize-in-physics-2026-high-energy-cosmic-neutrinos",
-        "seendate": "2026-10-06T18:44:30.000Z",
+        "url": "https://www.theguardian.com/science/audio/2026/oct/07/all-the-news-and-science-from-the-2026-nobel-prizes-podcast",
+        "seendate": "2026-10-07T18:54:37.000Z",
         "domain": "theguardian.com"
       },
       {
@@ -415,11 +415,11 @@ window.NEWS_CACHE = {
         "domain": "theguardian.com"
       },
       {
-        "title": "Scientists who put faith in technology less likely to take climate action",
-        "summary": "‘Techno-optimism’ may lead to reliance on unproven solutions at expense of societal changes neededScientists who believe technology will largely solve the problems caused by the climate crisis are less likely to engage in civic action on the issue, according to a study.The report from the London School of Economics found they are 23",
+        "title": "The generation raised on sugar rations – and what their health reveals 70 years later",
+        "summary": "From blood pressure to ageing, research suggests the first 1,000 days of sugar exposure could leave a decades-long mark on healthThey were born into a Britain still recovering from the hardships of war. Though the air-raid sirens had fallen silent, many everyday foods remained rationed, including sugar. Adults were restricted to about 3 tablespoons (40g) a day to stretch between cups of tea, baking and dess",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/2026/oct/07/scientists-technology-less-likely-climate-crisis-action",
-        "seendate": "2026-10-07T06:00:36.000Z",
+        "url": "https://www.theguardian.com/society/2026/oct/07/sugar-rations-health-blood-pressure-ageing",
+        "seendate": "2026-10-07T05:00:35.000Z",
         "domain": "theguardian.com"
       }
     ]
