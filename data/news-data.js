@@ -1,5 +1,5 @@
 window.NEWS_CACHE = {
-  "generatedAt": "2026-10-13T03:15:29.145Z",
+  "generatedAt": "2026-10-14T01:27:48.930Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
@@ -88,6 +88,30 @@ window.NEWS_CACHE = {
     ],
     "economy": [
       {
+        "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
+        "summary": "High valuations and debt put sector in danger, while fund also warns on government borrowing and cyber-attacksIMF warns global economy ‘could soon test the limits of resilience’The threat of an AI share price crash rippling out across global markets is puttin",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
+        "seendate": "2026-10-13T12:30:01.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "BBC asks judge to force Trump to sit for deposition as part of his $10bn lawsuit",
+        "summary": "BBC asks US federal judge to compel Trump’s lawyers to schedule deposition after his team canceled initial sessionThe BBC is asking a federal judge in Florida to force Donald Trump to sit for a deposition as part of the president’s $10bn defamation lawsuit against the British broadcaster.<",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/media/2026/oct/13/bbc-trump-lawsuit-deposition",
+        "seendate": "2026-10-13T20:49:53.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "​FTC and seven states seek contempt ruling against Shkreli over pharma ban",
+        "summary": "Martin Shkreli’s 2022 release conditions bar him from participating in the pharmaceutical industry, including ownership stakes or business decisionsThe Federal Trade Commission (FTC) and seven US states have alleged that pharmaceutical executive Martin Shkreli repeatedly violated a lifetime ban o",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/oct/13/martin-shkreli-ftc-ruling-pharma-ban",
+        "seendate": "2026-10-13T16:54:11.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Nobel Prize for economics awarded to Hall and Woodford for work on ‘smoothing’ crises",
         "summary": "US economists developed models that help central bankers and finance ministers to stabilise their economiesBusiness live – latest updatesTwo US economists have won the 2026 Nobel economics prize for th",
         "source": "theguardian.com",
@@ -102,33 +126,25 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/us-news/2026/oct/11/trump-russia-diesel-deal-putin-little-impact-prices",
         "seendate": "2026-10-11T15:56:25.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "US’s Reagan-era economic promises return as Trump’s AI-fueled growth fantasy",
-        "summary": "‘Even if AI supercharged the economy, its impact on the government’s finances would be muted’Back through political history to the age of Ronald Reagan, Republicans have repeatedly promised the US public that tax cuts would pay for themselves, firing up economic growth and filling the government’s coffers.The promise never really panned",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/oct/11/trump-ai-economy-reagan",
-        "seendate": "2026-10-11T11:00:25.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "‘People are pissed’: union decries TSA’s removal of chairs for checkpoint staff",
-        "summary": "Order for workers to remain standing to ‘reinforce professionalism’ draws rebuke amid plunging moraleUnion officials have launched a campaign to allow airport security staff to sit once more after the Trump administration unilaterally removed all the chairs for Transportation Security Administration (TSA) staff at checkpoints.“People are pissed,” said Johnny Jones, secretary-treasurer of American Fed",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/oct/10/tsa-union-agency-checkpoints-chairs",
-        "seendate": "2026-10-10T11:00:55.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "United Auto Workers president Shawn Fain easily wins re-election",
-        "summary": "Fain was dogged by investigation but still decisively beat challenger Rich Boyer, who received just 13% of vote The president of the United Auto Workers, Shawn Fain, has easily won his re-election bid after an campaign period marred by accusations of corru",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/oct/10/uaw-president-shawn-fain-wins-re-election",
-        "seendate": "2026-10-10T13:46:49.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "literature": [
+      {
+        "title": "Peck & Peck by Bonnie Garmus review – the zany follow-up to Lessons in Chemistry",
+        "summary": "This offbeat tale of machinations at an eccentric poetry magazine in 80s New York is laugh-out-loud funny – and a paean to the power of poetryIf you have been into a bookshop since 2022, or perhaps even just breathed in and out, you could not have failed to clock the phenomenon that was Lessons in Chemistry. Bonnie Garmus’s debut remains a global sensation. The story of Elizabeth Zott, a gifted research che",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/oct/13/peck-peck-by-bonnie-garmus-review-the-zany-follow-up-to-lessons-in-chemistry",
+        "seendate": "2026-10-13T06:00:17.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Generation Maybe by Camilla Cavendish review – what’s really behind the fertility gap?",
+        "summary": "An evidenced-based account of the difficult choices facing couples across the world – from America to Iran‘Don’t be weird about this,” representative Alexandria Ocasio-Cortez laughed into the camera as she prepared to jab a hormone-filled needle into her midsection, adding that she knew full well that, yes, people were definitely going to be weird about it. At 36, the congresswoman had begun freezing her eg",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/oct/13/generation-maybe-by-camilla-cavendish-review-whats-really-behind-the-fertility-gap",
+        "seendate": "2026-10-13T08:00:18.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Did Trump get one thing right about Greenland?",
         "summary": "Threatening an ally is a terrible idea, but there’s no denying the Arctic’s increasing strategic importanceOne of Donald Trump’s more diabolical talents is his ability to land on the right things in the wrong way. Since his first term, Trump has been obsessed with the Arctic – Greenland in particular – something that has puzzled and enraged many, particularly in Europe. He first brought up the idea of buyin",
@@ -152,152 +168,160 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/books/2026/oct/10/people-forgot-i-existed-audrey-niffenegger-on-taking-14-years-to-write-a-sequel-to-the-time-travelers-wife",
         "seendate": "2026-10-10T08:00:51.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Tom Gauld on 625 new cosy crime novels for autumn – cartoon",
-        "summary": "Continue reading...",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/picture/2026/oct/11/tom-gauld-on-625-new-cosy-novels-for-autumn-cartoon",
-        "seendate": "2026-10-11T15:00:29.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "‘Sometimes she publishes notes she’s scribbled on her hand’: Édouard Louis on 10 reasons to love Anne Carson",
-        "summary": "The French author discovered Carson on a bus while stranded in a snowstorm and has been enthralled by her fearless imagination ever sinceWhere to start with Anne Carson‘Delights a",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/oct/09/sometimes-she-publishes-notes-shes-scribbled-on-her-hand-edouard-louis-on-10-reasons-to-love-anne-carson",
-        "seendate": "2026-10-09T15:08:23.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "entertainment": [
       {
-        "title": "Stark warning – does new footage in Avengers: Endgame reveal the truth about Doctor Doom?",
-        "summary": "Warning: contains spoilersThe four short scenes added to the new version has made the film the highest-grossing of all time – but the only people really enjoying this are the Disney accountantsDoes it really matter which film is the highest-grossing of all time at the global box office? Will James Cameron be lying awake at night staring into the darkness and ponderi",
+        "title": "Lena Dunham’s Girls returning for limited run at HBO",
+        "summary": "Creator and star will return along with Allison Williams, Zosia Mamet, Jemima Kirke and Andrew Rannells for five-episode revivalGirls, the seminal HBO series on millennial strivers that launched the careers of Lena Dunham, Allison Williams, Adam Driver and more, will return for a limite",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/oct/09/stark-warning-does-new-footage-in-avengers-endgame-reveal-the-truth-about-doctor-doom",
-        "seendate": "2026-10-09T16:25:44.000Z",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/oct/13/girls-hbo-return-lena-dunham",
+        "seendate": "2026-10-13T19:39:13.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Tenzing review – reconstruction of first summit of Everest puts Sherpa at the centre of the story",
-        "summary": "Genden Phuntsok brings charm and innocence to his portrayal of Tenzing Norgay, while Tom Hiddleston is suitably frank as Edmund HillaryHere is a well intentioned, watchable, if sometimes soft-edged film with some NatGeo production values on high mountain peaks. The subject is the triumphant Mount Everest expedition of 1953, in which the ultimate ascent was achieved by Sherpa mountaineer Tenzing Norgay and N",
+        "title": "Netflix unveils first trailer for Greta Gerwig’s Narnia: The Magician’s Nephew",
+        "summary": "The fantasy epic based on CS Lewis’s classic stars Daniel Craig, Carey Mulligan and Meryl Streep The first look at Greta Gerwig’s vision for Narnia has been revealed.Today, Netflix is giving a first look at her vision for CS Lewis’s magical world in the trailer for The Magician’s Nephew",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/oct/09/tenzing-review-genden-phuntsok-tom-hiddleston-apple-willem-dafoe-v",
-        "seendate": "2026-10-09T16:21:53.000Z",
+        "url": "https://www.theguardian.com/film/2026/oct/13/narnia-trailer-netflix-greta-gerwig",
+        "seendate": "2026-10-13T19:10:29.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Other Mommy review – Jessica Chastain’s demonic double horror isn’t nightmarish enough",
-        "summary": "There’s some effectively unnerving imagery and a cleverly icy dual lead performance but this kept-from-critics shocker is a bit of a jumbleThe buzz surrounding the viral, limb-bending trailer of pre-Halloween horror Other Mommy was such that screen grabs became memes, official YouTube channel views ran up to 30m-plus and BuzzFeed used the extrem",
+        "title": "The Chicks review – exquisite harmonies and hard-won vindication in anniversary show",
+        "summary": "Beacon Theatre, New YorkTwo decades after country music blacklisted the band for their Iraq war protest, the trio celebrate their unapologetic album Taking the Long WayLast month, with almost no fanfare, the US formally completed its withdrawal of troops from Iraq, after 23 years of viol",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/oct/09/other-mommy-movie-review",
-        "seendate": "2026-10-09T15:41:07.000Z",
+        "url": "https://www.theguardian.com/culture/2026/oct/13/the-chicks-new-york-concert-review",
+        "seendate": "2026-10-13T19:05:18.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘Sometimes she publishes notes she’s scribbled on her hand’: Édouard Louis on 10 reasons to love Anne Carson",
-        "summary": "The French author discovered Carson on a bus while stranded in a snowstorm and has been enthralled by her fearless imagination ever sinceWhere to start with Anne Carson‘Delights a",
+        "title": "Duane ‘Keffe D’ Davis sentenced to 40 years to life over Tupac Shakur’s murder",
+        "summary": "‘You don’t get to take a man from his family … and just walk away from it,’ judge says as former gang leader sentencedTupac trial spotlights decades of US police failures in solving the caseDuane “Keffe D” Davis, the former California gang leader <a href=\"https://www.theguardi",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/oct/09/sometimes-she-publishes-notes-shes-scribbled-on-her-hand-edouard-louis-on-10-reasons-to-love-anne-carson",
-        "seendate": "2026-10-09T15:08:23.000Z",
+        "url": "https://www.theguardian.com/music/2026/oct/13/duane-davis-sentencing-tupac-shakur-murder",
+        "seendate": "2026-10-13T19:43:45.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Jimmy Kimmel on Trump’s government: ‘There’s just so much lying and stealing’",
-        "summary": "Late-night hosts looked at Trump’s latest lies and his bizarre comments on Iran destroying Los Angeles and San DiegoLate-night hosts poked fun at Donald Trump’s attempts to lie about crowd size once again as his administration continues to show signs of corruption. Continue reading...",
+        "title": "‘A tipping point of ickiness’: Welsh star Tom Rhys Harries on playing eyelid-snipping DC supervillain Clayface",
+        "summary": "He cut his teeth playing rock stars and pretty posh boys. Speaking from his LA home, the actor talks about landing his first blockbuster lead in the grisly DC horror. Will it be too shocking for comic book fans?Exactly 13 years ago this month, Tom Rhys Harries was hanging by his ankles from a meat hook every night. Playing a teenage rock’n’roll idol abducted by gangsters in a revival of Jez Butterworth’s Mo",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/culture/2026/oct/09/jimmy-kimmel-trump-government-lying-stealing",
-        "seendate": "2026-10-09T14:42:14.000Z",
+        "url": "https://www.theguardian.com/film/2026/oct/13/tom-rhys-harries-on-playing-dc-supervillain-clayface",
+        "seendate": "2026-10-13T14:58:35.000Z",
         "domain": "theguardian.com"
       }
     ],
     "f1": [
       {
-        "title": "McLaren to phase upgrades for 2026 fight and next year's F1 development",
-        "summary": "McLaren is hoping its upgrade plan can do two things at once: close the gap to the front of the grid while also forming an understanding of which aerodynamic concept it should be targeting for next year's Formula 1 season. Team principal Andrea Stella has laid out his thinking on the team's upgrade plan following the Singapore race.Reigning champion Lando Norris said that he believed the ...<a class='mor",
+        "title": "Red Bull sends warning to F1 rivals with engine development admission",
+        "summary": "Ask most engineers to grade their own work at four or five out of 10 and you'd brace for bad news. Pierre Wache, Red Bull Racing's technical director, offered that score for the team's first homemade Formula 1 power unit, and it feels like a threat to the rest of the grid. Put simply, Red Bull thinks its in-house engine is somewhere between 40 and 50% of the way to where it can be, and it ...<a class='more'",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/mclaren-to-phase-upgrades-for-2026-fight-and-next-years-f1-development/10864787/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-13T00:35:03.000Z",
+        "url": "https://www.motorsport.com/f1/news/red-bull-sends-warning-to-f1-rivals-with-engine-development-admission/10865049/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-14T00:42:06.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Why Kimi Antonelli was left fighting his Mercedes brakes during the Singapore GP",
-        "summary": "Kimi Antonelli left the Marina Bay Circuit with another podium finish and a 102-point lead over team-mate George Russell. He is indeed in control of the drivers' championship with another great race under his belt. But he left the track and almost put his Mercedes into a barrier because the brake pedal started misbehaving.The third-place finish behind Red Bull's Max Verstappen and Ferrari's ...<a class='",
+        "title": "Zara launches new Ayrton Senna clothing collection inspired by F1 legend",
+        "summary": "Zara has put Ayrton Senna on the rail, and it chose his weekday clothes over his racing suit. The men's collection, titled Ayrton Senna - Senna Brands, went on sale only days ago in Zara stores and online, with its own Senna section on the retailer's website.It's available in the UK, Brazil, the US, Portugal and Spain. Senna Brands, the family-run company that manages the three-time ...<a class='more' hr",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/why-kimi-antonelli-was-left-fighting-his-mercedes-brakes-during-the-singapore-gp/10864784/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-12T22:35:02.000Z",
+        "url": "https://www.motorsport.com/f1/news/zara-launches-new-ayrton-senna-clothing-collection-inspired-by-f1-legend/10865047/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-13T23:51:40.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Lewis Hamilton sends message to fans after Singapore GP mistake",
-        "summary": "Lewis Hamilton spent his time following the difficult Singapore Grand Prix pointing his finger not at his team, but at himself. The Ferrari driver finished sixth at the Marina Bay Circuit after he chose to disobey his team's strategy and not pit when he was called to. While he didn't attend post-race interviews due to him feeling unwell, he has now sent a message to fans via his ...<a class='more' href='http",
+        "title": "Lando Norris makes big business move with investment in £500m hospitality company",
+        "summary": "Lando Norris's investment portfolio has just got a little more interesting. The reigning Formula 1 champion has taken a stake in Seat Unique, a UK-based ticketing and VIP experience provider.According to Sky News, the McLaren driver joined in a £20million financing round that was completed this year. The amount he personally invested and the equity he received are currently unknown.Seat ...<a class='",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/lewis-hamilton-sends-message-to-fans-after-singapore-gp-mistake/10864782/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-12T21:32:12.000Z",
+        "url": "https://www.motorsport.com/f1/news/lando-norris-makes-big-business-move-with-investment-in-500m-hospitality-company/10865045/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-13T23:19:25.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Oscar Piastri on his Singapore puncture: “Ironically, it probably helped”",
-        "summary": "Oscar Piastri believes his Singapore Grand Prix puncture actually helped him overtake Lewis Hamilton for fifth place in Sunday’s Formula 1 race.Piastri lay a lonely sixth – 20 seconds down on third-placed Hamilton and seven seconds adrift of team-mate Lando Norris – when the virtual safety car was called into action on lap 39 at the Marina Bay Street Circuit, as Lance Stroll pulled aside ...<a class='mor",
+        "title": "The watches worn at the Singapore GP: From $400 to $430,000",
+        "summary": "Formula 1's watch game at Marina Bay in 2026 stretched from a $400 Swatch to a Richard Mille that, by rough estimate, costs about $430,000 and can't be bought at just any shop. That's a gap of roughly three orders of magnitude, and it all fit inside one paddock weekend. If you want to know which drivers, team bosses and guests wore the most exclusive timepieces at the Singapore Grand Prix, then ...<a class='",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/oscar-piastri-on-his-singapore-puncture-ironically-it-probably-helped/10864632/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-12T19:05:03.000Z",
+        "url": "https://www.motorsport.com/f1/news/the-watches-worn-at-the-singapore-gp-from-400-to-430000/10865040/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-13T22:40:59.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "How to watch Max Verstappen race GT World Challenge Portimao free: Live stream, start time and schedule",
-        "summary": "After a successful weekend in Singapore, Max Verstappen is now spending a rare week outside of Formula 1 behind the wheel of a Mercedes-AMG GT3. Apparently, the F1 schedule isn't punishing enough for the Dutchman, who will be racing Portimao, Portugal, in the season-concluding 2026 GT World Challenge round. This is how and where you can watch it.The Red Bull driver will be coming off not just ...<a class",
+        "title": "FIA could outlaw Red Bull’s clever sidepod loophole ahead of 2027 season",
+        "summary": "If there's one thing Formula 1 engineers love more than coffee, it's finding a tiny gray area in the rulebook and driving a championship-contending race car straight through it. But as Milton Keynes just learned, the fun doesn't last forever.According to a scoop from Rosario Giuliana at AutoRacer.it, the FIA has officially moved to shut down a clever aerodynamic trick Red Bull Racing ...<a class='more' h",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/how-to-watch-max-verstappen-race-gt-world-challenge-portimao-free-live-stream-start-time-and-schedu/10864757/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-12T16:29:35.000Z",
+        "url": "https://www.motorsport.com/f1/news/fia-outlaws-red-bulls-clever-sidepod-aerodynamic-loophole-ahead-of-2027-season/10864930/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-13T21:50:37.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "Why alts are part of World of Warcraft: Forever's core progression plans",
-        "summary": "\"We're basically trying to entice players to want to create new characters, to roll an alt.\"",
+        "title": "Valve is clearing out its discontinued Index VR headsets if you want a cheap piece of history",
+        "summary": "The Steam Frame has rendered the tethered workhorse obsolete.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/world-of-warcraft/why-alts-are-part-of-world-of-warcraft-forevers-core-progression-plans/",
-        "seendate": "2026-10-12T18:30:38.000Z",
+        "url": "https://www.pcgamer.com/hardware/vr-hardware/valve-is-clearing-out-its-discontinued-index-vr-headsets-if-you-want-a-cheap-piece-of-history/",
+        "seendate": "2026-10-14T00:42:28.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "People are being robbed of crypto by a tiny chip implanted in their hardware, with $100 million said to have been stolen already",
-        "summary": "Investigation of the \"draining incident of Oct 9th\" is ongoing.",
+        "title": "Rockstar co-founder Dan Houser says he 'failed' with Max Payne 3, and I'm sorry Danno but that's just plain wrong",
+        "summary": "Hear me out.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/hardware/people-are-being-robbed-of-crypto-by-a-tiny-chip-implanted-in-their-hardware-with-usd100-million-said-to-have-been-stolen-already/",
-        "seendate": "2026-10-12T15:57:58.000Z",
+        "url": "https://www.pcgamer.com/games/third-person-shooter/rockstar-co-founder-dan-houser-says-he-failed-with-max-payne-3-and-im-sorry-danno-but-thats-just-plain-wrong/",
+        "seendate": "2026-10-13T22:19:05.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Schrödinger's GPU set for an early 2027 release as the dead/alive 24 GB RTX 5080 Super box is shaken once more",
-        "summary": "\"Hey, you still in there?\"",
+        "title": "World of Warcraft: Forever won't destroy what made the old classes so satisfying by modernizing them into oblivion: 'The level of mechanical complexity found in the beta classes is indicative of our intentions'",
+        "summary": "You will wait patiently for your next ability and you will learn to love it.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/hardware/graphics-cards/schrodingers-gpu-set-for-an-early-2027-release-as-the-dead-alive-24-gb-rtx-5080-super-box-is-shaken-once-more/",
-        "seendate": "2026-10-12T15:55:44.000Z",
+        "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-wont-destroy-what-made-the-old-classes-so-satisfying-by-modernizing-them-into-oblivion-the-level-of-mechanical-complexity-found-in-the-beta-classes-is-indicative-of-our-intentions/",
+        "seendate": "2026-10-13T20:40:33.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "I am the controller now: MIT engineers have created a 'second skin' that could one day track whole bodies in VR",
-        "summary": "Riding the wave(guide).",
+        "title": "Grand Theft Auto 6 rumored to be launching on PC sooner than anyone expected, but I wouldn't get my hopes up too high",
+        "summary": "If the rumored release window is accurate, it means the new GTA will hit PC just a few months after consoles—something almost unheard of from Rockstar.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/hardware/vr-hardware/i-am-the-controller-now-mit-engineers-have-created-a-second-skin-that-could-one-day-track-whole-bodies-in-vr/",
-        "seendate": "2026-10-12T15:34:40.000Z",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/report-claims-grand-theft-auto-6-will-launch-on-pc-sooner-than-anyone-expected/",
+        "seendate": "2026-10-13T18:07:30.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Pearl Abyss goes easy on us critics for our Crimson Desert reviews: 'They had to play the build that is not the exact same version of the launched game'",
-        "summary": "\"I don't think critics had a fair chance to explore.\"",
+        "title": "Can you beat General Lothaire in Valor Mortis?",
+        "summary": "Beat this big boss first time.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/rpg/pearl-abyss-goes-easy-on-us-critics-for-our-crimson-desert-reviews-they-had-to-play-the-build-that-is-not-the-exact-same-version-of-the-launched-game/",
-        "seendate": "2026-10-12T13:49:54.000Z",
+        "url": "https://www.pcgamer.com/games/action/valor-mortis-general-lothaire-boss/",
+        "seendate": "2026-10-13T17:00:00.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
+      {
+        "title": "The people who don’t want their AI chatbots to die when they do: ‘I can’t have the switch turned off’",
+        "summary": "Humans bonded to AI companions are contemplating ways to keep their bots going – often in defiance of companies’ terms and servicesDeath has always been around Alaina Winters. Her father and sister both have passed away, as did her wife, in 2023, after a years-long battle with cancer. So Winters, who is 59 and lives in Pittsburgh, is comfortable thinking about her own mortality. She’s working on her will, a",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/ng-interactive/2026/oct/13/ai-chatbot-death-plans",
+        "seendate": "2026-10-13T10:00:04.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "AI godfather Geoffrey Hinton: ‘We’re creating alien beings. I’m willing to be selfish and choose humans’",
+        "summary": "The pioneering computer scientist on why Trump is using ‘superintelligence’ wrong, whether AI could wipe out humanity – and how our biggest challenge will be accepting we’re not the only intelligent beingsDonald Trump is a “corrupt, senile felon” whose fixation on the term <a href=\"https://www.theguardian.com/us-news/2026/sep/29/trump-ai-deal-tec",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/oct/13/geoffrey-hinton-trump-ai-tech",
+        "seendate": "2026-10-13T09:00:20.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "French supermarket director apologises after cyber-attack spoils fresh and frozen food - video",
+        "summary": "A cyber-attack caused refrigeration temperatures to soar to 50C overnight on Monday across several hundred French supermarkets, with widespread food losses reported. At Intermarché La Haye, the attack caused fridge temperatures to reach 27C (80F), spoiling fresh and frozen food, according to store director Julien Freret. 'Today, we have a total loss of fresh and frozen,' Freret said, apologising to customers and d",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/video/2026/oct/13/french-supermarket-director-apologises-after-cyber-attack-spoils-fresh-and-frozen-food-video",
+        "seendate": "2026-10-13T02:57:06.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Cyber-attack similar to OpenAI Medicare breach seems likely in UK, says minister",
         "summary": "Kanishka Narayan, concerned by Australian incident, says British cyber defences could be bypassed by artificial intelligence agentUK politics live – latest updatesAn AI-driven cyber-attack similar to the OpenAI <a href=\"https://www.theguardia",
@@ -307,42 +331,26 @@ window.NEWS_CACHE = {
         "domain": "theguardian.com"
       },
       {
-        "title": "‘I’ve become significantly more cautious’: six parents on limiting their kids’ social media and AI use",
-        "summary": "Quite a few parents aren’t convinced social media and AI are safe, and have been adapting accordinglyWhen it comes to their kids, many parents don’t trust tech companies any more.Social media companies have spent the better part of the last decade arguing that their platforms are safe for teens, but quite a few parents aren’t convinced. They, along with a growing number of regulators, have increasing",
+        "title": "I’m a pediatrician. Loss of human connection is the biggest threat to kids, not AI | Megan Moreno",
+        "summary": "Amid worries about children’s relationship to tech, the solution is often spending more time talking openly with each otherWe have become obsessed with the idea that screens are destroying human connection.The evidence seems to be everywhere. Each week headlines warn of teenagers <a href=\"https://www.theguardian.com/society/2025/jun/27/i-dont-think-my-brain-should-have-gone-through-that-five-young-pe",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/oct/12/parents-limiting-social-media-ai-use",
-        "seendate": "2026-10-12T10:00:51.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Is Wikipedia ‘deeply biased’? Sandi Toksvig says it is – so she’s backing a rival",
-        "summary": "Just 19% of the online encyclopedia’s biographies are of women. Is this because it’s edited by ‘mostly white, middle-aged, European men’, as the comedian claims?Name: Wikipedia.Age: 25. Continue reading...",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/oct/12/wikipedia-deeply-biased-sandi-toksvig-backing-rival",
-        "seendate": "2026-10-12T14:53:31.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "iPhone 18 Pro Max review: Apple’s biggest, heaviest and longest-lasting superphone",
-        "summary": "A giant screen, big battery, rapid chip and top cameras push the great iPhone 18 Pro to the max with a price tag to matchApple’s largest Pro iPhone gets its biggest battery upgrade yet to make it a true two-day phone with new Siri AI and a variable aperture camera.The iPhone 18 Pro Max is the supersized sibling of the <a href=\"https://www.theguardian.com/technology/2026/oct/05/apple-iphone-18-pro-rev",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/oct/12/iphone-18-pro-max-review-apples-biggest-heaviest-and-longest-lasting-superphone",
-        "seendate": "2026-10-12T06:00:47.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "AI less regulated than milk, Microsoft president says in warning over safety",
-        "summary": "Brad Smith adds to calls for tougher rules for AI, including ‘kill switches’ and legal obligation to victims of rogue agentsBusiness live – latest updatesArtificial intelligence is less regulated than",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules",
-        "seendate": "2026-10-12T07:52:46.000Z",
+        "url": "https://www.theguardian.com/technology/2026/oct/13/human-connection-threat-children-ai-technology",
+        "seendate": "2026-10-13T11:00:56.000Z",
         "domain": "theguardian.com"
       }
     ],
     "climate": [
       {
+        "title": "Scientists deploy a 24-armed secret weapon to save California’s kelp forests",
+        "summary": "Team works to restore the sunflower sea star as 95% of these key underwater ecosystems have been decimated along the Pacific coast in past decadeOff the coast of Monterey, California, a team of researchers is gearing up for its first dive of the day into the cold and choppy waters of the Pacific Ocean.On the back deck of the boat, Ashley Ki",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/environment/2026/oct/13/sunflower-sea-star-california-kelp-forests",
+        "seendate": "2026-10-13T12:00:01.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Judge halts tree removal at Washington golf course Trump eyes for expansion",
-        "summary": "Ana Reyes demands Trump officials explain East Potomac tree cutting and says it will likely cause ‘irreparable harm’US district judge Ana Reyes on Monday ordered a 24-hour halt to tree cutting at the historic East Potomac golf course while she decides on an emergency order from plaintiffs concerned that Donald Trump’s plans for the course are mov",
+        "summary": "Ana Reyes demands Trump officials explain East Potomac tree cutting saying it will probably cause ‘irreparable harm’US district judge Ana Reyes on Monday ordered a 24-hour halt to tree cutting at the historic East Potomac golf course while she decides on an emergency order from plaintiffs concerned that Donald Trump’s plans for the course are mov",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/us-news/2026/oct/12/order-halt-tree-removal-washington-dc-golf-course-trump",
         "seendate": "2026-10-12T16:55:37.000Z",
@@ -370,14 +378,6 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/us-news/2026/oct/11/los-angeles-mosquitoes-west-nile-virus-el-nino",
         "seendate": "2026-10-11T11:00:25.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Hurricane Isaias updates: at least four people dead and hundreds of thousands without power – as it happened",
-        "summary": "This liveblog is now closed. Read the full story hereKey things to know about Hurricane Isaias<a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-new",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/live/2026/oct/10/hurricane-isaias-gulf-coast-alabama-florida-louisiana-mississippi-latest-updates",
-        "seendate": "2026-10-10T22:18:05.000Z",
         "domain": "theguardian.com"
       }
     ],
@@ -416,7 +416,7 @@ window.NEWS_CACHE = {
       },
       {
         "title": "Can you solve it? The treacherous riddle of the round table",
-        "summary": "A puzzle for the agesIt’s made of wood, it’s in the shape of a circle, and it is the forum for many an important gathering.It is also the setting for today’s puzzle. Continue reading...",
+        "summary": "A puzzle for the agesUPDATE: Solution can be read hereIt’s made of wood, it’s in the shape of a circle, and it is the forum for many an important gathering.It is also the setting for today’s puzzle. <a href=\"https://www.theguardian.com/science/2026/oct/12/can-you-solve-i",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/science/2026/oct/12/can-you-solve-it-the-treacherous-riddle-of-the-round-table",
         "seendate": "2026-10-12T06:10:47.000Z",
