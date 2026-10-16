@@ -1,8 +1,16 @@
 {
-  "generatedAt": "2026-10-15T01:03:00.854Z",
+  "generatedAt": "2026-10-16T00:52:38.374Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
+      {
+        "title": "LGBTQ+ people go into hiding in Senegal as hundreds are arrested",
+        "summary": "At least 320 people detained for ‘acts against nature’ after law criminalising homosexuality toughened, HRW reportsMass arrests, forced HIV testing and barriers to legal representation are part of an escalating crackdown against LGBTQ+ people in Senegal, according to a new report.More than 320 indi",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch",
+        "seendate": "2026-10-15T08:00:25.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Zimbabwean author Simbarashe Kundizeza denies using AI to write prize-winning story",
         "summary": "Article in Atlantic claims The Blue Fighter was artificially generated, days after it won Caine prize for African writersThe Zimbabwean writer Simbarashe Kundizeza has denied using AI to write a prize-winning short story after an article in the Atlantic said software had flagged it as almost completely AI-generated.Kundizeza’s story <a href=\"https://static1.squarespace.com/static/6a4f3fb6a6178e0225b3",
@@ -33,19 +41,19 @@
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
         "seendate": "2026-10-09T16:30:09.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Isaias strengthens to become first Atlantic hurricane of 2026 season",
-        "summary": "Storm expected to make landfall on US’s northern Gulf coast with risk of flash floods and isolated river floodingIsaias has become the first Atlantic hurricane of the 2026 season, with wind speeds of 80mph and a minimum pressure of 975mb. It is expected to strengthen to a category 2 hurricane as it approaches the US’s northern Gulf coast on Friday, according to the National Oceanic and Atmospheric Administr",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/2026/oct/09/isaias-strengthens-first-atlantic-hurricane-2026",
-        "seendate": "2026-10-09T09:59:06.000Z",
         "domain": "theguardian.com"
       }
     ],
     "conflict": [
       {
+        "title": "LGBTQ+ people go into hiding in Senegal as hundreds are arrested",
+        "summary": "At least 320 people detained for ‘acts against nature’ after law criminalising homosexuality toughened, HRW reportsMass arrests, forced HIV testing and barriers to legal representation are part of an escalating crackdown against LGBTQ+ people in Senegal, according to a new report.More than 320 indi",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch",
+        "seendate": "2026-10-15T08:00:25.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Zimbabwean author Simbarashe Kundizeza denies using AI to write prize-winning story",
         "summary": "Article in Atlantic claims The Blue Fighter was artificially generated, days after it won Caine prize for African writersThe Zimbabwean writer Simbarashe Kundizeza has denied using AI to write a prize-winning short story after an article in the Atlantic said software had flagged it as almost completely AI-generated.Kundizeza’s story <a href=\"https://static1.squarespace.com/static/6a4f3fb6a6178e0225b3",
         "source": "theguardian.com",
@@ -76,266 +84,258 @@
         "url": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
         "seendate": "2026-10-09T16:30:09.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Isaias strengthens to become first Atlantic hurricane of 2026 season",
-        "summary": "Storm expected to make landfall on US’s northern Gulf coast with risk of flash floods and isolated river floodingIsaias has become the first Atlantic hurricane of the 2026 season, with wind speeds of 80mph and a minimum pressure of 975mb. It is expected to strengthen to a category 2 hurricane as it approaches the US’s northern Gulf coast on Friday, according to the National Oceanic and Atmospheric Administr",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/2026/oct/09/isaias-strengthens-first-atlantic-hurricane-2026",
-        "seendate": "2026-10-09T09:59:06.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "economy": [
       {
-        "title": "US inflation rose to 3.7% in September in blow to Republicans before midterms",
-        "summary": "Final inflation report before voters go to polls comes amid widespread anger over cost of living under TrumpSend us your questions on how the US economy is shaping the midterm electionsRepublicans are entering the midterm elec",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/oct/14/inflation-numbers-september",
-        "seendate": "2026-10-14T14:29:42.000Z",
-        "domain": "theguardian.com"
+        "title": "  Canada is worth fighting for : Prime Minister Mark Carney rallies pro - Canada support in Calgary ahead of Monday referendum",
+        "summary": "",
+        "source": "edmontonjournal.com",
+        "url": "https://edmontonjournal.com:443/news/mark-carney-touches-down-in-calgary/wcm/c38f861a-1100-493e-9523-fede1444bc9a",
+        "seendate": "20261016T003000Z",
+        "domain": "edmontonjournal.com"
       },
       {
-        "title": "Bank of America fined $1.2bn for money-laundering failures",
-        "summary": "Third-largest fine in US treasury’s history, due to failure to report suspicious activity, may affect third-quarter earningsBank of America (BAC.N), has been fined $1.21bn by US regulators for widespread failures to detect ‌potential money laundering and other illicit activity, a penalty the bank said will hurt third-quarter earnings.",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/oct/14/bank-of-america-fined-money-laundering",
-        "seendate": "2026-10-14T11:54:29.000Z",
-        "domain": "theguardian.com"
+        "title": "B . C . Conservatives maintaining two - point lead less than two weeks from provincial election : poll",
+        "summary": "",
+        "source": "theprovince.com",
+        "url": "https://theprovince.com/news/canada/b-c-conservatives-two-point-lead-election-poll/wcm/88030b24-6acb-4d5b-bf7e-7cb5a8bc8e74",
+        "seendate": "20261016T003000Z",
+        "domain": "theprovince.com"
       },
       {
-        "title": "Judge extends White House access to banned media outlets CNN, MS Now and Politico",
-        "summary": "District court judge Timothy Kelly was ruling after Trump administration blocked access to three outlets last monthA federal judge ordered the White House on Tuesday to continue allowing journalists from CNN, MS Now and Politico to access the building as the media coalition’s lawsuit against the Trump administration plays out.Timothy Kelly, a district court judge, had on 24 September <a href=\"https:/",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/oct/14/white-house-media-ban-lifted-cnn-msnow-politico",
-        "seendate": "2026-10-14T04:34:29.000Z",
-        "domain": "theguardian.com"
+        "title": "Singapore Stock Market Poised To Open In The Green",
+        "summary": "The Singapore stock market has finished lower in back-to-back sessions, slumping almost 30 points or 0.6 percent in that span. The STI now sits just above the 5,400-point plateau although it may halt its slide on Friday.",
+        "source": "rttnews.com",
+        "url": "https://www.rttnews.com/story.aspx?Id=3699554",
+        "seendate": "20261016T003000Z",
+        "domain": "rttnews.com"
       },
       {
-        "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
-        "summary": "High valuations and debt put sector in danger, while fund also warns on government borrowing and cyber-attacksIMF warns global economy ‘could soon test the limits of resilience’The threat of an AI share price crash rippling out across global markets is puttin",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
-        "seendate": "2026-10-13T12:30:01.000Z",
-        "domain": "theguardian.com"
+        "title": "  Heavy distraction stalling Greater Vancouver housing market : report",
+        "summary": "",
+        "source": "theprovince.com",
+        "url": "https://theprovince.com/news/heavy-distractions-stalling-greater-vancouver-bc-housing-market-report/wcm/598274b7-d475-4baa-ab4e-df580d9b4be7",
+        "seendate": "20261016T003000Z",
+        "domain": "theprovince.com"
       },
       {
-        "title": "BBC asks judge to force Trump to sit for deposition as part of his $10bn lawsuit",
-        "summary": "BBC asks US federal judge to compel Trump’s lawyers to schedule deposition after his team canceled initial sessionThe BBC is asking a federal judge in Florida to force Donald Trump to sit for a deposition as part of the president’s $10bn defamation lawsuit against the British broadcaster.<",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/media/2026/oct/13/bbc-trump-lawsuit-deposition",
-        "seendate": "2026-10-13T20:49:53.000Z",
-        "domain": "theguardian.com"
+        "title": "What Woodlands County heard from locals about special events rules",
+        "summary": "",
+        "source": "fortmcmurraytoday.com",
+        "url": "https://www.fortmcmurraytoday.com:443/news/local-news/what-woodlands-county-heard-about-special-events",
+        "seendate": "20261016T003000Z",
+        "domain": "fortmcmurraytoday.com"
       }
     ],
     "literature": [
       {
-        "title": "The best books to read in October: new paperbacks from Zadie Smith, Thomas Pynchon and Francis Spufford",
-        "summary": "Looking for a new reading recommendation? Here are some brilliant new paperbacks, from a time-travelling fantasy novel to an eclectic essay collection*** Continue reading...",
+        "title": "Lee Child backs launch of reading scheme to send prisons half a million books",
+        "summary": "The Jack Reacher author, the UK’s first prison reading laureate, said drive to improve literacy skills was a practical way to address reoffending and support rehabilitationNearly half a million books will be distributed across prisons in England, Wales, Scotland and Northern Ireland this autumn, in a campaign backed by bestselling thriller writer Lee Child.The initiative, delivered by the Reading Age",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/ng-interactive/2026/oct/14/the-best-books-to-read-in-october-new-paperbacks-from-zadie-smith-thomas-pynchon-and-francis-spufford",
-        "seendate": "2026-10-14T14:32:23.000Z",
+        "url": "https://www.theguardian.com/books/2026/oct/16/lee-child-backs-launch-of-reading-scheme-to-send-prisons-half-a-million-books",
+        "seendate": "2026-10-15T23:01:44.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Sally Rooney says she can no longer sell books in UK due to Palestine Action support",
-        "summary": "Irish writer of Normal People says she can no longer receive royalties from British sales and she cancelled UK trip due to fear of arrestSally Rooney has said she is being forced to withdraw her books from sale in the UK because of her support for the banned organisation Palestine Action.The Irish novelist, whose books include Normal People and Conversations With Friends, said her public support for",
+        "title": "Sally Rooney’s stand on Palestine is brave and humane",
+        "summary": "The Normal People author’s determination to support Palestine Action, even if it means that her books are withdrawn from sale in the UK, makes a mockery of Britain’s terrorism lawsIt’s hard to think of a published author in living memory who risked arrest in the UK for their political beliefs, hard to think of one whose books could be published anywhere but here. Sally Rooney went into this debacle with her",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/uk-news/2026/oct/14/sally-rooney-says-she-can-no-longer-sell-books-in-the-uk-because-of-palestine-action-support",
-        "seendate": "2026-10-14T16:06:42.000Z",
+        "url": "https://www.theguardian.com/books/2026/oct/15/sally-rooneys-stand-on-palestine-is-brave-and-humane",
+        "seendate": "2026-10-15T10:56:22.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "The Steps by Sylvester Stallone review – the inside story of Rocky",
-        "summary": "The star takes us back to 70s New York to recount his breakthrough, and it’s a great yarn – but it’s laced with angerThe Philadelphia Museum of Art&nbsp;contains a 14th-century Buddhist temple, a one-acre sculpture garden and works by Picasso, Renoir and Van Gogh. Its most&nbsp;famous attraction, however, is&nbsp;a&nbsp;flight of stone steps that draws several million tourists every year. These are the so-c",
+        "title": "The Floating World by Ben Eastham review – a compelling debut of art’s relation to money and power",
+        "summary": "Following the death of his wife, a critic-teacher takes a job with an art-washing multinational, in a cinematic novel that is full of ideasAt the end of a night in a London pub, after last orders have been called, three friends are joking about what role they’d serve on a remote desert island, with no one but their fellow plane crash survivors for company. When one of them, an art critic turned reluctant sc",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/oct/14/the-steps-by-sylvester-stallone-review-the-inside-story-of-rocky",
-        "seendate": "2026-10-14T06:00:47.000Z",
+        "url": "https://www.theguardian.com/books/2026/oct/15/the-floating-world-by-ben-eastham-review-a-compelling-debut-of-arts-relation-to-money-and-power",
+        "seendate": "2026-10-15T06:00:24.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Ply by Hernan Diaz review – Pulitzer winner’s dry vision of far-future America",
-        "summary": "There are shades of JG Ballard in this tale of survival in a decaying metropolis, but big ideas and lengthy exposition crowd out the human dramaHernan Diaz’s last novel, the formally inventive Trust, narrated the biography of a successful financier from four different viewpoints t",
+        "title": "Vermeer by Andrew Graham-Dixon audiobook review – a sharp and authoritative guide",
+        "summary": "The author offers intriguing insights into the way this Dutch artist worked, including fresh perspectives on The Girl With the Pearl EarringIn the decades after the death of the Dutch artist Johannes Vermeer in 1675, few knew his name or work. He was so unknown that his paintings were sold with the forged signatures of more popular artists attached. All that changed in the mid-19th century, when his art was",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/oct/14/ply-by-hernan-diaz-review-pulitzer-winners-dry-vision-of-far-future-america",
-        "seendate": "2026-10-14T08:00:48.000Z",
+        "url": "https://www.theguardian.com/books/2026/oct/15/vermeer-by-andrew-graham-dixon-audiobook-review-a-sharp-and-authoritative-guide",
+        "seendate": "2026-10-15T14:00:14.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Peck & Peck by Bonnie Garmus review – the zany follow-up to Lessons in Chemistry",
-        "summary": "This offbeat tale of machinations at an eccentric poetry magazine in 80s New York is laugh-out-loud funny – and a paean to the power of poetryIf you have been into a bookshop since 2022, or perhaps even just breathed in and out, you could not have failed to clock the phenomenon that was Lessons in Chemistry. Bonnie Garmus’s debut remains a global sensation. The story of Elizabeth Zott, a gifted research che",
+        "title": "Zimbabwean author Simbarashe Kundizeza denies using AI to write prize-winning story",
+        "summary": "Article in Atlantic claims The Blue Fighter was artificially generated, days after it won Caine prize for African writersThe Zimbabwean writer Simbarashe Kundizeza has denied using AI to write a prize-winning short story after an article in the Atlantic said software had flagged it as almost completely AI-generated.Kundizeza’s story <a href=\"https://static1.squarespace.com/static/6a4f3fb6a6178e0225b3",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/oct/13/peck-peck-by-bonnie-garmus-review-the-zany-follow-up-to-lessons-in-chemistry",
-        "seendate": "2026-10-13T06:00:17.000Z",
+        "url": "https://www.theguardian.com/technology/2026/oct/14/zimbabwean-author-simbarashe-kundizeza-denies-ai-story",
+        "seendate": "2026-10-14T19:01:29.000Z",
         "domain": "theguardian.com"
       }
     ],
     "entertainment": [
       {
-        "title": "Girls is back: why it’s the perfect time for more of Lena Dunham’s millennial Sex and the City",
-        "summary": "HBO’s era-defining comedy is set for a new five-episode series. Its bleakness and warmth couldn’t be more welcomeIt’s a pop culture emergency. A millennial-quake that shook my social feed to its core. Girls, the HBO show that stole the zeitgeist in the early Instagram era and made Lena Dunh",
+        "title": "Klara and the Sun review – Taika Waititi’s manic pixie dream robot sci-fi is a sentimental mess",
+        "summary": "The director of Hunt for the Wilderpeople and Jojo Rabbit turns Kazuo Ishiguro’s AI fable into a twee, tiresome tale of love and griefTaika Waititi detonates an explosion of postmodern quirkiness and ironic dorkiness in this unbearably mannered, unspeakably acted film. It’s a slice of sentimental whimsy-futurism and non-satire, adapted by Waititi from the Kazuo Ishiguro novel, which winds up saying nothing",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/oct/14/girls-reboot-hbo",
-        "seendate": "2026-10-14T14:56:45.000Z",
+        "url": "https://www.theguardian.com/film/2026/oct/15/klara-and-the-sun-review-taika-waititi-kazuo-ishiguro",
+        "seendate": "2026-10-15T20:15:40.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Jimmy Kimmel on Trump’s new press secretary: ‘Her reading is good for an 11-year-old’",
-        "summary": "The host roasted Katie Zacharia after her awkward and confusing first press conferenceJimmy Kimmel reacted to the disastrous first day at work of the new White House press secretary, Katie Zacharia.",
+        "title": "Street Fighter review – nostalgia only goes so far in junky fighting game movie",
+        "summary": "There are brief, simple pleasures in the inevitable new big screen take on the classic game but like the recent Mortal Kombat movies, it’s a largely incoherent messWe just had Resident Evil, Zach Cregger’s giddy, nasty, devilishly fun spin on Capcom’s popular zombie franchise. It gave us renewed hope (after Sonic th",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/culture/2026/oct/14/jimmy-kimmel-press-secretary-katie-zacharia-trump",
-        "seendate": "2026-10-14T14:36:31.000Z",
+        "url": "https://www.theguardian.com/film/2026/oct/15/street-fighter-movie-review",
+        "seendate": "2026-10-15T16:00:35.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘I must continue until I die’: inside the fight to bring Iran’s thriving art scene to the world",
-        "summary": "Amid economic sanctions and ongoing conflict, a new initiative is returning Iran’s artists to the international spotlightWhen the call came early one morning, Tehran resident Elham Issari knew it must be urgent. The voice on the line was offering something precious. “Miss Elham,” he said excitedly, “I have a single tube of white paint! It’s o",
+        "title": "‘Stranger than stranger-than-fiction’: how Lance Oppenheim made the year’s two buzziest films",
+        "summary": "Primetime and You Can See Everything are both clammy, audacious awards contenders that challenge our sense of reality. Ahead of the release of his drama starring Robert Pattinson as a TV vigilante, the 30-year-old director talks crime, punishment and South ParkTo direct one movie that is on everyone’s lips in awards season is remarkable. To make two begins to look like sorcery. That is the position in which",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/artanddesign/2026/oct/14/iran-art-scene-continuum-dario-duran-interview",
-        "seendate": "2026-10-14T14:00:05.000Z",
+        "url": "https://www.theguardian.com/film/2026/oct/15/stranger-than-stranger-than-fiction-how-lance-oppenheim-made-the-years-two-buzziest-films",
+        "seendate": "2026-10-15T14:55:54.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "How we lost our appetite for eat-the-rich satire",
-        "summary": "Tom Cruise’s latest film could lose $250m (£190m) – could one reason be that audiences are tired of Hollywood telling them what they already know about the super-rich?It seems as if nobody can decide who should shoulder most of the blame for the recent box office flop of Digger.Was it the ousted Warner Bros film executives Mike De Luca and Pam Abdy, whose love of big-budget auteur cinema usually came",
+        "title": "Jimmy Kimmel on Trump’s AI-generated social media content: ‘I guess maybe he’s bored?’",
+        "summary": "The host discussed the president’s focus on AI-generated social media videos and cognitive testsWith other hosts on holiday, Jimmy Kimmel checked in on Donald Trump’s antics, online and off, with just three weeks to go until the US <a href=\"https://www.theguardian.com/us-news/us-",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/oct/14/how-we-lost-our-appetite-for-eat-the-rich-satire",
-        "seendate": "2026-10-14T13:34:27.000Z",
+        "url": "https://www.theguardian.com/culture/2026/oct/15/jimmy-kimmel-trump-ai-recap",
+        "seendate": "2026-10-15T14:17:21.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Netflix’s Mike Tyson docuseries offers an incomplete portrait of a troubling figure | Andrew Lawrence",
-        "summary": "The once heroic boxer showcases a frankness in this compelling new series but also an unwillingness to take accountability for his darkest momentsMike Tyson never envisioned old age. And yet here he still is, having outlived his parents, Brooklynites of ill repute who died when he was a teenager, and the Brownsville tough guys who teased him for bei",
+        "title": "‘Don’t do this!’ Why Paul McCartney cares about looking shorter than John Lennon in Sam Mendes’ Beatles films",
+        "summary": "You’re Paul McCartney. So how come you’re still getting het up at a fictional version of you being marginally smaller than a fictional version of John Lennon?There has been a lot of discourse and conjecture surrounding Sam Mendes’s forthcoming Beatles biopics. Some of this is logical (will people really turn out to see four near-identical films on the same day?), some creative (what animal did they have to",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/oct/14/mike-tyson-docuseries-netflix",
-        "seendate": "2026-10-14T09:00:50.000Z",
+        "url": "https://www.theguardian.com/film/2026/oct/15/dont-do-this-why-paul-mccartney-cares-about-looking-shorter-than-john-lennon-in-sam-mendes-beatles-films",
+        "seendate": "2026-10-15T13:30:13.000Z",
         "domain": "theguardian.com"
       }
     ],
     "f1": [
       {
-        "title": "Christian Horner wanted Fernando Alonso and Charles Leclerc at Red Bull",
-        "summary": "Red Bull's 2025 seat could have gone to Fernando Alonso or Charles Leclerc, and, according to Christian Horner, he wanted both equally.Horner's upcoming book Drive discusses how the former team chief found himself up against a wall when he tried to find a new driver to sit alongside Max Verstappen. Horner, who ran Red Bull for two decades before his exit in July 2025, says that wall was Helmut ...<a clas",
+        "title": "Valtteri Bottas makes surprising Mercedes comparison as Cadillac builds F1 future",
+        "summary": "Cadillac hasn't scored a single point in its first Formula 1 season, yet its driver Valtteri Bottas believes it has better facilities than the most successful outfit of the hybrid era: Mercedes. Asked by the Financial Times whether Cadillac's facilities beat the Brackley outfit's, Bottas simply said: \"I would say so.\"Bottas spent 2017 to 2021 at Mercedes, and all 10 of his grand prix wins came ...<a clas",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/christian-horner-wanted-fernando-alonso-and-charles-leclerc-at-red-bull/10865251/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-14T18:46:10.000Z",
+        "url": "https://www.motorsport.com/f1/news/valtteri-bottas-makes-surprising-mercedes-comparison-as-cadillac-builds-f1-future/10865491/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-15T21:42:09.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Why Christian Horner banned Mercedes' name as Red Bull built its own F1 engine",
-        "summary": "Former Red Bull CEO and team principal Christian Horner has revealed why he banned employees of the squad's powertrains division from using the name of bitter Formula 1 rivals Mercedes.The Milton Keynes-based outfit had enjoyed a flourishing partnership with Honda following a turbulent end to its time working with Renault power, re-emerging as a title contender in the late 2010s and early ...<a class='mo",
+        "title": "Ayao Komatsu: Rafael Camara chosen for F1 2027 seat on speed, not Ferrari links",
+        "summary": "Haas boss Ayao Komatsu says that new Formula 1 recruit Rafael Camara was chosen over the likes of Leonardo Fornaroli and Ryo Hirakawa due to the speed and adaptability he showed during the team's tests with older machinery.In assessing drivers for 2027, Haas put together a series of runs with the 2025 car in its testing of previous cars (TPC) programme, inviting current Formula 2 championship ...<a class",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/why-horner-banned-mercedes-name-as-red-bull-built-its-own-f1-engine/10864996/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-14T18:00:02.000Z",
+        "url": "https://www.motorsport.com/f1/news/komatsu-camara-chosen-for-f1-2027-seat-on-speed-not-ferrari-links/10865447/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-15T16:08:44.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Laurent Mekies extends contract as Red Bull's F1 team boss",
-        "summary": "Laurent Mekies has extended his contract as team principal of the Red Bull Formula 1 outfit with a new deal that takes him through until the end of 2031.That will see the Frenchman spend at least six seasons leading the Austrian outfit after joining in July 2025 to end Christian Horner’s 20-year tenure as Red Bull team boss.Mekies joined from sister squad Racing Bulls, who the ...<a class='more' href",
+        "title": "Bernie Collins on what Max Verstappen's Singapore radio failure revealed about him",
+        "summary": "Former Formula 1 chief strategist and Sky Sports pundit Bernie Collins has praised Max Verstappen's ability to dominate the Singapore Grand Prix despite a one-way radio failure.After winning the sprint race from pole at the Marina Bay Street Circuit, Verstappen went on to claim pole position for the grand prix. But after successfully defending against Charles Leclerc at the race start, the ...<a class='m",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/laurent-mekies-extends-contract-as-red-bulls-f1-team-boss/10865232/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-14T16:35:01.000Z",
+        "url": "https://www.motorsport.com/f1/news/bernie-collins-on-what-max-verstappens-singapore-radio-failure-revealed-about-him/10865430/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-15T15:06:00.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Christian Horner reveals why he chose 2021 Abu Dhabi GP to open his memoir",
-        "summary": "Most racing memoirs begin with a story of a childhood moment or an experience that opened up a life to the world of motorsport. But Christian Horner's Drive skips the foreplay and goes straight to the good bit: the 2021 Abu Dhabi Grand Prix. The now-legendary race confirmed Max Verstappen's first Formula 1 world title, albeit while being a little divisive.The former Red Bull chief explained ...<a class='",
+        "title": "\"Avengers: Doomsday\" is coming to the United States Grand Prix",
+        "summary": "Williams is bringing its Marvel livery to the 2026 United States Grand Prix, but Alex Albon and Carlos Sainz won't be racing in it.The Williams F1 team will be putting a painted show car in the team's Fan Zone in Austin. While the livery received a round of compliments from fans, it will purely be a display piece rather than anything that actually drives a lap at the Circuit of the Americas ...<a class='",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/christian-horner-reveals-why-he-chose-2021-abu-dhabi-gp-to-open-his-memoir/10865209/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-14T15:36:19.000Z",
+        "url": "https://www.motorsport.com/f1/news/avengers-doomsday-is-coming-to-the-united-states-grand-prix/10865428/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-15T15:04:58.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Martin Brundle reacts to \"bizarre\" Lewis Hamilton Singapore GP strategy choice",
-        "summary": "Lewis Hamilton's sixth place finish at the 2026 Singapore Grand Prix was disappointing for the Ferrari team. After the driver chose not to pit when he was called in, he struggled with tyres towards the end of the race and lost a potential podium finish alongside his team-mate Charles Leclerc. Martin Brundle has now given his verdict on what he called a \"bizarre\" strategy.Writing for Sky ...<a class='more",
+        "title": "Did Haas make the correct decision in signing Rafael Camara for F1 2027?",
+        "summary": "Rafael Camara has been announced as a Formula 1 driver for the 2027 season and he will serve as Esteban Ocon’s replacement at Haas.It will see the 21-year-old Brazilian make his F1 debut after such a rapid rise through the junior formulae.Camara won the 2024 Formula Regional European Championship and the 2025 Formula 3 title, following that up by currently leading the Formula 2 standings ...<a class=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/martin-brundle-reacts-to-bizarre-lewis-hamilton-singapore-gp-strategy-choice/10865194/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-14T14:22:25.000Z",
+        "url": "https://www.motorsport.com/f1/news/did-haas-make-the-correct-decision-in-signing-rafael-camara-for-f1-2027/10865413/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-15T14:15:43.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "3 months after launch, Riot announces League of Legends Classic will be killed in January: 'most have gone back to other parts of League'",
-        "summary": "New Champions will continue to roll out for now.",
+        "title": "Steam achievements are getting a huge overhaul, with separate sets for DLC and season passes, and an easy way to compare with friends",
+        "summary": "It's in beta now, but will likely release widely in about a month.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/moba/3-months-after-launch-riot-announces-league-of-legends-classic-will-be-killed-in-january-most-have-gone-back-to-other-parts-of-league/",
-        "seendate": "2026-10-14T23:56:26.000Z",
+        "url": "https://www.pcgamer.com/software/platforms/steam-achievements-are-getting-a-huge-overhaul-with-separate-sets-for-dlc-and-season-passes-and-an-easy-way-to-compare-with-friends/",
+        "seendate": "2026-10-15T23:58:30.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "State lawsuits accuse OpenAI of ignoring its own safety warnings for profit: 'All these harms were foreseeable and avoidable'",
-        "summary": "Several US states have sued the company, alleging that ChatGPT is harming the public.",
+        "title": "World of Warcraft: Forever devs say gear upgrades will stay relevant 'for a long, long time': 'It's very much our intention to try wherever we can to not invalidate old content'",
+        "summary": "Blizzard says items won't work like the modern version of the MMO.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/software/ai/8-us-states-sue-openai/",
-        "seendate": "2026-10-14T23:22:11.000Z",
+        "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-devs-say-gear-upgrades-will-stay-relevant-for-a-long-long-time-its-very-much-our-intention-to-try-wherever-we-can-to-not-invalidate-old-content/",
+        "seendate": "2026-10-15T19:14:30.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Ex-Overwatch director Jeff Kaplan ignores everything about the hero shooter after his 'almost clinical' departure 5 years ago: 'I don't search for my name in Overwatch. I don't search for Overwatch. I sort of just disconnect.'",
-        "summary": "The former Blizzard developer has moved on.",
+        "title": "GTA 5 finally measures up to the actual best GTA game now I've added a jetpack",
+        "summary": "Zoom.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/fps/ex-overwatch-director-jeff-kaplan-ignores-everything-about-the-hero-shooter-after-his-almost-clinical-departure-5-years-ago-i-dont-search-for-my-name-in-overwatch-i-dont-search-for-overwatch-i-sort-of-just-disconnect/",
-        "seendate": "2026-10-14T22:54:53.000Z",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-5-finally-measures-up-to-the-actual-best-gta-game-now-ive-added-a-jetpack/",
+        "seendate": "2026-10-15T17:00:00.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "'My idea of a Netflix for games doesn't work': Garry's Mod successor is getting 'sweeping changes'",
-        "summary": "\"I’m sorry—we are going to do better.\"",
+        "title": "The AI bubble may not have burst yet, but $1 trillion worth of air appears to have escaped",
+        "summary": "Not so much 'going out with a bang' as 'anticlimactic party balloon deflation'.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/software/platforms/my-idea-of-a-netflix-for-games-doesnt-work-garrys-mod-successor-is-getting-sweeping-changes/",
-        "seendate": "2026-10-14T21:54:25.000Z",
+        "url": "https://www.pcgamer.com/software/ai/the-ai-bubble-may-not-have-burst-yet-but-usd1-trillion-worth-of-air-appears-to-have-escaped/",
+        "seendate": "2026-10-15T16:26:16.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Legendary composer Frank Klepacki says the RTS genre isn't dead, but he would like to see devs get a little more creative with it",
-        "summary": "Klepacki shared his thoughts on the state of the real-time strategy genre in the latest issue of Edge.",
+        "title": "79% of you think Razer's new gaming mouse feature counts as cheating",
+        "summary": "I doubt it will do a 180, though. Hey-hey!",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/rts/legendary-composer-frank-klepacki-says-the-rts-genre-isnt-dead-but-he-would-like-to-see-devs-get-a-little-more-creative-with-it/",
-        "seendate": "2026-10-14T21:44:35.000Z",
+        "url": "https://www.pcgamer.com/hardware/gaming-mice/79-percent-of-you-think-razers-new-gaming-mouse-feature-counts-as-cheating/",
+        "seendate": "2026-10-15T15:42:42.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
       {
-        "title": "The eyes have it: Reform politician’s ‘smart glasses’ prompt calls for ban in Westminster",
-        "summary": "Jason O’Connell’s suspected use of the specs to aid his speech in Senedd reignites debate over AI-enabled devicesIt was a flowing speech packed full of precise statistics – but Jason O’Connell, a Reform UK Senedd member, was not quite the gifted orator he had first appeared. The periodic flashing in his spectacles seemed to give the game away as he spoke for five minutes in the Senedd chamber without a glan",
+        "title": "Online ads weaponised to deliver ‘zero-click’ spyware, researchers say",
+        "summary": "Discover-Tech’s Controlium software lets clients mass-profile internet users then covertly hack targets, say researchers at University of TorontoAn Israeli advertising agency has been serving millions of online adverts that allow “zero-click” spyware to be used against targets, researchers at a Canadi",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/oct/14/smart-glasses-ai-technology-reform-senedd-westminster-ban",
-        "seendate": "2026-10-14T16:43:27.000Z",
+        "url": "https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say",
+        "seendate": "2026-10-15T12:15:22.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Could AI ‘change the stakes’ in the development of bioweapons?",
-        "summary": "Experts say the technology could help terrorists and nation states with production but that significant hurdles remainIn his annual speech on threats to the nation, Sir Ken McCallum, the head of the UK’s intelligence service, MI5, warned that AI had the potential to “change the stakes” on existing and even new bioweapons. Here we look at how AI might help in the development of bioweapons and the hurdles tha",
+        "title": "OpenAI’s London staff receive average of £2.3m per person annually",
+        "summary": "Accounts for the Westminster-based company behind ChatGPT show that 110 staff shared £87m in salaries and £168m in shares last yearOpenAI’s London staff each received £2,318,181 on average last year, as the ChatGPT-maker poured Premier League football salaries into its bid to dominate the global AI race.Accounts for OpenAI UK Ltd, which is based in Westminster but is opening a new HQ in London’s King",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/oct/14/could-ai-change-the-stakes-in-the-development-of-bioweapons",
-        "seendate": "2026-10-14T17:34:14.000Z",
+        "url": "https://www.theguardian.com/technology/2026/oct/14/openai-london-staff-earnings-2million-per-person",
+        "seendate": "2026-10-14T19:15:14.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Palantir and Sadiq Khan drop legal battle over Met contract",
-        "summary": "Dispute related to claims London mayor blocked US tech firm from £50m police deal because of concerns over its valuesPalantir and the London mayor, Sadiq Khan, have called off their legal fight over claims the Labour mayor was blocking the US tech company from signing a contract",
+        "title": "Is your boss watching you? The rise of AI surveillance at work – podcast",
+        "summary": "Workers have always been monitored by their bosses, first through output targets, and then via computer software labelled ‘bossware’. But AI is transforming the capabilities of these systems, processing huge volumes of data to provide minute-by-minute accounts of activity, and productivity. To find out more, Ian Sample hears from UK technology editor Robert Booth. He explains which sectors are adopting this approa",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/oct/14/palantir-and-sadiq-khan-drop-legal-battle-over-met-contract",
-        "seendate": "2026-10-14T16:05:22.000Z",
+        "url": "https://www.theguardian.com/science/audio/2026/oct/15/is-your-boss-watching-you-the-rise-of-ai-surveillance-at-work-podcast",
+        "seendate": "2026-10-15T04:00:21.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Tool and target: US law enforcement grapple with AI-enabled terrorism and anti-tech extremism",
-        "summary": "From the FBI to local police departments, US authorities are increasingly warning of would-be terrorists using chatbots to plan attacks and anti-AI extremist threats In May 2025, a 25-year-old man detonated a car bomb outside a Palm Springs fertility clinic, killing himself and i",
+        "title": "OpenAI accuses employee who left for Apple of leaking plans for unreleased device",
+        "summary": "Hours before Apple and the ChatGPT maker were due to face off in court, a new allegation delayed the showdown An ⁠OpenAI employee who left the ChatGPT maker for Apple sent more than 100 files about an unreleased product to a perso",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/ng-interactive/2026/oct/14/ai-terror-plots-fbi-extremism",
-        "seendate": "2026-10-14T10:00:03.000Z",
+        "url": "https://www.theguardian.com/technology/2026/oct/14/openai-apple-employee-leak-lawsuit",
+        "seendate": "2026-10-14T20:31:15.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Nvidia, worth $5.5tn, donates $250m to UK for AI safety research",
-        "summary": "Pledge spanning five years from world’s most valuable firm comes as concerns about AI agents have risenThe $5.5tn (£4.1tn) US chipmaker Nvidia is donating $250m worth of computing power to the UK to support AI safety research.The donation from the world’s most valuable company comes as the UK government confirmed its AI Security Institute (AISI), which tests advance AI models, <a href=\"https:/",
+        "title": "Eight states accuse OpenAI of coaching children to harm themselves in lawsuit",
+        "summary": "US states sue ChatGPT maker and seek to force the company to change how its products work for young users Eight US states sued OpenAI Wednesday, alleging the ChatGPT maker is harming children en masse.Kansas, Arizona, Montana, Iowa and four others allege the company’s products carried out “willful, dangerous, reckless and unlawful conduct” by coaxing children into harming themselves. <a href=\"htt",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/oct/14/nvidia-donates-to-uk-ai-safety-research",
-        "seendate": "2026-10-14T10:10:37.000Z",
+        "url": "https://www.theguardian.com/technology/2026/oct/14/openai-child-self-harm-lawsuit",
+        "seendate": "2026-10-14T21:50:29.000Z",
         "domain": "theguardian.com"
       }
     ],
@@ -383,43 +383,43 @@
     ],
     "science": [
       {
+        "title": "How an accelerating Earth led experts to adopt the leap hour",
+        "summary": "International delegates agree leap second no longer tenable, but first leap hour not likely to happen for thousands of yearsAfter decades of discussion, quibbling and worrying about clocks in computer systems, the world’s official timekeepers have voted to replace what many viewed as a tiresome correction: the leap second. It’s time, they say, for the leap hour.Delegates from 69 countries cast their",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/oct/15/times-up-for-the-leap-second-as-scientists-swap-it-for-the-leap-hour",
+        "seendate": "2026-10-15T16:16:10.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Is your boss watching you? The rise of AI surveillance at work - video",
+        "summary": "Workers have always been monitored by their bosses, first through output targets, and then via computer software labelled ‘bossware’. But AI is transforming the capabilities of these systems, processing huge volumes of data to provide minute-by-minute accounts of activity, and productivity. To find out more, Ian Sample hears from UK technology editor Robert Booth. He explains which sectors are adopting thi",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/video/2026/oct/15/is-your-boss-watching-you-the-rise-of-ai-surveillance-at-work-video",
+        "seendate": "2026-10-15T11:10:25.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Could AI ‘change the stakes’ in the development of bioweapons?",
+        "summary": "Experts say the technology could help terrorists and nation states with production but that significant hurdles remainIn his annual speech on threats to the nation, Sir Ken McCallum, the head of the UK’s intelligence service, MI5, warned that AI had the potential to “change the stakes” on existing and even new bioweapons. Here we look at how AI might help in the development of bioweapons and the hurdles tha",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/oct/14/could-ai-change-the-stakes-in-the-development-of-bioweapons",
+        "seendate": "2026-10-14T17:34:14.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Stop making sense: focus on sounds to help learn a language, study suggests",
-        "summary": "Research shows that the best linguists process unfamiliar foreign speech sounds more like non-speech soundsIf you want to get really good at French, Arabic or Hungarian, don’t start with rote learning vocabulary and grammar, focus on how they sound instead, research suggests.A new study of how humans learn modern languages has found that the brains of the most talented linguists hear foreign terms as",
+        "summary": "Research shows that the best linguists process unfamiliar foreign speech sounds more like non-speech soundsIf you want to get really good at French, Arabic or Hungarian, don’t start with rote learning vocabulary and grammar, focus on how they sound instead, research suggests.A new study of how humans learn modern languages has found t",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/science/2026/oct/14/focus-on-sounds-to-help-learn-a-language-study-suggests",
         "seendate": "2026-10-13T23:01:37.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Trill seekers: can scientists use AI and tutors to help birds remember lost songs?",
-        "summary": "When populations fall, fledglings can struggle to learn the right notes to attract mates. But research on how birds communicate offers hope for species’ survivalListening to birdsong is one of life’s great joys, but when researchers heard a particular tune emerging from a tree in a Buenos Aires park, they were especially jubilant. This arrangement was among those chirped by the local rufous-collared sparrow",
+        "title": "Cyril Hilsum obituary",
+        "summary": "Government physicist whose radar research paved the way for flat-panel TV and computer screens based on liquid crystalsCyril Hilsum’s research into stable liquid crystals and the devices in which they could be used paved the way for the flat-panel television and computer screens that are now ubiquitous in homes, offices and public spaces.Hilsum, who has died aged 101, was leading a Ministry of Defenc",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/2026/oct/13/ornithology-trill-why-birds-sing-birdsong-dialects-tutors-ai-aoe",
-        "seendate": "2026-10-13T09:00:19.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Roman fort found in Wales could prove myth of emperor’s camp is real",
-        "summary": "Exclusive: Finds suggest account in medieval folklore of a camp near Frenni Fawr hill was rooted in realityMagnus Maximus, the Roman emperor who ruled Britain in the fourth century, led his troops against the Picts and Scots, but a theory that he also established a military camp near Frenni Fawr hill in Wales has so far been based on folklore.Now fourth-century coins, among other finds at a newly ide",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/uk-news/2026/oct/12/mythical-roman-fort-frenni-fawr-wales-emperor",
-        "seendate": "2026-10-12T07:00:48.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "As a scientist, here's what worries me about the suspected Russian plague victim | Devi Sridhar",
-        "summary": "Russia’s silence over the death of a lab worker underlines that pandemic preparedness amounts to nothing if information on threats is withheldIn pandemic preparedness work, scientists like to focus on the technical challenges: identifying pathogens, diagnosing infections, understanding their effects and developing vaccines and treatments. Each step pro",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/commentisfree/2026/oct/12/scientist-russia-plague-victim-lab-worker-pandemic",
-        "seendate": "2026-10-12T14:12:58.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Skies across the UK illuminated by the northern lights",
-        "summary": "Though mostly visible near the Arctic Circle, the natural phenomenon dazzled sky-gazers as far south Devon, Hampshire and KentThe northern lights illuminated the skies across the UK on Friday and Saturday evening.Sky-gazers as far south as Devon, Hampshire and Kent were treated to the dazzling natural phenomenon, also known as the aurora borealis. <a href=\"https://www.theguardian.com/science/2026",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/oct/10/skies-across-the-uk-illuminated-by-the-northern-lights",
-        "seendate": "2026-10-10T22:30:34.000Z",
+        "url": "https://www.theguardian.com/science/2026/oct/15/cyril-hilsum-obituary",
+        "seendate": "2026-10-15T10:53:34.000Z",
         "domain": "theguardian.com"
       }
     ]
