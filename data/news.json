@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T00:53:27.334Z",
+  "generatedAt": "2026-10-18T00:28:55.492Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
@@ -88,47 +88,63 @@
     ],
     "economy": [
       {
-        "title": "‘People’s dignity, and democracy, is at stake’: meet the economist ditching ideology for reality",
-        "summary": "Exclusive: Isabella Weber prescribes a common-sense solution to poverty, inequality and fascism – making life’s essentials affordable for allThe trouble with economists, Isabella Weber believes, is they do not behave like dentists. They obsess over ideological purity and are inflexible when searching for solutions, regardless of society’s symptoms. Dentists have no such pretensions – patients have little pa",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/oct/16/isabella-weber-anti-fascist-economics",
-        "seendate": "2026-10-16T04:00:50.000Z",
-        "domain": "theguardian.com"
+        "title": "US markets are weighed down by an extended sell - off in the tech sector",
+        "summary": "<p>A broad sell-off in technology companies pulled stocks lower on Wall Street Friday, capping off the market’s worst week since late June. </p>",
+        "source": "timesleader.com",
+        "url": "https://www.timesleader.com/business/1762728/us-markets-are-weighed-down-by-an-extended-sell-off-in-the-tech-sector",
+        "seendate": "20261018T000000Z",
+        "domain": "timesleader.com"
       },
       {
-        "title": "Key US voters say economy is getting worse ahead of midterms, exclusive poll finds",
-        "summary": "Nearly 61% believe country is in recession and 65% of independents say economy is worse, according to new Harris pollTell us: what is your personal ‘recession indicator’?With the midterm elections less than three weeks away, key voting groups including independents, rural voters",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/oct/15/voters-economy-cost-of-living-prices-poll",
-        "seendate": "2026-10-15T09:00:13.000Z",
-        "domain": "theguardian.com"
+        "title": "Greg Abel Made Major Additions to Alphabet and Delta Last Quarter While Berkshire Bought Back $4 . 4 Billion of Its Own Stock . Is This a Buying Signal Investors Should Watch ? ",
+        "summary": "Berkshire&#x27;s new CEO is putting the company&#x27;s cash to work.",
+        "source": "fool.com",
+        "url": "https://www.fool.com/investing/2026/10/17/greg-abel-made-major-additions-to-alphabet-and-del/",
+        "seendate": "20261018T000000Z",
+        "domain": "fool.com"
       },
       {
-        "title": "Revealed: VW, Ford and Tesla batteries linked to destructive deforestation of indigenous lands",
-        "summary": "Mines in supply chains of western carmakers linked to widespread deforestation of primary rainforest in nickel-rich lands inhabited by Tolaki people in IndonesiaVolkswagen, Ford and Tesla are among the electric carmakers whose batteries may contain nickel mined in indigenous woodlands plagued by deforestation, an analysis has found, highlighting the struggle to make vehicles that are free from environmental",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/2026/oct/16/vw-ford-tesla-batteries-deforestation-indigenous-lands",
-        "seendate": "2026-10-16T07:00:56.000Z",
-        "domain": "theguardian.com"
+        "title": "Morning Minute : OKX Raises at $25B From Circle , Ripple , and StanChart",
+        "summary": "OKX raises more, $500M+ in crypto longs liquidated after a late evening selloff, and Abstract calls it quits.",
+        "source": "decrypt.co",
+        "url": "https://decrypt.co/380281/morning-minute-okx-raises-at-25b-from-circle-ripple-and-stanchart&t=Morning%20Minute:%20OKX%20Raises%20at%20$25B%20From%20Circle,%20Ripple,%20and%20StanChart&fnp_t=1792279989.c6c4c20697544fb1",
+        "seendate": "20261018T000000Z",
+        "domain": "decrypt.co"
       },
       {
-        "title": "People in the US: what is your personal ‘recession indicator’?",
-        "summary": "We’d like to hear about whether you feel like the US is in a recession and what you think signals such a downturnNearly two-thirds of Americans think the US is experiencing a recession, according to a new Harris Poll conducted for the Guardian. By the typical definition of a recession – when a country’s",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/oct/15/what-is-your-personal-recession-indicator",
-        "seendate": "2026-10-15T16:55:41.000Z",
-        "domain": "theguardian.com"
+        "title": "Arts community seeks help during cost of living crisis",
+        "summary": "A national donation day run by the federal arts funding body is back for a second year but...",
+        "source": "southcoastregister.com.au",
+        "url": "https://www.southcoastregister.com.au/story/9370358/arts-community-seeks-help-during-cost-of-living-crisis/",
+        "seendate": "20261018T000000Z",
+        "domain": "southcoastregister.com.au"
       },
       {
-        "title": "US lawmakers unveil bill to hold Wall Street’s ‘Epstein-connected’ bosses to account",
-        "summary": "Move comes as Senator Elizabeth Warren condemns Barclays response to questions over ex-boss’s ties to sex offenderUS lawmakers have unveiled a new bill to hold Wall Street’s “Epstein-connected” bosses to account for helping finance the late sex offender’s crimes.It came as top Democratic senator Elizabeth Warren condemned the UK bank Barclays for “dodging responsibility” over its failure to vet forme",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/oct/15/new-bill-wall-street-bosses-epstein-connections",
-        "seendate": "2026-10-15T13:30:11.000Z",
-        "domain": "theguardian.com"
+        "title": "Apple Market Value Grew From $350 Billion to $5 Trillion During Tim Cook 15 Years as CEO . Here What That Growth Curve Means for Apple Next Chapter Under John Ternus . ",
+        "summary": "Ternus has presided over several new launches in his first few weeks as CEO.",
+        "source": "fool.com",
+        "url": "https://www.fool.com/investing/2026/10/17/apple-market-value-from-350-billion-to-5-trillion/",
+        "seendate": "20261018T000000Z",
+        "domain": "fool.com"
       }
     ],
     "literature": [
+      {
+        "title": "‘Is there any value in writing a story in a time of chaos?’: novelist Elif Shafak on her creative crisis",
+        "summary": "The author talks about her nomadic childhood, being targeted by the Turkish government and overcoming depression to write her latest novelFor a long time Elif Shafak&nbsp;was referred to as Turkey’s “most widely read female author”. Today, she is surely simply its best loved. Orhan Pamuk may have won the Nobel prize in literature, but it is Shafak whose novels are fervently passed among readers. <a href=\"ht",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/oct/17/is-there-any-value-in-writing-a-story-in-a-time-of-chaos-novelist-elif-shafak-on-her-creative-crisis",
+        "seendate": "2026-10-17T08:00:25.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Isabel Allende wins €1m Spanish literary prize under pseudonym",
+        "summary": "Chilean-American author awarded Premio Planeta for sequel to her 1982 debut novel, The House of the SpiritsThe Chilean-American author Isabel Allende has won Spain’s €1m (£843,000) Premio Planeta, one of the world’s most lucrative literary prizes, under a pseudonym, with a sequel to her celebrated debut novel, The House of the Spirits.Allende, 84, won the 75th edition of the award on Thursday with <e",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/oct/17/isabel-allende-wins-premio-planeta-spanish-literary-prize-pseudonym",
+        "seendate": "2026-10-17T13:01:51.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "John Green: ‘I devoured the Sweet Valley High books in the 1980s’",
         "summary": "The American author on being inspired by Kurt Vonnegut, coming late to Jane Austen, and the brilliance of Robert Penn WarrenMy earliest reading&nbsp;memory I remember learning to read with dull stories about Jane going up a hill, but my earliest thrilling reading memories are of series like The Baby-Sitters Club and Sweet Valley High. In&nbsp;the highly gendered reading days of&nbsp;th",
@@ -138,35 +154,19 @@
         "domain": "theguardian.com"
       },
       {
+        "title": "‘I know I can do anything’: new archive of AS Byatt’s papers looks inside the writer’s extraordinary mind",
+        "summary": "The Booker-wining author of Possession was known for her voracious research. Now, 68 boxes of her notebooks, letters and diaries acquired by the British Library reveal how she assembled the raw material of her fictionAt 20, Antonia Susan Byatt was not yet sure she could write. “Do I take myself seriously as a writer?” she asked herself in her diary in September 1956. “No, I think not.”The young Byatt",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/oct/17/as-byatt-british-library-literary-papers-archive",
+        "seendate": "2026-10-17T07:24:40.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "The best recent crime and thrillers – review roundup",
         "summary": "The Heights by Ian Rankin; The Mortons by Scott Westerfeld and Justine Larbalestier; Murder Most Cryptic by Alys Cummings; The Deadly Inheritance of Everest Macdonald by AJ West; Inheritance by Gillian SlovoThe Heights by Ian Rankin (Orion, £25)<strong",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/books/2026/oct/16/the-best-recent-and-thrillers-review-roundup",
         "seendate": "2026-10-16T11:00:48.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Make Me Well by Xand van Tulleken – an eye-opening takedown of wellness myths",
-        "summary": "The engaging TV doctor dismantles the spurious science behind modern day snake oils, from collagen to turmericWhen Xand van Tulleken set off on a journey into the wild west of wellness, he didn’t expect to discover anything new about vitamin D. Of all the supplements that line our shelves and social media feeds, it ought to be the least controversial; even the NHS website, which is hardly a&nbsp;wellspring",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/oct/16/make-me-well-by-xand-van-tulleken-an-eye-opening-takedown-of-wellness-myths",
-        "seendate": "2026-10-16T06:00:53.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Lee Child backs launch of reading scheme to send prisons half a million books",
-        "summary": "The Jack Reacher author, the UK’s first prison reading laureate, said drive to improve literacy skills was a practical way to address reoffending and support rehabilitationNearly half a million books will be distributed across prisons in England, Wales, Scotland and Northern Ireland this autumn, in a campaign backed by bestselling thriller writer Lee Child.The initiative, delivered by the Reading Age",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/oct/16/lee-child-backs-launch-of-reading-scheme-to-send-prisons-half-a-million-books",
-        "seendate": "2026-10-15T23:01:44.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Sally Rooney’s stand on Palestine is brave and humane",
-        "summary": "The Normal People author’s determination to support Palestine Action, even if it means that her books are withdrawn from sale in the UK, makes a mockery of Britain’s terrorism lawsIt’s hard to think of a published author in living memory who risked arrest in the UK for their political beliefs, hard to think of one whose books could be published anywhere but here. Sally Rooney went into this debacle with her",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/oct/15/sally-rooneys-stand-on-palestine-is-brave-and-humane",
-        "seendate": "2026-10-15T10:56:22.000Z",
         "domain": "theguardian.com"
       }
     ],
@@ -214,132 +214,148 @@
     ],
     "f1": [
       {
-        "title": "Bernie Collins warns of growing trust issues between Lewis Hamilton and Ferrari",
-        "summary": "Former Formula 1 strategist and Sky Sports pundit Bernie Collins believes Lewis Hamilton is suffering from a \"lack of trust\" in Ferrari's pitwall following the Singapore Grand Prix.Mercedes' Kimi Antonelli is closing in on the drivers' championship title, while Red Bull's Max Verstappen dominated the Singapore Grand Prix weekend. Meanwhile, Hamilton's race unravelled during a virtual safety ...<a class='",
+        "title": "Lando Norris faces anxious wait as F2 prepares to decide future of his racing team",
+        "summary": "Lando Norris's new racing team, LN4 Fusion, will soon find out whether or not it's got a place on the Formula 2 grid next year. CEO of FIA Formula 2, Bruno Michel, has confirmed that the championship is close to choosing its selection of teams for the 2027, 2028 and 2029 seasons, so will Norris get his way?\"Well, we do a new selection every three years, so that’s where we are when we have a ...<a class='",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/bernie-collins-warns-of-growing-trust-issues-between-lewis-hamilton-and-ferrari/10865751/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-16T21:59:48.000Z",
+        "url": "https://www.motorsport.com/f1/news/lando-norris-faces-anxious-wait-as-f2-prepares-to-decide-future-of-his-racing-team/10865969/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-17T23:35:36.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Ferrari releases chaotic footage of Lewis Hamilton and Charles Leclerc's social media takeover",
-        "summary": "Ferrari has released behind-the-scenes footage of Lewis Hamilton and Charles Leclerc hijacking the team's social media channels.The two drivers took over the Maranello outfit's accounts during the Singapore Grand Prix weekend, and it was pure chaos. With a 20-minute window to do whatever they wanted with the channels, Hamilton quickly admitted his lack of recent social media practice ...<a class='mor",
+        "title": "Aston Martin's F1-inspired monster spotted testing as record-breaking claims emerge",
+        "summary": "Aston Martin's mystery single-seater is back on track, and it still looks like nothing else on the grid or in a dealer.New footage shared on Reddit shows the car lapping Paul Ricard in the south of France. It is the latest sighting of a machine that first appeared online in April and has since popped up at a private airfield and at Portimao in Portugal. So what is this fantastic-looking ...<a class='more",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/ferrari-releases-chaotic-footage-of-lewis-hamilton-and-charles-leclercs-social-media-takeover/10865748/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-16T21:21:49.000Z",
+        "url": "https://www.motorsport.com/culture/news/aston-martins-f1-inspired-monster-spotted-testing-as-record-breaking-claims-emerge/10865964/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-17T22:25:43.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Liam Lawson unveils limited-edition guitar ahead of Austin live performance",
-        "summary": "Liam Lawson has unveiled a signature guitar in collaboration with Taylor Guitars ahead of his live performance in Austin.The Racing Bulls driver will headline a live music event ahead of the Formula 1 United States Grand Prix next week. Scheduled for Thursday 22 October at Inn Cahoots in Austin, the event will see Lawson reunite with his childhood bandmates, including his brother and two close ...<a clas",
+        "title": "Alpine's 2024 F1 car has been turned into the ultimate collector's display",
+        "summary": "A piece of Alpine's 2024 Formula 1 car is about to go up for auction, and it has been turned into something you could actually put in your living room.F1 Authentics, the official memorabilia platform of F1, is opening bidding on a very cool 2024 race-used gearbox carrier paired with a race-spec rear wing, mounted together on a custom-built display stand. The gearbox carrier still carries its ...<a class=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/liam-lawson-unveils-limited-edition-guitar-ahead-of-austin-live-performance/10865745/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-16T20:45:24.000Z",
+        "url": "https://www.motorsport.com/f1/news/alpines-2024-f1-car-has-been-turned-into-the-ultimate-collectors-display/10865939/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-17T17:44:49.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Franco Colapinto urges fans to stop the abuse: “You’re not helping me or my future”",
-        "summary": "Franco Colapinto has vocally asked Argentinian fans to stop online abuse after several incidents in the last couple of months.Following the Zandvoort, Madrid and Baku races, hateful comments were directed at FIA stewards, Pierre Gasly and his family, and Lando Norris, among others. This has been a recurring theme in the 2026 Formula 1 season, prompting Alpine to regularly release statements to ...<a clas",
+        "title": "Lewis Hamilton's Brazilian GP cap unveiled with release date confirmed",
+        "summary": "Ferrari has revealed a Brazil-themed cap that Lewis Hamilton will wear at the Brazilian Grand Prix, and fans will be able to buy their own a few days before the race.The Maranello outfit announced the cap in a joint Instagram post with Puma on 16 October. \"Lewis will be wearing a small piece of Brazil with him at Interlagos. And it can also be yours soon. Available to buy on November 3rd,\" ...<a class='m",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/franco-colapinto-urges-fans-to-stop-the-abuse-youre-not-helping-me-or-my-future/10865682/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-16T15:29:36.000Z",
+        "url": "https://www.motorsport.com/f1/news/lewis-hamiltons-brazilian-gp-cap-unveiled-with-release-date-confirmed/10865933/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-17T16:34:04.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Liam Lawson to perform live music set ahead of F1 United States GP in Austin",
-        "summary": "Liam Lawson will headline the live VCARB Garage Sessions in Austin ahead of the United States Grand Prix next weekend.The New Zealander will step away from the cockpit to perform live at Inn Cahoots on 22 October. Billed as \"Liam Lawson & Friends\", the performance forms part of the Esses Bazaar event and will see Lawson joined on stage by his brother, Marcus, alongside childhood friends Thomas ...<a clas",
+        "title": "Colton Herta “maybe underestimated the difference” from IndyCar – F2 boss",
+        "summary": "Formula 2 CEO Bruno Michel says Colton Herta “maybe underestimated the difference” between Formula 1’s feeder series and IndyCar, with the 26-year-old’s bold career move so far unsuccessful.Herta was a frontrunner in America’s premier single-seater series for seven years but decided to move back to Europe in 2026 – having competed in junior formulae across the pond in 2015 and 2016 ...<a class='more' hre",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/liam-lawson-to-perform-live-music-set-ahead-of-f1-united-states-grand-prix-in-austin/10865675/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-16T15:11:06.000Z",
+        "url": "https://www.motorsport.com/fia-f2/news/colton-herta-maybe-underestimated-the-difference-from-indycar-f2-boss/10865706/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-17T16:00:04.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "Tech founder criticized for vibe coding game about shooting 'zombies' in San Francisco's poorest neighborhood",
-        "summary": "City residents and leaders denounced the free web game, which was taken down.",
+        "title": "Surprising no-one, Wizards of the Coast 'doesn't intend to voluntarily recognize' union efforts for the second time this year",
+        "summary": "\"Wizards is not neutral on the question of unionization.\"",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/software/ai/tech-founder-vibe-codes-game-about-shooting-zombies-in-san-franciscos-poorest-neighborhood/",
-        "seendate": "2026-10-16T23:53:11.000Z",
+        "url": "https://www.pcgamer.com/gaming-industry/surprising-no-one-wizards-of-the-coast-doesnt-intend-to-voluntarily-recognize-union-efforts-for-the-second-time-this-year/",
+        "seendate": "2026-10-17T17:00:00.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "The Cyberpunk 2077 movie won't be 'a film adaptation of the game,' CD Projekt chief says",
-        "summary": "The game is great, but CD Projekt wants to tell a new story.",
+        "title": "This game about grinding mute lumps of shapeless flesh has made me realise I've been hornswoggled by capitalism",
+        "summary": "Flesh grinders of the world, unite.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/movies-tv/the-cyberpunk-2077-movie-wont-be-a-film-adaptation-of-the-game-cd-projekt-chief-says/",
-        "seendate": "2026-10-16T22:02:23.000Z",
+        "url": "https://www.pcgamer.com/games/horror/this-game-about-grinding-mute-lumps-of-shapeless-flesh-has-made-me-realise-ive-been-hornswoggled-by-capitalism/",
+        "seendate": "2026-10-17T16:00:00.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "I haven't wanted to 100% a game in a long time, but…",
-        "summary": "I've only played a bit of offroad driving sim Over the Hill, but I'm already hooked. Or should I say: winched.",
+        "title": "Ghostwire: Tokyo joins GOG Preservation Program, which means you don't have to deal with Bethesda.NET anymore",
+        "summary": "…if you get it on GOG, anyway.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/sim/i-havent-wanted-to-100-percent-a-game-in-a-long-time-but/",
-        "seendate": "2026-10-16T20:07:29.000Z",
+        "url": "https://www.pcgamer.com/games/action/ghostwire-tokyo-joins-gog-preservation-program-which-means-you-dont-have-to-deal-with-bethesda-net-anymore/",
+        "seendate": "2026-10-17T15:45:38.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "'We f**ked up': 1 day into Wardogs Season 2, the Blue team bribery bonus is being dropped",
-        "summary": "Bulkhead's effort to make life better for the Blues worked a little too well.",
+        "title": "The Blood of Dawnwalker's first major update will add directional animal petting and a new story mode that's easier than the previous story mode",
+        "summary": "\"What happens when you merge a directional combat system with an ability to pet dogs and cats?\"",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/fps/we-f-ked-up-1-day-into-wardogs-season-2-the-blue-team-bribery-bonus-is-being-dropped/",
-        "seendate": "2026-10-16T19:42:52.000Z",
+        "url": "https://www.pcgamer.com/games/rpg/the-blood-of-dawnwalkers-first-major-update-will-add-directional-animal-petting-and-a-new-story-mode-thats-easier-than-the-previous-story-mode/",
+        "seendate": "2026-10-17T13:53:20.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "My career as a weed farmer was derailed by my unslakeable lust for golf",
-        "summary": "Same old story.",
+        "title": "Developer cancels public demo of its upcoming horror drinking game, fearing it will be instantly cloned by AI vibe coders: 'We sincerely apologise for the short notice'",
+        "summary": "Alliance Arts will instead host \"closed sessions\" for Drunken Goddess Reflux.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/my-career-as-a-weed-farmer-was-derailed-by-my-unslakeable-lust-for-golf/",
-        "seendate": "2026-10-16T17:06:21.000Z",
+        "url": "https://www.pcgamer.com/gaming-industry/game-development/developer-cancels-public-demo-of-its-upcoming-horror-drinking-game-fearing-it-will-be-instantly-cloned-by-ai-vibe-coders-we-sincerely-apologise-for-the-short-notice/",
+        "seendate": "2026-10-17T12:04:00.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
       {
-        "title": "Elon Musk reveals ‘world’s first flying car’ at Tesla event",
-        "summary": "The Tesla Roadster 2 drove up a curved ramp before using SpaceX rocket thrusters to fly, flip and landElon Musk has revealed Tesla’s latest model, which he claims will be the world’s first flying car, using technology from his aerospace company SpaceX to “basically fly like a rocket”.The billionaire, who hosted a demonstration of the Tesla Roadster 2 at the SpaceX rocket development and testing facil",
+        "title": "Palantir patient data tech rejected by many NHS trusts in England",
+        "summary": "Exclusive: health bodies across country say controversial US firm’s data platform no better than systems already in useNHS organisations that care for millions of people in England are rejecting Palantir’s patient data technology, according to freedom of information responses that reveal health bosses believe they can find better or equal alternatives in many cases.Some health bodies said the £330m f",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/oct/16/elon-musk-reveals-worlds-first-flying-car-spacex",
-        "seendate": "2026-10-16T11:53:04.000Z",
+        "url": "https://www.theguardian.com/technology/2026/oct/17/palantir-patient-data-tech-rejected-by-many-nhs-trusts-in-england",
+        "seendate": "2026-10-17T06:00:24.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Pornography with strangulation and incest to be banned in England and Wales next month",
-        "summary": "Campaigners welcome legislation which follows recommendations by 2025 review into pornography regulationPornography that depicts strangulation and incestuous relationships will be banned in England and Wales from early November, the government has announced.The content will be outlawed from 6 November after cross-party pressure prompted ministers to announce new legislation earlier this year. <a",
+        "title": "Fake Linda and me: the Agatha Christie-worthy mystery of the fraudster who stole my byline",
+        "summary": "How a string of bizarre events led writer Linda Geddes to don her sleuthing cap and dig into a world of shadowy impersonatorsIt started with an entirely ordinary interaction on LinkedIn. Someone had tagged me in a post, saying how much they’d enjoyed contributing to a New York Post article I’d written about “chronoworking”. As the author of a book about circadian rhythms, it was exactly the sort of subject",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/society/2026/oct/16/pornography-strangulation-incest-ban-uk-november",
-        "seendate": "2026-10-16T07:09:49.000Z",
+        "url": "https://www.theguardian.com/technology/2026/oct/17/fake-linda-and-me-mystery-fraudster-stole-my-byline",
+        "seendate": "2026-10-17T11:00:30.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘We should all be worried’: calls grow to limit London rollout of robotaxis",
-        "summary": "Protest planned at Wayve HQ as Uber drivers fear for their future and city’s politicians demand TfL should have power over licencesFor passengers in Britain who want to try the latest ride, robotaxis are eagerly awaited: more than 100,000 are on Uber’s waitlist in London after the first UK services started in September.Others view them with trepidation. “I think we should all be worried,” said Floren",
+        "title": "The power of AI is worrying senior Labour figures – as is the fear of ‘falling behind the public’",
+        "summary": "Westminster appears to be waking up to warnings over AI safety, with concerns over its use by extremist groups and bad actors“I have this sense that, within a few months, AI is going to be all anyone is talking about,” said one cabinet minister, with an ominous stare.It was Labour conference, with everyone from ministers to activists jubilant at Andy Burnham’s takeover and a bounce in the polls after",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/uk-news/2026/oct/16/london-driverless-robotaxis-uber-drivers-wayve-tfl-licences",
-        "seendate": "2026-10-16T11:00:46.000Z",
+        "url": "https://www.theguardian.com/technology/2026/oct/17/artificial-intelligence-ai-labour-government-safety-uk-extremism",
+        "seendate": "2026-10-17T11:33:20.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Meta releases Muse Spark Open, a new ‘open-weight’ AI model",
-        "summary": "Meta says Muse excels at ‘multi-step reasoning’ and ‘complex software engineering’ as it races to catch up to Chinese rivalsMeta on Thursday launched a new open-weight AI model which it claims rivals, and in some cases outperforms, similar products from leading Chinese developers.Muse Spark Open “is the most capable US open-weight model to date,” Meta’s chief of AI Alexandr Wang wrote on X. <a hr",
+        "title": "Why Britain should reject the lure of cheap – and scary – Chinese AI",
+        "summary": "In the west the technology comes with at least some effort to provide security and a benign intent – not so from ChinaThere is much to fear from artificial intelligence developed in China and handed to businesses and governments in the west almost free of charge.Every month Chinese AI developers such as DeepSeek and Xiaomi dispatch the latest versions of their “open-weight” models that allow users to",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/oct/16/meta-releases-muse-spark-open-a-new-open-weight-ai-model",
-        "seendate": "2026-10-16T00:34:28.000Z",
+        "url": "https://www.theguardian.com/business/2026/oct/17/why-britain-should-reject-the-lure-of-cheap-and-scary-chinese-ai",
+        "seendate": "2026-10-17T15:00:33.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Tell us: have you used AI to help with online dating?",
-        "summary": "From chat-up lines to social coaching, we’d like to hear from people who use AI to assist them navigating the online dating worldWe’d like to understand more about the different ways that people are using AI to assist with online dating.Perhaps you have used an AI assistant to help with chat-up lines? Or you may have turned to one for some social coaching? However you have used AI for online dating,",
+        "title": "Ministers must be honest about Russian threat to UK, says former Foreign Office head",
+        "summary": "Peter Ricketts calls for more resilience in protecting banking, energy and water systems from cyber-assaultsMinisters need to be honest with the British public about the immediate threat posed by Russia, which could soon lead to lives being lost, a former national security adviser has said.Peter Ricketts, who advised David Cameron when he was prime minister, became the latest figure to warn about the",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/oct/15/using-ai-online-dating-tell-us",
-        "seendate": "2026-10-15T16:47:25.000Z",
+        "url": "https://www.theguardian.com/technology/2026/oct/17/russia-threat-uk-former-foreign-office-head-lord-peter-ricketts",
+        "seendate": "2026-10-17T10:19:32.000Z",
         "domain": "theguardian.com"
       }
     ],
     "climate": [
+      {
+        "title": "Arizona joins Nevada to fight proposed cuts to their shares of Colorado River",
+        "summary": "Move comes after Trump administration announced restrictions that could slash water suppliesArizona has joined Nevada in its legal battle against the Trump administration’s proposed cuts to their shares of the shrinking Colorado River.The move comes after the interior department announc",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/oct/17/arizona-nevada-water-rights-colorado-river",
+        "seendate": "2026-10-17T23:40:11.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "US corporate lobbyists mounted ‘blitz’ to dilute landmark EU deforestation law, report finds",
+        "summary": "Environmental watchdog Mighty Earth reveals two-year effort to postpone and weaken EU Deforestation RegulationUS corporate lobbyists launched a two-year “blitz” to postpone and weaken the world’s most progressive legislation to protect forests, according to a new investigation by the environmental watchdog Mighty Earth.Major US firms and trade associations, including Cargill, Bunge, Mondelēz and the",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/environment/2026/oct/17/us-corporate-lobbyists-europe-deforestation",
+        "seendate": "2026-10-17T11:00:31.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "US voters want more action on global heating. Why are Democrats and Republicans staying silent?",
         "summary": "Polls show that Democrats and Republicans in battleground states want to hear more from candidates about the climate crisisMost Americans feel unease or alarm about the climate crisis and, in both red and blue states, want to know how political leaders are going to fix it. But in midterm election campaigns across the US, candidates have responded to this desire with near silence.People in the US have",
@@ -362,22 +378,6 @@
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/us-news/2026/oct/12/order-halt-tree-removal-washington-dc-golf-course-trump",
         "seendate": "2026-10-12T16:55:37.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "A super el Niño threatens our food system. Here’s how farms can prepare | Liz Carlisle",
-        "summary": "Planting cover crops or perennial plants can protect soil amid potential flooding. Congress must act to protect these practicesAs forecasters warn that this year’s El Niño could become the strongest on record, concerns are growing about its effect on agriculture and food security.T",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/commentisfree/2026/oct/12/super-el-nino-farms-prepare",
-        "seendate": "2026-10-12T13:00:55.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Thousands without power in Florida and Alabama as Isaias moves north",
-        "summary": "At least four deaths linked to storm amid warnings of flash flooding that could stretch into AppalachiansAs what was left of Hurricane Isaias moved north on Sunday, bringing moderate to heavy rainfall across the central Appalachians and the mid-Atlantic region, nearly 396,000 customers across the <a href=\"htt",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/oct/11/isaias-florida-alabama-power-outages",
-        "seendate": "2026-10-11T13:45:27.000Z",
         "domain": "theguardian.com"
       }
     ],
