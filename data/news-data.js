@@ -1,92 +1,124 @@
 window.NEWS_CACHE = {
-  "generatedAt": "2026-10-19T00:34:41.515Z",
+  "generatedAt": "2026-10-20T01:20:16.516Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
+      {
+        "title": "US grants deportation reprieve to migrants from Ukraine and Sudan",
+        "summary": "DHS says migrants ‘retain protections’ after temporary protected status was set to expire on MondaySend us your questions about immigration and the midtermsMore than 100,000 people from Ukraine and Sudan can stay in the United States without immediate risk of deportation, the Departme",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/oct/19/us-migrants-deportation-ukraine-sudan",
+        "seendate": "2026-10-19T22:34:43.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Kenyan starvation cult leader guilty of murder of 190 children and one adult",
+        "summary": "Paul Mackenzie and his church set up sect that ordered followers to starve themselves and their children, say prosecutorsA Kenyan court has found the starvation cult leader Paul Mackenzie and about 30 others guilty of murder over the deaths of ⁠190 children and one adult in one of the world’s worst cult-related disasters in recent history.Mackenzie was arrested in 2023 after police received a tipoff,",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children",
+        "seendate": "2026-10-19T16:08:14.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Drone attack near market kills 80 in Sudan",
+        "summary": "Witness says drone struck twice at transport hub in al-Dibab, in one of deadliest single attacks of warA drone strike near a market in southern Sudan on Sunday evening killed 80 people, mostly commuters catching rides home.Ahmed Wadi, a witness, said the attack in the town of al-Dibab in West Kordofan state left “50 bodies who I helped bury, one of them my own brother Mohamed”. <a href=\"https://w",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/oct/19/drone-attack-market-al-dibab-west-kordofan-sudan",
+        "seendate": "2026-10-19T14:45:53.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Ebola cases in Kenya highlight US failures amid Trump cuts to key services",
+        "summary": "Opposition to US-led quarantine center in Kenya follows sweeping funding cuts and withdrawal from WHOAn eighth person in Kenya has tested positive for the Bundibugyo strain of Ebola in the country’s first-ever cluster of cases of the virus, as the second-largest outbreak in history has killed more than 4,300 and sickened more than 9,000 people in the region.It highlights the diminished role the US ha",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/oct/19/ebola-cases-kenya-us-quarantine",
+        "seendate": "2026-10-19T14:11:08.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Hilarious quips and ‘100,000-volt’ energy: the hypemen (and women) redefining Afrobeats music",
         "summary": "Style of emceeing based on high-octane, ad-libbed vocals has flourished thanks to its unique way of captivating crowdsFor the 2015 freshmen cohort of the history degree programme at the University of Lagos, their classmate’s first-semester presentation was so captivating that they began calling him Toby Shang, after the 16th-century Chinese dynasty he had focused on.His crowd engagement that day had",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/world/2026/oct/18/lagos-hypemen-redefining-afrobeats-music-afrohype",
         "seendate": "2026-10-18T09:00:55.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "An extraordinary life: descendant welcomes biography of woman ‘gifted’ to Queen Victoria",
-        "summary": "A girl called Àìná was captured by an African king and later taken to England to become Sarah Forbes Bonetta, protege of the imperial monarch When she was seven years old, Bayo Randle’s great-great-grandmother Sarah Forbes Bonetta was presented to Queen Victoria at Windsor Castle as a “diplomatic gift” from an African king.Victoria would go on to pay for Bonetta’s education, approve her marriage to o",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/oct/18/sarah-forbes-bonetta-biography-queen-victoria",
-        "seendate": "2026-10-18T07:00:53.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "LGBTQ+ people go into hiding in Senegal as hundreds are arrested",
-        "summary": "At least 320 people detained for ‘acts against nature’ after law criminalising homosexuality toughened, HRW reportsMass arrests, forced HIV testing and barriers to legal representation are part of an escalating crackdown against LGBTQ+ people in Senegal, according to a new report.More than 320 indi",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch",
-        "seendate": "2026-10-15T08:00:25.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Zimbabwean author Simbarashe Kundizeza denies using AI to write prize-winning story",
-        "summary": "Article in Atlantic claims The Blue Fighter was artificially generated, days after it won Caine prize for African writersThe Zimbabwean writer Simbarashe Kundizeza has denied using AI to write a prize-winning short story after an article in the Atlantic said software had flagged it as almost completely AI-generated.Kundizeza’s story <a href=\"https://static1.squarespace.com/static/6a4f3fb6a6178e0225b3",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/oct/14/zimbabwean-author-simbarashe-kundizeza-denies-ai-story",
-        "seendate": "2026-10-14T19:01:29.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Guinea-Bissau denies it has approved controversial vaccine trial in newborns",
-        "summary": "Health minister says government ‘did not authorize’ Danish-led hepatitis B trial in babies backed by RFK JrGuinea-Bissau has not approved the controversial hepatitis B study in newborns that would be funded by the US government and private partners, the African country’s minister of he",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/oct/14/guinea-bissau-vaccine-hepatitis-b-trial-denial",
-        "seendate": "2026-10-14T13:16:30.000Z",
         "domain": "theguardian.com"
       }
     ],
     "conflict": [
       {
+        "title": "US grants deportation reprieve to migrants from Ukraine and Sudan",
+        "summary": "DHS says migrants ‘retain protections’ after temporary protected status was set to expire on MondaySend us your questions about immigration and the midtermsMore than 100,000 people from Ukraine and Sudan can stay in the United States without immediate risk of deportation, the Departme",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/oct/19/us-migrants-deportation-ukraine-sudan",
+        "seendate": "2026-10-19T22:34:43.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Kenyan starvation cult leader guilty of murder of 190 children and one adult",
+        "summary": "Paul Mackenzie and his church set up sect that ordered followers to starve themselves and their children, say prosecutorsA Kenyan court has found the starvation cult leader Paul Mackenzie and about 30 others guilty of murder over the deaths of ⁠190 children and one adult in one of the world’s worst cult-related disasters in recent history.Mackenzie was arrested in 2023 after police received a tipoff,",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children",
+        "seendate": "2026-10-19T16:08:14.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Drone attack near market kills 80 in Sudan",
+        "summary": "Witness says drone struck twice at transport hub in al-Dibab, in one of deadliest single attacks of warA drone strike near a market in southern Sudan on Sunday evening killed 80 people, mostly commuters catching rides home.Ahmed Wadi, a witness, said the attack in the town of al-Dibab in West Kordofan state left “50 bodies who I helped bury, one of them my own brother Mohamed”. <a href=\"https://w",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/oct/19/drone-attack-market-al-dibab-west-kordofan-sudan",
+        "seendate": "2026-10-19T14:45:53.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Ebola cases in Kenya highlight US failures amid Trump cuts to key services",
+        "summary": "Opposition to US-led quarantine center in Kenya follows sweeping funding cuts and withdrawal from WHOAn eighth person in Kenya has tested positive for the Bundibugyo strain of Ebola in the country’s first-ever cluster of cases of the virus, as the second-largest outbreak in history has killed more than 4,300 and sickened more than 9,000 people in the region.It highlights the diminished role the US ha",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/oct/19/ebola-cases-kenya-us-quarantine",
+        "seendate": "2026-10-19T14:11:08.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Hilarious quips and ‘100,000-volt’ energy: the hypemen (and women) redefining Afrobeats music",
         "summary": "Style of emceeing based on high-octane, ad-libbed vocals has flourished thanks to its unique way of captivating crowdsFor the 2015 freshmen cohort of the history degree programme at the University of Lagos, their classmate’s first-semester presentation was so captivating that they began calling him Toby Shang, after the 16th-century Chinese dynasty he had focused on.His crowd engagement that day had",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/world/2026/oct/18/lagos-hypemen-redefining-afrobeats-music-afrohype",
         "seendate": "2026-10-18T09:00:55.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "An extraordinary life: descendant welcomes biography of woman ‘gifted’ to Queen Victoria",
-        "summary": "A girl called Àìná was captured by an African king and later taken to England to become Sarah Forbes Bonetta, protege of the imperial monarch When she was seven years old, Bayo Randle’s great-great-grandmother Sarah Forbes Bonetta was presented to Queen Victoria at Windsor Castle as a “diplomatic gift” from an African king.Victoria would go on to pay for Bonetta’s education, approve her marriage to o",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/oct/18/sarah-forbes-bonetta-biography-queen-victoria",
-        "seendate": "2026-10-18T07:00:53.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "LGBTQ+ people go into hiding in Senegal as hundreds are arrested",
-        "summary": "At least 320 people detained for ‘acts against nature’ after law criminalising homosexuality toughened, HRW reportsMass arrests, forced HIV testing and barriers to legal representation are part of an escalating crackdown against LGBTQ+ people in Senegal, according to a new report.More than 320 indi",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch",
-        "seendate": "2026-10-15T08:00:25.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Zimbabwean author Simbarashe Kundizeza denies using AI to write prize-winning story",
-        "summary": "Article in Atlantic claims The Blue Fighter was artificially generated, days after it won Caine prize for African writersThe Zimbabwean writer Simbarashe Kundizeza has denied using AI to write a prize-winning short story after an article in the Atlantic said software had flagged it as almost completely AI-generated.Kundizeza’s story <a href=\"https://static1.squarespace.com/static/6a4f3fb6a6178e0225b3",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/oct/14/zimbabwean-author-simbarashe-kundizeza-denies-ai-story",
-        "seendate": "2026-10-14T19:01:29.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Guinea-Bissau denies it has approved controversial vaccine trial in newborns",
-        "summary": "Health minister says government ‘did not authorize’ Danish-led hepatitis B trial in babies backed by RFK JrGuinea-Bissau has not approved the controversial hepatitis B study in newborns that would be funded by the US government and private partners, the African country’s minister of he",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/oct/14/guinea-bissau-vaccine-hepatitis-b-trial-denial",
-        "seendate": "2026-10-14T13:16:30.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "economy": [
+      {
+        "title": "HelloFresh workers claim physical abuse and denied bathroom breaks in class-action suit",
+        "summary": "The meal kit delivery service denies the allegations, saying it found claims to be ‘entirely without merit’Workers at a HelloFresh facility in Newark, New Jersey, have claimed in court documents that they were verbally and physically abused and denied regular bathroom breaks, with one former worker telling the Guardian he experienced incontinence",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/business/2026/oct/19/hellofresh-abuse-lawsuit",
+        "seendate": "2026-10-19T11:00:55.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Christiane Amanpour announces she’s leaving CNN after 43 years",
+        "summary": "Anchor’s departure not thought to be linked to company’s recent acquisition by David Ellison’s Skydance MediaChristiane Amanpour, one of CNN’s most decorated and venerated journalists, is leaving the network after 43 years, she said in a statement on Monday.Amanpour, who began working for the then-fledging network as an assistant on the international assignment desk in 1983 and is now its chief inter",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/media/2026/oct/19/christiane-amanpour-leaving-cnn",
+        "seendate": "2026-10-19T17:21:59.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "China’s economy grows faster than forecast after AI boom boosts exports",
+        "summary": "Third-quarter GDP up by 4.5% compared with last year as industrial output is buoyed by electronics demandRoaring exports lifted China’s economic growth in the third quarter of this year, with factory output growing much faster than consumer spending.China’s GDP grew by 4.5% year-on-year between July and September, the National Bureau of Statistics of China reported on Monday. The figures were better",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports",
+        "seendate": "2026-10-19T09:27:04.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "AI firm Anthropic to commit 5% of shares to fund for ‘public good’",
+        "summary": "The $48bn giveaway comes amid concerns about the tech and as the company prepares for a stock market listingAnthropic has said it will commit 5% of its shares to a fund for the “public good”, as the AI developer behind the Claude chatbot seeks to bolster its appeal before its stock market listing.The company announced it would commit the shares, worth around $48bn (£36bn) at its latest valuation in M",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/oct/19/ai-firm-anthropic-to-commit-shares-to-fund-for-public-good",
+        "seendate": "2026-10-19T12:51:04.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "US corporate lobbyists mounted ‘blitz’ to dilute landmark EU deforestation law, report finds",
         "summary": "Environmental watchdog Mighty Earth reveals two-year effort to postpone and weaken EU Deforestation RegulationUS corporate lobbyists launched a two-year “blitz” to postpone and weaken the world’s most progressive legislation to protect forests, according to a new investigation by the environmental watchdog Mighty Earth.Major US firms and trade associations, including Cargill, Bunge, Mondelēz and the",
@@ -94,210 +126,186 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/environment/2026/oct/17/us-corporate-lobbyists-europe-deforestation",
         "seendate": "2026-10-17T11:00:31.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "‘People’s dignity, and democracy, is at stake’: meet the economist ditching ideology for reality",
-        "summary": "Exclusive: Isabella Weber prescribes a common-sense solution to poverty, inequality and fascism – making life’s essentials affordable for allThe trouble with economists, Isabella Weber believes, is they do not behave like dentists. They obsess over ideological purity and are inflexible when searching for solutions, regardless of society’s symptoms. Dentists have no such pretensions – patients have little pa",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/oct/16/isabella-weber-anti-fascist-economics",
-        "seendate": "2026-10-16T04:00:50.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Key US voters say economy is getting worse ahead of midterms, exclusive poll finds",
-        "summary": "Nearly 61% believe country is in recession and 65% of independents say economy is worse, according to new Harris pollTell us: what is your personal ‘recession indicator’?With the midterm elections less than three weeks away, key voting groups including independents, rural voters",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/oct/15/voters-economy-cost-of-living-prices-poll",
-        "seendate": "2026-10-15T09:00:13.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Revealed: VW, Ford and Tesla batteries linked to destructive deforestation of indigenous lands",
-        "summary": "Mines in supply chains of western carmakers linked to widespread deforestation of primary rainforest in nickel-rich lands inhabited by Tolaki people in IndonesiaVolkswagen, Ford and Tesla are among the electric carmakers whose batteries may contain nickel mined in indigenous woodlands plagued by deforestation, an analysis has found, highlighting the struggle to make vehicles that are free from environmental",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/2026/oct/16/vw-ford-tesla-batteries-deforestation-indigenous-lands",
-        "seendate": "2026-10-16T07:00:56.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "People in the US: what is your personal ‘recession indicator’?",
-        "summary": "We’d like to hear about whether you feel like the US is in a recession and what you think signals such a downturnNearly two-thirds of Americans think the US is experiencing a recession, according to a new Harris Poll conducted for the Guardian. By the typical definition of a recession – when a country’s",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/oct/15/what-is-your-personal-recession-indicator",
-        "seendate": "2026-10-15T16:55:41.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "literature": [
       {
-        "title": "Majority of companies trapped in a  brand doom loop : Is AI making the problem worse ? ",
-        "summary": "",
-        "source": "digitaljournal.com",
-        "url": "https://www.digitaljournal.com/article/majority-of-companies-trapped-in-a-brand-doom-loop-is-ai-making-the-problem-worse/",
-        "seendate": "20261018T230000Z",
-        "domain": "digitaljournal.com"
+        "title": "Emperor of Nothing by Blake J Harris review – the definitive portrait of Larry David",
+        "summary": "The Seinfeld creator went from luckless standup to multi-millionaire – but what’s his secret? Larry David agreed to this authorised biography with a five-word email: “Oh&nbsp;Jesus. If we must.” As Blake J Harris tells it, the comedy writer has always been adept at finding reasons not to do something, or to stop doing it, even when there’s nothing to fall back on. As a peppery standup in 1970s New York, Dav",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/oct/19/emperor-of-nothing-blake-j-harris-review-larry-david-biography",
+        "seendate": "2026-10-19T06:00:23.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Critical Review : Champions Oncology ( NASDAQ : CSBR ) and Fortrea ( NASDAQ : FTRE ) ",
-        "summary": "Champions Oncology (NASDAQ:CSBR &#8211; Get Free Report) and Fortrea (NASDAQ:FTRE &#8211; Get Free Report) are both healthcare companies, but which is the better investment? We will compare the two businesses based on the strength of their profitability, risk, dividends, institutional ownership, earnings, valuation and analyst recommendations. Risk and Volatility Champions Oncology has a beta of [&hellip;]",
-        "source": "dailypolitical.com",
-        "url": "https://www.dailypolitical.com/2026/10/18/critical-review-champions-oncology-nasdaqcsbr-and-fortrea-nasdaqftre.html",
-        "seendate": "20261018T230000Z",
-        "domain": "dailypolitical.com"
+        "title": "Douglas Dunn obituary",
+        "summary": "Poet and writer whose collection Elegies channelled grief into exquisite poetry and won the Whitbread book of the yearDouglas Dunn, who has died aged 83, was overjoyed to find himself among the poetic aristocracy at Faber and Faber in 1969. His first book, Terry Street, had been accepted “by the publisher which issued Eliot, Pound, Auden, Larkin, Ted Hughes, Thom Gunn, and <a href=\"https://www.theguardian.c",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/oct/19/douglas-dunn-obituary",
+        "seendate": "2026-10-19T10:51:32.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Aussie approach touted to fix PNG teacher crisis",
-        "summary": "Reforms in Papua New Guinea have led to millions of students now attending school, but the changes have...",
-        "source": "therural.com.au",
-        "url": "https://www.therural.com.au/story/9370687/aussie-approach-touted-to-fix-png-teacher-crisis/",
-        "seendate": "20261018T230000Z",
-        "domain": "therural.com.au"
+        "title": "Anti-Zionism: A Jewish History by Benjamin Moser review – the deep roots of a contemporary movement",
+        "summary": "A biographer’s affecting account of prominent critics of Zionism, from Hannah Arendt to Nan Goldin“Everyone in America – at least as far as I knew – was a Zionist,” recalls Benjamin Moser, “especially but not only if you were Jewish.” A Pulitzer-winning biographer of Susan Sontag, he remembers being brought up short in his 20s, when a friend described Israel as “a bunch of foreigners who had no business in",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/oct/19/anti-zionism-a-jewish-history-by-benjamin-moser-review-the-deep-roots-of-a-contemporary-movement",
+        "seendate": "2026-10-19T12:00:02.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Zoe Kazan on her adaptation of Steinbeck East of Eden - and her grandfather ",
-        "summary": "Screenwriter Zoe Kazan talks about her adaptation of John Steinbeck&#x27;s 1952 novel – a sprawling multigenerational epic that explores the nature of good and evil - streaming now on Netflix.",
-        "source": "kedm.org",
-        "url": "https://www.kedm.org/npr-national-news/2026-10-18/zoe-kazan-on-her-adaptation-of-steinbecks-east-of-eden-and-her-grandfathers",
-        "seendate": "20261018T230000Z",
-        "domain": "kedm.org"
+        "title": "Life Out of Order by Audrey Niffenegger review – does this sequel measure up to The Time Traveler’s Wife?",
+        "summary": "More than two decades on, the passion that ignited Niffenegger’s debut has all but evaporated from this confused follow-upI run a reading workshop which begins with a little shelf assessment. Participants bring a stack of books that have shaped who they are: childhood treasures; new revelations; comfort reads. Books they once cherished but have now outgrown. The usual suspect in that category is Audrey Niff",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/oct/19/life-out-of-order-by-audrey-niffenegger-review-does-this-sequel-measure-up-to-the-time-travelers-wife",
+        "seendate": "2026-10-19T13:14:29.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Jason Clare eyes national maths overhaul to fix student slide | Glen Innes Examiner",
-        "summary": "Maths results have fallen steadily for more than two decades",
-        "source": "gleninnesexaminer.com.au",
-        "url": "https://www.gleninnesexaminer.com.au/story/9370003/jason-clare-eyes-national-maths-overhaul-to-fix-student-slide/",
-        "seendate": "20261018T230000Z",
-        "domain": "gleninnesexaminer.com.au"
+        "title": "‘Medieval romance overflowed with sexually active fairies’: the surprisingly long roots of romantasy",
+        "summary": "Critics mock it as raunchy trash – but this enchanting genre is much older, and wilder, than you might imagineThere’s a popular genre, filled with beautiful, human-sized fairies having sex with humans (often quite violent sex, but the people reading it seem to enjoy it). Word is that it’s badly written and unashamedly escapist – all&nbsp;golden, glittering palaces, wild adventure and, of course, gorgeous fa",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/oct/18/medieval-romance-overflowed-with-sexually-active-fairies-the-surprisingly-long-roots-of-romantasy",
+        "seendate": "2026-10-18T11:00:01.000Z",
+        "domain": "theguardian.com"
       }
     ],
     "entertainment": [
       {
-        "title": "Masterplan review – Stanley Tucci is wasted in Amazon’s smooth-brained heist caper",
-        "summary": "A ‘family’ of criminals attempt to steal the Mona Lisa from the Louvre in pulpy and forgettable thrillerIn the last half-decade Stanley Tucci has been a source of near-inexhaustible on- screen delight, whether making friends with nonnas in his delightful <a href=\"https://www.theguardian.com/tv-and-radio/2022/feb/27/stanley-tucci-searching-for-ital",
+        "title": "Secrets, lies and a shock A-list cameo: how You Can See Everything became the film of the year",
+        "summary": "Nathan Fielder’s secretive Elizabeth Holmes documentary has become a sold-out smash hit and might make Oscars historySpoilers aheadIf there is one moment that sums up You Can See Everything, the new A24 documentary on Elizabeth Holmes that until this weekend was shrouded in spoiler-averse s",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/oct/16/masterplan-stanley-tucci-movie-review",
-        "seendate": "2026-10-16T19:24:23.000Z",
+        "url": "https://www.theguardian.com/film/2026/oct/19/you-can-see-everything-movie-spoilers-success",
+        "seendate": "2026-10-19T16:17:48.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Jimmy Kimmel on Trump’s new press secretary: ‘attorney in the way George Santos was volleyball champion’",
-        "summary": "Late-night host discussed Trump’s falling poll numbers and concerns over his new press secretary, Katie ZachariaTrump’s new press secretary says it’s ‘unknown’ how much she’ll deal with mediaWith other hosts still on holiday, <a href=\"https://www.theguardian.com/tv-and-radio/",
+        "title": "‘They pulled a guy’s face off. It’s my favourite bit!’ Linda Cardellini on Freaks and Geeks, Mad Men and slasher horror Crystal Lake",
+        "summary": "She got to torment Don Draper in Mad Men and has just won an Emmy for DTF St Louis. But nothing prepared the star for all the gore as she switched to horror with the Friday the 13th prequel‘The first time I had the tooth in my hand,” says Linda Cardellini, “I thought, ‘Oh my God, this is what I’m doing.’” The star of Freaks and Geeks, ER, Dead to Me, Mad Men and DTF St Louis (for which she recently",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/culture/2026/oct/16/jimmy-kimmel-katie-zacharia-trump-press-secretary",
-        "seendate": "2026-10-16T13:04:10.000Z",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/oct/19/linda-cardellini-freaks-and-geeks-mad-men-crystal-lake-friday-13th-dtf-st-louis",
+        "seendate": "2026-10-19T15:46:12.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "I’ve debated with Israel’s most fervent defenders – NAZA debunks their talking points | Mehdi Hasan",
-        "summary": "The film’s testimonies from Israeli soldiers and intelligence officers expose years of baseless propaganda. Don’t take my word – take theirsI watched the extraordinary new Guardian-produced documentary from Oscar-winning Israeli film-makers Yuval Abraham and Rachel Szor the other ni",
+        "title": "With nine new recordings of Mahler’s epic Resurrection Symphony this year alone, which rises above the rest?",
+        "summary": "The second – the ‘Resurrection’ – was the first Mahler symphony ever to be recorded, and it is still today an essential work in any conductor’s catalogue. But with hundreds of recordings, from Ormandy to Bernstein and Rattle, which does our reviewer recommend?Is it something in the water? Or is it simply that triumph over adversity sells in today’s uncertain world? Whatever the reason, Mahler’s Resurrection",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/commentisfree/2026/oct/16/naza-israel-film",
-        "seendate": "2026-10-16T12:00:10.000Z",
+        "url": "https://www.theguardian.com/music/2026/oct/19/mahler-second-symphony-resurrection-recommended-recording-rattle-brso",
+        "seendate": "2026-10-19T14:55:54.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "An open book: how to make a great film adaptation, from The Shining to Trainspotting",
-        "summary": "Not every great novel makes a great movie, and sometimes the opposite is true. But regardless of the source text, or how beloved characters are treated, there is more than one way to write a successful adaptationIt is always fun to join in a craze, like a Victorian going mad for penny farthings. Which is probably why, against my better judgment, I&nbsp;went to see Christopher Nolan’s blockbuster The Odyssey",
+        "title": "Life Out of Order by Audrey Niffenegger review – does this sequel measure up to The Time Traveler’s Wife?",
+        "summary": "More than two decades on, the passion that ignited Niffenegger’s debut has all but evaporated from this confused follow-upI run a reading workshop which begins with a little shelf assessment. Participants bring a stack of books that have shaped who they are: childhood treasures; new revelations; comfort reads. Books they once cherished but have now outgrown. The usual suspect in that category is Audrey Niff",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/oct/16/book-film-adaptations-shining-trainspotting-bridget-jones-godfather-clockwork-orange-silence-lambs",
-        "seendate": "2026-10-16T12:00:10.000Z",
+        "url": "https://www.theguardian.com/books/2026/oct/19/life-out-of-order-by-audrey-niffenegger-review-does-this-sequel-measure-up-to-the-time-travelers-wife",
+        "seendate": "2026-10-19T13:14:29.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Add to playlist: the buzzy bildungsromans of boy wonder Superfan and the week’s best new tracks",
-        "summary": "Kali Flanagan was handpicked by Julian Casablancas to support the Strokes – now, at 21, he’s writing songs full of the rushing emotions of youthFrom New York Recommended if you like Cameron Winter, Adrianne Lenker, Alex G Up next My Piledriver Heart album out now; UK tour beginning 4 NovemberMaking coming-of-age music as a young person can",
+        "title": "‘They were brilliant people’: fascinating film reveals a Harlem Renaissance reunion",
+        "summary": "In the dazzling archival documentary Once Upon a Time in Harlem, a 1972 cocktail party brings together various creative luminaries as they discuss and debateMore than a flowering of the arts at the dawn of the 20th century, the Harlem Renaissance marked the breakthrough moment when Black Americans asserted their creative control, defining a culture that had been purpose-built to exclude them. The imprints w",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/music/2026/oct/16/add-to-playlist-the-buzzy-bildungsromans-of-boy-wonder-superfan-and-the-weeks-best-new-tracks",
-        "seendate": "2026-10-16T11:00:46.000Z",
+        "url": "https://www.theguardian.com/film/2026/oct/19/harlem-renaissance-documentary-once-upon-a-time",
+        "seendate": "2026-10-19T10:00:06.000Z",
         "domain": "theguardian.com"
       }
     ],
     "f1": [
       {
-        "title": "Stray Kids' Felix sends fans into frenzy with behind-the-scenes Ferrari F1 photos",
-        "summary": "Stray Kids' Felix has shared behind-the-scenes photos from his time with Ferrari at the Singapore Grand Prix, and the team has posted its own footage of the K-pop star in the garage.Felix, a member of the South Korean group Stray Kids, was a guest of the Ferrari Formula 1 team at Marina Bay circuit last weekend. Following his time with the Scuderia, he posted to Instagram a number of ...<a class='more' h",
+        "title": "Christian Horner: Building Red Bull’s F1 engine was “scary as hell”",
+        "summary": "Former Red Bull team principal Christian Horner has admitted that building the team’s in-house power unit from scratch was “scary as hell”, after the engine claimed its first race wins this 2026 season. This comes despite him being axed from the team a year earlier.Horner was removed from his position in Milton Keynes after the 2025 British Grand Prix. A bout of poor results and ...<a class='more' href='",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/stray-kids-felix-sends-fans-into-frenzy-with-behind-the-scenes-ferrari-f1-photos/10866141/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-19T00:05:02.000Z",
+        "url": "https://www.motorsport.com/f1/news/christian-horner-receives-unexpected-call-from-red-bull-after-breakthrough/10866228/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-19T21:13:42.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Documentary on Lewis Hamilton and Fernando Alonso's F1 rivalry reportedly in the works",
-        "summary": "According to former Spanish F1 commentator Antonio Lobato, the BBC is making a documentary about Lewis Hamilton and Fernando Alonso's chaotic 2007 season together at McLaren.Lobato, who is now the co-director of Spanish website SoyMotor.com, discussed the supposed project on the outlet's Twitch channel earlier this week. It should be noted that the BBC is yet to confirm the documentary.\"It ...<a clas",
+        "title": "How soon can Mercedes win the 2026 F1 constructors' championship?",
+        "summary": "Mercedes has had a dominant start to the new regulations in 2026, but while its driver Kimi Antonelli could technically seal his Formula 1 championship win this coming Sunday at the United States Grand Prix, Mercedes as a team will have to wait a little longer to confirm its constructors' championship.The Mexican Grand Prix is the earliest the Brackley squad could confirm its constructors' ...<a class='m",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/lewis-hamilton-and-fernando-alonsos-infamous-mclaren-rivalry-set-for-bbc-documentary/10866138/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-18T22:55:58.000Z",
+        "url": "https://www.motorsport.com/f1/news/how-soon-can-mercedes-win-the-2026-f1-constructors-championship/10866296/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-19T21:03:36.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "BBC could lose F1 radio rights after 32 years as rival broadcaster considers bid",
-        "summary": "talkSPORT is considering a bid for the UK radio rights to Formula 1, which could end the BBC's long run as the sport's home on radio in the country.The station's head, Liam Fisher, told The Telegraph that F1 would suit talkSPORT's listeners, as reported by Crash.net. The BBC has broadcast F1 on radio since 1994, so this could be a massive change to how UK-based F1 fans keep up with their ...<a class='mor",
+        "title": "Valtteri Bottas raises almost €50,000 for rhino charity with F1 helmet fundraiser",
+        "summary": "Valtteri Bottas has revealed the winner of the race-worn rhino helmet he used at the Azerbaijan Grand Prix after a fundraising drive for a South African rhino charity.The Cadillac driver revealed the result on Instagram. \"We officially have a winner of my race-worn rhino helmet! Thank you all for your support for Care for Wild,\" he wrote. \"We will contact the winner directly, and the funds to ...<a class",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/bbc-could-lose-f1-radio-rights-after-32-years-as-rival-broadcaster-considers-bid/10866051/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-18T12:05:02.000Z",
+        "url": "https://www.motorsport.com/f1/news/valtteri-bottas-raises-almost-50000-for-rhino-charity-with-f1-helmet-fundraiser/10866360/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-19T17:15:06.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Max Verstappen hits back at ex-F1 drivers over criticism of 2026 regulations",
-        "summary": "Red Bull driver Max Verstappen has spoken out on the criticism he has received from former drivers, with the four-time champion believing this negativity stems from the pundits not understanding the 2026 regulations.Talking with De Telegraaf during the Singapore Grand Prix weekend, after being shown recent comments from 1996 world champion Damon Hill, the Dutchman gave his opinion on why, in ...<a class=",
+        "title": "Sergio Perez: Debut Cadillac season \"without a doubt one of my best years\"",
+        "summary": "If one looks at Sergio Perez's numbers in the 2026 Formula 1 season, the campaign could be classified as disastrous.So far, Cadillac has not scored a point, although the Mexican came close to achieving it at the Monaco Grand Prix where he took the MAC-10 up to tenth position before suffering a penalty. But while the numbers tell part of the story, one must look at the full picture, which is ...<a class='",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/max-verstappen-hits-back-at-former-f1-drivers-over-criticism-of-2026-regulations/10866045/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-18T11:35:02.000Z",
+        "url": "https://www.motorsport.com/f1/news/sergio-perez-debut-cadillac-season-without-a-doubt-one-of-my-best-years/10866353/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-19T16:42:07.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "How Geri Halliwell helped Christian Horner deal with fan hate",
-        "summary": "Christian Horner has explained how his celebrity wife Geri Halliwell helped him overcome the hate that came with his rise in fame thanks to Formula 1 drama Drive to Survive.Since 2015 Horner has been married to former Spice Girl Halliwell, who joined the world-famous pop band in 1994 at the age of 22, meaning she had fame from early on in her life.For Horner it came much later and largely ...<a class",
+        "title": "Lewis Hamilton grandstand returns to Las Vegas GP with expanded access for fans",
+        "summary": "Lewis Hamilton's own grandstand is returning for the 2026 Las Vegas Grand Prix, with the package offering exclusive merchandise and wider access to the event's fan zones.Lewis Hamilton Grandstand tickets include an assigned seat in the West Harmon Zone, all-inclusive beer, access to live entertainment and driver interviews at the Heineken Stage, viewing of all on-track sessions including ...<a class='mor",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/how-geri-halliwell-helped-christian-horner-deal-with-fan-hate/10865211/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-18T11:00:03.000Z",
+        "url": "https://www.motorsport.com/f1/news/lewis-hamilton-grandstand-returns-to-las-vegas-gp-with-expanded-access-for-fans/10866351/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-19T16:40:09.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "23 devs teamed up to make a free game of 'innovative yet questionable volume sliders,' and it feels like browser-based WarioWare",
-        "summary": "Here for a good time and a loud time.",
+        "title": "Star Wars Zero Company adds new difficulty options that can bring it closer to XCOM",
+        "summary": "Turning up the heat a little.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/23-devs-teamed-up-to-make-a-free-game-of-innovative-yet-questionable-volume-sliders-and-it-feels-like-browser-based-warioware/",
-        "seendate": "2026-10-18T22:36:22.000Z",
+        "url": "https://www.pcgamer.com/games/strategy/star-wars-zero-company-adds-new-difficulty-options-that-can-bring-it-closer-to-xcom/",
+        "seendate": "2026-10-19T21:47:17.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Dark Souls 2 dataminer shows off massive prototype coliseum level from early development",
-        "summary": "Bigger than the ones in Elden Ring, for what it's worth.",
+        "title": "I have added completely realistic Uber driving to Grand Theft Auto 5",
+        "summary": "Your driver is nearby.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/dark-souls/dark-souls-2-dataminer-shows-off-massive-prototype-coliseum-level-from-early-development/",
-        "seendate": "2026-10-18T18:48:42.000Z",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-added-completely-realistic-uber-driving-to-grand-theft-auto-5/",
+        "seendate": "2026-10-19T17:00:00.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Leaked AI safety bill from Anthropic only requires government intervention if 50+ injuries or $1 billion are at risk",
-        "summary": "Claude, finish drafting my single-use ray gun which can only vaporize $999 million worth of stuff and/or 49 people.",
+        "title": "GameSir Nova Lite 2 review",
+        "summary": "The best deal in controllers at $30 or less right now.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/software/ai/leaked-ai-safety-bill-from-anthropic-only-lets-government-act-if-50-deaths-or-usd1-billion-are-on-the-line/",
-        "seendate": "2026-10-18T18:44:11.000Z",
+        "url": "https://www.pcgamer.com/hardware/controllers/gamesir-nova-lite-2-review/",
+        "seendate": "2026-10-19T15:01:40.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "The Outlast Trials' initial playtests went poorly: Designer says 6-year development took 'a f**king long time' and 'a s**t-ton of prototypes'",
-        "summary": "Red Barrels co-founder Philippe Morin recently spoke on the trials The Outlast Trials outlasted.",
+        "title": "No publishers wanted Outlast because they'd 'rather invest $50,000 in 10 mobile games' so Red Barrels relied on public investment programs and their own savings instead",
+        "summary": "\"Everything was on the line\" during Outlast's development.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/horror/the-outlast-trials-initial-playtests-went-poorly-designer-says-6-year-development-took-a-f-king-long-time-and-a-s-t-ton-of-prototypes/",
-        "seendate": "2026-10-18T17:18:53.000Z",
+        "url": "https://www.pcgamer.com/games/horror/no-publisher-wanted-outlast-because-theyd-rather-invest-usd50-000-in-10-mobile-games-so-red-barrels-relied-on-public-investment-programs-and-their-own-savings-instead/",
+        "seendate": "2026-10-19T11:34:55.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "No soundtrack does it like Hades 2",
-        "summary": "I'm still listening to this thing a year later.",
+        "title": "RTX 5090 not dead, says Nvidia—but it's mysteriously vanished from the company's official marketplace",
+        "summary": "Another Schrödinger's graphics card?",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/roguelike/no-soundtrack-does-it-like-hades-2/",
-        "seendate": "2026-10-18T17:00:00.000Z",
+        "url": "https://www.pcgamer.com/hardware/graphics-cards/rtx-5090-not-dead-says-nvidia-but-its-mysteriously-vanished-from-the-companys-official-marketplace/",
+        "seendate": "2026-10-19T11:12:36.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
+      {
+        "title": "AI firm Anthropic to commit 5% of shares to fund for ‘public good’",
+        "summary": "The $48bn giveaway comes amid concerns about the tech and as the company prepares for a stock market listingAnthropic has said it will commit 5% of its shares to a fund for the “public good”, as the AI developer behind the Claude chatbot seeks to bolster its appeal before its stock market listing.The company announced it would commit the shares, worth around $48bn (£36bn) at its latest valuation in M",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/oct/19/ai-firm-anthropic-to-commit-shares-to-fund-for-public-good",
+        "seendate": "2026-10-19T12:51:04.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "World Bank says ‘small AI’ could transform developing countries",
         "summary": "Bank’s chief knowledge officer says the tech could speed up economic development from centuries to decadesThe World Bank is urging developing countries to kickstart the creation of “small AI” models, which can run on a mobile phone with low connectivity, to reap the full benefits of artificial intelligence.While Silicon Valley big tech firms are focused on ever more sophisticated consumer products, P",
@@ -307,39 +315,55 @@ window.NEWS_CACHE = {
         "domain": "theguardian.com"
       },
       {
+        "title": "US teens can access ‘nudify’ apps despite Apple and Google’s parental controls, report finds",
+        "summary": "Exclusive: Using test accounts acting as 13-year-olds, Tech Transparency Project downloaded 135 apps with features to generate nonconsensual nude imageryIn December 2025, Morgan Dorfman received distressing news: a student at her daughter’s Pennsylvania high school was making AI-generated pornographic material using the daughter’s image.He was using an <a href=\"https://www.theguardian.com/technology/",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/oct/19/us-teens-nudify-apps-apple-google-parental-controls",
+        "seendate": "2026-10-19T10:00:05.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "‘No influencers’: the hotels, restaurants and beauty spots restricting photoshoots",
+        "summary": "Backlash against content creators includes restricted hours for filming and even outright bansStand in any vaguely photogenic spot these days on holiday and the chances are you will come across people posing with raised phones and even ring lights. Some may be influencers with huge audiences on social media, others just overkeen Instagram users. With hotels and beauty spots now so overrun, however, bans on",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/media/2026/oct/19/no-influencers-hotels-restaurants-beauty-spots-restricting-photoshoots",
+        "seendate": "2026-10-19T04:00:19.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "What are self-replicating ‘AI worms’, and why is Anthropic worried about them?",
         "summary": "The tech company says successful AI worms need more capability on less powerful devices, but current trends make that feasible by the end of the yearWarnings about what artificial intelligence might do in the future – together with alarming reports of what it has gotten up to already – are being issued so quickly that even security experts have difficulty triaging what to worry about.Yet a <a href=\"h",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/technology/2026/oct/18/anthropic-ai-worm-worries",
         "seendate": "2026-10-18T13:30:00.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Wikipedia often gets taken for granted – but its history is fascinating, and its future is fragile",
-        "summary": "Wikipedia’s 68m articles have been consulted trillions of times. Not bad for a website that has barely changed since it was founded 20 years agoA few years ago, I was struck by the tension between how Wikipedia was used, and how it was talked about. Everyone was on it all the time, and yet its reputation had stalled at “don’t trust it”, because it was the “free encyclopedia that anyone can edit”.Clea",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/oct/18/wikipedia-human-history-ai-future-under-threat",
-        "seendate": "2026-10-18T14:00:02.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Fake Linda and me: the Agatha Christie-worthy mystery of the fraudster who stole my byline",
-        "summary": "How a string of bizarre events led writer Linda Geddes to don her sleuthing cap and dig into a world of shadowy impersonatorsIt started with an entirely ordinary interaction on LinkedIn. Someone had tagged me in a post, saying how much they’d enjoyed contributing to a New York Post article I’d written about “chronoworking”. As the author of a book about circadian rhythms, it was exactly the sort of subject",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/oct/17/fake-linda-and-me-mystery-fraudster-stole-my-byline",
-        "seendate": "2026-10-17T11:00:30.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Palantir patient data tech rejected by many NHS trusts in England",
-        "summary": "Exclusive: health bodies across country say controversial US firm’s data platform no better than systems already in useNHS organisations that care for millions of people in England are rejecting Palantir’s patient data technology, according to freedom of information responses that reveal health bosses believe they can find better or equal alternatives in many cases.Some health bodies said the £330m f",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/oct/17/palantir-patient-data-tech-rejected-by-many-nhs-trusts-in-england",
-        "seendate": "2026-10-17T06:00:24.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "climate": [
+      {
+        "title": "Colorado wildlife overpass cut vehicle-animal collisions by 91%, report finds",
+        "summary": "Elk, bear, frogs and other animals have used the overpass, which connects 39,000 acres of habitat, since its completionColorado officials have tracked herds of elk, bears, pronghorn and even northern leopard frogs ambling across its new wildlife overpass. According to a newly released report, the overpass, which acts as a bridge over a busy stretch of interstate, has helped cut wildlife-vehicle collisions b",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/oct/19/colorado-wildlife-overpass-vehicle-animal-collisions-results",
+        "seendate": "2026-10-19T23:17:12.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Melting Ron DeSantis statue unveiled to call out his inaction on climate crisis",
+        "summary": "Florida governor has consistently opposed any legislation to curb planet-heating emissions, calling it a ‘radical climate agenda’A life-sized statue of Ron DeSantis, the Florida governor, was unveiled and promptly began melting in front of an audience in Tallahassee in a symbolic protest at his rejection of action on the climate crisis.The silvery statue, revealed to an audience of onlookers last wee",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/oct/19/melting-ron-desantis-statue-climate-crisis",
+        "seendate": "2026-10-19T19:22:02.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "US disaster survivors still await at least $10bn in federal aid: ‘It’s devastating’",
+        "summary": "The last long-term federal recovery funds allocated for a major disaster were for Hurricane Milton, which hit in late 2024Survivors of extreme weather disasters across the US are facing long waits for government assistance funds to rebuild their lives, with the last long-term recovery funds allocated for <a href=\"https://www.theguardian.com/us-",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/oct/19/us-disaster-survivor-payouts-fema",
+        "seendate": "2026-10-19T10:00:03.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "EPA quietly backtracks on claims US has phased out toxic Pfas compounds",
         "summary": "Agency changes wording on website as Texas-based firm continues manufacture of plastic container barriersThe Environmental Protection Agency has quietly backtracked on a claim that the US has phased out two of the most dangerous Pfas compounds – Pfoa and Pfos.The EPA has found that <a href=\"https://www.federalregister.gov/documents/2022/06/21/2022-13158/lifetime-drinking-water-health-advisories-for-f",
@@ -349,39 +373,31 @@ window.NEWS_CACHE = {
         "domain": "theguardian.com"
       },
       {
-        "title": "US workers facing deadly heat borrow from tomato pickers to win key protections",
-        "summary": "As efforts to protect people from extreme heat stall, organizers are embracing an approach that targets major brands’ reputations“It’s the kind of heat that makes you feel like you’re being dehydrated, like your skin is drying out,” said Lucas Benitez, after harvesting watermelons with his sons and wife this summer. “The heat that we had 30 years ago is not nearly the heat that we have today.”This su",
+        "title": "US workers facing deadly heat embrace tactic that targets major brands’ reputations",
+        "summary": "Program founded by tomato growers has some of the strongest US worker protections – and its approach is being emulated by other groups“It’s the kind of heat that makes you feel like you’re being dehydrated, like your skin is drying out,” said Lucas Benitez, after harvesting watermelons with his sons and wife this summer. “The heat that we had 30 years ago is not nearly the heat that we have today.”Th",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/environment/2026/oct/18/workers-heat-protections",
         "seendate": "2026-10-18T12:00:02.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "A California town’s beaches are washing away. Can its residents turn the tide?",
-        "summary": "Rapid coastal erosion threatens coastal homes and economies, and as Super El Niño rounds the corner, a town is reckoning with the reality of climate crisisSan Clemente is one of southern California’s most picture-perfect beach towns – a capital of American surf culture since the 1950s. In two years, 2028 Olympic surfers will compete at Lower Trestles, a world-class surfing beach.But the town’s longti",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/oct/18/california-beach-erosion-san-clemente",
-        "seendate": "2026-10-18T11:00:03.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "If Trump fells 430 trees in the middle of a golf course, do they make a sound?",
-        "summary": "In attempting to turn a public space in DC into an enclave for elites, Trump is moving the US capital closer to GracelandWhen is a tree not a tree? When it’s an obstacle to a par-3. If a tree falls in the middle of a golf course, does it make a sound? Yeah, probably. I wasn’t there, but I have to assume, based on my limited knowledge of the laws of physics.What I do know is that Donald Trump’s",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/commentisfree/2026/oct/18/trump-golf-course-washington-dc",
-        "seendate": "2026-10-18T10:00:56.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Arizona joins Nevada to fight proposed cuts to their shares of Colorado River",
-        "summary": "Move comes after Trump administration announced restrictions that could slash water suppliesArizona has joined Nevada in its legal battle against the Trump administration’s proposed cuts to their shares of the shrinking Colorado River.The move comes after the interior department announc",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/oct/17/arizona-nevada-water-rights-colorado-river",
-        "seendate": "2026-10-17T23:40:11.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "science": [
+      {
+        "title": "Warning signs could predict inflammatory bowel disease a decade before diagnosis",
+        "summary": "Antibody patterns in the blood may help doctors identify people at risk so they can be treated earlier, research showsPatterns of antibodies in people’s blood could predict the onset of inflammatory bowel disease (IBD) a decade before diagnosis, according to research that raises hopes for catching the condition early.Crohn’s disease and ulcerative colitis, the two main forms of IBD, are typically tre",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/oct/18/research-predict-inflammatory-bowel-disease-decade-before-diagnosis",
+        "seendate": "2026-10-18T22:01:10.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Starwatch: Catch the Orionid meteor shower streak across the night sky",
+        "summary": "As Earth passes through dust left by Halley’s comet, observers may see 10-20 fragments per hourThe annual Orionid meteor shower reaches its peak this week, offering the chance to see fragments of the most famous comet of all streaking across the night sky.The Orionids occur every October as Earth passes through a stream of dust left behind by Halley’s comet. As these tiny particles plunge into Earth’",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/oct/19/orionid-meteor-shower-halley-comet-starwatch",
+        "seendate": "2026-10-19T05:00:21.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Japan to launch world-first mission to collect samples from Martian moon",
         "summary": "Japanese space agency leads five-year mission to Phobos, one of ‘most important unclimbed mountains in the solar system’Japan is to launch a spacecraft on the world’s first mission to bring back samples from Phobos, one of the two small, potato-shaped moons orbiting Mars.Scientists hope the mission, which is expected to take five years, will provide clues to how Phobos and its smaller sibling Deimos",
@@ -404,22 +420,6 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/science/2026/oct/15/times-up-for-the-leap-second-as-scientists-swap-it-for-the-leap-hour",
         "seendate": "2026-10-15T16:16:10.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Margaret Hamilton obituary",
-        "summary": "Pioneering software engineer whose work was critical to the Apollo moon landingsApollo was a bold, innovative project. It tested the boundaries of technology and human achievement, and took people to the moon. However, one thing it failed to challenge was the prevailing hierarchy. Nearly everyone involved in Na",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/oct/18/margaret-hamilton-obituary",
-        "seendate": "2026-10-18T10:43:26.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Could AI ‘change the stakes’ in the development of bioweapons?",
-        "summary": "Experts say the technology could help terrorists and nation states with production but that significant hurdles remainIn his annual speech on threats to the nation, Sir Ken McCallum, the head of the UK’s intelligence service, MI5, warned that AI had the potential to “change the stakes” on existing and even new bioweapons. Here we look at how AI might help in the development of bioweapons and the hurdles tha",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/oct/14/could-ai-change-the-stakes-in-the-development-of-bioweapons",
-        "seendate": "2026-10-14T17:34:14.000Z",
         "domain": "theguardian.com"
       }
     ]
