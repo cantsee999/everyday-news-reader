@@ -1,8 +1,16 @@
 window.NEWS_CACHE = {
-  "generatedAt": "2026-10-22T01:03:43.333Z",
+  "generatedAt": "2026-10-23T01:03:47.958Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
+      {
+        "title": "Lewis Hamilton aims to extend career till early 2030s so he can race in African Grand Prix",
+        "summary": "41-year-old set on ‘dream to be able to race in Africa’Rwanda to host despite criticism of human rights recordLewis Hamilton has said he hopes to remain racing in Formula One until he can take part in the African Grand Prix which is <a href=\"https://www.theguardian.com/sport/2026/oct/13/f1-returns-to-africa-for-first-time-since-1993-with-10-year-rwanda-deal-from-early-2030s",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/sport/2026/oct/22/lewis-hamilton-aims-to-extend-career-till-early-2030s-so-he-can-race-in-african-grand-prix",
+        "seendate": "2026-10-22T21:53:28.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Controversial US-backed vaccine trial in African newborns halted",
         "summary": "Hepatitis B study in Guinea-Bissau that was to be funded by CDC and that drew global backlash ‘will not move forward’The US-backed hepatitis B vaccine trial in African newborns that drew global backlash was halted, the lead researcher said on Wednesday.It was “now clear” that the study “will not move forward in Guinea-Bissau”, Frederik Schaltz-Buchholzer, a Danish researcher, <a href=\"https://www.lin",
@@ -33,19 +41,19 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/world/2026/oct/20/rfk-jr-vaccine-researchers-offices-raided-guinea-bissau",
         "seendate": "2026-10-20T19:18:03.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "US grants deportation reprieve to migrants from Ukraine and Sudan",
-        "summary": "DHS says migrants ‘retain protections’ after temporary protected status was set to expire on MondaySend us your questions about immigration and the midtermsMore than 100,000 people from Ukraine and Sudan can stay in the United States without immediate risk of deportation, the Departme",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/oct/19/us-migrants-deportation-ukraine-sudan",
-        "seendate": "2026-10-19T22:34:43.000Z",
         "domain": "theguardian.com"
       }
     ],
     "conflict": [
       {
+        "title": "Lewis Hamilton aims to extend career till early 2030s so he can race in African Grand Prix",
+        "summary": "41-year-old set on ‘dream to be able to race in Africa’Rwanda to host despite criticism of human rights recordLewis Hamilton has said he hopes to remain racing in Formula One until he can take part in the African Grand Prix which is <a href=\"https://www.theguardian.com/sport/2026/oct/13/f1-returns-to-africa-for-first-time-since-1993-with-10-year-rwanda-deal-from-early-2030s",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/sport/2026/oct/22/lewis-hamilton-aims-to-extend-career-till-early-2030s-so-he-can-race-in-african-grand-prix",
+        "seendate": "2026-10-22T21:53:28.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Controversial US-backed vaccine trial in African newborns halted",
         "summary": "Hepatitis B study in Guinea-Bissau that was to be funded by CDC and that drew global backlash ‘will not move forward’The US-backed hepatitis B vaccine trial in African newborns that drew global backlash was halted, the lead researcher said on Wednesday.It was “now clear” that the study “will not move forward in Guinea-Bissau”, Frederik Schaltz-Buchholzer, a Danish researcher, <a href=\"https://www.lin",
         "source": "theguardian.com",
@@ -76,59 +84,83 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/world/2026/oct/20/rfk-jr-vaccine-researchers-offices-raided-guinea-bissau",
         "seendate": "2026-10-20T19:18:03.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "US grants deportation reprieve to migrants from Ukraine and Sudan",
-        "summary": "DHS says migrants ‘retain protections’ after temporary protected status was set to expire on MondaySend us your questions about immigration and the midtermsMore than 100,000 people from Ukraine and Sudan can stay in the United States without immediate risk of deportation, the Departme",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/oct/19/us-migrants-deportation-ukraine-sudan",
-        "seendate": "2026-10-19T22:34:43.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "economy": [
       {
-        "title": "‘Hunted like animals’: inside Trump’s war on the people who build America",
-        "summary": "Lorenzo Salgado Araujo was a house framer before he was killed by ICE agents. Countless other Latino builders in Texas live in fear of a similar fateEvery morning long before dawn, while America sleeps, legions of Texas construction workers grab their fluorescent vests and hard hats, sling ladders and tools into their trucks, and head down the highway for another day of grueling labour under the blistering",
+        "title": "Too little, too late: Trump takes on gas prices as fuel costs hamper his midterm hopes",
+        "summary": "Polls show US voters are deeply upset by high gas prices and are likely to punish Republicans in the midterms as a resultHow will Trump’s mass deportation agenda shape the US midterm elections? Our reporters answer your questionsWith fewer than two weeks until",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/21/trump-ice-construction-worker-deportation",
-        "seendate": "2026-10-21T10:00:02.000Z",
+        "url": "https://www.theguardian.com/us-news/2026/oct/22/trump-high-gas-prices-midterms-cycle",
+        "seendate": "2026-10-22T11:00:40.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "French borrowing costs hit 24-year high as civil unrest and budget fears spook markets",
-        "summary": "Yield on 10-year government bonds passes 5% amid failure to pass budget and fallout from violent street protestsFrance’s borrowing costs have climbed above 5% for the first time in 24 years as political concerns and the government’s failure to agree a much-delayed budget spook the financial markets.With some civic buildings still smouldering from recent riots, a fresh bout of selling pushed up",
+        "title": "US judge orders Trump to sit for deposition in $10bn lawsuit against BBC",
+        "summary": "Judge threatens to dismiss Trump’s BBC lawsuit unless he cooperates with discovery process and sits for depositionDonald Trump has been ordered by a US judge to cooperate with the discovery process mandated for his lawsuit against the BBC and to sit for a deposition by 11 December – or else he could be subject to sanctions, including the possible dismissal of the $10bn lawsuit.The lawsuit stems from",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/oct/21/french-borrowing-costs-failure-to-pass-budget-govenment-bonds-violent-street-protests",
-        "seendate": "2026-10-21T13:17:32.000Z",
+        "url": "https://www.theguardian.com/us-news/2026/oct/22/trump-bbc-lawsuit-deposition-discovery",
+        "seendate": "2026-10-22T17:18:12.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Tesla and SpaceX explore merger as Elon Musk gives backing",
-        "summary": "Billionaire, on SpaceX earnings call, says ‘special committees’ exploring idea but no agreement reached yetAs SpaceX released its second-ever public earnings report on Tuesday, Elon Musk declared his support for combining the aerospace and AI company with his electric vehicle company, Tesla. He said both companies had created special committees to explore a potential merger, but have not reached any agreeme",
+        "title": "Elon Musk reportedly invests $1bn in David Ellison’s Skydance",
+        "summary": "Musk’s investment into the new media empire comes after Paramount’s $111bn merger with Warner Bros DiscoveryElon Musk has reportedly invested approximately $1bn in Skydance, the new media empire led by David Ellison.The deal comes alongside fresh equity infusions from existing investors,",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/oct/20/spacex-revenue-earnings-report",
-        "seendate": "2026-10-21T01:10:07.000Z",
+        "url": "https://www.theguardian.com/technology/2026/oct/22/elon-musk-david-ellison-skydance-investment",
+        "seendate": "2026-10-22T21:23:39.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "United Airlines CEO faces rightwing backlash after calling for US wealth tax",
-        "summary": "Scott Kirby says wealth inequality is a ‘danger to society’ and calls for inheritance tax in recent interviewScott Kirby, the CEO of United Airlines, is under scrutiny from conservative politicians and commentators for saying wealth inequality is a “danger to society” and calling for a national wealth and inheritance tax in a recent interview.Talking to the <a href=\"https://www.nytimes.com/2026/10/18",
+        "title": "Meta strikes deal with Mark Zuckerberg to help him foot billionaire tax bill",
+        "summary": "Chief executive agrees to remain in California for eight years even if state brings in one-off 5% wealth taxMeta has struck a deal with Mark Zuckerberg to help him foot a possible California wealth tax targeting billionaires.The social media company behind Facebook, Instagram and WhatsApp revealed on Wednesday night that the arrangement would keep its chief executive living in California, where Meta’",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/oct/20/scott-kirby-united-wealth-tax-backlash",
-        "seendate": "2026-10-20T20:06:31.000Z",
+        "url": "https://www.theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax",
+        "seendate": "2026-10-22T15:40:03.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "US judge dismisses sexual abuse lawsuit from Sam Altman’s sister",
-        "summary": "Ann Altman, the Open AI CEO’s sister, accused her brother of repeatedly sexually abusing her over two decades agoA judge dismissed a lawsuit filed by Sam Altman’s sister against him on Tuesday. Ann Altman accused the OpenAI CEO of repeatedly sexually abusing her more than two decades ago, which he has denied.In dismissing Ann Altman’s ⁠lawsuit, the US district judge Zachary Bluestone wrote that she h",
+        "title": "Marine life in Gulf of Mexico has still not fully recovered from 2010 BP oil spill",
+        "summary": "New study reveals dramatic population drops in fish, cephalopods and more after the Deepwater Horizon spillMarine life in the Gulf of Mexico plummeted by about 60% after BP’s 2010 Deepwater Horizon oil spill and has still not fully recovered, according to a new study.T",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/oct/20/judge-dismisses-sam-altman-sister-lawsuit",
-        "seendate": "2026-10-20T15:34:04.000Z",
+        "url": "https://www.theguardian.com/environment/2026/oct/22/deepwater-horizon-oil-spill-gulf-marine-life",
+        "seendate": "2026-10-22T12:00:44.000Z",
         "domain": "theguardian.com"
       }
     ],
     "literature": [
+      {
+        "title": "Helen Fielding launches Bridget Jones prize for northern comedy writing",
+        "summary": "The Yorkshire-born author says that the 1,000 word competition is for people ‘just living their lives being quietly hilarious’Bridget Jones author Helen Fielding has launched a comedy writing prize in the name of her most famous creation, aimed at unearthing funny new voices from the north of England.The Bridget Jones",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/oct/22/helen-fielding-launches-bridget-jones-prize-for-northern-comedy-writing",
+        "seendate": "2026-10-22T11:46:39.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Female Life on Planet Earth by Laleh Khadivi review – a mother’s secret past in the Iranian revolution",
+        "summary": "A woman living in California discovers her mother may have been a merciless enforcer of the Islamic revolution, in an intriguing novel of inheritance and identity“It’s a little scary, isn’t it, inheritance?” That’s what Heti, the protagonist of Laleh Khadivi’s latest novel, remarks to a “soccer mom” as they watch their daughters play. “We don’t get to choose what we inherit. Or&nbsp;what we pass on.” Heti,",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/oct/22/female-life-on-planet-earth-by-laleh-khadivi-review-a-mothers-secret-past-in-the-iranian-revolution",
+        "seendate": "2026-10-22T06:00:09.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Black Bag by Luke Kennard audiobook review – brilliant Booker-shortlisted campus comedy",
+        "summary": "The author reveals his mastery of comic timing in his narration of this novel about a cash-strapped actor paid to live inside a black leather bagThe unnamed narrator of Luke Kennard’s novel is an out-of-work actor living in London. His last job was three months ago, he is behind with his rent and has “measured out my life in coffees I cannot technically afford”. So when he comes across an advert – “Male act",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/oct/22/black-bag-by-luke-kennard-audiobook-review-brilliant-booker-shortlisted-campus-comedy",
+        "seendate": "2026-10-22T14:00:33.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Canadian publisher Boréal ends relationship with novelist Thélyson Orélien over alleged use of AI",
+        "summary": "Author withdrawn from France’s Prix Goncourt last month has repeatedly denied using artificial intelligence to write novelThe publisher of top-selling Haitian Canadian writer Thélyson Orélien, who was removed from France’s most prestigious literary prize list last month, has confirmed the author used artificia",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/culture/2026/oct/22/canadian-publisher-boreal-ends-relationship-author-thelyson-orelien-over-ai",
+        "seendate": "2026-10-22T01:13:01.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "‘It feels quite frightening’: readers rush to snap up Sally Rooney books as stocks dwindle amid Palestine Action ban",
         "summary": "Booksellers have reported selling out of the Irish novelist’s works after it was announced that her books would be withdrawn from sale in the UKBooksellers have reported selling out of copies of Sally Rooney’s novels, following the news that her books would be <a href=\"https://www.theguardian.com/uk-news/2026/oct/14/sally-rooney-says-she-can-no-longer-sell-books-in-the-uk-because-of-palestine-action-support",
@@ -136,168 +168,168 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/books/2026/oct/21/it-feels-quite-frightening-readers-rush-to-snap-up-sally-rooney-books-as-stocks-dwindle-amid-palestine-action-ban",
         "seendate": "2026-10-21T18:26:22.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "New prize launches for books co-written with AI",
-        "summary": "After months of controversy over the possible use of AI by winners of prestigious awards, the Prix Pascal de Littérature IA is rewarding fiction written with the help of LLMsA prize for AI-written books has launched this week.The Prix Pascal de Littérature IA invites submissions of manuscripts co-written with AI tools, with the winner promised publication. <a href=\"https://www.theguardian.com/boo",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/oct/21/new-prize-launches-books-co-written-with-ai-france",
-        "seendate": "2026-10-21T14:59:34.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "On Another Planet They Can Save Me by Lieke Marsman review – an astonishing memoir of terminal illness",
-        "summary": "Published four months after her death, the poet’s reflections on mortality are both agonising and profoundly life-affirmingThere are no atheists in foxholes, goes the saying, and indeed social scientists and evolutionary biologists have argued that the experience of war or conflict drives religious belief; in 2019, Joseph Henrich and others surveyed almost 2,000 people in three post-conflict societies – Uga",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/oct/21/on-another-planet-they-can-save-me-by-lieke-marsman-review-an-astonishing-memoir-of-terminal-illness",
-        "seendate": "2026-10-21T06:00:04.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "The Mystery of What Befell in the Ditch by Thure Erik Lund review – is this the greatest living Norwegian writer?",
-        "summary": "Translated into English at last, this portrait of a man appalled by modernity and desperate to get back to nature is brimming with Nordic weltschmerzT-O-M. The initials of Tomas Olsen Myrbråten, the narrator in Thure Erik Lund’s The Mystery of What Befell in the Ditch, spell out the Norwegian word for “empty”. Approaching 38, he’s already a relic. He spends his days slumped at the kitchen table or staring o",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/oct/21/the-mystery-of-what-befell-in-the-ditch-by-thure-erik-lund-review-is-this-the-greatest-living-norwegian-writer",
-        "seendate": "2026-10-21T08:00:04.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Gilgamesh by Simon Armitage review – an ancient epic is brilliantly translated for our times",
-        "summary": "The poet laureate’s visceral take on the legendary Mesopotamian hero’s wild adventures is a tour de forceThe poet laureate is paid a salary of £5,750 per annum plus a barrel of sherry. No specific duties are attached to the role, but there is an expectation that poets will write verse for public occasions&nbsp;and royal events, a duty that Simon&nbsp;Armitage has fulfilled by writing a poem on the death of",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/oct/20/gilgamesh-by-simon-armitage-review-an-ancient-epic-is-brilliantly-translated-for-our-times",
-        "seendate": "2026-10-20T06:00:19.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "entertainment": [
       {
-        "title": "Clayface review – flesh-stretching DC body horror is very gory but not very good",
-        "summary": "Liverpool makes for an unconvincing Gotham City in this effectively gross but otherwise middling attempt to milk money from a lesser-known Batman villainA sense of desperation is understandably in the air over at DC, the company, like Marvel, slowly realising that the mass superhero fever has finally broken. There’s still interest there, of course (this summer’s Spider-Man is now the biggest film of all tim",
+        "title": "James Bond finalists to screen-test for role this week – reports",
+        "summary": "Actors in the mix to play 007 in Denis Villeneuve’s installment include Callum Turner and Jack LowdenThe search for the next James Bond may finally be nearing its end: according to reports, a very select group of actors will screen-test to become the next British agent 007 this weekend.According to the <a href=\"https://www.hollywoodreporter.com",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/oct/21/clayface-movie-review-body-horror",
-        "seendate": "2026-10-21T19:00:54.000Z",
+        "url": "https://www.theguardian.com/film/2026/oct/22/final-james-bond-screen-tests-callum-turner-jack-lowden",
+        "seendate": "2026-10-22T21:16:02.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘A vehicle to expose prejudice, bias, and stupidity’: Sacha Baron Cohen defends Ali G as satire",
-        "summary": "The actor defended his new film, Ali G: Who Iz I?, saying his aim is to bring people ‘face-to-face with the danger of fanaticism and conspiracy theories’Sacha Baron Cohen has launched an impassioned defence of satire, the right to offend, and his Ali G character on in a lengthy article for Time magazine.On the eve of the r",
+        "title": "Tom Skerritt, Alien and Top Gun actor, dies aged 93",
+        "summary": "Actor also had roles in M*A*S*H, A River Runs Through It and Picket Fences in career spanning 60 yearsTom Skerritt, the actor known for roles in Alien and Top Gun, has died at the age of 93.His publicist confirmed to Variety that he died from natural causes. <a href=\"https://www.theguardian.com/film",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/oct/21/sacha-baron-cohen-defends-ali-g",
-        "seendate": "2026-10-21T16:06:54.000Z",
+        "url": "https://www.theguardian.com/film/2026/oct/22/tom-skerritt-actor-dead",
+        "seendate": "2026-10-22T20:19:49.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Seth Meyers on Elon Musk: ‘Nobody likes him’",
-        "summary": "Late-night hosts discussed Donald Trump’s praise for Elon Musk as well as the physical appearance of several male US Senate candidatesLate-night hosts recapped Donald Trump’s recent comments on Elon Musk and the physical attractiveness of numerous male candidates in the upcoming US mi",
+        "title": "Super Graphic Spectacular review – Chappell Roan dazzles at her gloriously gay mini-festival",
+        "summary": "Shrine Auditorium, Los AngelesWith performances by Christina Aguilera, Lola Young and Tinashe, the pop star brings a colorful vision to life in support of LGBTQ+ charitiesAt Chappell Roan’s Super Graphic Spectacular, the sincerely camp pop star imagines a world where the most vulnerable among us aren’t wielded as scapegoats,",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/culture/2026/oct/21/seth-meyers-recap-elon-musk-trump",
-        "seendate": "2026-10-21T15:26:50.000Z",
+        "url": "https://www.theguardian.com/music/2026/oct/22/chappell-roan-super-graphic-spectacular-review",
+        "seendate": "2026-10-22T18:52:18.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘He had this electrical charge’: the short life and long legacy of Jason Molina, master of Americana",
-        "summary": "As a documentary celebrates the late US musician, friends and collaborators describe an incomparable storyteller who brought ‘myth and magic to everyday life’Jason Molina grew up in a trailer in the working-class city of Lorain, Ohio. The city’s skyline once flickered with blue flames and a warm orange glow emanated from clattering steel mills, but by Molina’s teenage years, Lorain was in a tailspin. “Thing",
+        "title": "Amy Winehouse musical in development for West End",
+        "summary": "Stage show based on late singer reportedly set to feature her best-loved songs with involvement from her father MitchA musical based on Amy Winehouse is in development for London’s West End.The project is still in early stages with Catherine Schreiber, a Tony award-winning producer (Cabaret, Rent), attached to the project, according to <a h",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/music/2026/oct/21/jason-molina-documentary",
-        "seendate": "2026-10-21T15:26:23.000Z",
+        "url": "https://www.theguardian.com/music/2026/oct/22/amy-winehouse-musical-west-end",
+        "seendate": "2026-10-22T18:00:51.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘I’m always being real’: what on earth persuades disgraced people like Elizabeth Holmes to let the cameras in?",
-        "summary": "With You Can See Everything, Holmes joins other such high-profile subjects as Lance Armstrong, Imelda Marcos and Anthony Weiner to allow film-makers to document their lives. But do they ever come out well?In You Can See Everything, convicted fraudster Elizabeth Holmes invites film-makers Nathan Fielder and Lance Oppenheim into her home in a supposed act of “radical transparency”. Holmes is filmed, along wit",
+        "title": "Republican leader embarrassed by Ali G film says he plans to sue Sacha Baron Cohen: ‘A liar and a pervert’",
+        "summary": "Exclusive: Michael Aboud, whose actions in what he believed to be a documentary are likely to come under considerable scrutiny, has expressed anger at the film-maker• This article contains substantial spoilers for Ali G: Who Iz I?<a href=\"https://www.theguardian.com/film/2026/oct/22/ali-g-who-iz-i-review-sacha-baron-cohens-high-stakes-satire-punches-up-and-down-with-spe",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/oct/21/elizabeth-holmes-you-can-see-everything-disgrace-documentary",
-        "seendate": "2026-10-21T15:02:28.000Z",
+        "url": "https://www.theguardian.com/film/2026/oct/22/republican-leader-embarrassed-by-ali-g-film-says-he-plans-to-sue-sacha-baron-cohen-a-liar-and-a-pervert",
+        "seendate": "2026-10-22T15:10:18.000Z",
         "domain": "theguardian.com"
       }
     ],
     "f1": [
       {
-        "title": "Ferrari reveals blueprint-style livery for United States GP",
-        "summary": "Ferrari has unveiled a special one-off livery for this weekend's United States Grand Prix at the Circuit of the Americas.The design, created with title partner HP, features sketches and blueprint-style illustrations against the white background of the engine cover and around the intake.\"The livery celebrates the journey from idea to reality,\" Ferrari's head of colour and trim Silvia ...<a class='more",
+        "title": "George Russell calls for F1 track changes after Max Verstappen's COTA complaints",
+        "summary": "George Russell believes Formula 1 circuits should be resurfaced every couple of years after Max Verstappen made critical comments about the bumps at the Circuit of the Americas and how they could leave him needing “a new spine”.COTA has for a long time been known as one of the bumpier circuits on the Formula 1 calendar. But the Dutchman was alarmed when he saw what the cars and drivers ...<a class='more'",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/ferrari-reveals-blueprint-style-livery-for-united-states-gp/10866813/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-21T23:18:26.000Z",
+        "url": "https://www.motorsport.com/f1/news/george-russell-calls-for-f1-track-changes-after-max-verstappens-cota-complaints/10867193/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-22T23:02:41.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "F1 unveils limited-edition Leica camera with eye-watering $9,950 price tag",
-        "summary": "Formula 1 had a busy few days. The championship finalised licensing partnership agreement with Leica Camera, resulting in a carbon-accented model priced at an eye-watering $9,950. It's a luxury toy for people who like F1 and photography enough to warrant an almost-five-figure purchase.The model is a limited production variant of the Q3 43 line, pairing a 60-megapixel full-frame imaging sensor ...<a class",
+        "title": "Lando Norris backs Max Verstappen over COTA bumps, reveals headache tablet use",
+        "summary": "Lando Norris has backed Max Verstappen as he says the bumps at some Formula 1 circuits, including the Circuit of the Americas, are so bad that he takes headache tablets before he starts driving.Having watched the World Endurance Championship race at COTA, Verstappen joked that he would \"need to order a new spine after the weekend, or become like Robocop\". On the Thursday ahead of the Austin ...<a class='",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/f1-unveils-limited-edition-leica-camera-with-eye-watering-9950-price-tag/10866811/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-21T23:13:11.000Z",
+        "url": "https://www.motorsport.com/f1/news/lando-norris-backs-max-verstappen-over-cota-bumps-reveals-headache-tablet-use/10867187/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-22T22:38:50.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Carlos Sainz's \"Smooth Operator\" lounge returns for F1 Las Vegas GP",
-        "summary": "Carlos Sainz's \"Smooth Operator\" lounge is coming back to the Las Vegas Strip for next month's Las Vegas Grand Prix, as MGM Resorts revealed its race-week plans across four of its hotels.The lounge returns to ARIA, where the Proper Eats restaurant will be turned into a Sainz-themed space selling custom clothing and cocktails based on the Williams driver's style. The Spaniard is also due to ...<a class='m",
+        "title": "George Russell responds to Christian Horner's Red Bull simulator claim",
+        "summary": "Mercedes Formula 1 driver George Russell has responded to former Red Bull Racing CEO and team principal Christian Horner's claims that he, Lando Norris and Oscar Piastri used to pay to use the Milton Keynes outfit's simulators.Horner, who was dismissed from Red Bull last year, said on the High Performance podcast this week that all three drivers had paid to use the team's simulator when they ...<a class=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/carlos-sainzs-smooth-operator-lounge-returns-for-f1-las-vegas-gp/10866809/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-21T22:53:15.000Z",
+        "url": "https://www.motorsport.com/f1/news/george-russell-responds-to-christian-horners-red-bull-simulator-claim/10867189/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-22T22:36:56.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "TAG Heuer unveils special edition Red Bull F1 watch for 10-year celebration",
-        "summary": "TAG Heuer has released a special edition of its Formula 1 Solargraph watch to celebrate 10 years as a partner of the Red Bull F1 team.The Formula 1 Solargraph x Oracle Red Bull Racing costs £1900 (approximately $2250). Buyers based in America were given early online access on 20 October, ahead of this weekend's United States Grand Prix in Austin, Texas.The watch takes its colours from the ...<a class",
+        "title": "Lando Norris on Madrid Coca-Cola drama: “I can drink whatever I like”",
+        "summary": "While the majority of us are looking forward to the upcoming United States Grand Prix, Lando Norris was asked to reminisce about a moment that went viral over the weekend of the Spanish Grand Prix. In the cooldown room following the Madrid race, Norris was seemingly asked to put down the Coca-Cola he was drinking and his response flooded social media. He's now discussed the moment further ahead of ...<a clas",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/tag-heuer-unveils-special-edition-red-bull-f1-watch-for-10-year-celebration/10866800/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-21T22:13:46.000Z",
+        "url": "https://www.motorsport.com/f1/news/lando-norris-on-madrid-coca-cola-drama-i-can-drink-whatever-i-like/10867181/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-22T22:15:26.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Lando Norris risks unwanted F1 record as disastrous title defence continues",
-        "summary": "After winning the 2025 Formula 1 championship and forever solidifying his name in the history books, Lando Norris is putting together one of the worst title defences the championship has ever seen.The Briton currently sits sixth in the drivers' standings on just 201 points with six races to go. If he finishes sixth or lower, he will be the first reigning champion to finish outside the top five ...<a clas",
+        "title": "Charles Leclerc slams Isack Hadjar's Max Verstappen Ferrari claim as \"nonsense\"",
+        "summary": "Charles Leclerc has dismissed Isack Hadjar's suggestion that Max Verstappen would have won the Singapore Grand Prix by a bigger margin in a Ferrari, calling it \"nonsense\".The four-time champion dominated the race weekend at the Marina Bay Street Circuit, claiming pole position for the sprint and grand prix and winning both races. While he won by an impressive 7.3 seconds over Ferrari's Leclerc ...<a clas",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/lando-norris-risks-unwanted-f1-record-as-disastrous-title-defence-continues/10866802/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-21T22:04:40.000Z",
+        "url": "https://www.motorsport.com/f1/news/charles-leclerc-slams-isack-hadjars-max-verstappen-ferrari-claim-as-nonsense/10867179/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-22T22:13:44.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "CD Projekt boss pays tribute to BioWare for helping bring The Witcher to life 20 years ago: 'BioWare has been a massive part of CDPR history'",
-        "summary": "BioWare let CD Projekt use the Aurora Engine for its breakout RPG, and then helped them show it off at E3.",
+        "title": "My GOTY is $7 and has 253 Steam reviews",
+        "summary": "Stuntboost is a racing game for FPS movement sickos.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/cd-projekt-boss-pays-tribute-to-bioware-for-helping-bring-the-witcher-to-life-20-years-ago-bioware-has-been-a-massive-part-of-cdpr-history/",
-        "seendate": "2026-10-21T21:43:06.000Z",
+        "url": "https://www.pcgamer.com/games/racing/my-goty-is-usd7-and-has-253-steam-reviews/",
+        "seendate": "2026-10-22T22:29:10.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Modern Warfare 4 players declare 'broken' on DMZ perk that lets you self-revive after full death",
-        "summary": "Some hate that you can't know an enemy's truly dead in DMZ.",
+        "title": "Epic announces game jam where you have to use AI, then walks back the requirement",
+        "summary": "The Unreal Engine and Fortnite company has extended the public a many-fingered invitation.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/call-of-duty/modern-warfare-4-players-declare-broken-on-dmz-perk-that-lets-you-self-revive-after-full-death/",
-        "seendate": "2026-10-21T21:36:47.000Z",
+        "url": "https://www.pcgamer.com/software/ai/epic-announces-game-jam-where-you-have-to-use-ai/",
+        "seendate": "2026-10-22T21:39:30.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "It gives me great nerdly joy that the Next Fest demo on Steam's 100 most-played games list is a shopkeeping sim",
-        "summary": "(Don't worry, you don't need to be a sim geek to dig it.)",
+        "title": "Canadian politician calls on government to help BioWare employees buy the studio and run it themselves",
+        "summary": "Avi Lewis, leader of one of Canada's top opposition parties, is not a fan of private equity.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/sim/it-gives-me-great-nerdly-joy-that-the-next-fest-demo-on-steams-100-most-played-games-list-is-a-shopkeeping-sim/",
-        "seendate": "2026-10-21T20:06:33.000Z",
+        "url": "https://www.pcgamer.com/games/mass-effect/canadian-politician-calls-on-government-to-help-bioware-employees-buy-the-studio-and-run-it-themselves/",
+        "seendate": "2026-10-22T21:26:29.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Everyone gets a free ticket to World of Warcraft: Forever today as Blizzard stress tests the servers ahead of launch day",
-        "summary": "Get a taste of what it's like to compete with hundreds of other players to finish a quest.",
+        "title": "How to get King's outfit in Cyberpunk 2077",
+        "summary": "Grab Weak Kingsley's coat, glasses, and gun from Edgerunners 2.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/world-of-warcraft/everyone-gets-a-free-ticket-to-world-of-warcraft-forever-today-as-blizzard-stress-tests-the-servers-ahead-of-launch-day/",
-        "seendate": "2026-10-21T19:58:36.000Z",
+        "url": "https://www.pcgamer.com/games/rpg/cyberpunk-2077-king-outfit-clampdown-edgerunners/",
+        "seendate": "2026-10-22T19:32:18.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "With BioWare dead, EA lays out its 'next chapter,' and it's pretty much as predicted: Guns and football are fine, and everything else is under the microscope",
-        "summary": "The changes predicted when Saudi Arabia's PIF bought Electronic Arts are coming true.",
+        "title": "'No other studio in the world did it better' than BioWare at its peak, says former Dragon Age lead writer David Gaider",
+        "summary": "Just because we saw this coming doesn't mean it hurts less.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/with-bioware-dead-ea-lays-out-its-next-chapter-and-its-pretty-much-as-predicted-guns-and-football-are-fine-and-everything-else-is-under-the-microscope/",
-        "seendate": "2026-10-21T18:41:11.000Z",
+        "url": "https://www.pcgamer.com/games/dragon-age/no-other-studio-in-the-world-did-it-better-than-bioware-at-its-peak-says-former-dragon-age-lead-writer-david-gaider/",
+        "seendate": "2026-10-22T17:57:26.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
+      {
+        "title": "Websites across world hit by millions of attempts to exploit PHP code flaw",
+        "summary": "Problem in language that underpins 70% of sites has led governments and companies to pull sites offline to patch faultTell us: have you been affected by the PHP code flaw?<a href=\"https://www.theguardian.com/technology/2026/oct/22/what-is-php-computer-la",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/oct/22/websites-across-world-hit-by-millions-of-attempts-to-exploit-php-code-flaw",
+        "seendate": "2026-10-22T16:42:54.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Meta strikes deal with Mark Zuckerberg to help him foot billionaire tax bill",
+        "summary": "Chief executive agrees to remain in California for eight years even if state brings in one-off 5% wealth taxMeta has struck a deal with Mark Zuckerberg to help him foot a possible California wealth tax targeting billionaires.The social media company behind Facebook, Instagram and WhatsApp revealed on Wednesday night that the arrangement would keep its chief executive living in California, where Meta’",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax",
+        "seendate": "2026-10-22T15:40:03.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Meta ordered to pay $25bn to New Mexico in Cambridge Analytica data-privacy case",
+        "summary": "Jury had found Meta misled consumers after Trump’s 2016 presidential campaign obtained user data without consentA judge in New Mexico ordered Meta Platforms to pay $25bn on ⁠Wednesday after a jury found the company had misled consumers in a case arising from allegations that a political cons",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/oct/21/meta-fined-new-mexico-data-privacy-case",
+        "seendate": "2026-10-21T23:33:34.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Tesla beats earnings projections after Musk floats SpaceX merger plan",
+        "summary": "Musk says ‘there’s a lot of merit’ to potential merger that would require approval of 50% of all Tesla shareholders, but declined to elaborateInvestors were paying close attention to Tesla’s third-quarter earnings call on Wednesday afternoon, after chief executive Elon Musk floated the i",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/oct/21/elon-musk-tesla-spacex",
+        "seendate": "2026-10-21T23:03:16.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "UK watchdogs urged to tackle suicide social media content after death of girl, 14",
         "summary": "Adriana Retyte took her own life after viewing ‘high-risk’ material on the video-sharing platform TikTokA 14-year-old schoolgirl’s death after TikTok served her suicide content has prompted renewed calls for UK watchdogs to crack down on “toxic” social media feeds.Adriana Retyte, a pupil at Langley school in Norfolk, took her own life after she viewed videos and images related to suicide on the video",
@@ -305,44 +337,36 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/technology/2026/oct/21/uk-watchdogs-urged-to-tackle-suicide-social-media-content-after-death-of-girl-14",
         "seendate": "2026-10-21T05:00:01.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "New prize launches for books co-written with AI",
-        "summary": "After months of controversy over the possible use of AI by winners of prestigious awards, the Prix Pascal de Littérature IA is rewarding fiction written with the help of LLMsA prize for AI-written books has launched this week.The Prix Pascal de Littérature IA invites submissions of manuscripts co-written with AI tools, with the winner promised publication. <a href=\"https://www.theguardian.com/boo",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/oct/21/new-prize-launches-books-co-written-with-ai-france",
-        "seendate": "2026-10-21T14:59:34.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "The dangers of letting tech billionaires shape our world",
-        "summary": "As SpaceX impacts Ukraine and AI-generated music divides artists and fans, critics are asking what happens when technology has too much control over our livesThis was originally published in TechScape, a newsletter about how technology shapes our lives. Sign",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/global/2026/oct/19/musk-ukraine-ai-music",
-        "seendate": "2026-10-20T14:31:45.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "‘A difficult line’: meet the editors tackling Wikipedia’s arms trade pages",
-        "summary": "Volunteers and new recruits come together for ‘wikithon’ to put more detail about industry into public domain“Anyone can edit Wikipedia,” the adage goes. But, it turns out, a relatively small number actually do.What is worthy of a digital page in the world’s largest and most-read encyclopedia is decided by roughly 270,000 active volunteers, enthusiasts who populate the online resource with informatio",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/oct/21/a-difficult-line-meet-the-editors-tackling-wikipedias-arms-trade-pages",
-        "seendate": "2026-10-21T05:00:05.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "US judge dismisses sexual abuse lawsuit from Sam Altman’s sister",
-        "summary": "Ann Altman, the Open AI CEO’s sister, accused her brother of repeatedly sexually abusing her over two decades agoA judge dismissed a lawsuit filed by Sam Altman’s sister against him on Tuesday. Ann Altman accused the OpenAI CEO of repeatedly sexually abusing her more than two decades ago, which he has denied.In dismissing Ann Altman’s ⁠lawsuit, the US district judge Zachary Bluestone wrote that she h",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/oct/20/judge-dismisses-sam-altman-sister-lawsuit",
-        "seendate": "2026-10-20T15:34:04.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "climate": [
       {
+        "title": "A possible three tornados wallop Arizona, bringing golf-ball sized hail",
+        "summary": "Violent storms overnight knocked over utility poles and trees and carried thunder and heavy winds through stateYet more severe weather struck Thursday in the US south-west as the Four Corners region surveyed blown-away roofs, trees knocked on to homes and power lines downed from overnight tornadoes that injured one person.The injuries weren’t life-threatening but rare for an area better known for sca",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/oct/22/arizona-storms-weather-tornado-warning",
+        "seendate": "2026-10-22T23:15:40.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "America gets new national park with designation of Chiricahua’s rock spires",
+        "summary": "Arizona’s Land of Standing-Up Rocks, formed from ancient volcanic eruption, gets new status with bipartisan supportAn area of towering rock spires in south-eastern Arizona known among Native Americans as the Land of Standing-Up Rocks has become the nation’s newest national park.Legi",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/oct/22/chiricahua-monument-arizona-new-national-park",
+        "seendate": "2026-10-22T12:08:40.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Marine life in Gulf of Mexico has still not fully recovered from 2010 BP oil spill",
+        "summary": "New study reveals dramatic population drops in fish, cephalopods and more after the Deepwater Horizon spillMarine life in the Gulf of Mexico plummeted by about 60% after BP’s 2010 Deepwater Horizon oil spill and has still not fully recovered, according to a new study.T",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/environment/2026/oct/22/deepwater-horizon-oil-spill-gulf-marine-life",
+        "seendate": "2026-10-22T12:00:44.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Officials confirm flesh-eating New World screwworm parasite found in US wildlife",
-        "summary": "USDA says screwworm found in elk in Texas, and warns hunters and ranchers to be vigilant to help stop spreadThe US Department of Agriculture (USDA) said on Wednesday it had ⁠confirmed the ⁠first detection ​of flesh-eating parasite the New World screwworm in US wildlife in an ⁠elk in Pecos county, Texas.The elk was located on a game ⁠ranch and was reported after being harvested by ​a hunter, the ‌USDA",
+        "summary": "USDA says screwworm found in elk in Texas, and warns hunters and ranchers to be vigilant to help stop spreadThe US Department of Agriculture (USDA) said on Wednesday it had ⁠confirmed the ⁠first detection ​of the flesh-eating parasite the New World screwworm in US wildlife in an ⁠elk in Pecos county, Texas.The elk was located on a game ⁠ranch and was reported after being killed by ​a hunter, the ‌USD",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/us-news/2026/oct/21/new-world-screwworm-texas",
         "seendate": "2026-10-21T23:36:31.000Z",
@@ -355,33 +379,17 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/us-news/2026/oct/21/extreme-weather-survivors-climate-crisis",
         "seendate": "2026-10-21T10:00:02.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Great white shark leaps from water and photobombs California beachgoers",
-        "summary": "Videos show shark launching several feet from water as a group of friends pose for photos along Marina state beachA great white shark put on a spectacular display for California beachgoers over the weekend, leaping from the water off Marina state beach and photobombing visitors.Videos circulating online show a great white shark launching sever",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/oct/20/great-white-shark-photobomb-california",
-        "seendate": "2026-10-20T16:45:59.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Trendy LA neighborhood’s war over wild coyote erupts after child attacked",
-        "summary": "Coyote euthanized after reportedly roaming Atwater Village comfortably for months and attacking one-year-old boyOne Los Angeles neighborhood has been at war over a wild coyote, and over the weekend it all came to a head.For months, the animal had been roaming the trendy Atwater Village, showing up in broad daylight, sleeping in back yards",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/oct/20/atwater-village-coyote-attacks-los-angeles",
-        "seendate": "2026-10-20T16:00:39.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Colorado wildlife overpass cut vehicle-animal collisions by 91%, report finds",
-        "summary": "Elk, bear, frogs and other animals have used the overpass, which connects 39,000 acres of habitat, since its completionColorado officials have tracked herds of elk, bears, pronghorn and even northern leopard frogs ambling across its new wildlife overpass. According to a newly released report, the overpass, which acts as a bridge over a busy stretch of interstate, has helped cut wildlife-vehicle collisions b",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/oct/19/colorado-wildlife-overpass-vehicle-animal-collisions-results",
-        "seendate": "2026-10-19T23:17:12.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "science": [
+      {
+        "title": "Why we’re still so obsessed with Elizabeth Holmes - video",
+        "summary": "You Can See Everything, a documentary about the disgraced biotech company founder Elizabeth Holmes, has enjoyed a record-breaking opening in the US. It is a testament to how fascinated we remain by the convicted fraudster, but what is behind the enduring appeal? US technology editor Blake Montgomery tells Madeleine Finlay why Holmes continues to fascinate us, and reflects on whether the Theranos scandal has had a",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/video/2026/oct/22/why-were-still-so-obsessed-with-elizabeth-holmes-video",
+        "seendate": "2026-10-22T12:14:36.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Mystery of Roman sarcophagus unearthed at Westminster Abbey solved at last, expert says",
         "summary": "Archaeologist says skeleton inside coffin inscribed to Valerius Amandinus is likely to be remains of 11th-century abbotIt has all the ingredients of a chilling mystery: the skeleton of an unknown man discovered within a Roman sarcophagus unearthed in the grounds of Westminster Abbey.Now an expert has said he has solved the longstanding “who-is-it”, suggesting the remains belonged to a medieval abbot.",
@@ -412,14 +420,6 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/science/2026/oct/21/chlamydomonas-one-celled-alga-nobel-prize",
         "seendate": "2026-10-21T05:00:04.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "‘These risks are real’: the threat of AI bioweapons - video",
-        "summary": "In his annual speech on threats to the nation, Sir Ken McCallum, the head of the UK’s intelligence service, MI5, warned that AI had the potential to ‘change the stakes’ on existing and even new bioweapons. To find out why, and how, Ian Sample speaks to Dr Tom Inglesby, director of the Johns Hopkins Center for Health Security and the Bloomberg School of Public Health",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/video/2026/oct/20/these-risks-are-real-the-threat-of-ai-bioweapons-video",
-        "seendate": "2026-10-20T12:14:42.000Z",
         "domain": "theguardian.com"
       }
     ]
