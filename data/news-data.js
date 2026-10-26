@@ -1,5 +1,5 @@
 window.NEWS_CACHE = {
-  "generatedAt": "2026-10-25T00:39:08.423Z",
+  "generatedAt": "2026-10-26T00:49:34.543Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
@@ -88,53 +88,69 @@ window.NEWS_CACHE = {
     ],
     "economy": [
       {
-        "title": "Trump drops some Canada tariffs in bid to boost embattled Susan Collins in Maine",
-        "summary": "Republican senator faces critical re-election battle in state where president’s trade war has outraged voters Donald Trump dropped some of the US’s tariffs on Canada on Friday to “better serve the public interest” the White House said, handing a win to Susan Collins, the embattled Republican senator for Maine, as she faces a tight re-election campaign that will help determine whether Democrats can flip cont",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/oct/23/susan-collins-maine-trump-tariffs-canada",
-        "seendate": "2026-10-23T22:03:07.000Z",
-        "domain": "theguardian.com"
+        "title": "Premallatha seeks speedy probe into missing kids",
+        "summary": "DMDK general secretary Premallatha Vijayakant, MLA, on Sunday urged the TVK-led govt to focus on the law-and-order situation in the state. Citing reports of children going missing across the state, she urged Tamil Nadu police to enhance CCTV surveillance, quickly investigate the cases and reunite the children with their families.",
+        "source": "timesofindia.indiatimes.com",
+        "url": "https://timesofindia.indiatimes.com/city/trichy/premallatha-seeks-speedy-probe-into-missing-kids/articleshow/135196917.cms",
+        "seendate": "20261025T191500Z",
+        "domain": "timesofindia.indiatimes.com"
       },
       {
-        "title": "Oil price rises above $117 a barrel amid fears US will renew strikes on Iran",
-        "summary": "Brent crude increase follows Tehran threatening retaliatory attacks on Gulf refineries and datacentresOil has hit its highest level in more than six months as fears of fresh escalation in the Middle East conflict grip the energy markets.Brent crude, the international benchmark for oil, rose by about 3.5% on Friday to pass $117 a barrel at one point – its highest level since April. <a href=\"https:",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
-        "seendate": "2026-10-23T16:48:28.000Z",
-        "domain": "theguardian.com"
+        "title": "Iranians fear return to all - out war with US and Israeli elections",
+        "summary": "Many Iranians are bracing for a return to all-out war as Israeli and U.S. leaders sharpen their threats ahead of elections in both countries.",
+        "source": "wlwt.com",
+        "url": "https://www.wlwt.com/article/iran-war-more-strikes-feared-israel-us-elections/74241134",
+        "seendate": "20261025T191500Z",
+        "domain": "wlwt.com"
       },
       {
-        "title": "Too little, too late: Trump takes on gas prices as fuel costs hamper his midterm hopes",
-        "summary": "Polls show US voters are deeply upset by high gas prices and are likely to punish Republicans in the midterms as a resultHow will Trump’s mass deportation agenda shape the US midterm elections? Our reporters answer your questionsWith fewer than two weeks until",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/oct/22/trump-high-gas-prices-midterms-cycle",
-        "seendate": "2026-10-22T11:00:40.000Z",
-        "domain": "theguardian.com"
+        "title": "EXCLUSIVE : Medellin Cartel Co - founder Carlos Lehder on Pablo Escobar Killing Colombian Politicians",
+        "summary": "Watch the full interview now as a VladTV Youtube Member: Click Here",
+        "source": "vladtv.com",
+        "url": "https://www.vladtv.com/article/316291/medellin-cartel-co-founder-carlos-lehder-on-pablo-escobar-killing",
+        "seendate": "20261025T191500Z",
+        "domain": "vladtv.com"
       },
       {
-        "title": "The young Americans choosing Y2K cars over shiny new SUVs: ‘I get so much crap from people’",
-        "summary": "People under 35 are hunting for no-frills rides they can pay for in cash and fix themselves – defying expectations to take on steep loansJack Price joined the marines in fall 2021 knowing he would need a car to get around base and that he couldn’t afford a new one. A joyless, month-long search through dealer classifieds and Facebook Marketplace listings ended when his mother spotted a 2010 Volkswagen Jetta",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/oct/23/y2k-used-cars-gen-z",
-        "seendate": "2026-10-23T11:30:24.000Z",
-        "domain": "theguardian.com"
+        "title": "Home sellers are lowering their price and helping buyers to make a deal in a stagnant market",
+        "summary": "A stagnant housing market hampered by surging mortgage rates, years of soaring home prices and an economy undercut by rising inflation has many sellers stuck in limbo as homes go",
+        "source": "thedailytimes.com",
+        "url": "http://www.thedailytimes.com/ap/business/home-sellers-are-lowering-their-price-and-helping-buyers-to-make-a-deal-in-a/article_3bf3cb94-c108-5cbd-9d8f-507c92597a73.html",
+        "seendate": "20261025T191500Z",
+        "domain": "thedailytimes.com"
       },
       {
-        "title": "US judge orders Trump to sit for deposition in $10bn lawsuit against BBC",
-        "summary": "Judge threatens to dismiss Trump’s BBC lawsuit unless he cooperates with discovery process and sits for depositionDonald Trump has been ordered by a US judge to cooperate with the discovery process mandated for his lawsuit against the BBC and to sit for a deposition by 11 December – or else he could be subject to sanctions, including the possible dismissal of the $10bn lawsuit.The lawsuit stems from",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/oct/22/trump-bbc-lawsuit-deposition-discovery",
-        "seendate": "2026-10-22T17:18:12.000Z",
-        "domain": "theguardian.com"
+        "title": "Direct Sales Agent Specialist at Allstate / Insurance Journal Jobs",
+        "summary": "",
+        "source": "insurancejournal.com",
+        "url": "https://www.insurancejournal.com/jobs/889487-direct-sales-agent-specialist",
+        "seendate": "20261025T191500Z",
+        "domain": "insurancejournal.com"
       }
     ],
     "literature": [
+      {
+        "title": "Stephen Fry: ‘Sherlock Holmes altered the course of my whole life’",
+        "summary": "Nearly a hundred years after Arthur Conan Doyle’s last Sherlock Holmes story, the writer and broadcaster unravels the mystery of the detective’s enduring appealIt has become quite the fashion for contemporary writers to have a go at reinventing past classics. We’ve seen it done with imperishable literary heroes like Bond, Jeeves, Poirot and Winnie-the-Pooh. This is a&nbsp;relatively new phenomenon. But not",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/oct/25/stephen-fry-sherlock-holmes-altered-the-course-of-my-whole-life",
+        "seendate": "2026-10-25T12:00:02.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "‘Our third date was at Buckingham Palace’: Marlon James and Nicholas Boggs on life as a literary power couple",
         "summary": "Shortlisted for the Booker and Baillie Gifford prizes respectively, the novelist and biographer talk about working and living together – and giving a voice to Black queer historyThe literary power couple is a historically seductive concept. Two writers sharing a life, their private and creative worlds entwined, each becoming witness to and critic of the other’s work. Think Simone de Beauvoir and Jean-Paul S",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/books/2026/oct/24/our-third-date-was-at-buckingham-palace-marlon-james-and-nicholas-boggs-on-life-as-a-literary-power-couple",
         "seendate": "2026-10-24T08:00:27.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Tom Gauld on the modern romantasy novel – cartoon",
+        "summary": "Continue reading...",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/picture/2026/oct/25/tom-gauld-on-the-modern-romantasy-novel-cartoon",
+        "seendate": "2026-10-25T16:00:06.000Z",
         "domain": "theguardian.com"
       },
       {
@@ -152,25 +168,41 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/books/2026/oct/23/lessons-in-chemistry-author-bonnie-garmus-i-wrote-my-first-novel-at-12-it-has-not-yet-found-a-publisher",
         "seendate": "2026-10-23T09:00:05.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Under Fire by Humza Yousaf – a deeply affecting story of being stranded in Gaza",
-        "summary": "The former Scottish first minister writes of his in-laws’ plight and the tragedy of those who weren’t so luckyA week into Israel’s bombing of Gaza in 2023, which followed Hamas’s deadly terrorist attack on Israel, Scotland’s then first minister Humza Yousaf received a text from his mother-in-law, Elizabeth. “Humza, I think we are about to die. I need you to&nbsp;promise me that you will take care&nbsp;of my",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/oct/23/under-fire-by-humza-yousaf-a-deeply-affecting-story-of-being-stranded-in-gaza",
-        "seendate": "2026-10-23T06:00:03.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Children’s and teens roundup – the best new picture books and novels",
-        "summary": "A sumptuous collection of fairytales; a dreamy Minotaur retelling; the explosive finale of the YA Torch Trilogy and moreDogs, Dogs, Dogs by John Devolle, Pushkin, £12.99 “Old dogs, young dogs, dogs on wheels, dogs that want to",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/oct/23/childrens-and-teens-roundup-the-best-new-picture-books-and-novels",
-        "seendate": "2026-10-23T11:00:32.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "entertainment": [
+      {
+        "title": "A Course Called Ireland review – why did Bill Murray ever agree to this Irish golf show?",
+        "summary": "The Hollywood star is so grumpy in this new travelogue it’s like he wishes he wasn’t there. Think sulky car journeys, strained encounters and the sense of a TV series implodingA Course Called Ireland is a new documentary in which Bill Murray golfs his way around the “Emerald Isle” while reflecting on everything from his great-grandmother to worms. The heart leaps. Bill Murray? The same Bill Murray whose gen",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/oct/25/a-course-called-ireland-review-bill-murray-golf-bbc",
+        "seendate": "2026-10-25T22:00:13.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "‘There’s nothing interesting about me – and no interest in me’: how Larry David’s new biography nearly didn’t happen",
+        "summary": "He point-blank refused, begged the author not to talk to people who knew him … and eventually relented. Making the first authorised biography of the Seinfeld and Curb creator was no mean featEmperor of Nothing: The Making of Larry David might be the most begrudgingly authorised biography ever written. The story of how author Blake J Harris convinced the comedy titan to “tolerate” him begins, of all places,",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/oct/25/theres-nothing-interesting-about-me-and-no-interest-in-me-how-larry-davids-new-biography-nearly-didnt-happen",
+        "seendate": "2026-10-25T14:00:04.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Stephen Fry: ‘Sherlock Holmes altered the course of my whole life’",
+        "summary": "Nearly a hundred years after Arthur Conan Doyle’s last Sherlock Holmes story, the writer and broadcaster unravels the mystery of the detective’s enduring appealIt has become quite the fashion for contemporary writers to have a go at reinventing past classics. We’ve seen it done with imperishable literary heroes like Bond, Jeeves, Poirot and Winnie-the-Pooh. This is a&nbsp;relatively new phenomenon. But not",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/oct/25/stephen-fry-sherlock-holmes-altered-the-course-of-my-whole-life",
+        "seendate": "2026-10-25T12:00:02.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "‘I’d rather live through something publicly than escape it privately’: Jack Antonoff on survivor’s guilt and still singing love songs after his breakup",
+        "summary": "Whether he’s playing the role of soul-baring artist or starry producer, the Bleachers frontman strives to keep his integrity intact. He weighs in on Ed Sheeran, his love of working on ‘high-stakes’ albums and why he’s standing by the songs about his marriageSitting in the restaurant of a Denver hotel, in the middle of a US tour with his band Bleachers, Jack Antonoff shrugs. “There’s this intense need to fig",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/music/2026/oct/25/jack-antonoff-bleachers-interview-producer-kendrick-springsteen-taylor-swift",
+        "seendate": "2026-10-25T10:00:00.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Anthony LaPaglia: ‘There is not a role I didn’t get that I ever gave more than four hours of grievance to – even Tony Soprano’",
         "summary": "The actor on surviving 2000s network television in Without a Trace, the role that made him take Brad Pitt seriously, and leaving the US to ‘ride out Trump’Get our weekend culture and lifestyle emailI didn’t kn",
@@ -178,182 +210,150 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/film/2026/oct/25/anthony-lapaglia-10-chaotic-questions-interview",
         "seendate": "2026-10-24T19:00:42.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "‘Cuts mean jobs’: Skydance staff brace for shake-up after $110bn megamerger",
-        "summary": "Battle far from over after Paramount and Warner Bros deal creates new global entertainment powerhouse “It feels like the calm before the storm,” says an executive at Skydance, the newly minted media empire formed from the megamerger of Paramount and Warner Bros Discovery (WBD). “David has got what he wanted, but now there is a price to pay.”Earlier this month, David Ellison, Skydance’s chief executiv",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/media/2026/oct/24/skydance-employees-brace-change-megamerger-dust-settles",
-        "seendate": "2026-10-24T12:00:32.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "‘Unlike anything we’ve experienced’: fans swarm San Francisco for BTS star’s art exhibition",
-        "summary": "K-pop star RM gave a boost to the previously struggling SFMOMA with an exhibition of over 100 pieces from his collectionTwo years ago, RM of the wildly popular K-pop boyband BTS was serving as a soldier in the South Korean military when he received an offer from América Castillo, a museum curator in San Francisco: would he consider an exhibition of his pri",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/artanddesign/2026/oct/24/rm-bts-sfmoma-exhibition",
-        "seendate": "2026-10-24T09:00:29.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "A Course Called Ireland: Bill Murray clearly hated making his new golfing show – but it’s extremely fun to binge",
-        "summary": "In his rogue new travelogue, the Hollywood star tees off, has drunken pub singalongs – but mostly just proves how tired he is of fameI’m suspicious of travelogues, which often feature celebrities in contrived situations, serving up a sentimental postcard of a place that is tantamount to a lie. I also hate how famous people are inexorably drawn to golf: a boring game historically predicated on a rancid mix o",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/oct/24/a-course-called-ireland-bill-murray-clearly-hated-making-his-new-golfing-show-but-its-extremely-fun-to-binge",
-        "seendate": "2026-10-24T06:00:25.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Nobody Wants This creator says she disagrees with Adam Brody’s ‘free Palestine’ comments",
-        "summary": "After Brody called out the ‘death and misery’ in Palestine, the Netflix hit’s Jewish creator said they don’t see eye to eyeThe creator of the hit Netflix comedy Nobody Wants This has responded to star Adam Brody’s recent support of Palestine amid the Israel-Gaza war.“Everyone is entitled to a different opinion,” Erin Foster said in an <",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/oct/23/nobody-wants-this-adam-brody-palestine-comments",
-        "seendate": "2026-10-23T14:33:52.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "f1": [
       {
-        "title": "Charles Leclerc sets boundaries with Lewis Hamilton ahead of Turn 1 battle",
-        "summary": "Charles Leclerc and Lewis Hamilton will start Sunday's United States Grand Prix fourth and fifth on the grid, but the Monegasque says both drivers know \"the line not to cross\" heading into Turn 1 of the Austin circuit.Leclerc qualified ahead of his team-mate but has admitted that both he and Hamilton have overstepped at times throughout the season.One example of this came at Monza earlier ...<a class",
+        "title": "Kimi Antonelli reveals biggest mistakes of 2026 as Max Verstappen takes playful dig",
+        "summary": "Current Formula 1 championship leader Kimi Antonelli has listed the mistakes he wants to learn from this season as he closes in on the title, prompting a playful dig from Max Verstappen.The Mercedes driver won the United States Grand Prix at the Circuit of the Americas from pole position, claiming his ninth grand prix victory of the season. His win in Austin means he can now clinch the ...<a class='more'",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/charles-leclerc-sets-boundaries-with-lewis-hamilton-ahead-of-turn-1-battle/10868086/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-25T00:38:27.000Z",
+        "url": "https://www.motorsport.com/f1/news/kimi-antonelli-reveals-biggest-mistakes-of-2026-as-max-verstappen-takes-playful-dig/10868452/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-26T00:29:03.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Alpine issues statement after Jeremy Clarkson's controversial Franco Colapinto comments",
-        "summary": "Alpine has released a statement in support of its driver Franco Colapinto after former Top Gear host Jeremy Clarkson joked on Sky Sports F1 that the driver had been given a grid penalty \"for being Argentinian\".Clarkson is spending the United States Grand Prix weekend with the Enstone outfit, which he has supported for several years as his local team, and he appeared on the live Sky Sports F1 ...<a class=",
+        "title": "Lando Norris delivers harsh reality check as McLaren's F1 struggles continue",
+        "summary": "Reigning champion Lando Norris has admitted it's \"pretty obvious\" that McLaren has slipped from championship leaders to being the fourth-fastest team in Formula 1 after he finished fifth at the United States Grand Prix.He finished the race behind Kimi Antonelli, Charles Leclerc, Max Verstappen and Lewis Hamilton at the Circuit of the Americas, with team-mate Oscar Piastri finishing two places ...<a class",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/alpine-issues-statement-after-jeremy-clarksons-controversial-franco-colapinto-comments/10868082/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-25T00:24:51.000Z",
+        "url": "https://www.motorsport.com/f1/news/lando-norris-delivers-harsh-reality-check-as-mclarens-f1-struggles-continue/10868450/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-26T00:24:29.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "George Russell calls for F1 rethink as cars are “forced to run so low and so stiff”",
-        "summary": "Mercedes Formula 1 driver George Russell faces a challenging United States Grand Prix tomorrow as a disappointing qualifying means he'll start sixth. While his team-mate and championship leader Kimi Antonelli is starting on pole, the Briton argues that F1 may need to rethink how low and stiff the cars run following criticism of the bumps at the Circuit of the Americas.Red Bull's Max Verstappen ...<a clas",
+        "title": "Max Verstappen jokes Red Bull should abandon radios after United States GP struggles",
+        "summary": "Max Verstappen has complained about Red Bull's repeated radio issues, calling them \"a disaster\" and joking that they should start communicating in sign language instead.The four-time champion finished third behind winner Kimi Antonelli and Charles Leclerc at the United States Grand Prix after what was a frustrating and issue-ridden race. And to make things even more difficult, the Dutchman ...<a class='m",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/george-russell-calls-for-f1-rethink-as-cars-are-forced-to-run-so-low-and-so-stiff/10868060/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-25T00:24:29.000Z",
+        "url": "https://www.motorsport.com/f1/news/max-verstappen-jokes-red-bull-should-abandon-radios-after-united-states-gp-struggles/10868443/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-26T00:05:32.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Kimi Antonelli delivers Austin surprise pole in tricky Mercedes: \"Finally we're seeing the results\"",
-        "summary": "Formula 1 championship leader Kimi Antonelli reckons his United States Grand Prix pole is the reward for Mercedes' efforts to finetune its comprehensive but troubled Malaysia upgrade.Antonelli held off Red Bull tandem Max Verstappen and Isack Hadjar on Austin's Circuit of the Americas as Ferrari flattered to deceive in Saturday's qualifying shootout by taking fourth and fifth.With the ...<a class='mo",
+        "title": "Charles Leclerc reveals Ferrari breakthrough after United States GP podium",
+        "summary": "Charles Leclerc believes he has \"unlocked something\" in his driving with Ferrari in recent races and is confident he will have a shot at victory before the end of the 2026 Formula 1 season.The Monegasque driver finished second in the United States Grand Prix, 13 seconds behind race winner and championship leader Kimi Antonelli, after battling Max Verstappen and Lando Norris. It followed ...<a class='",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/kimi-antonelli-delivers-austin-surprise-pole-in-tricky-mercedes-finally-were-seeing-the-results/10868069/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-25T00:09:10.000Z",
+        "url": "https://www.motorsport.com/f1/news/charles-leclerc-reveals-ferrari-breakthrough-after-united-states-gp-podium/10868441/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-26T00:04:36.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Why Ferrari failed to deliver on its hype in F1's United States GP qualifying",
-        "summary": "Ferrari had been pegged as the team to beat after practice at the United States Grand Prix, but ultimately found itself wanting when it came to qualifying and failed to find enough progression through Q3.Charles Leclerc had headlined both Friday practice sessions, while Lewis Hamilton took the honours in FP3 after Leclerc's best lap was deleted, and it looked as though the team was primed to ...<a class=",
+        "title": "George Russell confused by lack of pace at F1 US GP despite upgraded W17",
+        "summary": "George Russell is desperately searching for answers after “not being quick enough” at the United States Grand Prix as team-mate Kimi Antonelli closes in on the Formula 1 world title.Antonelli dominated Sunday’s race at Austin from pole, whereas Russell started sixth but finished eighth, having received a five-second penalty for gaining an advantage by running off-track on the opening ...<a class='more' h",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/why-ferrari-couldnt-challenge-for-pole-in-us-gp-qualifying/10868050/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-24T23:53:54.000Z",
+        "url": "https://www.motorsport.com/f1/news/george-russell-confused-by-lack-of-pace-at-f1-us-gp-despite-upgraded-w17/10868418/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-25T23:42:10.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "Top Xbox exec promoted in brand 'reset' leaves after 3 months in role",
-        "summary": "Is that good?",
+        "title": "Indies and non-sequels have exploded in the last year, and it's not all friendslop",
+        "summary": "\"Indie studios produced 20 of the 21 extra breakout launches in the 2026 cohort,\" reads one industry analysis.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/top-xbox-exec-promoted-in-brand-reset-leaves-after-3-months-in-role/",
-        "seendate": "2026-10-24T18:58:24.000Z",
+        "url": "https://www.pcgamer.com/gaming-industry/indies-and-non-sequels-have-exploded-in-the-last-year-and-its-not-all-friendslop/",
+        "seendate": "2026-10-25T19:17:10.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Penguin Colony review: A daringly weird horror game whose atmosphere and surprises overcome its rough edges",
-        "summary": "Something ancient and horrible stirs in the farthest south: Are you bad enough penguin to… not really do much about it?",
+        "title": "'Save Mass Effect' petition hits over 180,000 signatures within days of BioWare's closure",
+        "summary": "The desperate plea to EA has fans sharing their memories of the spacefaring shooter.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/horror/penguin-colony-review/",
-        "seendate": "2026-10-24T18:10:01.000Z",
+        "url": "https://www.pcgamer.com/games/mass-effect/save-mass-effect-petition-hits-over-180-000-signatures-within-days-of-biowares-closure/",
+        "seendate": "2026-10-25T18:24:00.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "BioWare's incredible legacy will continue as long as there are RPGs",
-        "summary": "EA is shutting down the venerable studio, but its impact will persevere.",
+        "title": "The creator of our running RPG of the year weighs in on BioWare's closure: 'They were fundamental to the genre'",
+        "summary": "Don't cry because it's over.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/rpg/biowares-incredible-legacy-will-continue-as-long-as-there-are-rpgs/",
-        "seendate": "2026-10-24T18:00:00.000Z",
+        "url": "https://www.pcgamer.com/games/rpg/the-creator-of-our-running-rpg-of-the-year-weighs-in-on-biowares-closure-they-were-fundamental-to-the-genre/",
+        "seendate": "2026-10-25T18:23:41.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Now it's over, WoW: Forever's beta has left me with just one fear—its endgame",
-        "summary": "How do you zig when all you know is zag?",
+        "title": "Riot resurrected 3 of its biggest League of Legends pop groups, but only one emerged victorious",
+        "summary": "I think I could guess where the budget went, but I'm not complaining.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/world-of-warcraft/now-its-over-wow-forevers-beta-has-left-me-with-just-one-fear-its-endgame/",
-        "seendate": "2026-10-24T17:00:00.000Z",
+        "url": "https://www.pcgamer.com/games/moba/riot-resurrected-3-of-its-biggest-league-of-legends-pop-groups-but-only-one-emerged-victorious/",
+        "seendate": "2026-10-25T18:00:00.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "The mouse P.I. for hire from Mouse: P.I. For Hire joins the meat boy from Super Meat Boy 3D in gaming's latest indie crossover",
-        "summary": "Of mice and meat.",
+        "title": "Overwatch devs took one look at Jetpack Cat and Bastion's combo and went 'oh, that's a little scary'",
+        "summary": "The Apache helicopter meta was certainly something to be feared.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/action/the-mouse-p-i-for-hire-from-mouse-p-i-for-hire-joins-the-meat-boy-from-super-meat-boy-3d-in-gamings-latest-indie-crossover/",
-        "seendate": "2026-10-24T15:46:15.000Z",
+        "url": "https://www.pcgamer.com/games/fps/overwatch-devs-took-one-look-at-jetpack-cat-and-bastions-combo-and-went-oh-thats-a-little-scary/",
+        "seendate": "2026-10-25T17:00:00.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
       {
-        "title": "David A . Bradford , 90 , Gouverneur - North Country Now",
-        "summary": "GOUVERNEUR - David A. Bradford, passed away October 21 2026 at the age of 90. A mass of Christian burial will be celebrated on Wednesday, October 28, 2026 at 1:00 p.m. at St. James …",
-        "source": "northcountrynow.com",
-        "url": "http://northcountrynow.com/stories/david-a-bradford-90-gouverneur,397266",
-        "seendate": "20261024T233000Z",
-        "domain": "northcountrynow.com"
+        "title": "The datacentre next door: on the frontline of tech’s latest David v Goliath battle",
+        "summary": "The AI boom is pitting local residents against corporate giants seeking to power their energy-hungry networks – but one Welsh city is fighting backDale Johnston opens the gate to his neat suburban garden on the western fringes of Newport in South Wales. There’s a trampoline and a slide on the lawn for his grandchildren, and chairs for him and his wife. He should be enjoying the light draining from the perfe",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/oct/24/the-datacentre-next-door-on-the-frontline-of-techs-latest-david-v-goliath-battle",
+        "seendate": "2026-10-24T11:00:32.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Lockheed strikes 10 - year Pentagon agreement for 850 F - 35s",
-        "summary": "Lockheed Martin has reached an initial agreement with the U.S. Department of Defense to produce and sustain at least 850 F-35 Lightning II fighter jets over the next decade",
-        "source": "haitisun.com",
-        "url": "http://www.haitisun.com/news/279392950/lockheed-strikes-10-year-pentagon-agreement-for-850-f-35s",
-        "seendate": "20261024T233000Z",
-        "domain": "haitisun.com"
+        "title": "AI firms say UK has a year to head off datacentre protests before construction is threatened",
+        "summary": "Exclusive: Nvidia, Microsoft and Cisco taskforce urges ministers to offer areas greater benefits from tech infrastructure amid fears of US-style oppositionAI companies have told ministers they have 12 months to head off public opposition to datacentres in the UK or risk US-style protests that could threaten their construction.Successive dry summers and rising energy bills are increasing public scruti",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/uk-news/2026/oct/22/ai-firms-say-uk-has-a-year-to-head-off-datacentre-protests-before-construction-is-threatened",
+        "seendate": "2026-10-22T05:00:08.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "eHam . net",
-        "summary": "eHam.net is a Web site dedicated to ham radio (amateur radio).",
-        "source": "eham.net",
-        "url": "https://www.eham.net/forum/view?id=topic,145140.0.html",
-        "seendate": "20261024T233000Z",
-        "domain": "eham.net"
+        "title": "‘Black October’: cybersecurity experts sound the alarm over new era of AI-enabled hacking",
+        "summary": "After discovery of severe bug in the PHP programming language, executives warn of ‘vulnerability tsunami’Leaders in cybersecurity are sounding the alarm after the discovery of a major vulnerability this week. They are predicting that artificial intelligence tools will expose more fundamental weaknesses in global internet infrastructure in the months to come.“I no longer think we’re going to be able t",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/oct/23/cybersecurity-ai-hacking-php-vulnerability",
+        "seendate": "2026-10-23T18:48:48.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "For Sale ( 5 Pieces ) New Apple iPhone Duo Original 256GB Unlocked $9 , 995CAD",
-        "summary": "",
-        "source": "dhal3.com",
-        "url": "http://www.dhal3.com/vb/showthread.php?s=3f7b64c9673fb7b0c48f672db6deacab&p=1672294",
-        "seendate": "20261024T233000Z",
-        "domain": "dhal3.com"
+        "title": "Burnham to reveal plans for AI unit to tackle wildfires after scorching summer",
+        "summary": "PM will also announce funding for specialised protective gear and the deployment of military aircraftThe UK government is to create an AI Cobra unit to spot wildfires after this year’s record-breaking summer saw devastating blazes across the country.The country experienced its <a href=\"https://www.theguardian.com/uk-news/2026/sep/01/summer-2026-uk-hottest-on-record-provisional-met-office-data\"",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/oct/22/burnham-plans-ai-unit-spot-fight-fires-faster-record-breaking-summer-heat",
+        "seendate": "2026-10-22T21:30:50.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Coravin Guide launches in New Zealand with 36 wine - by - the - glass venues",
-        "summary": "It&#x27;s good news for wine-lovers across Aotearoa.",
-        "source": "nzherald.co.nz",
-        "url": "https://www.nzherald.co.nz/lifestyle/coravin-guide-launches-in-new-zealand-with-36-wine-by-the-glass-venues/2KXNOE6MNNC2HP65P4KKNZFOSA/",
-        "seendate": "20261024T233000Z",
-        "domain": "nzherald.co.nz"
+        "title": "Experts cast doubt on Anthropic report detailing how AI has altered work at the company",
+        "summary": "Anthropic claims AI will shift how work gets done and labor demand – but some experts are skeptical of the visionLast year, the Anthropic CEO, Dario Amodei, warned that artificial intelligence could eliminate half of entry-level white-collar jobs and that in six months it would be writing <a href=\"https://futurism.com/six-months",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/oct/23/anthropic-report-ai-workplace-shifts",
+        "seendate": "2026-10-23T14:00:28.000Z",
+        "domain": "theguardian.com"
       }
     ],
     "climate": [
+      {
+        "title": "US south-west braces for more storms after enduring days of rain and flooding",
+        "summary": "More inclement weather forecast in rain-soaked Four Corners region after evacuations and rescues last weekAnother round of heavy showers and thunderstorms were expected to hit the south-west US on Sunday after the region endured days of rain that forced evacuations, water rescues and multi-million-dollar damage.The National Weather Service <a href=\"https://forecast.weather.gov/wwamap/wwatxtget.php?cw",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/oct/25/four-corners-southwest-rain-flooding-thunderstorms",
+        "seendate": "2026-10-25T19:02:51.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "New Trump rule allows hunters to bait bears in Alaska with doughnuts, bacon and more",
         "summary": "Critics decry Trump administration rule that lets hunters lure bears with human foods on federal lands in AlaskaA new Trump administration rule allows hunters to bait bears on federal lands in Alaska with bacon, doughnuts, meat scraps or other human foods typically used to help kill the trophy animals at close range.Opponents say the practice will cause bears to be more aggressive around humans, and",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/us-news/2026/oct/24/trump-administration-alaska-bear-hunting-bait",
         "seendate": "2026-10-24T11:00:32.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "EPA has failed to tackle cancer-linked pesticide pollution, lawsuit alleges",
-        "summary": "Suit alleges EPA has for decades failed under the Clean Water Act to address surface-water atrazine pollutionA new lawsuit asks a federal judge to order the Trump administration to address widespread pollution f",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/oct/23/lawsuit-atrazine-pesticide-cancer-epa",
-        "seendate": "2026-10-23T12:00:26.000Z",
         "domain": "theguardian.com"
       },
       {
@@ -365,23 +365,39 @@ window.NEWS_CACHE = {
         "domain": "theguardian.com"
       },
       {
-        "title": "A possible three tornados wallop Arizona, bringing golf-ball sized hail",
+        "title": "EPA has failed to tackle cancer-linked pesticide pollution, lawsuit alleges",
+        "summary": "Suit alleges EPA has for decades failed under the Clean Water Act to address surface-water atrazine pollutionA new lawsuit asks a federal judge to order the Trump administration to address widespread pollution f",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/oct/23/lawsuit-atrazine-pesticide-cancer-epa",
+        "seendate": "2026-10-23T12:00:26.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "A possible three tornadoes wallop Arizona, bringing golf-ball sized hail",
         "summary": "Violent storms overnight knocked over utility poles and trees and carried thunder and heavy winds through stateYet more severe weather struck Thursday in the US south-west as the Four Corners region surveyed blown-away roofs, trees knocked on to homes and power lines downed from overnight tornadoes that injured one person.The injuries weren’t life-threatening but rare for an area better known for sca",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/us-news/2026/oct/22/arizona-storms-weather-tornado-warning",
         "seendate": "2026-10-22T23:15:40.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "America gets new national park with designation of Chiricahua’s rock spires",
-        "summary": "Arizona’s Land of Standing-Up Rocks, formed from ancient volcanic eruption, gets new status with bipartisan supportAn area of towering rock spires in south-eastern Arizona known among Native Americans as the Land of Standing-Up Rocks has become the nation’s newest national park.Legi",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/oct/22/chiricahua-monument-arizona-new-national-park",
-        "seendate": "2026-10-22T12:08:40.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "science": [
+      {
+        "title": "‘It’s magic’: scientists rediscover how to make ancient Roman colour-changing glass",
+        "summary": "Exclusive: Optical engineering that went into 1,600-year-old Lycurgus Cup has baffled experts for centuriesThe Romans’ proficiency in the art of glass-making has produced some of the wonders of antiquity, but few of their creations better a 1,600-year-old masterpiece which sits in the British Museum.Depending on where a light source is positioned, the <a href=\"https://www.britishmuseum.org/collection",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/oct/25/scientists-rediscover-ancient-roman-colour-changing-glass",
+        "seendate": "2026-10-25T06:00:55.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "US military gives Elon Musk’s SpaceX access to sensitive tracking data",
+        "summary": "This gives the company an advantage in tracking objects in orbit, raising national security concerns and fears of greater control over the space industryThe US military has given Elon Musk’s SpaceX access to restricted space tracking data, raising <a href=\"https://www.the",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/oct/25/spacex-access-sensitive-tracking-data",
+        "seendate": "2026-10-25T12:00:05.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "‘Bespoke’ mRNA vaccine significantly reduces risk of melanoma recurrence or death, clinical trial shows",
         "summary": "Trial results represent ‘foundational shift’ in approach to cancer, allowing scientists to harness immune system in more personalised wayGet our new political email, free app or daily news podcast",
@@ -404,22 +420,6 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/science/video/2026/oct/22/why-were-still-so-obsessed-with-elizabeth-holmes-video",
         "seendate": "2026-10-22T12:14:36.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "How citizen science is tracking changes in shorelines around the world",
-        "summary": "An app and a camera phone are all that’s needed at more than 200 spots to help researchers monitor coastal areasThe shoreline changes with the weather. Tracking these changes over time is a labour-intensive task, and an army of citizen scientists with camera phones is a great asset.The CoastSnap project started in Australia in 2017 and has spread to beaches worldwide. You may have spotted the setup w",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/news/2026/oct/23/how-citizen-science-is-tracking-changes-in-shorelines-around-the-world",
-        "seendate": "2026-10-23T05:00:01.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "India slashes cost of cancer drugs after court rules mark-ups are ‘extortion’",
-        "summary": "Case filed in 2022 by patient unable to afford medicine leads to cap on drug prices for millions who face ruin if diagnosedThe Indian government has moved to reduce the price of cancer drugs after a retired bank clerk took her case to the supreme court.From next month, <a href=\"https://www.reuters.com/business/healthcare-pharmaceuticals/india-widens-cancer-drug-price-caps-lowering-prices-137-medicine",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/global-development/2026/oct/23/india-cuts-cost-cancer-drugs",
-        "seendate": "2026-10-23T07:00:03.000Z",
         "domain": "theguardian.com"
       }
     ]
