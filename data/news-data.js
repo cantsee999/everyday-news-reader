@@ -1,303 +1,335 @@
 window.NEWS_CACHE = {
-  "generatedAt": "2026-10-26T00:49:34.543Z",
+  "generatedAt": "2026-10-27T01:40:40.900Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
+      {
+        "title": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
+        "summary": "Commanders suspected of sexual violence during the largest and fastest slaughter of civilians in more than 30 years have been subjected to travel ban and asset freezeSenior Sudanese commanders implicated in a “campaign of rape” have been targeted by the UK on the first anniversary of a <a href=\"https://www.theguardian.com/global-development/2026/mar/25/heroism-horror-and-the-pits-of-hell-inside-the-last-day",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of",
+        "seendate": "2026-10-26T15:07:23.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "US forces accused of ‘weaponising’ Somalia’s floods by trapping women and children in the path of El Niño",
+        "summary": "Exclusive: Coordinated airstrikes on territory held by al-Shabaab are driving the civilian population to find refuge alongside a river where rising water levels are a threat to safety. Is it a deliberate military strategy?The water was rising rapidly. It had already reached Cayni Ali’s waist. Her home, five metres from the flooded River Juba in southern Somalia, never stood a chance. There",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/global-development/2026/oct/26/us-forces-accused-of-weaponising-somalia-flood-el-nino",
+        "seendate": "2026-10-26T11:00:40.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Sudan paramilitary drone strikes cause mass power cuts in eastern states",
+        "summary": "Rapid Support Forces strike five power stations in three states controlled by Sudanese armySudan’s paramilitary Rapid Support Forces have launched a coordinated drone attack against five power stations, causing mass power outages across the country’s east, a government official said.The drones hit two power stations each in the states of Al-Jazira and Gedaref and one in White Nile state, “resulting i",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/oct/26/sudan-paramilitary-drone-strikes-rapid-support-forces-power-cuts-eastern-states",
+        "seendate": "2026-10-26T09:59:27.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "UK poised to miss reduced aid spending target of 0.3% of national income",
+        "summary": "Calculations from the Center for Global Development say spending next year is likely to be £410m less than anticipatedThe UK is on course to miss its target of spending 0.3% of national income on international aid by an estimated £400m by the end of next year.Calculations from the Center for Global Development (CGD) found the UK was on course for a large shortfall in promised official development ass",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/politics/2026/oct/26/uk-international-aid-target-spending-shortfall-budget-research",
+        "seendate": "2026-10-26T06:59:36.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
         "summary": "Switzerland says patient is wife of Swiss diplomat and believed to have contracted virus while travelling in UgandaHealth officials across Africa are racing to determine how Nigeria’s first Ebola patient ⁠in more than a decade ⁠became infected, amid fears ​the outbreak could spread further after reaching a fourth African country.The Swiss foreign ministry said on Friday the patient in Nigeria, the Ug",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread",
         "seendate": "2026-10-23T13:57:11.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Lewis Hamilton aims to extend career till early 2030s so he can race in African Grand Prix",
-        "summary": "41-year-old set on ‘dream to be able to race in Africa’Rwanda to host despite criticism of human rights recordLewis Hamilton has said he hopes to remain racing in Formula One until he can take part in the African Grand Prix which is <a href=\"https://www.theguardian.com/sport/2026/oct/13/f1-returns-to-africa-for-first-time-since-1993-with-10-year-rwanda-deal-from-early-2030s",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/sport/2026/oct/22/lewis-hamilton-aims-to-extend-career-till-early-2030s-so-he-can-race-in-african-grand-prix",
-        "seendate": "2026-10-22T21:53:28.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Controversial US-backed vaccine trial in African newborns halted",
-        "summary": "Hepatitis B study in Guinea-Bissau that was to be funded by CDC and that drew global backlash ‘will not move forward’The US-backed hepatitis B vaccine trial in African newborns that drew global backlash was halted, the lead researcher said on Wednesday.It was “now clear” that the study “will not move forward in Guinea-Bissau”, Frederik Schaltz-Buchholzer, a Danish researcher, <a href=\"https://www.lin",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/oct/21/us-vaccine-trial-african-newborns-hepatitis-b",
-        "seendate": "2026-10-21T17:18:56.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Severely ill ICE detainees face imminent deportation to unknown African states, advocates say",
-        "summary": "Flights to third countries where the detainees have no ties are scheduled as early as Wednesday, relatives detailSend us your questions about immigration and the midtermsRelatives of gravely ill detainees at two Florida <a href",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida",
-        "seendate": "2026-10-21T13:40:08.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Nigeria confirms Ebola case as outbreak spreads into western Africa",
-        "summary": "Case in Africa’s most populous country was detected in a woman who had travelled from UgandaNigeria has confirmed an Ebola case in its capital, Abuja, after a woman who arrived from Uganda tested positive for the virus, the health ministry said.The woman began showing symptoms on 7 October and was admitted to a hospital in Abuja four days later, where she was later diagnosed with Ebola. It is unclear",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest",
-        "seendate": "2026-10-21T00:14:55.000Z",
         "domain": "theguardian.com"
       }
     ],
     "conflict": [
       {
+        "title": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
+        "summary": "Commanders suspected of sexual violence during the largest and fastest slaughter of civilians in more than 30 years have been subjected to travel ban and asset freezeSenior Sudanese commanders implicated in a “campaign of rape” have been targeted by the UK on the first anniversary of a <a href=\"https://www.theguardian.com/global-development/2026/mar/25/heroism-horror-and-the-pits-of-hell-inside-the-last-day",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of",
+        "seendate": "2026-10-26T15:07:23.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "US forces accused of ‘weaponising’ Somalia’s floods by trapping women and children in the path of El Niño",
+        "summary": "Exclusive: Coordinated airstrikes on territory held by al-Shabaab are driving the civilian population to find refuge alongside a river where rising water levels are a threat to safety. Is it a deliberate military strategy?The water was rising rapidly. It had already reached Cayni Ali’s waist. Her home, five metres from the flooded River Juba in southern Somalia, never stood a chance. There",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/global-development/2026/oct/26/us-forces-accused-of-weaponising-somalia-flood-el-nino",
+        "seendate": "2026-10-26T11:00:40.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Sudan paramilitary drone strikes cause mass power cuts in eastern states",
+        "summary": "Rapid Support Forces strike five power stations in three states controlled by Sudanese armySudan’s paramilitary Rapid Support Forces have launched a coordinated drone attack against five power stations, causing mass power outages across the country’s east, a government official said.The drones hit two power stations each in the states of Al-Jazira and Gedaref and one in White Nile state, “resulting i",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/oct/26/sudan-paramilitary-drone-strikes-rapid-support-forces-power-cuts-eastern-states",
+        "seendate": "2026-10-26T09:59:27.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "UK poised to miss reduced aid spending target of 0.3% of national income",
+        "summary": "Calculations from the Center for Global Development say spending next year is likely to be £410m less than anticipatedThe UK is on course to miss its target of spending 0.3% of national income on international aid by an estimated £400m by the end of next year.Calculations from the Center for Global Development (CGD) found the UK was on course for a large shortfall in promised official development ass",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/politics/2026/oct/26/uk-international-aid-target-spending-shortfall-budget-research",
+        "seendate": "2026-10-26T06:59:36.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
         "summary": "Switzerland says patient is wife of Swiss diplomat and believed to have contracted virus while travelling in UgandaHealth officials across Africa are racing to determine how Nigeria’s first Ebola patient ⁠in more than a decade ⁠became infected, amid fears ​the outbreak could spread further after reaching a fourth African country.The Swiss foreign ministry said on Friday the patient in Nigeria, the Ug",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread",
         "seendate": "2026-10-23T13:57:11.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Lewis Hamilton aims to extend career till early 2030s so he can race in African Grand Prix",
-        "summary": "41-year-old set on ‘dream to be able to race in Africa’Rwanda to host despite criticism of human rights recordLewis Hamilton has said he hopes to remain racing in Formula One until he can take part in the African Grand Prix which is <a href=\"https://www.theguardian.com/sport/2026/oct/13/f1-returns-to-africa-for-first-time-since-1993-with-10-year-rwanda-deal-from-early-2030s",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/sport/2026/oct/22/lewis-hamilton-aims-to-extend-career-till-early-2030s-so-he-can-race-in-african-grand-prix",
-        "seendate": "2026-10-22T21:53:28.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Controversial US-backed vaccine trial in African newborns halted",
-        "summary": "Hepatitis B study in Guinea-Bissau that was to be funded by CDC and that drew global backlash ‘will not move forward’The US-backed hepatitis B vaccine trial in African newborns that drew global backlash was halted, the lead researcher said on Wednesday.It was “now clear” that the study “will not move forward in Guinea-Bissau”, Frederik Schaltz-Buchholzer, a Danish researcher, <a href=\"https://www.lin",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/oct/21/us-vaccine-trial-african-newborns-hepatitis-b",
-        "seendate": "2026-10-21T17:18:56.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Severely ill ICE detainees face imminent deportation to unknown African states, advocates say",
-        "summary": "Flights to third countries where the detainees have no ties are scheduled as early as Wednesday, relatives detailSend us your questions about immigration and the midtermsRelatives of gravely ill detainees at two Florida <a href",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida",
-        "seendate": "2026-10-21T13:40:08.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Nigeria confirms Ebola case as outbreak spreads into western Africa",
-        "summary": "Case in Africa’s most populous country was detected in a woman who had travelled from UgandaNigeria has confirmed an Ebola case in its capital, Abuja, after a woman who arrived from Uganda tested positive for the virus, the health ministry said.The woman began showing symptoms on 7 October and was admitted to a hospital in Abuja four days later, where she was later diagnosed with Ebola. It is unclear",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest",
-        "seendate": "2026-10-21T00:14:55.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "economy": [
       {
-        "title": "Premallatha seeks speedy probe into missing kids",
-        "summary": "DMDK general secretary Premallatha Vijayakant, MLA, on Sunday urged the TVK-led govt to focus on the law-and-order situation in the state. Citing reports of children going missing across the state, she urged Tamil Nadu police to enhance CCTV surveillance, quickly investigate the cases and reunite the children with their families.",
-        "source": "timesofindia.indiatimes.com",
-        "url": "https://timesofindia.indiatimes.com/city/trichy/premallatha-seeks-speedy-probe-into-missing-kids/articleshow/135196917.cms",
-        "seendate": "20261025T191500Z",
-        "domain": "timesofindia.indiatimes.com"
+        "title": "Anthropic files for potentially record-breaking $1.5tn stock market valuation in key test for AI industry",
+        "summary": "Market debut of firm behind Claude chatbot will be one of largest in US history, a test of AI boom’s financial viabilityAnthropic has publicly filed for a stock market listing in what is slated to be one of the largest debuts in history. The company’s float on the US market will serve as a test of the financial viability of the multitrillion-dol",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/oct/26/anthropic-files-listing-stock-market",
+        "seendate": "2026-10-26T16:22:28.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Iranians fear return to all - out war with US and Israeli elections",
-        "summary": "Many Iranians are bracing for a return to all-out war as Israeli and U.S. leaders sharpen their threats ahead of elections in both countries.",
-        "source": "wlwt.com",
-        "url": "https://www.wlwt.com/article/iran-war-more-strikes-feared-israel-us-elections/74241134",
-        "seendate": "20261025T191500Z",
-        "domain": "wlwt.com"
+        "title": "‘We don’t have inflation’? Five charts show the US economic reality of Trump’s second term so far",
+        "summary": "As the US midterm elections approach, we take a look at data to see a true picture of the US economy under TrumpWith the midterm elections fast approaching, many Americans have the economy on their minds.US voters are <a href=\"https://www.theguardian.com/business/20",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/oct/26/trump-second-term-economy-charts",
+        "seendate": "2026-10-26T11:00:42.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "EXCLUSIVE : Medellin Cartel Co - founder Carlos Lehder on Pablo Escobar Killing Colombian Politicians",
-        "summary": "Watch the full interview now as a VladTV Youtube Member: Click Here",
-        "source": "vladtv.com",
-        "url": "https://www.vladtv.com/article/316291/medellin-cartel-co-founder-carlos-lehder-on-pablo-escobar-killing",
-        "seendate": "20261025T191500Z",
-        "domain": "vladtv.com"
+        "title": "Anthropic files for stock market IPO; Meta announces $95bn fundraising drive to pay for AI expansion – as it happened",
+        "summary": "Meta says share sale will support its “continued investment in AI infrastructure and personal superintelligence”, as Elon Musk warns some AI cloud computing firms fac",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/business/live/2026/oct/26/ai-cloud-computing-companies-guppy-level-death-elon-musk-stock-markets-dollar-oil-bond-yieds-latest-news-updates",
+        "seendate": "2026-10-26T15:33:24.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Home sellers are lowering their price and helping buyers to make a deal in a stagnant market",
-        "summary": "A stagnant housing market hampered by surging mortgage rates, years of soaring home prices and an economy undercut by rising inflation has many sellers stuck in limbo as homes go",
-        "source": "thedailytimes.com",
-        "url": "http://www.thedailytimes.com/ap/business/home-sellers-are-lowering-their-price-and-helping-buyers-to-make-a-deal-in-a/article_3bf3cb94-c108-5cbd-9d8f-507c92597a73.html",
-        "seendate": "20261025T191500Z",
-        "domain": "thedailytimes.com"
+        "title": "European gas prices soar to four-year high over winter supply fears",
+        "summary": "Jump fuelled by fears of further Middle East supply disruptions amid reports of US-Israeli plans to strike Iran European gas prices have jumped to levels not seen since 2022 as fears continue to grow around the continent’s supply this winter and the conflict in the Middle East.Wholesale gas prices hit €97 (£81) a megawatt-hour on Monday, as temperatures across Europe fell and traders priced in strong",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/business/2026/oct/26/european-gas-prices-four-year-high-winter-supply-fears-middle-east",
+        "seendate": "2026-10-26T10:35:24.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Direct Sales Agent Specialist at Allstate / Insurance Journal Jobs",
-        "summary": "",
-        "source": "insurancejournal.com",
-        "url": "https://www.insurancejournal.com/jobs/889487-direct-sales-agent-specialist",
-        "seendate": "20261025T191500Z",
-        "domain": "insurancejournal.com"
+        "title": "Volkswagen to build $4bn Audi SUV factory in US despite job cuts at home",
+        "summary": "VW investment, creating 4,500 jobs in Georgia, comes amid Trump’s damaging tariffs, intense Chinese competition and costly shift towards EVsAudi has said it will spend $4bn (£3bn) to build its first factory in the US, as its parent company, Volkswagen, struggles with the impact of steep tariffs imposed by Donald Trump.The German brand’s chief executive, Gernot Döllner, joined Trump on stage at a camp",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/business/2026/oct/25/volkswagen-to-build-4bn-audi-suv-factory-in-us-despite-job-cuts-at-home",
+        "seendate": "2026-10-25T13:43:19.000Z",
+        "domain": "theguardian.com"
       }
     ],
     "literature": [
       {
-        "title": "Stephen Fry: ‘Sherlock Holmes altered the course of my whole life’",
-        "summary": "Nearly a hundred years after Arthur Conan Doyle’s last Sherlock Holmes story, the writer and broadcaster unravels the mystery of the detective’s enduring appealIt has become quite the fashion for contemporary writers to have a go at reinventing past classics. We’ve seen it done with imperishable literary heroes like Bond, Jeeves, Poirot and Winnie-the-Pooh. This is a&nbsp;relatively new phenomenon. But not",
+        "title": "Music Against the Night by Yiyun Li review – a virtuosic interrogation of the power of art",
+        "summary": "What does it cost, to live your life in the hope of immortality? Li examines the gulf between talent and genius through the marriage of two real-life musiciansIn his recently published A History of the Novel in Britain, Philip Hensher makes a bold claim. Historica",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/oct/25/stephen-fry-sherlock-holmes-altered-the-course-of-my-whole-life",
+        "url": "https://www.theguardian.com/books/2026/oct/26/music-against-the-night-by-yiyun-li-review-a-virtuosic-interrogation-of-the-power-of-art",
+        "seendate": "2026-10-26T07:00:26.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Tell us: what have you been reading this month?",
+        "summary": "We would like to hear about the books you’ve particularly enjoyed this monthAs part of The Guardian’s “what we’re reading” series, we would like to hear about the books you’ve particularly enjoyed this month.Have you read a book in recent weeks – fiction or non-fiction – that you’d recommend? Tell us all about it below. <a",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2022/feb/23/tell-us-what-have-you-been-reading-this-month",
+        "seendate": "2026-10-26T10:56:19.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "War Is Interested in You by Gideon Rachman review – are we on the brink of world war three?",
+        "summary": "A foreign affairs expert’s bleak assessment of the state of global securityAre we on the brink of a new world war? This bleak subject is&nbsp;increasingly invoked by leaders, soldiers and officials, from Donald Trump to Vladimir Putin to the heads of our military and intelligence services. It’s an urgent theme, then, for the FT foreign affairs columnist Gideon Rachman to explore in his latest survey of glob",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/oct/26/war-is-interested-in-you-by-gideon-rachman-review-how-close-is-world-war-three",
+        "seendate": "2026-10-26T09:00:26.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Two children’s laureates to give royalties to Sally Rooney after her UK sales halted",
+        "summary": "Irish and Welsh authors Chris Haughton and Nicola Davies show solidarity after Rooney’s support for Palestine ActionThe children’s laureates for Ireland and Wales are donating royalties from their works to Sally Rooney in a show of solidarity after she was fo",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/oct/25/ireland-wales-children-laureates-chris-haughton-nicola-davies-sally-rooney-royalties-ban-on-uk-sales",
         "seendate": "2026-10-25T12:00:02.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘Our third date was at Buckingham Palace’: Marlon James and Nicholas Boggs on life as a literary power couple",
-        "summary": "Shortlisted for the Booker and Baillie Gifford prizes respectively, the novelist and biographer talk about working and living together – and giving a voice to Black queer historyThe literary power couple is a historically seductive concept. Two writers sharing a life, their private and creative worlds entwined, each becoming witness to and critic of the other’s work. Think Simone de Beauvoir and Jean-Paul S",
+        "title": "Zadie Smith tells Dua Lipa inequality has made culture clashes feel ‘existential’",
+        "summary": "Novelist says demise of Britain’s ‘incredible’ welfare system and housing struggles have led to deeper divisionsThe novelist Zadie Smith has said that inequality has made culture clashes feel “existential”, adding that it has become “natural to look to your left and think ‘who the fuck are you?’”In an interview with Dua Lipa as part of the Sout",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/oct/24/our-third-date-was-at-buckingham-palace-marlon-james-and-nicholas-boggs-on-life-as-a-literary-power-couple",
-        "seendate": "2026-10-24T08:00:27.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Tom Gauld on the modern romantasy novel – cartoon",
-        "summary": "Continue reading...",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/picture/2026/oct/25/tom-gauld-on-the-modern-romantasy-novel-cartoon",
-        "seendate": "2026-10-25T16:00:06.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Ryu Murakami, cult Japanese author, dies aged 74",
-        "summary": "The bestselling writer, known as Japan’s enfant terrible, explored the dark underbelly of Japanese society in more than 40 works of subversive fiction including Audition, later made into a landmark indie horror movieRyu Murakami, the cult Japanese author and film-maker whose subversive, blackly comic novels found millions of readers, has died aged 74. He died on 17 October at home, according to his Japanese",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/oct/23/ryu-murakami-cult-author-of-coin-locker-babies-and-audition-dies-aged-74",
-        "seendate": "2026-10-23T13:21:16.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Lessons in Chemistry author Bonnie Garmus: ‘I wrote my first novel at 12 – it has not yet found a publisher’",
-        "summary": "The author of the global sensation on being inspired by Harper Lee, the craft of Joan Didion, and the joys of rereading Louisa May AlcottMy earliest reading&nbsp;memory I have a very clear memory of reading Fun&nbsp;With Dick and Jane. I was four years old, and my dad wrote each word on a chalkboard. I memorised them, then opened the book and read them back to him. I couldn’t believe i",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/oct/23/lessons-in-chemistry-author-bonnie-garmus-i-wrote-my-first-novel-at-12-it-has-not-yet-found-a-publisher",
-        "seendate": "2026-10-23T09:00:05.000Z",
+        "url": "https://www.theguardian.com/books/2026/oct/25/zadie-smith-tells-dua-lipa-inequality-has-made-culture-clashes-feel-existential",
+        "seendate": "2026-10-25T07:00:56.000Z",
         "domain": "theguardian.com"
       }
     ],
     "entertainment": [
       {
-        "title": "A Course Called Ireland review – why did Bill Murray ever agree to this Irish golf show?",
-        "summary": "The Hollywood star is so grumpy in this new travelogue it’s like he wishes he wasn’t there. Think sulky car journeys, strained encounters and the sense of a TV series implodingA Course Called Ireland is a new documentary in which Bill Murray golfs his way around the “Emerald Isle” while reflecting on everything from his great-grandmother to worms. The heart leaps. Bill Murray? The same Bill Murray whose gen",
+        "title": "Walter Koenig, actor best known as Chekov on Star Trek, dies aged 90",
+        "summary": "The actor appeared in the cult 1960s show as well as many of the films but also worked as a writerWalter Koenig, the actor known for playing Pavel Chekov throughout the Star Trek franchise, has died, his representative confirmed to the Hollywood Reporter. He was 90.Koenig died at his hom",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/oct/25/a-course-called-ireland-review-bill-murray-golf-bbc",
-        "seendate": "2026-10-25T22:00:13.000Z",
+        "url": "https://www.theguardian.com/culture/2026/oct/26/walter-koenig-actor-star-trek-dies",
+        "seendate": "2026-10-26T18:42:11.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘There’s nothing interesting about me – and no interest in me’: how Larry David’s new biography nearly didn’t happen",
-        "summary": "He point-blank refused, begged the author not to talk to people who knew him … and eventually relented. Making the first authorised biography of the Seinfeld and Curb creator was no mean featEmperor of Nothing: The Making of Larry David might be the most begrudgingly authorised biography ever written. The story of how author Blake J Harris convinced the comedy titan to “tolerate” him begins, of all places,",
+        "title": "John Oliver on extremism and bigotry among Republicans: ‘This party is at a crossroads’",
+        "summary": "Last Week Tonight host looked into the rise of bigotry and neo-nazism within the party before critical midterm racesWith just a week to go until the US midterm elections, John Oliver used the entirety of his latest Last Week Tonight episode to focus on a “worrying tr",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/oct/25/theres-nothing-interesting-about-me-and-no-interest-in-me-how-larry-davids-new-biography-nearly-didnt-happen",
-        "seendate": "2026-10-25T14:00:04.000Z",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/oct/26/john-oliver-last-week-tonight-midterms-republicans",
+        "seendate": "2026-10-26T16:30:08.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Stephen Fry: ‘Sherlock Holmes altered the course of my whole life’",
-        "summary": "Nearly a hundred years after Arthur Conan Doyle’s last Sherlock Holmes story, the writer and broadcaster unravels the mystery of the detective’s enduring appealIt has become quite the fashion for contemporary writers to have a go at reinventing past classics. We’ve seen it done with imperishable literary heroes like Bond, Jeeves, Poirot and Winnie-the-Pooh. This is a&nbsp;relatively new phenomenon. But not",
+        "title": "Mac DeMarco review – glowing melodies and shirtless antics at Carnegie Hall",
+        "summary": "Carnegie Hall, New YorkAfter winning over gen Z, the cult indie rocker makes the historic venue swoon with introspective anthems and a Michael Jackson coverMore than 68 years after Leonard Bernstein’s first-ever Young People’s Concert, Carnegie Hall was yet again overrun with youthful energy on Sunday night. The occasion",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/oct/25/stephen-fry-sherlock-holmes-altered-the-course-of-my-whole-life",
-        "seendate": "2026-10-25T12:00:02.000Z",
+        "url": "https://www.theguardian.com/music/2026/oct/26/mac-demarco-carnegie-hall-review",
+        "seendate": "2026-10-26T16:27:13.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘I’d rather live through something publicly than escape it privately’: Jack Antonoff on survivor’s guilt and still singing love songs after his breakup",
-        "summary": "Whether he’s playing the role of soul-baring artist or starry producer, the Bleachers frontman strives to keep his integrity intact. He weighs in on Ed Sheeran, his love of working on ‘high-stakes’ albums and why he’s standing by the songs about his marriageSitting in the restaurant of a Denver hotel, in the middle of a US tour with his band Bleachers, Jack Antonoff shrugs. “There’s this intense need to fig",
+        "title": "‘A cultural moment’: smash hit doc You Can See Everything continues to dazzle America",
+        "summary": "Nathan Fielder’s three-hour Elizabeth Holmes film has become a pop culture phenomenon but at a sold-out Times Square screening, no one was quite sure what to thinkIn You Can See Everything, it’s Elizabeth Holmes’s partner who makes for 2026’s timeliest villain<a href",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/music/2026/oct/25/jack-antonoff-bleachers-interview-producer-kendrick-springsteen-taylor-swift",
-        "seendate": "2026-10-25T10:00:00.000Z",
+        "url": "https://www.theguardian.com/film/2026/oct/26/you-can-see-everything-cultural-moment",
+        "seendate": "2026-10-26T14:37:00.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Anthony LaPaglia: ‘There is not a role I didn’t get that I ever gave more than four hours of grievance to – even Tony Soprano’",
-        "summary": "The actor on surviving 2000s network television in Without a Trace, the role that made him take Brad Pitt seriously, and leaving the US to ‘ride out Trump’Get our weekend culture and lifestyle emailI didn’t kn",
+        "title": "Chris Brown given suspended sentence over bottle attack at London club",
+        "summary": "R&amp;B singer sentenced to eight months’ imprisonment suspended for 12 months over incident in Mayfair in 2023The R&amp;B singer Chris Brown has been given a suspended sentence after striking a man twice in the head with a tequila bottle in a central London club.Brown, 37, <a href=\"https://www.theguardian.com/uk-news/2026/jul/24/singer-chris-brown-pleads-guilty-to-affray-over-london-club-confrontati",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/oct/25/anthony-lapaglia-10-chaotic-questions-interview",
-        "seendate": "2026-10-24T19:00:42.000Z",
+        "url": "https://www.theguardian.com/music/2026/oct/26/chris-brown-suspended-sentence-bottle-attack-london-club",
+        "seendate": "2026-10-26T12:28:24.000Z",
         "domain": "theguardian.com"
       }
     ],
     "f1": [
       {
-        "title": "Kimi Antonelli reveals biggest mistakes of 2026 as Max Verstappen takes playful dig",
-        "summary": "Current Formula 1 championship leader Kimi Antonelli has listed the mistakes he wants to learn from this season as he closes in on the title, prompting a playful dig from Max Verstappen.The Mercedes driver won the United States Grand Prix at the Circuit of the Americas from pole position, claiming his ninth grand prix victory of the season. His win in Austin means he can now clinch the ...<a class='more'",
+        "title": "Naomi Schiff warns Red Bull over \"knife's edge\" F1 car after US GP struggles",
+        "summary": "Broadcaster Naomi Schiff has warned that Red Bull's narrow set-up window could be compromising Max Verstappen and Isack Hadjar's 2026 Formula 1 campaigns.At the United States Grand Prix, both drivers' races were derailed in the opening stages. Hadjar suffered a launch issue that prompted him to demand a clutch redesign, while Verstappen lacked electrical deployment out of Turn 1, which ...<a class='more'",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/kimi-antonelli-reveals-biggest-mistakes-of-2026-as-max-verstappen-takes-playful-dig/10868452/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-26T00:29:03.000Z",
+        "url": "https://www.motorsport.com/f1/news/naomi-schiff-warns-red-bull-over-knifes-edge-f1-car-after-us-gp-struggles/10868723/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-26T22:06:43.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Lando Norris delivers harsh reality check as McLaren's F1 struggles continue",
-        "summary": "Reigning champion Lando Norris has admitted it's \"pretty obvious\" that McLaren has slipped from championship leaders to being the fourth-fastest team in Formula 1 after he finished fifth at the United States Grand Prix.He finished the race behind Kimi Antonelli, Charles Leclerc, Max Verstappen and Lewis Hamilton at the Circuit of the Americas, with team-mate Oscar Piastri finishing two places ...<a class",
+        "title": "Fred Vasseur reveals two costly moments that denied Ferrari US GP double podium",
+        "summary": "The United States Grand Prix was a wildly successful weekend for Ferrari, if you strictly go off the timing sheets. The newly upgraded car possessed blazing-fast race pace, tyre degradation was fully under control, and Charles Leclerc dragged his machine to a brilliant second-place finish behind Mercedes’ Kimi Antonelli.But inside the Scuderia garage, there is a lingering feeling of \"what ...<a class='mo",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/lando-norris-delivers-harsh-reality-check-as-mclarens-f1-struggles-continue/10868450/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-26T00:24:29.000Z",
+        "url": "https://www.motorsport.com/f1/news/fred-vasseur-blames-a-q3-disaster-and-a-broken-cadillac-for-robbing-ferrari-of-a-us-gp-win/10868569/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-26T21:37:48.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Max Verstappen jokes Red Bull should abandon radios after United States GP struggles",
-        "summary": "Max Verstappen has complained about Red Bull's repeated radio issues, calling them \"a disaster\" and joking that they should start communicating in sign language instead.The four-time champion finished third behind winner Kimi Antonelli and Charles Leclerc at the United States Grand Prix after what was a frustrating and issue-ridden race. And to make things even more difficult, the Dutchman ...<a class='m",
+        "title": "Red Bull reveals damage behind Max Verstappen's US GP struggles",
+        "summary": "When your star driver gets out of the car after grabbing a podium and immediately tells the global broadcast that the pitstops, tyres, and engine braking were all complete garbage, it is up to the team principal to jump on the nearest microphone and put out the fire.Following Verstappen's radio meltdown at the United States Grand Prix, Red Bull Racing CEO and team principal Laurent Mekies ...<a class='mo",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/max-verstappen-jokes-red-bull-should-abandon-radios-after-united-states-gp-struggles/10868443/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-26T00:05:32.000Z",
+        "url": "https://www.motorsport.com/f1/news/mekies-explains-the-invisible-debris-that-cost-max-verstappen-2nd-place-in-austin/10868579/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-26T21:16:47.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Charles Leclerc reveals Ferrari breakthrough after United States GP podium",
-        "summary": "Charles Leclerc believes he has \"unlocked something\" in his driving with Ferrari in recent races and is confident he will have a shot at victory before the end of the 2026 Formula 1 season.The Monegasque driver finished second in the United States Grand Prix, 13 seconds behind race winner and championship leader Kimi Antonelli, after battling Max Verstappen and Lando Norris. It followed ...<a class='",
+        "title": "David Coulthard rejects F1 regulation excuses with Ayrton Senna and Michael Schumacher comparison",
+        "summary": "Former Formula 1 driver David Coulthard has dismissed the narrative that drivers can blame poor performance on the championship's new 2026 regulations, insisting the all-time greats successfully adapt to any machinery.F1 introduced a major regulation change in 2026. While several drivers have struggled to extract consistent pace from the new generation of cars, Coulthard argued that a driver's ...<a clas",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/charles-leclerc-reveals-ferrari-breakthrough-after-united-states-gp-podium/10868441/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-26T00:04:36.000Z",
+        "url": "https://www.motorsport.com/f1/news/david-coulthard-rejects-f1-regulation-excuses-with-ayrton-senna-and-michael-schumacher-comparison/10868708/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-26T18:48:29.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "George Russell confused by lack of pace at F1 US GP despite upgraded W17",
-        "summary": "George Russell is desperately searching for answers after “not being quick enough” at the United States Grand Prix as team-mate Kimi Antonelli closes in on the Formula 1 world title.Antonelli dominated Sunday’s race at Austin from pole, whereas Russell started sixth but finished eighth, having received a five-second penalty for gaining an advantage by running off-track on the opening ...<a class='more' h",
+        "title": "George Russell's Mercedes F1 future discussed amid Kimi Antonelli's success",
+        "summary": "George Russell's long-term future at Mercedes has been questioned following the United States Grand Prix.Russell entered the 2026 Formula 1 season as one of the favourites for the title. But after winning the season-opening Australian Grand Prix and the Chinese sprint race, the Briton watched as his team-mate Kimi Antonelli became the youngest driver to lead the championship.After winning ...<a class",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/george-russell-confused-by-lack-of-pace-at-f1-us-gp-despite-upgraded-w17/10868418/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-25T23:42:10.000Z",
+        "url": "https://www.motorsport.com/f1/news/george-russells-mercedes-f1-future-discussed-amid-kimi-antonellis-success/10868689/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-26T17:16:28.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "Indies and non-sequels have exploded in the last year, and it's not all friendslop",
-        "summary": "\"Indie studios produced 20 of the 21 extra breakout launches in the 2026 cohort,\" reads one industry analysis.",
+        "title": "The 50 most-played Steam Next Fest demos include 7 incremental games, 4 AI disclosures, and only one instance of haystack slop",
+        "summary": "Ten years ago, this list would have shocked most PC gamers.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/indies-and-non-sequels-have-exploded-in-the-last-year-and-its-not-all-friendslop/",
-        "seendate": "2026-10-25T19:17:10.000Z",
+        "url": "https://www.pcgamer.com/software/platforms/the-50-most-played-steam-next-fest-demos-include-7-incremental-games-4-ai-disclosures-and-only-one-instance-of-haystack-slop/",
+        "seendate": "2026-10-27T00:18:15.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "'Save Mass Effect' petition hits over 180,000 signatures within days of BioWare's closure",
-        "summary": "The desperate plea to EA has fans sharing their memories of the spacefaring shooter.",
+        "title": "World of Warcraft: Forever's last-minute patch transforms its bovines into racecars capable of zooming 60% faster than everyone else",
+        "summary": "Blizzard dropped a final balance pass for each playable race's unique abilities.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/mass-effect/save-mass-effect-petition-hits-over-180-000-signatures-within-days-of-biowares-closure/",
-        "seendate": "2026-10-25T18:24:00.000Z",
+        "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forevers-last-minute-patch-transforms-its-bovines-into-racecars-capable-of-zooming-60-percent-faster-than-everyone-else/",
+        "seendate": "2026-10-26T23:00:36.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "The creator of our running RPG of the year weighs in on BioWare's closure: 'They were fundamental to the genre'",
-        "summary": "Don't cry because it's over.",
+        "title": "The developer of one of my favorite 2020s RPGs does it because of BioWare: 'Baldur's Gate 1 is the first game I truly loved'",
+        "summary": "It's a hard one to beat.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/rpg/the-creator-of-our-running-rpg-of-the-year-weighs-in-on-biowares-closure-they-were-fundamental-to-the-genre/",
-        "seendate": "2026-10-25T18:23:41.000Z",
+        "url": "https://www.pcgamer.com/games/baldurs-gate/the-developer-of-one-of-my-favorite-2020s-rpgs-does-it-because-of-bioware-baldurs-gate-1-is-the-first-game-i-truly-loved/",
+        "seendate": "2026-10-26T21:31:55.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Riot resurrected 3 of its biggest League of Legends pop groups, but only one emerged victorious",
-        "summary": "I think I could guess where the budget went, but I'm not complaining.",
+        "title": "Veteran game composer in talks to score Mass Effect 5 shares 20 minutes of music he wrote for the project: 'To even dream in your sandbox was a privilege'",
+        "summary": "We're so back / It's so over / We were so robbed.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/moba/riot-resurrected-3-of-its-biggest-league-of-legends-pop-groups-but-only-one-emerged-victorious/",
-        "seendate": "2026-10-25T18:00:00.000Z",
+        "url": "https://www.pcgamer.com/games/mass-effect/veteran-game-composer-in-talks-to-score-mass-effect-5-shares-20-minutes-of-music-he-wrote-for-the-project-to-even-dream-in-your-sandbox-was-a-privilege/",
+        "seendate": "2026-10-26T21:19:51.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Overwatch devs took one look at Jetpack Cat and Bastion's combo and went 'oh, that's a little scary'",
-        "summary": "The Apache helicopter meta was certainly something to be feared.",
+        "title": "The best haunted card game since Inscryption is back with a new mystery only solitaire freaks can solve",
+        "summary": "Forbidden Solitaire's The Discarded DLC is here and those cards aren't going to play themselves.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/fps/overwatch-devs-took-one-look-at-jetpack-cat-and-bastions-combo-and-went-oh-thats-a-little-scary/",
-        "seendate": "2026-10-25T17:00:00.000Z",
+        "url": "https://www.pcgamer.com/games/card-games/the-best-haunted-card-game-since-inscryption-is-back-with-a-new-mystery-only-solitaire-freaks-can-solve/",
+        "seendate": "2026-10-26T20:47:17.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
+      {
+        "title": "Anthropic’s Claude AI model accessed Georgia voter data in US",
+        "summary": "Latest example of unauthorised behaviour shows AI model bypassed paywall to access data as part of statistics projectAnthropic sued for allegedly using 274 Elvis songs to train AI modelsAnthropic’s Claude model accessed voter data in the US state of Georgia, the AI co",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/oct/26/anthropics-claude-ai-model-accessed-georgia-voter-data-in-us",
+        "seendate": "2026-10-26T11:03:33.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Anthropic files for potentially record-breaking $1.5tn stock market valuation in key test for AI industry",
+        "summary": "Market debut of firm behind Claude chatbot will be one of largest in US history, a test of AI boom’s financial viabilityAnthropic has publicly filed for a stock market listing in what is slated to be one of the largest debuts in history. The company’s float on the US market will serve as a test of the financial viability of the multitrillion-dol",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/oct/26/anthropic-files-listing-stock-market",
+        "seendate": "2026-10-26T16:22:28.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models",
+        "summary": "Authentic Brands Group says AI company infringed on rights of songs by the King such as Can’t Help Falling in LoveThe owners of Elvis Presley’s music catalogue are suing the artificial intelligence (AI) company A",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/oct/25/elvis-presley-anthropic-lawsuit-ai-models-music",
+        "seendate": "2026-10-25T18:25:59.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Australians should prepare for online services to go down unexpectedly as threats rise, cyber agency warns",
+        "summary": "Australian Signals Directorate chief says advanced AI tools are needed to defend against ‘AI-enabled attackers’Follow our Australian politics live blog for latest updatesGet our <a href=\"https://www.theguardian.com/email",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/oct/26/australians-should-prepare-for-online-services-to-go-down-unexpectedly-as-threats-rise-cyber-agency-warns",
+        "seendate": "2026-10-26T11:30:40.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "The datacentre next door: on the frontline of tech’s latest David v Goliath battle",
         "summary": "The AI boom is pitting local residents against corporate giants seeking to power their energy-hungry networks – but one Welsh city is fighting backDale Johnston opens the gate to his neat suburban garden on the western fringes of Newport in South Wales. There’s a trampoline and a slide on the lawn for his grandchildren, and chairs for him and his wife. He should be enjoying the light draining from the perfe",
@@ -305,44 +337,20 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/technology/2026/oct/24/the-datacentre-next-door-on-the-frontline-of-techs-latest-david-v-goliath-battle",
         "seendate": "2026-10-24T11:00:32.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "AI firms say UK has a year to head off datacentre protests before construction is threatened",
-        "summary": "Exclusive: Nvidia, Microsoft and Cisco taskforce urges ministers to offer areas greater benefits from tech infrastructure amid fears of US-style oppositionAI companies have told ministers they have 12 months to head off public opposition to datacentres in the UK or risk US-style protests that could threaten their construction.Successive dry summers and rising energy bills are increasing public scruti",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/uk-news/2026/oct/22/ai-firms-say-uk-has-a-year-to-head-off-datacentre-protests-before-construction-is-threatened",
-        "seendate": "2026-10-22T05:00:08.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "‘Black October’: cybersecurity experts sound the alarm over new era of AI-enabled hacking",
-        "summary": "After discovery of severe bug in the PHP programming language, executives warn of ‘vulnerability tsunami’Leaders in cybersecurity are sounding the alarm after the discovery of a major vulnerability this week. They are predicting that artificial intelligence tools will expose more fundamental weaknesses in global internet infrastructure in the months to come.“I no longer think we’re going to be able t",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/oct/23/cybersecurity-ai-hacking-php-vulnerability",
-        "seendate": "2026-10-23T18:48:48.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Burnham to reveal plans for AI unit to tackle wildfires after scorching summer",
-        "summary": "PM will also announce funding for specialised protective gear and the deployment of military aircraftThe UK government is to create an AI Cobra unit to spot wildfires after this year’s record-breaking summer saw devastating blazes across the country.The country experienced its <a href=\"https://www.theguardian.com/uk-news/2026/sep/01/summer-2026-uk-hottest-on-record-provisional-met-office-data\"",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/oct/22/burnham-plans-ai-unit-spot-fight-fires-faster-record-breaking-summer-heat",
-        "seendate": "2026-10-22T21:30:50.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Experts cast doubt on Anthropic report detailing how AI has altered work at the company",
-        "summary": "Anthropic claims AI will shift how work gets done and labor demand – but some experts are skeptical of the visionLast year, the Anthropic CEO, Dario Amodei, warned that artificial intelligence could eliminate half of entry-level white-collar jobs and that in six months it would be writing <a href=\"https://futurism.com/six-months",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/oct/23/anthropic-report-ai-workplace-shifts",
-        "seendate": "2026-10-23T14:00:28.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "climate": [
       {
+        "title": "Sunlight at night: US startup’s demonstration of lighting Earth from space draws criticism",
+        "summary": "Company imitates reflection of sun from mirrors, prompting pushback from some scientists, environmentalists and California localsLocals in a rural area of California were recently startled to see dazzlingly bright light shining down from nearby mountains at night, illuminating a swathe of the desert below.Unbeknown to them, the strange noct",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/oct/26/california-sunlight-space-mirrors-satellites",
+        "seendate": "2026-10-26T12:00:41.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "US south-west braces for more storms after enduring days of rain and flooding",
-        "summary": "More inclement weather forecast in rain-soaked Four Corners region after evacuations and rescues last weekAnother round of heavy showers and thunderstorms were expected to hit the south-west US on Sunday after the region endured days of rain that forced evacuations, water rescues and multi-million-dollar damage.The National Weather Service <a href=\"https://forecast.weather.gov/wwamap/wwatxtget.php?cw",
+        "summary": "More inclement weather forecast in rain-soaked Four Corners region after evacuations and rescues last weekAnother round of heavy showers and thunderstorms were expected to hit the south-west US on Sunday after the region endured days of rain that forced evacuations, water rescues and multimillion-dollar damage.The National Weather Service <a href=\"https://forecast.weather.gov/wwamap/wwatxtget.php?cwa",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/us-news/2026/oct/25/four-corners-southwest-rain-flooding-thunderstorms",
         "seendate": "2026-10-25T19:02:51.000Z",
@@ -371,56 +379,48 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/us-news/2026/oct/23/lawsuit-atrazine-pesticide-cancer-epa",
         "seendate": "2026-10-23T12:00:26.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "A possible three tornadoes wallop Arizona, bringing golf-ball sized hail",
-        "summary": "Violent storms overnight knocked over utility poles and trees and carried thunder and heavy winds through stateYet more severe weather struck Thursday in the US south-west as the Four Corners region surveyed blown-away roofs, trees knocked on to homes and power lines downed from overnight tornadoes that injured one person.The injuries weren’t life-threatening but rare for an area better known for sca",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/oct/22/arizona-storms-weather-tornado-warning",
-        "seendate": "2026-10-22T23:15:40.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "science": [
       {
-        "title": "‘It’s magic’: scientists rediscover how to make ancient Roman colour-changing glass",
-        "summary": "Exclusive: Optical engineering that went into 1,600-year-old Lycurgus Cup has baffled experts for centuriesThe Romans’ proficiency in the art of glass-making has produced some of the wonders of antiquity, but few of their creations better a 1,600-year-old masterpiece which sits in the British Museum.Depending on where a light source is positioned, the <a href=\"https://www.britishmuseum.org/collection",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/oct/25/scientists-rediscover-ancient-roman-colour-changing-glass",
-        "seendate": "2026-10-25T06:00:55.000Z",
-        "domain": "theguardian.com"
+        "title": "Xsolla Mall Brings Six Indie PC Games Together in One Limited - Time Bundle",
+        "summary": "GigaBash, HELLCARD, Gordian Quest, Winion Virus, Monstrum And UNYIELDER Arrive As Steam Keys In One Checkout, On Sale Through November 3",
+        "source": "manilatimes.net",
+        "url": "https://www.manilatimes.net/2026/10/26/tmt-newswire/media-outreach-newswire/xsolla-mall-brings-six-indie-pc-games-together-in-one-limited-time-bundle/2453653",
+        "seendate": "20261026T071500Z",
+        "domain": "manilatimes.net"
       },
       {
-        "title": "US military gives Elon Musk’s SpaceX access to sensitive tracking data",
-        "summary": "This gives the company an advantage in tracking objects in orbit, raising national security concerns and fears of greater control over the space industryThe US military has given Elon Musk’s SpaceX access to restricted space tracking data, raising <a href=\"https://www.the",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/oct/25/spacex-access-sensitive-tracking-data",
-        "seendate": "2026-10-25T12:00:05.000Z",
-        "domain": "theguardian.com"
+        "title": "Israel Right Fights Over Who Gets To Rule The Jewish State « nuclear - news",
+        "summary": "SCHEERPOST, October 22, 2026, Mohammad Al-Ayoubi, The Cradle. Regardless of who becomes prime minister. With a week to go before Israel’s 27 October election, Israeli Prime Minister Benjamin Netany…",
+        "source": "nuclear-news.net",
+        "url": "https://nuclear-news.net/2026/10/26/6-b1-israels-right-fights-over-who-gets-to-rule-the-jewish-state/",
+        "seendate": "20261026T071500Z",
+        "domain": "nuclear-news.net"
       },
       {
-        "title": "‘Bespoke’ mRNA vaccine significantly reduces risk of melanoma recurrence or death, clinical trial shows",
-        "summary": "Trial results represent ‘foundational shift’ in approach to cancer, allowing scientists to harness immune system in more personalised wayGet our new political email, free app or daily news podcast",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/society/2026/oct/23/mrna-vaccine-melanoma-cancer-breakthrough-australia",
-        "seendate": "2026-10-23T04:27:18.000Z",
-        "domain": "theguardian.com"
+        "title": "Liechtenstein Prince Alois arrives in Gujarat during official India visit",
+        "summary": "Vadodara, Oct 26 (IANS) Liechtenstein’s Hereditary Prince Alois and his wife, Princess Sofia, arrived in Gujarat on Monday as part of their ongoing state visit to India and were accorded a warm welcome at Vadodara Airport.",
+        "source": "ianslive.in",
+        "url": "https://ianslive.in/liechtensteins-prince-alois-arrives-in-gujarat-during-official-india-visit--20261026115950",
+        "seendate": "20261026T071500Z",
+        "domain": "ianslive.in"
       },
       {
-        "title": "Have scientists finally found a way to save the banana from disaster?",
-        "summary": "With the climate crisis and diseases threatening one of the world’s most popular fruits, researchers are hoping a breakthrough in breeding techniques could give the Cavendish banana a certain futureLove them or loathe them, bananas are one of the world’s most popular",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/global-development/2026/oct/22/have-scientists-finally-found-a-way-to-save-the-banana-from-disaster",
-        "seendate": "2026-10-22T13:00:05.000Z",
-        "domain": "theguardian.com"
+        "title": "subsidence the gradual lowering of urban landscapes is not irreversible",
+        "summary": "A recent study on Osaka proves that subsidence—the gradual lowering of urban landscapes—is not irreversible",
+        "source": "repubblica.it",
+        "url": "https://www.repubblica.it/en/europe/news/2026/10/26/news/subsidence_in_italy_venice_and_ravenna_are_sinking_but_there_is_a_solution-425670989/",
+        "seendate": "20261026T071500Z",
+        "domain": "repubblica.it"
       },
       {
-        "title": "Why we’re still so obsessed with Elizabeth Holmes - video",
-        "summary": "You Can See Everything, a documentary about the disgraced biotech company founder Elizabeth Holmes, has enjoyed a record-breaking opening in the US. It is a testament to how fascinated we remain by the convicted fraudster, but what is behind the enduring appeal? US technology editor Blake Montgomery tells Madeleine Finlay why Holmes continues to fascinate us, and reflects on whether the Theranos scandal has had a",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/video/2026/oct/22/why-were-still-so-obsessed-with-elizabeth-holmes-video",
-        "seendate": "2026-10-22T12:14:36.000Z",
-        "domain": "theguardian.com"
+        "title": "Ameren ( NYSE : AEE ) Stock Dropped to Sell by Wall Street Zen",
+        "summary": "Wall Street Zen cut shares of Ameren (NYSE:AEE &#8211; Free Report) from a hold rating to a sell rating in a report published on Sunday morning,Wall Street Zen reports. A number of other equities analysts have also commented on AEE. Mizuho cut their price objective on shares of Ameren from $124.00 to $113.00 and set [&hellip;]",
+        "source": "themarketsdaily.com",
+        "url": "https://www.themarketsdaily.com/2026/10/26/ameren-nyseaee-stock-dropped-to-sell-by-wall-street-zen.html",
+        "seendate": "20261026T071500Z",
+        "domain": "themarketsdaily.com"
       }
     ]
   }
