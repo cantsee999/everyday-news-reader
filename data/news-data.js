@@ -1,5 +1,5 @@
 window.NEWS_CACHE = {
-  "generatedAt": "2026-10-27T01:40:40.900Z",
+  "generatedAt": "2026-10-28T01:53:12.604Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
@@ -88,11 +88,19 @@ window.NEWS_CACHE = {
     ],
     "economy": [
       {
-        "title": "Anthropic files for potentially record-breaking $1.5tn stock market valuation in key test for AI industry",
-        "summary": "Market debut of firm behind Claude chatbot will be one of largest in US history, a test of AI boom’s financial viabilityAnthropic has publicly filed for a stock market listing in what is slated to be one of the largest debuts in history. The company’s float on the US market will serve as a test of the financial viability of the multitrillion-dol",
+        "title": "Four takeaways from Anthropic’s potentially record-breaking stock market filing",
+        "summary": "The AI company’s first public financial disclosures reveal explosive growth, huge costs and risks ranging from cyber-attacks to the limits of safeguardsAnthropic has filed to go public on the US stock market, revealing for the first time the AI research lab’s financials and all the risks – more than 90 page",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/oct/26/anthropic-files-listing-stock-market",
-        "seendate": "2026-10-26T16:22:28.000Z",
+        "url": "https://www.theguardian.com/technology/2026/oct/26/anthropic-stock-market-filing-takeaways",
+        "seendate": "2026-10-27T05:00:04.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Chinese markets lose trillions as race for AI supremacy with US takes its toll",
+        "summary": "Lack of profits and the threat posed by western countries are raising concern about the sustainability of Beijing’s AI boomTrillions of dollars have been wiped from China’s stock markets in recent months amid increasing anxiety about the future of artificial intelligence, as Beijing races against the United States for dominance in the sector.The STAR 50 Index, which tracks technology and innovation c",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing",
+        "seendate": "2026-10-27T04:42:50.000Z",
         "domain": "theguardian.com"
       },
       {
@@ -101,14 +109,6 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/us-news/2026/oct/26/trump-second-term-economy-charts",
         "seendate": "2026-10-26T11:00:42.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Anthropic files for stock market IPO; Meta announces $95bn fundraising drive to pay for AI expansion – as it happened",
-        "summary": "Meta says share sale will support its “continued investment in AI infrastructure and personal superintelligence”, as Elon Musk warns some AI cloud computing firms fac",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/live/2026/oct/26/ai-cloud-computing-companies-guppy-level-death-elon-musk-stock-markets-dollar-oil-bond-yieds-latest-news-updates",
-        "seendate": "2026-10-26T15:33:24.000Z",
         "domain": "theguardian.com"
       },
       {
@@ -129,6 +129,22 @@ window.NEWS_CACHE = {
       }
     ],
     "literature": [
+      {
+        "title": "Michael Gambon: the authorised biography review – a brilliant actor, and a master deceiver",
+        "summary": "From the National Theatre to Harry Potter, Gambon’s shapeshifting life leaves many questions still unansweredMichael Gambon began his acting&nbsp;career with a preposterous bluff. Applying for a job at Dublin’s Gate theatre, the young toolmaker from the south-east London suburbs embellished his CV with entirely fabricated theatrical experience. It was a gamble, but it worked. In 1962 he made his professiona",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/oct/27/michael-gambon-the-authorised-biography-review-a-brilliant-actor-and-a-master-deceiver",
+        "seendate": "2026-10-27T07:00:05.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Time Being by Jude Cook review – a smart existential tale of midlife",
+        "summary": "A fatal mistake sparks this juicy melodrama, in which a philosophy professor navigates the guilt of being a survivorWhat if, battered by cancer and&nbsp;cancer treatment, you decided to end your life? And what if it went wrong and you lived, but a friend died in your place? Would you tell the police the truth? Or reason that there’s no point punishing your grieving, bruised self any further, especially when",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/oct/27/time-being-by-jude-cook-review-a-smart-existential-tale-of-midlife",
+        "seendate": "2026-10-27T09:00:07.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Music Against the Night by Yiyun Li review – a virtuosic interrogation of the power of art",
         "summary": "What does it cost, to live your life in the hope of immortality? Li examines the gulf between talent and genius through the marriage of two real-life musiciansIn his recently published A History of the Novel in Britain, Philip Hensher makes a bold claim. Historica",
@@ -152,194 +168,202 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/books/2026/oct/26/war-is-interested-in-you-by-gideon-rachman-review-how-close-is-world-war-three",
         "seendate": "2026-10-26T09:00:26.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Two children’s laureates to give royalties to Sally Rooney after her UK sales halted",
-        "summary": "Irish and Welsh authors Chris Haughton and Nicola Davies show solidarity after Rooney’s support for Palestine ActionThe children’s laureates for Ireland and Wales are donating royalties from their works to Sally Rooney in a show of solidarity after she was fo",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/oct/25/ireland-wales-children-laureates-chris-haughton-nicola-davies-sally-rooney-royalties-ban-on-uk-sales",
-        "seendate": "2026-10-25T12:00:02.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Zadie Smith tells Dua Lipa inequality has made culture clashes feel ‘existential’",
-        "summary": "Novelist says demise of Britain’s ‘incredible’ welfare system and housing struggles have led to deeper divisionsThe novelist Zadie Smith has said that inequality has made culture clashes feel “existential”, adding that it has become “natural to look to your left and think ‘who the fuck are you?’”In an interview with Dua Lipa as part of the Sout",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/oct/25/zadie-smith-tells-dua-lipa-inequality-has-made-culture-clashes-feel-existential",
-        "seendate": "2026-10-25T07:00:56.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "entertainment": [
       {
-        "title": "Walter Koenig, actor best known as Chekov on Star Trek, dies aged 90",
-        "summary": "The actor appeared in the cult 1960s show as well as many of the films but also worked as a writerWalter Koenig, the actor known for playing Pavel Chekov throughout the Star Trek franchise, has died, his representative confirmed to the Hollywood Reporter. He was 90.Koenig died at his hom",
+        "title": "‘We did everything wrong!’ The tragedy of the hit-free band behind Blondie’s Hanging on the Telephone",
+        "summary": "They gigged wildly, helped other groups to fame and their songwriting brilliance gave Blondie a signature track. Could a deathbed wish now see the Nerves finally making it big?The Nerves should have had it all. Formed in 1974 and gifted with earworm melodies, good looks and a painstaking work ethic, the trio of Jack Lee (guitar, vocals), Peter Case (bass, vocals) and Paul Collins (drums, vocals) wrote, rehe",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/culture/2026/oct/26/walter-koenig-actor-star-trek-dies",
-        "seendate": "2026-10-26T18:42:11.000Z",
+        "url": "https://www.theguardian.com/music/2026/oct/27/the-nerves-blondie-hanging-on-the-telephone-hit-free",
+        "seendate": "2026-10-27T15:25:55.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "John Oliver on extremism and bigotry among Republicans: ‘This party is at a crossroads’",
-        "summary": "Last Week Tonight host looked into the rise of bigotry and neo-nazism within the party before critical midterm racesWith just a week to go until the US midterm elections, John Oliver used the entirety of his latest Last Week Tonight episode to focus on a “worrying tr",
+        "title": "Jon Stewart on the midterms: ‘Republicans running for Congress can’t defend Trump’s reckless record’",
+        "summary": "Late-night hosts discussed Trump’s distraction tactics and crass comments on Nicki Minaj’s derriere as he campaignsLate-night hosts mocked Donald Trump’s bizarre rally with Nicki Minaj<",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/oct/26/john-oliver-last-week-tonight-midterms-republicans",
-        "seendate": "2026-10-26T16:30:08.000Z",
+        "url": "https://www.theguardian.com/culture/2026/oct/27/jon-stewart-midterms-republicans-congress-trump",
+        "seendate": "2026-10-27T15:04:17.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Mac DeMarco review – glowing melodies and shirtless antics at Carnegie Hall",
-        "summary": "Carnegie Hall, New YorkAfter winning over gen Z, the cult indie rocker makes the historic venue swoon with introspective anthems and a Michael Jackson coverMore than 68 years after Leonard Bernstein’s first-ever Young People’s Concert, Carnegie Hall was yet again overrun with youthful energy on Sunday night. The occasion",
+        "title": "Elizabeth Holmes mania: how the buzziest film of the year has resurrected a gut-twisting TV drama",
+        "summary": "The Theranos fraudster is the subject of Nathan Fielder’s mind-bending You Can See Everything documentary. It is now driving audiences to watch Disney/Hulu’s 2022 series, The Dropout – and they’re seeing it in a whole new lightThere are surprise smash hits, and then there’s You Can See Everything, Nathan Fielder’s documentary-cum-psychodrama about the disgraced US entrepreneur Elizabeth Holmes. It ar",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/music/2026/oct/26/mac-demarco-carnegie-hall-review",
-        "seendate": "2026-10-26T16:27:13.000Z",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/oct/27/elizabeth-holmes-documentary-mania-you-can-see-everything-the-dropout",
+        "seendate": "2026-10-27T14:34:55.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘A cultural moment’: smash hit doc You Can See Everything continues to dazzle America",
-        "summary": "Nathan Fielder’s three-hour Elizabeth Holmes film has become a pop culture phenomenon but at a sold-out Times Square screening, no one was quite sure what to thinkIn You Can See Everything, it’s Elizabeth Holmes’s partner who makes for 2026’s timeliest villain<a href",
+        "title": "‘Approaching desire with curiosity’: the many facets of Black masculinity – in pictures",
+        "summary": "Through thoughtful conversations and dynamic images, Quil Lemons’s new book Quiladelphia explores how Black men navigate desire and masculinity as well as the stereotypes placed on them. With a foreword by Brontez Purnell and including Lemons in dialogue with musician Santigold and artist Lyle Ashton Harris, Lemons",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/oct/26/you-can-see-everything-cultural-moment",
-        "seendate": "2026-10-26T14:37:00.000Z",
+        "url": "https://www.theguardian.com/artanddesign/gallery/2026/oct/27/quil-lemons-quiladelphia-photo-book-black-masculinity",
+        "seendate": "2026-10-27T13:00:32.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Chris Brown given suspended sentence over bottle attack at London club",
-        "summary": "R&amp;B singer sentenced to eight months’ imprisonment suspended for 12 months over incident in Mayfair in 2023The R&amp;B singer Chris Brown has been given a suspended sentence after striking a man twice in the head with a tequila bottle in a central London club.Brown, 37, <a href=\"https://www.theguardian.com/uk-news/2026/jul/24/singer-chris-brown-pleads-guilty-to-affray-over-london-club-confrontati",
+        "title": "Elon Musk’s AI Odyssey review – the dullest, most pointless riposte possible to Christopher Nolan’s brilliant epic",
+        "summary": "It is hardly a shock that Grok AI’s interpretation of Homer is as meaningless as a laptop screensaver. The only surprise would be if Musk accepted defeat graciously. Which he won’tThink back. Do you remember when Elon Musk, in a weird online tantrum, and without having seen the film, condemned the suppose",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/music/2026/oct/26/chris-brown-suspended-sentence-bottle-attack-london-club",
-        "seendate": "2026-10-26T12:28:24.000Z",
+        "url": "https://www.theguardian.com/film/2026/oct/27/elon-musk-ai-odyssey-movie-grok-christopher-nolan",
+        "seendate": "2026-10-27T13:01:46.000Z",
         "domain": "theguardian.com"
       }
     ],
     "f1": [
       {
-        "title": "Naomi Schiff warns Red Bull over \"knife's edge\" F1 car after US GP struggles",
-        "summary": "Broadcaster Naomi Schiff has warned that Red Bull's narrow set-up window could be compromising Max Verstappen and Isack Hadjar's 2026 Formula 1 campaigns.At the United States Grand Prix, both drivers' races were derailed in the opening stages. Hadjar suffered a launch issue that prompted him to demand a clutch redesign, while Verstappen lacked electrical deployment out of Turn 1, which ...<a class='more'",
+        "title": "Toto Wolff reveals how Williams' surprise victory helped him secure Mercedes role",
+        "summary": "Mercedes chief Toto Wolff revealed a jibe at Pastor Maldonado that helped him get his place on the team, as the Austrian businessman gave a comparison between the star Mercedes drivers and the then-Williams driver.Wolff was a shareholder and executive at Williams in 2012, when Maldonado took a surprising victory in the Spanish Grand Prix. At the time, Mercedes had won just once since returning ...<a clas",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/naomi-schiff-warns-red-bull-over-knifes-edge-f1-car-after-us-gp-struggles/10868723/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-26T22:06:43.000Z",
+        "url": "https://www.motorsport.com/f1/news/toto-wolff-reveals-how-williams-surprise-victory-helped-him-secure-mercedes-role/10868959/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-28T01:40:02.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Fred Vasseur reveals two costly moments that denied Ferrari US GP double podium",
-        "summary": "The United States Grand Prix was a wildly successful weekend for Ferrari, if you strictly go off the timing sheets. The newly upgraded car possessed blazing-fast race pace, tyre degradation was fully under control, and Charles Leclerc dragged his machine to a brilliant second-place finish behind Mercedes’ Kimi Antonelli.But inside the Scuderia garage, there is a lingering feeling of \"what ...<a class='mo",
+        "title": "George Russell F1 title chances defended by Toto Wolff after Helmut Marko comments",
+        "summary": "Mercedes Formula 1 team chief Toto Wolff has rejected former Red Bull motorsport adviser Helmut Marko's claim that George Russell will never get another shot at the F1 title.Russell currently sits 123 points behind his team-mate and current championship leader Kimi Antonelli in the drivers' standings.While speaking to Sky Sports Deutschland ahead of the United States Grand Prix at the ...<a class='mo",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/fred-vasseur-blames-a-q3-disaster-and-a-broken-cadillac-for-robbing-ferrari-of-a-us-gp-win/10868569/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-26T21:37:48.000Z",
+        "url": "https://www.motorsport.com/f1/news/george-russell-f1-title-chances-defended-by-toto-wolff-after-helmut-marko-comments/10868961/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-28T00:51:35.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Red Bull reveals damage behind Max Verstappen's US GP struggles",
-        "summary": "When your star driver gets out of the car after grabbing a podium and immediately tells the global broadcast that the pitstops, tyres, and engine braking were all complete garbage, it is up to the team principal to jump on the nearest microphone and put out the fire.Following Verstappen's radio meltdown at the United States Grand Prix, Red Bull Racing CEO and team principal Laurent Mekies ...<a class='mo",
+        "title": "Helmut Marko invests in AI start-up after Red Bull F1 exit",
+        "summary": "Former Red Bull motorsport adviser Helmut Marko has become an investor in an Austrian artificial intelligence start-up that lets people leave personal messages to be delivered to loved ones after they die.The 83-year-old, who stepped down from his role at the Milton Keynes outfit at the end of last season after more than two decades with the company, was unveiled as a backer of Lebensstimmen ...<a class=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/mekies-explains-the-invisible-debris-that-cost-max-verstappen-2nd-place-in-austin/10868579/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-26T21:16:47.000Z",
+        "url": "https://www.motorsport.com/f1/news/helmut-marko-invests-in-ai-start-up-after-red-bull-f1-exit/10868955/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-28T00:26:33.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "David Coulthard rejects F1 regulation excuses with Ayrton Senna and Michael Schumacher comparison",
-        "summary": "Former Formula 1 driver David Coulthard has dismissed the narrative that drivers can blame poor performance on the championship's new 2026 regulations, insisting the all-time greats successfully adapt to any machinery.F1 introduced a major regulation change in 2026. While several drivers have struggled to extract consistent pace from the new generation of cars, Coulthard argued that a driver's ...<a clas",
+        "title": "Red Bull responds to Aston Martin F1 power unit rumours",
+        "summary": "Red Bull team principal Laurent Mekies has confirmed that the team is not in \"serious conversations\" when it comes to supplying another Formula 1 team with power units. This includes Aston Martin.The Silverstone-based team has struggled with its power unit performance all season as its works partnership with Honda has been strained. Now, there are reports of Aston Martin potentially looking ...<a class='",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/david-coulthard-rejects-f1-regulation-excuses-with-ayrton-senna-and-michael-schumacher-comparison/10868708/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-26T18:48:29.000Z",
+        "url": "https://www.motorsport.com/f1/news/red-bull-responds-to-aston-martin-f1-power-unit-rumours/10868957/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-28T00:24:29.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "George Russell's Mercedes F1 future discussed amid Kimi Antonelli's success",
-        "summary": "George Russell's long-term future at Mercedes has been questioned following the United States Grand Prix.Russell entered the 2026 Formula 1 season as one of the favourites for the title. But after winning the season-opening Australian Grand Prix and the Chinese sprint race, the Briton watched as his team-mate Kimi Antonelli became the youngest driver to lead the championship.After winning ...<a class",
+        "title": "Kimi Antonelli extends F1 title lead with US GP win Mercedes didn’t expect",
+        "summary": "The telemetry inside the Mercedes garage after Friday practice at the Circuit of the Americas pointed towards the Brackley squad waiting to pack up for a miserable, point-less weekend. The car was off the pace, the drivers were complaining about the balance, and the recent aerodynamic upgrades looked like a massive misstep.Fast forward to Sunday afternoon, and 19-year-old Andrea Kimi Antonelli ...<a clas",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/george-russells-mercedes-f1-future-discussed-amid-kimi-antonellis-success/10868689/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-26T17:16:28.000Z",
+        "url": "https://www.motorsport.com/f1/news/mercedes-admits-they-were-clueless-before-kimi-antonellis-austin-miracle-a-remarkable-turnaround/10868571/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-27T22:05:19.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "The 50 most-played Steam Next Fest demos include 7 incremental games, 4 AI disclosures, and only one instance of haystack slop",
-        "summary": "Ten years ago, this list would have shocked most PC gamers.",
+        "title": "Rockstar will hold union vote right on top of Grand Theft Auto 6 release",
+        "summary": "It's going to be a busy November for Rockstar workers.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/software/platforms/the-50-most-played-steam-next-fest-demos-include-7-incremental-games-4-ai-disclosures-and-only-one-instance-of-haystack-slop/",
-        "seendate": "2026-10-27T00:18:15.000Z",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-will-hold-union-vote-right-on-top-of-grand-theft-auto-6-release/",
+        "seendate": "2026-10-27T22:23:23.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "World of Warcraft: Forever's last-minute patch transforms its bovines into racecars capable of zooming 60% faster than everyone else",
-        "summary": "Blizzard dropped a final balance pass for each playable race's unique abilities.",
+        "title": "Messages in certain large public Discord servers will be searchable on the web after December",
+        "summary": "Discord is attempting to solve the 'this should've been a forum' problem with specially-designated channels whose messages can show up in search engines.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forevers-last-minute-patch-transforms-its-bovines-into-racecars-capable-of-zooming-60-percent-faster-than-everyone-else/",
-        "seendate": "2026-10-26T23:00:36.000Z",
+        "url": "https://www.pcgamer.com/software/platforms/messages-in-certain-large-public-discord-servers-will-be-searchable-on-the-web-after-december/",
+        "seendate": "2026-10-27T21:53:41.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "The developer of one of my favorite 2020s RPGs does it because of BioWare: 'Baldur's Gate 1 is the first game I truly loved'",
-        "summary": "It's a hard one to beat.",
+        "title": "Mass Effect composer Sam Hulick is working on a 're-scored' version of the leaked Mass Effect 5 trailer for N7 Day",
+        "summary": "Hulick says he wants the trailer to properly represent his \"musical vision\" for the cancelled Mass Effect game.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/baldurs-gate/the-developer-of-one-of-my-favorite-2020s-rpgs-does-it-because-of-bioware-baldurs-gate-1-is-the-first-game-i-truly-loved/",
-        "seendate": "2026-10-26T21:31:55.000Z",
+        "url": "https://www.pcgamer.com/games/mass-effect/mass-effect-composer-sam-hulick-is-working-on-a-re-scored-version-of-the-leaked-mass-effect-5-trailer-for-n7-day/",
+        "seendate": "2026-10-27T21:12:29.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Veteran game composer in talks to score Mass Effect 5 shares 20 minutes of music he wrote for the project: 'To even dream in your sandbox was a privilege'",
-        "summary": "We're so back / It's so over / We were so robbed.",
+        "title": "Warhammer 40,000: Boltgun studio announces major layoffs, then quickly deletes the announcement",
+        "summary": "Auroch Digital just released Boltgun 2 two weeks ago, and it's got Warhammer Survivors lined up for launch in November.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/mass-effect/veteran-game-composer-in-talks-to-score-mass-effect-5-shares-20-minutes-of-music-he-wrote-for-the-project-to-even-dream-in-your-sandbox-was-a-privilege/",
-        "seendate": "2026-10-26T21:19:51.000Z",
+        "url": "https://www.pcgamer.com/gaming-industry/warhammer-40-000-boltgun-studio-announces-major-layoffs-then-quickly-deletes-the-announcement/",
+        "seendate": "2026-10-27T17:31:12.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "The best haunted card game since Inscryption is back with a new mystery only solitaire freaks can solve",
-        "summary": "Forbidden Solitaire's The Discarded DLC is here and those cards aren't going to play themselves.",
+        "title": "Nvidia and AMD invest billions into Meta as companies egg each other on to bet even more on AI",
+        "summary": "What's $3 billion to a trillion-dollar company?",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/card-games/the-best-haunted-card-game-since-inscryption-is-back-with-a-new-mystery-only-solitaire-freaks-can-solve/",
-        "seendate": "2026-10-26T20:47:17.000Z",
+        "url": "https://www.pcgamer.com/software/ai/nvidia-and-amd-invest-billions-into-meta-as-companies-egg-each-other-on-to-bet-even-more-on-ai/",
+        "seendate": "2026-10-27T16:34:31.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
       {
-        "title": "Anthropic’s Claude AI model accessed Georgia voter data in US",
-        "summary": "Latest example of unauthorised behaviour shows AI model bypassed paywall to access data as part of statistics projectAnthropic sued for allegedly using 274 Elvis songs to train AI modelsAnthropic’s Claude model accessed voter data in the US state of Georgia, the AI co",
+        "title": "‘Meaningless as a laptop screensaver’: reviewers slate Musk’s AI-made Odyssey film",
+        "summary": "Tesla tycoon launched Grok project after criticising Christoper Nolan’s diverse casting for his Homeric blockbusterElon Musk has released an AI-generated rival to Christopher Nolan’s The Odyssey after pledging to make a version “true to the art of Homer”.Having criticised the hit movie in the su",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/oct/26/anthropics-claude-ai-model-accessed-georgia-voter-data-in-us",
-        "seendate": "2026-10-26T11:03:33.000Z",
+        "url": "https://www.theguardian.com/technology/2026/oct/27/reviewers-slate-musk-ai-grok-odyssey-film-nolan",
+        "seendate": "2026-10-27T14:08:41.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Anthropic files for potentially record-breaking $1.5tn stock market valuation in key test for AI industry",
-        "summary": "Market debut of firm behind Claude chatbot will be one of largest in US history, a test of AI boom’s financial viabilityAnthropic has publicly filed for a stock market listing in what is slated to be one of the largest debuts in history. The company’s float on the US market will serve as a test of the financial viability of the multitrillion-dol",
+        "title": "Anthropic accelerates – for the rest of us, the speed of growth spells precarity",
+        "summary": "The AI industry is still defined by a careening intensity that’s taking the world’s finances along for the rideThis was originally published in TechScape, a newsletter about how technology shapes our lives. Sign up to receive it here.</st",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/oct/26/anthropic-files-listing-stock-market",
-        "seendate": "2026-10-26T16:22:28.000Z",
+        "url": "https://www.theguardian.com/global/2026/oct/26/anthropic-accelerates-ai",
+        "seendate": "2026-10-27T15:15:20.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models",
-        "summary": "Authentic Brands Group says AI company infringed on rights of songs by the King such as Can’t Help Falling in LoveThe owners of Elvis Presley’s music catalogue are suing the artificial intelligence (AI) company A",
+        "title": "‘Digital hostile environment’: AI secretly being embedded across Home Office, report claims",
+        "summary": "Tasks from determining asylum seekers’ ages to border surveillance now involve AI, says Open Rights Group AI has been embedded across the Home Office in near-total secrecy, reinforcing the so-called hostile environment for immigration, according to research.Tasks from the detection of potential sham marriages to determining the age of asylum seekers and checking through the contents of phones of new",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/oct/25/elvis-presley-anthropic-lawsuit-ai-models-music",
-        "seendate": "2026-10-25T18:25:59.000Z",
+        "url": "https://www.theguardian.com/politics/2026/oct/27/digital-hostile-environment-ai-secretly-embedded-home-office-report",
+        "seendate": "2026-10-27T00:01:02.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Australians should prepare for online services to go down unexpectedly as threats rise, cyber agency warns",
-        "summary": "Australian Signals Directorate chief says advanced AI tools are needed to defend against ‘AI-enabled attackers’Follow our Australian politics live blog for latest updatesGet our <a href=\"https://www.theguardian.com/email",
+        "title": "‘My social life completely plummeted’: gen Z is fighting back against big tech",
+        "summary": "From apps that block distractions to stripped-down phones, young people are finding ways to unplug from platforms they say profit from their attentionGen Z voters: tell us what is guiding your vote in the US midterm elections?Nelissa Moukoudi, 19, a university student in Canada, notice",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/oct/26/australians-should-prepare-for-online-services-to-go-down-unexpectedly-as-threats-rise-cyber-agency-warns",
-        "seendate": "2026-10-26T11:30:40.000Z",
+        "url": "https://www.theguardian.com/technology/2026/oct/27/gen-z-digital-detox-apps",
+        "seendate": "2026-10-27T10:00:08.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "The datacentre next door: on the frontline of tech’s latest David v Goliath battle",
-        "summary": "The AI boom is pitting local residents against corporate giants seeking to power their energy-hungry networks – but one Welsh city is fighting backDale Johnston opens the gate to his neat suburban garden on the western fringes of Newport in South Wales. There’s a trampoline and a slide on the lawn for his grandchildren, and chairs for him and his wife. He should be enjoying the light draining from the perfe",
+        "title": "UK government met 137 businesses over AI datacentres – but no environmental groups",
+        "summary": "Investigation finds dozens of ministers and civil servants moved into AI roles as government developed datacentre expansion plansThe UK’s policy on datacentres and AI was developed without any meetings with environmental groups, an investigation has found.The nonprofit organisation Spotlight on Corruption said a “considerable revolving door” shaped the government’s development of “AI growth zones”, a",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/oct/24/the-datacentre-next-door-on-the-frontline-of-techs-latest-david-v-goliath-battle",
-        "seendate": "2026-10-24T11:00:32.000Z",
+        "url": "https://www.theguardian.com/uk-news/2026/oct/27/uk-government-environmental-groups-ai-datacentres-expansion-plans-investigation",
+        "seendate": "2026-10-27T07:00:04.000Z",
         "domain": "theguardian.com"
       }
     ],
     "climate": [
+      {
+        "title": "Trump says government to ‘terminate’ Biden-era methane emissions rules",
+        "summary": "Critics warn of climate danger as president in Texas claims change will save companies and consumers billionsDonald Trump announced his administration is “terminating” Biden-era regulations holding oil and gas companies accountable for large leaks of planet-warming methane during a rally in Lubbock, Texas, on Tuesday evening.Trump said during a campaign rally in Texas that the change would save consu",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/oct/27/trump-biden-era-methane-emissions-rules-oil-gas",
+        "seendate": "2026-10-28T01:18:58.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Aerial video shows California flooding amid ‘record-breaking tides’ – video",
+        "summary": "Coastal communities across California were preparing for days of flooding amid potentially 'record-breaking tides' this week, as water levels began rising on Monday.Coastal California braces for flooding amid forecast of ‘record-breaking tides’ <a href=\"https://www.theguard",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/video/2026/oct/27/aerial-video-shows-california-flooding-amid-record-breaking-tides-video",
+        "seendate": "2026-10-27T21:55:44.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Trump’s cuts have exposed US to ‘cascade’ of El Niño dangers, experts warn",
+        "summary": "President has taken an axe to National Oceanic and Atmospheric Administration, stalling climate research on and response to extreme weather eventsSweeping cuts to the premier US climate agency under Donald Trump have severely hampered the country’s capacity to forecast, research and respond to extreme weather events, former government officials and scientists have warned, as the US faces <a href=\"https://ww",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/environment/2026/oct/27/trump-cuts-el-nino-noaa",
+        "seendate": "2026-10-27T21:34:54.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Sunlight at night: US startup’s demonstration of lighting Earth from space draws criticism",
         "summary": "Company imitates reflection of sun from mirrors, prompting pushback from some scientists, environmentalists and California localsLocals in a rural area of California were recently startled to see dazzlingly bright light shining down from nearby mountains at night, illuminating a swathe of the desert below.Unbeknown to them, the strange noct",
@@ -355,72 +379,48 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/us-news/2026/oct/25/four-corners-southwest-rain-flooding-thunderstorms",
         "seendate": "2026-10-25T19:02:51.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "New Trump rule allows hunters to bait bears in Alaska with doughnuts, bacon and more",
-        "summary": "Critics decry Trump administration rule that lets hunters lure bears with human foods on federal lands in AlaskaA new Trump administration rule allows hunters to bait bears on federal lands in Alaska with bacon, doughnuts, meat scraps or other human foods typically used to help kill the trophy animals at close range.Opponents say the practice will cause bears to be more aggressive around humans, and",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/oct/24/trump-administration-alaska-bear-hunting-bait",
-        "seendate": "2026-10-24T11:00:32.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "The US west has lost nearly 300 glaciers since the 1960s. Climate crisis is drastically shrinking what’s left",
-        "summary": "At the midpoint of the last century the region had 1,450 glaciers and a new study reveals the extent of losses Continue reading...",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/ng-interactive/2026/oct/23/glacier-loss-climate-crisis-west",
-        "seendate": "2026-10-23T12:00:26.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "EPA has failed to tackle cancer-linked pesticide pollution, lawsuit alleges",
-        "summary": "Suit alleges EPA has for decades failed under the Clean Water Act to address surface-water atrazine pollutionA new lawsuit asks a federal judge to order the Trump administration to address widespread pollution f",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/oct/23/lawsuit-atrazine-pesticide-cancer-epa",
-        "seendate": "2026-10-23T12:00:26.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "science": [
       {
-        "title": "Xsolla Mall Brings Six Indie PC Games Together in One Limited - Time Bundle",
-        "summary": "GigaBash, HELLCARD, Gordian Quest, Winion Virus, Monstrum And UNYIELDER Arrive As Steam Keys In One Checkout, On Sale Through November 3",
-        "source": "manilatimes.net",
-        "url": "https://www.manilatimes.net/2026/10/26/tmt-newswire/media-outreach-newswire/xsolla-mall-brings-six-indie-pc-games-together-in-one-limited-time-bundle/2453653",
-        "seendate": "20261026T071500Z",
-        "domain": "manilatimes.net"
+        "title": "Would you pay to have the ‘best baby’? Liberal eugenics and the troubling quest for human perfection",
+        "summary": "For decades the idea of eugenics has been taboo. Now it is returning in a new commercial guiseFor a very long time, I dreamed of being cured. I was born in 1981. I learned to walk early enough, but I stumbled and fell more easily than other children. My parents began to worry that something was wrong, that my muscles were weaker than they should be. Eventually, at the age of three, I was diagnosed with a fo",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/27/would-you-pay-to-have-the-best-baby-liberal-eugenics-and-the-troubling-quest-for-human-perfection",
+        "seendate": "2026-10-27T05:00:04.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Israel Right Fights Over Who Gets To Rule The Jewish State « nuclear - news",
-        "summary": "SCHEERPOST, October 22, 2026, Mohammad Al-Ayoubi, The Cradle. Regardless of who becomes prime minister. With a week to go before Israel’s 27 October election, Israeli Prime Minister Benjamin Netany…",
-        "source": "nuclear-news.net",
-        "url": "https://nuclear-news.net/2026/10/26/6-b1-israels-right-fights-over-who-gets-to-rule-the-jewish-state/",
-        "seendate": "20261026T071500Z",
-        "domain": "nuclear-news.net"
+        "title": "Perimenopause is everywhere. How do you know if you’re in it? – podcast",
+        "summary": "Perimenopause has become a hot topic, with celebrities sharing their experiences and doctors offering tips and advice online. But despite the benefits of growing awareness, a rising number of women are now encountering misinformation about treatments such as HRT. Madeleine Finlay hears from Dr Paula Briggs, a consultant in sexual and reproductive health, about why experts have raised the alarm. Science corresponde",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/audio/2026/oct/27/perimenopause-how-do-you-know-if-youre-in-it-podcast",
+        "seendate": "2026-10-27T05:00:03.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Liechtenstein Prince Alois arrives in Gujarat during official India visit",
-        "summary": "Vadodara, Oct 26 (IANS) Liechtenstein’s Hereditary Prince Alois and his wife, Princess Sofia, arrived in Gujarat on Monday as part of their ongoing state visit to India and were accorded a warm welcome at Vadodara Airport.",
-        "source": "ianslive.in",
-        "url": "https://ianslive.in/liechtensteins-prince-alois-arrives-in-gujarat-during-official-india-visit--20261026115950",
-        "seendate": "20261026T071500Z",
-        "domain": "ianslive.in"
+        "title": "‘Maxxing’ is Dictionary.com’s word of the year: ‘It’s cooler than saying you’re doing more’",
+        "summary": "As all facets of our lives are optimized, the suffix has become inescapable - and experts predict it’s around to stayMaxxing is not a new concept. Dungeons and Dragons players have been “min-maxing” character stats for years; Will Smith was maxin’ and relaxin’ in the 90s; as far back as the 40s, the term was used in game theory.But in the past few years, as all facets of our lives are optimized, the",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/oct/26/maxxing-word-of-the-year-dictionary",
+        "seendate": "2026-10-26T12:15:41.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "subsidence the gradual lowering of urban landscapes is not irreversible",
-        "summary": "A recent study on Osaka proves that subsidence—the gradual lowering of urban landscapes—is not irreversible",
-        "source": "repubblica.it",
-        "url": "https://www.repubblica.it/en/europe/news/2026/10/26/news/subsidence_in_italy_venice_and_ravenna_are_sinking_but_there_is_a_solution-425670989/",
-        "seendate": "20261026T071500Z",
-        "domain": "repubblica.it"
+        "title": "‘It’s magic’: scientists rediscover how to make ancient Roman colour-changing glass",
+        "summary": "Exclusive: Optical engineering that went into 1,600-year-old Lycurgus Cup has baffled experts for centuriesThe Romans’ proficiency in the art of glass-making has produced some of the wonders of antiquity, but few of their creations better a 1,600-year-old masterpiece which sits in the British Museum.Depending on where a light source is positioned, the <a href=\"https://www.britishmuseum.org/collection",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/oct/25/scientists-rediscover-ancient-roman-colour-changing-glass",
+        "seendate": "2026-10-25T06:00:55.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Ameren ( NYSE : AEE ) Stock Dropped to Sell by Wall Street Zen",
-        "summary": "Wall Street Zen cut shares of Ameren (NYSE:AEE &#8211; Free Report) from a hold rating to a sell rating in a report published on Sunday morning,Wall Street Zen reports. A number of other equities analysts have also commented on AEE. Mizuho cut their price objective on shares of Ameren from $124.00 to $113.00 and set [&hellip;]",
-        "source": "themarketsdaily.com",
-        "url": "https://www.themarketsdaily.com/2026/10/26/ameren-nyseaee-stock-dropped-to-sell-by-wall-street-zen.html",
-        "seendate": "20261026T071500Z",
-        "domain": "themarketsdaily.com"
+        "title": "US military gives Elon Musk’s SpaceX access to sensitive tracking data",
+        "summary": "This gives the company an advantage in tracking objects in orbit, raising national security concerns and fears of greater control over the space industryThe US military has given Elon Musk’s SpaceX access to restricted space tracking data, raising <a href=\"https://www.the",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/oct/25/spacex-access-sensitive-tracking-data",
+        "seendate": "2026-10-25T12:00:05.000Z",
+        "domain": "theguardian.com"
       }
     ]
   }
