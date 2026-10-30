@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T01:59:31.780Z",
+  "generatedAt": "2026-10-30T02:14:24.858Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
@@ -88,89 +88,47 @@
     ],
     "economy": [
       {
-        "title": "Fed holds interest rates steady in last decision before midterms",
-        "summary": "Fed chair Kevin Warsh said politics played no role in pause of interest rate hikes, despite inflation remaining above 3%The US Federal Reserve left interest rates unchanged on Wednesday during its last board meeting before the midterm elections, keeping rates at one of the highest pre-election levels seen in over 20 years.Two out of 12 board members voted against the pause, preferring to raise rates",
+        "title": "Was Ralph Nader right about (almost) everything? His challenge to Democrats ahead of the midterm elections",
+        "summary": "The ex-presidential candidate tells Democrats to prosecute corruption and bring real change for the working classA corporate plutocracy. A broken healthcare system. Massive and widening inequality. Cash-soaked elections. Angry people struggling to pay their bills and disgusted with lawmakers in Washington DC.Nearly everything that pushed",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/oct/28/fed-interest-rates-midterms",
-        "seendate": "2026-10-28T19:26:41.000Z",
+        "url": "https://www.theguardian.com/us-news/2026/oct/29/ralph-nader-midterm-elections",
+        "seendate": "2026-10-29T10:00:28.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Embattled CBS leader Bari Weiss downplays concerns about weak 60 Minutes ratings",
-        "summary": "CBS News editor-in-chief sidesteps viewership concerns and says flagship show doing ‘tremendously well’CBS News editor-in-chief Bari Weiss has spoken publicly for the first time about the ratings challenges the network has experienced under her year-long tenure, sidestepping concerns about diminished viewership at the Sunday show 60 Minutes by saying it was not her top priority.“I could never build a",
+        "title": "US economy grows faster than expected but inflation rises to 3.7%",
+        "summary": "Commerce department data contrasts with sharp deterioration in consumer sentiment as midterms loomThe US economy grew faster than expected in the third quarter while inflation accelerated in September, according to new commerce department data released on Thursday, less than a week before the midterm elections that will determine control of Congress.Gross domestic product (GDP) increased at a 3.4% an",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/media/2026/oct/28/bari-weiss-cbs-news-60-minutes",
-        "seendate": "2026-10-28T22:22:19.000Z",
+        "url": "https://www.theguardian.com/business/2026/oct/29/economy-growth-third-quarter",
+        "seendate": "2026-10-29T13:09:00.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Trump says government to ‘terminate’ Biden-era methane emissions rules",
-        "summary": "Critics warn of climate danger as president in Texas claims change will save companies and consumers billionsDonald Trump said his administration was “terminating” Biden-era regulations holding oil and gas companies accountable for large leaks of planet-warming methane during a rally in Lubbock, Texas, on Tuesday evening.“Tonight, I’m officially terminating Biden’s expensive and unnecessary methane r",
+        "title": "FTC orders Delta, Uber and others to hand over data on algorithmic pricing",
+        "summary": "Regulator demands companies explain how and why they charge different prices for the same product or service The Federal Trade Commission (FTC) is demanding some of the US’s biggest airlines, ride-share companies and retailers divulge how they are using algorithms and loyalty programs to target customers and drivers with different prices and wages.Nine companies – Delta, United, JetBlue, Lyft, Uber,",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/oct/27/trump-biden-era-methane-emissions-rules-oil-gas",
-        "seendate": "2026-10-28T14:30:29.000Z",
+        "url": "https://www.theguardian.com/us-news/2026/oct/29/delta-uber-ftc-pricing",
+        "seendate": "2026-10-29T10:00:29.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "San Francisco estate sells for record $10m above listing price as AI boom drives up costs",
-        "summary": "Eight-bedroom mansion listed at $18.5m sold for $28.5m and has a private garden and three-car garageA San Francisco estate sold for $10m above its listing price this month in a new record for the city as the artificial intelligence boom continues to drive up real esta",
+        "title": "DoorDash to buy Instacart for $17bn in major grocery delivery consolidation",
+        "summary": "Acquisition will supercharge DoorDash’s grocery delivery, ‘one of the hardest things to get right online’, CEO saysDoorDash is gobbling up Instacart in a $17bn acquisition that will supercharge its grocery delivery business.DoorDash said the Instacart brand name and app will remain, and Instacart shoppers can continue fulfilling orders for Instacart. Grocers can also choose to work with Instacart or",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/oct/27/san-francisco-real-estate-listing-price-ai",
-        "seendate": "2026-10-27T20:23:03.000Z",
+        "url": "https://www.theguardian.com/business/2026/oct/29/doordash-buys-instacart-grocery-delivery",
+        "seendate": "2026-10-29T13:41:43.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Four takeaways from Anthropic’s potentially record-breaking stock market filing",
-        "summary": "The AI company’s first public financial disclosures reveal explosive growth, huge costs and risks ranging from cyber-attacks to the limits of safeguardsAnthropic has filed to go public on the US stock market, revealing for the first time the AI research lab’s financials and all the risks – more than 90 page",
+        "title": "Europe’s central bank chief, Christine Lagarde, steps down for ‘freedom of speech’",
+        "summary": "Possible candidate to run World Economic Forum departs ECB nine months early, saying she wants to speak her mind about world affairsChristine Lagarde, the eurozone’s top central banker, has said she is stepping down nine months early to speak her mind about world affairs and confront the “misrepresentation of the truth”.Ending months of speculation about her future at the European Central Bank, Lagar",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/oct/26/anthropic-stock-market-filing-takeaways",
-        "seendate": "2026-10-27T05:00:04.000Z",
+        "url": "https://www.theguardian.com/world/2026/oct/29/european-central-bank-chief-christine-lagarde-to-step-down-nine-months-early",
+        "seendate": "2026-10-29T16:05:50.000Z",
         "domain": "theguardian.com"
       }
     ],
     "literature": [
-      {
-        "title": "In One Brief Moment All Eternity by Elif Shafak review – what Madame Bovary thought of Flaubert",
-        "summary": "This audacious portrait of the French author through the eyes of his women is Shafak’s love letter to literature in dark timesIn Frantumaglia, her collection of&nbsp;essays on writing and reading, Elena Ferrante writes that she has&nbsp;sometimes dismissed <a href=\"https://www.theguardian.com/boo",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/oct/28/in-one-brief-moment-all-eternity-by-elif-shafak-review-what-madame-bovary-thought-of-flaubert",
-        "seendate": "2026-10-28T09:00:04.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "‘There is no inevitable dystopia’: Jeanette Winterson on AI and the future of humanity",
-        "summary": "The author believes we are at a turning point as a species – and even in the shadow of big tech it’s up to us how we want to proceed‘I am a storyteller by trade,” writes Jeanette Winterson on the first page of her 2021 book 12 Bytes, an idiosyncrat",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/oct/28/no-inevitable-dystopia-jeanette-winterson-ai-future-of-humanity",
-        "seendate": "2026-10-28T10:00:05.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Is It Too Late to Make a Run for It? by Judi Dench review – whatever you do, don’t call her a ‘national treasure’",
-        "summary": "The actor waxes lyrical on directors, dildos and why she hates being referred to as though she’s a dusty old relicIn the late 1950s, Judi Dench was&nbsp;invited to meet a major Hollywood producer about a possible career in the film business. The producer looked at her for a long time and said: “Very nice to meet you but you’ll never make a movie because you have every single thing wrong with your face.” As",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/oct/28/is-it-too-late-to-make-a-run-for-it-by-judi-dench-review-whatever-you-do-dont-call-her-a-national-treasure",
-        "seendate": "2026-10-28T09:00:03.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Michael Gambon: the authorised biography review – a brilliant actor, and a master deceiver",
-        "summary": "From the National Theatre to Harry Potter, Gambon’s shapeshifting life leaves many questions still unansweredMichael Gambon began his acting&nbsp;career with a preposterous bluff. Applying for a job at Dublin’s Gate theatre, the young toolmaker from the south-east London suburbs embellished his CV with entirely fabricated theatrical experience. It was a gamble, but it worked. In 1962 he made his professiona",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/oct/27/michael-gambon-the-authorised-biography-review-a-brilliant-actor-and-a-master-deceiver",
-        "seendate": "2026-10-27T07:00:05.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Time Being by Jude Cook review – a smart existential tale of midlife",
-        "summary": "A fatal mistake sparks this juicy melodrama, in which a philosophy professor navigates the guilt of being a survivorWhat if, battered by cancer and&nbsp;cancer treatment, you decided to end your life? And what if it went wrong and you lived, but a friend died in your place? Would you tell the police the truth? Or reason that there’s no point punishing your grieving, bruised self any further, especially when",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/oct/27/time-being-by-jude-cook-review-a-smart-existential-tale-of-midlife",
-        "seendate": "2026-10-27T09:00:07.000Z",
-        "domain": "theguardian.com"
-      }
-    ],
-    "entertainment": [
       {
         "title": "‘We sold out tickets within 13 minutes’: new novel from romantasy author Sarah J Maas sparks fan mania",
         "summary": "Move over Oasis – 6,000 people tried to buy 220 tickets to a masquerade ball to celebrate the release of A Court of Splintered Harmony, while specialist bookshops catering for the genre report huge salesWhen The Spicy Librarian, a romance bookshop in Leamington Spa, announced a masquerade ball to celebrate the new Sarah J Maas novel, 6,000 people tried to buy 220 tickets. “We sold out within 13 minutes,” sa",
@@ -180,124 +138,198 @@
         "domain": "theguardian.com"
       },
       {
-        "title": "Peter Medak, veteran director of The Krays and The Changeling, dies aged 88",
-        "summary": "The film-maker enjoyed a long and varied film and TV career, from horror movies and true-crime thrillers to Cannibal and Breaking BadPeter Medak, the British-Hungarian director of The Changeling, The Krays and Let Him Have It, has died aged 88. Medak’s family announced he died peacefully in Los Angeles on Tuesday.Medak enjoyed a long and varied career across film and TV, which included spirit-of-the-",
+        "title": "Sarah Howe wins Forward poetry prize for best collection",
+        "summary": "Howe’s ‘exceptional’ Foretokens took the main £10,000 award, while Nur Turkmani, Tara Bergin and Biff Smith swept up the remaining categoriesSarah Howe has won the Forward prize for best collection, one of the UK’s most prestigious poetry awards, for Foretokens, a collection that explores new parenthood, the death of her father and her mother’s early life in Hong Kong.Howe was announced as the winner",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/oct/28/peter-medak-veteran-director-of-the-krays-and-the-changeling-dies-aged-88",
-        "seendate": "2026-10-28T17:43:26.000Z",
+        "url": "https://www.theguardian.com/books/2026/oct/29/sarah-howe-wins-forward-poetry-prize-for-best-collection",
+        "seendate": "2026-10-29T16:32:12.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Iranian film-maker Jafar Panahi given new prison sentence",
-        "summary": "Charges against him are unclear after return to Iran despite being sentenced last year for ‘propaganda activities’An Iranian court has handed the award-winning film director Jafar Panahi a new prison sentence of five years and one month and ordered the seizure of all his assets.The 66-year-old, who <a href=\"https://www.theguardian.com/film/2025/may/24/iranian-director-jafar-panahi-wins-palme-dor-at-c",
+        "title": "If British Library reading rooms become ‘co-working spaces’, it’s all too easy to imagine what comes next | Andy Beckett",
+        "summary": "The plan to generate revenue from areas currently used by the public is causing bitter dispute, and raises fundamental questions In a crowded country that is short of public money, any expansive public building that seems underused in any way is vulnerable. Professional critics of state spending can claim taxpayers’ money is being wasted. Managers of the building who are under financial pressure can",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/oct/28/iran-film-maker-jafar-panahi-new-prison-sentence-assets-seized",
-        "seendate": "2026-10-28T16:56:10.000Z",
+        "url": "https://www.theguardian.com/commentisfree/2026/oct/29/british-library-reading-rooms-co-working-space-national-library",
+        "seendate": "2026-10-29T08:00:27.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Jimmy Kimmel on Trump’s midterms mindset: ‘If his side wins, elections were honest’",
-        "summary": "Late-night hosts discussed Trump discrediting midterms results, and Don Jr’s friendship with a Russian oligarchLate-night hosts looked into Republicans’ efforts to discredit election results ahead of the US midterms and Donald Trump Jr’s questionable friendship with a",
+        "title": "Are You With Me Now? by Hanif Kureishi review – a novelist unleashed",
+        "summary": "The constraints of Kureishi’s life after a devastating accident infuse his writing with a new and thrilling immediacySome months after returning home, after a grim year in hospitals in Rome and London, Hanif Kureishi begins to rebel. Not against his family, or the physical reality of being <a href=\"https://www.theguardian.com/books/2024/oct/12",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/culture/2026/oct/28/jimmy-kimmel-trump-midterms",
-        "seendate": "2026-10-28T14:33:56.000Z",
+        "url": "https://www.theguardian.com/books/2026/oct/29/are-you-with-me-now-by-hanif-kureishi-review-back-to-basics",
+        "seendate": "2026-10-29T07:00:26.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘Fear is contagious’: why horror shows are taking over the New York stage",
-        "summary": "Hit London plays 2:22, Paranormal Activity and A Ghost in Your Ear are now spooking audiences on and off Broadway amid high demand for communal experiencesAs we escaped the restrictions of the pandemic, with many also trying to escape the smartphone addiction that was exacerbated by it, there was widespread desire for the in-person communal experience. It was a slow crawl back with casualties along the way",
+        "title": "Bram Stoker’s Dracula audiobook review – cinematic horror with an A-list cast",
+        "summary": "Jonathan Bailey, Ella Purnell, Aimee-Lou Wood, Maggie Gyllenhaal and more bring shock and gore to an immersive retelling with real biteDo we really need another retelling of Bram Stoker’s fabled horror novel, which has already yielded multiple films, plays and radio dramas? Perhaps not, but this new audio version of Dracula, directed by Mary Lambert and adapted by Robyn Aherne, justifies its existence with",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/stage/2026/oct/28/new-york-plays-theatre-horror",
-        "seendate": "2026-10-28T09:00:03.000Z",
+        "url": "https://www.theguardian.com/books/2026/oct/29/bram-stokers-dracula-audiobook-review-cinematic-horror-with-an-a-list-cast",
+        "seendate": "2026-10-29T15:00:47.000Z",
+        "domain": "theguardian.com"
+      }
+    ],
+    "entertainment": [
+      {
+        "title": "Patrick Stewart, Star Trek actor and acclaimed thespian, dies aged 86",
+        "summary": "Star Trek: the Next Generation and X-Men actor died at his home after ‘a brief and poignant journey with Alzheimer’s disease and Lewy body dementia’Patrick Stewart – a life in pictures<a href=\"https://www.theguardian.com/culture/live/2026/oct/29/patrick-stewart-dead-at-86-live-upd",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/culture/2026/oct/29/patrick-stewart-dead",
+        "seendate": "2026-10-29T21:02:36.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "The Mosquito Bowl review – Netflix mixes football, war and cliches in slick by-the-numbers saga",
+        "summary": "Peter Berg’s handsomely made second world war drama about a football game before the battle of Okinawa is stirring but filled with eye-rolling dialogueForgive me, but it is difficult not to be a little cynical about The Mosquito Bowl, Peter Berg’s grimly serious action feature situated (and marketed during many an NFL game) at the intersection of two predominant male interests: football and the second world",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/film/2026/oct/29/the-mosquito-bowl-netflix-movie-review",
+        "seendate": "2026-10-29T17:37:35.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Elke Sommer, prolific German star of A Shot in the Dark and And Then There Were None, dies aged 85",
+        "summary": "The Berlin-born performer had a gift for languages that took her to Hollywood, landing roles alongside Peter Sellers, Dick Van Dyke and Paul NewmanElke Sommer, the prolific German star of the Pink Panther film A Shot in the Dark, early 70s Agatha Christie adaptation And Then there Were None, and British sex comedy Carry on Behind, has died aged 85. <a href=\"https://www.bild.de/unterhaltung/stars-und-leute/e",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/film/2026/oct/29/elke-sommer-prolific-german-star-of-a-shot-in-the-dark-and-and-then-there-were-none-dies",
+        "seendate": "2026-10-29T16:36:52.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "​‘He buckled. I could hear his bass ringing out ...’ The luminous rise and tragic end of US alt heroes Morphine",
+        "summary": "​Fronted by Mark Sandman​,​ the group brought enigmatic, elegant rock to post-grunge America. As lost demos surface, those closest to Sandman remember a man who grabbed on to life’s joysIt’s early 1998, and at Fort Apache recording studio in Massachusetts, Mark Sandman, the suave frontman of Morphine, is nearing breaking point. Morphine’s four enigmatic and blackly humorous albums have won critical acclaim",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/music/2026/oct/29/morphine-mark-sandman-cocoon-partisan",
+        "seendate": "2026-10-29T16:00:47.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Jimmy Kimmel on Trump’s racist remarks at rallies: ‘really takes you back about 200 years’",
+        "summary": "Late-night hosts discussed the president’s weird campaign behaviour and his out-of-touch comments about wealthLate-night hosts expressed disgust at Donald Trump’s latest racist attacks while also taking aim at his comments about money. Continue readi",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/culture/2026/oct/29/jimmy-kimmel-trump-rallies-midterms",
+        "seendate": "2026-10-29T15:01:19.000Z",
         "domain": "theguardian.com"
       }
     ],
     "f1": [
       {
-        "title": "Daniel Ricciardo opens door to racing return with Max Verstappen at Le Mans",
-        "summary": "Former Formula 1 driver Daniel Ricciardo has revealed he would consider a one-off appearance at the Le Mans 24 Hours and named his former Red Bull team-mate Max Verstappen as his first choice to share a car with.The Australian driver has not raced since his F1 exit after the 2024 Singapore Grand Prix, but during an appearance on the F1 Beyond the Grid, the eight-time grand prix winner said he ...<a class",
+        "title": "\"Two steps forward, one step back\" – Oscar Piastri explains the route out of McLaren's car woes",
+        "summary": "Oscar Piastri has no skin in the game so far as the 2026 drivers' championship is concerned, but he reckons there is still plenty to fight for in the final rounds of the season.One of the biggest priorities is to work on improving his performances at circuits where he has struggled historically; another is to understand the effects of the latest set of upgrades applied to his MCL40 and work ...<a class='",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/daniel-ricciardo-opens-door-to-racing-return-with-max-verstappen-at-le-mans/10869169/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-29T00:41:02.000Z",
+        "url": "https://www.motorsport.com/f1/news/two-steps-forward-one-step-back-piastri-explains-the-route-out-of-mclarens-car-woes/10869477/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-30T00:11:38.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Daniel Ricciardo reveals major regret over 2018 Red Bull departure",
-        "summary": "Daniel Ricciardo has admitted he wishes he had stayed at the Red Bull Formula 1 team rather than leaving at the end of the 2018 season.The Australian won seven grands prix with Red Bull, but shocked everyone when he left the team and joined Renault for 2019, leaving Max Verstappen as the team’s undisputed lead driver. The Dutchman went on to win four consecutive world titles from 2021, while ...<a class=",
+        "title": "Remembering Sir Patrick Stewart's unforgettable moment on the F1 podium with Daniel Ricciardo",
+        "summary": "While Sir Patrick Stewart made his name in franchises such as Star Trek and X-Men, he'll be remembered by Formula 1 fans as an unforgettable lover of motorsport. And in Montreal in 2017, he proved just how passionate he was by drinking champagne from Daniel Ricciardo's race boot on the podium.The film legend died aged 86 at his home in Los Angeles after what was described as a brief and ...<a class='more",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/daniel-ricciardo-reveals-major-regret-over-2018-red-bull-departure/10869167/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-29T00:26:45.000Z",
+        "url": "https://www.motorsport.com/f1/news/remembering-sir-patrick-stewarts-unforgettable-moment-on-the-f1-podium-with-daniel-ricciardo/10869481/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-30T00:10:28.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "FIA to use AI to help shape future F1 regulations in new AWS partnership",
-        "summary": "The Fédération Internationale de l'Automobile (FIA) will use artificial intelligence from Amazon Web Services (AWS) to help draw up the rules for Formula 1's next era of cars, after signing a new global partnership with the tech giant.Under the deal, AWS becomes the governing body's official AI and cloud computing partner, with its technology to be used across motorsport, including ...<a class='more' hre",
+        "title": "Lewis Hamilton: “I’m built differently” as he eyes F1 career into 2030s",
+        "summary": "Seven-time Formula 1 world champion Lewis Hamilton insists he is “built differently” as he discusses the idea of extending his career long enough to race at the new African Grand Prix.F1 recently announced a 10-year deal with Rwanda to host a race at a new circuit near Kigali, with the event expected to join the calendar in the early 2030s. Upon hearing the news, he was asked his thoughts ...<a class='mo",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/fia-to-use-ai-to-help-shape-future-f1-regulations-in-new-aws-partnership/10869165/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-29T00:16:47.000Z",
+        "url": "https://www.motorsport.com/f1/news/lewis-hamilton-im-built-differently-as-he-eyes-f1-career-into-2030s/10869464/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-29T22:52:21.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Christian Horner addresses past misconduct allegations in new interview",
-        "summary": "The allegations surrounding Christian Horner's final months at Red Bull Racing still draw questions from fans despite him being cleared of any wrongdoing. Now, 15 months after his exit from the team, Horner has finally broken his silence on that time. Sitting down with 60 Minutes Australia, the former team principal addressed the allegations with uncompromising defiance.The ...<a class='more' href='h",
+        "title": "Max Verstappen discusses toll of F1 calendar after two drivers fall ill",
+        "summary": "Four-time Formula 1 champion Max Verstappen says it is \"normal\" for F1 drivers and team members to fall ill at this stage of the season after two drivers missed Thursday's media day in Mexico City.Championship leader Kimi Antonelli was excused from media duties while he recovers from a viral illness, with Mercedes expecting the Italian driver to return to the track for Friday practice ...<a class='more'",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/christian-horner-finally-speaks-on-the-leaked-whatsapp-file-and-coercion-allegations/10869049/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-28T23:51:51.000Z",
+        "url": "https://www.motorsport.com/f1/news/max-verstappen-discusses-hidden-toll-of-f1-calendar-after-two-drivers-fall-ill/10869459/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-29T22:38:57.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Christian Horner reveals details of Red Bull exit in emotional interview",
-        "summary": "Ever since Red Bull unceremoniously dropped Christian Horner on 9 July 2025, the Formula 1 paddock has been buzzing with endless speculation about what actually triggered the guillotine.Was it the early-2024 allegations? Was it the fact that Red Bull only managed to win two grand prix races in the first half of 2025? Or was it Max Verstappen’s camp finally forcing a hard ultimatum?Now ...<a class='mo",
+        "title": "Max Verstappen jokes about Daniel Ricciardo's Le Mans ambition: \"He's a smart man picking me!\"",
+        "summary": "Max Verstappen has joked that former Red Bull team-mate Daniel Ricciardo is a \"smart man\" for picking him in a potential trio for a future Le Mans 24 Hour challenge.Ricciardo has not taken part in any racing series since leaving F1 for the second time having raced for Red Bull's sister RB squad in 2024.However, speaking on the Beyond the Grid podcast, the Australian race winner suggested ...<a class=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/christian-horner-drops-a-124-win-reality-check-on-the-execs-who-fired-him/10869043/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-28T18:30:18.000Z",
+        "url": "https://www.motorsport.com/f1/news/max-verstappen-jokes-about-daniel-ricciardos-le-mans-ambition-hes-a-smart-man-picking-me/10869461/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-29T22:36:58.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "GTA 6's map is almost as big as Rockstar's last 3 games combined, contains 'an order of magnitude more interiors'",
-        "summary": "\"You can go anywhere, any random location, and so many people have thought about that location,\" says co-studio head Aaron Garbut.",
+        "title": "'None of these people have ever made a game,' BioWare co-founder Greg Zeschuk says of game industry executives: 'They just don't know how it works'",
+        "summary": "In a rare interview, Zeschuk said the closure of BioWare is sad, but his greater concern is for the people put out of work.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6s-map-is-almost-as-big-as-rockstars-last-3-games-combined-contains-an-order-of-magnitude-more-interiors/",
-        "seendate": "2026-10-29T00:17:15.000Z",
+        "url": "https://www.pcgamer.com/gaming-industry/none-of-these-people-have-ever-made-a-game-bioware-co-founder-greg-zeschuk-says-of-game-industry-executives-they-just-dont-know-how-it-works/",
+        "seendate": "2026-10-29T21:47:36.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Can you name the horror games these deeply unpleasant bathrooms are from?",
-        "summary": "Bring holy water and Clorox wipes",
+        "title": "Patrick Stewart, Star Trek and Shakespeare legend, has died",
+        "summary": "Stewart died at age 86 after \"a brief and poignant journey with Alzheimer's Disease.\"",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/horror/can-you-name-the-horror-game-these-deeply-unpleasant-bathrooms-are-from/",
-        "seendate": "2026-10-28T22:50:34.000Z",
+        "url": "https://www.pcgamer.com/movies-tv/patrick-stewart-star-trek-and-shakespeare-legend-has-died/",
+        "seendate": "2026-10-29T20:33:11.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Epic Games chief Tim Sweeney claims 'Valve has held gaming back for years'",
-        "summary": "Sweeney says locking developers into the \"walled garden\" of Steamworks is a real problem.",
+        "title": "Donald Glover is heading up a PUBG live action series for Netflix",
+        "summary": "The award-winning writer, actor, and musician is set to write, direct, produce, and star in the show.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/software/platforms/epic-games-chief-tim-sweeney-claims-valve-has-held-gaming-back-for-years/",
-        "seendate": "2026-10-28T21:00:20.000Z",
+        "url": "https://www.pcgamer.com/movies-tv/donald-glover-is-heading-up-a-pubg-live-action-series-for-netflix/",
+        "seendate": "2026-10-29T19:13:32.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "WoW: Forever's update schedule will be 'a little more laid back' than the main MMO",
-        "summary": "Developers say the plan is to release updates a few times a year to match the MMO's classic spirit.",
+        "title": "In 2023, an anonymous modder released one of the best horror games of the decade, and they still haven't broken character",
+        "summary": "MyHouse.wad barrages players with horrible things they've never experienced in a game before.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forevers-update-schedule-will-be-a-little-more-laid-back-than-the-main-mmo/",
-        "seendate": "2026-10-28T20:10:35.000Z",
+        "url": "https://www.pcgamer.com/games/horror/in-2023-an-anonymous-modder-released-one-of-the-best-horror-games-of-the-decade-and-they-still-havent-broken-character/",
+        "seendate": "2026-10-29T17:31:57.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Witchbrook is delayed again, now set for release in 2027",
-        "summary": "We finally have a solid launch date, and it's not in 2026 as planned but it's not too far off, either.",
+        "title": "'AAA publishers are abusing early access,' Denis Dyack says, and that's making things harder for everyone else",
+        "summary": "Dyack believes that games like Subnautica 2 are \"skewing player expectations\" for early access games.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/rpg/witchbrook-is-delayed-again-now-set-for-release-in-2027/",
-        "seendate": "2026-10-28T18:28:34.000Z",
+        "url": "https://www.pcgamer.com/gaming-industry/game-development/aaa-publishers-are-abusing-early-access-denis-dyack-says-and-thats-making-things-harder-for-everyone-else/",
+        "seendate": "2026-10-29T16:46:59.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
+      {
+        "title": "Computerized clairvoyance: psychics push back against AI-generated readings",
+        "summary": "Human practitioners warn computer-generated offerings lack the empathy and connection central to divination“This journey isn’t just about algorithms or data,” an AI psychic named Urban Mystic recently told me. The chatbot, featuring an AI-generated profile photo of a smiling woman surrounded by palm trees, also said I will get married soon, that I have a pink aura and that I may have been an herbalist in a",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/ng-interactive/2026/oct/29/psychics-push-back-ai-readings",
+        "seendate": "2026-10-29T11:00:31.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "What is it like to work when your co-workers are AI agents?",
+        "summary": "Using AI for roles from executive assistants to chiefs of staff, companies are boasting about doing more with less, creating tension with their human workersOn an average workday, Dhruv Amin chats with dozens of colleagues to get things done at his AI startup Anything. He might ask Gwen, his executive assistant, to schedule a meet",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/oct/29/ai-agent-coworker",
+        "seendate": "2026-10-29T15:00:46.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Google owner Alphabet loses $500bn in market value after profit disappoints Wall Street",
+        "summary": "Net profit slid 25% from a year earlier to $26.2bn, well short of expectations, though revenue rose to $127.6bnShares in the Google parent Alphabet fell double digits Wednesday evening into Thursday trading, erasing hundreds of billions of dollars in stock market value from the $4tn tech giant.The company had reported lower-than-expected profit and a slowdown in its advertising business while it main",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/oct/28/google-alphabet-q3-earnings-report",
+        "seendate": "2026-10-29T17:29:46.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Microsoft posts $92.3bn quarterly revenue after offering buyouts to 60,000 employees",
+        "summary": "Software giant reports $36.6bn in profit, beating Wall Street expectations, as Azure cloud computing division grows 48%Microsoft gained billions of dollars in stock market value on Wednesday afternoon after it reported better than expected revenue and profit, just days after it offered voluntary buyouts to about 60,000 employees.The office software giant’s growth was fueled by its Azure cloud computi",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/oct/28/microsoft-earnings",
+        "seendate": "2026-10-28T22:44:58.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "AI bots flooded 2023 UK government consultation on disposable vapes ban",
         "summary": "Three-quarters of all responses were machine-generated in failed attempt to stop bill from passing into law, research findsAI bots flooded a government consultation with tens of thousands of fake responses in a failed attempt to stop the UK’s ban on disposable vapes.Three-quarters of all the responses to the 2023 consultation on the tobacco and vapes bill were machine-generated, in what is thought to",
@@ -305,41 +337,17 @@
         "url": "https://www.theguardian.com/society/2026/oct/27/ai-bots-flooded-2023-uk-government-consultation-disposable-vapes-ban",
         "seendate": "2026-10-27T22:30:45.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "‘Meaningless as a laptop screensaver’: reviewers slate Musk’s AI-made Odyssey film",
-        "summary": "Tesla tycoon launched Grok project after criticising Christoper Nolan’s diverse casting for his Homeric blockbusterElon Musk has released an AI-generated rival to Christopher Nolan’s The Odyssey after pledging to make a version “true to the art of Homer”.Having criticised the hit movie in the su",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/oct/27/reviewers-slate-musk-ai-grok-odyssey-film-nolan",
-        "seendate": "2026-10-27T14:08:41.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Anthropic accelerates – for the rest of us, the speed of growth spells precarity",
-        "summary": "The AI industry is still defined by a careening intensity that’s taking the world’s finances along for the rideThis was originally published in TechScape, a newsletter about how technology shapes our lives. Sign up to receive it here.</st",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/global/2026/oct/26/anthropic-accelerates-ai",
-        "seendate": "2026-10-27T15:15:20.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "‘Digital hostile environment’: AI secretly being embedded across Home Office, report claims",
-        "summary": "Tasks from determining asylum seekers’ ages to border surveillance now involve AI, says Open Rights Group AI has been embedded across the Home Office in near-total secrecy, reinforcing the so-called hostile environment for immigration, according to research.Tasks from the detection of potential sham marriages to determining the age of asylum seekers and checking through the contents of phones of new",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/politics/2026/oct/27/digital-hostile-environment-ai-secretly-embedded-home-office-report",
-        "seendate": "2026-10-27T00:01:02.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "‘My social life completely plummeted’: gen Z is fighting back against big tech",
-        "summary": "From apps that block distractions to stripped-down phones, young people are finding ways to unplug from platforms they say profit from their attentionGen Z voters: tell us what is guiding your vote in the US midterm elections?Nelissa Moukoudi, 19, a university student in Canada, notice",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/oct/27/gen-z-digital-detox-apps",
-        "seendate": "2026-10-27T10:00:08.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "climate": [
+      {
+        "title": "A new wave of electric ferries is here in the US. Some even fly",
+        "summary": "Replacing diesel-powered ferries with electric vessels could reduce emissions and improve air quality Cutting through New York Harbor in the shadow of the Statue of Liberty, the small white boat we were riding on caught the attention of passengers aboard a nearby sightseeing ferry.“It’s quite a curiosity at the moment,” Eric Laakmann, the chief executive and co-founder of Vessev, said.Climate",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/environment/2026/oct/29/us-electric-ferries",
+        "seendate": "2026-10-29T10:00:31.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Record-breaking high tides spark chaos – and kayak commutes – across California",
         "summary": "Seawater surges into low-lying communities from San Diego to San Francisco Bay Area, submerging streets, homes and businessesHistoric high tides have caused chaos up and down the California coast this week, as parts of the state were inundated by record-breaking water levels. Seawater surged into low-lying communities from San Diego to the San Francisco Bay Area, submerging streets, flooding homes and busin",
@@ -358,7 +366,7 @@
       },
       {
         "title": "Aerial video shows California flooding amid ‘record-breaking tides’ – video",
-        "summary": "Coastal communities across California were preparing for days of flooding amid potentially 'record-breaking tides' this week, as water levels began rising on Monday.Coastal California braces for flooding amid forecast of ‘record-breaking tides’ <a href=\"https://www.theguard",
+        "summary": "Coastal communities across California were preparing for days of flooding amid potentially 'record-breaking tides' this week, as water levels began rising on MondayCoastal California braces for flooding amid forecast of ‘record-breaking tides’ <a href=\"https://www.theguardi",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/us-news/video/2026/oct/27/aerial-video-shows-california-flooding-amid-record-breaking-tides-video",
         "seendate": "2026-10-27T21:55:44.000Z",
@@ -371,17 +379,17 @@
         "url": "https://www.theguardian.com/environment/2026/oct/27/trump-cuts-el-nino-noaa",
         "seendate": "2026-10-27T21:34:54.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Sunlight at night: US startup’s demonstration of lighting Earth from space draws criticism",
-        "summary": "Company imitates reflection of sun from mirrors, prompting pushback from some scientists, environmentalists and California localsLocals in a rural area of California were recently startled to see dazzlingly bright light shining down from nearby mountains at night, illuminating a swathe of the desert below.Unbeknown to them, the strange noct",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/oct/26/california-sunlight-space-mirrors-satellites",
-        "seendate": "2026-10-26T12:00:41.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "science": [
+      {
+        "title": "Astronauts step out of the ISS for spacewalk – watch live",
+        "summary": "NASA astronaut Anil Menon and CSA (Canadian Space Agency) astronaut Joshua Kutryk perform spacewalk to install and deploy an International Space Station Roll-Out Solar Array (IROSA). Continue reading...",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/video/2026/oct/29/astronauts-step-out-of-the-iss-for-spacewalk-watch-live",
+        "seendate": "2026-10-29T10:37:14.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "How rising seas transformed dry land into Venice lagoon",
         "summary": "Scientists uncover ancient hills and swamps that disappeared as sea levels rose across northern AdriaticVenice is famed for being a floating city, but research shows the land it sits on once lay many miles inland. Dramatic changes in sea level over 10,000 years have reshaped the northern Adriatic coastline, with much of the land that our ancestors roamed now lying beneath the waves.Samuele Ongaro, at",
@@ -391,11 +399,11 @@
         "domain": "theguardian.com"
       },
       {
-        "title": "Perimenopause is everywhere. How do you know if you’re in it? - video",
-        "summary": "Perimenopause has become a hot topic, with celebrities sharing their experiences and doctors offering tips and advice online. But despite the benefits of growing awareness, a rising number of women are now encountering misinformation about treatments such as HRT. Madeleine Finlay hears from Dr Paula Briggs, a consultant in sexual and reproductive health, about why experts have raised the alarm. Science corresponde",
+        "title": "‘It’s a theatre and we’re pawns’: taking the stand as an expert witness – podcast",
+        "summary": "As one of the world’s leading forensic anthropologists, Dame Sue Black has acted as an expert witness in a myriad of high-profile criminal cases. Her work has taken her from the lab to active war zones and the aftermath of natural disasters to identify victims’ bodies. Speaking to Ian Sample, the professor explains why standing up in front of a judge and jury has been one of the more terrifying parts of her career",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/video/2026/oct/27/perimenopause-is-everywhere-how-do-you-know-if-youre-in-it-video",
-        "seendate": "2026-10-27T15:08:29.000Z",
+        "url": "https://www.theguardian.com/science/audio/2026/oct/29/science-weekly-sue-black-taking-stand-expert-witness",
+        "seendate": "2026-10-29T05:00:26.000Z",
         "domain": "theguardian.com"
       },
       {
@@ -412,14 +420,6 @@
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/27/would-you-pay-to-have-the-best-baby-liberal-eugenics-and-the-troubling-quest-for-human-perfection",
         "seendate": "2026-10-27T05:00:04.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Rare Nanotyrannus skeleton sells for $47.3m at New York auction",
-        "summary": "Sale makes ‘Jodi’, a smaller relative of T rex, the ‘second most valuable dinosaur ever sold at auction’, Sotheby’s saysA rare skeleton of a Nanotyrannus, a smaller relative of the Tyrannosaurus rex, sold at auction in New York this week for $47.3m, making it one of the world’s most expensive fossils.The skeleton, <a href=\"https://www.sothebys.com/en/buy/auction/2026/jodi-the-nanotyrannus/a-mounted-n",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/oct/27/nanotyrannus-dinosaur-fossil-sothebys-auction",
-        "seendate": "2026-10-27T21:40:13.000Z",
         "domain": "theguardian.com"
       }
     ]
