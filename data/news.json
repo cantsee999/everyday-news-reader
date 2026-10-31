@@ -1,8 +1,24 @@
 {
-  "generatedAt": "2026-10-30T02:14:24.858Z",
+  "generatedAt": "2026-10-31T01:54:46.656Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
+      {
+        "title": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
+        "summary": "There is no end in sight for the drivers of illegal mining, while police action appears ineffectiveCora Bailey has been encountering illegal miners ever since she first started treating injured animals in the townships around Roodepoort, west of Johannesburg, in 1991. But as the price of gold has soared, so too has activity in the abandoned mine shafts that mark the area.In late September, dozens of",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/business/2026/oct/30/sinkholes-scarred-land-scapegoats-illegal-gold-mining-johannesburg",
+        "seendate": "2026-10-30T05:00:45.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Sudanese diaspora and human rights groups denounce UAE nominee for UN top job",
+        "summary": "Critics cite Lana Nusseibeh’s denial of accusations the UAE is fuelling Sudan war by supporting paramilitary RSFMembers of the Sudanese diaspora and international human rights monitors have denounced the candidature of an Emirati diplomat for the top job at the UN, citing her denial of accusations that the United Arab Emirates is fuelling the war in Sudan by supporting the paramilitary Rapid Support Forces.",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/oct/30/sudanese-diaspora-human-rights-groups-denounce-uae-nominee-un-top-job",
+        "seendate": "2026-10-30T05:00:45.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr",
         "summary": "Warnings of escalating clampdown on press freedom come after Cairo court convicts Attalah of managing an unlicensed websiteLina Attalah, a prominent Egyptian journalist and the editor-in-chief of the news outlet Mada Masr, has been released from detention by Egypt’s authorities and had her website ordered to be shut down by a court amid an intensifying crackdown on independent media in the country.At",
@@ -25,27 +41,27 @@
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of",
         "seendate": "2026-10-26T15:07:23.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "US forces accused of ‘weaponising’ Somalia’s floods by trapping women and children in the path of El Niño",
-        "summary": "Exclusive: Coordinated airstrikes on territory held by al-Shabaab are driving the civilian population to find refuge alongside a river where rising water levels are a threat to safety. Is it a deliberate military strategy?The water was rising rapidly. It had already reached Cayni Ali’s waist. Her home, five metres from the flooded River Juba in southern Somalia, never stood a chance. There",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/global-development/2026/oct/26/us-forces-accused-of-weaponising-somalia-flood-el-nino",
-        "seendate": "2026-10-26T11:00:40.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Sudan paramilitary drone strikes cause mass power cuts in eastern states",
-        "summary": "Rapid Support Forces strike five power stations in three states controlled by Sudanese armySudan’s paramilitary Rapid Support Forces have launched a coordinated drone attack against five power stations, causing mass power outages across the country’s east, a government official said.The drones hit two power stations each in the states of Al-Jazira and Gedaref and one in White Nile state, “resulting i",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/oct/26/sudan-paramilitary-drone-strikes-rapid-support-forces-power-cuts-eastern-states",
-        "seendate": "2026-10-26T09:59:27.000Z",
         "domain": "theguardian.com"
       }
     ],
     "conflict": [
       {
+        "title": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
+        "summary": "There is no end in sight for the drivers of illegal mining, while police action appears ineffectiveCora Bailey has been encountering illegal miners ever since she first started treating injured animals in the townships around Roodepoort, west of Johannesburg, in 1991. But as the price of gold has soared, so too has activity in the abandoned mine shafts that mark the area.In late September, dozens of",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/business/2026/oct/30/sinkholes-scarred-land-scapegoats-illegal-gold-mining-johannesburg",
+        "seendate": "2026-10-30T05:00:45.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Sudanese diaspora and human rights groups denounce UAE nominee for UN top job",
+        "summary": "Critics cite Lana Nusseibeh’s denial of accusations the UAE is fuelling Sudan war by supporting paramilitary RSFMembers of the Sudanese diaspora and international human rights monitors have denounced the candidature of an Emirati diplomat for the top job at the UN, citing her denial of accusations that the United Arab Emirates is fuelling the war in Sudan by supporting the paramilitary Rapid Support Forces.",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/oct/30/sudanese-diaspora-human-rights-groups-denounce-uae-nominee-un-top-job",
+        "seendate": "2026-10-30T05:00:45.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr",
         "summary": "Warnings of escalating clampdown on press freedom come after Cairo court convicts Attalah of managing an unlicensed websiteLina Attalah, a prominent Egyptian journalist and the editor-in-chief of the news outlet Mada Masr, has been released from detention by Egypt’s authorities and had her website ordered to be shut down by a court amid an intensifying crackdown on independent media in the country.At",
         "source": "theguardian.com",
@@ -68,31 +84,31 @@
         "url": "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of",
         "seendate": "2026-10-26T15:07:23.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "US forces accused of ‘weaponising’ Somalia’s floods by trapping women and children in the path of El Niño",
-        "summary": "Exclusive: Coordinated airstrikes on territory held by al-Shabaab are driving the civilian population to find refuge alongside a river where rising water levels are a threat to safety. Is it a deliberate military strategy?The water was rising rapidly. It had already reached Cayni Ali’s waist. Her home, five metres from the flooded River Juba in southern Somalia, never stood a chance. There",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/global-development/2026/oct/26/us-forces-accused-of-weaponising-somalia-flood-el-nino",
-        "seendate": "2026-10-26T11:00:40.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Sudan paramilitary drone strikes cause mass power cuts in eastern states",
-        "summary": "Rapid Support Forces strike five power stations in three states controlled by Sudanese armySudan’s paramilitary Rapid Support Forces have launched a coordinated drone attack against five power stations, causing mass power outages across the country’s east, a government official said.The drones hit two power stations each in the states of Al-Jazira and Gedaref and one in White Nile state, “resulting i",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/oct/26/sudan-paramilitary-drone-strikes-rapid-support-forces-power-cuts-eastern-states",
-        "seendate": "2026-10-26T09:59:27.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "economy": [
       {
-        "title": "Was Ralph Nader right about (almost) everything? His challenge to Democrats ahead of the midterm elections",
-        "summary": "The ex-presidential candidate tells Democrats to prosecute corruption and bring real change for the working classA corporate plutocracy. A broken healthcare system. Massive and widening inequality. Cash-soaked elections. Angry people struggling to pay their bills and disgusted with lawmakers in Washington DC.Nearly everything that pushed",
+        "title": "North Korea is likely culprit behind $6.3bn crypto hack, ‘largest heist in history’",
+        "summary": "Binance exchange says it will cover customer losses as it scrambles to freeze affected assets, with about $3bn located so farQ&amp;A: How big a deal is the $6.3bn crypto heist?<a href=\"https://www.theguardian.com/business/2026/oct/30/tell-us-have-you-been-affected-by-th",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/oct/29/ralph-nader-midterm-elections",
-        "seendate": "2026-10-29T10:00:28.000Z",
+        "url": "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack",
+        "seendate": "2026-10-30T16:35:44.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Government corruption a top issue for US midterm voters, exclusive poll finds",
+        "summary": "Harris poll for Guardian finds 76% believe officials care more about self-enrichment than helping everyday AmericansGovernment corruption has emerged as a top issue in the upcoming US midterm elections, with an overwhelming majority of Americans saying US government officials use their public office for personal financial gain, according to an exclusive Harris poll for the Guardian.Nearly nine out of",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/oct/30/government-corruption-us-midterm-poll",
+        "seendate": "2026-10-30T10:00:52.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Tech sell-off drives US markets down by nearly $1tn after subpar earnings reports",
+        "summary": "Big tech stocks falter as investors question whether billions being poured into AI can generate returns quickly enoughA sell-off of tech stocks that began earlier this month and gained steam with disappointing earnings from leading tech companies drove US markets down by hundreds of billions of dollars Friday. In total, the decline has knocked nearly $1tn in value off the tech-heavy Nasdaq exchange in one w",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/oct/30/tech-stocks-drop-earnings-report",
+        "seendate": "2026-10-30T18:27:51.000Z",
         "domain": "theguardian.com"
       },
       {
@@ -110,25 +126,33 @@
         "url": "https://www.theguardian.com/us-news/2026/oct/29/delta-uber-ftc-pricing",
         "seendate": "2026-10-29T10:00:29.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "DoorDash to buy Instacart for $17bn in major grocery delivery consolidation",
-        "summary": "Acquisition will supercharge DoorDash’s grocery delivery, ‘one of the hardest things to get right online’, CEO saysDoorDash is gobbling up Instacart in a $17bn acquisition that will supercharge its grocery delivery business.DoorDash said the Instacart brand name and app will remain, and Instacart shoppers can continue fulfilling orders for Instacart. Grocers can also choose to work with Instacart or",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/oct/29/doordash-buys-instacart-grocery-delivery",
-        "seendate": "2026-10-29T13:41:43.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Europe’s central bank chief, Christine Lagarde, steps down for ‘freedom of speech’",
-        "summary": "Possible candidate to run World Economic Forum departs ECB nine months early, saying she wants to speak her mind about world affairsChristine Lagarde, the eurozone’s top central banker, has said she is stepping down nine months early to speak her mind about world affairs and confront the “misrepresentation of the truth”.Ending months of speculation about her future at the European Central Bank, Lagar",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/oct/29/european-central-bank-chief-christine-lagarde-to-step-down-nine-months-early",
-        "seendate": "2026-10-29T16:05:50.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "literature": [
+      {
+        "title": "Philippa Gregory: ‘I read 100 of the 18th century’s most popular novels – the perfect author’s apprenticeship’",
+        "summary": "The British novelist on discovering Molly Keane, coming to Dickens late, and the books that taught her the importance of writing about historyMy earliest reading&nbsp;memory My mother always read me a bedtime story, but by around age three, I was not looking at the pictures but reading the text. After that, I read to&nbsp;myself, and would read four books a week from the library.<p",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/oct/30/philippa-gregory-i-read-100-of-the-best-18th-century-novels-the-perfect-authors-apprenticeship",
+        "seendate": "2026-10-30T10:00:50.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "The best recent translated fiction – review roundup",
+        "summary": "Minihorror by Barbi Marković; Paradise Burns by Pol Guasch; Hafni Says by Helle Helle; Googling for Soul by Hamid IsmailovMinihorror by Barbi Marković, translated by Jen Calleja (Faber, £14.99) This eccentric and fantastical collection of very shor",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/oct/30/the-best-recent-translated-fiction-review-roundup",
+        "seendate": "2026-10-30T12:00:53.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Attention Seeking Behaviour by Aea Varfis-van Warmelo review – a slippery liar’s tale",
+        "summary": "Shortlisted for the Goldsmiths prize, this compelling interrogation of memory, justice and truth offers no easy answersThe Goldsmiths prize-shortlisted debut from British-Greek author Aea Varfis-van Warmelo opens with a confession: “I have never told this story before.” The narrator, who bears the author’s name, goes on to tell&nbsp;the reader that she is a liar. From Humbert Humbert’s self-justifying accou",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/oct/30/attention-seeking-behaviour-by-aea-varfis-van-warmelo-review-a-slippery-liars-tale",
+        "seendate": "2026-10-30T07:00:48.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "‘We sold out tickets within 13 minutes’: new novel from romantasy author Sarah J Maas sparks fan mania",
         "summary": "Move over Oasis – 6,000 people tried to buy 220 tickets to a masquerade ball to celebrate the release of A Court of Splintered Harmony, while specialist bookshops catering for the genre report huge salesWhen The Spicy Librarian, a romance bookshop in Leamington Spa, announced a masquerade ball to celebrate the new Sarah J Maas novel, 6,000 people tried to buy 220 tickets. “We sold out within 13 minutes,” sa",
@@ -144,202 +168,194 @@
         "url": "https://www.theguardian.com/books/2026/oct/29/sarah-howe-wins-forward-poetry-prize-for-best-collection",
         "seendate": "2026-10-29T16:32:12.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "If British Library reading rooms become ‘co-working spaces’, it’s all too easy to imagine what comes next | Andy Beckett",
-        "summary": "The plan to generate revenue from areas currently used by the public is causing bitter dispute, and raises fundamental questions In a crowded country that is short of public money, any expansive public building that seems underused in any way is vulnerable. Professional critics of state spending can claim taxpayers’ money is being wasted. Managers of the building who are under financial pressure can",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/commentisfree/2026/oct/29/british-library-reading-rooms-co-working-space-national-library",
-        "seendate": "2026-10-29T08:00:27.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Are You With Me Now? by Hanif Kureishi review – a novelist unleashed",
-        "summary": "The constraints of Kureishi’s life after a devastating accident infuse his writing with a new and thrilling immediacySome months after returning home, after a grim year in hospitals in Rome and London, Hanif Kureishi begins to rebel. Not against his family, or the physical reality of being <a href=\"https://www.theguardian.com/books/2024/oct/12",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/oct/29/are-you-with-me-now-by-hanif-kureishi-review-back-to-basics",
-        "seendate": "2026-10-29T07:00:26.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Bram Stoker’s Dracula audiobook review – cinematic horror with an A-list cast",
-        "summary": "Jonathan Bailey, Ella Purnell, Aimee-Lou Wood, Maggie Gyllenhaal and more bring shock and gore to an immersive retelling with real biteDo we really need another retelling of Bram Stoker’s fabled horror novel, which has already yielded multiple films, plays and radio dramas? Perhaps not, but this new audio version of Dracula, directed by Mary Lambert and adapted by Robyn Aherne, justifies its existence with",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/oct/29/bram-stokers-dracula-audiobook-review-cinematic-horror-with-an-a-list-cast",
-        "seendate": "2026-10-29T15:00:47.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "entertainment": [
       {
-        "title": "Patrick Stewart, Star Trek actor and acclaimed thespian, dies aged 86",
-        "summary": "Star Trek: the Next Generation and X-Men actor died at his home after ‘a brief and poignant journey with Alzheimer’s disease and Lewy body dementia’Patrick Stewart – a life in pictures<a href=\"https://www.theguardian.com/culture/live/2026/oct/29/patrick-stewart-dead-at-86-live-upd",
+        "title": "‘It really was the idiots in charge’: inside the TV sketch show that launched a generation of stars",
+        "summary": "It influenced The Simpsons and sparked the careers of Eugene Levy, Catherine O’Hara, John Candy and many others. Now this extraordinary Canadian series is finally getting its dueSCTV – short for Second City Television – is one of most influential comedy shows ever created. In the 1970s and 80s, while North American comedy fans worshipped at the altar of Saturday Night Live, the comedy nerds loved SCTV. The",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/culture/2026/oct/29/patrick-stewart-dead",
-        "seendate": "2026-10-29T21:02:36.000Z",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/oct/30/sctv-greatest-show-you-never-heard-of-netflix-comedy-sketch-show-documentary",
+        "seendate": "2026-10-30T15:33:19.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "The Mosquito Bowl review – Netflix mixes football, war and cliches in slick by-the-numbers saga",
-        "summary": "Peter Berg’s handsomely made second world war drama about a football game before the battle of Okinawa is stirring but filled with eye-rolling dialogueForgive me, but it is difficult not to be a little cynical about The Mosquito Bowl, Peter Berg’s grimly serious action feature situated (and marketed during many an NFL game) at the intersection of two predominant male interests: football and the second world",
+        "title": "On Star Trek, Patrick Stewart could make anyone feel hopeful for humanity",
+        "summary": "As Jean-Luc Picard in seven seasons, four films and a sequel, Stewart made us believe the most interesting person in the room might also be the most humanePatrick Stewart dies age 86His life in pictures",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/oct/29/the-mosquito-bowl-netflix-movie-review",
-        "seendate": "2026-10-29T17:37:35.000Z",
+        "url": "https://www.theguardian.com/culture/2026/oct/30/patrick-stewart-jean-luc-picard-star-trek",
+        "seendate": "2026-10-30T05:00:48.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Elke Sommer, prolific German star of A Shot in the Dark and And Then There Were None, dies aged 85",
-        "summary": "The Berlin-born performer had a gift for languages that took her to Hollywood, landing roles alongside Peter Sellers, Dick Van Dyke and Paul NewmanElke Sommer, the prolific German star of the Pink Panther film A Shot in the Dark, early 70s Agatha Christie adaptation And Then there Were None, and British sex comedy Carry on Behind, has died aged 85. <a href=\"https://www.bild.de/unterhaltung/stars-und-leute/e",
+        "title": "Seth Meyers on Trump and Vance’s tactics: ‘No one’s buying your fake folksy bullshit’",
+        "summary": "Late-night hosts criticised ‘cosplaying as everyday folks’ and mocked the president’s latest attack on a reporterLate-night hosts ridiculed Donald Trump and JD Vance for their hollow attempts to appeal to working-class voters while also detailing the president’s latest unhinged attack on a reporter. Continue reading...</a",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/oct/29/elke-sommer-prolific-german-star-of-a-shot-in-the-dark-and-and-then-there-were-none-dies",
-        "seendate": "2026-10-29T16:36:52.000Z",
+        "url": "https://www.theguardian.com/culture/2026/oct/30/seth-meyers-trump-vances",
+        "seendate": "2026-10-30T14:15:08.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "​‘He buckled. I could hear his bass ringing out ...’ The luminous rise and tragic end of US alt heroes Morphine",
-        "summary": "​Fronted by Mark Sandman​,​ the group brought enigmatic, elegant rock to post-grunge America. As lost demos surface, those closest to Sandman remember a man who grabbed on to life’s joysIt’s early 1998, and at Fort Apache recording studio in Massachusetts, Mark Sandman, the suave frontman of Morphine, is nearing breaking point. Morphine’s four enigmatic and blackly humorous albums have won critical acclaim",
+        "title": "‘I left shellshocked’: writers on their scariest non-horror movies",
+        "summary": "For Halloween, Guardian writers have picked the most efficiently terrifying films outside of the horror genre from How to Have Sex to The Hunchback of Notre DameMinor spoilers aheadHiding in plain sight throughout Lee Chang-dong’s deliciously enigmatic Burning, in which a spirited young woman (Jeon Jong-seo) disappears, and a wealthy playboy (Steven Yeun) gives serial killer vibes, i",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/music/2026/oct/29/morphine-mark-sandman-cocoon-partisan",
-        "seendate": "2026-10-29T16:00:47.000Z",
+        "url": "https://www.theguardian.com/film/2026/oct/30/scariest-non-horror-movies",
+        "seendate": "2026-10-30T09:00:50.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Jimmy Kimmel on Trump’s racist remarks at rallies: ‘really takes you back about 200 years’",
-        "summary": "Late-night hosts discussed the president’s weird campaign behaviour and his out-of-touch comments about wealthLate-night hosts expressed disgust at Donald Trump’s latest racist attacks while also taking aim at his comments about money. Continue readi",
+        "title": "‘I felt bad for my exes’: Awkwafina on making deeply personal TV – with her grandma",
+        "summary": "The star takes on her biggest challenge yet: resurrecting her family’s Cantonese restaurant. She discusses the stress of rewatching her sitcom, nearly becoming a meat inspector … and her beloved matriarch, who passed away after filmingI’m embarrassed I didn’t bring anything. It’s 10-something in the morning, and I’m meeting Nora Lum, 38 – best known as rapper, comic actor and writer Awkwafina – the morning",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/culture/2026/oct/29/jimmy-kimmel-trump-rallies-midterms",
-        "seendate": "2026-10-29T15:01:19.000Z",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/oct/30/i-felt-bad-for-my-exes-awkwafina-on-making-deeply-personal-tv-with-her-grandma",
+        "seendate": "2026-10-30T13:00:54.000Z",
         "domain": "theguardian.com"
       }
     ],
     "f1": [
       {
-        "title": "\"Two steps forward, one step back\" – Oscar Piastri explains the route out of McLaren's car woes",
-        "summary": "Oscar Piastri has no skin in the game so far as the 2026 drivers' championship is concerned, but he reckons there is still plenty to fight for in the final rounds of the season.One of the biggest priorities is to work on improving his performances at circuits where he has struggled historically; another is to understand the effects of the latest set of upgrades applied to his MCL40 and work ...<a class='",
+        "title": "Mexican GP includes Lewis Hamilton's beloved Roscoe in touching tribute to F1 legends",
+        "summary": "The Mexican Grand Prix organisers have set up a Day of the Dead display in the paddock in memory of late Formula 1 figures, and they have even included Lewis Hamilton's bulldog, Roscoe.The seven-time champion's bulldog has been honoured alongside some of F1's greatest names. His photo sits in the centre of one display, underneath Ayrton Senna. Alongside them are Enzo Ferrari, Jack Brabham ...<a class='mo",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/two-steps-forward-one-step-back-piastri-explains-the-route-out-of-mclarens-car-woes/10869477/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-30T00:11:38.000Z",
+        "url": "https://www.motorsport.com/f1/news/mexican-gp-includes-lewis-hamiltons-beloved-roscoe-in-touching-tribute-to-f1-legends/10869899/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-31T01:07:42.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Remembering Sir Patrick Stewart's unforgettable moment on the F1 podium with Daniel Ricciardo",
-        "summary": "While Sir Patrick Stewart made his name in franchises such as Star Trek and X-Men, he'll be remembered by Formula 1 fans as an unforgettable lover of motorsport. And in Montreal in 2017, he proved just how passionate he was by drinking champagne from Daniel Ricciardo's race boot on the podium.The film legend died aged 86 at his home in Los Angeles after what was described as a brief and ...<a class='more",
+        "title": "Lewis Hamilton makes confident Ferrari statement despite Mexican GP technical problems",
+        "summary": "Lewis Hamilton believes Ferrari could realistically fight for pole position at the Mexican Grand Prix, after team-mate Charles Leclerc finished fastest in both of Friday’s practice sessions.The Briton had an issue in second practice that cost him the opportunity for a long run with high fuel, but the seven-time Formula 1 world champion still feels optimistic about his team's chances on ...<a class='more'",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/remembering-sir-patrick-stewarts-unforgettable-moment-on-the-f1-podium-with-daniel-ricciardo/10869481/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-30T00:10:28.000Z",
+        "url": "https://www.motorsport.com/f1/news/lewis-hamilton-makes-confident-ferrari-statement-despite-mexican-gp-technical-problems/10869895/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-31T00:43:35.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Lewis Hamilton: “I’m built differently” as he eyes F1 career into 2030s",
-        "summary": "Seven-time Formula 1 world champion Lewis Hamilton insists he is “built differently” as he discusses the idea of extending his career long enough to race at the new African Grand Prix.F1 recently announced a 10-year deal with Rwanda to host a race at a new circuit near Kigali, with the event expected to join the calendar in the early 2030s. Upon hearing the news, he was asked his thoughts ...<a class='mo",
+        "title": "F1 Mexico GP: Saturday schedule, weather forecast and how to watch",
+        "summary": "Formula 1 heads into Saturday in Mexico City with Charles Leclerc setting the pace after topping both Friday practice sessions at the Autodromo Hermanos Rodriguez.Leclerc led FP2 by 0.103s over Lando Norris, with George Russell just 0.003s further back in third. Championship leader Kimi Antonelli was fourth ahead of Max Verstappen, leaving three teams closely matched heading into ...<a class='more' href=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/lewis-hamilton-im-built-differently-as-he-eyes-f1-career-into-2030s/10869464/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-29T22:52:21.000Z",
+        "url": "https://www.motorsport.com/f1/news/f1-mexico-gp-saturday-schedule-weather-forecast-and-how-to-watch/10869882/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-31T00:11:58.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Max Verstappen discusses toll of F1 calendar after two drivers fall ill",
-        "summary": "Four-time Formula 1 champion Max Verstappen says it is \"normal\" for F1 drivers and team members to fall ill at this stage of the season after two drivers missed Thursday's media day in Mexico City.Championship leader Kimi Antonelli was excused from media duties while he recovers from a viral illness, with Mercedes expecting the Italian driver to return to the track for Friday practice ...<a class='more'",
+        "title": "Max Verstappen sends blunt warning to Liam Lawson after Mexican GP FP2 clash",
+        "summary": "Four-time Formula 1 champion Max Verstappen has criticised Racing Bulls driver Liam Lawson after the pair came together in second practice for the Mexican Grand Prix, warning that it was \"not very smart behaviour\" from a driver fighting for his seat.The Red Bull driver and Lawson were both on flying laps when they made contact during Friday's FP2 session at the Autodromo Hermanos ...<a class='more' href=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/max-verstappen-discusses-hidden-toll-of-f1-calendar-after-two-drivers-fall-ill/10869459/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-29T22:38:57.000Z",
+        "url": "https://www.motorsport.com/f1/news/max-verstappen-sends-blunt-warning-to-liam-lawson-after-mexican-gp-fp2-clash/10869877/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-30T23:56:12.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Max Verstappen jokes about Daniel Ricciardo's Le Mans ambition: \"He's a smart man picking me!\"",
-        "summary": "Max Verstappen has joked that former Red Bull team-mate Daniel Ricciardo is a \"smart man\" for picking him in a potential trio for a future Le Mans 24 Hour challenge.Ricciardo has not taken part in any racing series since leaving F1 for the second time having raced for Red Bull's sister RB squad in 2024.However, speaking on the Beyond the Grid podcast, the Australian race winner suggested ...<a class=",
+        "title": "Max Verstappen slams Liam Lawson for FP2 clash at F1 Mexico GP",
+        "summary": "Max Verstappen has criticised Liam Lawson following their clash in second practice for the Mexico Grand Prix, claiming it wasn’t “very smart” given the New Zealander is fighting for his Formula 1 future.The Red Bull and Racing Bulls drivers went wheel to wheel through the stadium sector after 15 minutes, causing both to collide. A brief red flag was waved to clear debris from the ...<a class='more' href=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/max-verstappen-jokes-about-daniel-ricciardos-le-mans-ambition-hes-a-smart-man-picking-me/10869461/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-29T22:36:58.000Z",
+        "url": "https://www.motorsport.com/f1/news/max-verstappen-slams-liam-lawson-for-f1-mexico-gp-fp2-clash/10869875/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-30T23:55:54.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "'None of these people have ever made a game,' BioWare co-founder Greg Zeschuk says of game industry executives: 'They just don't know how it works'",
-        "summary": "In a rare interview, Zeschuk said the closure of BioWare is sad, but his greater concern is for the people put out of work.",
+        "title": "AI-powered game development is 'leading to an explosion of content,' Roblox says, as it brags about 70,000 games published on its platform in the last 5 months alone",
+        "summary": "Two days after Steam admitted it has an AI slop problem, Roblox basically bragged about the same thing.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/none-of-these-people-have-ever-made-a-game-bioware-co-founder-greg-zeschuk-says-of-game-industry-executives-they-just-dont-know-how-it-works/",
-        "seendate": "2026-10-29T21:47:36.000Z",
+        "url": "https://www.pcgamer.com/software/ai/ai-powered-game-development-is-leading-to-an-explosion-of-content-roblox-says-as-it-brags-about-70-000-games-published-on-its-platform-in-the-last-5-months-alone/",
+        "seendate": "2026-10-30T20:39:57.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Patrick Stewart, Star Trek and Shakespeare legend, has died",
-        "summary": "Stewart died at age 86 after \"a brief and poignant journey with Alzheimer's Disease.\"",
+        "title": "Soulframe opens up for everyone next week as the Warframe devs prepare the fantasy action RPG for one of its 'biggest, most violent' updates ever next month",
+        "summary": "Verse of the Veilands will radically change the structure of the game so it's easier for new players to follow.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/movies-tv/patrick-stewart-star-trek-and-shakespeare-legend-has-died/",
-        "seendate": "2026-10-29T20:33:11.000Z",
+        "url": "https://www.pcgamer.com/games/rpg/soulframe-opens-up-for-everyone-today-as-the-warframe-devs-prepare-the-fantasy-action-rpg-for-one-of-its-biggest-most-violent-updates-ever-next-month/",
+        "seendate": "2026-10-30T20:30:00.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Donald Glover is heading up a PUBG live action series for Netflix",
-        "summary": "The award-winning writer, actor, and musician is set to write, direct, produce, and star in the show.",
+        "title": "New games in 2027: Fable, Final Fantasy 7, and (maybe) GTA 6 on PC",
+        "summary": "This is where I'd put the GTA 6 PC release date, if we had one.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/movies-tv/donald-glover-is-heading-up-a-pubg-live-action-series-for-netflix/",
-        "seendate": "2026-10-29T19:13:32.000Z",
+        "url": "https://www.pcgamer.com/games/new-pc-games-2027/",
+        "seendate": "2026-10-30T19:11:36.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "In 2023, an anonymous modder released one of the best horror games of the decade, and they still haven't broken character",
-        "summary": "MyHouse.wad barrages players with horrible things they've never experienced in a game before.",
+        "title": "Romero Games has a new publisher for the game Xbox abandoned, but its 110-person team is now just 16 devs: 'I needed to basically design a new game that could use as much of that stuff as possible'",
+        "summary": "Champions adjust.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/horror/in-2023-an-anonymous-modder-released-one-of-the-best-horror-games-of-the-decade-and-they-still-havent-broken-character/",
-        "seendate": "2026-10-29T17:31:57.000Z",
+        "url": "https://www.pcgamer.com/games/fps/romero-games-has-a-new-publisher-for-the-game-xbox-abandoned-but-its-110-person-team-is-now-just-16-devs-i-needed-to-basically-design-a-new-game-that-could-use-as-much-of-that-stuff-as-possible/",
+        "seendate": "2026-10-30T18:33:30.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "'AAA publishers are abusing early access,' Denis Dyack says, and that's making things harder for everyone else",
-        "summary": "Dyack believes that games like Subnautica 2 are \"skewing player expectations\" for early access games.",
+        "title": "This brutal Fallout 4 horror mod turns the Commonwealth into Silent Hill",
+        "summary": "Introduce Pyramid Head and friends to the Boston suburbs in Whispering Hills.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/game-development/aaa-publishers-are-abusing-early-access-denis-dyack-says-and-thats-making-things-harder-for-everyone-else/",
-        "seendate": "2026-10-29T16:46:59.000Z",
+        "url": "https://www.pcgamer.com/games/fallout/this-brutal-fallout-4-horror-mod-turns-the-commonwealth-into-silent-hill/",
+        "seendate": "2026-10-30T17:38:41.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
       {
-        "title": "Computerized clairvoyance: psychics push back against AI-generated readings",
-        "summary": "Human practitioners warn computer-generated offerings lack the empathy and connection central to divination“This journey isn’t just about algorithms or data,” an AI psychic named Urban Mystic recently told me. The chatbot, featuring an AI-generated profile photo of a smiling woman surrounded by palm trees, also said I will get married soon, that I have a pink aura and that I may have been an herbalist in a",
+        "title": "North Korea is likely culprit behind $6.3bn crypto hack, ‘largest heist in history’",
+        "summary": "Binance exchange says it will cover customer losses as it scrambles to freeze affected assets, with about $3bn located so farQ&amp;A: How big a deal is the $6.3bn crypto heist?<a href=\"https://www.theguardian.com/business/2026/oct/30/tell-us-have-you-been-affected-by-th",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/ng-interactive/2026/oct/29/psychics-push-back-ai-readings",
-        "seendate": "2026-10-29T11:00:31.000Z",
+        "url": "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack",
+        "seendate": "2026-10-30T16:35:44.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "What is it like to work when your co-workers are AI agents?",
-        "summary": "Using AI for roles from executive assistants to chiefs of staff, companies are boasting about doing more with less, creating tension with their human workersOn an average workday, Dhruv Amin chats with dozens of colleagues to get things done at his AI startup Anything. He might ask Gwen, his executive assistant, to schedule a meet",
+        "title": "Ghost in the machine: how AI is haunting the search for the supernatural",
+        "summary": "Ghost hunting has changed in recent years due to AI chatbots, and paranormal enthusiasts are concernedGhost hunting is a tech-heavy pursuit. When Amy Waine and Jarrad Cutting investigate haunted locations, they’re loaded up with software of their own design, such as an app that assigns signals from a phone’s sensors to different words in a database. In the age of ChatGPT, the ghost-hunting pair is probing t",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/oct/29/ai-agent-coworker",
-        "seendate": "2026-10-29T15:00:46.000Z",
+        "url": "https://www.theguardian.com/technology/ng-interactive/2026/oct/30/ai-ghost-hunting",
+        "seendate": "2026-10-30T15:00:16.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Google owner Alphabet loses $500bn in market value after profit disappoints Wall Street",
-        "summary": "Net profit slid 25% from a year earlier to $26.2bn, well short of expectations, though revenue rose to $127.6bnShares in the Google parent Alphabet fell double digits Wednesday evening into Thursday trading, erasing hundreds of billions of dollars in stock market value from the $4tn tech giant.The company had reported lower-than-expected profit and a slowdown in its advertising business while it main",
+        "title": "Electrocutions, disease and no pay: how workers risk exploitation in Europe’s datacentres",
+        "summary": "As thousands of datacentres are constructed across Europe, the Guardian and Investigate Europe have uncovered disturbing evidence that some workers building them are exposed to dangerous conditions and living in fear of speaking outSandu* checked his watch. He was winding down the last 15 minutes of his shift at a vast Google datacentre site in Saint-Ghislain, Belgium, in March, when the call came in. The 3",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/oct/28/google-alphabet-q3-earnings-report",
-        "seendate": "2026-10-29T17:29:46.000Z",
+        "url": "https://www.theguardian.com/global-development/2026/oct/30/electrocutions-disease-and-no-pay-how-workers-risk-exploitation-in-europes-datacentres",
+        "seendate": "2026-10-30T05:00:46.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Microsoft posts $92.3bn quarterly revenue after offering buyouts to 60,000 employees",
-        "summary": "Software giant reports $36.6bn in profit, beating Wall Street expectations, as Azure cloud computing division grows 48%Microsoft gained billions of dollars in stock market value on Wednesday afternoon after it reported better than expected revenue and profit, just days after it offered voluntary buyouts to about 60,000 employees.The office software giant’s growth was fueled by its Azure cloud computi",
+        "title": "Meta discussed ‘whisper strategy’ against social media critic Jonathan Haidt, files show",
+        "summary": "Court documents reveal staff considered ways to ‘get academic community to disavow’ influential US author Meta staff discussed deploying a “whisper strategy” to undermine the influential US academic whose work has inspired a global social media crackdown, according to court documents.Employees",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/oct/28/microsoft-earnings",
-        "seendate": "2026-10-28T22:44:58.000Z",
+        "url": "https://www.theguardian.com/technology/2026/oct/29/meta-staff-us-social-media-critic-jonathan-haidt-court-documents",
+        "seendate": "2026-10-29T17:20:57.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "AI bots flooded 2023 UK government consultation on disposable vapes ban",
-        "summary": "Three-quarters of all responses were machine-generated in failed attempt to stop bill from passing into law, research findsAI bots flooded a government consultation with tens of thousands of fake responses in a failed attempt to stop the UK’s ban on disposable vapes.Three-quarters of all the responses to the 2023 consultation on the tobacco and vapes bill were machine-generated, in what is thought to",
+        "title": "Amazon gives Wall Street mixed financial picture in earnings report",
+        "summary": "E-commerce company posts high cloud computing sales but gives a cautious sales forecast for the fourth quarterAmazon offered a mixed picture of its financial health on Thursday in its quarterly earnings report.The e-commerce company gave a cautious sales forecast for the current fourth quarter, which encompasses the critical holiday shopping period, after delivering fiscal third-quarter results that",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/society/2026/oct/27/ai-bots-flooded-2023-uk-government-consultation-disposable-vapes-ban",
-        "seendate": "2026-10-27T22:30:45.000Z",
+        "url": "https://www.theguardian.com/technology/2026/oct/29/amazon-earnings-report-mixed-picture",
+        "seendate": "2026-10-29T21:23:02.000Z",
         "domain": "theguardian.com"
       }
     ],
     "climate": [
+      {
+        "title": "The Iran war is deepening the US energy crisis. A bad winter is ahead | Mark Wolfe",
+        "summary": "Congress must act to ensure that families are able to heat their homes before the start of the seasonHeating oil may be the clearest warning yet of how the war in Iran is deepening the US’s energy affordability crisis. Families who heat their homes with oil are facing bills that could be 50% higher",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/commentisfree/2026/oct/30/iran-war-energy-crisis-winter",
+        "seendate": "2026-10-30T14:00:20.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Five reasons why the US midterms matter for the climate – and your energy bill",
+        "summary": "Voters are feeling the pinch of Trump’s anti-climate agenda as energy costs rise, but a shake-up in Congress could shift thingsIf the polls can be believed, the US could see a blue wave in the midterms, giving Democrats a chance to take back the House and Senate, and gaining up to four governor’s seats.These w",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/oct/30/climate-crisis-midterms-affordability",
+        "seendate": "2026-10-30T11:30:52.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "A new wave of electric ferries is here in the US. Some even fly",
         "summary": "Replacing diesel-powered ferries with electric vessels could reduce emissions and improve air quality Cutting through New York Harbor in the shadow of the Statue of Liberty, the small white boat we were riding on caught the attention of passengers aboard a nearby sightseeing ferry.“It’s quite a curiosity at the moment,” Eric Laakmann, the chief executive and co-founder of Vessev, said.Climate",
@@ -363,25 +379,25 @@
         "url": "https://www.theguardian.com/us-news/2026/oct/27/trump-biden-era-methane-emissions-rules-oil-gas",
         "seendate": "2026-10-28T14:30:29.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Aerial video shows California flooding amid ‘record-breaking tides’ – video",
-        "summary": "Coastal communities across California were preparing for days of flooding amid potentially 'record-breaking tides' this week, as water levels began rising on MondayCoastal California braces for flooding amid forecast of ‘record-breaking tides’ <a href=\"https://www.theguardi",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/video/2026/oct/27/aerial-video-shows-california-flooding-amid-record-breaking-tides-video",
-        "seendate": "2026-10-27T21:55:44.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Trump’s cuts have exposed US to ‘cascade’ of El Niño dangers, experts warn",
-        "summary": "President has taken an axe to National Oceanic and Atmospheric Administration, stalling climate research on and response to extreme weather eventsSweeping cuts to the premier US climate agency under Donald Trump have severely hampered the country’s capacity to forecast, research and respond to extreme weather events, former government officials and scientists have warned, as the US faces <a href=\"https://ww",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/2026/oct/27/trump-cuts-el-nino-noaa",
-        "seendate": "2026-10-27T21:34:54.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "science": [
+      {
+        "title": "Perfume bottle and child’s necklace among treasures found in Pompeii wardrobe",
+        "summary": "Archaeologists uncover jewellery, cosmetics and coins in cabinet sealed since eruption of Mount Vesuvius in AD79Fragments of personal objects, from makeup tools and a perfume bottle to coins and a child’s necklace, have been found tucked away in a wooden wardrobe sealed off for almost 2,000 years in the ruins of Pompeii.The artifacts provide an intimate glimpse of daily life in the ancient Roman city",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/oct/30/perfume-bottle-child-necklace-pompeii-wardrobe",
+        "seendate": "2026-10-30T15:06:39.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Migrating seabirds face a surprising problem: jet lag",
+        "summary": "Oxford study shows Manx shearwaters get lost when their body clocks get out of syncSeabirds returning from foraging trips can be thrown hundreds of miles off course by a form of jet lag that arises when their body clocks get out of sync with local time, researchers say.Tracking data from Manx shearwaters on the west coast of the UK revealed that when the birds returned home to their colonies after tr",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/oct/29/jet-lag-throws-seabirds-off-course-nature",
+        "seendate": "2026-10-29T18:00:27.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Astronauts step out of the ISS for spacewalk – watch live",
         "summary": "NASA astronaut Anil Menon and CSA (Canadian Space Agency) astronaut Joshua Kutryk perform spacewalk to install and deploy an International Space Station Roll-Out Solar Array (IROSA). Continue reading...",
@@ -404,22 +420,6 @@
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/science/audio/2026/oct/29/science-weekly-sue-black-taking-stand-expert-witness",
         "seendate": "2026-10-29T05:00:26.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "‘Ferritin face’: are social media claims about iron deficiency fact – or fiction?",
-        "summary": "Experts say symptoms such as dark circles under the eyes, grey skin, cracked lips and hair loss can be a warning sign – but there are other factors tooTikTok is rife with influencers warning of “ferritin face”, a term they use to describe the pallor, dark circles, dry skin, and hair loss claimed to indicate low iron stores. But is this based on fact or fiction, and when is it time to head to the GP? <a",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/oct/28/ferritin-face-social-media-claims-iron-deficiency",
-        "seendate": "2026-10-28T08:00:01.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Would you pay to have the ‘best baby’? Liberal eugenics and the troubling quest for human perfection",
-        "summary": "For decades the idea of eugenics has been taboo. Now it is returning in a new commercial guiseFor a very long time, I dreamed of being cured. I was born in 1981. I learned to walk early enough, but I stumbled and fell more easily than other children. My parents began to worry that something was wrong, that my muscles were weaker than they should be. Eventually, at the age of three, I was diagnosed with a fo",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/27/would-you-pay-to-have-the-best-baby-liberal-eugenics-and-the-troubling-quest-for-human-perfection",
-        "seendate": "2026-10-27T05:00:04.000Z",
         "domain": "theguardian.com"
       }
     ]
