@@ -1,5 +1,5 @@
 window.NEWS_CACHE = {
-  "generatedAt": "2026-10-31T01:54:46.656Z",
+  "generatedAt": "2026-11-01T01:35:46.682Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
@@ -88,6 +88,14 @@ window.NEWS_CACHE = {
     ],
     "economy": [
       {
+        "title": "The staggering $446m Elon Musk has spent on the US midterms – visualized",
+        "summary": "The tech mogul’s midterm donations backing Republicans have made him the largest single-cycle political donor in modern US historyElon Musk has poured so much money into US politics this midterms election cycle that his donations could fund half a dozen SpaceX rocket launches or buy thousands of Tesla Cybertrucks. At the <a href=\"https://www.theguardian.com/technology/2026/jan/03/tesla-diner-elon-musk-los-a",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/31/elon-musk-midterms-spending-visualized",
+        "seendate": "2026-10-31T10:00:40.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "North Korea is likely culprit behind $6.3bn crypto hack, ‘largest heist in history’",
         "summary": "Binance exchange says it will cover customer losses as it scrambles to freeze affected assets, with about $3bn located so farQ&amp;A: How big a deal is the $6.3bn crypto heist?<a href=\"https://www.theguardian.com/business/2026/oct/30/tell-us-have-you-been-affected-by-th",
         "source": "theguardian.com",
@@ -118,17 +126,25 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/business/2026/oct/29/economy-growth-third-quarter",
         "seendate": "2026-10-29T13:09:00.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "FTC orders Delta, Uber and others to hand over data on algorithmic pricing",
-        "summary": "Regulator demands companies explain how and why they charge different prices for the same product or service The Federal Trade Commission (FTC) is demanding some of the US’s biggest airlines, ride-share companies and retailers divulge how they are using algorithms and loyalty programs to target customers and drivers with different prices and wages.Nine companies – Delta, United, JetBlue, Lyft, Uber,",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/oct/29/delta-uber-ftc-pricing",
-        "seendate": "2026-10-29T10:00:29.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "literature": [
+      {
+        "title": "‘Being hated is very bracing’: Helen Garner on surviving three marriages and being called a ‘rotten feminist’",
+        "summary": "Her unsparing fiction and true crime writing have made her one of Australia’s most controversial and celebrated authors. The author discusses relationships, resilience – and finding global recognition five decades into her careerA few years ago, when Helen Garner had an idea to write a book about Australian rules football, her heart soared then immediately sank. The&nbsp;impetus was Ambrose, her teenage gra",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/oct/31/being-hated-is-very-bracing-helen-garner-on-surviving-three-marriages-and-being-called-a-rotten-feminist",
+        "seendate": "2026-10-31T09:00:39.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "What we’re reading: Ian Rankin, Louise Kennedy and Guardian readers on the books they enjoyed in October",
+        "summary": "Writers and Guardian readers discuss the titles they have read over the last month. Join the conversation in the commentsI’m a huge fan of Muriel Spark, but wasn’t sure I needed another biography of her, yet James Bailey’s Like a Cat Loves a Bird was a winning blend of detail and readability. <a href=\"https://www.theguardian.com/books/2026/oct/31/what-were-reading-ian-rankin-louise-kenn",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/oct/31/what-were-reading-ian-rankin-louise-kennedy-and-guardian-readers-on-the-books-they-enjoyed-in-october",
+        "seendate": "2026-10-31T09:04:06.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Philippa Gregory: ‘I read 100 of the 18th century’s most popular novels – the perfect author’s apprenticeship’",
         "summary": "The British novelist on discovering Molly Keane, coming to Dickens late, and the books that taught her the importance of writing about historyMy earliest reading&nbsp;memory My mother always read me a bedtime story, but by around age three, I was not looking at the pictures but reading the text. After that, I read to&nbsp;myself, and would read four books a week from the library.<p",
@@ -151,22 +167,6 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/books/2026/oct/30/attention-seeking-behaviour-by-aea-varfis-van-warmelo-review-a-slippery-liars-tale",
         "seendate": "2026-10-30T07:00:48.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "‘We sold out tickets within 13 minutes’: new novel from romantasy author Sarah J Maas sparks fan mania",
-        "summary": "Move over Oasis – 6,000 people tried to buy 220 tickets to a masquerade ball to celebrate the release of A Court of Splintered Harmony, while specialist bookshops catering for the genre report huge salesWhen The Spicy Librarian, a romance bookshop in Leamington Spa, announced a masquerade ball to celebrate the new Sarah J Maas novel, 6,000 people tried to buy 220 tickets. “We sold out within 13 minutes,” sa",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/oct/28/we-sold-out-tickets-within-13-minutes-new-novel-from-romantasy-author-sarah-j-maas-sparks-fan-mania",
-        "seendate": "2026-10-28T20:21:54.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Sarah Howe wins Forward poetry prize for best collection",
-        "summary": "Howe’s ‘exceptional’ Foretokens took the main £10,000 award, while Nur Turkmani, Tara Bergin and Biff Smith swept up the remaining categoriesSarah Howe has won the Forward prize for best collection, one of the UK’s most prestigious poetry awards, for Foretokens, a collection that explores new parenthood, the death of her father and her mother’s early life in Hong Kong.Howe was announced as the winner",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/oct/29/sarah-howe-wins-forward-poetry-prize-for-best-collection",
-        "seendate": "2026-10-29T16:32:12.000Z",
         "domain": "theguardian.com"
       }
     ],
@@ -214,85 +214,85 @@ window.NEWS_CACHE = {
     ],
     "f1": [
       {
-        "title": "Mexican GP includes Lewis Hamilton's beloved Roscoe in touching tribute to F1 legends",
-        "summary": "The Mexican Grand Prix organisers have set up a Day of the Dead display in the paddock in memory of late Formula 1 figures, and they have even included Lewis Hamilton's bulldog, Roscoe.The seven-time champion's bulldog has been honoured alongside some of F1's greatest names. His photo sits in the centre of one display, underneath Ayrton Senna. Alongside them are Enzo Ferrari, Jack Brabham ...<a class='mo",
+        "title": "Max Verstappen clears the air with Liam Lawson, but stays tight-lipped on Racing Bulls F1 seat",
+        "summary": "Max Verstappen qualified fourth for the Formula 1 Mexico City Grand Prix, but will have to drop one place on the starting grid, meaning he will start from the third row. The reason is remarkable, to say the least: contact with Liam Lawson - two drivers from the Red Bull teams during the second free practice session.Verstappen was rather outspoken in the media pen on Friday, saying, among other ...<a clas",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/mexican-gp-includes-lewis-hamiltons-beloved-roscoe-in-touching-tribute-to-f1-legends/10869899/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-31T01:07:42.000Z",
+        "url": "https://www.motorsport.com/f1/news/max-verstappen-clears-the-air-with-liam-lawson-but-stays-tight-lipped-on-racing-bulls-f1-seat/10870381/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-01T00:26:35.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Lewis Hamilton makes confident Ferrari statement despite Mexican GP technical problems",
-        "summary": "Lewis Hamilton believes Ferrari could realistically fight for pole position at the Mexican Grand Prix, after team-mate Charles Leclerc finished fastest in both of Friday’s practice sessions.The Briton had an issue in second practice that cost him the opportunity for a long run with high fuel, but the seven-time Formula 1 world champion still feels optimistic about his team's chances on ...<a class='more'",
+        "title": "Charles Leclerc reveals Mexican GP overtaking fears after missing out on pole",
+        "summary": "Charles Leclerc doubts there will be any overtaking in the Mexican Grand Prix, warning the race order will likely be set in the first few corners at the Autodromo Hermanos Rodriguez.The Ferrari driver topped both of Friday's practice sessions but had to settle for third on the grid. His team-mate and seven-time champion Lewis Hamilton claimed his first pole position with the Maranello outfit ...<a class=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/lewis-hamilton-makes-confident-ferrari-statement-despite-mexican-gp-technical-problems/10869895/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-31T00:43:35.000Z",
+        "url": "https://www.motorsport.com/f1/news/charles-leclerc-reveals-mexican-gp-overtaking-fears-after-missing-out-on-pole/10870384/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-01T00:24:47.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "F1 Mexico GP: Saturday schedule, weather forecast and how to watch",
-        "summary": "Formula 1 heads into Saturday in Mexico City with Charles Leclerc setting the pace after topping both Friday practice sessions at the Autodromo Hermanos Rodriguez.Leclerc led FP2 by 0.103s over Lando Norris, with George Russell just 0.003s further back in third. Championship leader Kimi Antonelli was fourth ahead of Max Verstappen, leaving three teams closely matched heading into ...<a class='more' href=",
+        "title": "\"I'll bombard myself with melatonin\": Kimi Antonelli admits to driving \"tense\" and \"tired\" on cusp of F1 title",
+        "summary": "Kimi Antonelli is hoping to overcome an off-colour Mexico City Grand Prix qualifying session with a good night's rest, but admits Formula 1 title nerves have led to him driving with unwanted tension.The Italian was just 0.001s slower than Lando Norris' FP3 headliner earlier in the day, but in qualifying had been half a step behind Mercedes team-mate George Russell and unable to find the right ...<a class",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/f1-mexico-gp-saturday-schedule-weather-forecast-and-how-to-watch/10869882/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-31T00:11:58.000Z",
+        "url": "https://www.motorsport.com/f1/news/ill-bombard-myself-with-melatonin-kimi-antonelli-admits-to-driving-tense-and-tired-on-cusp-of-f1-ti/10870375/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-01T00:08:16.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Max Verstappen sends blunt warning to Liam Lawson after Mexican GP FP2 clash",
-        "summary": "Four-time Formula 1 champion Max Verstappen has criticised Racing Bulls driver Liam Lawson after the pair came together in second practice for the Mexican Grand Prix, warning that it was \"not very smart behaviour\" from a driver fighting for his seat.The Red Bull driver and Lawson were both on flying laps when they made contact during Friday's FP2 session at the Autodromo Hermanos ...<a class='more' href=",
+        "title": "George Russell identifies costly decision behind Mexican GP qualifying near-miss",
+        "summary": "George Russell believes an extra lap of fuel cost him pole position for the Mexican Grand Prix after he missed out to his former team-mate and seven-time champion Lewis Hamilton by just 0.009 seconds.The Mercedes driver will start alongside Hamilton on the front row, with Charles Leclerc in third. Russell explained that his rivals had not done preparation laps on their final Q3 runs, while ...<a class='m",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/max-verstappen-sends-blunt-warning-to-liam-lawson-after-mexican-gp-fp2-clash/10869877/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-30T23:56:12.000Z",
+        "url": "https://www.motorsport.com/f1/news/george-russell-identifies-costly-decision-behind-mexican-gp-qualifying-near-miss/10870370/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-01T00:03:37.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Max Verstappen slams Liam Lawson for FP2 clash at F1 Mexico GP",
-        "summary": "Max Verstappen has criticised Liam Lawson following their clash in second practice for the Mexico Grand Prix, claiming it wasn’t “very smart” given the New Zealander is fighting for his Formula 1 future.The Red Bull and Racing Bulls drivers went wheel to wheel through the stadium sector after 15 minutes, causing both to collide. A brief red flag was waved to clear debris from the ...<a class='more' href=",
+        "title": "Lewis Hamilton: First Ferrari F1 pole “takes me back to watching Michael”",
+        "summary": "Lewis Hamilton can finally say he has scored pole position for three different teams after a blistering lap today gave him pole for tomorrow's Mexico City Grand Prix - his first grand prix pole for Ferrari. The seven-time champion says it took him back to watching Michael Schumacher dominate with the Italian team.Hamilton beat his former team-mate George Russell by just 0.009 seconds, with ...<a class='m",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/max-verstappen-slams-liam-lawson-for-f1-mexico-gp-fp2-clash/10869875/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-30T23:55:54.000Z",
+        "url": "https://www.motorsport.com/f1/news/lewis-hamilton-first-ferrari-f1-pole-takes-me-back-to-watching-michael/10870368/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-10-31T23:58:57.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "AI-powered game development is 'leading to an explosion of content,' Roblox says, as it brags about 70,000 games published on its platform in the last 5 months alone",
-        "summary": "Two days after Steam admitted it has an AI slop problem, Roblox basically bragged about the same thing.",
+        "title": "After almost a decade of work, Alien: Isolation mod tools hit 1.0 with support for 'full custom maps, missions, modes, characters, weapons, animations, sounds, models, textures, and more'",
+        "summary": "Structural perfection.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/software/ai/ai-powered-game-development-is-leading-to-an-explosion-of-content-roblox-says-as-it-brags-about-70-000-games-published-on-its-platform-in-the-last-5-months-alone/",
-        "seendate": "2026-10-30T20:39:57.000Z",
+        "url": "https://www.pcgamer.com/games/horror/after-almost-a-decade-of-work-alien-isolation-mod-tools-hit-1-0-with-support-for-full-custom-maps-missions-modes-characters-weapons-animations-sounds-models-textures-and-more/",
+        "seendate": "2026-11-01T01:30:27.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Soulframe opens up for everyone next week as the Warframe devs prepare the fantasy action RPG for one of its 'biggest, most violent' updates ever next month",
-        "summary": "Verse of the Veilands will radically change the structure of the game so it's easier for new players to follow.",
+        "title": "FromSoftware temporarily shuts down Dark Souls 2 and 3 multiplayer over 'server issue'",
+        "summary": "The reason and timeline for restoration were not disclosed.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/rpg/soulframe-opens-up-for-everyone-today-as-the-warframe-devs-prepare-the-fantasy-action-rpg-for-one-of-its-biggest-most-violent-updates-ever-next-month/",
-        "seendate": "2026-10-30T20:30:00.000Z",
+        "url": "https://www.pcgamer.com/games/dark-souls/fromsoftware-temporarily-shuts-down-dark-souls-2-and-3-multiplayer-over-server-issue/",
+        "seendate": "2026-10-31T21:40:23.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "New games in 2027: Fable, Final Fantasy 7, and (maybe) GTA 6 on PC",
-        "summary": "This is where I'd put the GTA 6 PC release date, if we had one.",
+        "title": "Elder Scrolls Skyblivion mod faces lawsuit from former volunteer, project lead urges 'Please don't turn this into any kind of witch hunt'",
+        "summary": "The volunteer team is seeking pro bono legal aid.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/new-pc-games-2027/",
-        "seendate": "2026-10-30T19:11:36.000Z",
+        "url": "https://www.pcgamer.com/games/the-elder-scrolls/elder-scrolls-skyblivion-mod-faces-lawsuit-from-former-volunteer-project-lead-urges-please-dont-turn-this-into-any-kind-of-witch-hunt/",
+        "seendate": "2026-10-31T20:29:22.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Romero Games has a new publisher for the game Xbox abandoned, but its 110-person team is now just 16 devs: 'I needed to basically design a new game that could use as much of that stuff as possible'",
-        "summary": "Champions adjust.",
+        "title": "The votes are in, and PC Gamer readers have picked the scariest game on PC",
+        "summary": "The final battle came down to Amnesia: The Dark Descent and Alien: Isolation.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/fps/romero-games-has-a-new-publisher-for-the-game-xbox-abandoned-but-its-110-person-team-is-now-just-16-devs-i-needed-to-basically-design-a-new-game-that-could-use-as-much-of-that-stuff-as-possible/",
-        "seendate": "2026-10-30T18:33:30.000Z",
+        "url": "https://www.pcgamer.com/games/horror/the-votes-are-in-and-pc-gamer-readers-have-picked-the-scariest-game-on-pc/",
+        "seendate": "2026-10-31T17:25:20.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "This brutal Fallout 4 horror mod turns the Commonwealth into Silent Hill",
-        "summary": "Introduce Pyramid Head and friends to the Boston suburbs in Whispering Hills.",
+        "title": "Anthropic updates Claude to 'steer it away' from letting users clone games following weeks of Steam being inundated with AI slop",
+        "summary": "Anthropic updates Claude to 'steer it away' from letting users clone other games.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/fallout/this-brutal-fallout-4-horror-mod-turns-the-commonwealth-into-silent-hill/",
-        "seendate": "2026-10-30T17:38:41.000Z",
+        "url": "https://www.pcgamer.com/gaming-industry/anthropic-updates-claude-to-steer-it-away-from-letting-users-clone-games-following-weeks-of-steam-being-inundated-with-ai-slop/",
+        "seendate": "2026-10-31T15:23:04.000Z",
         "domain": "pcgamer.com"
       }
     ],
@@ -304,6 +304,14 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack",
         "seendate": "2026-10-30T16:35:44.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "I read Anthropic's 92-page risk factor document, so you don't have to – video explainer",
+        "summary": "Anthropic, the creator of Claude, filed to go public on the US stock market on 26 October. The company's filing statement contains a 92-page risk factor document in which it acknowledges the dangers that AI poses to society and human beings, and factors that could negatively affect Anthropic's business. Johana Bhuiyan, senior tech reporter for the Guardian, breaks down the document and explains why Anthropic's IPO",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/global/video/2026/oct/30/anthropic-92-page-risk-factor-document-ipo-filing-video-explainer",
+        "seendate": "2026-10-30T19:57:13.000Z",
         "domain": "theguardian.com"
       },
       {
@@ -329,17 +337,25 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/technology/2026/oct/29/meta-staff-us-social-media-critic-jonathan-haidt-court-documents",
         "seendate": "2026-10-29T17:20:57.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Amazon gives Wall Street mixed financial picture in earnings report",
-        "summary": "E-commerce company posts high cloud computing sales but gives a cautious sales forecast for the fourth quarterAmazon offered a mixed picture of its financial health on Thursday in its quarterly earnings report.The e-commerce company gave a cautious sales forecast for the current fourth quarter, which encompasses the critical holiday shopping period, after delivering fiscal third-quarter results that",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/oct/29/amazon-earnings-report-mixed-picture",
-        "seendate": "2026-10-29T21:23:02.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "climate": [
+      {
+        "title": "Trump boosted half of US coal plants with taxpayer dollars and ‘free passes to pollute’, report says",
+        "summary": "Environmental Defense Fund analysis shows administration handed out $950m and Clean Air Act exemptionsIt’s a good time to be a coal plant in the US. The Trump administration has given support to almost half of the nation’s coal plants, helping them to continue operating despite economic and regulatory headwinds, according to a new analysis by the Environmental Defens",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/oct/31/trump-coal-plants-taxpayer-dollars",
+        "seendate": "2026-10-31T13:00:42.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Mill 19: a creative hub built into a former steel factory",
+        "summary": "In Pittsburgh, Pennsylviania, a post-industrial site gets a second life Continue reading...",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/artanddesign/gallery/2026/oct/31/mill-19-steel-factory-pittsburgh",
+        "seendate": "2026-10-31T12:00:42.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "The Iran war is deepening the US energy crisis. A bad winter is ahead | Mark Wolfe",
         "summary": "Congress must act to ensure that families are able to heat their homes before the start of the seasonHeating oil may be the clearest warning yet of how the war in Iran is deepening the US’s energy affordability crisis. Families who heat their homes with oil are facing bills that could be 50% higher",
@@ -363,22 +379,6 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/environment/2026/oct/29/us-electric-ferries",
         "seendate": "2026-10-29T10:00:31.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Record-breaking high tides spark chaos – and kayak commutes – across California",
-        "summary": "Seawater surges into low-lying communities from San Diego to San Francisco Bay Area, submerging streets, homes and businessesHistoric high tides have caused chaos up and down the California coast this week, as parts of the state were inundated by record-breaking water levels. Seawater surged into low-lying communities from San Diego to the San Francisco Bay Area, submerging streets, flooding homes and busin",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/oct/28/california-extreme-weather-high-tides",
-        "seendate": "2026-10-28T22:22:39.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Trump says government to ‘terminate’ Biden-era methane emissions rules",
-        "summary": "Critics warn of climate danger as president in Texas claims change will save companies and consumers billionsDonald Trump said his administration was “terminating” Biden-era regulations holding oil and gas companies accountable for large leaks of planet-warming methane during a rally in Lubbock, Texas, on Tuesday evening.“Tonight, I’m officially terminating Biden’s expensive and unnecessary methane r",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/oct/27/trump-biden-era-methane-emissions-rules-oil-gas",
-        "seendate": "2026-10-28T14:30:29.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "science": [
@@ -388,6 +388,14 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/science/2026/oct/30/perfume-bottle-child-necklace-pompeii-wardrobe",
         "seendate": "2026-10-30T15:06:39.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "The Guardian view on 50 years of The Selfish Gene: flawed, outdated, yet still a model of truly popular science writing | Editorial",
+        "summary": "Richard Dawkins’ first work has thrilled fans and frustrated critics for five decades. The science has moved on, but any writer looking to supplant its place must learn its lessonsRichard Dawkins’ The Selfish Gene was not predicted to be a success. Its initial print run, published this week in 1976, was just 5,000. It went on to sell millions, and is perhaps the most influential work of pop-science ever. Fo",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/commentisfree/2026/oct/30/the-guardian-view-on-50-years-of-the-selfish-gene-flawed-outdated-yet-still-a-model-of-truly-popular-science-writing",
+        "seendate": "2026-10-30T17:56:07.000Z",
         "domain": "theguardian.com"
       },
       {
@@ -412,14 +420,6 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/science/2026/oct/28/rising-seas-transformed-dry-land-venice-lagoon",
         "seendate": "2026-10-28T06:00:04.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "‘It’s a theatre and we’re pawns’: taking the stand as an expert witness – podcast",
-        "summary": "As one of the world’s leading forensic anthropologists, Dame Sue Black has acted as an expert witness in a myriad of high-profile criminal cases. Her work has taken her from the lab to active war zones and the aftermath of natural disasters to identify victims’ bodies. Speaking to Ian Sample, the professor explains why standing up in front of a judge and jury has been one of the more terrifying parts of her career",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/audio/2026/oct/29/science-weekly-sue-black-taking-stand-expert-witness",
-        "seendate": "2026-10-29T05:00:26.000Z",
         "domain": "theguardian.com"
       }
     ]
