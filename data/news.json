@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T01:35:46.682Z",
+  "generatedAt": "2026-11-02T01:57:40.865Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
@@ -88,6 +88,22 @@
     ],
     "economy": [
       {
+        "title": "Affordability top of mind for voters in final sprint to midterms: ‘I have to pick between medicine or groceries’",
+        "summary": "Cost of living has loomed over this election cycle as workers and unions champion candidates fighting for higher wages and tackling rising pricesFor millions of Americans heading to the polls on Tuesday, affordability is a constant and worsening issue, and it’s been a prevailing concern this election cycle.In Lorain county, Ohio, Gina Jones and her co-workers at the Lorain county job and family servi",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/nov/01/affordability-voters-final-sprint-midterms",
+        "seendate": "2026-11-01T12:00:11.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "The US-China trade war seems to have subsided – but the sense of calm is misleading",
+        "summary": "A truce has cooled the trade conflict, but neither country has done anything to limit the outbreak of new hostilitiesDonald Trump’s trade wars have largely fallen off the headlines. Fears of new tariffs flare up from time to time when the US president goes off the rails – for instance, threatening to end US trade with countries with which it has",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi",
+        "seendate": "2026-11-01T12:00:12.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "The staggering $446m Elon Musk has spent on the US midterms – visualized",
         "summary": "The tech mogul’s midterm donations backing Republicans have made him the largest single-cycle political donor in modern US historyElon Musk has poured so much money into US politics this midterms election cycle that his donations could fund half a dozen SpaceX rocket launches or buy thousands of Tesla Cybertrucks. At the <a href=\"https://www.theguardian.com/technology/2026/jan/03/tesla-diner-elon-musk-los-a",
         "source": "theguardian.com",
@@ -110,25 +126,25 @@
         "url": "https://www.theguardian.com/us-news/2026/oct/30/government-corruption-us-midterm-poll",
         "seendate": "2026-10-30T10:00:52.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Tech sell-off drives US markets down by nearly $1tn after subpar earnings reports",
-        "summary": "Big tech stocks falter as investors question whether billions being poured into AI can generate returns quickly enoughA sell-off of tech stocks that began earlier this month and gained steam with disappointing earnings from leading tech companies drove US markets down by hundreds of billions of dollars Friday. In total, the decline has knocked nearly $1tn in value off the tech-heavy Nasdaq exchange in one w",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/oct/30/tech-stocks-drop-earnings-report",
-        "seendate": "2026-10-30T18:27:51.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "US economy grows faster than expected but inflation rises to 3.7%",
-        "summary": "Commerce department data contrasts with sharp deterioration in consumer sentiment as midterms loomThe US economy grew faster than expected in the third quarter while inflation accelerated in September, according to new commerce department data released on Thursday, less than a week before the midterm elections that will determine control of Congress.Gross domestic product (GDP) increased at a 3.4% an",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/oct/29/economy-growth-third-quarter",
-        "seendate": "2026-10-29T13:09:00.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "literature": [
+      {
+        "title": "Why you should treat charisma as a red flag",
+        "summary": "Today’s crop of smooth talkers tap directly into a specific evolutionary vulnerability. Here’s how to defend yourselfRecently, I was alone in a bar waiting for a friend. To pass the time, I&nbsp;started chatting to a stranger. He had an easy, confident way of speaking, which I admired. We discussed topics I know little about: the instability of modern economies, the feasibility of commercial space travel, t",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/nov/01/why-you-should-treat-charisma-as-a-red-flag",
+        "seendate": "2026-11-01T12:00:12.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Like many authors, I’m bombarded by scam fan mail. I wasn’t prepared for what would happen when I wrote back",
+        "summary": "The novelist receives passionate AI-written emails almost every day – but when he decided to take up one sender’s offer to find him new readers, the story took a darker turnThere’s no humble way to say it: I get a lot of fan mail. Almost every day, multi-paragraph emails arrive from passionate and well-informed readers in Barcelona and Frankfurt, Chicago and Warsaw. They have appealing names like Bella Monr",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/nov/01/like-many-authors-im-bombarded-by-scam-fan-mail-i-wasnt-prepared-for-what-would-happen-when-i-wrote-back",
+        "seendate": "2026-11-01T12:00:12.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "‘Being hated is very bracing’: Helen Garner on surviving three marriages and being called a ‘rotten feminist’",
         "summary": "Her unsparing fiction and true crime writing have made her one of Australia’s most controversial and celebrated authors. The author discusses relationships, resilience – and finding global recognition five decades into her careerA few years ago, when Helen Garner had an idea to write a book about Australian rules football, her heart soared then immediately sank. The&nbsp;impetus was Ambrose, her teenage gra",
@@ -152,22 +168,6 @@
         "url": "https://www.theguardian.com/books/2026/oct/30/philippa-gregory-i-read-100-of-the-best-18th-century-novels-the-perfect-authors-apprenticeship",
         "seendate": "2026-10-30T10:00:50.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "The best recent translated fiction – review roundup",
-        "summary": "Minihorror by Barbi Marković; Paradise Burns by Pol Guasch; Hafni Says by Helle Helle; Googling for Soul by Hamid IsmailovMinihorror by Barbi Marković, translated by Jen Calleja (Faber, £14.99) This eccentric and fantastical collection of very shor",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/oct/30/the-best-recent-translated-fiction-review-roundup",
-        "seendate": "2026-10-30T12:00:53.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Attention Seeking Behaviour by Aea Varfis-van Warmelo review – a slippery liar’s tale",
-        "summary": "Shortlisted for the Goldsmiths prize, this compelling interrogation of memory, justice and truth offers no easy answersThe Goldsmiths prize-shortlisted debut from British-Greek author Aea Varfis-van Warmelo opens with a confession: “I have never told this story before.” The narrator, who bears the author’s name, goes on to tell&nbsp;the reader that she is a liar. From Humbert Humbert’s self-justifying accou",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/oct/30/attention-seeking-behaviour-by-aea-varfis-van-warmelo-review-a-slippery-liars-tale",
-        "seendate": "2026-10-30T07:00:48.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "entertainment": [
@@ -188,6 +188,14 @@
         "domain": "theguardian.com"
       },
       {
+        "title": "The best theatre to stream this month: the Gisèle Pelicot trial becomes an all-star play that ‘just floors you’",
+        "summary": "An unmissable documentary play, Tom Stoppard’s Arcadia with luminous Isis Hainsworth and ecstatic dance in a Norwegian museum are among November’s highlightsSwiss director Milo Rau’s ripped-from-the-headlines approach to theatre has included shows about wars in Iraq and Congo and the exploitation of migrant workers. His four-hour documentary play (created with Servane Dècle) about the trial of the men who d",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/stage/2026/nov/01/the-best-theatre-to-stream-this-month-the-pelicot-trial-ita-music-damien-jalet-arcadia-salt",
+        "seendate": "2026-11-01T05:00:02.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Seth Meyers on Trump and Vance’s tactics: ‘No one’s buying your fake folksy bullshit’",
         "summary": "Late-night hosts criticised ‘cosplaying as everyday folks’ and mocked the president’s latest attack on a reporterLate-night hosts ridiculed Donald Trump and JD Vance for their hollow attempts to appeal to working-class voters while also detailing the president’s latest unhinged attack on a reporter. Continue reading...</a",
         "source": "theguardian.com",
@@ -202,97 +210,89 @@
         "url": "https://www.theguardian.com/film/2026/oct/30/scariest-non-horror-movies",
         "seendate": "2026-10-30T09:00:50.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "‘I felt bad for my exes’: Awkwafina on making deeply personal TV – with her grandma",
-        "summary": "The star takes on her biggest challenge yet: resurrecting her family’s Cantonese restaurant. She discusses the stress of rewatching her sitcom, nearly becoming a meat inspector … and her beloved matriarch, who passed away after filmingI’m embarrassed I didn’t bring anything. It’s 10-something in the morning, and I’m meeting Nora Lum, 38 – best known as rapper, comic actor and writer Awkwafina – the morning",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/oct/30/i-felt-bad-for-my-exes-awkwafina-on-making-deeply-personal-tv-with-her-grandma",
-        "seendate": "2026-10-30T13:00:54.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "f1": [
       {
-        "title": "Max Verstappen clears the air with Liam Lawson, but stays tight-lipped on Racing Bulls F1 seat",
-        "summary": "Max Verstappen qualified fourth for the Formula 1 Mexico City Grand Prix, but will have to drop one place on the starting grid, meaning he will start from the third row. The reason is remarkable, to say the least: contact with Liam Lawson - two drivers from the Red Bull teams during the second free practice session.Verstappen was rather outspoken in the media pen on Friday, saying, among other ...<a clas",
+        "title": "Fred Vasseur reacts to Lewis Hamilton, Charles Leclerc clash: “It’s a matter of respect”",
+        "summary": "“When you are 1-2 at Turn 4, you don't imagine that you won't win the race.”This statement says a lot about Ferrari team principal Fred Vasseur’s disappointment following Formula 1’s Mexico Grand Prix.Ferrari was on pole for the first time in the 2026 season, courtesy of Lewis Hamilton, with Charles Leclerc third; no grid had been so favourable to the prancing horse since ...<a class='more' href='htt",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/max-verstappen-clears-the-air-with-liam-lawson-but-stays-tight-lipped-on-racing-bulls-f1-seat/10870381/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-01T00:26:35.000Z",
+        "url": "https://www.motorsport.com/f1/news/fred-vasseur-reacts-to-lewis-hamilton-charles-leclerc-clash-its-a-matter-of-respect/10870842/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-02T01:08:54.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Charles Leclerc reveals Mexican GP overtaking fears after missing out on pole",
-        "summary": "Charles Leclerc doubts there will be any overtaking in the Mexican Grand Prix, warning the race order will likely be set in the first few corners at the Autodromo Hermanos Rodriguez.The Ferrari driver topped both of Friday's practice sessions but had to settle for third on the grid. His team-mate and seven-time champion Lewis Hamilton claimed his first pole position with the Maranello outfit ...<a class=",
+        "title": "How F1 drivers reacted to Kimi Antonelli's world title: \"He's made everyone else look silly\"",
+        "summary": "Kimi Antonelli's rivals have paid tribute to the Mercedes driver after he clinched the Formula 1 world championship at the Mexico City Grand Prix.The Italian finished third behind Max Verstappen and Lewis Hamilton to secure the title with four races to spare. At just 20 years and 68 days old, he is the youngest champion in the sport's history, and the first Italian to win the drivers' title ...<a class='",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/charles-leclerc-reveals-mexican-gp-overtaking-fears-after-missing-out-on-pole/10870384/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-01T00:24:47.000Z",
+        "url": "https://www.motorsport.com/f1/news/how-f1-drivers-reacted-to-kimi-antonellis-world-title-hes-made-everyone-else-look-silly/10870828/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-02T00:32:34.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "\"I'll bombard myself with melatonin\": Kimi Antonelli admits to driving \"tense\" and \"tired\" on cusp of F1 title",
-        "summary": "Kimi Antonelli is hoping to overcome an off-colour Mexico City Grand Prix qualifying session with a good night's rest, but admits Formula 1 title nerves have led to him driving with unwanted tension.The Italian was just 0.001s slower than Lando Norris' FP3 headliner earlier in the day, but in qualifying had been half a step behind Mercedes team-mate George Russell and unable to find the right ...<a class",
+        "title": "Winners and losers from F1's record-breaking Mexico Grand Prix",
+        "summary": "Superlatives are running out to describe Kimi Antonelli's unprecedented ascent to power over the 2026 season. At the Mexico Grand Prix, Formula 1's new ruler received the coronation his campaign deserved.Winner: Kimi AntonelliAntonelli's title triumph may have been a foregone conclusion at this point, but that only makes his achievement more remarkable, not less.It's impossible not to ...<a class",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/ill-bombard-myself-with-melatonin-kimi-antonelli-admits-to-driving-tense-and-tired-on-cusp-of-f1-ti/10870375/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-01T00:08:16.000Z",
+        "url": "https://www.motorsport.com/f1/news/winners-and-losers-from-f1s-historic-mexico-grand-prix/10870803/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-02T00:24:04.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "George Russell identifies costly decision behind Mexican GP qualifying near-miss",
-        "summary": "George Russell believes an extra lap of fuel cost him pole position for the Mexican Grand Prix after he missed out to his former team-mate and seven-time champion Lewis Hamilton by just 0.009 seconds.The Mercedes driver will start alongside Hamilton on the front row, with Charles Leclerc in third. Russell explained that his rivals had not done preparation laps on their final Q3 runs, while ...<a class='m",
+        "title": "Toto Wolff apologises to George Russell after Mercedes \"let him down\" at Mexican GP",
+        "summary": "Mercedes Formula 1 team principal Toto Wolff claimed the Brackley outfit \"let down\" George Russell after a deployment issue spoiled his start at the Mexican Grand Prix.Russell started from second on the grid after missing out on pole position to seven-time champion Lewis Hamilton by just 0.009 seconds, but he lost ground at the start. He was then given a 10-second penalty for a first-lap ...<a class='mor",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/george-russell-identifies-costly-decision-behind-mexican-gp-qualifying-near-miss/10870370/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-01T00:03:37.000Z",
+        "url": "https://www.motorsport.com/f1/news/toto-wolff-apologises-to-george-russell-after-mercedes-let-him-down-at-mexican-gp/10870825/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-02T00:22:27.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Lewis Hamilton: First Ferrari F1 pole “takes me back to watching Michael”",
-        "summary": "Lewis Hamilton can finally say he has scored pole position for three different teams after a blistering lap today gave him pole for tomorrow's Mexico City Grand Prix - his first grand prix pole for Ferrari. The seven-time champion says it took him back to watching Michael Schumacher dominate with the Italian team.Hamilton beat his former team-mate George Russell by just 0.009 seconds, with ...<a class='m",
+        "title": "Charles Leclerc responds to Lewis Hamilton's call for Ferrari talks after Mexico GP",
+        "summary": "Charles Leclerc says Lewis Hamilton’s driving was “very much on the limit” as he defended his own move at the beginning of the Mexico City Grand Prix.Leclerc attacked polesitter Hamilton at Turn 4 on the opening lap and made it out of the scrap ahead of him.“I mean, it was definitely an opportunity. In Turn 1 there was a gap on the outside and I had quite a lot of speed around the ...<a class='more'",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/lewis-hamilton-first-ferrari-f1-pole-takes-me-back-to-watching-michael/10870368/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-10-31T23:58:57.000Z",
+        "url": "https://www.motorsport.com/f1/news/charles-leclerc-responds-to-lewis-hamiltons-call-for-ferrari-talks-after-mexico-gp/10870814/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-02T00:14:27.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "After almost a decade of work, Alien: Isolation mod tools hit 1.0 with support for 'full custom maps, missions, modes, characters, weapons, animations, sounds, models, textures, and more'",
-        "summary": "Structural perfection.",
+        "title": "Obsidian's Josh Sawyer on RPG cities: 'Compared to a dungeon, generally speaking, a town is 4x the expense per square foot'",
+        "summary": "It's these freaking zoning laws, man.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/horror/after-almost-a-decade-of-work-alien-isolation-mod-tools-hit-1-0-with-support-for-full-custom-maps-missions-modes-characters-weapons-animations-sounds-models-textures-and-more/",
-        "seendate": "2026-11-01T01:30:27.000Z",
+        "url": "https://www.pcgamer.com/games/rpg/obsidians-josh-sawyer-on-rpg-cities-compared-to-a-dungeon-generally-speaking-a-town-is-4x-the-expense-per-square-foot/",
+        "seendate": "2026-11-02T01:39:58.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "FromSoftware temporarily shuts down Dark Souls 2 and 3 multiplayer over 'server issue'",
-        "summary": "The reason and timeline for restoration were not disclosed.",
+        "title": "Grand Theft Auto 6 teased a handful of its upcoming radio stations and its music curation is as strong as ever",
+        "summary": "I can already picture my late-night Leonida drives to these bangers.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/dark-souls/fromsoftware-temporarily-shuts-down-dark-souls-2-and-3-multiplayer-over-server-issue/",
-        "seendate": "2026-10-31T21:40:23.000Z",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-teased-a-handful-of-its-upcoming-radio-stations-and-its-music-curation-is-as-strong-as-ever/",
+        "seendate": "2026-11-01T18:00:00.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Elder Scrolls Skyblivion mod faces lawsuit from former volunteer, project lead urges 'Please don't turn this into any kind of witch hunt'",
-        "summary": "The volunteer team is seeking pro bono legal aid.",
+        "title": "Valve's long-lost prototype Portal prequel appears online after nearly 20 years",
+        "summary": "F-Stop was a result of a post-Orange Box, 2007 Valve game jam.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/the-elder-scrolls/elder-scrolls-skyblivion-mod-faces-lawsuit-from-former-volunteer-project-lead-urges-please-dont-turn-this-into-any-kind-of-witch-hunt/",
-        "seendate": "2026-10-31T20:29:22.000Z",
+        "url": "https://www.pcgamer.com/games/fps/valves-long-lost-prototype-portal-prequel-appears-online-after-nearly-20-years/",
+        "seendate": "2026-11-01T17:44:47.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "The votes are in, and PC Gamer readers have picked the scariest game on PC",
-        "summary": "The final battle came down to Amnesia: The Dark Descent and Alien: Isolation.",
+        "title": "Composer and designer Lena Raine explains how Pigstep altered Minecraft's approach to music: 'The prompt I keep hearing is \"Oh, Pigstep was such a banger that they want more bangers\"'",
+        "summary": "The composer for Celeste and Minecraft guides us through the games on her PC.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/horror/the-votes-are-in-and-pc-gamer-readers-have-picked-the-scariest-game-on-pc/",
-        "seendate": "2026-10-31T17:25:20.000Z",
+        "url": "https://www.pcgamer.com/games/composer-and-designer-lena-raine-explains-how-pigstep-altered-minecrafts-approach-to-music-the-prompt-i-keep-hearing-is-oh-pigstep-was-such-a-banger-that-they-want-more-bangers/",
+        "seendate": "2026-11-01T17:00:00.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Anthropic updates Claude to 'steer it away' from letting users clone games following weeks of Steam being inundated with AI slop",
-        "summary": "Anthropic updates Claude to 'steer it away' from letting users clone other games.",
+        "title": "'An absolute behemoth': Wildly ambitious FPS Selaco is getting a massive update that doubles its size and adds 'a heavy machinegun that fires literal explosions'",
+        "summary": "Selaco: The Machines of War arrives later this month.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/anthropic-updates-claude-to-steer-it-away-from-letting-users-clone-games-following-weeks-of-steam-being-inundated-with-ai-slop/",
-        "seendate": "2026-10-31T15:23:04.000Z",
+        "url": "https://www.pcgamer.com/games/fps/an-absolute-behemoth-wildly-ambitious-fps-selaco-is-getting-a-massive-update-that-doubles-its-size-and-adds-a-heavy-machinegun-that-fires-literal-explosions/",
+        "seendate": "2026-11-01T16:46:26.000Z",
         "domain": "pcgamer.com"
       }
     ],
@@ -341,6 +341,14 @@
     ],
     "climate": [
       {
+        "title": "Colorado community fights plan to use drones to spray weed killer",
+        "summary": "Officials in Boulder County, Colorado, say they have a safe plan to wipe out invasive weeds, but some locals are concernedSoon, weed-killing chemicals will start falling from the sky over the Red Hill area of Boulder county, Colorado.The wildland is known for its biodiversity, home to hundre",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/nov/01/colorado-drones-weed-killer",
+        "seendate": "2026-11-01T14:00:18.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Trump boosted half of US coal plants with taxpayer dollars and ‘free passes to pollute’, report says",
         "summary": "Environmental Defense Fund analysis shows administration handed out $950m and Clean Air Act exemptionsIt’s a good time to be a coal plant in the US. The Trump administration has given support to almost half of the nation’s coal plants, helping them to continue operating despite economic and regulatory headwinds, according to a new analysis by the Environmental Defens",
         "source": "theguardian.com",
@@ -370,14 +378,6 @@
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/us-news/2026/oct/30/climate-crisis-midterms-affordability",
         "seendate": "2026-10-30T11:30:52.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "A new wave of electric ferries is here in the US. Some even fly",
-        "summary": "Replacing diesel-powered ferries with electric vessels could reduce emissions and improve air quality Cutting through New York Harbor in the shadow of the Statue of Liberty, the small white boat we were riding on caught the attention of passengers aboard a nearby sightseeing ferry.“It’s quite a curiosity at the moment,” Eric Laakmann, the chief executive and co-founder of Vessev, said.Climate",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/2026/oct/29/us-electric-ferries",
-        "seendate": "2026-10-29T10:00:31.000Z",
         "domain": "theguardian.com"
       }
     ],
