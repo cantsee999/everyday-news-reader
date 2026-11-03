@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T01:57:40.865Z",
+  "generatedAt": "2026-11-03T03:45:40.934Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
@@ -88,6 +88,22 @@
     ],
     "economy": [
       {
+        "title": "Oil price falls amid hope of a breakthrough to end Iran war",
+        "summary": "Brent crude drops by more than 6% to $105.55 a barrel, the lowest level in more than two weeksThe oil price has fallen to its lowest level in more two weeks amid new hopes of a breakthrough to end the Iran war.Brent crude, the international benchmark, dropped by more than 6.5% to as low as $105.55 a barrel on Monday, the lowest since 16 October, sending shares in airline companies higher and pushing",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/business/2026/nov/02/oil-price-falls-amid-hope-of-a-breakthrough-to-end-iran-war",
+        "seendate": "2026-11-02T17:14:23.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Texas voters on high gas prices under Trump: ‘Probably made me go more Democrat’",
+        "summary": "In state where driving is part of life, president’s pledge to lower prices at the pumps cuts little iceBehind the granite countertops of Fuel City, a gas station in Dallas where taxidermy deer flank the entrance and hot tacos are served 24/7, Alina Cardenas sees first-hand that Texans are stretched thin.Drivers are filling up less, she said, while ringing people up for cigarettes and beer, and fewer",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/nov/02/texas-voters-trump-fuel-prices",
+        "seendate": "2026-11-02T11:00:41.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Affordability top of mind for voters in final sprint to midterms: ‘I have to pick between medicine or groceries’",
         "summary": "Cost of living has loomed over this election cycle as workers and unions champion candidates fighting for higher wages and tackling rising pricesFor millions of Americans heading to the polls on Tuesday, affordability is a constant and worsening issue, and it’s been a prevailing concern this election cycle.In Lorain county, Ohio, Gina Jones and her co-workers at the Lorain county job and family servi",
         "source": "theguardian.com",
@@ -110,25 +126,25 @@
         "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/31/elon-musk-midterms-spending-visualized",
         "seendate": "2026-10-31T10:00:40.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "North Korea is likely culprit behind $6.3bn crypto hack, ‘largest heist in history’",
-        "summary": "Binance exchange says it will cover customer losses as it scrambles to freeze affected assets, with about $3bn located so farQ&amp;A: How big a deal is the $6.3bn crypto heist?<a href=\"https://www.theguardian.com/business/2026/oct/30/tell-us-have-you-been-affected-by-th",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack",
-        "seendate": "2026-10-30T16:35:44.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Government corruption a top issue for US midterm voters, exclusive poll finds",
-        "summary": "Harris poll for Guardian finds 76% believe officials care more about self-enrichment than helping everyday AmericansGovernment corruption has emerged as a top issue in the upcoming US midterm elections, with an overwhelming majority of Americans saying US government officials use their public office for personal financial gain, according to an exclusive Harris poll for the Guardian.Nearly nine out of",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/oct/30/government-corruption-us-midterm-poll",
-        "seendate": "2026-10-30T10:00:52.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "literature": [
+      {
+        "title": "Pay Attention by Laura Kuenssberg review – a BBC reporter’s howl of frustration",
+        "summary": "After more than two decades of studied neutrality, the journalist delivers some home truths about modern politicsLaura Kuenssberg always swore she would never write a book. Amid all the vitriol hurled her way, the BBC’s political editor turned presenter has largely kept her counsel. She rarely complained even when she&nbsp;needed security to do her job unobstructed at Labour party conference under Jeremy Co",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/nov/02/pay-attention-by-laura-kuenssberg-review-a-bbc-reporters-howl-of-frustration",
+        "seendate": "2026-11-02T07:00:35.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "The Rhyl Poster by Tom McCarthy review – is this avant-garde spy drama worth the riddles?",
+        "summary": "The hallucinatory crisis of a war-scarred jurist with a painkiller dependency makes for frustrating readingOf the cohort of experimental novelists whose renown grew in the wake of the 2008 financial crash – names include Deborah Levy, <a href=\"https://www.theguardi",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/nov/02/the-rhyl-poster-by-tom-mccarthy-review-is-this-avant-garde-spy-drama-worth-the-riddles",
+        "seendate": "2026-11-02T09:00:36.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Why you should treat charisma as a red flag",
         "summary": "Today’s crop of smooth talkers tap directly into a specific evolutionary vulnerability. Here’s how to defend yourselfRecently, I was alone in a bar waiting for a friend. To pass the time, I&nbsp;started chatting to a stranger. He had an easy, confident way of speaking, which I admired. We discussed topics I know little about: the instability of modern economies, the feasibility of commercial space travel, t",
@@ -152,194 +168,186 @@
         "url": "https://www.theguardian.com/books/2026/oct/31/being-hated-is-very-bracing-helen-garner-on-surviving-three-marriages-and-being-called-a-rotten-feminist",
         "seendate": "2026-10-31T09:00:39.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "What we’re reading: Ian Rankin, Louise Kennedy and Guardian readers on the books they enjoyed in October",
-        "summary": "Writers and Guardian readers discuss the titles they have read over the last month. Join the conversation in the commentsI’m a huge fan of Muriel Spark, but wasn’t sure I needed another biography of her, yet James Bailey’s Like a Cat Loves a Bird was a winning blend of detail and readability. <a href=\"https://www.theguardian.com/books/2026/oct/31/what-were-reading-ian-rankin-louise-kenn",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/oct/31/what-were-reading-ian-rankin-louise-kennedy-and-guardian-readers-on-the-books-they-enjoyed-in-october",
-        "seendate": "2026-10-31T09:04:06.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Philippa Gregory: ‘I read 100 of the 18th century’s most popular novels – the perfect author’s apprenticeship’",
-        "summary": "The British novelist on discovering Molly Keane, coming to Dickens late, and the books that taught her the importance of writing about historyMy earliest reading&nbsp;memory My mother always read me a bedtime story, but by around age three, I was not looking at the pictures but reading the text. After that, I read to&nbsp;myself, and would read four books a week from the library.<p",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/oct/30/philippa-gregory-i-read-100-of-the-best-18th-century-novels-the-perfect-authors-apprenticeship",
-        "seendate": "2026-10-30T10:00:50.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "entertainment": [
       {
-        "title": "‘It really was the idiots in charge’: inside the TV sketch show that launched a generation of stars",
-        "summary": "It influenced The Simpsons and sparked the careers of Eugene Levy, Catherine O’Hara, John Candy and many others. Now this extraordinary Canadian series is finally getting its dueSCTV – short for Second City Television – is one of most influential comedy shows ever created. In the 1970s and 80s, while North American comedy fans worshipped at the altar of Saturday Night Live, the comedy nerds loved SCTV. The",
+        "title": "‘Screams on the level of a Taylor Swift concert’: horny romp Wicker gets the 4DX treatment",
+        "summary": "Olivia Colman’s steamy romance, where she plays a woman in love with a wicker man, becomes an unlikely pick for the theme park-like cinema experienceWhat does Olivia Colman’s hot sex with a basket tell us about heteropessimism?<a href=\"https://ww",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/oct/30/sctv-greatest-show-you-never-heard-of-netflix-comedy-sketch-show-documentary",
-        "seendate": "2026-10-30T15:33:19.000Z",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/nov/02/wicker-4dx-olivia-colman-movie",
+        "seendate": "2026-11-02T18:29:37.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "On Star Trek, Patrick Stewart could make anyone feel hopeful for humanity",
-        "summary": "As Jean-Luc Picard in seven seasons, four films and a sequel, Stewart made us believe the most interesting person in the room might also be the most humanePatrick Stewart dies age 86His life in pictures",
+        "title": "John Oliver on Maga’s James Talarico smears: ‘middle school level homophobia’",
+        "summary": "The HBO host called out Trump’s ‘ridiculous’ stunts and Republican Islamophobia in the lead up to the US midtermsOn his HBO show on Sunday night, John Oliver focused on the last-minute rallies being held across the US leading up to the midterms.In Texas, Repub",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/culture/2026/oct/30/patrick-stewart-jean-luc-picard-star-trek",
-        "seendate": "2026-10-30T05:00:48.000Z",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/nov/02/john-oliver-maga-james-talarico-midterms",
+        "seendate": "2026-11-02T16:25:14.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "The best theatre to stream this month: the Gisèle Pelicot trial becomes an all-star play that ‘just floors you’",
-        "summary": "An unmissable documentary play, Tom Stoppard’s Arcadia with luminous Isis Hainsworth and ecstatic dance in a Norwegian museum are among November’s highlightsSwiss director Milo Rau’s ripped-from-the-headlines approach to theatre has included shows about wars in Iraq and Congo and the exploitation of migrant workers. His four-hour documentary play (created with Servane Dècle) about the trial of the men who d",
+        "title": "Tomb Raider’s creators on how the game changed their lives: ‘Skint staff were suddenly pulling up in sports cars’",
+        "summary": "‘Giving Lara Croft pistols meant we could show off her acrobatics. And when she goes to Peru, we threw in a T rex!’I joined Core Design in the summer of 1994 and met Toby Gard, who showed me his concept sketches for Tomb Raider. He’d already come up with the title and drawn a mock-up box cover with a woman holding two pistols. <a href=\"https://www.theguardian.com/culture/2026/nov/02/tomb-raider-creators",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/stage/2026/nov/01/the-best-theatre-to-stream-this-month-the-pelicot-trial-ita-music-damien-jalet-arcadia-salt",
-        "seendate": "2026-11-01T05:00:02.000Z",
+        "url": "https://www.theguardian.com/culture/2026/nov/02/tomb-raider-creators-lara-croft",
+        "seendate": "2026-11-02T14:40:35.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Seth Meyers on Trump and Vance’s tactics: ‘No one’s buying your fake folksy bullshit’",
-        "summary": "Late-night hosts criticised ‘cosplaying as everyday folks’ and mocked the president’s latest attack on a reporterLate-night hosts ridiculed Donald Trump and JD Vance for their hollow attempts to appeal to working-class voters while also detailing the president’s latest unhinged attack on a reporter. Continue reading...</a",
+        "title": "Ashanti: ‘I’ve had a bodysuit snap off on stage. That was not my coolest moment’",
+        "summary": "Before her Australian tour, the Grammy-winner talks about her marriage to Nelly, fans rushing the stage and her secret skillGet our weekend culture and lifestyle emailYour debut album, Ashanti, turns 25 next y",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/culture/2026/oct/30/seth-meyers-trump-vances",
-        "seendate": "2026-10-30T14:15:08.000Z",
+        "url": "https://www.theguardian.com/music/2026/nov/03/rnb-star-ashanti-10-chaotic-questions",
+        "seendate": "2026-11-02T14:00:46.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘I left shellshocked’: writers on their scariest non-horror movies",
-        "summary": "For Halloween, Guardian writers have picked the most efficiently terrifying films outside of the horror genre from How to Have Sex to The Hunchback of Notre DameMinor spoilers aheadHiding in plain sight throughout Lee Chang-dong’s deliciously enigmatic Burning, in which a spirited young woman (Jeon Jong-seo) disappears, and a wealthy playboy (Steven Yeun) gives serial killer vibes, i",
+        "title": "‘Sad lost souls’: Taika Waititi lambasts critics after Klara and the Sun box-office disaster",
+        "summary": "The Jojo Rabbit director blamed the dismal numbers for his film of Kazuo Ishiguro’s novel on ‘obsolete’ reviewers’ notices, adding that he works ‘for the people’ – whose Rotten Tomatoes ratings are much higherTaika Waititi has launched a furious broadside at “critics” following the disastrous commercial performance of Klara and the Sun, his new film adapted from a Kazuo Ishiguro novel.<a href=\"https:",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/oct/30/scariest-non-horror-movies",
-        "seendate": "2026-10-30T09:00:50.000Z",
+        "url": "https://www.theguardian.com/film/2026/nov/02/taika-waititi-lambasts-critics-after-klara-and-the-sun-box-office-disaster",
+        "seendate": "2026-11-02T11:38:35.000Z",
         "domain": "theguardian.com"
       }
     ],
     "f1": [
       {
-        "title": "Fred Vasseur reacts to Lewis Hamilton, Charles Leclerc clash: “It’s a matter of respect”",
-        "summary": "“When you are 1-2 at Turn 4, you don't imagine that you won't win the race.”This statement says a lot about Ferrari team principal Fred Vasseur’s disappointment following Formula 1’s Mexico Grand Prix.Ferrari was on pole for the first time in the 2026 season, courtesy of Lewis Hamilton, with Charles Leclerc third; no grid had been so favourable to the prancing horse since ...<a class='more' href='htt",
+        "title": "Lewis Hamilton goes viral after emotional moment with Peter Bonnington in Mexico",
+        "summary": "Formula 1 fans have praised seven-time champion Lewis Hamilton after footage of him congratulating his former Mercedes race engineer Peter 'Bono' Bonnington at the Mexican Grand Prix went viral.Hamilton worked with Bonnington throughout his time at the Brackley outfit, where he secured six of his seven championships. After the 41-year-old left Mercedes to move to Ferrari in 2025, Bonnington ...<a class='",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/fred-vasseur-reacts-to-lewis-hamilton-charles-leclerc-clash-its-a-matter-of-respect/10870842/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-02T01:08:54.000Z",
+        "url": "https://www.motorsport.com/f1/news/lewis-hamilton-goes-viral-after-emotional-moment-with-peter-bonnington-in-mexico/10871136/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-03T00:02:11.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "How F1 drivers reacted to Kimi Antonelli's world title: \"He's made everyone else look silly\"",
-        "summary": "Kimi Antonelli's rivals have paid tribute to the Mercedes driver after he clinched the Formula 1 world championship at the Mexico City Grand Prix.The Italian finished third behind Max Verstappen and Lewis Hamilton to secure the title with four races to spare. At just 20 years and 68 days old, he is the youngest champion in the sport's history, and the first Italian to win the drivers' title ...<a class='",
+        "title": "George Russell breaks silence with heartfelt message after Kimi Antonelli's F1 title win",
+        "summary": "George Russell has shared a heartfelt message after missing media duties following the Mexican Grand Prix. The Briton admitted that \"2026 was not meant to be my year\" in a long message to his fans on social media after his Mercedes team-mate Kimi Antonelli claimed his maiden championship at the Autódromo Hermanos Rodríguez.Russell entered the 2026 season as a clear favourite to win the ...<a class='m",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/how-f1-drivers-reacted-to-kimi-antonellis-world-title-hes-made-everyone-else-look-silly/10870828/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-02T00:32:34.000Z",
+        "url": "https://www.motorsport.com/f1/news/george-russell-breaks-silence-with-heartfelt-message-after-kimi-antonellis-f1-title-win/10871112/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-02T20:26:53.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Winners and losers from F1's record-breaking Mexico Grand Prix",
-        "summary": "Superlatives are running out to describe Kimi Antonelli's unprecedented ascent to power over the 2026 season. At the Mexico Grand Prix, Formula 1's new ruler received the coronation his campaign deserved.Winner: Kimi AntonelliAntonelli's title triumph may have been a foregone conclusion at this point, but that only makes his achievement more remarkable, not less.It's impossible not to ...<a class",
+        "title": "Peter Bonnington reveals \"stern conversation\" that transformed Kimi Antonelli's F1 career",
+        "summary": "Kimi Antonelli's race engineer Peter 'Bono' Bonnington has revealed that a \"really stern conversation\" helped turn around the Italian driver's rookie Formula 1 season, a year before he became the 2026 world champion.Antonelli finished third at last weekend's Mexican Grand Prix, which was enough to secure his maiden title. While speaking to F1 TV after the race, Bonnington reflected on how ...<a class='mo",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/winners-and-losers-from-f1s-historic-mexico-grand-prix/10870803/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-02T00:24:04.000Z",
+        "url": "https://www.motorsport.com/f1/news/peter-bonnington-reveals-stern-conversation-that-transformed-kimi-antonellis-f1-career/10871102/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-02T18:30:56.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Toto Wolff apologises to George Russell after Mercedes \"let him down\" at Mexican GP",
-        "summary": "Mercedes Formula 1 team principal Toto Wolff claimed the Brackley outfit \"let down\" George Russell after a deployment issue spoiled his start at the Mexican Grand Prix.Russell started from second on the grid after missing out on pole position to seven-time champion Lewis Hamilton by just 0.009 seconds, but he lost ground at the start. He was then given a 10-second penalty for a first-lap ...<a class='mor",
+        "title": "Toto Wolff: Two sponsors left Mercedes after promoting Kimi Antonelli into F1",
+        "summary": "At the Mexico Grand Prix, Mercedes reaped the reward for the courage it showed in putting the then 18-year-old Kimi Antonelli in the cockpit from 2025 with his world championship triumph in his just second Formula 1 season.It was courage that not everyone in the Mercedes sphere shared from the outset, as team principal Toto Wolff now reveals.\"We had two sponsors who left us because of it ...<a class=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/toto-wolff-apologises-to-george-russell-after-mercedes-let-him-down-at-mexican-gp/10870825/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-02T00:22:27.000Z",
+        "url": "https://www.motorsport.com/f1/news/toto-wolff-two-sponsors-left-mercedes-after-promoting-kimi-antonelli-into-f1/10871088/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-02T17:43:35.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Charles Leclerc responds to Lewis Hamilton's call for Ferrari talks after Mexico GP",
-        "summary": "Charles Leclerc says Lewis Hamilton’s driving was “very much on the limit” as he defended his own move at the beginning of the Mexico City Grand Prix.Leclerc attacked polesitter Hamilton at Turn 4 on the opening lap and made it out of the scrap ahead of him.“I mean, it was definitely an opportunity. In Turn 1 there was a gap on the outside and I had quite a lot of speed around the ...<a class='more'",
+        "title": "Juan Pablo Montoya demands \"consequences\" for Ferrari drivers after Mexican GP disaster",
+        "summary": "Former Formula 1 driver and F1 TV pundit Juan Pablo Montoya has argued that there must be \"consequences\" for Lewis Hamilton and Charles Leclerc after their first-lap battle likely cost Ferrari the win at the Mexican Grand Prix.Both drivers ran wide when Leclerc attempted to overtake Hamilton, who had started from pole position. Leclerc emerged in the lead, while Hamilton lost a position to Red ...<a clas",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/charles-leclerc-responds-to-lewis-hamiltons-call-for-ferrari-talks-after-mexico-gp/10870814/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-02T00:14:27.000Z",
+        "url": "https://www.motorsport.com/f1/news/juan-pablo-montoya-demands-consequences-for-ferrari-drivers-after-mexican-gp-disaster/10871096/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-02T17:40:55.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "Obsidian's Josh Sawyer on RPG cities: 'Compared to a dungeon, generally speaking, a town is 4x the expense per square foot'",
-        "summary": "It's these freaking zoning laws, man.",
+        "title": "Enshrouded 1.0 review",
+        "summary": "The fog of war clears around Embervale, revealing a survival crafting masterpiece.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/rpg/obsidians-josh-sawyer-on-rpg-cities-compared-to-a-dungeon-generally-speaking-a-town-is-4x-the-expense-per-square-foot/",
-        "seendate": "2026-11-02T01:39:58.000Z",
+        "url": "https://www.pcgamer.com/games/survival-crafting/enshrouded-1-0-review/",
+        "seendate": "2026-11-02T21:47:58.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Grand Theft Auto 6 teased a handful of its upcoming radio stations and its music curation is as strong as ever",
-        "summary": "I can already picture my late-night Leonida drives to these bangers.",
+        "title": "'There was some really fair criticism': Arc Raiders' devs understand why players were so upset about its AI use but say that it was 'too impractical to record' every voice line",
+        "summary": "Embark has since re-recorded lines to inject more real human voices to the game.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-teased-a-handful-of-its-upcoming-radio-stations-and-its-music-curation-is-as-strong-as-ever/",
-        "seendate": "2026-11-01T18:00:00.000Z",
+        "url": "https://www.pcgamer.com/games/third-person-shooter/there-was-some-really-fair-criticism-arc-raiders-devs-understand-why-players-were-so-upset-about-its-ai-use-but-admit-that-it-was-too-impractical-to-record-every-voice-line/",
+        "seendate": "2026-11-02T17:55:20.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Valve's long-lost prototype Portal prequel appears online after nearly 20 years",
-        "summary": "F-Stop was a result of a post-Orange Box, 2007 Valve game jam.",
+        "title": "Thief Remastered's new expansion is being made by the legendary Black Parade mod team, and it's out next month",
+        "summary": "It's a big day for PC gaming old heads.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/fps/valves-long-lost-prototype-portal-prequel-appears-online-after-nearly-20-years/",
-        "seendate": "2026-11-01T17:44:47.000Z",
+        "url": "https://www.pcgamer.com/games/fps/thief-remastereds-new-expansion-is-being-made-by-the-legendary-black-parade-mod-team-and-its-out-next-month/",
+        "seendate": "2026-11-02T17:53:01.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Composer and designer Lena Raine explains how Pigstep altered Minecraft's approach to music: 'The prompt I keep hearing is \"Oh, Pigstep was such a banger that they want more bangers\"'",
-        "summary": "The composer for Celeste and Minecraft guides us through the games on her PC.",
+        "title": "Yakuza creator's studio, and the game it was working on, are now officially gone",
+        "summary": "Nagoshi Studio revealed Gang of Dragon less than a year ago, but it ran into trouble just a few months later.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/composer-and-designer-lena-raine-explains-how-pigstep-altered-minecrafts-approach-to-music-the-prompt-i-keep-hearing-is-oh-pigstep-was-such-a-banger-that-they-want-more-bangers/",
-        "seendate": "2026-11-01T17:00:00.000Z",
+        "url": "https://www.pcgamer.com/gaming-industry/yakuza-creators-studio-and-the-game-it-was-working-on-are-now-officially-gone/",
+        "seendate": "2026-11-02T16:59:36.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "'An absolute behemoth': Wildly ambitious FPS Selaco is getting a massive update that doubles its size and adds 'a heavy machinegun that fires literal explosions'",
-        "summary": "Selaco: The Machines of War arrives later this month.",
+        "title": "Turtle Beach Command Series MC7 review",
+        "summary": "How much is a touchscreen really worth to you?",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/fps/an-absolute-behemoth-wildly-ambitious-fps-selaco-is-getting-a-massive-update-that-doubles-its-size-and-adds-a-heavy-machinegun-that-fires-literal-explosions/",
-        "seendate": "2026-11-01T16:46:26.000Z",
+        "url": "https://www.pcgamer.com/hardware/gaming-mice/turtle-beach-command-series-mc7-review/",
+        "seendate": "2026-11-02T16:56:48.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
       {
-        "title": "North Korea is likely culprit behind $6.3bn crypto hack, ‘largest heist in history’",
-        "summary": "Binance exchange says it will cover customer losses as it scrambles to freeze affected assets, with about $3bn located so farQ&amp;A: How big a deal is the $6.3bn crypto heist?<a href=\"https://www.theguardian.com/business/2026/oct/30/tell-us-have-you-been-affected-by-th",
+        "title": "Shop fridges and freezers across Europe hit by fresh suspected cyber-attack",
+        "summary": "Chains in seven countries say cooling unit temperatures rose overnight in incident similar to hack of French shopsWho is hacking Europe’s supermarket fridges and freezers, and why?Supermarket chains in at least seven European countries have said the temperatures of re",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack",
-        "seendate": "2026-10-30T16:35:44.000Z",
+        "url": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
+        "seendate": "2026-11-02T16:39:20.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "I read Anthropic's 92-page risk factor document, so you don't have to – video explainer",
-        "summary": "Anthropic, the creator of Claude, filed to go public on the US stock market on 26 October. The company's filing statement contains a 92-page risk factor document in which it acknowledges the dangers that AI poses to society and human beings, and factors that could negatively affect Anthropic's business. Johana Bhuiyan, senior tech reporter for the Guardian, breaks down the document and explains why Anthropic's IPO",
+        "title": "Investors pull billions in funds from Binance after record $6.3bn hack",
+        "summary": "Cryptocurrency exchange has begun to allow withdrawals after theft believed to have come from North KoreaInvestors have pulled $3.6bn (£2.7bn) in funds from the cryptocurrency exchange Binance as it recovers from a record hack in which billions were stolen from customer accounts.The platform was hit by a $6.3bn theft on Thursday, which has since been described as the biggest heist in history. Experts",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/global/video/2026/oct/30/anthropic-92-page-risk-factor-document-ipo-filing-video-explainer",
-        "seendate": "2026-10-30T19:57:13.000Z",
+        "url": "https://www.theguardian.com/business/2026/nov/01/investors-take-out-36bn-from-binance-after-record-hack-that-stole-billions",
+        "seendate": "2026-11-01T18:53:25.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Ghost in the machine: how AI is haunting the search for the supernatural",
-        "summary": "Ghost hunting has changed in recent years due to AI chatbots, and paranormal enthusiasts are concernedGhost hunting is a tech-heavy pursuit. When Amy Waine and Jarrad Cutting investigate haunted locations, they’re loaded up with software of their own design, such as an app that assigns signals from a phone’s sensors to different words in a database. In the age of ChatGPT, the ghost-hunting pair is probing t",
+        "title": "Unions gain access to thousands of Google workers after UK employment rights overhaul",
+        "summary": "Prospect to hold workplace sessions and recruit members under agreement with tech companyTrade unions are expected to make further inroads into big tech companies in the UK after new rights for unions to access workplaces came into force, with Google UK signing an agreement on Monday.The P",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/ng-interactive/2026/oct/30/ai-ghost-hunting",
-        "seendate": "2026-10-30T15:00:16.000Z",
+        "url": "https://www.theguardian.com/politics/2026/nov/02/unions-google-workers-uk-employment-rights",
+        "seendate": "2026-11-02T13:00:41.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Electrocutions, disease and no pay: how workers risk exploitation in Europe’s datacentres",
-        "summary": "As thousands of datacentres are constructed across Europe, the Guardian and Investigate Europe have uncovered disturbing evidence that some workers building them are exposed to dangerous conditions and living in fear of speaking outSandu* checked his watch. He was winding down the last 15 minutes of his shift at a vast Google datacentre site in Saint-Ghislain, Belgium, in March, when the call came in. The 3",
+        "title": "Palantir AI tech unused or little used by 29 NHS trusts said to be benefiting from it",
+        "summary": "Exclusive: Gap between NHS claim and trusts’ comments described as ‘very misleading’ by senior health officialMore than two dozen hospital trusts the NHS claims have benefited from Palantir’s medical data platform are not using all or most of the AI-powered technology, the Guardian can reveal.The 29 hospital trusts that NHS England <a href=\"https://www.england.nhs.uk/digitaltechnology/n",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/global-development/2026/oct/30/electrocutions-disease-and-no-pay-how-workers-risk-exploitation-in-europes-datacentres",
-        "seendate": "2026-10-30T05:00:46.000Z",
+        "url": "https://www.theguardian.com/technology/2026/nov/02/palantir-unused-nhs-hospital-trusts",
+        "seendate": "2026-11-02T10:19:46.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Meta discussed ‘whisper strategy’ against social media critic Jonathan Haidt, files show",
-        "summary": "Court documents reveal staff considered ways to ‘get academic community to disavow’ influential US author Meta staff discussed deploying a “whisper strategy” to undermine the influential US academic whose work has inspired a global social media crackdown, according to court documents.Employees",
+        "title": "It’s time to block reckless AI IPOs and tax billionaires | Naomi Klein and Ilana Glazer",
+        "summary": "We cannot let the billionaire class take unprecedented risks with our futureAmerica is a divided country in crisis. Despite the sunny economic forecast coming from the Trump administration, millions of Americans are struggling to find and keep jobs, getting crushed under the rising cost of living, and losing health insurance when they need it the most.Meanwhile, via corporate consolidation and politi",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/oct/29/meta-staff-us-social-media-critic-jonathan-haidt-court-documents",
-        "seendate": "2026-10-29T17:20:57.000Z",
+        "url": "https://www.theguardian.com/commentisfree/2026/nov/02/ai-ipos-tax-billionaires",
+        "seendate": "2026-11-02T10:00:38.000Z",
         "domain": "theguardian.com"
       }
     ],
     "climate": [
+      {
+        "title": "A lackluster response to North Carolina flooding disasters is eroding Republican support in one county",
+        "summary": "At more than $52m, the race has become the most expensive in US history, but residents are fed up with floodingAida Havel mulled her fate over coffee after working the early voting polls all day in Kill Devil Hills, North Carolina. “We are trapped,” she concluded.The Dare county commission candidate lives about 50 miles (80km) south, on Hatteras Island on the state’s Outer Banks. <a href=\"https:/",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/nov/02/north-carolina-congress-republicans",
+        "seendate": "2026-11-02T12:00:41.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Colorado community fights plan to use drones to spray weed killer",
         "summary": "Officials in Boulder County, Colorado, say they have a safe plan to wipe out invasive weeds, but some locals are concernedSoon, weed-killing chemicals will start falling from the sky over the Red Hill area of Boulder county, Colorado.The wildland is known for its biodiversity, home to hundre",
@@ -371,17 +379,33 @@
         "url": "https://www.theguardian.com/commentisfree/2026/oct/30/iran-war-energy-crisis-winter",
         "seendate": "2026-10-30T14:00:20.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Five reasons why the US midterms matter for the climate – and your energy bill",
-        "summary": "Voters are feeling the pinch of Trump’s anti-climate agenda as energy costs rise, but a shake-up in Congress could shift thingsIf the polls can be believed, the US could see a blue wave in the midterms, giving Democrats a chance to take back the House and Senate, and gaining up to four governor’s seats.These w",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/oct/30/climate-crisis-midterms-affordability",
-        "seendate": "2026-10-30T11:30:52.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "science": [
+      {
+        "title": "Tributes paid to ‘inspiring’ Cambridge scientist who died in Spain train crash",
+        "summary": "Dr Marta Shahbazi was travelling to a conference to receive award for scientific excellence in developmental biologyAn “inspiring” Cambridge scientist died in the Spanish train collision on Wednesday that killed at least 69 people.Dr Mart",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/nov/01/tributes-marta-shahbazi-university-of-cambridge-scientist-spanish-train-crash",
+        "seendate": "2026-11-01T19:36:46.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Starwatch: Catch the striking trifecta of Venus, the moon and Spica at break of dawn",
+        "summary": "The brilliant planet is about to join the waning crescent moon and the brightest star in the Virgo constellation Early risers have a beautiful sight to look forward to this week as brilliant Venus joins the waning crescent moon and the star Spica in the morning sky.The chart shows the view looking east-south-east from London at 0600 GMT on 7 November. Venus will be the easiest object to identify, shi",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/nov/02/starwatch-catch-the-striking-trifecta-of-venus-the-moon-and-spica-at-break-of-dawn",
+        "seendate": "2026-11-02T06:00:34.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Cryosphere faces permanent damage when world overshoots 1.5C, scientists warn",
+        "summary": "UN-backed report finds even temporary rises above Paris agreement target could cause harm to glaciers and polar ice sheetsEarth’s icy regions face such dangerous melting that global heating should be brought back below 1C after an inevitable period of overshooting global temperature targets, a UN report has found.Permanent and widespread losses of snow and ice expose a “persistent myth” that overshoo",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/nov/02/permanent-damage-crysophere-overshoots-15c-scientists-warn",
+        "seendate": "2026-11-02T00:01:25.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Perfume bottle and child’s necklace among treasures found in Pompeii wardrobe",
         "summary": "Archaeologists uncover jewellery, cosmetics and coins in cabinet sealed since eruption of Mount Vesuvius in AD79Fragments of personal objects, from makeup tools and a perfume bottle to coins and a child’s necklace, have been found tucked away in a wooden wardrobe sealed off for almost 2,000 years in the ruins of Pompeii.The artifacts provide an intimate glimpse of daily life in the ancient Roman city",
@@ -396,30 +420,6 @@
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/commentisfree/2026/oct/30/the-guardian-view-on-50-years-of-the-selfish-gene-flawed-outdated-yet-still-a-model-of-truly-popular-science-writing",
         "seendate": "2026-10-30T17:56:07.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Migrating seabirds face a surprising problem: jet lag",
-        "summary": "Oxford study shows Manx shearwaters get lost when their body clocks get out of syncSeabirds returning from foraging trips can be thrown hundreds of miles off course by a form of jet lag that arises when their body clocks get out of sync with local time, researchers say.Tracking data from Manx shearwaters on the west coast of the UK revealed that when the birds returned home to their colonies after tr",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/oct/29/jet-lag-throws-seabirds-off-course-nature",
-        "seendate": "2026-10-29T18:00:27.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Astronauts step out of the ISS for spacewalk – watch live",
-        "summary": "NASA astronaut Anil Menon and CSA (Canadian Space Agency) astronaut Joshua Kutryk perform spacewalk to install and deploy an International Space Station Roll-Out Solar Array (IROSA). Continue reading...",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/video/2026/oct/29/astronauts-step-out-of-the-iss-for-spacewalk-watch-live",
-        "seendate": "2026-10-29T10:37:14.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "How rising seas transformed dry land into Venice lagoon",
-        "summary": "Scientists uncover ancient hills and swamps that disappeared as sea levels rose across northern AdriaticVenice is famed for being a floating city, but research shows the land it sits on once lay many miles inland. Dramatic changes in sea level over 10,000 years have reshaped the northern Adriatic coastline, with much of the land that our ancestors roamed now lying beneath the waves.Samuele Ongaro, at",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/oct/28/rising-seas-transformed-dry-land-venice-lagoon",
-        "seendate": "2026-10-28T06:00:04.000Z",
         "domain": "theguardian.com"
       }
     ]
