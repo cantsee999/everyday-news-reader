@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T03:45:40.934Z",
+  "generatedAt": "2026-11-04T02:48:13.270Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
@@ -88,6 +88,30 @@
     ],
     "economy": [
       {
+        "title": "‘In the trenches’: Wisconsin’s struggling small businesses could turn a Trump ally’s district blue",
+        "summary": "Affordability and small businesses’ economic woes feature heavily in the House race for Wisconsin’s third districtUS midterms 2026 live – latest updates<a href=\"https://www.theguardian.com/us-news/ng-interactive/2026/nov/03/midterm-elections-full-results-senate-house-governor-race",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/nov/03/small-business-economy-wisconsin-house-race",
+        "seendate": "2026-11-03T11:00:57.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "US tech stocks recover after selloff spooks investors over AI spending",
+        "summary": "Midterms didn’t appear to have huge impact, though predicted wins for Democrats could mean more regulationUS tech stocks made a recovery on Tuesday afternoon after a selloff spooked investors over AI spending.Tuesday’s midterm elections didn’t appea",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/business/2026/nov/03/us-tech-stocks-recovery-ai-spending",
+        "seendate": "2026-11-03T22:18:45.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Apple warns of ‘unprecedented’ rise in memory chip prices",
+        "summary": "iPhone maker says decision to raise prices has offset some of impact, as revenues are stronger than expectedBusiness live – latest updatesApple has warned of an “unprecedented” rise in memory chip prices",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/nov/02/apple-third-quarter-revenue-earnings",
+        "seendate": "2026-11-03T09:01:19.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Oil price falls amid hope of a breakthrough to end Iran war",
         "summary": "Brent crude drops by more than 6% to $105.55 a barrel, the lowest level in more than two weeksThe oil price has fallen to its lowest level in more two weeks amid new hopes of a breakthrough to end the Iran war.Brent crude, the international benchmark, dropped by more than 6.5% to as low as $105.55 a barrel on Monday, the lowest since 16 October, sending shares in airline companies higher and pushing",
         "source": "theguardian.com",
@@ -102,33 +126,33 @@
         "url": "https://www.theguardian.com/us-news/2026/nov/02/texas-voters-trump-fuel-prices",
         "seendate": "2026-11-02T11:00:41.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Affordability top of mind for voters in final sprint to midterms: ‘I have to pick between medicine or groceries’",
-        "summary": "Cost of living has loomed over this election cycle as workers and unions champion candidates fighting for higher wages and tackling rising pricesFor millions of Americans heading to the polls on Tuesday, affordability is a constant and worsening issue, and it’s been a prevailing concern this election cycle.In Lorain county, Ohio, Gina Jones and her co-workers at the Lorain county job and family servi",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/nov/01/affordability-voters-final-sprint-midterms",
-        "seendate": "2026-11-01T12:00:11.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "The US-China trade war seems to have subsided – but the sense of calm is misleading",
-        "summary": "A truce has cooled the trade conflict, but neither country has done anything to limit the outbreak of new hostilitiesDonald Trump’s trade wars have largely fallen off the headlines. Fears of new tariffs flare up from time to time when the US president goes off the rails – for instance, threatening to end US trade with countries with which it has",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi",
-        "seendate": "2026-11-01T12:00:12.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "The staggering $446m Elon Musk has spent on the US midterms – visualized",
-        "summary": "The tech mogul’s midterm donations backing Republicans have made him the largest single-cycle political donor in modern US historyElon Musk has poured so much money into US politics this midterms election cycle that his donations could fund half a dozen SpaceX rocket launches or buy thousands of Tesla Cybertrucks. At the <a href=\"https://www.theguardian.com/technology/2026/jan/03/tesla-diner-elon-musk-los-a",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/31/elon-musk-midterms-spending-visualized",
-        "seendate": "2026-10-31T10:00:40.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "literature": [
+      {
+        "title": "Lords of Serendipity by Randy Boyagoda review – a campus satire for this moment of crisis",
+        "summary": "This propulsive, globe-trotting tale brilliantly skewers the corruption and corporatisation of higher education It’s no secret that academia is on the blink; Canadian author Randy Boyagoda’s new novel, which is equal parts satire, dystopia and exposé, tells the story of all that’s wrong, glitchy and broken. Set across Sri Lanka, the United States and Italy, it centres on a cast of students, parents and prof",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/nov/03/lords-of-serendipity-by-randy-boyagoda-review-a-campus-satire-for-this-moment-of-crisis",
+        "seendate": "2026-11-03T07:00:43.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "‘A trailblazer in the truest sense’: poet Grace Nichols wins £10,000 Pioneer prize",
+        "summary": "The Guyana-born, British-based writer takes home the Royal Society of Literature prize honouring women writers over 60 who have broken barriersThe poet Grace Nichols has been named the winner of the 2026 Royal Society of Literature Pioneer prize, a £10,000 award that recognises women writers over 60 who broke through at a time when the literary world was less open to them.Nichols, 76, who was born in",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/nov/03/poet-grace-nichols-wins-pioneer-prize-royal-society-of-literature",
+        "seendate": "2026-11-03T14:46:05.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Citizen Kim by Jonathan Van Meter review – Kardashian under the microscope",
+        "summary": "The author gets a backstage pass to the personal life of the world’s most famous woman – but what do we really learn?The magazine writer Jonathan Van Meter profiles very famous people for extremely glossy publications. He was responsible for the notorious 1990 interview in which supermodel Linda Evangelista said she wouldn’t wake up for less than $10,000 a day, and in recent years, he has interviewed Taylor",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/nov/03/citizen-kim-by-jonathan-van-meter-review-kardashian-under-the-microscope",
+        "seendate": "2026-11-03T09:00:43.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Pay Attention by Laura Kuenssberg review – a BBC reporter’s howl of frustration",
         "summary": "After more than two decades of studied neutrality, the journalist delivers some home truths about modern politicsLaura Kuenssberg always swore she would never write a book. Amid all the vitriol hurled her way, the BBC’s political editor turned presenter has largely kept her counsel. She rarely complained even when she&nbsp;needed security to do her job unobstructed at Labour party conference under Jeremy Co",
@@ -144,202 +168,186 @@
         "url": "https://www.theguardian.com/books/2026/nov/02/the-rhyl-poster-by-tom-mccarthy-review-is-this-avant-garde-spy-drama-worth-the-riddles",
         "seendate": "2026-11-02T09:00:36.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Why you should treat charisma as a red flag",
-        "summary": "Today’s crop of smooth talkers tap directly into a specific evolutionary vulnerability. Here’s how to defend yourselfRecently, I was alone in a bar waiting for a friend. To pass the time, I&nbsp;started chatting to a stranger. He had an easy, confident way of speaking, which I admired. We discussed topics I know little about: the instability of modern economies, the feasibility of commercial space travel, t",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/nov/01/why-you-should-treat-charisma-as-a-red-flag",
-        "seendate": "2026-11-01T12:00:12.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Like many authors, I’m bombarded by scam fan mail. I wasn’t prepared for what would happen when I wrote back",
-        "summary": "The novelist receives passionate AI-written emails almost every day – but when he decided to take up one sender’s offer to find him new readers, the story took a darker turnThere’s no humble way to say it: I get a lot of fan mail. Almost every day, multi-paragraph emails arrive from passionate and well-informed readers in Barcelona and Frankfurt, Chicago and Warsaw. They have appealing names like Bella Monr",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/nov/01/like-many-authors-im-bombarded-by-scam-fan-mail-i-wasnt-prepared-for-what-would-happen-when-i-wrote-back",
-        "seendate": "2026-11-01T12:00:12.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "‘Being hated is very bracing’: Helen Garner on surviving three marriages and being called a ‘rotten feminist’",
-        "summary": "Her unsparing fiction and true crime writing have made her one of Australia’s most controversial and celebrated authors. The author discusses relationships, resilience – and finding global recognition five decades into her careerA few years ago, when Helen Garner had an idea to write a book about Australian rules football, her heart soared then immediately sank. The&nbsp;impetus was Ambrose, her teenage gra",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/oct/31/being-hated-is-very-bracing-helen-garner-on-surviving-three-marriages-and-being-called-a-rotten-feminist",
-        "seendate": "2026-10-31T09:00:39.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "entertainment": [
       {
-        "title": "‘Screams on the level of a Taylor Swift concert’: horny romp Wicker gets the 4DX treatment",
-        "summary": "Olivia Colman’s steamy romance, where she plays a woman in love with a wicker man, becomes an unlikely pick for the theme park-like cinema experienceWhat does Olivia Colman’s hot sex with a basket tell us about heteropessimism?<a href=\"https://ww",
+        "title": "Jon Stewart on Haley Stevens’s betrayal in Michigan: ‘The most diabolical episode of Fargo I’ve ever seen’",
+        "summary": "On midterms eve, late-night hosts discussed an 11th-hour endorsement, as Trump focused on his reflecting poolOn the eve of the US midterm elections, late-night hosts mocked Donald Trump’s lack of focus on the campaigns, a <a href=\"https://www.theguardian.com/us-news/2026/",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/nov/02/wicker-4dx-olivia-colman-movie",
-        "seendate": "2026-11-02T18:29:37.000Z",
+        "url": "https://www.theguardian.com/culture/2026/nov/03/late-night-roundup-jon-stewart-jimmy-kimmel-seth-meyers",
+        "seendate": "2026-11-03T16:44:31.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "John Oliver on Maga’s James Talarico smears: ‘middle school level homophobia’",
-        "summary": "The HBO host called out Trump’s ‘ridiculous’ stunts and Republican Islamophobia in the lead up to the US midtermsOn his HBO show on Sunday night, John Oliver focused on the last-minute rallies being held across the US leading up to the midterms.In Texas, Repub",
+        "title": "They fell in love on The Simpsons and married in real life. Meet the French Homer and Marge",
+        "summary": "They have brought TV’s most famous cartoon couple to life in France for the last 38 years. Philippe Peythieu and Véronique Augereau tell all about working and living together for so long, still being lovebirds – and rarely arguingThe Simpsons is the biggest cartoon comedy in the world, with suburban couple Homer and Marge at its heart. From their beginnings as high-school sweethearts to the travails of marr",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/nov/02/john-oliver-maga-james-talarico-midterms",
-        "seendate": "2026-11-02T16:25:14.000Z",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/nov/03/the-simpsons-french-homer-marge-married-real-life-peythieu-augereau",
+        "seendate": "2026-11-03T14:33:12.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Tomb Raider’s creators on how the game changed their lives: ‘Skint staff were suddenly pulling up in sports cars’",
-        "summary": "‘Giving Lara Croft pistols meant we could show off her acrobatics. And when she goes to Peru, we threw in a T rex!’I joined Core Design in the summer of 1994 and met Toby Gard, who showed me his concept sketches for Tomb Raider. He’d already come up with the title and drawn a mock-up box cover with a woman holding two pistols. <a href=\"https://www.theguardian.com/culture/2026/nov/02/tomb-raider-creators",
+        "title": "China’s first AI-generated film is a flop. Some still see it as the future of cinema",
+        "summary": "Chinese investors placing high value on AI despite unpopularity of Sanxingdui: Future PastChina’s first fully AI-generated movie has flopped, earning just 1.7m yuan (£191,000) at the box office despite costing “tens of millions” to make, according to its producer.But is it any good? The Guardian watched Sanxingdui: Future Past in a virtually empty cinema in Beijing, and found it no worse than plenty",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/culture/2026/nov/02/tomb-raider-creators-lara-croft",
-        "seendate": "2026-11-02T14:40:35.000Z",
+        "url": "https://www.theguardian.com/film/2026/nov/03/china-first-ai-generated-film-flops-cinema-future",
+        "seendate": "2026-11-03T14:32:54.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Ashanti: ‘I’ve had a bodysuit snap off on stage. That was not my coolest moment’",
-        "summary": "Before her Australian tour, the Grammy-winner talks about her marriage to Nelly, fans rushing the stage and her secret skillGet our weekend culture and lifestyle emailYour debut album, Ashanti, turns 25 next y",
+        "title": "‘We’re all on constantly shifting sands’: the play capturing life during the US midterm elections",
+        "summary": "Playwright Richard Nelson’s acclaimed Rhinebeck Panorama series returns for another timely look at the fictional Apple family living in a divided AmericaRichard Nelson learned a great lesson, cliched as it is, late in his writing career: the thing you toss off without overthinking can end up being some of your life’s greatest work. In the program notes for We’ll See, the latest in what has become a 12-play",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/music/2026/nov/03/rnb-star-ashanti-10-chaotic-questions",
-        "seendate": "2026-11-02T14:00:46.000Z",
+        "url": "https://www.theguardian.com/stage/2026/nov/03/well-see-play-midterm-elections",
+        "seendate": "2026-11-03T11:00:56.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘Sad lost souls’: Taika Waititi lambasts critics after Klara and the Sun box-office disaster",
-        "summary": "The Jojo Rabbit director blamed the dismal numbers for his film of Kazuo Ishiguro’s novel on ‘obsolete’ reviewers’ notices, adding that he works ‘for the people’ – whose Rotten Tomatoes ratings are much higherTaika Waititi has launched a furious broadside at “critics” following the disastrous commercial performance of Klara and the Sun, his new film adapted from a Kazuo Ishiguro novel.<a href=\"https:",
+        "title": "Carrie at 50: Brian De Palma’s fiery masterpiece still has the power",
+        "summary": "The Oscar-nominated 1976 adaptation of Stephen King’s high school horror remains heartbreaking and horrifying in equal measureOften when a pop culture figure, whether real or fictional or somewhere in between, is described as an eternal teenager, it refers to an image of youthful vitality. Carrie White, the wallflowery, telekinetic, sort-of heroine at the center of Stephen King’s book and its multiple adapt",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/nov/02/taika-waititi-lambasts-critics-after-klara-and-the-sun-box-office-disaster",
-        "seendate": "2026-11-02T11:38:35.000Z",
+        "url": "https://www.theguardian.com/film/2026/nov/03/carrie-movie-anniversary-stephen-king",
+        "seendate": "2026-11-03T10:00:45.000Z",
         "domain": "theguardian.com"
       }
     ],
     "f1": [
       {
-        "title": "Lewis Hamilton goes viral after emotional moment with Peter Bonnington in Mexico",
-        "summary": "Formula 1 fans have praised seven-time champion Lewis Hamilton after footage of him congratulating his former Mercedes race engineer Peter 'Bono' Bonnington at the Mexican Grand Prix went viral.Hamilton worked with Bonnington throughout his time at the Brackley outfit, where he secured six of his seven championships. After the 41-year-old left Mercedes to move to Ferrari in 2025, Bonnington ...<a class='",
+        "title": "Andrea Stella explains how qualifying destroyed McLaren’s Mexico GP: “We paid the price”",
+        "summary": "Having a podium-capable car means much less if you spend 71 laps hopelessly trapped in dirty air.That was the reality for McLaren at the Mexico City Grand Prix. A difficult Saturday qualifying session left the Woking garage entirely on the back foot, completely negating the raw race pace of its machinery. Because the thin air at high altitude makes cooling a nightmare and aerodynamically ...<a class='mor",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/lewis-hamilton-goes-viral-after-emotional-moment-with-peter-bonnington-in-mexico/10871136/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-03T00:02:11.000Z",
+        "url": "https://www.motorsport.com/f1/news/stella-explains-how-a-nightmare-qualifying-destroyed-mclarens-mexico-gp-we-paid-the-price/10871257/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-03T23:50:58.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "George Russell breaks silence with heartfelt message after Kimi Antonelli's F1 title win",
-        "summary": "George Russell has shared a heartfelt message after missing media duties following the Mexican Grand Prix. The Briton admitted that \"2026 was not meant to be my year\" in a long message to his fans on social media after his Mercedes team-mate Kimi Antonelli claimed his maiden championship at the Autódromo Hermanos Rodríguez.Russell entered the 2026 season as a clear favourite to win the ...<a class='m",
+        "title": "Charles Leclerc brushes off Lewis Hamilton clash: “I could be unhappy too”",
+        "summary": "The opening lap of the Mexico City Grand Prix featured an intense, intra-team battle within Ferrari.Battling for the race lead, Charles Leclerc and Lewis Hamilton traded heavy, aggressive blows through the opening sequence of corners. The scarlet cars squeezed each other to the absolute limit, ultimately resulting in an off-track excursion and a time penalty for the Monegasque ...<a class='more' href='ht",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/george-russell-breaks-silence-with-heartfelt-message-after-kimi-antonellis-f1-title-win/10871112/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-02T20:26:53.000Z",
+        "url": "https://www.motorsport.com/f1/news/charles-leclerc-brushes-off-lap-1-clash-with-furious-hamilton-i-could-be-unhappy-too/10871246/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-03T23:28:18.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Peter Bonnington reveals \"stern conversation\" that transformed Kimi Antonelli's F1 career",
-        "summary": "Kimi Antonelli's race engineer Peter 'Bono' Bonnington has revealed that a \"really stern conversation\" helped turn around the Italian driver's rookie Formula 1 season, a year before he became the 2026 world champion.Antonelli finished third at last weekend's Mexican Grand Prix, which was enough to secure his maiden title. While speaking to F1 TV after the race, Bonnington reflected on how ...<a class='mo",
+        "title": "Colton Herta to run Cadillac FP1 in Brazil as FIA superlicense quest continues",
+        "summary": "Cadillac test driver Colton Herta will conduct his sixth Friday practice session of the F1 season at this weekend's Sao Paulo GP to collect his missing FIA superlicense point required to race in the series.Herta, who has been building up for an F1 campaign with private testing, FP1 sessions and a troubled F2 campaign, needs 40 points to obtain the required FIA superlicense. Cadillac believed ...<a class=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/peter-bonnington-reveals-stern-conversation-that-transformed-kimi-antonellis-f1-career/10871102/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-02T18:30:56.000Z",
+        "url": "https://www.motorsport.com/f1/news/colton-herta-to-run-cadillac-fp1-in-brazil-as-fia-superlicense-quest-continues/10871403/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-03T23:01:56.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Toto Wolff: Two sponsors left Mercedes after promoting Kimi Antonelli into F1",
-        "summary": "At the Mexico Grand Prix, Mercedes reaped the reward for the courage it showed in putting the then 18-year-old Kimi Antonelli in the cockpit from 2025 with his world championship triumph in his just second Formula 1 season.It was courage that not everyone in the Mercedes sphere shared from the outset, as team principal Toto Wolff now reveals.\"We had two sponsors who left us because of it ...<a class=",
+        "title": "Mercedes boss praises Antonelli’s masterclass while admitting they failed George Russell",
+        "summary": "The Brackley garage experienced the absolute extremes of motorsport at the Autodromo Hermanos Rodríguez. While the team successfully crowned the youngest world drivers' champion in Formula 1 history on Sunday, the engineering brass was simultaneously forced to publicly apologise to the other side of the garage for a mechanical failure.Trackside Engineering Director Andrew Shovlin was quick to ...<a class",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/toto-wolff-two-sponsors-left-mercedes-after-promoting-kimi-antonelli-into-f1/10871088/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-02T17:43:35.000Z",
+        "url": "https://www.motorsport.com/f1/news/mercedes-boss-praises-antonellis-masterclass-while-admitting-they-failed-george-russell/10871236/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-03T22:49:22.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Juan Pablo Montoya demands \"consequences\" for Ferrari drivers after Mexican GP disaster",
-        "summary": "Former Formula 1 driver and F1 TV pundit Juan Pablo Montoya has argued that there must be \"consequences\" for Lewis Hamilton and Charles Leclerc after their first-lap battle likely cost Ferrari the win at the Mexican Grand Prix.Both drivers ran wide when Leclerc attempted to overtake Hamilton, who had started from pole position. Leclerc emerged in the lead, while Hamilton lost a position to Red ...<a clas",
+        "title": "Rafa Camara to debut in F1 Brazil GP as Esteban Ocon out at Haas",
+        "summary": "The Haas F1 team has decided Esteban Ocon will not race again for the squad, with 2027 debutant Rafa Camara getting an early debut this weekend on home soil.Following increasingly strained relations between Ocon and the team, a heated argument in Mexico proved the final straw that made team principal Ayao Komatsu decide to bench the Frenchman. Reserve driver and Toyota protege Ryo Hirakawa ...<a class='m",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/juan-pablo-montoya-demands-consequences-for-ferrari-drivers-after-mexican-gp-disaster/10871096/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-02T17:40:55.000Z",
+        "url": "https://www.motorsport.com/f1/news/camara-to-debut-in-f1-brazil-gp-as-ocon-out-at-haas/10871372/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-03T20:43:22.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "Enshrouded 1.0 review",
-        "summary": "The fog of war clears around Embervale, revealing a survival crafting masterpiece.",
+        "title": "Bethesda's associate art director really did try to fit 7,000 actual steps into Skyrim's 7,000 Steps: 'I take no responsibility for the Frost Troll'",
+        "summary": "\"See that mountain? You can overanalyze it.\"",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/survival-crafting/enshrouded-1-0-review/",
-        "seendate": "2026-11-02T21:47:58.000Z",
+        "url": "https://www.pcgamer.com/games/the-elder-scrolls/bethesdas-associate-art-director-really-did-try-to-fit-7-000-actual-steps-into-skyrims-7-000-steps-i-take-no-responsibility-for-the-frost-troll/",
+        "seendate": "2026-11-04T00:18:41.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "'There was some really fair criticism': Arc Raiders' devs understand why players were so upset about its AI use but say that it was 'too impractical to record' every voice line",
-        "summary": "Embark has since re-recorded lines to inject more real human voices to the game.",
+        "title": "Valve admits it's 'running behind' on approving Steam games because it has to keep re-reviewing them, which surely has nothing to do with AI",
+        "summary": "As wishlisted games miss their release dates, Valve creates a new checklist to help devs get it right the first time.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/third-person-shooter/there-was-some-really-fair-criticism-arc-raiders-devs-understand-why-players-were-so-upset-about-its-ai-use-but-admit-that-it-was-too-impractical-to-record-every-voice-line/",
-        "seendate": "2026-11-02T17:55:20.000Z",
+        "url": "https://www.pcgamer.com/gaming-industry/valve-admits-its-running-behind-on-approving-steam-games-because-it-has-to-keep-re-reviewing-them-which-surely-has-nothing-to-do-with-ai/",
+        "seendate": "2026-11-03T23:51:13.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Thief Remastered's new expansion is being made by the legendary Black Parade mod team, and it's out next month",
-        "summary": "It's a big day for PC gaming old heads.",
+        "title": "Google criticized by NYC mayor Zohran Mamdani following AI policy change: 'Google is trying to use its monopoly power to force AI into our public schools'",
+        "summary": "Mamdani and others have called out Google's decision to disable search functionality for schools who opt out of its AI tools.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/fps/thief-remastereds-new-expansion-is-being-made-by-the-legendary-black-parade-mod-team-and-its-out-next-month/",
-        "seendate": "2026-11-02T17:53:01.000Z",
+        "url": "https://www.pcgamer.com/software/ai/google-criticized-by-nyc-mayor-zohran-mamdani-following-ai-policy-change-google-is-trying-to-use-its-monopoly-power-to-force-ai-into-our-public-schools/",
+        "seendate": "2026-11-03T22:58:03.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Yakuza creator's studio, and the game it was working on, are now officially gone",
-        "summary": "Nagoshi Studio revealed Gang of Dragon less than a year ago, but it ran into trouble just a few months later.",
+        "title": "Control Resonant is Remedy's fastest-selling game to date, tripling the studio's quarterly revenue",
+        "summary": "Countless sickos of a certain vintage just breathed sighs of relief.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/yakuza-creators-studio-and-the-game-it-was-working-on-are-now-officially-gone/",
-        "seendate": "2026-11-02T16:59:36.000Z",
+        "url": "https://www.pcgamer.com/games/action/control-resonant-is-remedys-fastest-selling-game-to-date-tripling-the-studios-quarterly-revenue/",
+        "seendate": "2026-11-03T21:54:41.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Turtle Beach Command Series MC7 review",
-        "summary": "How much is a touchscreen really worth to you?",
+        "title": "Crowning the greatest FPS mode of all time through 1v1 combat—SEMIFINALS!",
+        "summary": "Battle royale is dead. Bomb be gone. It only gets harder from here...",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/hardware/gaming-mice/turtle-beach-command-series-mc7-review/",
-        "seendate": "2026-11-02T16:56:48.000Z",
+        "url": "https://www.pcgamer.com/games/fps/crowning-the-greatest-fps-mode-of-all-time-through-1v1-combat-semifinals/",
+        "seendate": "2026-11-03T19:41:04.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
       {
-        "title": "Shop fridges and freezers across Europe hit by fresh suspected cyber-attack",
-        "summary": "Chains in seven countries say cooling unit temperatures rose overnight in incident similar to hack of French shopsWho is hacking Europe’s supermarket fridges and freezers, and why?Supermarket chains in at least seven European countries have said the temperatures of re",
+        "title": "Food suppliers in UK hit by cyber-attacks after freezers targeted in Europe",
+        "summary": "Cybersecurity experts say national impact ‘minimal’ but incidents may represent the ‘foothills’ of a wider threat Food suppliers in the UK have been hit by cyber-attacks after hackers raised the temperatures of supermarket freezers across Europe.The UK’s National Cyber Security Centre (NSCS) said it was working with the affected companies but the national impact was minimal. <a href=\"https://www.",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
-        "seendate": "2026-11-02T16:39:20.000Z",
+        "url": "https://www.theguardian.com/technology/2026/nov/03/uk-meat-processing-firms-fridges-heat-up-cyber-attacks",
+        "seendate": "2026-11-03T17:28:49.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Investors pull billions in funds from Binance after record $6.3bn hack",
-        "summary": "Cryptocurrency exchange has begun to allow withdrawals after theft believed to have come from North KoreaInvestors have pulled $3.6bn (£2.7bn) in funds from the cryptocurrency exchange Binance as it recovers from a record hack in which billions were stolen from customer accounts.The platform was hit by a $6.3bn theft on Thursday, which has since been described as the biggest heist in history. Experts",
+        "title": "Binance battles to save its brand after record $6.3bn crypto hack",
+        "summary": "World’s largest crypto exchange faces fallout from angry customers, and Lula wins with WhatsAppThis was originally published in TechScape, a newsletter about how technology shapes our lives. Sign up to receive it hereThis week in",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/nov/01/investors-take-out-36bn-from-binance-after-record-hack-that-stole-billions",
-        "seendate": "2026-11-01T18:53:25.000Z",
+        "url": "https://www.theguardian.com/technology/2026/nov/02/binance-cryptocurrency-exchange-hack",
+        "seendate": "2026-11-03T14:45:30.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Unions gain access to thousands of Google workers after UK employment rights overhaul",
-        "summary": "Prospect to hold workplace sessions and recruit members under agreement with tech companyTrade unions are expected to make further inroads into big tech companies in the UK after new rights for unions to access workplaces came into force, with Google UK signing an agreement on Monday.The P",
+        "title": "UK’s most polluting power plant could power country’s largest AI datacentre",
+        "summary": "Drax’s FTSE 250 owner strikes £20bn deal to build infrastructure in what it says is site’s ‘next chapter’Britain’s most polluting power plant could soon power the country’s largest datacentre under a £20bn deal to build AI infrastructure on the site of the Drax power plant in North Yorkshire.The power plant’s FTSE 250 owner has struck a deal with the infrastructure investor Brookfield and ⁠and the AI",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/politics/2026/nov/02/unions-google-workers-uk-employment-rights",
-        "seendate": "2026-11-02T13:00:41.000Z",
+        "url": "https://www.theguardian.com/business/2026/nov/03/uk-drax-power-station-ai-datacentre",
+        "seendate": "2026-11-03T11:55:28.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Palantir AI tech unused or little used by 29 NHS trusts said to be benefiting from it",
-        "summary": "Exclusive: Gap between NHS claim and trusts’ comments described as ‘very misleading’ by senior health officialMore than two dozen hospital trusts the NHS claims have benefited from Palantir’s medical data platform are not using all or most of the AI-powered technology, the Guardian can reveal.The 29 hospital trusts that NHS England <a href=\"https://www.england.nhs.uk/digitaltechnology/n",
+        "title": "‘A serious failure’: CPS prosecutor cites imaginary case to high court after AI search",
+        "summary": "Exclusive: Nonexistent precedent cited in alleged child rape case adds to dozens of AI-related errors plaguing court proceedingsA senior crown prosecutor acting in a high court case cited an imaginary legal precedent in an error that has sparked fresh concerns about AI hallucinations infecting the justice system.Ravinder Dhillon, representing the Crown Prosecution Service (CPS), referenced an entirel",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/nov/02/palantir-unused-nhs-hospital-trusts",
-        "seendate": "2026-11-02T10:19:46.000Z",
+        "url": "https://www.theguardian.com/technology/2026/nov/03/a-serious-failure-cps-prosecutor-cites-imaginary-case-to-high-court-after-ai-search",
+        "seendate": "2026-11-03T06:00:40.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "It’s time to block reckless AI IPOs and tax billionaires | Naomi Klein and Ilana Glazer",
-        "summary": "We cannot let the billionaire class take unprecedented risks with our futureAmerica is a divided country in crisis. Despite the sunny economic forecast coming from the Trump administration, millions of Americans are struggling to find and keep jobs, getting crushed under the rising cost of living, and losing health insurance when they need it the most.Meanwhile, via corporate consolidation and politi",
+        "title": "Apple warns of ‘unprecedented’ rise in memory chip prices",
+        "summary": "iPhone maker says decision to raise prices has offset some of impact, as revenues are stronger than expectedBusiness live – latest updatesApple has warned of an “unprecedented” rise in memory chip prices",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/commentisfree/2026/nov/02/ai-ipos-tax-billionaires",
-        "seendate": "2026-11-02T10:00:38.000Z",
+        "url": "https://www.theguardian.com/technology/2026/nov/02/apple-third-quarter-revenue-earnings",
+        "seendate": "2026-11-03T09:01:19.000Z",
         "domain": "theguardian.com"
       }
     ],
     "climate": [
+      {
+        "title": "North America’s most widely distributed game bird is under threat",
+        "summary": "For the first time since 1937, no open permits to hunt ruffed grouse in Ohio have been issued due to falling numbersEvery November, hundreds of hunters descend on four designated wilderness areas in southern Ohio in pursuit of the elusive ruffed grouse.But not this year. Continue reading...",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/environment/2026/nov/04/ruffed-grouse-population-decline",
+        "seendate": "2026-11-03T13:00:07.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "A lackluster response to North Carolina flooding disasters is eroding Republican support in one county",
         "summary": "At more than $52m, the race has become the most expensive in US history, but residents are fed up with floodingAida Havel mulled her fate over coffee after working the early voting polls all day in Kill Devil Hills, North Carolina. “We are trapped,” she concluded.The Dare county commission candidate lives about 50 miles (80km) south, on Hatteras Island on the state’s Outer Banks. <a href=\"https:/",
@@ -371,17 +379,25 @@
         "url": "https://www.theguardian.com/artanddesign/gallery/2026/oct/31/mill-19-steel-factory-pittsburgh",
         "seendate": "2026-10-31T12:00:42.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "The Iran war is deepening the US energy crisis. A bad winter is ahead | Mark Wolfe",
-        "summary": "Congress must act to ensure that families are able to heat their homes before the start of the seasonHeating oil may be the clearest warning yet of how the war in Iran is deepening the US’s energy affordability crisis. Families who heat their homes with oil are facing bills that could be 50% higher",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/commentisfree/2026/oct/30/iran-war-energy-crisis-winter",
-        "seendate": "2026-10-30T14:00:20.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "science": [
+      {
+        "title": "Fossilised red blood cells found in 115m-year-old dinosaur’s bone, say scientists",
+        "summary": "Chemical tests on Aratasaurus bone identify presence of heme, the organic compound that allows haemoglobin in blood to carry oxygen around bodyIt could be the opening of a Jurassic Park rip-off: scientists examining ancient dinosaur bones find what appear to be fossilised red blood cells, and traces of the molecule that gives the beast’s blood its distinctive crimson hue.But that is what researchers",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/nov/02/fossilised-red-blood-cells-aratasaurus-dinosaurs-bone",
+        "seendate": "2026-11-02T20:00:27.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "How a scientist went from hero to traitor in a US water crisis – podcast",
+        "summary": "When the water in Flint, Michigan, became contaminated with dangerous levels of lead, Dr Siddhartha Roy, then a third year PhD student, was part of the team of scientists who publicly contradicted state and federal claims that it was safe. He became a local hero until a new piece of research challenged the idea that children in Flint had been left permanently brain damaged by the crisis. His adherence to the evide",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/audio/2026/nov/03/us-flint-water-crisis-dr-siddhartha-roy-podcast",
+        "seendate": "2026-11-03T05:00:40.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Tributes paid to ‘inspiring’ Cambridge scientist who died in Spain train crash",
         "summary": "Dr Marta Shahbazi was travelling to a conference to receive award for scientific excellence in developmental biologyAn “inspiring” Cambridge scientist died in the Spanish train collision on Wednesday that killed at least 69 people.Dr Mart",
@@ -404,22 +420,6 @@
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/science/2026/nov/02/permanent-damage-crysophere-overshoots-15c-scientists-warn",
         "seendate": "2026-11-02T00:01:25.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Perfume bottle and child’s necklace among treasures found in Pompeii wardrobe",
-        "summary": "Archaeologists uncover jewellery, cosmetics and coins in cabinet sealed since eruption of Mount Vesuvius in AD79Fragments of personal objects, from makeup tools and a perfume bottle to coins and a child’s necklace, have been found tucked away in a wooden wardrobe sealed off for almost 2,000 years in the ruins of Pompeii.The artifacts provide an intimate glimpse of daily life in the ancient Roman city",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/oct/30/perfume-bottle-child-necklace-pompeii-wardrobe",
-        "seendate": "2026-10-30T15:06:39.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "The Guardian view on 50 years of The Selfish Gene: flawed, outdated, yet still a model of truly popular science writing | Editorial",
-        "summary": "Richard Dawkins’ first work has thrilled fans and frustrated critics for five decades. The science has moved on, but any writer looking to supplant its place must learn its lessonsRichard Dawkins’ The Selfish Gene was not predicted to be a success. Its initial print run, published this week in 1976, was just 5,000. It went on to sell millions, and is perhaps the most influential work of pop-science ever. Fo",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/commentisfree/2026/oct/30/the-guardian-view-on-50-years-of-the-selfish-gene-flawed-outdated-yet-still-a-model-of-truly-popular-science-writing",
-        "seendate": "2026-10-30T17:56:07.000Z",
         "domain": "theguardian.com"
       }
     ]
