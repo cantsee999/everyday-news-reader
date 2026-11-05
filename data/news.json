@@ -1,8 +1,24 @@
 {
-  "generatedAt": "2026-11-04T02:48:13.270Z",
+  "generatedAt": "2026-11-05T02:56:29.274Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
+      {
+        "title": "British healthcare worker with Ebola evacuated from DR Congo to UK",
+        "summary": "Patient is ⁠in ​stable condition and will be transferred to a specialist ‘high consequence’ infectious disease unitA British healthcare worker with Ebola is being evacuated from the Democratic Republic of the Congo to the UK for medical treatment, it has been confirmed.“A British citizen currently in the DR Congo has tested positive for Ebola,” a spokesperson for the UK government said in a statement",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/nov/04/british-healthcare-worker-ebola-evacuated-drc-to-uk-document-shows",
+        "seendate": "2026-11-04T18:18:37.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "ANC faces anger over poor services as South Africans vote in local elections",
+        "summary": "Party expected to get less than a third of the vote amid frustration over water outages and power cutsThe African National Congress is on course for a bruising result in South Africa’s local elections on Wednesday as voters go to the polls amid deep discontent over water outages, power cuts and crumbling infrastructure.The former liberation movement, which Nelson Mandela led to power in 1994 at the e",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts",
+        "seendate": "2026-11-04T14:50:47.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
         "summary": "There is no end in sight for the drivers of illegal mining, while police action appears ineffectiveCora Bailey has been encountering illegal miners ever since she first started treating injured animals in the townships around Roodepoort, west of Johannesburg, in 1991. But as the price of gold has soared, so too has activity in the abandoned mine shafts that mark the area.In late September, dozens of",
@@ -25,27 +41,27 @@
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown",
         "seendate": "2026-10-28T14:16:24.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official",
-        "summary": "Jean Kaseya, of the Africa CDC, warns of the illness spreading like Covid unless more funding is secured to increase preparedness and possible treatmentThe “unprecedented” spread of the Ebola outbreak means it could reach the UK and other countries, according to one of Africa’s",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official",
-        "seendate": "2026-10-28T09:37:49.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
-        "summary": "Commanders suspected of sexual violence during the largest and fastest slaughter of civilians in more than 30 years have been subjected to travel ban and asset freezeSenior Sudanese commanders implicated in a “campaign of rape” have been targeted by the UK on the first anniversary of a <a href=\"https://www.theguardian.com/global-development/2026/mar/25/heroism-horror-and-the-pits-of-hell-inside-the-last-day",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of",
-        "seendate": "2026-10-26T15:07:23.000Z",
         "domain": "theguardian.com"
       }
     ],
     "conflict": [
       {
+        "title": "British healthcare worker with Ebola evacuated from DR Congo to UK",
+        "summary": "Patient is ⁠in ​stable condition and will be transferred to a specialist ‘high consequence’ infectious disease unitA British healthcare worker with Ebola is being evacuated from the Democratic Republic of the Congo to the UK for medical treatment, it has been confirmed.“A British citizen currently in the DR Congo has tested positive for Ebola,” a spokesperson for the UK government said in a statement",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/nov/04/british-healthcare-worker-ebola-evacuated-drc-to-uk-document-shows",
+        "seendate": "2026-11-04T18:18:37.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "ANC faces anger over poor services as South Africans vote in local elections",
+        "summary": "Party expected to get less than a third of the vote amid frustration over water outages and power cutsThe African National Congress is on course for a bruising result in South Africa’s local elections on Wednesday as voters go to the polls amid deep discontent over water outages, power cuts and crumbling infrastructure.The former liberation movement, which Nelson Mandela led to power in 1994 at the e",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts",
+        "seendate": "2026-11-04T14:50:47.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
         "summary": "There is no end in sight for the drivers of illegal mining, while police action appears ineffectiveCora Bailey has been encountering illegal miners ever since she first started treating injured animals in the townships around Roodepoort, west of Johannesburg, in 1991. But as the price of gold has soared, so too has activity in the abandoned mine shafts that mark the area.In late September, dozens of",
         "source": "theguardian.com",
@@ -68,31 +84,31 @@
         "url": "https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown",
         "seendate": "2026-10-28T14:16:24.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official",
-        "summary": "Jean Kaseya, of the Africa CDC, warns of the illness spreading like Covid unless more funding is secured to increase preparedness and possible treatmentThe “unprecedented” spread of the Ebola outbreak means it could reach the UK and other countries, according to one of Africa’s",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official",
-        "seendate": "2026-10-28T09:37:49.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
-        "summary": "Commanders suspected of sexual violence during the largest and fastest slaughter of civilians in more than 30 years have been subjected to travel ban and asset freezeSenior Sudanese commanders implicated in a “campaign of rape” have been targeted by the UK on the first anniversary of a <a href=\"https://www.theguardian.com/global-development/2026/mar/25/heroism-horror-and-the-pits-of-hell-inside-the-last-day",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of",
-        "seendate": "2026-10-26T15:07:23.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "economy": [
       {
-        "title": "‘In the trenches’: Wisconsin’s struggling small businesses could turn a Trump ally’s district blue",
-        "summary": "Affordability and small businesses’ economic woes feature heavily in the House race for Wisconsin’s third districtUS midterms 2026 live – latest updates<a href=\"https://www.theguardian.com/us-news/ng-interactive/2026/nov/03/midterm-elections-full-results-senate-house-governor-race",
+        "title": "US stocks rise, dollar slides as investors digest Democrats’ midterm victories",
+        "summary": "Government bond yields fall while initial fears ease over impact of election results on world’s biggest economyUS midterm elections – live updates<a href=\"https://www.theguardian.com/us-news/2026/nov/04/explainer-midterms-trump-us-global-",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/nov/03/small-business-economy-wisconsin-house-race",
-        "seendate": "2026-11-03T11:00:57.000Z",
+        "url": "https://www.theguardian.com/business/2026/nov/04/us-dollar-slides-democrats-midterm-election-win-growth-fears",
+        "seendate": "2026-11-04T16:38:28.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Trump blamed Fox News for Republican losses even as network’s hosts went easy on him",
+        "summary": "Fox News pundits hardly criticized the US president in midterms coverage but Trump was still quick to cast blameUS midterms 2026 live – latest updates<a href=\"https://www.theguardian.com/us-news/ng-interactive/2026/nov/03/midterm-election",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/nov/04/trump-blames-fox-news-republican-losses",
+        "seendate": "2026-11-04T12:30:29.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "CVS Health to split pharmacy chain from health insurance",
+        "summary": "CVS Pharmacy will be separate from CVS Health, housing major insurer Aetna and benefits manager CaremarkCVS Health, the largest US healthcare conglomerate valued at $117bn, has announced its plans split off its pharmacy chain from its health insurance and benefits businesses, ending an era in which healthcare companies grew into vast conglomera",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/nov/04/cvs-health-pharmacy-insurance",
+        "seendate": "2026-11-04T15:20:24.000Z",
         "domain": "theguardian.com"
       },
       {
@@ -110,208 +126,208 @@
         "url": "https://www.theguardian.com/technology/2026/nov/02/apple-third-quarter-revenue-earnings",
         "seendate": "2026-11-03T09:01:19.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Oil price falls amid hope of a breakthrough to end Iran war",
-        "summary": "Brent crude drops by more than 6% to $105.55 a barrel, the lowest level in more than two weeksThe oil price has fallen to its lowest level in more two weeks amid new hopes of a breakthrough to end the Iran war.Brent crude, the international benchmark, dropped by more than 6.5% to as low as $105.55 a barrel on Monday, the lowest since 16 October, sending shares in airline companies higher and pushing",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/nov/02/oil-price-falls-amid-hope-of-a-breakthrough-to-end-iran-war",
-        "seendate": "2026-11-02T17:14:23.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Texas voters on high gas prices under Trump: ‘Probably made me go more Democrat’",
-        "summary": "In state where driving is part of life, president’s pledge to lower prices at the pumps cuts little iceBehind the granite countertops of Fuel City, a gas station in Dallas where taxidermy deer flank the entrance and hot tacos are served 24/7, Alina Cardenas sees first-hand that Texans are stretched thin.Drivers are filling up less, she said, while ringing people up for cigarettes and beer, and fewer",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/nov/02/texas-voters-trump-fuel-prices",
-        "seendate": "2026-11-02T11:00:41.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "literature": [
       {
-        "title": "Lords of Serendipity by Randy Boyagoda review – a campus satire for this moment of crisis",
-        "summary": "This propulsive, globe-trotting tale brilliantly skewers the corruption and corporatisation of higher education It’s no secret that academia is on the blink; Canadian author Randy Boyagoda’s new novel, which is equal parts satire, dystopia and exposé, tells the story of all that’s wrong, glitchy and broken. Set across Sri Lanka, the United States and Italy, it centres on a cast of students, parents and prof",
+        "title": "‘Blockbuster’ history of Alexander the Great wins £50,000 Baillie Gifford prize",
+        "summary": "Alexander: God, King, Man by Edmund Richardson becomes the first ancient history title to win the prestigious nonfiction award• Alexander: God, King, Man by Edmund Richardson review – a dazzling, dizzying adventureEdmund Richardson has won the 2026 Baillie Giffor",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/nov/03/lords-of-serendipity-by-randy-boyagoda-review-a-campus-satire-for-this-moment-of-crisis",
-        "seendate": "2026-11-03T07:00:43.000Z",
+        "url": "https://www.theguardian.com/books/2026/nov/04/edmund-richardson-alexander-god-king-man-wins-baillie-gifford-prize",
+        "seendate": "2026-11-04T22:15:46.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘A trailblazer in the truest sense’: poet Grace Nichols wins £10,000 Pioneer prize",
-        "summary": "The Guyana-born, British-based writer takes home the Royal Society of Literature prize honouring women writers over 60 who have broken barriersThe poet Grace Nichols has been named the winner of the 2026 Royal Society of Literature Pioneer prize, a £10,000 award that recognises women writers over 60 who broke through at a time when the literary world was less open to them.Nichols, 76, who was born in",
+        "title": "‘He was destined for this award’: China Miéville wins Goldsmiths prize for 1,200-page novel",
+        "summary": "The Rouse, which took its author two decades to complete, was praised by judges as ‘exuberant, overflowing’China Miéville has won the £10,000 Goldsmiths prize for The Rouse, a 1,264-page epic that is part paranormal thriller, part historical saga moving through decades of British imperial and cold war history.The win, announced at a ceremony in London on Wednesday, makes The Rouse the longest novel t",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/nov/03/poet-grace-nichols-wins-pioneer-prize-royal-society-of-literature",
-        "seendate": "2026-11-03T14:46:05.000Z",
+        "url": "https://www.theguardian.com/books/2026/nov/04/china-mieville-wins-10000-goldsmiths-prize-for-the-rouse",
+        "seendate": "2026-11-04T20:00:43.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Citizen Kim by Jonathan Van Meter review – Kardashian under the microscope",
-        "summary": "The author gets a backstage pass to the personal life of the world’s most famous woman – but what do we really learn?The magazine writer Jonathan Van Meter profiles very famous people for extremely glossy publications. He was responsible for the notorious 1990 interview in which supermodel Linda Evangelista said she wouldn’t wake up for less than $10,000 a day, and in recent years, he has interviewed Taylor",
+        "title": "A Life in Fragments by Marina Litvinenko review – surviving Putin",
+        "summary": "Twenty years on from her husband’s murder, an extraordinary woman reflects on love and resilienceAmong the many images of violence that might be used to define Putin’s chilly reign, one stands out. The photo of the Russian dissident Alexander Litvinenko – gaze defiant, lying in intensive care –",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/nov/03/citizen-kim-by-jonathan-van-meter-review-kardashian-under-the-microscope",
-        "seendate": "2026-11-03T09:00:43.000Z",
+        "url": "https://www.theguardian.com/books/2026/nov/04/a-life-in-fragments-by-marina-litvinenko-review-intimate-testimony-of-putins-poisonous-regime",
+        "seendate": "2026-11-04T07:00:27.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Pay Attention by Laura Kuenssberg review – a BBC reporter’s howl of frustration",
-        "summary": "After more than two decades of studied neutrality, the journalist delivers some home truths about modern politicsLaura Kuenssberg always swore she would never write a book. Amid all the vitriol hurled her way, the BBC’s political editor turned presenter has largely kept her counsel. She rarely complained even when she&nbsp;needed security to do her job unobstructed at Labour party conference under Jeremy Co",
+        "title": "A Table for Fortune by William T Vollmann review – a hugely ambitious 3,000-page portrait of America’s decline",
+        "summary": "This insider’s history of the CIA explores the last 50 years of US foreign policy with granular detail and mordant humourThe 250th year of the American experiment seems to invite a reckoning. For a young country, the United States is overblessed – or burdened – with myths about its foundation and how the nation has conducted itself at home and abroad. William T Vollmann’s 3,000-page novel A Table for Fortun",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/nov/02/pay-attention-by-laura-kuenssberg-review-a-bbc-reporters-howl-of-frustration",
-        "seendate": "2026-11-02T07:00:35.000Z",
+        "url": "https://www.theguardian.com/books/2026/nov/04/a-table-for-fortune-by-william-t-vollmann-review-a-hugely-ambitious-3000-page-portrait-of-americas-decline",
+        "seendate": "2026-11-04T09:00:02.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "The Rhyl Poster by Tom McCarthy review – is this avant-garde spy drama worth the riddles?",
-        "summary": "The hallucinatory crisis of a war-scarred jurist with a painkiller dependency makes for frustrating readingOf the cohort of experimental novelists whose renown grew in the wake of the 2008 financial crash – names include Deborah Levy, <a href=\"https://www.theguardi",
+        "title": "Latest Sarah J Maas book becomes UK’s fastest-selling adult fantasy novel",
+        "summary": "A Court of Splintered Harmony also records biggest single week of sales since Harper Lee’s Go Set a Watchman in 2015Sarah J Maas’s long-awaited return to her bestselling romantasy series has smashed UK sales records, with A Court of Splintered Harmony becoming the fastest-selling adult fantasy novel since accurate records began in 1998.The novel, the sixth in Maas’s A Court of Thorns and Roses (Acota",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/nov/02/the-rhyl-poster-by-tom-mccarthy-review-is-this-avant-garde-spy-drama-worth-the-riddles",
-        "seendate": "2026-11-02T09:00:36.000Z",
+        "url": "https://www.theguardian.com/books/2026/nov/03/sarah-j-maas-court-of-splintered-harmony-uk-fastest-selling-adult-fantasy-novel",
+        "seendate": "2026-11-03T18:51:16.000Z",
         "domain": "theguardian.com"
       }
     ],
     "entertainment": [
       {
-        "title": "Jon Stewart on Haley Stevens’s betrayal in Michigan: ‘The most diabolical episode of Fargo I’ve ever seen’",
-        "summary": "On midterms eve, late-night hosts discussed an 11th-hour endorsement, as Trump focused on his reflecting poolOn the eve of the US midterm elections, late-night hosts mocked Donald Trump’s lack of focus on the campaigns, a <a href=\"https://www.theguardian.com/us-news/2026/",
+        "title": "A Dog’s Perfect Christmas review: Netflix kicks off holiday movie season with a whimper",
+        "summary": "Dennis Quaid is wasted in a predictable drama with a cute basset hound and not much moreUS election results may still be trickling in, but Netflix has already made the call: ’tis the season! Just four days into November, with leaves still on the trees and much of the country stuck in T-shirt weather, the streaming service has decided to hit full-send on the longest possible window for cookie-cutter cheer an",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/culture/2026/nov/03/late-night-roundup-jon-stewart-jimmy-kimmel-seth-meyers",
-        "seendate": "2026-11-03T16:44:31.000Z",
+        "url": "https://www.theguardian.com/film/2026/nov/04/a-dogs-perfect-christmas-review-netflix",
+        "seendate": "2026-11-04T21:14:40.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "They fell in love on The Simpsons and married in real life. Meet the French Homer and Marge",
-        "summary": "They have brought TV’s most famous cartoon couple to life in France for the last 38 years. Philippe Peythieu and Véronique Augereau tell all about working and living together for so long, still being lovebirds – and rarely arguingThe Simpsons is the biggest cartoon comedy in the world, with suburban couple Homer and Marge at its heart. From their beginnings as high-school sweethearts to the travails of marr",
+        "title": "Herbert Blomstedt, renowned conductor with a seven-decade career, dies aged 99",
+        "summary": "The much loved Swedish-American musician, particularly known for his work with the San Francisco Symphony and Leipzig Gewandhaus, continued performing until earlier this yearThe conductor Herbert Blomstedt has died aged 99. His career stretched over an extraordinary seven decades and he continued to conduct and tour into his late 90s; his final concert was earlier this year, aged 98.Born in Massachus",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/nov/03/the-simpsons-french-homer-marge-married-real-life-peythieu-augereau",
-        "seendate": "2026-11-03T14:33:12.000Z",
+        "url": "https://www.theguardian.com/music/2026/nov/04/herbert-blomstedt-renowned-conductor-with-a-seven-decade-career-dies-aged-99",
+        "seendate": "2026-11-04T16:54:44.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "China’s first AI-generated film is a flop. Some still see it as the future of cinema",
-        "summary": "Chinese investors placing high value on AI despite unpopularity of Sanxingdui: Future PastChina’s first fully AI-generated movie has flopped, earning just 1.7m yuan (£191,000) at the box office despite costing “tens of millions” to make, according to its producer.But is it any good? The Guardian watched Sanxingdui: Future Past in a virtually empty cinema in Beijing, and found it no worse than plenty",
+        "title": "Tinto Brass, director of Caligula and maestro of Euro erotica, dies aged 93",
+        "summary": "The cult Italian film-maker began as an assistant to Roberto Rossellini but moved into sex films, believing ‘eroticism to be a fundamental key to human expression’Italian film director Tinto Brass, who was once hailed as the “Antonioni of the 70s” but came to be better known for bringing Italian erotic cinema to a wider audience with films such as Caligula and Salon Kitty, has died aged 93.His wife C",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/nov/03/china-first-ai-generated-film-flops-cinema-future",
-        "seendate": "2026-11-03T14:32:54.000Z",
+        "url": "https://www.theguardian.com/film/2026/nov/04/tinto-brass-director-of-caligula-erotic-cinema-dies-aged-93",
+        "seendate": "2026-11-04T16:47:15.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘We’re all on constantly shifting sands’: the play capturing life during the US midterm elections",
-        "summary": "Playwright Richard Nelson’s acclaimed Rhinebeck Panorama series returns for another timely look at the fictional Apple family living in a divided AmericaRichard Nelson learned a great lesson, cliched as it is, late in his writing career: the thing you toss off without overthinking can end up being some of your life’s greatest work. In the program notes for We’ll See, the latest in what has become a 12-play",
+        "title": "Jimmy Kimmel on a midterm tsunami: ‘Trump’s run out of dipping sauce containers to throw at the TV’",
+        "summary": "The late-night host reacted to Democrats’ House and Senate victories and weighed in on what this means for TrumpOn his late-night show, Jimmy Kimmel weighed in on the midterm election results as they were happening, celebrating landmark wins for Democrats in key bat",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/stage/2026/nov/03/well-see-play-midterm-elections",
-        "seendate": "2026-11-03T11:00:56.000Z",
+        "url": "https://www.theguardian.com/culture/2026/nov/04/jimmy-kimmel-midterms-trump",
+        "seendate": "2026-11-04T15:37:46.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Carrie at 50: Brian De Palma’s fiery masterpiece still has the power",
-        "summary": "The Oscar-nominated 1976 adaptation of Stephen King’s high school horror remains heartbreaking and horrifying in equal measureOften when a pop culture figure, whether real or fictional or somewhere in between, is described as an eternal teenager, it refers to an image of youthful vitality. Carrie White, the wallflowery, telekinetic, sort-of heroine at the center of Stephen King’s book and its multiple adapt",
+        "title": "‘This is redemption time’: celebrities react to Democrats’ historic midterms sweep",
+        "summary": "After the party regained control of both houses of Congress, stars including Viola Davis, Bette Midler and John Cusack have been celebratingUS midterms 2026 live – latest updates<a href=\"https://www.theguardian.com/us-news/ng-interactive/",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/nov/03/carrie-movie-anniversary-stephen-king",
-        "seendate": "2026-11-03T10:00:45.000Z",
+        "url": "https://www.theguardian.com/culture/2026/nov/04/celebrities-react-us-midterms-democrats-sweep",
+        "seendate": "2026-11-04T14:40:33.000Z",
         "domain": "theguardian.com"
       }
     ],
     "f1": [
       {
-        "title": "Andrea Stella explains how qualifying destroyed McLaren’s Mexico GP: “We paid the price”",
-        "summary": "Having a podium-capable car means much less if you spend 71 laps hopelessly trapped in dirty air.That was the reality for McLaren at the Mexico City Grand Prix. A difficult Saturday qualifying session left the Woking garage entirely on the back foot, completely negating the raw race pace of its machinery. Because the thin air at high altitude makes cooling a nightmare and aerodynamically ...<a class='mor",
+        "title": "Max Verstappen brings “some samba” to Sao Paulo with Brazil-themed F1 helmet",
+        "summary": "Max Verstappen will race in the colours of Brazil at this weekend’s Sao Paulo Grand Prix after revealing a special helmet for the race.The Red Bull driver has replaced his usual red, white and blue with the green, yellow and blue of the Brazilian flag, sharing the design on Instagram alongside the following caption: “Bringing some samba to São Paulo.\" It is not the first time ...<a class='more' h",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/stella-explains-how-a-nightmare-qualifying-destroyed-mclarens-mexico-gp-we-paid-the-price/10871257/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-03T23:50:58.000Z",
+        "url": "https://www.motorsport.com/f1/news/max-verstappen-brings-some-samba-to-sao-paulo-with-brazil-themed-f1-helmet/10871580/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-05T00:20:58.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Charles Leclerc brushes off Lewis Hamilton clash: “I could be unhappy too”",
-        "summary": "The opening lap of the Mexico City Grand Prix featured an intense, intra-team battle within Ferrari.Battling for the race lead, Charles Leclerc and Lewis Hamilton traded heavy, aggressive blows through the opening sequence of corners. The scarlet cars squeezed each other to the absolute limit, ultimately resulting in an off-track excursion and a time penalty for the Monegasque ...<a class='more' href='ht",
+        "title": "Kimi Antonelli to honour Ayrton Senna with special helmet at Brazilian GP",
+        "summary": "Kimi Antonelli will arrive at Interlagos as the 2026 world champion this weekend, and he plans to use the occasion to pay tribute to his racing hero, Ayrton Senna.The Mercedes driver has confirmed he will wear a special helmet at the Brazilian Grand Prix in honour of Senna, marking 35 years since the Brazilian driver won his home race for the first time.\"I will have a special helmet for ...<a class='",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/charles-leclerc-brushes-off-lap-1-clash-with-furious-hamilton-i-could-be-unhappy-too/10871246/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-03T23:28:18.000Z",
+        "url": "https://www.motorsport.com/f1/news/kimi-antonelli-to-honour-ayrton-senna-with-special-helmet-at-brazilian-gp/10871582/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-05T00:19:06.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Colton Herta to run Cadillac FP1 in Brazil as FIA superlicense quest continues",
-        "summary": "Cadillac test driver Colton Herta will conduct his sixth Friday practice session of the F1 season at this weekend's Sao Paulo GP to collect his missing FIA superlicense point required to race in the series.Herta, who has been building up for an F1 campaign with private testing, FP1 sessions and a troubled F2 campaign, needs 40 points to obtain the required FIA superlicense. Cadillac believed ...<a class=",
+        "title": "Kimi Antonelli shares \"unforgettable\" Ayrton Senna moment after F1 title win",
+        "summary": "2026 Formula 1 champion Kimi Antonelli went from winning his maiden title to sitting in his hero's car in the space of two days.The Mercedes driver, who clinched the title at the Mexican Grand Prix last weekend, visited Ayrton Senna's family home on Tuesday ahead of the Brazilian Grand Prix. He shared a photo of himself in the cockpit of the iconic black and gold Lotus 98T that the three-time ...<a class",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/colton-herta-to-run-cadillac-fp1-in-brazil-as-fia-superlicense-quest-continues/10871403/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-03T23:01:56.000Z",
+        "url": "https://www.motorsport.com/f1/news/kimi-antonelli-shares-unforgettable-ayrton-senna-moment-after-f1-title-win/10871578/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-04T23:59:18.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Mercedes boss praises Antonelli’s masterclass while admitting they failed George Russell",
-        "summary": "The Brackley garage experienced the absolute extremes of motorsport at the Autodromo Hermanos Rodríguez. While the team successfully crowned the youngest world drivers' champion in Formula 1 history on Sunday, the engineering brass was simultaneously forced to publicly apologise to the other side of the garage for a mechanical failure.Trackside Engineering Director Andrew Shovlin was quick to ...<a class",
+        "title": "Mercedes to race in new suits at Brazil GP in nod to legendary era",
+        "summary": "The Mercedes team will look a little different at this weekend’s Sao Paulo Grand Prix, with world champion Kimi Antonelli and George Russell switching to purple race suits instead of their usual black and turquoise.The design was revealed on Tuesday at the Nubank Parque in Sao Paulo, the stadium of football club Palmeiras, as part of the team’s partnership with Brazilian bank Nubank. Both ...<a class='mo",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/mercedes-boss-praises-antonellis-masterclass-while-admitting-they-failed-george-russell/10871236/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-03T22:49:22.000Z",
+        "url": "https://www.motorsport.com/f1/news/mercedes-to-race-in-new-suits-at-brazil-gp-in-nod-to-legendary-era/10871575/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-04T23:55:57.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Rafa Camara to debut in F1 Brazil GP as Esteban Ocon out at Haas",
-        "summary": "The Haas F1 team has decided Esteban Ocon will not race again for the squad, with 2027 debutant Rafa Camara getting an early debut this weekend on home soil.Following increasingly strained relations between Ocon and the team, a heated argument in Mexico proved the final straw that made team principal Ayao Komatsu decide to bench the Frenchman. Reserve driver and Toyota protege Ryo Hirakawa ...<a class='m",
+        "title": "Laurent Mekies: Charles Leclerc’s penalty “felt a bit light”",
+        "summary": "Ferrari’s divisive opening lap at the Autódromo Hermanos Rodríguez provided the ultimate gift to their rivals. Charles Leclerc and Lewis Hamilton's desperate wheel-to-wheel clash at Turn 4 fundamentally altered the trajectory of the Mexico City Grand Prix, but the subsequent ruling from the FIA stewards left some on the pitwall severely underwhelmed.Watching the scarlet cars run ...<a class='more' href='",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/camara-to-debut-in-f1-brazil-gp-as-ocon-out-at-haas/10871372/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-03T20:43:22.000Z",
+        "url": "https://www.motorsport.com/f1/news/laurent-mekies-charles-leclercs-penalty-felt-a-bit-light/10871284/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-04T23:44:09.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "Bethesda's associate art director really did try to fit 7,000 actual steps into Skyrim's 7,000 Steps: 'I take no responsibility for the Frost Troll'",
-        "summary": "\"See that mountain? You can overanalyze it.\"",
+        "title": "The Elder Scrolls 6 is reportedly more than two years away, and some fans are not coping well",
+        "summary": "Theories that Bethesda is hinting at an earlier launch are already surfacing, and a few of them are pretty good.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/the-elder-scrolls/bethesdas-associate-art-director-really-did-try-to-fit-7-000-actual-steps-into-skyrims-7-000-steps-i-take-no-responsibility-for-the-frost-troll/",
-        "seendate": "2026-11-04T00:18:41.000Z",
+        "url": "https://www.pcgamer.com/games/the-elder-scrolls/the-elder-scrolls-6-is-reportedly-more-than-two-years-away-and-some-fans-are-not-coping-well/",
+        "seendate": "2026-11-05T00:18:02.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Valve admits it's 'running behind' on approving Steam games because it has to keep re-reviewing them, which surely has nothing to do with AI",
-        "summary": "As wishlisted games miss their release dates, Valve creates a new checklist to help devs get it right the first time.",
+        "title": "No GTA 6 November: Here's what you can play on PC instead",
+        "summary": "World of Warcraft: Forever, Warhammer Survivors, and a batch of fresh updates.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/valve-admits-its-running-behind-on-approving-steam-games-because-it-has-to-keep-re-reviewing-them-which-surely-has-nothing-to-do-with-ai/",
-        "seendate": "2026-11-03T23:51:13.000Z",
+        "url": "https://www.pcgamer.com/games/november-games-2026/",
+        "seendate": "2026-11-04T23:37:01.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Google criticized by NYC mayor Zohran Mamdani following AI policy change: 'Google is trying to use its monopoly power to force AI into our public schools'",
-        "summary": "Mamdani and others have called out Google's decision to disable search functionality for schools who opt out of its AI tools.",
+        "title": "Data centers were some of the biggest losers in last night's US midterm elections",
+        "summary": "Voters across the country opted for nearly every local ballot measure that would curb the rate of data center expansion.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/software/ai/google-criticized-by-nyc-mayor-zohran-mamdani-following-ai-policy-change-google-is-trying-to-use-its-monopoly-power-to-force-ai-into-our-public-schools/",
-        "seendate": "2026-11-03T22:58:03.000Z",
+        "url": "https://www.pcgamer.com/gaming-industry/data-centers-were-some-of-the-biggest-losers-in-last-nights-us-midterm-elections/",
+        "seendate": "2026-11-04T21:10:10.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Control Resonant is Remedy's fastest-selling game to date, tripling the studio's quarterly revenue",
-        "summary": "Countless sickos of a certain vintage just breathed sighs of relief.",
+        "title": "French game union accuses Microsoft of 'sabotaging' Blade and then using the fallout to justify closing Arkane",
+        "summary": "The STJV union says Microsoft imposed hiring freezes at Arkane that resulted in delays and additional expenses, which it then cited as reasons for shutting it down.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/action/control-resonant-is-remedys-fastest-selling-game-to-date-tripling-the-studios-quarterly-revenue/",
-        "seendate": "2026-11-03T21:54:41.000Z",
+        "url": "https://www.pcgamer.com/gaming-industry/french-game-union-accuses-microsoft-of-sabotaging-blade-and-then-using-the-fallout-to-justify-closing-arkane/",
+        "seendate": "2026-11-04T20:51:28.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Crowning the greatest FPS mode of all time through 1v1 combat—SEMIFINALS!",
-        "summary": "Battle royale is dead. Bomb be gone. It only gets harder from here...",
+        "title": "Former Halo composer Marty O'Donnell loses election, then gets absolutely bodied by his opponent: 'The fight is finished'",
+        "summary": "Susie Lee has clearly been waiting for this moment.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/fps/crowning-the-greatest-fps-mode-of-all-time-through-1v1-combat-semifinals/",
-        "seendate": "2026-11-03T19:41:04.000Z",
+        "url": "https://www.pcgamer.com/games/former-halo-composer-marty-odonnell-loses-election-then-gets-absolutely-bodied-by-his-opponent-the-fight-is-finished/",
+        "seendate": "2026-11-04T19:21:48.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
       {
-        "title": "Food suppliers in UK hit by cyber-attacks after freezers targeted in Europe",
-        "summary": "Cybersecurity experts say national impact ‘minimal’ but incidents may represent the ‘foothills’ of a wider threat Food suppliers in the UK have been hit by cyber-attacks after hackers raised the temperatures of supermarket freezers across Europe.The UK’s National Cyber Security Centre (NSCS) said it was working with the affected companies but the national impact was minimal. <a href=\"https://www.",
+        "title": "UK to deploy facial recognition in biggest-ever immigration crackdown",
+        "summary": "Documents show Home Office developing programme to use technology for general immigration enforcementThe Home Office is preparing to deploy facial recognition technology at transport hubs and public events as part of the biggest immigration enforcement crackdown in British history.Policy documents show the government has been developing a programme to deploy live facial recognition (LFR) cameras for",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/nov/03/uk-meat-processing-firms-fridges-heat-up-cyber-attacks",
-        "seendate": "2026-11-03T17:28:49.000Z",
+        "url": "https://www.theguardian.com/technology/2026/nov/04/uk-deploy-facial-recognition-biggest-ever-immigration-crackdown",
+        "seendate": "2026-11-04T12:15:31.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Binance battles to save its brand after record $6.3bn crypto hack",
-        "summary": "World’s largest crypto exchange faces fallout from angry customers, and Lula wins with WhatsAppThis was originally published in TechScape, a newsletter about how technology shapes our lives. Sign up to receive it hereThis week in",
+        "title": "Hackers behind $6.3bn Binance heist ‘used malware and bogus job interviews’",
+        "summary": "Firm reveals details about how its cryptocurrency exchange was compromised, saying operation began in JuneThe hackers behind the $6.3bn (£4.7bn) Binance heist used bogus job interviews, malicious software and an internal AI tool, the company has revealed.The world’s largest cryptocurrency exchange was compromi",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/nov/02/binance-cryptocurrency-exchange-hack",
-        "seendate": "2026-11-03T14:45:30.000Z",
+        "url": "https://www.theguardian.com/business/2026/nov/03/hackers-63bn-binance-heist-malware-bogus-job-interviews-cryptocurrency",
+        "seendate": "2026-11-03T19:00:23.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "French blood banks hacked in latest cyber-attack on Europe",
+        "summary": "Temperature and defrosting thresholds raised to ‘very high levels’ at three cold stores stocking vital blood productsFrance’s national blood service has said hackers accessed control systems and boosted temperatures at three cold stores stocking vital blood products, in an apparent escalation of recent cyber-attacks on fridges and freezers across Europe.<a href=\"https://presse.efs.sante.fr/actualites",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/nov/04/france-national-blood-service-hack-cyber-attack-europe",
+        "seendate": "2026-11-04T13:22:28.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "AI ‘godfather’ Geoffrey Hinton: it might turn out we were better off without AI",
+        "summary": "Nobel winner warns the tech could be near to triggering major incident such as power or banking shutdownOne of the “godfathers of AI”, Geoffrey Hinton, has said it could turn out that humans would have been better off never developing the technology as he warned it could trigger a large-scale incident this year or next, such as a temporary blackout of financial or power systems.The Nobel prize-winnin",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+        "seendate": "2026-11-03T21:35:42.000Z",
         "domain": "theguardian.com"
       },
       {
@@ -320,22 +336,6 @@
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/business/2026/nov/03/uk-drax-power-station-ai-datacentre",
         "seendate": "2026-11-03T11:55:28.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "‘A serious failure’: CPS prosecutor cites imaginary case to high court after AI search",
-        "summary": "Exclusive: Nonexistent precedent cited in alleged child rape case adds to dozens of AI-related errors plaguing court proceedingsA senior crown prosecutor acting in a high court case cited an imaginary legal precedent in an error that has sparked fresh concerns about AI hallucinations infecting the justice system.Ravinder Dhillon, representing the Crown Prosecution Service (CPS), referenced an entirel",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/nov/03/a-serious-failure-cps-prosecutor-cites-imaginary-case-to-high-court-after-ai-search",
-        "seendate": "2026-11-03T06:00:40.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Apple warns of ‘unprecedented’ rise in memory chip prices",
-        "summary": "iPhone maker says decision to raise prices has offset some of impact, as revenues are stronger than expectedBusiness live – latest updatesApple has warned of an “unprecedented” rise in memory chip prices",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/nov/02/apple-third-quarter-revenue-earnings",
-        "seendate": "2026-11-03T09:01:19.000Z",
         "domain": "theguardian.com"
       }
     ],
@@ -383,6 +383,30 @@
     ],
     "science": [
       {
+        "title": "Nasa telescope launched in 2004 to plunge back to Earth after failed rescue mission",
+        "summary": "Neil Gehrels Swift Observatory is expected to re-enter Earth’s atmosphere Wednesday, burning up in the processNasa’s Neil Gehrels Swift Observatory, which has spent two decades studying the most powerful explosions in the cosmos, is expected to re-enter the Earth’s atmosphere on Wednesday, burning up in the process.The satellite, which was design",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/nov/03/nasa-telescope-neil-gehrels-swift-observatory",
+        "seendate": "2026-11-03T19:50:27.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Why pharma firms are going to Earth’s orbit in search of new cancer drugs",
+        "summary": "A space capsule 300 miles above us is growing the tiny crystals of a potential cancer drug in microgravityRoughly 300 miles above our heads, three washing machine-sized capsules are orbiting the Earth. Inside one of them, tiny crystals of a potential cancer drug are being grown in the weightlessness of space. The others are testing heat protection materials and navigation systems for when the capsules plung",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/nov/04/us-firm-varda-space-industries-manufacturing-drugs-in-space",
+        "seendate": "2026-11-04T06:00:27.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "The night-sky image so incredible the NZ man behind it has been accused of using AI",
+        "summary": "Brendan Larsen spent hours taking hundreds of photographs of the sky over a mountain in New ZealandA photograph showing thousands of satellites cross-hatching the night sky over New Zealand appeared so extraordinary the astrophotographer who captured it is fighting accusations it was created by AI.To create his spectacular image – now viewed millions of times <a href=\"https://www.instagram.com/brenda",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/nov/04/viral-image-nz-night-sky-satellites-accused-of-being-ai-brendan-larsen",
+        "seendate": "2026-11-04T00:29:51.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Fossilised red blood cells found in 115m-year-old dinosaur’s bone, say scientists",
         "summary": "Chemical tests on Aratasaurus bone identify presence of heme, the organic compound that allows haemoglobin in blood to carry oxygen around bodyIt could be the opening of a Jurassic Park rip-off: scientists examining ancient dinosaur bones find what appear to be fossilised red blood cells, and traces of the molecule that gives the beast’s blood its distinctive crimson hue.But that is what researchers",
         "source": "theguardian.com",
@@ -396,30 +420,6 @@
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/science/audio/2026/nov/03/us-flint-water-crisis-dr-siddhartha-roy-podcast",
         "seendate": "2026-11-03T05:00:40.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Tributes paid to ‘inspiring’ Cambridge scientist who died in Spain train crash",
-        "summary": "Dr Marta Shahbazi was travelling to a conference to receive award for scientific excellence in developmental biologyAn “inspiring” Cambridge scientist died in the Spanish train collision on Wednesday that killed at least 69 people.Dr Mart",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/nov/01/tributes-marta-shahbazi-university-of-cambridge-scientist-spanish-train-crash",
-        "seendate": "2026-11-01T19:36:46.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Starwatch: Catch the striking trifecta of Venus, the moon and Spica at break of dawn",
-        "summary": "The brilliant planet is about to join the waning crescent moon and the brightest star in the Virgo constellation Early risers have a beautiful sight to look forward to this week as brilliant Venus joins the waning crescent moon and the star Spica in the morning sky.The chart shows the view looking east-south-east from London at 0600 GMT on 7 November. Venus will be the easiest object to identify, shi",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/nov/02/starwatch-catch-the-striking-trifecta-of-venus-the-moon-and-spica-at-break-of-dawn",
-        "seendate": "2026-11-02T06:00:34.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Cryosphere faces permanent damage when world overshoots 1.5C, scientists warn",
-        "summary": "UN-backed report finds even temporary rises above Paris agreement target could cause harm to glaciers and polar ice sheetsEarth’s icy regions face such dangerous melting that global heating should be brought back below 1C after an inevitable period of overshooting global temperature targets, a UN report has found.Permanent and widespread losses of snow and ice expose a “persistent myth” that overshoo",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/nov/02/permanent-damage-crysophere-overshoots-15c-scientists-warn",
-        "seendate": "2026-11-02T00:01:25.000Z",
         "domain": "theguardian.com"
       }
     ]
