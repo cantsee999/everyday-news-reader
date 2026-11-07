@@ -1,8 +1,24 @@
 window.NEWS_CACHE = {
-  "generatedAt": "2026-11-06T02:56:43.719Z",
+  "generatedAt": "2026-11-07T02:26:41.641Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
+      {
+        "title": "Kenyan doomsday sect leader jailed for 200 years for murder of 190 children",
+        "summary": "Paul Mackenzie convicted over deaths of children and one adult after followers were ordered to starve themselves and their familiesThe leader of a Kenyan doomsday sect has been sentenced to 200 years in prison for the murders of 190 children and one adult in one of the world’s worst cult disasters in recent history.The sentence, comprising 100 years for murder by starvation and 100 years by direct ho",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie",
+        "seendate": "2026-11-06T15:08:43.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "ANC faces bruising defeat in South African local elections with 80% of ballots counted",
+        "summary": "Former liberation movement’s share of national vote almost 14 percentage points below 2021 resultThe African National Congress is on course to suffer a bruising defeat in South Africa’s local elections, with the once dominant party of Nelson Mandela falling to under a third of the vote nationally with more than 80% of ballots counted.Wednesday’s fragmented vote marks another stage in the decline of t",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/nov/06/anc-faces-defeat-south-african-local-elections",
+        "seendate": "2026-11-06T12:48:37.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "British healthcare worker with Ebola evacuated from DR Congo to UK",
         "summary": "Patient is ⁠in ​stable condition and will be transferred to a specialist ‘high consequence’ infectious disease unitA British healthcare worker with Ebola is being evacuated from the Democratic Republic of the Congo to the UK for medical treatment, it has been confirmed.“A British citizen currently in the DR Congo has tested positive for Ebola,” a spokesperson for the UK government said in a statement",
@@ -25,27 +41,27 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/business/2026/oct/30/sinkholes-scarred-land-scapegoats-illegal-gold-mining-johannesburg",
         "seendate": "2026-10-30T05:00:45.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Sudanese diaspora and human rights groups denounce UAE nominee for UN top job",
-        "summary": "Critics cite Lana Nusseibeh’s denial of accusations the UAE is fuelling Sudan war by supporting paramilitary RSFMembers of the Sudanese diaspora and international human rights monitors have denounced the candidature of an Emirati diplomat for the top job at the UN, citing her denial of accusations that the United Arab Emirates is fuelling the war in Sudan by supporting the paramilitary Rapid Support Forces.",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/oct/30/sudanese-diaspora-human-rights-groups-denounce-uae-nominee-un-top-job",
-        "seendate": "2026-10-30T05:00:45.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr",
-        "summary": "Warnings of escalating clampdown on press freedom come after Cairo court convicts Attalah of managing an unlicensed websiteLina Attalah, a prominent Egyptian journalist and the editor-in-chief of the news outlet Mada Masr, has been released from detention by Egypt’s authorities and had her website ordered to be shut down by a court amid an intensifying crackdown on independent media in the country.At",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown",
-        "seendate": "2026-10-28T14:16:24.000Z",
         "domain": "theguardian.com"
       }
     ],
     "conflict": [
       {
+        "title": "Kenyan doomsday sect leader jailed for 200 years for murder of 190 children",
+        "summary": "Paul Mackenzie convicted over deaths of children and one adult after followers were ordered to starve themselves and their familiesThe leader of a Kenyan doomsday sect has been sentenced to 200 years in prison for the murders of 190 children and one adult in one of the world’s worst cult disasters in recent history.The sentence, comprising 100 years for murder by starvation and 100 years by direct ho",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie",
+        "seendate": "2026-11-06T15:08:43.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "ANC faces bruising defeat in South African local elections with 80% of ballots counted",
+        "summary": "Former liberation movement’s share of national vote almost 14 percentage points below 2021 resultThe African National Congress is on course to suffer a bruising defeat in South Africa’s local elections, with the once dominant party of Nelson Mandela falling to under a third of the vote nationally with more than 80% of ballots counted.Wednesday’s fragmented vote marks another stage in the decline of t",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/nov/06/anc-faces-defeat-south-african-local-elections",
+        "seendate": "2026-11-06T12:48:37.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "British healthcare worker with Ebola evacuated from DR Congo to UK",
         "summary": "Patient is ⁠in ​stable condition and will be transferred to a specialist ‘high consequence’ infectious disease unitA British healthcare worker with Ebola is being evacuated from the Democratic Republic of the Congo to the UK for medical treatment, it has been confirmed.“A British citizen currently in the DR Congo has tested positive for Ebola,” a spokesperson for the UK government said in a statement",
         "source": "theguardian.com",
@@ -68,31 +84,31 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/business/2026/oct/30/sinkholes-scarred-land-scapegoats-illegal-gold-mining-johannesburg",
         "seendate": "2026-10-30T05:00:45.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Sudanese diaspora and human rights groups denounce UAE nominee for UN top job",
-        "summary": "Critics cite Lana Nusseibeh’s denial of accusations the UAE is fuelling Sudan war by supporting paramilitary RSFMembers of the Sudanese diaspora and international human rights monitors have denounced the candidature of an Emirati diplomat for the top job at the UN, citing her denial of accusations that the United Arab Emirates is fuelling the war in Sudan by supporting the paramilitary Rapid Support Forces.",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/oct/30/sudanese-diaspora-human-rights-groups-denounce-uae-nominee-un-top-job",
-        "seendate": "2026-10-30T05:00:45.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr",
-        "summary": "Warnings of escalating clampdown on press freedom come after Cairo court convicts Attalah of managing an unlicensed websiteLina Attalah, a prominent Egyptian journalist and the editor-in-chief of the news outlet Mada Masr, has been released from detention by Egypt’s authorities and had her website ordered to be shut down by a court amid an intensifying crackdown on independent media in the country.At",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown",
-        "seendate": "2026-10-28T14:16:24.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "economy": [
       {
-        "title": "Nasdaq sees worst day in 18 months as investors bet on AI slowdown after Democrats’ election triumph",
-        "summary": "Nearly $2tn shaved off Nasdaq value as worries of curbs to AI datacenters ripple across boursesThe Nasdaq share index had its worst day in 18 months after slumping 5.5% on Thursday amid growing signs that the artificial intelligence industry will face tougher regulation because of the midterm election</a",
+        "title": "US job growth exceeds expectations in October despite economic uncertainty",
+        "summary": "‘Low-hire, low-fire’ labor market shows sluggish growth but few layoffs, with an interest rate hike expected in DecemberThe US added 165,000 jobs to the economy in October, a sign of resilience in the labor market amid ongoing war in the Middle East and inflation, according to new data released on Friday.Economists had said the labor market has been stuck in a “low-hire, low-fire” state, in which job",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/nov/05/nasdaq-heading-for-worst-day-in-18-months-as-wall-street-sustains-widespread-losses",
-        "seendate": "2026-11-05T21:23:18.000Z",
+        "url": "https://www.theguardian.com/business/2026/nov/06/us-job-growth-october",
+        "seendate": "2026-11-06T13:42:26.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Could the AI bubble burst after Democrats' midterms sweep? - The Latest",
+        "summary": "Global tech stocks have plunged after the Democrats’ victory in the US midterm elections, with fears of a slowdown in AI development. Major tech corporations including Apple, Tesla and Nvidia shed about $1tn in a single trading session. Is this stock market jitters, or a sign the AI bubble might be about to burst? Lucy Hough speaks to senior economics correspondent Richard Partington <a href=\"https://www.thegu",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/news/video/2026/nov/06/could-the-ai-bubble-burst-after-democrats-midterms-sweep-the-latest",
+        "seendate": "2026-11-06T17:04:41.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Tesla to wind down Cybertruck production as Elon Musk focuses on robotics and AI",
+        "summary": "Decision made in order for factory in Texas to be used for Cybercab, the carmaker’s self-driving taxiElon Musk has announced that Tesla will wind down production of its Cybertruck, marking the end of a failed effort to take a chunk of the lucrative market for pickups in the US.The billionaire chief executive said production of the car would stop in about the middle of next year at the company’s facto",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai",
+        "seendate": "2026-11-06T12:38:05.000Z",
         "domain": "theguardian.com"
       },
       {
@@ -110,25 +126,41 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/business/2026/nov/04/us-dollar-slides-democrats-midterm-election-win-growth-fears",
         "seendate": "2026-11-04T16:38:28.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Trump blamed Fox News for Republican losses even as network’s hosts went easy on him",
-        "summary": "Fox News pundits hardly criticized the US president in midterms coverage but Trump was still quick to cast blameUS midterms 2026 live – latest updates<a href=\"https://www.theguardian.com/us-news/ng-interactive/2026/nov/03/midterm-elections-full-results-sena",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/nov/04/trump-blames-fox-news-republican-losses",
-        "seendate": "2026-11-04T12:30:29.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "CVS Health to split pharmacy chain from health insurance",
-        "summary": "CVS Pharmacy will be separate from CVS Health, housing major insurer Aetna and benefits manager CaremarkCVS Health, the largest US healthcare conglomerate valued at $117bn, has announced its plans split off its pharmacy chain from its health insurance and benefits businesses, ending an era in which healthcare companies grew into vast conglomera",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/nov/04/cvs-health-pharmacy-insurance",
-        "seendate": "2026-11-04T15:20:24.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "literature": [
+      {
+        "title": "Nikita Gill: ‘I read Flowers in the Attic too young. Someone should have stopped me’",
+        "summary": "The Indian-Irish poet on the Mahabharata retelling that inspired her to write, Arundhati Roy’s courage, and the poetry of Lucille CliftonMy earliest reading&nbsp;memory My father was a sailor and my mother a teacher. They were both voracious readers. I was lucky enough to come from a home full of books and when we joined my father out at sea for extended periods of time, my mother carri",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/nov/06/nikita-gill-i-read-flowers-in-the-attic-too-young-someone-should-have-stopped-me",
+        "seendate": "2026-11-06T10:00:50.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Russell Brand books withdrawn by UK publishers after his conviction for rape and sexual assault",
+        "summary": "Pan Macmillan and Hodder &amp; Stoughton have both confirmed that work by the comedian and writer will be pulled, and other publishers’ books are no longer availableTwo major British publishers have confirmed they have pulled Russell Brand’s books from sale after he was convicted of rape and sexual assault.The comedian and author, 51, was <a href=\"https://www.theguardian.com/culture/2026/nov/05/russe",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/nov/06/russell-brand-books-withdrawn-uk-publishers-conviction-rape-sexual-assault",
+        "seendate": "2026-11-06T16:56:12.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "True North by Paul Theroux review – an American’s view of Canada",
+        "summary": "The veteran travel writer turns his eye for detail on his northern neighbour and its peoplePaul Theroux’s arrival in Canada doesn’t go well. An immigration officer called Sweeney finds a small pocketknife in his car and fines him $500 for failing to declare a weapon. “I’m going to make you famous,” he angrily tells her, stumping up. Maybe he will, with this book. Canadians are reputed to be polite and easyg",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/nov/06/true-north-by-paul-theroux-review-an-americans-view-of-canada",
+        "seendate": "2026-11-06T07:00:47.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "The best recent poetry – review roundup",
+        "summary": "The Universe is an Animal by Jessica Mookherjee; Sleep Gate by Sylvia Legris; The Other Love by Henri Cole; Stay Winter by Nidhi Zak/Aria Eipe The Universe Is an Animal by Jessica Mookherjee (Nine Arches, £11.99) In this confident an",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/nov/06/the-best-recent-poetry-review-roundup",
+        "seendate": "2026-11-06T12:00:41.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Where to start with: John Berger",
         "summary": "The influential British writer and critic was born 100 years ago today. Here’s a guide to his genre-bending writing on art, love, sex, mortality and moreJohn Berger was born a hundred years ago today. He was an artist, critic, novelist, poet, polemicist and playwright who made impassioned, idiosyncratic, fiercely attentive and deeply humane contributions to a swathe of artistic and intellectual disciplines",
@@ -136,210 +168,202 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/books/2026/nov/05/where-to-start-with-john-berger",
         "seendate": "2026-11-05T12:30:23.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Winner of the Prix Goncourt literary prize admits to using AI",
-        "summary": "Philippe Jaenada told French radio that he used ChatGPT to ‘play with the reader’, after the prize removed a different book from its longlist over allegations of AI useThe winner of France’s most prestigious literary prize has admitted using artificial intelligence while writing his novel, barely a day after collecting an award whose jury had thrown out another book over suspected AI use.Philippe Jae",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/nov/05/winner-of-the-prix-goncourt-literary-prize-admits-to-using-ai-philippe-jaenada",
-        "seendate": "2026-11-05T18:08:58.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "American Hagwon by Min Jin Lee review – a gloriously immersive follow-up to Pachinko",
-        "summary": "A Korean family is willing to sacrifice everything for their children’s education, in the third book in Lee’s Diaspora Quartet“An excellent hagwon,” according to one of the characters in Min&nbsp;Jin Lee’s new novel, “is&nbsp;everything.” Every year, Korean parents pay hefty sums to send their children to these private after-school academies designed to turbocharge academic performance, where they spend eve",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/nov/05/american-hagwon-by-min-jin-lee-review-a-gloriously-immersive-follow-up-to-pachinko",
-        "seendate": "2026-11-05T07:00:58.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Feminism for a World on Fire by Natasha Walter audiobook review – an urgent call for collective action",
-        "summary": "The writer and activist finds galvanising energy in grassroots initiatives in the face of inequality and the climate crisis‘Throughout the world confidence in progress has shattered,” notes Natasha Walter. “The certainty – even the hope – that human rights equality might be within everyone’s reach has disintegrated … Everywhere in the world, from west to east, south to north, women are struggling to win and",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/nov/05/feminism-for-a-world-on-fire-by-natasha-walter-audiobook-review-an-urgent-call-for-collective-action",
-        "seendate": "2026-11-05T15:00:26.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Alexander: God, King, Man by Edmund Richardson review – a dazzling, dizzying adventure",
-        "summary": "The winner of the 2026 Baillie Gifford prize is a riveting work of ancient history that feels startlingly present• ‘Blockbuster’ history of Alexander the Great wins £50,000 Baillie Gifford prizeIn 336BC, Alexander was not great. He was a wiry 20-year-old “no one had thought",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/nov/04/alexander-god-king-man-by-edmund-richardson-review-dazzling-dizzying-adventure",
-        "seendate": "2026-11-04T22:15:45.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "entertainment": [
       {
-        "title": "K-pop group NewJeans’s contract omitted rights to ‘sleep and free choice’ – report",
-        "summary": "New report finds that record label Ador stripped child protections from group’s contracts when they were minorsThe superstar K-pop group NewJeans signed restrictive record label contracts that waived their right to “sleep, rest and free choice”.A new report from the New York Times found that the contra",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/music/2026/nov/05/k-pop-group-newjeans-contract",
-        "seendate": "2026-11-05T17:08:29.000Z",
-        "domain": "theguardian.com"
+        "title": "Meghan father in court charged with possessing child sex abuse images",
+        "summary": "The 82-year-old. who was arrested after FBI agents searched two storage units, faces at least 20 years behind bars if convicted.",
+        "source": "northsomersettimes.co.uk",
+        "url": "https://www.northsomersettimes.co.uk/news/national/26708100.meghans-father-court-charged-possessing-child-sex-abuse-images/",
+        "seendate": "20261107T020000Z",
+        "domain": "northsomersettimes.co.uk"
       },
       {
-        "title": "Russell Brand faces ‘significant’ prison term for rape and sexual assault",
-        "summary": "Actor and comedian, 51, found guilty of raping a woman and assaulting three othersFlashbulbs, lies and victim blaming: how Russell Brand’s trial unfolded<a href=\"https://www.theguardian.com/culture/2026/nov/05/the-downfall-of-russell-brand-from-big-brothe",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/culture/2026/nov/05/russell-brand-found-guilty-rape-sexual-assault",
-        "seendate": "2026-11-05T17:03:15.000Z",
-        "domain": "theguardian.com"
+        "title": "Justin Timberlake Recalls Being Told One Of His Biggest Hits  Wasnt Going To Work  ",
+        "summary": "The musician recounted the moment as \"an experience of trusting your gut.\"",
+        "source": "985thecat.iheart.com",
+        "url": "https://985thecat.iheart.com/content/2026-11-06-justin-timberlake-recalls-being-told-one-of-his-biggest-hits-wasnt-going-to-work/",
+        "seendate": "20261107T020000Z",
+        "domain": "985thecat.iheart.com"
       },
       {
-        "title": "‘A hero’s origins’: the true story of the first drag queen presidential candidate",
-        "summary": "In off-Broadway show Ms Blakk for President, Oscar-winning Moonlight writer Tarell Alvin McCraney explores a slice of underappreciated queer historyAt the height of the Aids crisis, the Chicago activist Terence Alan Smith put on his drag persona, Joan Jett Blakk, and announced she was running for president. Her slogan: “Lick Bush in ’92!” Her platform: fire e",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/stage/2026/nov/05/ms-blakk-for-president-play",
-        "seendate": "2026-11-05T15:07:32.000Z",
-        "domain": "theguardian.com"
+        "title": "Is Ella Langley Joining Miranda Lambert for Cowboys Halftime ? ",
+        "summary": "Miranda Lambert heads home to Texas for the Cowboys Thanksgiving halftime show, and the Ella Langley buzz is already building. Two voices, one stage, a whole lot of maybe.",
+        "source": "klaw.com",
+        "url": "https://klaw.com/ixp/204/p/ella-langley-miranda-lambert-cowboys-halftime/",
+        "seendate": "20261107T020000Z",
+        "domain": "klaw.com"
       },
       {
-        "title": "Seth Meyers on the midterms ‘blue tsunami’: ‘Say hello to the shy woke voter in Texas’",
-        "summary": "Late-night hosts discussed Democrats’ runaway success, while Trump shirked responsibility for Republican lossesLate-night hosts reacted to Democrats’ rout of Republicans in midterm <a href=\"https://www.theguardian.com/us-news/2026/nov/05/democrats-state-legislatures-midterm",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/culture/2026/nov/05/seth-meyers-midterms-trump",
-        "seendate": "2026-11-05T15:32:20.000Z",
-        "domain": "theguardian.com"
+        "title": "Meghan father to be tagged after court appearance over child sex abuse images",
+        "summary": "The 82-year-old, who was arrested after the FBI searched storage units he rented, faces at least 20 years in prison if convicted.",
+        "source": "thetottenhamindependent.co.uk",
+        "url": "https://www.thetottenhamindependent.co.uk/news/national/26708144.meghans-father-tagged-court-appearance-child-sex-abuse-images/",
+        "seendate": "20261107T020000Z",
+        "domain": "thetottenhamindependent.co.uk"
       },
       {
-        "title": "Is that an explosion, an implosion or an orgasm? Pixies bass-player Emma Richardson’s realm-leaping life in painting",
-        "summary": "Huge, ecstatic canvases are just one of the vocations of the musician who joined the art rockers in 2024. As her show Hotwire My Heart opens, she talks terror, awe and teabagsEmma Richardson loves to eavesdrop when people look at her paintings and talk about what they see in them. “They turn into these Rorschach inkblot tests,” she grins. Looking at her works, you do stand back in awe wondering. Is that a n",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/artanddesign/2026/nov/05/emma-richardson-paintings-pixies-hotwire-my-heart-wolf-collective",
-        "seendate": "2026-11-05T14:12:43.000Z",
-        "domain": "theguardian.com"
+        "title": "  What Happened to Nina ? Author # 1 Bestseller Officially Heads to TV",
+        "summary": "Dervla McTiernan’s No. 1 thriller Three Reasons for Revenge is heading to TV, with Easy Tiger securing the rights and Shaun Grant writing.",
+        "source": "collider.com",
+        "url": "https://collider.com/three-reasons-for-revenge-dervla-mctiernan-tv-series/",
+        "seendate": "20261107T020000Z",
+        "domain": "collider.com"
       }
     ],
     "f1": [
       {
-        "title": "Mercedes held its breath over Kimi Antonelli’s title-winning move on Charles Leclerc",
-        "summary": "All Kimi Antonelli needed to do at the Mexico City Grand Prix was finish ninth. Instead, the new world champion chose to clinch the title with a late-braking lunge on Charles Leclerc into Turn 1, and not everyone at Mercedes was comfortable watching it.Speaking on the Nu Silver Arrows Radio Show, Antonelli revealed that some members of the team questioned why he had taken the risk, with the ...<a class='",
+        "title": "Lando Norris reveals how Lewis Hamilton has changed his F1 championship ambitions",
+        "summary": "Lando Norris says Lewis Hamilton's seven Formula 1 world titles have left him dissatisfied with winning just one.Norris won his maiden championship in 2025 after a hard-fought battle against his McLaren team-mate Oscar Piastri and a late-season threat from Red Bull's Max Verstappen.Hamilton will make his 400th grand prix start this weekend in Brazil and Norris was asked to sum up his ...<a class='mor",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/kimi-antonelli-reveals-the-dark-2025-slump-that-built-a-champion-i-questioned-myself-over-and-over/10871786/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-05T23:28:33.000Z",
+        "url": "https://www.motorsport.com/f1/news/lando-norris-reveals-how-lewis-hamilton-has-changed-his-f1-championship-ambitions/10872375/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-06T23:15:00.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "George Russell opens up on mental exhaustion after frustrating 2026 F1 season",
-        "summary": "George Russell has admitted he is mentally exhausted after a season in which he has repeatedly had to overcome challenges.The Mercedes driver started 2026 as the favourite for the title, but after a string of issues outside of his control and incredible performances from his team-mate Kimi Antonelli, he watched on as the Italian became world champion in Mexico.Speaking to the media at ...<a class='mo",
+        "title": "Why Max Verstappen ended F1 practice early in Brazil – Red Bull explains",
+        "summary": "Max Verstappen finished Friday's Formula 1 practice sessions in Sao Paulo in third place. The Dutchman occupied that position in both sessions, in fact, and was also around two and a half tenths off the fastest driver in each session, with Lando Norris topping the first one and Kimi Antonelli the second.Red Bull concludes that there is once again \"enough potential\" in the car to fight at the ...<a class=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/george-russell-opens-up-on-mental-exhaustion-after-frustrating-2026-f1-season/10871940/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-05T23:14:24.000Z",
+        "url": "https://www.motorsport.com/f1/news/why-max-verstappen-ended-f1-practice-early-in-brazil-red-bull-explains/10872364/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-06T22:32:59.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Kimi Antonelli admits George Russell still holds one massive advantage over him",
-        "summary": "Let’s not sugarcoat it: George Russell had an incredibly tough 2026 campaign. With a magnet-like attraction to bad luck, the Briton spent a massive chunk of the season watching his 20-year-old team-mate storm away with the world drivers' championship.But if you think that means Kimi Antonelli is treating the other side of the garage like chopped liver, you don't understand how Formula 1 ...<a class='more",
+        "title": "Fred Vasseur turns down being godfather to Charles Leclerc’s baby: “I have four children”",
+        "summary": "Ferrari Formula 1 team principal Fred Vasseur has ruled himself out of becoming godfather to Charles Leclerc's daughter, joking that he already has enough children to look after.Leclerc and his wife, Alexandra, announced the birth of their first child, Bianca, on Wednesday.After a series of questions about the potential tension between his drivers following last weekend's clash in Mexico ...<a class=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/kimi-antonelli-admits-george-russell-still-holds-one-massive-advantage-over-him/10871794/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-05T21:53:34.000Z",
+        "url": "https://www.motorsport.com/f1/news/fred-vasseur-turns-down-being-godfather-to-charles-leclercs-baby-i-have-four-children/10872357/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-06T22:12:01.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Kimi Antonelli opens up on \"very emotional\" visit to Ayrton Senna's family estate",
-        "summary": "2026 Formula 1 champion Kimi Antonelli has opened up about his recent visit to Ayrton Senna's family home ahead of this weekend's Brazilian Grand Prix.The Mercedes driver went to Fazenda Dois Lagos, the Senna family estate, on Tuesday, two days after clinching the F1 title in Mexico. He shared a photo of himself sitting in the Lotus 98T that Senna raced in 1986 and thanked the family for an ...<a class='",
+        "title": "F1 Brazil GP: Saturday schedule, weather forecast and how to watch",
+        "summary": "Formula 1 heads into Saturday at Interlagos with Kimi Antonelli fastest after second practice for the Brazil Grand Prix.The newly crowned world champion set a 1m10.763s to lead Lando Norris by 0.253s, with Max Verstappen just 0.006s further back in third. George Russell was fourth ahead of Oscar Piastri, leaving Mercedes, McLaren and Red Bull closely matched heading into qualifying.Russell ...<a clas",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/kimi-antonelli-opens-up-on-very-emotional-visit-to-ayrton-sennas-family-estate/10871927/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-05T21:43:40.000Z",
+        "url": "https://www.motorsport.com/f1/news/f1-brazil-gp-saturday-schedule-weather-forecast-and-how-to-watch/10872353/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-06T22:05:41.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Kimi Antonelli reacts to Max Verstappen and Lewis Hamilton on Mexico podium: “I will frame it”",
-        "summary": "Securing the 2026 world drivers' championship at just 20 years and 68 days old is a massive, history-book-shattering achievement. But for Andrea Kimi Antonelli, the most overwhelming part of the Mexico City Grand Prix did not even happen on the asphalt. It happened after the chequered flag.Sharing the podium with race winner Max Verstappen and runner-up Lewis Hamilton is intimidating enough ...<a class='",
+        "title": "McLaren’s upgrade is \"a pleasant surprise\" – but will it stay on the car in Brazil?",
+        "summary": "After one of the most turbulent world championship defences since Jenson Button in 2010, Lando Norris gave McLaren’s latest batch of car upgrades a cautious thumbs-up on the Friday of the Sao Paulo GP. Norris topped the first practice session, edging out Mercedes’ Kimi Antonelli by 0.082s, and was among the quickest in terms of average pace on his long runs through FP2.\"Certainly FP1 was a ...<a class='m",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/kimi-antonelli-reacts-to-verstappen-and-hamilton-hoisting-him-on-the-mexico-podium-i-will-frame-it/10871768/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-05T21:07:17.000Z",
+        "url": "https://www.motorsport.com/f1/news/mclarens-upgrade-is-a-pleasant-surprise-but-will-it-stay-on-the-car-in-brazil/10872338/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-06T21:49:40.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "Warren Spector sounds even angrier about BioWare's closure as he recounts the massive salaries of EA execs: 'Is there ANY accountability left in this world?'",
-        "summary": "Two weeks after his uncharacteristically spicy comments on the demise of BioWare, Spector's anger clearly has not subsided.",
+        "title": "Here's what's in Path of Exile 2’s huge 1.0 release, coming in December",
+        "summary": "The full release will feature new classes, finished campaign, a new league, and more.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/warren-spector-sounds-even-angrier-about-biowares-closure-as-he-recounts-the-massive-salaries-of-ea-execs-is-there-any-accountability-left-in-this-world/",
-        "seendate": "2026-11-05T22:20:18.000Z",
+        "url": "https://www.pcgamer.com/games/rpg/heres-whats-in-path-of-exile-2s-huge-1-0-release-coming-in-december/",
+        "seendate": "2026-11-06T23:36:21.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Sam Altman is annoyed his DRAM comment was 'taken out of context'",
-        "summary": "Him being annoyed has not made DRAM cheaper, however.",
+        "title": "The AI posting war is heating up: 'Please, leave me behind,' says artist who got into it with Epic CEO Tim Sweeney on X",
+        "summary": "Two factions of gamers and game developers are at an impasse.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/software/ai/sam-altman-is-annoyed-his-dram-comment-was-taken-out-of-context/",
-        "seendate": "2026-11-05T20:34:00.000Z",
+        "url": "https://www.pcgamer.com/software/ai/the-ai-posting-war-is-heating-up-please-leave-me-behind-says-artist-who-got-into-it-with-epic-ceo-tim-sweeney-on-x/",
+        "seendate": "2026-11-06T22:21:50.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Nvidia, Micron, and other AI stocks take a dive after elections",
-        "summary": "No loud popping sounds yet, but an AI market correction appears to be underway.",
+        "title": "Path of Exile 2 announces a second new class, the Shadow, for its December 1.0 release",
+        "summary": "Two classes two furious.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/software/ai/nvidia-micron-and-other-ai-stocks-take-a-dive-after-elections/",
-        "seendate": "2026-11-05T19:32:47.000Z",
+        "url": "https://www.pcgamer.com/games/rpg/path-of-exile-2-announces-a-second-new-class-the-shadow-for-its-december-1-0-release/",
+        "seendate": "2026-11-06T21:50:58.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "EA's releasing a truckload of classic games on Steam, and 7 of them are remasters",
-        "summary": "The remasters are also coming to GOG (which already had the re-released originals).",
+        "title": "'It came out of nowhere. I was shocked and sad': He was the face of Hunt: Showdown for years, then Crytek laid him off",
+        "summary": "Bence \"Beadyboy\" Hamos reflects on 8 years at Crytek helping build Hunt: Showdown's community.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/eas-releasing-a-truckload-of-classic-games-on-steam-and-7-of-them-are-remasters/",
-        "seendate": "2026-11-05T18:30:00.000Z",
+        "url": "https://www.pcgamer.com/games/fps/it-came-out-of-nowhere-i-was-shocked-and-sad-he-was-the-face-of-hunt-showdown-for-years-then-crytek-laid-him-off/",
+        "seendate": "2026-11-06T21:06:01.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Rockstar drops a pile of new GTA 6 launch screenshots featuring dancers, combat dogs, and so many pores",
-        "summary": "In 39 new screenshots, Rockstar flaunts exciting new genres of Florida Man.",
+        "title": "All that stands between a hacker and admin privileges on some Linux distros is a 257-character long string of literally anything",
+        "summary": "Eeeeeeeeeeeeeep. Thankfully there's already a fix out.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-drops-a-pile-of-new-gta-6-launch-screenshots-featuring-dancers-combat-dogs-and-so-many-pores/",
-        "seendate": "2026-11-05T17:13:17.000Z",
+        "url": "https://www.pcgamer.com/software/linux/all-that-stands-between-a-hacker-and-admin-privileges-on-some-linux-distros-is-a-257-character-long-string-of-literally-anything/",
+        "seendate": "2026-11-06T17:31:29.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
       {
-        "title": "UK found to be ‘dangerously’ reliant on China for critical minerals needed for defence and AI",
-        "summary": "Delivering net zero also at risk, say MPs as they call for centralised policy and funding for mines and diversification The UK is “dangerously” dependent on China for critical raw materials needed for the military, renewable energy infrastructure and AI, a parliamentary investigation has found.MPs on the business select committee called for an urgent centralised policy and the creation of a “critical",
+        "title": "US tech stock rout: is the AI bubble bursting?",
+        "summary": "After Thursday’s share price plunge on Wall Street, could the volatility be the start of a huge market meltdown?Global financial markets have been thrown into a tailspin as investors bet on an AI slowdown after the US midterm elections.This is not the first time s",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/nov/05/uk-dangerously-reliant-on-china-critical-minerals-military-ai-renewable-energy",
-        "seendate": "2026-11-05T05:00:55.000Z",
+        "url": "https://www.theguardian.com/technology/2026/nov/06/us-tech-stock-ai-bubble-bursting-market-meltdown-explainer",
+        "seendate": "2026-11-06T16:09:18.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Apple iPad mini A20 Pro review: the best small tablet but with a big price",
-        "summary": "All-round upgrades fit a bigger OLED screen in a smaller and lighter body with water resistance for first timeThe new iPad mini takes Apple’s fan-favourite tiny tablet and upgrades just about everything about it, including giving it a new OLED screen, serious performance, speakers embedded into the display and even water resistance, all with a big new price tag.The eighth-generation iPad mini costs f",
+        "title": "Tesla to wind down Cybertruck production as Elon Musk focuses on robotics and AI",
+        "summary": "Decision made in order for factory in Texas to be used for Cybercab, the carmaker’s self-driving taxiElon Musk has announced that Tesla will wind down production of its Cybertruck, marking the end of a failed effort to take a chunk of the lucrative market for pickups in the US.The billionaire chief executive said production of the car would stop in about the middle of next year at the company’s facto",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/nov/05/apple-ipad-mini-a20-pro-review-best-small-tablet-but-big-price",
-        "seendate": "2026-11-05T07:00:56.000Z",
+        "url": "https://www.theguardian.com/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai",
+        "seendate": "2026-11-06T12:38:05.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Tech barons cozied up to Trump. What will they do in newly blue America?",
-        "summary": "Democrats’ success was helped by popular anger over tech, AI and the super rich – life for billionaires could become much more difficultThe photo of Silicon Valley centibillionaires at Donald Trump’s inauguration – Musk, Bezos and Zuckerberg, front row and side by side – now looks like a hitlist for a blue Congress hellbent on making life difficult for billionaires.The picture symbolized at the time",
+        "title": "EU charges TikTok with failing to protect users’ mental health",
+        "summary": "Regulator’s initial ruling says algorithm ‘can be harmful’ and led young and vulnerable viewers ‘down rabbit holes they can’t easily escape’TikTok has been charged by the European Commission with failing to protect users’ mental health by exposing them to a relentless stream of content that risks worsening eating disorders and anxiety in a case that strikes at its business model.Issuing a prel",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/nov/05/tech-barons-america-musk-bezos-zuckerberg",
-        "seendate": "2026-11-05T09:00:02.000Z",
+        "url": "https://www.theguardian.com/technology/2026/nov/06/eu-charges-tiktok-failure-to-protect-users-mental-health",
+        "seendate": "2026-11-06T15:17:08.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "UK government considers smart glasses ban over secret filming concerns",
-        "summary": "Minister hints at restriction on selling technology ‘to certain users’ amid worries over surreptitious filming of womenThe government is considering placing restrictions on smart glasses amid concerns the technology is being used to surreptitiously film women, a minister has said.Speaking in the House of Commons, the safeguarding minister, Satvir Kaur, hinted at a ban on selling the technology",
+        "title": "Struggling to spell ‘male chauvinist pig’? Apple’s grey list means your iPhone won’t help you",
+        "summary": "There are more than 100,000 words and phrases that the tech giant has restricted its predictive text from completing, research shows“Australia is a very bad place to question your sexuality on MDMA with NSA spies” might be a text you would wish to send to your friends, if you have had an extraordinarily complicated night out in Sydney.But your iPhone won’t help you spell any of it if you try to swipe",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/uk-news/2026/nov/04/uk-government-considers-smart-glasses-ban-over-secret-filming-concerns",
-        "seendate": "2026-11-05T17:21:51.000Z",
+        "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+        "seendate": "2026-11-06T16:12:41.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "French blood banks hacked in latest cyber-attack on Europe",
-        "summary": "Temperature and defrosting thresholds raised to ‘very high levels’ at three cold stores stocking vital blood productsFrance’s national blood service has said hackers accessed control systems and boosted temperatures at three cold stores stocking vital blood products, in an apparent escalation of recent cyber-attacks on fridges and freezers across Europe.<a href=\"https://presse.efs.sante.fr/actualites",
+        "title": "Google, Meta and TikTok sue California to block law protecting children from addiction risk",
+        "summary": "Law bans social media platforms from providing minors features such as autoplay that lead to compulsive useGoogle, Meta and TikTok have sued California to block enforcement of ⁠a new state law intended ⁠to limit the risk ​of addicting children under 16 to social media platforms.The law, known as Assembly Bill 1709, prohibits such platforms from offering underage children “psychologically exploitative",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/nov/04/france-national-blood-service-hack-cyber-attack-europe",
-        "seendate": "2026-11-04T13:22:28.000Z",
+        "url": "https://www.theguardian.com/technology/2026/nov/05/california-children-social-media-lawsuit-tiktok-google-meta",
+        "seendate": "2026-11-05T21:10:21.000Z",
         "domain": "theguardian.com"
       }
     ],
     "climate": [
+      {
+        "title": "Famous New Mexico rock formation destroyed after torrential El Niño rains",
+        "summary": "Officials expected to investigate whether super El Niño storms in US south-west damaged the Alien Throne spiresUndulating, gravity-defying rock spires are one of the most magical parts of the landscape of the US south-west.But after torrential rainstorms linked to the super El Niño season, at least one famous rock formation in north-west New Mexico has been found in pieces. <a href=\"https://www.t",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/environment/2026/nov/06/new-mexico-alien-throne-collapse-el-nino-rain",
+        "seendate": "2026-11-06T19:23:03.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "In Alaska’s capital, food comes by water, air or, most often, community sharing",
+        "summary": "Juneau has little arable land, a short growing season and few farmers – and deep traditions of residents and the land feeding each otherForty miles north-west of Alaska’s capital, the highway just ends.At Glacier Highway’s most northern point, the pavement turns to gravel, the gravel widens into a turnaround and the tire tracks curve back the way they came. At the far end, the woods begin, a narrow h",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/environment/2026/nov/06/alaska-juneau-food-access",
+        "seendate": "2026-11-06T15:00:46.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "‘An abomination’: Idaho hunters earned thousands of dollars to kill newborn wolf pups, records reveal",
+        "summary": "Wildlife advocates incensed as documents show state paid out $2,000 per kill in effort to shrink state’s wolf populationIdaho officials paid hunters thousands of dollars for killing a dozen newborn wolf pups this spring, including what appears to be at least one full litter killed in or near its den, according to state records shared with the Guardian and Public Domain.The wolf pup killings have ince",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/nov/06/idaho-hunters-newborn-wolf-pups",
+        "seendate": "2026-11-06T12:00:42.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "How Democrats used the midterms to turn affordability concerns into ‘green populism’",
         "summary": "From energy prices to datacenters, climate became a cost-of-living issue – and a winning oneQ&amp;A: Ask your questions about Democrats’ win in the midtermsClimate-forward <a href=\"https://www.theguardian.com/us-news/democ",
@@ -355,33 +379,17 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/us-news/2026/nov/05/trump-cancer-carcinogen-regulation",
         "seendate": "2026-11-05T12:00:23.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "North America’s most widely distributed game bird is under threat",
-        "summary": "For the first time since 1937, no open permits to hunt ruffed grouse in Ohio have been issued due to falling numbersEvery November, hundreds of hunters descend on four designated wilderness areas in southern Ohio in pursuit of the elusive ruffed grouse.But not this year. Continue reading...",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/2026/nov/04/ruffed-grouse-population-decline",
-        "seendate": "2026-11-03T13:00:07.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "A lackluster response to North Carolina flooding disasters is eroding Republican support in one county",
-        "summary": "At more than $52m, the race has become the most expensive in US history, but residents are fed up with floodingAida Havel mulled her fate over coffee after working the early voting polls all day in Kill Devil Hills, North Carolina. “We are trapped,” she concluded.The Dare county commission candidate lives about 50 miles (80km) south, on Hatteras Island on the state’s Outer Banks. <a href=\"https:/",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/nov/02/north-carolina-congress-republicans",
-        "seendate": "2026-11-02T12:00:41.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Colorado community fights plan to use drones to spray weed killer",
-        "summary": "Officials in Boulder County, Colorado, say they have a safe plan to wipe out invasive weeds, but some locals are concernedSoon, weed-killing chemicals will start falling from the sky over the Red Hill area of Boulder county, Colorado.The wildland is known for its biodiversity, home to hundre",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/nov/01/colorado-drones-weed-killer",
-        "seendate": "2026-11-01T14:00:18.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "science": [
+      {
+        "title": "Origin of Stonehenge’s altar remains enigma as north-east Scotland theory ruled out",
+        "summary": "Geologists say they are getting closer to solving mystery as tests suggest stone may have come from elsewhere in Scotland, northern England or even IrelandThey spent countless hours on weather-battered Scottish hills, a hardy band of geologists searching for the origin of one of Stonehenge’s most intriguing features.But the prehistoric monument tends to yield its secrets reluctantly, and a new scient",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/05/origin-stonehenge-altar-remains-enigma-north-east-scotland-ruled-out",
+        "seendate": "2026-11-05T14:26:52.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Swapping from dairy to plant-based milk, cheese and yoghurt ‘could lead to micronutrient deficiencies’",
         "summary": "Young people and women most at risk, study finds, as researchers call for vegan products to be fortified with iodine in particularSwitching from dairy products to plant-based alternatives could lead to deficiencies in vital micronutrients, especially among young people and women, a study has found.Even moving partly to vegan alternatives to milk, cheese and yoghurt could lead to falls in iodine, calc",
@@ -391,11 +399,11 @@ window.NEWS_CACHE = {
         "domain": "theguardian.com"
       },
       {
-        "title": "‘Ferritin face’: can you really diagnose low iron from a selfie? – podcast",
+        "title": "‘Ferritin face’: what you need to know about low iron - podcast",
         "summary": "Social media is awash with claims iron deficiency can be identified in the mirror by dark circles, breaking hair and dry skin. But is ‘ferritin face’ real? Madeleine Finlay tells Ian Sample why so many of us struggle to keep our iron levels up, how we can actually diagnose low iron and the best way to correct a deficiency, with help from Hal Drakesmith, a professor of iron biology at Oxford University, and advice",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/science/audio/2026/nov/05/ferritin-face-can-you-really-diagnose-low-iron-from-a-selfie-podcast",
-        "seendate": "2026-11-05T05:00:55.000Z",
+        "seendate": "2026-11-05T06:00:55.000Z",
         "domain": "theguardian.com"
       },
       {
@@ -412,14 +420,6 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/science/2026/nov/03/nasa-telescope-neil-gehrels-swift-observatory",
         "seendate": "2026-11-03T19:50:27.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Why pharma firms are going to Earth’s orbit in search of new cancer drugs",
-        "summary": "A space capsule 300 miles above us is growing the tiny crystals of a potential cancer drug in microgravityRoughly 300 miles above our heads, three washing machine-sized capsules are orbiting the Earth. Inside one of them, tiny crystals of a potential cancer drug are being grown in the weightlessness of space. The others are testing heat protection materials and navigation systems for when the capsules plung",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/nov/04/us-firm-varda-space-industries-manufacturing-drugs-in-space",
-        "seendate": "2026-11-04T06:00:27.000Z",
         "domain": "theguardian.com"
       }
     ]
