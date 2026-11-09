@@ -1,173 +1,173 @@
 window.NEWS_CACHE = {
-  "generatedAt": "2026-11-08T01:55:43.364Z",
+  "generatedAt": "2026-11-09T02:11:27.989Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
       {
-        "title": "PM pays tribute after shooting in Krakow in which British citizen died",
-        "summary": "The British citizen was among six who died in the attack in Krakow’s main square, the head of Poland’s police said.",
-        "source": "yorkpress.co.uk",
-        "url": "https://www.yorkpress.co.uk/news/national/26709150.pm-pays-tribute-shooting-krakow-british-citizen-died/",
-        "seendate": "20261108T000000Z",
-        "domain": "yorkpress.co.uk"
+        "title": "Collision of two trains in Egypt kills at least seven",
+        "summary": "President orders prompt investigation after one train derails in collision in al-Ayyat about 50km from CairoSeven people were killed and at least 125 injured when two trains collided on Sunday south of the Egyptian capital, Cairo, officials said.The crash occurred in al-Ayyat district in Giza province, about 50km (30 miles) south of Cairo, when a train travelling to Fayoum province crashed into the r",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
+        "seendate": "2026-11-08T17:51:17.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Charles combines  doing  role with figurehead stance of Elizabeth II",
-        "summary": "The King has married the two approaches in what a palace aide said was a ‘big step change’ in the role.",
-        "source": "echo-news.co.uk",
-        "url": "https://www.echo-news.co.uk/news/national/26709159.charles-combines-doing-role-figurehead-stance-elizabeth-ii/",
-        "seendate": "20261108T000000Z",
-        "domain": "echo-news.co.uk"
+        "title": "How African philosophies inspired a new approach to staging film festivals in Manchester",
+        "summary": "See My World, an event highlighting the pan-African thought via film, poetry and dance, builds on momentum sparked by local activists and creativesAfrican philosophies including exploring how lessons from the past can shape the present and near future have inspired a film festival coming to Manchester.See My Wor",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/news/2026/nov/08/african-philosophies-see-my-world-film-festival-manchester",
+        "seendate": "2026-11-08T12:00:39.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "World News : US looks to restrict Iran land trade",
-        "summary": "",
-        "source": "gdnonline.com",
-        "url": "https://www.gdnonline.com:443/Details/1412160/US-looks-to-restrict-Iran-land-trade",
-        "seendate": "20261108T000000Z",
-        "domain": "gdnonline.com"
+        "title": "Kenyan doomsday sect leader jailed for 200 years for murder of 190 children",
+        "summary": "Paul Mackenzie convicted over deaths of children and one adult after followers were ordered to starve themselves and their familiesThe leader of a Kenyan doomsday sect has been sentenced to 200 years in prison for the murders of 190 children and one adult in one of the world’s worst cult disasters in recent history.The sentence, comprising 100 years for murder by starvation and 100 years by direct ho",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie",
+        "seendate": "2026-11-06T15:08:43.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Israel president taps opposition candidate Eisenkot to form a government , in setback for Netanyahu",
-        "summary": "JERUSALEM (AP) — Israeli President Isaac Herzog said Saturday night that he was giving opposition candidate Gadi Eisenkot the first opportunity to form a governing coalition following elections on Oct. 27.",
-        "source": "toronto.citynews.ca",
-        "url": "https://toronto.citynews.ca/2026/11/07/israels-president-taps-opposition-candidate-eisenkot-to-form-a-government-in-setback-for-netanyahu/",
-        "seendate": "20261108T000000Z",
-        "domain": "toronto.citynews.ca"
+        "title": "ANC faces bruising defeat in South African local elections with 80% of ballots counted",
+        "summary": "Former liberation movement’s share of national vote almost 14 percentage points below 2021 resultThe African National Congress is on course to suffer a bruising defeat in South Africa’s local elections, with the once dominant party of Nelson Mandela falling to under a third of the vote nationally with more than 80% of ballots counted.Wednesday’s fragmented vote marks another stage in the decline of t",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/nov/06/anc-faces-defeat-south-african-local-elections",
+        "seendate": "2026-11-06T12:48:37.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "newsroomamerica . com",
-        "summary": "Journalism with neither fear nor favor",
-        "source": "newsroomamerica.com",
-        "url": "https://newsroomamerica.com/?before=120465",
-        "seendate": "20261108T000000Z",
-        "domain": "newsroomamerica.com"
+        "title": "British healthcare worker with Ebola evacuated from DR Congo to UK",
+        "summary": "Patient is ⁠in ​stable condition and will be transferred to a specialist ‘high consequence’ infectious disease unitA British healthcare worker with Ebola is being evacuated from the Democratic Republic of the Congo to the UK for medical treatment, it has been confirmed.“A British citizen currently in the DR Congo has tested positive for Ebola,” a spokesperson for the UK government said in a statement",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/nov/04/british-healthcare-worker-ebola-evacuated-drc-to-uk-document-shows",
+        "seendate": "2026-11-04T18:18:37.000Z",
+        "domain": "theguardian.com"
       }
     ],
     "conflict": [
       {
-        "title": "World News : US looks to restrict Iran land trade",
-        "summary": "",
-        "source": "gdnonline.com",
-        "url": "https://www.gdnonline.com:443/Details/1412160/US-looks-to-restrict-Iran-land-trade",
-        "seendate": "20261108T000000Z",
-        "domain": "gdnonline.com"
+        "title": "Collision of two trains in Egypt kills at least seven",
+        "summary": "President orders prompt investigation after one train derails in collision in al-Ayyat about 50km from CairoSeven people were killed and at least 125 injured when two trains collided on Sunday south of the Egyptian capital, Cairo, officials said.The crash occurred in al-Ayyat district in Giza province, about 50km (30 miles) south of Cairo, when a train travelling to Fayoum province crashed into the r",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
+        "seendate": "2026-11-08T17:51:17.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Israel president taps opposition candidate Eisenkot to form a government , in setback for Netanyahu",
-        "summary": "JERUSALEM (AP) — Israeli President Isaac Herzog said Saturday night that he was giving opposition candidate Gadi Eisenkot the first opportunity to form a governing coalition following elections on Oct. 27.",
-        "source": "toronto.citynews.ca",
-        "url": "https://toronto.citynews.ca/2026/11/07/israels-president-taps-opposition-candidate-eisenkot-to-form-a-government-in-setback-for-netanyahu/",
-        "seendate": "20261108T000000Z",
-        "domain": "toronto.citynews.ca"
+        "title": "How African philosophies inspired a new approach to staging film festivals in Manchester",
+        "summary": "See My World, an event highlighting the pan-African thought via film, poetry and dance, builds on momentum sparked by local activists and creativesAfrican philosophies including exploring how lessons from the past can shape the present and near future have inspired a film festival coming to Manchester.See My Wor",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/news/2026/nov/08/african-philosophies-see-my-world-film-festival-manchester",
+        "seendate": "2026-11-08T12:00:39.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "newsroomamerica . com",
-        "summary": "Journalism with neither fear nor favor",
-        "source": "newsroomamerica.com",
-        "url": "https://newsroomamerica.com/?before=120465",
-        "seendate": "20261108T000000Z",
-        "domain": "newsroomamerica.com"
+        "title": "Kenyan doomsday sect leader jailed for 200 years for murder of 190 children",
+        "summary": "Paul Mackenzie convicted over deaths of children and one adult after followers were ordered to starve themselves and their familiesThe leader of a Kenyan doomsday sect has been sentenced to 200 years in prison for the murders of 190 children and one adult in one of the world’s worst cult disasters in recent history.The sentence, comprising 100 years for murder by starvation and 100 years by direct ho",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie",
+        "seendate": "2026-11-06T15:08:43.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Ukraine News Today : Breaking Updates & Live Coverage - November 8 , 2026 from Kyiv Post",
-        "summary": "Follow today’s breaking news from Ukraine. Key updates, major headlines, and top stories — all in one place. Updated daily by KyivPost.",
-        "source": "kyivpost.com",
-        "url": "https://www.kyivpost.com/thread/89453",
-        "seendate": "20261108T000000Z",
-        "domain": "kyivpost.com"
+        "title": "ANC faces bruising defeat in South African local elections with 80% of ballots counted",
+        "summary": "Former liberation movement’s share of national vote almost 14 percentage points below 2021 resultThe African National Congress is on course to suffer a bruising defeat in South Africa’s local elections, with the once dominant party of Nelson Mandela falling to under a third of the vote nationally with more than 80% of ballots counted.Wednesday’s fragmented vote marks another stage in the decline of t",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/nov/06/anc-faces-defeat-south-african-local-elections",
+        "seendate": "2026-11-06T12:48:37.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "World News : Heavy rains flood 70 , 000 Gaza tents housing displaced people",
-        "summary": "",
-        "source": "gdnonline.com",
-        "url": "https://www.gdnonline.com:443/Details/1412154/Heavy-rains-flood-70,000-Gaza-tents-housing-displaced-people-",
-        "seendate": "20261108T000000Z",
-        "domain": "gdnonline.com"
+        "title": "British healthcare worker with Ebola evacuated from DR Congo to UK",
+        "summary": "Patient is ⁠in ​stable condition and will be transferred to a specialist ‘high consequence’ infectious disease unitA British healthcare worker with Ebola is being evacuated from the Democratic Republic of the Congo to the UK for medical treatment, it has been confirmed.“A British citizen currently in the DR Congo has tested positive for Ebola,” a spokesperson for the UK government said in a statement",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/nov/04/british-healthcare-worker-ebola-evacuated-drc-to-uk-document-shows",
+        "seendate": "2026-11-04T18:18:37.000Z",
+        "domain": "theguardian.com"
       }
     ],
     "economy": [
       {
-        "title": "Trump may have lost but don’t bet Democrats can fix the economy",
-        "summary": "There’s not much they can do over the next couple of years to alleviate angry voters’ stress over pricesIt was the economy, again. Although Donald Trump largely ignored it, voters’ acute concerns over the rising cost of living fuelled a political upheaval for the ages that is likely to deliver the biggest swing toward Democrats since Watergate, granting them the largest House majority in nearly four decades",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/nov/07/democrats-economy-affordability-crisis",
-        "seendate": "2026-11-07T11:00:08.000Z",
-        "domain": "theguardian.com"
+        "title": "The Jackery HomePower 2000 Plus v2 Red Cross Edition CleanTechnica Tested",
+        "summary": "Support CleanTechnica&#039;s work through a Substack subscription, on Patreon, or on Stripe. Help us produce all of the high-quality, original content we publish week after week despite the challenges of content-scraping AI, antisocial media, inflation, and other hurdles. Jackery was one of the earliest portable power station producers to bring ... [continued]",
+        "source": "cleantechnica.com",
+        "url": "https://cleantechnica.com/2026/11/08/the-jackery-homepower-2000-plus-v2-red-cross-edition-cleantechnica-tested/",
+        "seendate": "20261109T010000Z",
+        "domain": "cleantechnica.com"
       },
       {
-        "title": "US job growth exceeds expectations in October despite economic uncertainty",
-        "summary": "‘Low-hire, low-fire’ labor market shows sluggish growth but few layoffs, with an interest rate hike expected in DecemberThe US added 165,000 jobs to the economy in October, a sign of resilience in the labor market amid ongoing war in the Middle East and inflation, according to new data released on Friday.Economists had said the labor market has been stuck in a “low-hire, low-fire” state, in which job",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/nov/06/us-job-growth-october",
-        "seendate": "2026-11-06T13:42:26.000Z",
-        "domain": "theguardian.com"
+        "title": "Time Is of the Essence : Elektros Advances Development Efforts for Its Patented Multi - Port EV Charging Technology",
+        "summary": "WEST PALM BEACH, FL / ACCESS Newswire / November 8, 2026 / Elektros, Inc. A New Way to Think About Time Time is one of the most valuable commodities we have. Fo",
+        "source": "newjerseytelegraph.com",
+        "url": "http://www.newjerseytelegraph.com/news/279420688/time-is-of-the-essence-elektros-advances-development-efforts-for-its-patented-multi-port-ev-charging-technology",
+        "seendate": "20261109T010000Z",
+        "domain": "newjerseytelegraph.com"
       },
       {
-        "title": "Could the AI bubble burst after Democrats' midterms sweep? - The Latest",
-        "summary": "Global tech stocks have plunged after the Democrats’ victory in the US midterm elections, with fears of a slowdown in AI development. Major tech corporations including Apple, Tesla and Nvidia shed about $1tn in a single trading session. Is this stock market jitters, or a sign the AI bubble might be about to burst? Lucy Hough speaks to senior economics correspondent Richard Partington <a href=\"https://www.thegu",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/news/video/2026/nov/06/could-the-ai-bubble-burst-after-democrats-midterms-sweep-the-latest",
-        "seendate": "2026-11-06T17:04:41.000Z",
-        "domain": "theguardian.com"
+        "title": "NZ needs to stay vigilant when it comes to sovereign debt",
+        "summary": "Brian Easton says as France struggles with escalating financial pressures, New Zealand must remain vigilant to the risks of a destabilising sovereign crisis",
+        "source": "interest.co.nz",
+        "url": "https://www.interest.co.nz/economy/141012/brian-easton-says-france-struggles-escalating-financial-pressures-new-zealand-must",
+        "seendate": "20261109T010000Z",
+        "domain": "interest.co.nz"
       },
       {
-        "title": "Tesla to wind down Cybertruck production as Elon Musk focuses on robotics and AI",
-        "summary": "Decision made in order for factory in Texas to be used for Cybercab, the carmaker’s self-driving taxiElon Musk has announced that Tesla will wind down production of its Cybertruck, marking the end of a failed effort to take a chunk of the lucrative market for pickups in the US.The billionaire chief executive said production of the car would stop in about the middle of next year at the company’s facto",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai",
-        "seendate": "2026-11-06T12:38:05.000Z",
-        "domain": "theguardian.com"
+        "title": "CFTC allows single - stock perpetual futures to begin trading",
+        "summary": "Perpetual futures contracts tied to individual company stocks can begin trading on properly registered U.S. commodity markets, the country's derivatives regulator said November 3",
+        "source": "pittsburghstar.com",
+        "url": "http://www.pittsburghstar.com/news/279409896/cftc-allows-single-stock-perpetual-futures-to-begin-trading",
+        "seendate": "20261109T010000Z",
+        "domain": "pittsburghstar.com"
       },
       {
-        "title": "Rural voters were feeling left behind before the midterms, poll shows",
-        "summary": "Polling done for the Guardian shows plummeting support from a former key constituency of Donald Trump’s baseQ&amp;A: Ask your questions about Democrats’ win in the midtermsPolling conducted by the Harris Poll for the Guard",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/nov/05/former-trump-voters-economy",
-        "seendate": "2026-11-05T11:00:22.000Z",
-        "domain": "theguardian.com"
+        "title": "CFTC allows single - stock perpetual futures to begin trading",
+        "summary": "Perpetual futures contracts tied to individual company stocks can begin trading on properly registered U.S. commodity markets, the country's derivatives regulator said November 3",
+        "source": "africaleader.com",
+        "url": "http://www.africaleader.com/news/279409896/cftc-allows-single-stock-perpetual-futures-to-begin-trading",
+        "seendate": "20261109T010000Z",
+        "domain": "africaleader.com"
       }
     ],
     "literature": [
       {
-        "title": "Family hopes new book gives spark to investigation of missing Indigenous woman from Vancouver Island",
-        "summary": "Lisa Marie Young has been missing since June 2002",
-        "source": "comoxvalleyrecord.com",
-        "url": "https://comoxvalleyrecord.com/2026/11/07/family-hopes-new-book-gives-spark-to-investigation-of-missing-indigenous-woman-from-vancouver-island/",
-        "seendate": "20261108T000000Z",
-        "domain": "comoxvalleyrecord.com"
+        "title": "‘No tech, no texts, just childhood’: author Liz Pichon on the secrets behind her multi-million selling Tom Gates series",
+        "summary": "As her long-running children’s book series turns 15, Liz Pichon talks about overcoming dyslexia to become a bestselling authorIf you ever find yourself in an airport newsagent, it might be worth peering inside one of Liz Pichon’s books. “I do guerrilla signings,” she tells me conspiratorially. “They let me go in and I sign all the books, just in case. I love the idea of kids buying a book, going on holiday",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/nov/08/no-tech-no-texts-just-childhood-author-liz-pichon-on-the-secrets-behind-her-multi-million-selling-tom-gates-series",
+        "seendate": "2026-11-08T12:00:39.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Why Bram Stoker  Dracula  Almost Had a Very Different Name",
-        "summary": "The novel had a different title until the last few weeks before publication, but nobody knows for sure who renamed it.",
-        "source": "mentalfloss.com",
-        "url": "https://www.mentalfloss.com/literature/authors/why-bram-stoker-dracula-almost-had-different-name",
-        "seendate": "20261108T000000Z",
-        "domain": "mentalfloss.com"
+        "title": "The efficiency trap: why optimising everything can backfire, badly",
+        "summary": "From roundabouts to the stock market, relentless streamlining could be making the world more dangerousWe have all been there: packed shoulder to shoulder on the train while the person beside us coughs and sneezes. A protective flu jab offers some reassurance, but so does the thought that there will be a hospital bed for you, should you need it. Yet, in England, about 95% of adult hospital beds were occupied",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/nov/08/the-efficiency-trap-why-optimising-everything-can-backfire-badly",
+        "seendate": "2026-11-08T12:00:39.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "From green smoothies to stem ‑ cell supplements online  immune ‑ boosting  ideas may lead you astray",
-        "summary": "",
-        "source": "japantoday.com",
-        "url": "https://japantoday.com/category/features/health/From-green-smoothies-to-stem%E2%80%91cell-supplements-%E2%80%94-online-%E2%80%98immune%E2%80%91boosting%E2%80%99-ideas-may-lead-you-astray",
-        "seendate": "20261108T000000Z",
-        "domain": "japantoday.com"
+        "title": "Tom Gauld on prompts for a cartoon about artificial intelligence and writing – cartoon",
+        "summary": "Continue reading...",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/picture/2026/nov/08/tom-gauld-on-prompts-for-a-cartoon-about-artificial-intelligence-and-writing-cartoon",
+        "seendate": "2026-11-08T12:00:40.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "True crime series maps fallout of fatal remote shooting",
-        "summary": "As the 7th anniversary of Kumanjayi Walker&#x27;s death approaches, a documentary delves deeper into the circumstances surrounding the...",
-        "source": "therural.com.au",
-        "url": "https://www.therural.com.au/story/9387582/true-crime-series-maps-fallout-of-fatal-remote-shooting/",
-        "seendate": "20261108T000000Z",
-        "domain": "therural.com.au"
+        "title": "Narrative threads: How to write a Booker-shortlisted novel, by Marlon James, Douglas Stuart, Elizabeth Strout and more",
+        "summary": "A trip to the Scottish islands, a psychological experiment, a chance encounter in a drugstore… the finalists for this year’s Booker prize reveal their inspirations Who knows where a novel really comes from? I spend years gathering loose threads and then, when I feel like the cloth will hold, I start to weave them into a narrative. I suppose I began internalising John of John back in 1994, the year I went to",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/nov/07/narrative-threads-how-to-write-a-booker-shortlisted-novel-by-marlon-james-douglas-stuart-elizabeth-strout-and-more",
+        "seendate": "2026-11-07T09:00:06.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Heaven Official Blessing ( The Comic ), Vol 1 - 3 Gift Guide",
-        "summary": "Get entranced in the first three volumes with mysterious masked figures, a haunting disease, connection and powerful entities from the Ghost Realm.",
-        "source": "firstcomicsnews.com",
-        "url": "https://www.firstcomicsnews.com/heaven-officials-blessing-the-comic-vol-1-3-gift-guide/",
-        "seendate": "20261108T000000Z",
-        "domain": "firstcomicsnews.com"
+        "title": "Nikita Gill: ‘I read Flowers in the Attic too young. Someone should have stopped me’",
+        "summary": "The Indian-Irish poet on the Mahabharata retelling that inspired her to write, Arundhati Roy’s courage, and the poetry of Lucille CliftonMy earliest reading&nbsp;memory My father was a sailor and my mother a teacher. They were both voracious readers. I was lucky enough to come from a home full of books and when we joined my father out at sea for extended periods of time, my mother carri",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/nov/06/nikita-gill-i-read-flowers-in-the-attic-too-young-someone-should-have-stopped-me",
+        "seendate": "2026-11-06T10:00:50.000Z",
+        "domain": "theguardian.com"
       }
     ],
     "entertainment": [
@@ -181,7 +181,7 @@ window.NEWS_CACHE = {
       },
       {
         "title": "Macklemore says that nine US arenas turned down his Free Palestine tour",
-        "summary": "Rapper called out ‘intimidation, manipulation and suppression’ in a social media post, claiming major arenas refused to host him after the Ed Sheeran controversyMacklemore says that nine major US arenas have refused to host his Free Palestine fundraising tour, calling out “intimidation, manipulation and suppression” tactics.In an Instagram <a",
+        "summary": "Rapper called out ‘intimidation and suppression’ in post, claiming major arenas refused to host him after he was dropped from Ed Sheeran’s tourMacklemore says that nine leading US arenas have refused to host his Free Palestine fundraising tour, call",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/music/2026/nov/06/macklemore-arenas-free-palestine-tour",
         "seendate": "2026-11-06T19:46:56.000Z",
@@ -214,90 +214,106 @@ window.NEWS_CACHE = {
     ],
     "f1": [
       {
-        "title": "George Russell's Brazilian GP qualifying fury explained: \"Pole was there for the taking\"",
-        "summary": "In keeping with the theme of the Brazilian Grand Prix's weather-hit qualifying, George Russell had a thunderous look on his face when he faced the Formula 1 media in the post-session press conference.The title has gone and a five-place grid penalty for an engine swap meant Russell was never going to start on the front row on Sunday. But at the end of a challenging year, it was still mentally ...<a class=",
+        "title": "Red Bull boss hails Max Verstappen's Brazil podium: \"He's beating the sim on a regular basis\"",
+        "summary": "Red Bull team principal Laurent Mekies said no simulation could have predicted Max Verstappen's charge from 21st to second in the Brazilian Grand Prix at Interlagos.The Dutchman started near the back of the grid after an engine penalty and warned after qualifying that it would be harder to overtake at the São Paulo circuit than in previous years. But he proved himself wrong with an ...<a class='more' hre",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/george-russells-brazilian-gp-qualifying-fury-explained-pole-was-there-for-the-taking/10872782/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-07T22:12:17.000Z",
+        "url": "https://www.motorsport.com/f1/news/red-bull-boss-hails-max-verstappens-brazil-podium-hes-beating-the-sim-on-a-regular-basis/10873193/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-08T23:11:39.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Lewis Hamilton and Max Verstappen warn of difficult F1 Brazilian GP comebacks",
-        "summary": "Lewis Hamilton and Max Verstappen both expect overtaking to be much harder at Interlagos than in previous seasons, as they prepare to start Sunday's Brazilian Grand Prix from the back of the grid.Both drivers have taken new power unit parts in Brazil, exceeding their allocation for the season. As a result, Hamilton and Verstappen will start from 20th and 21st on the grid, respectively, with ...<a class='",
+        "title": "Winners and losers from F1's chaotic Brazilian Grand Prix",
+        "summary": "Are you not entertained? While Lando Norris took a well-deserved third win of the campaign, Mercedes collectively slipped up and Max Verstappen produced yet another Brazilian Grand Prix masterclass.Winner: Lando NorrisMcLaren team boss Andrea Stella loves describing Lando Norris as the low-grip master. When conditions are difficult, Norris is one the very best at adapting and getting the ...<a class=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/lewis-hamilton-and-max-verstappen-warn-of-difficult-brazilian-gp-comebacks/10872784/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-07T22:06:47.000Z",
+        "url": "https://www.motorsport.com/f1/news/winners-and-losers-from-f1s-chaotic-brazilian-grand-prix/10873189/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-08T22:59:54.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "F1 Brazilian GP: Sunday schedule, weather forecast and how to watch",
-        "summary": "Formula 1 heads into Sunday at Interlagos with Lando Norris on pole after a rain-soaked qualifying session dramatically reshaped the grid.The McLaren driver beat George Russell by 0.204s in treacherous conditions, but Russell’s five-place engine penalty promotes newly crowned world champion Kimi Antonelli to the front row.Liam Lawson starts third for Racing Bulls ahead of Nico ...<a class='more' href",
+        "title": "Max Verstappen gives emotional farewell gift to long-serving Red Bull mechanic",
+        "summary": "Four-time Formula 1 champion Max Verstappen has given his race helmet to long-serving Red Bull mechanic Ole Schack, who took part in his final race for the Milton Keynes outfit at Interlagos.Schack has been with Red Bull since its first season in 2005 and works on Verstappen's car as a front-end mechanic. The team has also created a one-off can of Red Bull, which features a list of his career ...<a class",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/f1-brazil-gp-sunday-schedule-weather-forecast-and-how-to-watch/10872772/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-07T21:59:47.000Z",
+        "url": "https://www.motorsport.com/f1/news/max-verstappen-gives-emotional-farewell-gift-to-long-serving-red-bull-mechanic/10873184/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-08T22:36:27.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Lewis Hamilton insists Ferrari tensions with Charles Leclerc are over: \"We've squashed it\"",
-        "summary": "Lewis Hamilton has revealed he and Charles Leclerc have cleared the air in Sao Paulo following their clash at the Formula 1 Mexico Grand Prix and the tensions have been “squashed”.Moreover, the seven-time world champion insists it didn't require Fred Vasseur's involvement – as the drivers resolved their differences between themselves.\"I mean, Fred hasn't cleared the air in the ...<a class='more' href",
+        "title": "Charles Leclerc penalised for Liam Lawson clash; Kimi Antonelli and Oliver Bearman also punished after F1 Brazilian GP",
+        "summary": "Charles Leclerc was handed a five-second penalty after the Formula 1 Brazilian Grand Prix for his clash with Liam Lawson, dropping the Ferrari driver down to eighth place in the final results.The Monegasque was battling the Racing Bulls driver for seventh place on lap 69 of the Sao Paulo race when the pair made contact into Juncao, Turn 12, but both were able to continue and finish the ...<a class='more'",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/lewis-hamilton-insists-ferrari-tensions-with-charles-leclerc-are-over-weve-squashed-it/10872756/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-07T21:45:25.000Z",
+        "url": "https://www.motorsport.com/f1/news/charles-leclerc-penalised-for-liam-lawson-clash-kimi-antonelli-and-oliver-bearman-also-punished-aft/10873163/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-08T21:54:53.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Lewis Hamilton opens up on clear-the-air talks with Charles Leclerc after Mexican GP clash",
-        "summary": "Lewis Hamilton has opened up on the clear-the-air chat he had with his Ferrari team-mate Charles Leclerc ahead of the Brazilian Grand Prix.The Ferrari team-mates clashed on the opening lap of the Mexican Grand Prix last weekend. Leclerc attempted to overtake the seven-time champion, who had started from pole position. Both drivers ran wide during the move, with Leclerc rejoining the track in ...<a class=",
+        "title": "Max Verstappen \"needs to understand what happened\" after \"night and day\" F1 comeback in Brazilian GP",
+        "summary": "For the third year in a row, Max Verstappen has produced an impressive comeback drive in Brazil. While he won from 17th on the grid in 2024 and drove from the pitlane to the podium last year, Verstappen finished this year's Formula 1 Brazilian Grand Prix in second place after starting 21st.His start did not go entirely to plan, however, as Verstappen acknowledged in the post-race press ...<a class='more'",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/lewis-hamilton-opens-up-on-clear-the-air-talks-with-charles-leclerc-after-mexican-gp-clash/10872761/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-07T21:39:36.000Z",
+        "url": "https://www.motorsport.com/f1/news/max-verstappen-needs-to-understand-what-happened-after-night-and-day-f1-comeback-in-brazil/10873146/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-08T21:53:41.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "A BioWare documentary was already in the works when the shutdown was announced: 'With the studio's recent closure, the film is now a profound valediction'",
-        "summary": "\"The best stories never really end.\"",
-        "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/a-bioware-documentary-was-already-in-the-works-when-the-shutdown-was-announced-with-the-studios-recent-closure-the-film-is-now-a-profound-valediction/",
-        "seendate": "2026-11-08T01:31:13.000Z",
-        "domain": "pcgamer.com"
+        "title": "Emre Sakci Fires Off 25 . 48 50 SCM Breast , World Third - Fastest This Season , At Swedish Swim Games",
+        "summary": "The World Record holder in the event clocked 25.48, before also adding wins in the 100m breast (56.65) and 50m free (21.84).",
+        "source": "swimswam.com",
+        "url": "https://swimswam.com/emre-sakci-fires-off-25-48-50-scm-breast-worlds-third-fastest-this-season-at-swedish-swim-games/",
+        "seendate": "20261109T010000Z",
+        "domain": "swimswam.com"
       },
       {
-        "title": "Chess is immediately more fun if you jettison most of the rules and replace them with weapons-grade Game Boy Advance",
-        "summary": "\"Pawn Chess\" is whatever you want it to be in Rulehouse.",
-        "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/puzzle/chess-is-immediately-more-fun-if-you-jettison-most-of-the-rules-and-replace-them-with-weapons-grade-game-boy-advance/",
-        "seendate": "2026-11-08T00:40:53.000Z",
-        "domain": "pcgamer.com"
+        "title": "Breaking down the race for conference title game spots in each FBS league – Winnipeg Free Press",
+        "summary": "If the College Football Playoff expands to 24 teams next season, that could be the end of conference title games at the sport",
+        "source": "winnipegfreepress.com",
+        "url": "https://www.winnipegfreepress.com/uncategorized/2026/11/08/breaking-down-the-race-for-conference-title-game-spots-in-each-fbs-league-2",
+        "seendate": "20261109T010000Z",
+        "domain": "winnipegfreepress.com"
       },
       {
-        "title": "One of the buggiest D&D games ever released, Pool of Radiance: Ruins of Myth Drannor, is back and actually playable again",
-        "summary": "But did anyone ask for this?",
-        "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/rpg/one-of-the-buggiest-d-and-d-games-ever-released-pool-of-radiance-ruins-of-myth-drannor-is-back-and-actually-playable-again/",
-        "seendate": "2026-11-07T23:22:07.000Z",
-        "domain": "pcgamer.com"
+        "title": "Seven killed and more than 125 injured in train collision in Egypt",
+        "summary": "The crash occurred about 32 miles south of the capital Cairo.",
+        "source": "ealingtimes.co.uk",
+        "url": "https://www.ealingtimes.co.uk/news/national/26710005.seven-killed-125-injured-train-collision-egypt/",
+        "seendate": "20261109T010000Z",
+        "domain": "ealingtimes.co.uk"
       },
       {
-        "title": "Linux on the desktop marches on as GOG announces its Galaxy client is getting a revamp headed to Windows, macOS, and your distro of choice",
-        "summary": "I recommend openSUSE Tumbleweed, personally.",
-        "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/software/linux/linux-on-the-desktop-marches-on-as-gog-announces-its-galaxy-client-is-getting-a-revamp-headed-to-windows-macos-and-your-distro-of-choice/",
-        "seendate": "2026-11-07T15:00:00.000Z",
-        "domain": "pcgamer.com"
+        "title": "The Jackery HomePower 2000 Plus v2 Red Cross Edition CleanTechnica Tested",
+        "summary": "Support CleanTechnica&#039;s work through a Substack subscription, on Patreon, or on Stripe. Help us produce all of the high-quality, original content we publish week after week despite the challenges of content-scraping AI, antisocial media, inflation, and other hurdles. Jackery was one of the earliest portable power station producers to bring ... [continued]",
+        "source": "cleantechnica.com",
+        "url": "https://cleantechnica.com/2026/11/08/the-jackery-homepower-2000-plus-v2-red-cross-edition-cleantechnica-tested/",
+        "seendate": "20261109T010000Z",
+        "domain": "cleantechnica.com"
       },
       {
-        "title": "Mass Effect composer Sam Hulick releases his 're-scored' trailer for N7 Day, 'my way of saying goodbye… at least for now'",
-        "summary": "Hulick also revealed that he was asked by BioWare to score an internal demo for Mass Effect: Universe—but work was cut short by the studio's closure.",
-        "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/mass-effect/mass-effect-composer-sam-hulick-releases-his-re-scored-trailer-for-n7-day-my-way-of-saying-goodbye-at-least-for-now/",
-        "seendate": "2026-11-07T15:00:00.000Z",
-        "domain": "pcgamer.com"
+        "title": "Connect to the Capitol : SC voters make history in midterms , Andrews wins Senate seat",
+        "summary": "COLUMBIA, S.C. (WACH) - Annie Andrew shattered decades of Republican dominance in South Carolina on Tuesday to become the first Democrat elected to the U.S. Sen",
+        "source": "abcnews4.com",
+        "url": "https://abcnews4.com/news/state/connect-to-the-capitol-sc-voters-make-history-in-midterms-andrews-wins-senate-seat",
+        "seendate": "20261109T010000Z",
+        "domain": "abcnews4.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
+      {
+        "title": "Hot fridges, a fake nuclear alert and a $6bn heist: are we in the foothills of a hacking epidemic?",
+        "summary": "As AI exposes flaws in IT systems and geopolitics plays out on the cyber frontline, some experts say the events of recent weeks could soon be a common occurrenceAlex Pearce was doing the morning rounds at his fruit and vegetable wholesale business in London on Monday last week when he noticed something odd.The defrost light on refrigeration unit 2 was on, and the panel reading was 150C. Unit 4 was th",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/news/ng-interactive/2026/nov/08/hot-fridges-a-fake-nuclear-alert-and-a-6bn-heist-are-we-in-the-foothills-of-a-hacking-epidemic",
+        "seendate": "2026-11-08T06:00:33.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "‘AI clog’: UK public bodies battle onslaught of chatbot-generated complaints",
+        "summary": "MPs, local authorities, lawyers, schools and more are receiving floods of grievances, requests and legal challenges, often complex to read and respond to‘It started as a trickle in 2024 and now it’s an onslaught.” Hollie Wickens, a senior caseworker in a Labour MP’s office, is explaining the daily reality of dealing with surging volumes of artificial intelligence-generated correspondence.“Half the em",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence",
+        "seendate": "2026-11-08T08:00:36.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "TikTok accused of helping to promote sex industry to girls",
         "summary": "Researchers say popular performers covertly market OnlyFans content and tell followers about wealthy lifestyleTikTok is helping to promote and normalise the sex industry, allowing “sexfluencers” to post videos aimed at marketing pornographic content they have uploaded elsewhere on sites such as OnlyFans, a report indicates.After studying non-explicit content posted on TikTok over the course of a year",
@@ -321,25 +337,25 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/technology/ng-interactive/2026/nov/07/philadelphia-blocking-food-delivery-robots",
         "seendate": "2026-11-07T14:00:12.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "The datacentre arms race hits pause in south-east Asia",
-        "summary": "Power and water constraints are pressuring what seemed like a juggernaut of growth for the region just months agoIn early 2026, Thailand’s datacentre industry was on a roll. The country’s board of investment had recently announced approval of datacentre projects from Tiktok, a UAE-based Skyline datacentre and Singapore’s Bridge datacentres, totalli",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/nov/07/datacentres-southeast-asia",
-        "seendate": "2026-11-07T10:00:07.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Can AI really save you money on your heating bill? I spent two years testing to find out",
-        "summary": "Samuel Gibbs doubted he could cut costs and still keep warm by putting tech in control. The results surprised himCan smart thermostats and AI reduce your heating bills? Every manufacturer claims the answer is yes, quoting average savings in the 25%, or £180 a year range. But all of these promises ar",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/money/2026/nov/07/can-ai-save-you-money-heating-bill",
-        "seendate": "2026-11-07T07:00:07.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "climate": [
+      {
+        "title": "Beef industry quietly squashes part of its own science curriculum after ranchers protest",
+        "summary": "Lesson for teenagers included how cattle’s methane emissions contribute to climate crisis, but it was then scrappedA beef industry-funded effort to teach teenagers about cattle’s climate impact was quietly scrapped following backlash from some ranchers, who disputed the premise that cows contribute to global heating.The episode is the latest example of the livestock industry’s decades-long battle to",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/environment/2026/nov/08/beef-industry-climate-impact-education",
+        "seendate": "2026-11-08T15:00:43.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "US datacenter demand spurs increased fossil fuel pipeline projects as rules are discarded",
+        "summary": "Trump administration has gutted regulations that protect lives and natural resources as pipeline build-out continuesDatacenters are spurring a boom in fossil fuel pipeline projects at a time when the Trump administration is gutting rules that protect from disasters along",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/nov/08/datacenters-fossil-fuel-pipelines-regulations",
+        "seendate": "2026-11-08T13:00:40.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "New ‘high safety’ chemicals in plastic food packaging linked to lower birth weight, study finds",
         "summary": "Dinch, an allegedly ‘safe’ alternative, used in the EU and US also found to cause fetal development complicationsExposure to a new generation of allegedly “safe” plasticizers is linked to lower birth weight and fetal development complications, which could cause serious health problems later in life, a new peer-reviewed study f",
@@ -363,25 +379,25 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/environment/2026/nov/06/alaska-juneau-food-access",
         "seendate": "2026-11-06T15:00:46.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "‘An abomination’: Idaho hunters earned thousands of dollars to kill newborn wolf pups, records reveal",
-        "summary": "Wildlife advocates incensed as documents show state paid out $2,000 per kill in effort to shrink state’s wolf populationIdaho officials paid hunters thousands of dollars for killing a dozen newborn wolf pups this spring, including what appears to be at least one full litter killed in or near its den, according to state records shared with the Guardian and Public Domain.The wolf pup killings have ince",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/nov/06/idaho-hunters-newborn-wolf-pups",
-        "seendate": "2026-11-06T12:00:42.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "How Democrats used the midterms to turn affordability concerns into ‘green populism’",
-        "summary": "From energy prices to datacenters, climate became a cost-of-living issue – and a winning oneQ&amp;A: Ask your questions about Democrats’ win in the midtermsClimate-forward <a href=\"https://www.theguardian.com/us-news/democ",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/nov/05/democrats-climate-crisis-in-midterm-election-results",
-        "seendate": "2026-11-05T17:00:28.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "science": [
+      {
+        "title": "Ukraine’s new frontier: how space has become critical to balance of the war",
+        "summary": "In a war driven by drones and battlefield sensors, access to space is essential. After Starlink speed restrictions and Russian Oreshnik missile strikes, Kyiv is racing to develop its own space capabilitiesFor people in the Russian industrial city of Samara on the banks of the Volga, the first they knew of the Ukrainian attack were detonations that sent a column of smoke into the air.If the Kremlin wa",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/ng-interactive/2026/nov/08/ukraine-space-critical-war-starlink",
+        "seendate": "2026-11-08T05:00:30.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Nasa seeks next generation of astronauts to live and work on the moon",
+        "summary": "Applications due on 3 December for new generation of explorers who can ‘shape humanity’s future in space’Nasa has launched a callout for a new generation of astronauts as it searches for explorers who could live and work on the moon.Opening applications for the latest expansion of its Artemis program, the US age",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/nov/08/nasa-astronauts-moon-applications-open",
+        "seendate": "2026-11-08T16:54:44.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Thunderstruck: what does the future hold for lightning?",
         "summary": "Humans have always been awed by the power and beauty of lightning. How does the experience and understanding of it change in a warming world?In a rock shelter in Kakadu national park in the north of Australia is an image of a being the Bininj people call Namarrkon. His flesh bleached away to reveal the bones beneath, he wears stone axes on his he",
@@ -404,22 +420,6 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/uk-news/2026/nov/05/origin-stonehenge-altar-remains-enigma-north-east-scotland-ruled-out",
         "seendate": "2026-11-05T14:26:52.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Swapping from dairy to plant-based milk, cheese and yoghurt ‘could lead to micronutrient deficiencies’",
-        "summary": "Young people and women most at risk, study finds, as researchers call for vegan products to be fortified with iodine in particularSwitching from dairy products to plant-based alternatives could lead to deficiencies in vital micronutrients, especially among young people and women, a study has found.Even moving partly to vegan alternatives to milk, cheese and yoghurt could lead to falls in iodine, calc",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/nov/04/swapping-dairy-milk-cheese-yoghurt-plant-based-vegan-alternatives-deficiencies-micronutrients-iodine",
-        "seendate": "2026-11-04T23:30:47.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "‘Ferritin face’: what you need to know about low iron - podcast",
-        "summary": "Social media is awash with claims iron deficiency can be identified in the mirror by dark circles, breaking hair and dry skin. But is ‘ferritin face’ real? Madeleine Finlay tells Ian Sample why so many of us struggle to keep our iron levels up, how we can actually diagnose low iron and the best way to correct a deficiency, with help from Hal Drakesmith, a professor of iron biology at Oxford University, and advice",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/audio/2026/nov/05/ferritin-face-can-you-really-diagnose-low-iron-from-a-selfie-podcast",
-        "seendate": "2026-11-05T06:00:55.000Z",
         "domain": "theguardian.com"
       }
     ]
