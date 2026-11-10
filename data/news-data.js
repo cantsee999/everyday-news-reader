@@ -1,5 +1,5 @@
 window.NEWS_CACHE = {
-  "generatedAt": "2026-11-09T02:11:27.989Z",
+  "generatedAt": "2026-11-10T04:23:57.270Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
@@ -88,47 +88,71 @@ window.NEWS_CACHE = {
     ],
     "economy": [
       {
-        "title": "The Jackery HomePower 2000 Plus v2 Red Cross Edition CleanTechnica Tested",
-        "summary": "Support CleanTechnica&#039;s work through a Substack subscription, on Patreon, or on Stripe. Help us produce all of the high-quality, original content we publish week after week despite the challenges of content-scraping AI, antisocial media, inflation, and other hurdles. Jackery was one of the earliest portable power station producers to bring ... [continued]",
-        "source": "cleantechnica.com",
-        "url": "https://cleantechnica.com/2026/11/08/the-jackery-homepower-2000-plus-v2-red-cross-edition-cleantechnica-tested/",
-        "seendate": "20261109T010000Z",
-        "domain": "cleantechnica.com"
+        "title": "Jensen Huang’s image has been shattered. Could he be pushed out at Nvidia?",
+        "summary": "Huang built Nvidia as a family business but after the co-founder had an affair with an alleged Chinese spy, its board faces a difficult decisionFor more than 30 years, Jensen Huang has been the seemingly unshakable public face of Nvidia. He co-founded the company as a young engineer in 1993 and oversaw its growth into a multitrillion dollar chipmaker and bellwether of the AI industry at large.He’s al",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/nov/09/jensen-huang-image-nvidia",
+        "seendate": "2026-11-09T20:27:07.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Time Is of the Essence : Elektros Advances Development Efforts for Its Patented Multi - Port EV Charging Technology",
-        "summary": "WEST PALM BEACH, FL / ACCESS Newswire / November 8, 2026 / Elektros, Inc. A New Way to Think About Time Time is one of the most valuable commodities we have. Fo",
-        "source": "newjerseytelegraph.com",
-        "url": "http://www.newjerseytelegraph.com/news/279420688/time-is-of-the-essence-elektros-advances-development-efforts-for-its-patented-multi-port-ev-charging-technology",
-        "seendate": "20261109T010000Z",
-        "domain": "newjerseytelegraph.com"
+        "title": "Economic relief is on the way, Democrats say. But what, how and when?",
+        "summary": "Winning candidates promised to cut costs, rein in corporations, curb billionaire power and improve the economyDon’t worry, cash-strapped Americans, “relief is on the way”, the senator Chuck Schumer promised last week in a press conference celebrating Democrats’ massive midterms win.Winning candidat",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/nov/09/democrats-midterms-economy-healthcare",
+        "seendate": "2026-11-09T11:00:07.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "NZ needs to stay vigilant when it comes to sovereign debt",
-        "summary": "Brian Easton says as France struggles with escalating financial pressures, New Zealand must remain vigilant to the risks of a destabilising sovereign crisis",
-        "source": "interest.co.nz",
-        "url": "https://www.interest.co.nz/economy/141012/brian-easton-says-france-struggles-escalating-financial-pressures-new-zealand-must",
-        "seendate": "20261109T010000Z",
-        "domain": "interest.co.nz"
+        "title": "Boeing to cut about 5% of its commercial plane workforce",
+        "summary": "Company will cut jobs through a mix of layoffs and attrition as it moderates the pace of ramping up jet productionBoeing will cut about 5% of its commercial plane workforce as it moderates the pace of ramping up jet production, the company said on Monday.The company will eliminate the posts through a mix of layoffs and attrition because of a slower ramp-up to “provide our factories and supply chain p",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/business/2026/nov/09/boeing-to-cut-commercial-plane-workforce",
+        "seendate": "2026-11-09T19:11:26.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "CFTC allows single - stock perpetual futures to begin trading",
-        "summary": "Perpetual futures contracts tied to individual company stocks can begin trading on properly registered U.S. commodity markets, the country's derivatives regulator said November 3",
-        "source": "pittsburghstar.com",
-        "url": "http://www.pittsburghstar.com/news/279409896/cftc-allows-single-stock-perpetual-futures-to-begin-trading",
-        "seendate": "20261109T010000Z",
-        "domain": "pittsburghstar.com"
+        "title": "US job growth exceeds expectations in October despite economic uncertainty",
+        "summary": "‘Low-hire, low-fire’ labor market shows sluggish growth but few layoffs, with an interest rate hike expected in DecemberThe US added 165,000 jobs to the economy in October, a sign of resilience in the labor market amid war in the Middle East and inflation, according to new data released on Friday.Economists had said the labor market has been stuck in a “low-hire, low-fire” state, in which job growth",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/business/2026/nov/06/us-job-growth-october",
+        "seendate": "2026-11-06T13:42:26.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "CFTC allows single - stock perpetual futures to begin trading",
-        "summary": "Perpetual futures contracts tied to individual company stocks can begin trading on properly registered U.S. commodity markets, the country's derivatives regulator said November 3",
-        "source": "africaleader.com",
-        "url": "http://www.africaleader.com/news/279409896/cftc-allows-single-stock-perpetual-futures-to-begin-trading",
-        "seendate": "20261109T010000Z",
-        "domain": "africaleader.com"
+        "title": "Could the AI bubble burst after Democrats' midterms sweep? - The Latest",
+        "summary": "Global tech stocks have plunged after the Democrats’ victory in the US midterm elections, with fears of a slowdown in AI development. Major tech corporations including Apple, Tesla and Nvidia shed about $1tn in a single trading session. Is this stock market jitters, or a sign the AI bubble might be about to burst? Lucy Hough speaks to senior economics correspondent Richard Partington <a href=\"https://www.thegu",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/news/video/2026/nov/06/could-the-ai-bubble-burst-after-democrats-midterms-sweep-the-latest",
+        "seendate": "2026-11-06T17:04:41.000Z",
+        "domain": "theguardian.com"
       }
     ],
     "literature": [
+      {
+        "title": "M John Harrison becomes first science fiction author to win the Booker prize",
+        "summary": "The 81-year-old’s postapocalyptic novel The End of Everything takes home the £50,000 awardGuardian fiction editor Justine Jordan on M John Harrison’s win: A visionary writer gets the recognition he deservesEighty-one-year-old M John Harrison has won the Booker prize for <a href",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize",
+        "seendate": "2026-11-09T22:00:20.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Look at Me by Dustin Hoffman review – an era-defining actor says his piece",
+        "summary": "At 89, the star of the Graduate and Rain Man demonstrates both brilliance and a startling lack of self-awarenessThe choice of title for an actor’s autobiography can be revealing. Sylvester Stallone went with The Steps, conflating life’s challenging progress with those steps at the Phi",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/nov/09/look-at-me-by-dustin-hoffman-review-an-era-defining-actor-says-his-piece",
+        "seendate": "2026-11-09T07:00:02.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Two Women by Jacqueline Rose review – a memorial to Gillian Rose",
+        "summary": "The connections between the author’s sister and the German Jewish philosopher Edith Stein are vividly imagined in alternating chapters of a fictional biographyIn a long and distinguished career as a feminist cultural critic, Jacqueline Rose has combined psychoanalysis, politics, human rights and literature in her work. Among her books are The Haunting of Sylvia Plath and Women in Dark Times, and a novel, 20",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/nov/09/two-women-by-jacqueline-rose-review-a-memorial-to-gillian-rose",
+        "seendate": "2026-11-09T09:00:04.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "‘No tech, no texts, just childhood’: author Liz Pichon on the secrets behind her multi-million selling Tom Gates series",
         "summary": "As her long-running children’s book series turns 15, Liz Pichon talks about overcoming dyslexia to become a bestselling authorIf you ever find yourself in an airport newsagent, it might be worth peering inside one of Liz Pichon’s books. “I do guerrilla signings,” she tells me conspiratorially. “They let me go in and I sign all the books, just in case. I love the idea of kids buying a book, going on holiday",
@@ -144,202 +168,194 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/books/2026/nov/08/the-efficiency-trap-why-optimising-everything-can-backfire-badly",
         "seendate": "2026-11-08T12:00:39.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Tom Gauld on prompts for a cartoon about artificial intelligence and writing – cartoon",
-        "summary": "Continue reading...",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/picture/2026/nov/08/tom-gauld-on-prompts-for-a-cartoon-about-artificial-intelligence-and-writing-cartoon",
-        "seendate": "2026-11-08T12:00:40.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Narrative threads: How to write a Booker-shortlisted novel, by Marlon James, Douglas Stuart, Elizabeth Strout and more",
-        "summary": "A trip to the Scottish islands, a psychological experiment, a chance encounter in a drugstore… the finalists for this year’s Booker prize reveal their inspirations Who knows where a novel really comes from? I spend years gathering loose threads and then, when I feel like the cloth will hold, I start to weave them into a narrative. I suppose I began internalising John of John back in 1994, the year I went to",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/nov/07/narrative-threads-how-to-write-a-booker-shortlisted-novel-by-marlon-james-douglas-stuart-elizabeth-strout-and-more",
-        "seendate": "2026-11-07T09:00:06.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Nikita Gill: ‘I read Flowers in the Attic too young. Someone should have stopped me’",
-        "summary": "The Indian-Irish poet on the Mahabharata retelling that inspired her to write, Arundhati Roy’s courage, and the poetry of Lucille CliftonMy earliest reading&nbsp;memory My father was a sailor and my mother a teacher. They were both voracious readers. I was lucky enough to come from a home full of books and when we joined my father out at sea for extended periods of time, my mother carri",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/nov/06/nikita-gill-i-read-flowers-in-the-attic-too-young-someone-should-have-stopped-me",
-        "seendate": "2026-11-06T10:00:50.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "entertainment": [
       {
-        "title": "Sebastián Lelio was a fascinating film-maker of great passion and poetry",
-        "summary": "Chilean director of films including Gloria and A Fantastic Woman could expertly capture both the personal and politicalSebastián Lelio, director of A Fantastic Woman and Gloria, dies aged 52The last 20 years have seen an amazing flowering of creativity from Chilean film-makers. The stand",
+        "title": "Paul McCartney becomes a billionaire and world’s third richest musician",
+        "summary": "According to a new analysis by Forbes, the former Beatle now has a net worth of $1.4bn, placing him behind Jay-Z and Taylor SwiftPaul McCartney has joined the ranks of the world’s billionaires. Forbes has valued the former Beatle’s net worth at $1.4bn (£1.04bn),",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/nov/06/sebastian-lelio-chilean-film-maker",
-        "seendate": "2026-11-06T20:56:41.000Z",
+        "url": "https://www.theguardian.com/music/2026/nov/09/paul-mccartney-billionaire",
+        "seendate": "2026-11-09T21:22:33.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Macklemore says that nine US arenas turned down his Free Palestine tour",
-        "summary": "Rapper called out ‘intimidation and suppression’ in post, claiming major arenas refused to host him after he was dropped from Ed Sheeran’s tourMacklemore says that nine leading US arenas have refused to host his Free Palestine fundraising tour, call",
+        "title": "Donnie Dunagan, original voice of Disney’s Bambi and triple Purple Heart marine, dies aged 92",
+        "summary": "Dunagan was six when he voiced the young deer in the classic cartoon, with an assistant director instructing him to pretend his own mother had diedDonnie Dunagan, who voiced Bambi in the Walt Disney classic, as well as playing the son of Frankenstein opposite Basil Rathbone and Boris Karloff, has died aged 92.Dunagan was six when he was chosen to provide the voice of the young deer in the animation’s",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/music/2026/nov/06/macklemore-arenas-free-palestine-tour",
-        "seendate": "2026-11-06T19:46:56.000Z",
+        "url": "https://www.theguardian.com/film/2026/nov/09/donnie-dunagan-bambi-voice-triple-purple-heart-marine-dies",
+        "seendate": "2026-11-09T17:48:31.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Seth Meyers on Republicans: ‘Furiously backpedalling away from Trump’",
-        "summary": "Late-night hosts spoke about how the losing party is dealing with the midterms, which saw a round of wins for the DemocratsLate-night hosts ridiculed the many Republicans who are now trying to distance themselves from Donald Trump after the Democrats scored a midterms victory this week. Continue reading...</",
+        "title": "John Oliver on Pete Hegseth’s military plans: ‘Dr Seuss for concussed bigots’",
+        "summary": "Late-night host discussed the defense secretary’s attacks on DEI, time as a Fox News host and ties to nationalist groupsOn his HBO show on Sunday night, John Oliver focused on Pete Hegseth, characterizing his actions as secretary of war as “taking a wrecking ball” to the US milit",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/culture/2026/nov/06/seth-meyers-republicans-trump-midterms",
-        "seendate": "2026-11-06T16:31:05.000Z",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/nov/09/john-oliver-pete-hegseth-military",
+        "seendate": "2026-11-09T17:04:36.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "The Cat in the Hat review – Bill Hader brings plenty but this animated rework is a mess",
-        "summary": "The SNL alum has an appealing energy and this is an improvement on the 2003 travesty but it’s also far too long and strangely corporateOver a long enough timeline, perhaps every living alumnus of Saturday Night Live will play the Cat in the Hat. Mike Myers kicked off this unexpected tradition by embodying the furry, anarchic Dr Seuss character for a notoriously, almost defiantly ghastly 2003 live-action tre",
+        "title": "‘We did 10 takes of it!’ Kerr Smith on Dawson’s Creek and filming US TV’s first gay kiss",
+        "summary": "As he releases a memoir, the actor opens up about the late James Van Der Beek, the magic of the Creek, and facing homophobia for playing gay in the 90sThere are worse things to spend a couple of decades chasing than the feeling of being young, successful and surrounded by people who love you. For Kerr Smith, though, the particular magic of Dawson’s Creek has proved just about impossible to replicate.",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/nov/06/cat-in-the-hat-movie-review",
-        "seendate": "2026-11-06T14:38:28.000Z",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/nov/09/kerr-smith-dawsons-creek-tv",
+        "seendate": "2026-11-09T11:00:08.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "If Dune is this generation’s Star Wars, we are all in big trouble",
-        "summary": "According to Florence Pugh, Denis Villeneuve’s stunningly strange and breathtaking universe is the equivalent to George Lucas’ heroic space opera. Let’s hope notA long time ago, far far away, in a galaxy called the 1970s, kids dreamed of joining the rebellion, rescuing a princess and blowing up the Death Star. Peer into the cosmic tea leaves and it would become immediately clear that no amount of evildoing",
+        "title": "‘Sadistic, forbidden pleasure’: why Gone Girl is my feelgood movie",
+        "summary": "The latest in our ongoing series of writers highlighting their go-to comfort films is a reminder of the dark joys that can be found in David Fincher’s devilish thriller“When I think of my wife, I always think of the back of her head,” narrates Ben Affleck in the opening scene of Gone Girl, David Fincher’s",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/nov/06/florence-pugh-dune-star-wars",
-        "seendate": "2026-11-06T14:04:43.000Z",
+        "url": "https://www.theguardian.com/film/2026/nov/09/gone-girl-david-fincher-comfort-movie",
+        "seendate": "2026-11-09T10:00:07.000Z",
         "domain": "theguardian.com"
       }
     ],
     "f1": [
       {
-        "title": "Red Bull boss hails Max Verstappen's Brazil podium: \"He's beating the sim on a regular basis\"",
-        "summary": "Red Bull team principal Laurent Mekies said no simulation could have predicted Max Verstappen's charge from 21st to second in the Brazilian Grand Prix at Interlagos.The Dutchman started near the back of the grid after an engine penalty and warned after qualifying that it would be harder to overtake at the São Paulo circuit than in previous years. But he proved himself wrong with an ...<a class='more' hre",
+        "title": "F1 Las Vegas Grand Prix announces pre-race music line-up",
+        "summary": "American DJ Steve Aoki will return to the Las Vegas Grand Prix grid this year for a performance before the race on 21 November. He will be joined by fellow DJ MORTEN and singer Jordin Sparks as part of the pre-race line-up.MORTEN will perform ahead of the driver introductions, which have become a fan-favourite part of the Las Vegas Grand Prix weekend after the viral moment between Sergio ...<a class='mor",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/red-bull-boss-hails-max-verstappens-brazil-podium-hes-beating-the-sim-on-a-regular-basis/10873193/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-08T23:11:39.000Z",
+        "url": "https://www.motorsport.com/f1/news/f1-las-vegas-grand-prix-announces-pre-race-music-line-up/10873488/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-09T23:57:29.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Winners and losers from F1's chaotic Brazilian Grand Prix",
-        "summary": "Are you not entertained? While Lando Norris took a well-deserved third win of the campaign, Mercedes collectively slipped up and Max Verstappen produced yet another Brazilian Grand Prix masterclass.Winner: Lando NorrisMcLaren team boss Andrea Stella loves describing Lando Norris as the low-grip master. When conditions are difficult, Norris is one the very best at adapting and getting the ...<a class=",
+        "title": "Lewis Hamilton to share flight with Mercedes after former team's F1 title triumph",
+        "summary": "Seven-time Formula 1 champion Lewis Hamilton's trip back from Interlagos could have been an awkward one after Mercedes team principal Toto Wolff revealed that the Ferrari driver would be travelling with the newly crowned constructors' champions.Mercedes secured its ninth constructors' title at the Brazilian Grand Prix on Sunday, with George Russell and Kimi Antonelli finishing fourth and ...<a class='mor",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/winners-and-losers-from-f1s-chaotic-brazilian-grand-prix/10873189/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-08T22:59:54.000Z",
+        "url": "https://www.motorsport.com/f1/news/lewis-hamilton-to-share-flight-with-mercedes-after-former-teams-f1-title-triumph/10873483/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-09T23:30:48.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Max Verstappen gives emotional farewell gift to long-serving Red Bull mechanic",
-        "summary": "Four-time Formula 1 champion Max Verstappen has given his race helmet to long-serving Red Bull mechanic Ole Schack, who took part in his final race for the Milton Keynes outfit at Interlagos.Schack has been with Red Bull since its first season in 2005 and works on Verstappen's car as a front-end mechanic. The team has also created a one-off can of Red Bull, which features a list of his career ...<a class",
+        "title": "George Russell \"keeps getting kicked\" as F1 pundit addresses 2026 struggles",
+        "summary": "Former IndyCar Series driver and F1 TV pundit James Hinchcliffe believes George Russell had good reason to look \"a bit defeated\" after another difficult afternoon at the Brazilian Grand Prix.While Mercedes ended the weekend on a high, securing the constructors' championship, Russell endured another frustrating race. The Briton missed out on pole position to McLaren's Lando Norris and ...<a class='more' h",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/max-verstappen-gives-emotional-farewell-gift-to-long-serving-red-bull-mechanic/10873184/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-08T22:36:27.000Z",
+        "url": "https://www.motorsport.com/f1/news/george-russell-keeps-getting-kicked-as-f1-pundit-addresses-2026-struggles/10873477/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-09T22:59:41.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Charles Leclerc penalised for Liam Lawson clash; Kimi Antonelli and Oliver Bearman also punished after F1 Brazilian GP",
-        "summary": "Charles Leclerc was handed a five-second penalty after the Formula 1 Brazilian Grand Prix for his clash with Liam Lawson, dropping the Ferrari driver down to eighth place in the final results.The Monegasque was battling the Racing Bulls driver for seventh place on lap 69 of the Sao Paulo race when the pair made contact into Juncao, Turn 12, but both were able to continue and finish the ...<a class='more'",
+        "title": "George Russell teases imminent karting announcement as F1 fans spot major clue",
+        "summary": "George Russell has teased an imminent announcement linked to karting on 12 November.The Mercedes driver posted a video to Instagram on Monday with the caption \"Stay tuned\". He talks about his first steps in motorsport over footage of himself racing karts as a boy, including a kart carrying the number 63 that he still uses in Formula 1.The clip ends with the date 12.11.26, suggesting more ...<a class=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/charles-leclerc-penalised-for-liam-lawson-clash-kimi-antonelli-and-oliver-bearman-also-punished-aft/10873163/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-08T21:54:53.000Z",
+        "url": "https://www.motorsport.com/f1/news/george-russell-teases-imminent-karting-announcement-as-f1-fans-spot-major-clue/10873459/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-09T18:31:47.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Max Verstappen \"needs to understand what happened\" after \"night and day\" F1 comeback in Brazilian GP",
-        "summary": "For the third year in a row, Max Verstappen has produced an impressive comeback drive in Brazil. While he won from 17th on the grid in 2024 and drove from the pitlane to the podium last year, Verstappen finished this year's Formula 1 Brazilian Grand Prix in second place after starting 21st.His start did not go entirely to plan, however, as Verstappen acknowledged in the post-race press ...<a class='more'",
+        "title": "Apple TV confirms free F1 Las Vegas Grand Prix coverage: How to watch in the US",
+        "summary": "Formula 1 fans in the United States will be able to watch the Las Vegas Grand Prix for free after Apple TV confirmed the whole race weekend will be available to stream with no subscription needed.The free coverage will include every on-track session from first practice on Thursday evening through to qualifying and Saturday night's grand prix.F1 announced a five-year partnership with Apple ...<a class",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/max-verstappen-needs-to-understand-what-happened-after-night-and-day-f1-comeback-in-brazil/10873146/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-08T21:53:41.000Z",
+        "url": "https://www.motorsport.com/f1/news/apple-tv-confirms-free-f1-las-vegas-grand-prix-coverage-how-to-watch-in-the-us/10873443/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-09T17:56:51.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "Emre Sakci Fires Off 25 . 48 50 SCM Breast , World Third - Fastest This Season , At Swedish Swim Games",
-        "summary": "The World Record holder in the event clocked 25.48, before also adding wins in the 100m breast (56.65) and 50m free (21.84).",
-        "source": "swimswam.com",
-        "url": "https://swimswam.com/emre-sakci-fires-off-25-48-50-scm-breast-worlds-third-fastest-this-season-at-swedish-swim-games/",
-        "seendate": "20261109T010000Z",
-        "domain": "swimswam.com"
+        "title": "AMD users are reporting a misfiring utility is eating SSD health by 1% a month. AMD says a fix is on the way for its GPU drivers",
+        "summary": "No rush. SSDs are cheap as chips right now, eh?",
+        "source": "pcgamer.com",
+        "url": "https://www.pcgamer.com/hardware/graphics-cards/amd-users-are-reporting-a-misfiring-utility-is-eating-ssd-health-by-1-percent-a-month-amd-says-a-fix-is-on-the-way-for-its-gpu-drivers/",
+        "seendate": "2026-11-09T17:15:26.000Z",
+        "domain": "pcgamer.com"
       },
       {
-        "title": "Breaking down the race for conference title game spots in each FBS league – Winnipeg Free Press",
-        "summary": "If the College Football Playoff expands to 24 teams next season, that could be the end of conference title games at the sport",
-        "source": "winnipegfreepress.com",
-        "url": "https://www.winnipegfreepress.com/uncategorized/2026/11/08/breaking-down-the-race-for-conference-title-game-spots-in-each-fbs-league-2",
-        "seendate": "20261109T010000Z",
-        "domain": "winnipegfreepress.com"
+        "title": "Cheaper OLEDs may be here even quicker than we thought as TCL CSOT says its new inkjet printing facility could be up and running as soon as this time next year",
+        "summary": "Previous rumours had it penned for 2028.",
+        "source": "pcgamer.com",
+        "url": "https://www.pcgamer.com/hardware/gaming-monitors/cheaper-oleds-may-be-here-even-quicker-than-we-thought-as-tcl-csot-says-its-new-inkjet-printing-facility-could-be-up-and-running-as-soon-as-this-time-next-year/",
+        "seendate": "2026-11-09T16:58:52.000Z",
+        "domain": "pcgamer.com"
       },
       {
-        "title": "Seven killed and more than 125 injured in train collision in Egypt",
-        "summary": "The crash occurred about 32 miles south of the capital Cairo.",
-        "source": "ealingtimes.co.uk",
-        "url": "https://www.ealingtimes.co.uk/news/national/26710005.seven-killed-125-injured-train-collision-egypt/",
-        "seendate": "20261109T010000Z",
-        "domain": "ealingtimes.co.uk"
+        "title": "Jensen Huang’s affair with alleged Chinese spy highlights how the GPU company’s dealings are now everyone’s business",
+        "summary": "He used to sell gaming GPUs, now he's in the middle of a geopolitical quagmire.",
+        "source": "pcgamer.com",
+        "url": "https://www.pcgamer.com/hardware/graphics-cards/jensen-huangs-affair-with-alleged-chinese-spy-highlights-how-the-gpu-companys-dealings-are-now-everyones-business/",
+        "seendate": "2026-11-09T16:56:37.000Z",
+        "domain": "pcgamer.com"
       },
       {
-        "title": "The Jackery HomePower 2000 Plus v2 Red Cross Edition CleanTechnica Tested",
-        "summary": "Support CleanTechnica&#039;s work through a Substack subscription, on Patreon, or on Stripe. Help us produce all of the high-quality, original content we publish week after week despite the challenges of content-scraping AI, antisocial media, inflation, and other hurdles. Jackery was one of the earliest portable power station producers to bring ... [continued]",
-        "source": "cleantechnica.com",
-        "url": "https://cleantechnica.com/2026/11/08/the-jackery-homepower-2000-plus-v2-red-cross-edition-cleantechnica-tested/",
-        "seendate": "20261109T010000Z",
-        "domain": "cleantechnica.com"
+        "title": "'Floppy disks are out, 21st century tech is in': The FAA is finally ditching 55-year-old storage",
+        "summary": "Better late than never.",
+        "source": "pcgamer.com",
+        "url": "https://www.pcgamer.com/hardware/floppy-disks-are-out-21st-century-tech-is-in-the-faa-is-finally-ditching-55-year-old-storage/",
+        "seendate": "2026-11-09T16:07:08.000Z",
+        "domain": "pcgamer.com"
       },
       {
-        "title": "Connect to the Capitol : SC voters make history in midterms , Andrews wins Senate seat",
-        "summary": "COLUMBIA, S.C. (WACH) - Annie Andrew shattered decades of Republican dominance in South Carolina on Tuesday to become the first Democrat elected to the U.S. Sen",
-        "source": "abcnews4.com",
-        "url": "https://abcnews4.com/news/state/connect-to-the-capitol-sc-voters-make-history-in-midterms-andrews-wins-senate-seat",
-        "seendate": "20261109T010000Z",
-        "domain": "abcnews4.com"
+        "title": "The Golden Joystick Awards return this Wednesday—here's how to watch them",
+        "summary": "A golden joystick would be pretty heavy, I bet.",
+        "source": "pcgamer.com",
+        "url": "https://www.pcgamer.com/gaming-industry/events-conferences/the-golden-joystick-awards-return-this-wednesday-heres-how-to-watch-them/",
+        "seendate": "2026-11-09T15:47:21.000Z",
+        "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
       {
-        "title": "Hot fridges, a fake nuclear alert and a $6bn heist: are we in the foothills of a hacking epidemic?",
-        "summary": "As AI exposes flaws in IT systems and geopolitics plays out on the cyber frontline, some experts say the events of recent weeks could soon be a common occurrenceAlex Pearce was doing the morning rounds at his fruit and vegetable wholesale business in London on Monday last week when he noticed something odd.The defrost light on refrigeration unit 2 was on, and the panel reading was 150C. Unit 4 was th",
+        "title": "Silicon Valley and Trump rally behind Nvidia CEO after his affair with alleged Chinese spy",
+        "summary": "Elon Musk and other finance moguls defend Jensen Huang after he admitted to the affair, as Trump says FBI ‘is looking into it’ Nvidia’s board needs to do some succession planning – sharpishDonald Trump, <a href=\"https://www.theguard",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/news/ng-interactive/2026/nov/08/hot-fridges-a-fake-nuclear-alert-and-a-6bn-heist-are-we-in-the-foothills-of-a-hacking-epidemic",
-        "seendate": "2026-11-08T06:00:33.000Z",
+        "url": "https://www.theguardian.com/technology/2026/nov/09/nvidia-jensen-huang-affair-trump-musk",
+        "seendate": "2026-11-09T23:30:37.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘AI clog’: UK public bodies battle onslaught of chatbot-generated complaints",
-        "summary": "MPs, local authorities, lawyers, schools and more are receiving floods of grievances, requests and legal challenges, often complex to read and respond to‘It started as a trickle in 2024 and now it’s an onslaught.” Hollie Wickens, a senior caseworker in a Labour MP’s office, is explaining the daily reality of dealing with surging volumes of artificial intelligence-generated correspondence.“Half the em",
+        "title": "Revealed: Palantir lobbied minister to stretch AI tools’ reach to NHS GP records",
+        "summary": "Exclusive: WhatsApp messages show firm pressuring Zubir Ahmed MP to help bring sensitive data into its platformUK politics live – latest updatesPalantir lobbied a health minister to consider extending its AI technology into GP reco",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence",
-        "seendate": "2026-11-08T08:00:36.000Z",
+        "url": "https://www.theguardian.com/technology/2026/nov/09/revealed-palantir-lobbied-minister-to-stretch-ai-tools-reach-to-nhs-gp-records",
+        "seendate": "2026-11-09T17:58:05.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "TikTok accused of helping to promote sex industry to girls",
-        "summary": "Researchers say popular performers covertly market OnlyFans content and tell followers about wealthy lifestyleTikTok is helping to promote and normalise the sex industry, allowing “sexfluencers” to post videos aimed at marketing pornographic content they have uploaded elsewhere on sites such as OnlyFans, a report indicates.After studying non-explicit content posted on TikTok over the course of a year",
+        "title": "Cyber-attack on French supermarket freezers has geopolitical context",
+        "summary": "‘Not particularly complex’ defrosting hack has been attributed to Iran, with presumption it is linked to others across EuropeIranian hackers like to send a message.In 2023 a state-backed group interrupted TV streaming services in the United Arab Emirates to broadcast a deepfake report on the war in Gaza. In the same year, hackers affiliated with Iran displayed the slogan “down with Israel” on the scr",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/nov/07/tiktok-sex-industry-girls-onlyfans",
-        "seendate": "2026-11-07T09:00:07.000Z",
+        "url": "https://www.theguardian.com/technology/2026/nov/09/cyber-attack-french-supermarket-freezers-iran-europe",
+        "seendate": "2026-11-09T19:40:45.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Reform UK councillor promoted collapsed $1.9bn ‘Ponzi scheme’ HyperVerse that left victims suicidal",
-        "summary": "Susan Lawrence, elected to Wolverhampton city council, sits on committee overseeing financial reporting of multimillion-pound budgetA woman who promoted a notorious cryptocurrency scam has been elected as a Reform UK councillor and now sits on the audit and risk committee of a major city council.Susan Lawrence was one of the main UK promoters of the HyperVerse cryptocurrency scheme, which was named i",
+        "title": "Today’s AI won’t achieve superintelligence. But catastrophic risk is real | Sunita Verma",
+        "summary": "The same technical limits that prevent superintelligence make these systems dangerous. But we know how to regulate themMany Silicon Valley leaders believe superintelligence is an imminent threat to society. The White House even publi",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/politics/2026/nov/07/reform-uk-councillor-promoted-alleged-ponzi-scheme-hyperverse",
-        "seendate": "2026-11-07T07:00:04.000Z",
+        "url": "https://www.theguardian.com/commentisfree/2026/nov/09/ai-superintelligence-risk",
+        "seendate": "2026-11-09T11:00:07.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Standing in the way of slop bowls: the woman blocking food delivery robots",
-        "summary": "Semi-retired professor Carolyn Marvin became a local celebrity facing down Philadelphia’s growing robot delivery army: ‘It’s my first amendment right to protest’“One of you needs to be on the lookout for cops, while I block the robot, OK?”It is a crisp fall morning in Philadelphia. Tucked away in a dingy alley, opposite a garage called Patriot Parking, 78-year-old Carolyn Marvin is laying out some gr",
+        "title": "Labour expected to cut EV targets for UK’s car industry despite MPs’ protests",
+        "summary": "Exclusive: Louise Haigh likely to weaken mandate for sales that forms key part of emission reduction planAnalysis: Climate always comes second – are green issues slipping down Burnham’s agenda?Ministers are expected to make steep cuts to the government’s electric vehicle",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/ng-interactive/2026/nov/07/philadelphia-blocking-food-delivery-robots",
-        "seendate": "2026-11-07T14:00:12.000Z",
+        "url": "https://www.theguardian.com/environment/2026/nov/08/labour-cut-ev-target-car-industry-despite-climate-concerns",
+        "seendate": "2026-11-08T17:51:19.000Z",
         "domain": "theguardian.com"
       }
     ],
     "climate": [
+      {
+        "title": "Senate advances bill to speed up projects from gas pipelines to clean energy",
+        "summary": "Key environmental groups come out against bipartisan Baaja bill over fears it could spur datacenters and ICE jailsThe Senate on Monday advanced bipartisan legislation aimed at speeding up permitting reviews for datacenters and other infrastructure projects, in the first major action since last week’s election that soundly repudiated Donald Trump and congressional <a href=\"https://www.theguardian.com/us-news",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/nov/09/senate-energy-infrastructure-bill-vote",
+        "seendate": "2026-11-10T02:28:00.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Democrats to attend Cop31 climate talks boosted by midterms and eager to make up for Trump-era setbacks",
+        "summary": "US government will have no official presence at UN’s annual climate summit, this year’s Cop31 held in Antalya, TurkeyThe US will be absent from key UN climate talks that start on Monday, a further sign of Donald Trump’s scornful dismissal of the climate crisis. But Democrats’ crushing win in the US midterm elections has delivered a timely shot of optimism to countries now looking beyond the Trump era of cli",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/environment/2026/nov/09/cop31-climate-democrats-midterms",
+        "seendate": "2026-11-09T06:00:01.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Beef industry quietly squashes part of its own science curriculum after ranchers protest",
         "summary": "Lesson for teenagers included how cattle’s methane emissions contribute to climate crisis, but it was then scrappedA beef industry-funded effort to teach teenagers about cattle’s climate impact was quietly scrapped following backlash from some ranchers, who disputed the premise that cows contribute to global heating.The episode is the latest example of the livestock industry’s decades-long battle to",
@@ -363,31 +379,31 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/us-news/2026/nov/07/nontoxic-plastic-lower-birth-weight-study",
         "seendate": "2026-11-07T12:00:13.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Famous New Mexico rock formation destroyed after torrential El Niño rains",
-        "summary": "Officials expected to investigate whether super El Niño storms in US south-west damaged the Alien Throne spiresUndulating, gravity-defying rock spires are one of the most magical parts of the landscape of the US south-west.But after torrential rainstorms linked to the super El Niño season, at least one famous rock formation in north-west New Mexico has been found in pieces. <a href=\"https://www.t",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/2026/nov/06/new-mexico-alien-throne-collapse-el-nino-rain",
-        "seendate": "2026-11-06T19:23:03.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "In Alaska’s capital, food comes by water, air or, most often, community sharing",
-        "summary": "Juneau has little arable land, a short growing season and few farmers – and deep traditions of residents and the land feeding each otherForty miles north-west of Alaska’s capital, the highway just ends.At Glacier Highway’s most northern point, the pavement turns to gravel, the gravel widens into a turnaround and the tire tracks curve back the way they came. At the far end, the woods begin, a narrow h",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/2026/nov/06/alaska-juneau-food-access",
-        "seendate": "2026-11-06T15:00:46.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "science": [
+      {
+        "title": "Medical breakthrough offers hope to people with same stiff person syndrome as Céline Dion",
+        "summary": "Some patients with autoimmune condition in the trial have been able to return to work and resume hobbiesDoctors have made a potentially significant breakthrough in the hunt for a treatment for stiff person syndrome, the autoimmune condition that affects the singer Céline Dion.Stiff person syndrome (SPS) is a rare disease that attacks the central nervous system and can cause devastating rigidity throu",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/nov/09/medical-breakthrough-offers-hope-to-people-with-same-stiff-person-syndrome-as-celine-dion",
+        "seendate": "2026-11-09T16:42:22.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Ukraine’s new frontier: how space has become critical to balance of the war",
         "summary": "In a war driven by drones and battlefield sensors, access to space is essential. After Starlink speed restrictions and Russian Oreshnik missile strikes, Kyiv is racing to develop its own space capabilitiesFor people in the Russian industrial city of Samara on the banks of the Volga, the first they knew of the Ukrainian attack were detonations that sent a column of smoke into the air.If the Kremlin wa",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/science/ng-interactive/2026/nov/08/ukraine-space-critical-war-starlink",
         "seendate": "2026-11-08T05:00:30.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Starwatch: Count these stars to find out how dark the sky is where you are",
+        "summary": "Great Square of Pegasus’s four corners are widely visible, but its inner stars provide a useful indicator of darknessThis week, we are going to locate the Great Square of Pegasus and count stars to see how dark your sky is.The chart shows the view looking south from London at 2000 GMT on 9 November. High in the sky is the Great Square of Pegasus, a distinctive pattern of four stars that marks the bod",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/nov/09/starwatch-count-stars-find-out-how-dark-sky-is",
+        "seendate": "2026-11-09T06:00:01.000Z",
         "domain": "theguardian.com"
       },
       {
@@ -404,22 +420,6 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/science/ng-interactive/2026/nov/08/future-of-lightning-global-heating-weather-australia",
         "seendate": "2026-11-07T14:00:13.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Want to have a better chat? Scientists say the secret is ‘pink noise’",
-        "summary": "The most enjoyable conversations strike a balance between exploring a topic and pulling in fresh ideas, study findsAs an early stab at rules for conversation, Cicero did a fine job: watch your tone, never look bored, never lose your temper and never ramble on, particularly about yourself, he advised.Now scientists have followed in the great orator’s footsteps and discovered a telltale signature of an",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/nov/06/better-conversation-study-pink-noise",
-        "seendate": "2026-11-06T19:00:49.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Origin of Stonehenge’s altar remains enigma as north-east Scotland theory ruled out",
-        "summary": "Geologists say they are getting closer to solving mystery as tests suggest stone may have come from elsewhere in Scotland, northern England or even IrelandThey spent countless hours on weather-battered Scottish hills, a hardy band of geologists searching for the origin of one of Stonehenge’s most intriguing features.But the prehistoric monument tends to yield its secrets reluctantly, and a new scient",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/uk-news/2026/nov/05/origin-stonehenge-altar-remains-enigma-north-east-scotland-ruled-out",
-        "seendate": "2026-11-05T14:26:52.000Z",
         "domain": "theguardian.com"
       }
     ]
