@@ -1,8 +1,16 @@
 window.NEWS_CACHE = {
-  "generatedAt": "2026-11-10T04:23:57.270Z",
+  "generatedAt": "2026-11-11T02:20:11.201Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
+      {
+        "title": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities",
+        "summary": "Seven-time F1 world champion tours border area and logistics warehouses operated by Egyptian Red CrescentLewis Hamilton has visited Egypt’s Rafah border crossing with the Gaza Strip to meet organisations sending humanitarian aid to the territory.The seven-time Formula One world champion has spoken out about conflict and humanitarian crises in the region, and has called for peace. He has frequently po",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities",
+        "seendate": "2026-11-10T15:39:26.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Collision of two trains in Egypt kills at least seven",
         "summary": "President orders prompt investigation after one train derails in collision in al-Ayyat about 50km from CairoSeven people were killed and at least 125 injured when two trains collided on Sunday south of the Egyptian capital, Cairo, officials said.The crash occurred in al-Ayyat district in Giza province, about 50km (30 miles) south of Cairo, when a train travelling to Fayoum province crashed into the r",
@@ -33,19 +41,19 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/world/2026/nov/06/anc-faces-defeat-south-african-local-elections",
         "seendate": "2026-11-06T12:48:37.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "British healthcare worker with Ebola evacuated from DR Congo to UK",
-        "summary": "Patient is ⁠in ​stable condition and will be transferred to a specialist ‘high consequence’ infectious disease unitA British healthcare worker with Ebola is being evacuated from the Democratic Republic of the Congo to the UK for medical treatment, it has been confirmed.“A British citizen currently in the DR Congo has tested positive for Ebola,” a spokesperson for the UK government said in a statement",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/nov/04/british-healthcare-worker-ebola-evacuated-drc-to-uk-document-shows",
-        "seendate": "2026-11-04T18:18:37.000Z",
         "domain": "theguardian.com"
       }
     ],
     "conflict": [
       {
+        "title": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities",
+        "summary": "Seven-time F1 world champion tours border area and logistics warehouses operated by Egyptian Red CrescentLewis Hamilton has visited Egypt’s Rafah border crossing with the Gaza Strip to meet organisations sending humanitarian aid to the territory.The seven-time Formula One world champion has spoken out about conflict and humanitarian crises in the region, and has called for peace. He has frequently po",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities",
+        "seendate": "2026-11-10T15:39:26.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Collision of two trains in Egypt kills at least seven",
         "summary": "President orders prompt investigation after one train derails in collision in al-Ayyat about 50km from CairoSeven people were killed and at least 125 injured when two trains collided on Sunday south of the Egyptian capital, Cairo, officials said.The crash occurred in al-Ayyat district in Giza province, about 50km (30 miles) south of Cairo, when a train travelling to Fayoum province crashed into the r",
         "source": "theguardian.com",
@@ -76,55 +84,47 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/world/2026/nov/06/anc-faces-defeat-south-african-local-elections",
         "seendate": "2026-11-06T12:48:37.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "British healthcare worker with Ebola evacuated from DR Congo to UK",
-        "summary": "Patient is ⁠in ​stable condition and will be transferred to a specialist ‘high consequence’ infectious disease unitA British healthcare worker with Ebola is being evacuated from the Democratic Republic of the Congo to the UK for medical treatment, it has been confirmed.“A British citizen currently in the DR Congo has tested positive for Ebola,” a spokesperson for the UK government said in a statement",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/nov/04/british-healthcare-worker-ebola-evacuated-drc-to-uk-document-shows",
-        "seendate": "2026-11-04T18:18:37.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "economy": [
       {
-        "title": "Jensen Huang’s image has been shattered. Could he be pushed out at Nvidia?",
-        "summary": "Huang built Nvidia as a family business but after the co-founder had an affair with an alleged Chinese spy, its board faces a difficult decisionFor more than 30 years, Jensen Huang has been the seemingly unshakable public face of Nvidia. He co-founded the company as a young engineer in 1993 and oversaw its growth into a multitrillion dollar chipmaker and bellwether of the AI industry at large.He’s al",
+        "title": "US inflation rose 0.4% in October as price increases cooled and gas costs dipped",
+        "summary": "New data comes after Republicans’ midterms losses – which were largely seen as a rebuke of the party over high pricesUS inflation rose 0.4% from September to October, slightly above expectations but still a cooldown in price increases as the cost of gas dipped during the month.The Bureau of Labor Statistics did not release the usual year-over-year inflation figure as part of the consumer price index",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/nov/09/jensen-huang-image-nvidia",
-        "seendate": "2026-11-09T20:27:07.000Z",
+        "url": "https://www.theguardian.com/business/2026/nov/10/october-inflation-report",
+        "seendate": "2026-11-10T15:38:48.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Economic relief is on the way, Democrats say. But what, how and when?",
-        "summary": "Winning candidates promised to cut costs, rein in corporations, curb billionaire power and improve the economyDon’t worry, cash-strapped Americans, “relief is on the way”, the senator Chuck Schumer promised last week in a press conference celebrating Democrats’ massive midterms win.Winning candidat",
+        "title": "Nvidia and Jensen Huang sued in US over affair with alleged Chinese spy",
+        "summary": "California lawsuit comes as Donald Trump says FBI is investigating tech CEO’s links with Alice HuangNvidia’s board needs to do some succession planning – sharpishNvidia and its chief executive, Jensen Huang, have been accused of misleading shareholders in a lawsuit over the Chinese <a href=\"ht",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/nov/09/democrats-midterms-economy-healthcare",
-        "seendate": "2026-11-09T11:00:07.000Z",
+        "url": "https://www.theguardian.com/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi",
+        "seendate": "2026-11-10T12:45:54.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Boeing to cut about 5% of its commercial plane workforce",
-        "summary": "Company will cut jobs through a mix of layoffs and attrition as it moderates the pace of ramping up jet productionBoeing will cut about 5% of its commercial plane workforce as it moderates the pace of ramping up jet production, the company said on Monday.The company will eliminate the posts through a mix of layoffs and attrition because of a slower ramp-up to “provide our factories and supply chain p",
+        "title": "Trump’s FCC nominee avoids questions from Democrats on Carr’s ‘censorship agenda’",
+        "summary": "Senators pressured Danielle Thumann, senior counsel to FCC chair Brendan Carr, to speak about agency’s actions toward ABC and Jimmy KimmelDuring a contentious Tuesday hearing on her nomination by Donald Trump to serve as a Federal Communications Commission (FCC) commissioner, Senate Democrats hammered Danielle Thumann about recent actions taken by the Brendan Carr-led regulator that have been criticized as",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/nov/09/boeing-to-cut-commercial-plane-workforce",
-        "seendate": "2026-11-09T19:11:26.000Z",
+        "url": "https://www.theguardian.com/us-news/2026/nov/10/trump-fcc-nominee-danielle-thumann",
+        "seendate": "2026-11-10T19:19:46.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "US job growth exceeds expectations in October despite economic uncertainty",
-        "summary": "‘Low-hire, low-fire’ labor market shows sluggish growth but few layoffs, with an interest rate hike expected in DecemberThe US added 165,000 jobs to the economy in October, a sign of resilience in the labor market amid war in the Middle East and inflation, according to new data released on Friday.Economists had said the labor market has been stuck in a “low-hire, low-fire” state, in which job growth",
+        "title": "Oil prices fall to lowest since August as Trump says Iran war is ‘effectively over’",
+        "summary": "Brent crude drops below $90 and markets climb after president downplays prospect of further strikesOil prices have fallen to the lowest level since late August while stock markets climbed higher, as markets reacted with relief to Donald Trump saying that the war on Iran is “effectively over”.Brent crude, the global oil bench",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/nov/06/us-job-growth-october",
-        "seendate": "2026-11-06T13:42:26.000Z",
+        "url": "https://www.theguardian.com/business/2026/nov/10/oil-prices-fall-donald-trump-iran-war-ftse-100-markets",
+        "seendate": "2026-11-10T10:28:47.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Could the AI bubble burst after Democrats' midterms sweep? - The Latest",
-        "summary": "Global tech stocks have plunged after the Democrats’ victory in the US midterm elections, with fears of a slowdown in AI development. Major tech corporations including Apple, Tesla and Nvidia shed about $1tn in a single trading session. Is this stock market jitters, or a sign the AI bubble might be about to burst? Lucy Hough speaks to senior economics correspondent Richard Partington <a href=\"https://www.thegu",
+        "title": "Anthropic targets valuation of up to $1.4tn in stock market flotation",
+        "summary": "Claude chatbot developer had been reported to be aiming for $2tn IPO on Wall Street before investors cooled on AIAnthropic is seeking a valuation of up to $1.4tn (£1.1tn) in its imminent stock market flotation, short of the $2tn that had been expected before investors started to question the durability of t",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/news/video/2026/nov/06/could-the-ai-bubble-burst-after-democrats-midterms-sweep-the-latest",
-        "seendate": "2026-11-06T17:04:41.000Z",
+        "url": "https://www.theguardian.com/technology/2026/nov/10/anthropic-valuation-stock-market-flotation-ipo-wall-street-ai",
+        "seendate": "2026-11-10T16:13:13.000Z",
         "domain": "theguardian.com"
       }
     ],
@@ -138,208 +138,216 @@ window.NEWS_CACHE = {
         "domain": "theguardian.com"
       },
       {
+        "title": "Jarvis Cocker on judging the Booker prize: ‘It’s just like being in a band’",
+        "summary": "The singer on how being in Pulp prepared him for judging a literary prize, reading 163 books while on tour, and feeling like the odd one out on the panel• M John Harrison becomes the first science fiction author to win the Booker prizeJudging the Booker prize is like being in a ban",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/nov/10/jarvis-cocker-on-judging-the-booker-prize-its-just-like-being-in-a-band",
+        "seendate": "2026-11-10T09:00:34.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Lessons in Harmony by Jonathan Coe review – what can music tell us about national identity?",
+        "summary": "The unlikely friendship between French and English composers Maurice Ravel and Ralph Vaughan Williams has inspired a tender and generous novelIn 1907, composer Ralph Vaughan Williams confided to the critic Edwin Evans that he was finding his own music “lumpy and stodgy”. His musical education at the Royal College of Music, and indeed classical music in England in general at that time, had tended towa",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/nov/10/lessons-in-harmony-by-jonathan-coe-review-what-can-music-tell-us-about-national-identity",
+        "seendate": "2026-11-10T07:00:31.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Killing the Pope review – the truth behind the attempted murder of John Paul II",
+        "summary": "Was the failed assassination of the Polish pope a Soviet plot or simply the work of a deranged hitman?On the afternoon of Wednesday 13&nbsp;May 1981, St Peter’s Square in Rome was packed with more than 10,000 pilgrims, excited to see the charismatic John Paul II, formerly Karol Wojtyla, archbishop of Kraków. Two and a half years earlier he had become the youngest cardinal to be elected pope </strong",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/nov/10/killing-the-pope-review-the-truth-behind-the-attempted-of-john-paul-ii",
+        "seendate": "2026-11-10T09:00:33.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Look at Me by Dustin Hoffman review – an era-defining actor says his piece",
         "summary": "At 89, the star of the Graduate and Rain Man demonstrates both brilliance and a startling lack of self-awarenessThe choice of title for an actor’s autobiography can be revealing. Sylvester Stallone went with The Steps, conflating life’s challenging progress with those steps at the Phi",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/books/2026/nov/09/look-at-me-by-dustin-hoffman-review-an-era-defining-actor-says-his-piece",
         "seendate": "2026-11-09T07:00:02.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Two Women by Jacqueline Rose review – a memorial to Gillian Rose",
-        "summary": "The connections between the author’s sister and the German Jewish philosopher Edith Stein are vividly imagined in alternating chapters of a fictional biographyIn a long and distinguished career as a feminist cultural critic, Jacqueline Rose has combined psychoanalysis, politics, human rights and literature in her work. Among her books are The Haunting of Sylvia Plath and Women in Dark Times, and a novel, 20",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/nov/09/two-women-by-jacqueline-rose-review-a-memorial-to-gillian-rose",
-        "seendate": "2026-11-09T09:00:04.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "‘No tech, no texts, just childhood’: author Liz Pichon on the secrets behind her multi-million selling Tom Gates series",
-        "summary": "As her long-running children’s book series turns 15, Liz Pichon talks about overcoming dyslexia to become a bestselling authorIf you ever find yourself in an airport newsagent, it might be worth peering inside one of Liz Pichon’s books. “I do guerrilla signings,” she tells me conspiratorially. “They let me go in and I sign all the books, just in case. I love the idea of kids buying a book, going on holiday",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/nov/08/no-tech-no-texts-just-childhood-author-liz-pichon-on-the-secrets-behind-her-multi-million-selling-tom-gates-series",
-        "seendate": "2026-11-08T12:00:39.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "The efficiency trap: why optimising everything can backfire, badly",
-        "summary": "From roundabouts to the stock market, relentless streamlining could be making the world more dangerousWe have all been there: packed shoulder to shoulder on the train while the person beside us coughs and sneezes. A protective flu jab offers some reassurance, but so does the thought that there will be a hospital bed for you, should you need it. Yet, in England, about 95% of adult hospital beds were occupied",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/nov/08/the-efficiency-trap-why-optimising-everything-can-backfire-badly",
-        "seendate": "2026-11-08T12:00:39.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "entertainment": [
       {
-        "title": "Paul McCartney becomes a billionaire and world’s third richest musician",
-        "summary": "According to a new analysis by Forbes, the former Beatle now has a net worth of $1.4bn, placing him behind Jay-Z and Taylor SwiftPaul McCartney has joined the ranks of the world’s billionaires. Forbes has valued the former Beatle’s net worth at $1.4bn (£1.04bn),",
+        "title": "Jon Stewart on Trump’s testy 60 Minutes interview: ‘Was that sass?’",
+        "summary": "Late-night hosts discussed Trump’s interview with the ‘new, Maga-fied’ CBS program and Stephen Miller’s White House promotionLate-night hosts reacted to Donald Trump’s strange interview with 60 Minutes and his <a href=",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/music/2026/nov/09/paul-mccartney-billionaire",
-        "seendate": "2026-11-09T21:22:33.000Z",
+        "url": "https://www.theguardian.com/culture/2026/nov/10/jon-stewart-trump-60-minutes-interview",
+        "seendate": "2026-11-10T16:53:50.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Donnie Dunagan, original voice of Disney’s Bambi and triple Purple Heart marine, dies aged 92",
-        "summary": "Dunagan was six when he voiced the young deer in the classic cartoon, with an assistant director instructing him to pretend his own mother had diedDonnie Dunagan, who voiced Bambi in the Walt Disney classic, as well as playing the son of Frankenstein opposite Basil Rathbone and Boris Karloff, has died aged 92.Dunagan was six when he was chosen to provide the voice of the young deer in the animation’s",
+        "title": "‘I’m looking for faces which surprise me’: how Richard Avedon photographed the soul of his subjects",
+        "summary": "Ron Howard’s illuminating Netflix documentary looks back on the career of one of America’s most inventive and versatile photographersRichard Avedon had only taken a couple of frames when he accidentally hit his head on a light being held above him. The Dalai Lama burst into laughter. That was when Avedon snapped two more frames and announced: “O",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/nov/09/donnie-dunagan-bambi-voice-triple-purple-heart-marine-dies",
-        "seendate": "2026-11-09T17:48:31.000Z",
+        "url": "https://www.theguardian.com/film/2026/nov/10/richard-avedon-photography-netflix-documentary",
+        "seendate": "2026-11-10T10:00:34.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "John Oliver on Pete Hegseth’s military plans: ‘Dr Seuss for concussed bigots’",
-        "summary": "Late-night host discussed the defense secretary’s attacks on DEI, time as a Fox News host and ties to nationalist groupsOn his HBO show on Sunday night, John Oliver focused on Pete Hegseth, characterizing his actions as secretary of war as “taking a wrecking ball” to the US milit",
+        "title": "Even Martin Scorsese uses AI for storyboards. Can the art survive?",
+        "summary": "As Hollywood begins to adopt the technology, the professionals in most direct jeopardy are the illustrators mapping out directors’ first visions. They sketch out what could be lostA film industry dominated by AI is a dystopian prospect: stories and dialogue generated by large language models, populated by <a href=\"https://www.theguardian.com/film/2026/apr/16/first-trailer-released-for-ai-val-kilmer-western\"",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/nov/09/john-oliver-pete-hegseth-military",
-        "seendate": "2026-11-09T17:04:36.000Z",
+        "url": "https://www.theguardian.com/film/2026/nov/10/storyboard-artists-ai",
+        "seendate": "2026-11-10T13:00:24.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘We did 10 takes of it!’ Kerr Smith on Dawson’s Creek and filming US TV’s first gay kiss",
-        "summary": "As he releases a memoir, the actor opens up about the late James Van Der Beek, the magic of the Creek, and facing homophobia for playing gay in the 90sThere are worse things to spend a couple of decades chasing than the feeling of being young, successful and surrounded by people who love you. For Kerr Smith, though, the particular magic of Dawson’s Creek has proved just about impossible to replicate.",
+        "title": "From Hendrix to Bowie: the trippiest music concert posters – in pictures",
+        "summary": "Günther Kieser is behind some of the most singular music poster designs of the 20th century. Inspired by sculpture, the free-form nature of jazz and psychedelic art, the German artist created works for David Bowie, Jimi Hendrix and Diana Ross and the Supremes, as well as mind-expanding designs for leading brands and art institutions. The exhibition<a href=\"https://posterhouse.org/exhibition/sculpting-sound-gunther",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/nov/09/kerr-smith-dawsons-creek-tv",
-        "seendate": "2026-11-09T11:00:08.000Z",
+        "url": "https://www.theguardian.com/artanddesign/gallery/2026/nov/10/gunther-kieser-concert-posters",
+        "seendate": "2026-11-10T12:00:52.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘Sadistic, forbidden pleasure’: why Gone Girl is my feelgood movie",
-        "summary": "The latest in our ongoing series of writers highlighting their go-to comfort films is a reminder of the dark joys that can be found in David Fincher’s devilish thriller“When I think of my wife, I always think of the back of her head,” narrates Ben Affleck in the opening scene of Gone Girl, David Fincher’s",
+        "title": "‘It wasn’t long until he asked me if I’d ever had sex before’: David Walliams accused of preying on young women for sex",
+        "summary": "Comedian and former Britain’s Got Talent judge alleged to have groomed fans he met when they were as young as 15 and harassed women in the workplace over a number of years. He denies the allegations Continue reading...",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/nov/09/gone-girl-david-fincher-comfort-movie",
-        "seendate": "2026-11-09T10:00:07.000Z",
+        "url": "https://www.theguardian.com/tv-and-radio/ng-interactive/2026/nov/10/david-walliams-accused-sex-grooming-allegations-young-women",
+        "seendate": "2026-11-10T12:00:52.000Z",
         "domain": "theguardian.com"
       }
     ],
     "f1": [
       {
-        "title": "F1 Las Vegas Grand Prix announces pre-race music line-up",
-        "summary": "American DJ Steve Aoki will return to the Las Vegas Grand Prix grid this year for a performance before the race on 21 November. He will be joined by fellow DJ MORTEN and singer Jordin Sparks as part of the pre-race line-up.MORTEN will perform ahead of the driver introductions, which have become a fan-favourite part of the Las Vegas Grand Prix weekend after the viral moment between Sergio ...<a class='mor",
+        "title": "Daniel Ricciardo: Max Verstappen will \"go down as one of the best ever\"",
+        "summary": "Daniel Ricciardo says Max Verstappen will \"go down as one of the best ever\", and admits he cannot comprehend what Red Bull has achieved in its first season building its own power units.Ricciardo was Verstappen's team-mate at Red Bull from 2016 until the end of 2018, and is now an ambassador for Ford, whose partnership with Red Bull Powertrains made its race debut this season.The ...<a class='more' h",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/f1-las-vegas-grand-prix-announces-pre-race-music-line-up/10873488/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-09T23:57:29.000Z",
+        "url": "https://www.motorsport.com/f1/news/daniel-ricciardo-max-verstappen-will-go-down-as-one-of-the-best-ever/10873738/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-11T02:05:02.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Lewis Hamilton to share flight with Mercedes after former team's F1 title triumph",
-        "summary": "Seven-time Formula 1 champion Lewis Hamilton's trip back from Interlagos could have been an awkward one after Mercedes team principal Toto Wolff revealed that the Ferrari driver would be travelling with the newly crowned constructors' champions.Mercedes secured its ninth constructors' title at the Brazilian Grand Prix on Sunday, with George Russell and Kimi Antonelli finishing fourth and ...<a class='mor",
+        "title": "Oscar Piastri reveals unexpected upside of being out of F1 title fight",
+        "summary": "Oscar Piastri says he misses the pressure of fighting for the Formula 1 world championship.The McLaren driver led the standings for much of last year and was in a season-long battle against his team-mate Lando Norris for the title. A late-season challenge from Red Bull's Max Verstappen saw Piastri finish third in the standings, while Norris secured the title and Verstappen finished ...<a class='more' hre",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/lewis-hamilton-to-share-flight-with-mercedes-after-former-teams-f1-title-triumph/10873483/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-09T23:30:48.000Z",
+        "url": "https://www.motorsport.com/f1/news/oscar-piastri-reveals-unexpected-upside-of-being-out-of-f1-title-fight/10873740/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-11T00:21:39.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "George Russell \"keeps getting kicked\" as F1 pundit addresses 2026 struggles",
-        "summary": "Former IndyCar Series driver and F1 TV pundit James Hinchcliffe believes George Russell had good reason to look \"a bit defeated\" after another difficult afternoon at the Brazilian Grand Prix.While Mercedes ended the weekend on a high, securing the constructors' championship, Russell endured another frustrating race. The Briton missed out on pole position to McLaren's Lando Norris and ...<a class='more' h",
+        "title": "Lando Norris questions Charles Leclerc's Brazilian GP penalty: \"Just racing\"",
+        "summary": "McLaren Formula 1 driver Lando Norris has questioned Charles Leclerc's penalty after the Brazilian Grand Prix, which cost the Ferrari driver seventh place.Leclerc tapped the left rear of Liam Lawson's Racing Bulls car at Turn 12 on the penultimate lap of the race at Interlagos. The Monegasque driver was handed a five-second penalty after the race, which dropped him behind Lawson to ...<a class='more' hre",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/george-russell-keeps-getting-kicked-as-f1-pundit-addresses-2026-struggles/10873477/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-09T22:59:41.000Z",
+        "url": "https://www.motorsport.com/f1/news/lando-norris-questions-charles-leclercs-brazilian-gp-penalty-just-racing/10873736/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-10T23:58:55.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "George Russell teases imminent karting announcement as F1 fans spot major clue",
-        "summary": "George Russell has teased an imminent announcement linked to karting on 12 November.The Mercedes driver posted a video to Instagram on Monday with the caption \"Stay tuned\". He talks about his first steps in motorsport over footage of himself racing karts as a boy, including a kart carrying the number 63 that he still uses in Formula 1.The clip ends with the date 12.11.26, suggesting more ...<a class=",
+        "title": "Max Verstappen names the one condition that would make him retire from F1",
+        "summary": "Max Verstappen says he would walk away from Formula 1 if he ever stopped believing he was the best driver in the field.The four-time world champion has not won the title since 2024, with Lando Norris taking the championship win last year and Kimi Antonelli wrapping up the 2026 championship in Mexico earlier this month.But speaking to the media before the Sao Paulo Grand Prix, Verstappen ...<a class='",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/george-russell-teases-imminent-karting-announcement-as-f1-fans-spot-major-clue/10873459/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-09T18:31:47.000Z",
+        "url": "https://www.motorsport.com/f1/news/max-verstappen-id-quit-f1-if-i-didnt-think-i-was-the-best-driver/10873734/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-10T23:58:32.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Apple TV confirms free F1 Las Vegas Grand Prix coverage: How to watch in the US",
-        "summary": "Formula 1 fans in the United States will be able to watch the Las Vegas Grand Prix for free after Apple TV confirmed the whole race weekend will be available to stream with no subscription needed.The free coverage will include every on-track session from first practice on Thursday evening through to qualifying and Saturday night's grand prix.F1 announced a five-year partnership with Apple ...<a class",
+        "title": "Lewis Hamilton tours Gaza aid operation at Egypt's Rafah border",
+        "summary": "Lewis Hamilton has been to see the aid operation at Egypt's border with Gaza, two days after racing at the Sao Paulo Grand Prix.The seven-time world champion arrived in El Arish, in Egypt's North Sinai region, on Tuesday, and was met at the airport by the region's governor, Khaled Megawer.The local governorate said he was shown around the Rafah crossing and the Egyptian Red Crescent's ...<a class='mo",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/apple-tv-confirms-free-f1-las-vegas-grand-prix-coverage-how-to-watch-in-the-us/10873443/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-09T17:56:51.000Z",
+        "url": "https://www.motorsport.com/f1/news/lewis-hamilton-tours-gaza-aid-operation-at-egypts-rafah-border/10873731/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-10T23:42:03.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "AMD users are reporting a misfiring utility is eating SSD health by 1% a month. AMD says a fix is on the way for its GPU drivers",
-        "summary": "No rush. SSDs are cheap as chips right now, eh?",
+        "title": "Steam's age verification in Australia now takes your account's age into consideration",
+        "summary": "If your Steam account is at least nine years old, you should be good. Maybe.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/hardware/graphics-cards/amd-users-are-reporting-a-misfiring-utility-is-eating-ssd-health-by-1-percent-a-month-amd-says-a-fix-is-on-the-way-for-its-gpu-drivers/",
-        "seendate": "2026-11-09T17:15:26.000Z",
+        "url": "https://www.pcgamer.com/software/platforms/steams-age-verification-in-australia-now-takes-your-accounts-age-into-consideration/",
+        "seendate": "2026-11-11T01:34:31.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Cheaper OLEDs may be here even quicker than we thought as TCL CSOT says its new inkjet printing facility could be up and running as soon as this time next year",
-        "summary": "Previous rumours had it penned for 2028.",
+        "title": "Sony cancels another live service game ahead of release, but at least there won't be any layoffs this time",
+        "summary": "Fairgames was revealed in 2023, but nothing more was ever seen of it.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/hardware/gaming-monitors/cheaper-oleds-may-be-here-even-quicker-than-we-thought-as-tcl-csot-says-its-new-inkjet-printing-facility-could-be-up-and-running-as-soon-as-this-time-next-year/",
-        "seendate": "2026-11-09T16:58:52.000Z",
+        "url": "https://www.pcgamer.com/gaming-industry/sony-cancels-another-live-service-game-ahead-of-release-but-at-least-there-wont-be-any-layoffs-this-time/",
+        "seendate": "2026-11-10T23:15:38.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Jensen Huang’s affair with alleged Chinese spy highlights how the GPU company’s dealings are now everyone’s business",
-        "summary": "He used to sell gaming GPUs, now he's in the middle of a geopolitical quagmire.",
+        "title": "Capcom quietly updates the Monster Hunter Wilds beta listing on Steam, indicating a possible expansion playtest",
+        "summary": "We might get an early taste of Ascendance before long.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/hardware/graphics-cards/jensen-huangs-affair-with-alleged-chinese-spy-highlights-how-the-gpu-companys-dealings-are-now-everyones-business/",
-        "seendate": "2026-11-09T16:56:37.000Z",
+        "url": "https://www.pcgamer.com/games/action/capcom-quietly-updates-the-monster-hunter-wilds-beta-listing-on-steam-indicating-a-possible-expansion-playtest/",
+        "seendate": "2026-11-10T22:22:30.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "'Floppy disks are out, 21st century tech is in': The FAA is finally ditching 55-year-old storage",
-        "summary": "Better late than never.",
+        "title": "Bungie drops gameplay trailer for Marathon's 'co-op PvE roguelite' mode and swanky new social space",
+        "summary": "The Symbiosis update, which will also kick off a beta for a new Team Deathmatch mode, will launch on December 8 with a free-play week.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/hardware/floppy-disks-are-out-21st-century-tech-is-in-the-faa-is-finally-ditching-55-year-old-storage/",
-        "seendate": "2026-11-09T16:07:08.000Z",
+        "url": "https://www.pcgamer.com/games/fps/bungie-drops-gameplay-trailer-for-marathons-co-op-pve-roguelite-mode-and-swanky-new-social-space/",
+        "seendate": "2026-11-10T21:16:59.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "The Golden Joystick Awards return this Wednesday—here's how to watch them",
-        "summary": "A golden joystick would be pretty heavy, I bet.",
+        "title": "2 years after Unknown 9: Awakening bombed, Bandai Namco is closing the studio that made it",
+        "summary": "Reflector Entertainment had a new game in pre-production, but Bandai decided it wasn't worth the time or money to pursue.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/events-conferences/the-golden-joystick-awards-return-this-wednesday-heres-how-to-watch-them/",
-        "seendate": "2026-11-09T15:47:21.000Z",
+        "url": "https://www.pcgamer.com/gaming-industry/2-years-after-unknown-9-awakening-bombed-bandai-namco-is-closing-the-studio-that-made-it/",
+        "seendate": "2026-11-10T19:55:36.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
       {
-        "title": "Silicon Valley and Trump rally behind Nvidia CEO after his affair with alleged Chinese spy",
-        "summary": "Elon Musk and other finance moguls defend Jensen Huang after he admitted to the affair, as Trump says FBI ‘is looking into it’ Nvidia’s board needs to do some succession planning – sharpishDonald Trump, <a href=\"https://www.theguard",
+        "title": "Nvidia and Jensen Huang sued in US over affair with alleged Chinese spy",
+        "summary": "California lawsuit comes as Donald Trump says FBI is investigating tech CEO’s links with Alice HuangNvidia’s board needs to do some succession planning – sharpishNvidia and its chief executive, Jensen Huang, have been accused of misleading shareholders in a lawsuit over the Chinese <a href=\"ht",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/nov/09/nvidia-jensen-huang-affair-trump-musk",
-        "seendate": "2026-11-09T23:30:37.000Z",
+        "url": "https://www.theguardian.com/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi",
+        "seendate": "2026-11-10T12:45:54.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "UK social media ban expansion for under-16s could cover YouTube Kids",
+        "summary": "Regulations under consideration could affect up to 150 platforms, including LegoPlay, Spotify and eBay, sources sayA substantial expansion of the social media ban for under-16s could inadvertently lead to a ban on YouTube Kids and other sites that had been thought exempt, sources briefed on the government’s proposals have said.One source close to the talks said the regulations now under consideration",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/10/uk-social-media-ban-expansion-for-under-16s-could-cover-youtube-kids",
+        "seendate": "2026-11-10T17:30:15.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Anthropic targets valuation of up to $1.4tn in stock market flotation",
+        "summary": "Claude chatbot developer had been reported to be aiming for $2tn IPO on Wall Street before investors cooled on AIAnthropic is seeking a valuation of up to $1.4tn (£1.1tn) in its imminent stock market flotation, short of the $2tn that had been expected before investors started to question the durability of t",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/nov/10/anthropic-valuation-stock-market-flotation-ipo-wall-street-ai",
+        "seendate": "2026-11-10T16:13:13.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "‘Flying cars’ could launch in China next summer, maker of two-seat model says",
+        "summary": "XPeng says its $300k low-altitude device will soon be ready for emergency services and recreational use in rural areasPeople could start taking trips in so-called flying cars in China as soon as next summer, the manufacturer of a two-seater vehicle with autopilot model has said.Deli Zhao, the chief executive of the Chinese flying car company XPeng, said the $300,000 (£225,000) low-altitude device wou",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/nov/10/flying-cars-china-next-summer-xpeng",
+        "seendate": "2026-11-10T16:14:50.000Z",
         "domain": "theguardian.com"
       },
       {
         "title": "Revealed: Palantir lobbied minister to stretch AI tools’ reach to NHS GP records",
-        "summary": "Exclusive: WhatsApp messages show firm pressuring Zubir Ahmed MP to help bring sensitive data into its platformUK politics live – latest updatesPalantir lobbied a health minister to consider extending its AI technology into GP reco",
+        "summary": "Exclusive: WhatsApp messages show firm pressuring Zubir Ahmed MP to help bring sensitive data into its platformPalantir lobbied a health minister to consider extending its AI technology into GP records, stretching its reach into the NHS in a way doctors fear could undermine trust with patients.The US company, co-founded by the Trump-supporting billionaire Peter Thiel, used a direct WhatsApp channel t",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/technology/2026/nov/09/revealed-palantir-lobbied-minister-to-stretch-ai-tools-reach-to-nhs-gp-records",
         "seendate": "2026-11-09T17:58:05.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Cyber-attack on French supermarket freezers has geopolitical context",
-        "summary": "‘Not particularly complex’ defrosting hack has been attributed to Iran, with presumption it is linked to others across EuropeIranian hackers like to send a message.In 2023 a state-backed group interrupted TV streaming services in the United Arab Emirates to broadcast a deepfake report on the war in Gaza. In the same year, hackers affiliated with Iran displayed the slogan “down with Israel” on the scr",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/nov/09/cyber-attack-french-supermarket-freezers-iran-europe",
-        "seendate": "2026-11-09T19:40:45.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Today’s AI won’t achieve superintelligence. But catastrophic risk is real | Sunita Verma",
-        "summary": "The same technical limits that prevent superintelligence make these systems dangerous. But we know how to regulate themMany Silicon Valley leaders believe superintelligence is an imminent threat to society. The White House even publi",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/commentisfree/2026/nov/09/ai-superintelligence-risk",
-        "seendate": "2026-11-09T11:00:07.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Labour expected to cut EV targets for UK’s car industry despite MPs’ protests",
-        "summary": "Exclusive: Louise Haigh likely to weaken mandate for sales that forms key part of emission reduction planAnalysis: Climate always comes second – are green issues slipping down Burnham’s agenda?Ministers are expected to make steep cuts to the government’s electric vehicle",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/2026/nov/08/labour-cut-ev-target-car-industry-despite-climate-concerns",
-        "seendate": "2026-11-08T17:51:19.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "climate": [
+      {
+        "title": "Jimmy Carter’s Georgia farm acquired by conservation group planning to open it to public",
+        "summary": "Conservation group acquires former US president’s family farm with plans to transfer it to the state in 2028Jimmy Carter’s family farm has been acquired by a group dedicated to permanently protecting the south-west Georgia land where the late former president’s conservation ethic",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/nov/10/jimmy-carter-georgia-farm-conserved-open-to-public",
+        "seendate": "2026-11-10T15:01:41.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Senate advances bill to speed up projects from gas pipelines to clean energy",
         "summary": "Key environmental groups come out against bipartisan Baaja bill over fears it could spur datacenters and ICE jailsThe Senate on Monday advanced bipartisan legislation aimed at speeding up permitting reviews for datacenters and other infrastructure projects, in the first major action since last week’s election that soundly repudiated Donald Trump and congressional <a href=\"https://www.theguardian.com/us-news",
@@ -350,7 +358,7 @@ window.NEWS_CACHE = {
       },
       {
         "title": "Democrats to attend Cop31 climate talks boosted by midterms and eager to make up for Trump-era setbacks",
-        "summary": "US government will have no official presence at UN’s annual climate summit, this year’s Cop31 held in Antalya, TurkeyThe US will be absent from key UN climate talks that start on Monday, a further sign of Donald Trump’s scornful dismissal of the climate crisis. But Democrats’ crushing win in the US midterm elections has delivered a timely shot of optimism to countries now looking beyond the Trump era of cli",
+        "summary": "US government will have no official presence at UN’s annual climate summit, held this year in Antalya, TurkeyThe US will be absent from key UN climate talks that start on Monday, a further sign of Donald Trump’s scornful dismissal of the climate crisis. But Democrats’ crushing win in the US midterm elections has delivered a timely shot of optimism to countries now looking beyond the Trump era of climate obs",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/environment/2026/nov/09/cop31-climate-democrats-midterms",
         "seendate": "2026-11-09T06:00:01.000Z",
@@ -371,14 +379,6 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/us-news/2026/nov/08/datacenters-fossil-fuel-pipelines-regulations",
         "seendate": "2026-11-08T13:00:40.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "New ‘high safety’ chemicals in plastic food packaging linked to lower birth weight, study finds",
-        "summary": "Dinch, an allegedly ‘safe’ alternative, used in the EU and US also found to cause fetal development complicationsExposure to a new generation of allegedly “safe” plasticizers is linked to lower birth weight and fetal development complications, which could cause serious health problems later in life, a new peer-reviewed study f",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/nov/07/nontoxic-plastic-lower-birth-weight-study",
-        "seendate": "2026-11-07T12:00:13.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "science": [
@@ -388,6 +388,14 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/science/2026/nov/09/medical-breakthrough-offers-hope-to-people-with-same-stiff-person-syndrome-as-celine-dion",
         "seendate": "2026-11-09T16:42:22.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Winter depression is real. Here’s what can help - podcast",
+        "summary": "As the nights draw in, many of us can experience low mood. But for a small proportion of people a more intense depression develops through the winter months. It’s a phenomenon that since the 1980s has been labelled seasonal affective disorder, or Sad, and can be debilitating for sufferers. To find out more about the latest scientific understanding of Sad, Ian Sample speaks to Russell Foster, professor of circadian",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/audio/2026/nov/10/why-we-get-sad-and-what-helps-podcast",
+        "seendate": "2026-11-10T07:00:52.000Z",
         "domain": "theguardian.com"
       },
       {
@@ -412,14 +420,6 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/science/2026/nov/08/nasa-astronauts-moon-applications-open",
         "seendate": "2026-11-08T16:54:44.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Thunderstruck: what does the future hold for lightning?",
-        "summary": "Humans have always been awed by the power and beauty of lightning. How does the experience and understanding of it change in a warming world?In a rock shelter in Kakadu national park in the north of Australia is an image of a being the Bininj people call Namarrkon. His flesh bleached away to reveal the bones beneath, he wears stone axes on his he",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/ng-interactive/2026/nov/08/future-of-lightning-global-heating-weather-australia",
-        "seendate": "2026-11-07T14:00:13.000Z",
         "domain": "theguardian.com"
       }
     ]
