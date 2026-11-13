@@ -1,8 +1,16 @@
 window.NEWS_CACHE = {
-  "generatedAt": "2026-11-12T03:28:08.359Z",
+  "generatedAt": "2026-11-13T03:01:09.341Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
+      {
+        "title": "Zimbabwean author Simbarashe Kundizeza cleared of using AI to write prize-winning story",
+        "summary": "After a month-long investigation it was concluded that Kundizeza’s story The Blue Fighter, which won the £10,000 Caine prize, was ‘human-written’The Zimbabwean author Simbarashe Kundizeza has been cleared of using AI to write a prize-winning short story, after the prestigious Caine prize for African writers concluded that his entry was “human-written” after a month-long investigation.Kundizeza’s stor",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/nov/12/zimbabwean-author-simbarashe-kundizeza-cleared-ai-caine-prize-winning-story",
+        "seendate": "2026-11-12T13:14:38.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities",
         "summary": "Seven-time F1 world champion tours border area and logistics warehouses operated by Egyptian Red CrescentLewis Hamilton has visited Egypt’s Rafah border crossing with the Gaza Strip to meet organisations sending humanitarian aid to the territory.The seven-time Formula One world champion has spoken out about conflict and humanitarian crises in the region, and has called for peace. He has frequently po",
@@ -33,19 +41,19 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie",
         "seendate": "2026-11-06T15:08:43.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "ANC faces bruising defeat in South African local elections with 80% of ballots counted",
-        "summary": "Former liberation movement’s share of national vote almost 14 percentage points below 2021 resultThe African National Congress is on course to suffer a bruising defeat in South Africa’s local elections, with the once dominant party of Nelson Mandela falling to under a third of the vote nationally with more than 80% of ballots counted.Wednesday’s fragmented vote marks another stage in the decline of t",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/nov/06/anc-faces-defeat-south-african-local-elections",
-        "seendate": "2026-11-06T12:48:37.000Z",
         "domain": "theguardian.com"
       }
     ],
     "conflict": [
       {
+        "title": "Zimbabwean author Simbarashe Kundizeza cleared of using AI to write prize-winning story",
+        "summary": "After a month-long investigation it was concluded that Kundizeza’s story The Blue Fighter, which won the £10,000 Caine prize, was ‘human-written’The Zimbabwean author Simbarashe Kundizeza has been cleared of using AI to write a prize-winning short story, after the prestigious Caine prize for African writers concluded that his entry was “human-written” after a month-long investigation.Kundizeza’s stor",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/nov/12/zimbabwean-author-simbarashe-kundizeza-cleared-ai-caine-prize-winning-story",
+        "seendate": "2026-11-12T13:14:38.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities",
         "summary": "Seven-time F1 world champion tours border area and logistics warehouses operated by Egyptian Red CrescentLewis Hamilton has visited Egypt’s Rafah border crossing with the Gaza Strip to meet organisations sending humanitarian aid to the territory.The seven-time Formula One world champion has spoken out about conflict and humanitarian crises in the region, and has called for peace. He has frequently po",
         "source": "theguardian.com",
@@ -76,17 +84,33 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie",
         "seendate": "2026-11-06T15:08:43.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "ANC faces bruising defeat in South African local elections with 80% of ballots counted",
-        "summary": "Former liberation movement’s share of national vote almost 14 percentage points below 2021 resultThe African National Congress is on course to suffer a bruising defeat in South Africa’s local elections, with the once dominant party of Nelson Mandela falling to under a third of the vote nationally with more than 80% of ballots counted.Wednesday’s fragmented vote marks another stage in the decline of t",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/nov/06/anc-faces-defeat-south-african-local-elections",
-        "seendate": "2026-11-06T12:48:37.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "economy": [
+      {
+        "title": "Nvidia turmoil continues as Jensen Huang resigns over affairs scandal and company appoints interim CEO – as it happened",
+        "summary": "This live blog is now closed.Analysis: Jensen Huang built an AI kingdom. What now?Full report: Jensen Huang resigns as Nvidia CEO<",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+        "seendate": "2026-11-12T21:33:08.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "College students rally in support of Starbucks baristas urging boycott over contract impasse",
+        "summary": "Rallies will take place on more than US 40 campuses as workers seeking better pay and conditions decry stalled talksStarbucks baristas, students, elected officials and allies are planning rallies at <a href=\"https://starbucksworkersunited.controlshift.app/events?link_id=2&amp;can_id=debd8d2ad19f005d15f9bbdff314d42a&amp;source=email-nov-12-day-of-action-for-starbucks-baristas&amp;email_referrer=email_3490793",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/nov/12/starbucks-workers-campus-rally-contract-talks",
+        "seendate": "2026-11-12T11:00:48.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Home sales hit 16-year low in October amid record-high mortgage rates",
+        "summary": "Sales of built units fell to 3.75m in October, down by 8.8% from last year, with mortgage rates at nearly three-year highUS existing home sales hit a 16-year low in October as buyers were driven away by record-high mortgage rates and rising inflation, according to new data released on Wednesday.Sales of already built units dropped to 3.75",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/business/2026/nov/12/home-sales-october-low",
+        "seendate": "2026-11-12T17:26:07.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Democrats’ US election sweep brings the price of their promised social contract into focus",
         "summary": "‘The post-election wish list is about to run into harsh fiscal reality: there is no money’Is this an opportunity for a new America? As the Reagan revolution four decades ago launched US society down the path to low taxes and meager solidarity, perhaps the Republican bloodbath last week could turn US politics toward building a new social contract anchored on an aspiration to equitable prosperity.One c",
@@ -96,39 +120,31 @@ window.NEWS_CACHE = {
         "domain": "theguardian.com"
       },
       {
-        "title": "Nvidia hires leading US law firm to investigate Jensen Huang’s relationship",
-        "summary": "Move comes as chipmaker reels from reports its CEO was having an affair with an alleged Chinese spyNvidia has appointed a leading US law firm to conduct a “thorough and independent” investigation into the relationship between its chief executive, Jensen Huang, and an <a href=\"https://www.theguardian.",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/nov/11/nvidia-hires-leading-us-law-firm-to-investigate-jensen-huang-relationship",
-        "seendate": "2026-11-11T21:59:07.000Z",
-        "domain": "theguardian.com"
-      },
-      {
         "title": "Federal judge allows Trump’s $10bn defamation lawsuit against BBC to proceed",
         "summary": "Trump-appointed judge Jeffrey T Kuntz partially denies British broadcaster’s motion to dismiss over editFederal judge Jeffrey T Kuntz ruled on Tuesday that Donald Trump’s lawsuit against the BBC can proceed, denying in part the British broadcaster’s motion to dismiss the case. The president’s $10bn defamation lawsuit stems from the BBC’s splicing together of disparate comments he made before the 6 January U",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/us-news/2026/nov/10/trump-10bn-defamation-lawsuit-bbc-allowed",
         "seendate": "2026-11-11T01:18:56.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "US inflation rose 0.4% in October as price increases cooled and gas costs dipped",
-        "summary": "New data comes after Republicans’ midterms losses – which were largely seen as a rebuke of the party over high pricesUS inflation rose 0.4% from September to October, slightly above expectations but still a cooldown in price increases as the cost of gas dipped during the month.The Bureau of Labor Statistics did not release the usual year-over-year inflation figure as part of the consumer price index",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/nov/10/october-inflation-report",
-        "seendate": "2026-11-10T15:38:48.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Nvidia and Jensen Huang sued in US over affair with alleged Chinese spy",
-        "summary": "California lawsuit comes as Donald Trump says FBI is investigating tech CEO’s links with Alice HuangNvidia’s board needs to do some succession planning – sharpishNvidia and its chief executive, Jensen Huang, have been accused of misleading shareholders in a lawsuit over the Chinese <a href=\"ht",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi",
-        "seendate": "2026-11-10T12:45:54.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "literature": [
+      {
+        "title": "Public Access Afterworld by Jane Schoenbrun review – horror in the TV static",
+        "summary": "The Teenage Sex and Death at Camp Miasma writer-director’s first novel is a wry, hugely fun journey into the dark world behind our screensPublic Access Afterworld is the first novel by Jane Schoenbrun, director of cult-hit horror film I Saw the TV Glow and the more recent Teenage Sex and Death at Camp Miasma; movies in which screens are a&nbsp;permeable barrier and people are menaced by the uncanny realms t",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/nov/12/public-access-afterworld-by-jane-schoenbrun-review-horror-in-the-tv-static",
+        "seendate": "2026-11-12T07:00:12.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Transcription by Ben Lerner audiobook review – a mediation on memory for the smartphone era",
+        "summary": "Actor Seth Numrich vividly captures the neurotic tendencies of a middle-aged man with a digital dependency, in an intense multilayered tale of family and storytellingWe meet the unnamed narrator of Transcription on a train to Providence, Rhode Island. He is going to interview his one-time mentor Thomas, a celebrated German writer and film-maker, who is 90 and who, owing to his age, probably won’t be intervi",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/nov/12/transcription-by-ben-lerner-audiobook-review-a-mediation-on-memory-for-the-smartphone-era",
+        "seendate": "2026-11-12T15:00:43.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Does M John Harrison’s Booker win mean science fiction is finally accepted by a ‘snobby’ literary establishment?",
         "summary": "Kazuo Ishiguro, Jeff VanderMeer, Olivia Laing and other writers weigh in on the publishing world’s genre warsAs M John Harrison was announced as the Booker prize winner on Monday evening, the 81-year-old looked gobsmacked. Decades into his career, and long overlooked by the mainstream literary establishment, he had just won a prize that has never before rewarded a writer known for science fiction, with a de",
@@ -152,194 +168,202 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/books/2026/nov/11/the-best-recent-science-fiction-fantasy-and-horror-review-roundup",
         "seendate": "2026-11-11T09:00:34.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Ten Lives by Mona Chalabi review – what if we were totally honest about our wealth?",
-        "summary": "The data journalist puts her own finances – and those of 10 others from across the economic spectrum – under a microscopeHow much do you earn? If the question makes you bristle – and I realise we haven’t even met – would you answer it if someone convinced you that your candour might just change the world?In her deliciously original first book, the former Guardian data journalist and illustrator Mona",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/nov/11/ten-lives-by-mona-chalabi-review-what-if-we-were-totally-honest-about-our-wealth",
-        "seendate": "2026-11-11T07:00:31.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "The Man With Many Names by Georgi Gospodinov review – playful and profound tales from Bulgaria",
-        "summary": "This collection of 40 short stories from the International Booker winner is full of invention and warmthIn the titular story of Georgi Gospodinov’s short-story collection The Man With Many Names, the narrator reveals: “Telling our personal stories is the only move we can make … that allows us to postpone for at least a little while this game’s foregone ending.” It’s as good a description as any of the Bulga",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/nov/11/the-man-with-many-names-by-georgi-gospodinov-review-playful-and-profound-tales-from-bulgaria",
-        "seendate": "2026-11-11T09:00:34.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "entertainment": [
       {
-        "title": "Veteran actor Irma P Hall, star of The Ladykillers, dies aged 91",
-        "summary": "Once a Dallas school teacher, Hall became a star in later life with roles in Soul Food and Collateral Actor Irma P Hall, star of Soul Food and the Coen brothers’ The Ladykillers, has died at the age of 91.Hall died on Tuesday, her family confirmed alongside a statement that described her a",
+        "title": "The Good Daughter review – the best thing about this legal thriller? Brendan Gleeson’s sad toilet fart",
+        "summary": "For a drama that is meant to explore female trauma, Rose Byrne and Meghann Fahy are given very little to do as small-town lawyers. It is Gleeson who steals the show as their broken father who earns the name Shatticus Finch“Why is ma laaahf filled with contrary feee-males?” grumbles dilapidated defence lawyer Rusty Quinn (Brendan Gleeson), his deep south vowels stretching like grilled cheese",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/nov/11/irma-p-hall-actor-dies",
-        "seendate": "2026-11-11T19:47:16.000Z",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/nov/12/the-good-daughter-review-brendan-gleeson-rose-byrne-meghann-fahy",
+        "seendate": "2026-11-12T22:00:00.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Tyler Perry’s The Gospel of Christmas review – Netflix unloads more slapdash festive fare",
-        "summary": "Incompetent direction almost kills the Christmas spirit but American Idol winner Fantasia Barrino Taylor brings down the houseThanksgiving is right around the corner, which means Christmas creep is in full effect and the floodgates holding back the seasonal tide of holiday movies have opened to fully drown yuletide junkies in cheer. Among the first out of the gates is Netflix’s The Gospel of Christmas, brou",
+        "title": "Ebenezer review – Johnny Depp’s Scrooge tries to exorcise ghosts of business past",
+        "summary": "The latest film version of the Dickens classic A Christmas Carol is decent enough, though its star is rather better as the legendary miser before redemption arrivesHere for lovers of Dickens – and fans of subtext – is an unexpectedly watchable new movie version of A Christmas Carol starring a top-hatted and heavily madeup Johnny Depp; it is a film about whether it’s possible for a man to earn redemption bef",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/nov/11/tyler-perry-gospel-of-christmas-review-netflix",
-        "seendate": "2026-11-11T18:43:25.000Z",
+        "url": "https://www.theguardian.com/film/2026/nov/12/ebenezer-review-johnny-depp-scrooge-dickens",
+        "seendate": "2026-11-12T17:14:58.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "How to Rob a Bank review – Amazon’s anti-capitalist caper is far from a riot",
-        "summary": "Nicholas Hoult, Anna Sawai and Pete Davidson play Robin Hood in this simple-minded and unexciting attempt to mix social commentary with actionIn case you were somehow blissfully unaware, America is in a very dark place and Americans are not very happy about it. Last week’s midterms saw a historic blue wave propelled by the high cost of living and the low trust in those making decisions, but restoring any sm",
+        "title": "Seth Meyers on Trump’s midterms denial: ‘Watching you go through the motions is bumming me out’",
+        "summary": "Late-night hosts discuss US president’s questioning of historic midterms defeat and his unpopular ‘triumphal arch’Late-night hosts tore into Donald Trump going through the motions on election denial and his self-centered tribute for US Veterans Day. <a href=\"https://www.theguardian.com/culture/2026/nov/12/seth-meyers-trump-midterms-denial-lat",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/nov/11/how-to-rob-a-bank-movie-review-amazon",
-        "seendate": "2026-11-11T17:00:29.000Z",
+        "url": "https://www.theguardian.com/culture/2026/nov/12/seth-meyers-trump-midterms-denial-late-night",
+        "seendate": "2026-11-12T16:20:05.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Does M John Harrison’s Booker win mean science fiction is finally accepted by a ‘snobby’ literary establishment?",
-        "summary": "Kazuo Ishiguro, Jeff VanderMeer, Olivia Laing and other writers weigh in on the publishing world’s genre warsAs M John Harrison was announced as the Booker prize winner on Monday evening, the 81-year-old looked gobsmacked. Decades into his career, and long overlooked by the mainstream literary establishment, he had just won a prize that has never before rewarded a writer known for science fiction, with a de",
+        "title": "‘Joni Mitchell sang Both Sides, Now over the phone to me’: folk music legend Judy Collins on her 87 remarkable years",
+        "summary": "As she continues her farewell tour, the US singer-songwriter answers your questions on romance with Stephen Stills, friendship with Carly Simon and how folk underpins all popHow did you come into Joni Mitchell’s orbit and how did you end up recording Both Sides, Now before she did? Steve-bayley I’m 48 years sob",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/nov/11/m-john-harrison-booker-science-fiction",
-        "seendate": "2026-11-11T16:44:36.000Z",
+        "url": "https://www.theguardian.com/music/2026/nov/12/joni-mitchell-sang-both-sides-now-over-the-phone-to-me-folk-music-legend-judy-collins-on-her-87-remarkable-years",
+        "seendate": "2026-11-12T14:30:42.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Jimmy Kimmel on Hegseth’s press conference amid impeachment attempt: ‘doozy of a performance’",
-        "summary": "Late-night hosts discussed embattled defense secretary’s defense of himself amid Republican-led effort to oust himLate-night hosts recapped Pete Hegseth’s press conference amid impeachment articles and Stephen Miller’s first day as White House",
+        "title": "‘To them, we’re just NPCs’: the artists and activists challenging Trump’s video game propaganda",
+        "summary": "Order a Diet Coke or invade Iran – that’s the choice facing the US president in one of several satirical games, as designers turn the gamification of politics back on the White HouseIn early September, the Trump White House announced a surprising new addition to its official website. Named simply Arcade, it is",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/culture/2026/nov/11/jimmy-kimmel-pete-hegseth-impeachment-conference",
-        "seendate": "2026-11-11T16:06:21.000Z",
+        "url": "https://www.theguardian.com/games/2026/nov/12/trump-video-game-propaganda",
+        "seendate": "2026-11-12T14:00:43.000Z",
         "domain": "theguardian.com"
       }
     ],
     "f1": [
       {
-        "title": "George Russell credits Toto Wolff's loyalty for Mercedes' F1 title return: \"Nobody was hired or fired\"",
-        "summary": "George Russell says Toto Wolff's refusal to change Mercedes during the difficult years of the ground effect era is a big reason the team is back on top of Formula 1.The Brackley outfit sealed its ninth constructors' title at the Sao Paulo Grand Prix on Sunday, its first since the end of its run of eight in a row in 2021. From 2022 to 2025, it went four seasons with little success as it ...<a class='more'",
+        "title": "Guenther Steiner suggests Max Verstappen could be better suited to lead Ferrari",
+        "summary": "Former Haas Formula 1 team principal Guenther Steiner has questioned whether Lewis Hamilton is the driver to turn Ferrari's fortunes around, suggesting Max Verstappen might be better suited to the role.Hamilton joined Ferrari in 2025 after a successful 12-year stint with Mercedes, during which time he won six of his seven world titles.After a tricky first season with Ferrari, the ...<a class='more' h",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/george-russell-credits-toto-wolffs-loyalty-for-mercedes-f1-title-return-nobody-was-hired-or-fired/10873975/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-12T00:01:07.000Z",
+        "url": "https://www.motorsport.com/f1/news/guenther-steiner-suggests-max-verstappen-could-be-better-suited-to-lead-ferrari/10874192/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-12T21:00:04.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Bruno Senna reveals plans to put Kimi Antonelli behind the wheel of Ayrton Senna's F1 car",
-        "summary": "Former Formula 1 driver Bruno Senna says he wants to give Kimi Antonelli the chance to drive one of Ayrton Senna's cars next year, after the 2026 world champion visited the family's estate in Brazil.Antonelli arrived at the estate days after clinching his maiden F1 championship at the Mexican Grand Prix, becoming the youngest driver in the history of the series to win the title.Speaking on ...<a clas",
+        "title": "Guether Steiner warns Oscar Piastri's McLaren future could be at risk after 2027",
+        "summary": "Former Haas Formula 1 team principal Guenther Steiner has warned that Oscar Piastri could find his McLaren future under threat if he has another season like 2026.Piastri, who fought for the world title in 2025, has endured a much tougher campaign this time around and is out of the fight for second in the championship with three rounds to go. Speaking on The Red Flags Podcast, Steiner was ...<a class=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/bruno-senna-reveals-plans-to-put-kimi-antonelli-behind-the-wheel-of-ayrton-sennas-f1-car/10873973/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-11T23:55:02.000Z",
+        "url": "https://www.motorsport.com/f1/news/guether-steiner-warns-oscar-piastris-mclaren-future-could-be-at-risk-after-2027/10874189/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-12T17:44:49.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Max Verstappen questions Ferrari’s decision to let Lewis Hamilton and Charles Leclerc race freely",
-        "summary": "Following his impressive win at Autodromo Hermanos Rodriguez, Max Verstappen said he would never put two number one drivers together if he were a team principal of Ferrari. He believes the battle between Lewis Hamilton and Charles Leclerc gifted him the win in Mexico.The Ferrari pair fought hard on the opening lap at the Mexico City Grand Prix, and Verstappen took advantage of the clash ...<a class='more",
+        "title": "Toto Wolff reflects on Mercedes’ non-title years: ‘We weren’t complete losers’",
+        "summary": "Mercedes team principal Toto Wolff says the squad wasn’t “complete losers” in its four years without a Formula 1 world title.The Silver Arrows claimed their ninth constructors’ championship on Sunday at the Brazilian Grand Prix, one week after Kimi Antonelli became F1’s youngest world drivers’ champion.Mercedes came out on top as F1 switched to new chassis and power unit ...<a class='more' href='http",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/max-verstappen-questions-ferraris-decision-to-let-lewis-hamilton-and-charles-leclerc-race-freely/10873971/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-11T23:48:50.000Z",
+        "url": "https://www.motorsport.com/f1/news/toto-wolff-reflects-on-mercedes-non-title-years-we-werent-complete-losers/10873281/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-12T17:25:35.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Lewis Hamilton loses most marketable athlete crown as Charles Leclerc moves ahead",
-        "summary": "Lewis Hamilton has lost his place at the top of sport's marketability rankings, and has slipped behind his own Ferrari team-mate too.The seven-time world champion topped SportsPro's annual list of the 50 Most Marketable Athletes last year, but has dropped to 22nd in the 2026 edition, which was created with data from NorthStar Solutions Group.Aryna Sabalenka, the Belarusian tennis star ...<a class='mo",
+        "title": "Laurent Mekies: Brazil was Isack Hadjar’s “best race” for Red Bull",
+        "summary": "The 2026 São Paulo Grand Prix was a monumental weekend for Red Bull Racing. While Max Verstappen stole the headlines with a logic-defying charge from 21st to finish second, his team-mate Isack Hadjar quietly delivered what team principal Laurent Mekies believes is his most impressive drive yet. Securing a double podium for the Milton Keynes squad, Hadjar finished third at Interlagos after ...<a class='mo",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/lewis-hamilton-loses-most-marketable-athlete-crown-as-charles-leclerc-moves-ahead/10873959/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-11T21:14:59.000Z",
+        "url": "https://www.motorsport.com/f1/news/laurent-mekies-brazil-was-isack-hadjars-best-race-for-red-bull/10874059/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-12T16:41:01.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Kimi Antonelli keeps F1 title promise with Italian flag hair at Mercedes factory",
-        "summary": "Kimi Antonelli has kept his word. Mercedes' new world champion arrived at the team's Brackley factory this week with his hair dyed green, white and red, the colours of the Italian flag, as the team celebrated its successful season at its headquarters.Mercedes posted a video of the moment on social media on Wednesday, showing Antonelli meeting members of the team to laughter, with Toto Wolff ...<a class='",
+        "title": "F1 Academy champion Alisha Palmowski reveals key lesson from Max Verstappen",
+        "summary": "Alisha Palmowski says the biggest lesson of her F1 Academy title year came from simply watching four-time Formula 1 champion Max Verstappen at work.The Briton, who races for Campos Racing as part of Red Bull's junior programme, clinched the 2026 F1 Academy title in Austin, with one round still to run in the all-female racing series.Palmowski made her F1 Academy debut as the wildcard entry ...<a class",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/kimi-antonelli-keeps-f1-title-promise-with-italian-flag-hair-at-mercedes-factory/10873952/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-11T20:55:48.000Z",
+        "url": "https://www.motorsport.com/f1/news/f1-academy-champion-alisha-palmowski-reveals-key-lesson-from-max-verstappen/10874174/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-12T16:35:22.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "CD Projekt used AI to modify the voice of Geralt's Polish actor after a stroke left it significantly changed: 'This was a special case'",
-        "summary": "Jacek Rozenek was the voice of Geralt in all previous Polish-language Witcher releases, and CD Projekt wanted to work with him again—but his voice is no longer a match.",
+        "title": "Doom studio id Software confirms it's working on a new game",
+        "summary": "But, just as with the next Elder Scrolls game, \"it'll be some time\" before it's ready to share more.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/the-witcher/cd-projekt-used-ai-to-modify-the-voice-of-geralts-polish-actor-after-a-stroke-left-it-significantly-changed-this-was-a-special-case/",
-        "seendate": "2026-11-12T00:02:47.000Z",
+        "url": "https://www.pcgamer.com/games/fps/doom-studio-id-software-confirms-its-working-on-a-new-game/",
+        "seendate": "2026-11-12T21:10:04.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "After cracking down on 'cheat' mods in Helldivers 2 and taking another Steam review beating, Arrowhead plans hotfix that should allow harmless cosmetics",
-        "summary": "The move to a better anti-cheat has not been wholly embraced by players.",
+        "title": "South Korean game rating board almost blocked GTA 6's release, fearing its 'out-of-context genital nudity' would 'disrupt social order'",
+        "summary": "GTA 6 required a total of three ratings reviews by South Korea's GCRB—and Cyberleek might have had something to do with it.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/third-person-shooter/after-cracking-down-on-cheat-mods-in-helldivers-2-and-taking-another-steam-review-beating-arrowhead-plans-hotfix-that-should-allow-harmless-cosmetics/",
-        "seendate": "2026-11-11T23:29:59.000Z",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/south-korean-game-rating-board-almost-blocked-gta-6s-release-fearing-its-out-of-context-genital-nudity-would-disrupt-social-order/",
+        "seendate": "2026-11-12T19:06:41.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Giana Sisters developer Black Forest Games buys itself out of Embracer: 'Some of the best games of the last decade came from teams of fifty, not five hundred'",
-        "summary": "According to the press release, \"THQ Nordic and Black Forest Games continue to collaborate on game development tasks.\"",
+        "title": "Now Jensen's gone, Intel’s trouble finding a steady CEO should serve as cautionary tale to Nvidia’s board",
+        "summary": "Huang's permanent replacement will have some massive shoes to fill.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/giana-sisters-developer-black-forest-games-buys-itself-out-of-embracer-some-of-the-best-games-of-the-last-decade-came-from-teams-of-fifty-not-five-hundred/",
-        "seendate": "2026-11-11T22:57:44.000Z",
+        "url": "https://www.pcgamer.com/hardware/now-jensens-gone-intels-trouble-finding-a-steady-ceo-should-serve-as-cautionary-tale-to-nvidias-board/",
+        "seendate": "2026-11-12T17:50:22.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Crimson Desert wins 'PC Game of the Year' at the 2026 Golden Joystick Awards",
-        "summary": "Resident Evil Requiem and Meccha Chameleon were the night's other big winners.",
+        "title": "Next Nvidia CEO has to have national security as a 'top priority' says chairman of US Gov committee on China – claims Huang departure 'could have been avoided'",
+        "summary": "A clear message to Nvidia's board.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/crimson-desert-wins-pc-game-of-the-year-at-the-2026-golden-joystick-awards/",
-        "seendate": "2026-11-11T21:31:30.000Z",
+        "url": "https://www.pcgamer.com/hardware/graphics-cards/next-nvidia-ceo-has-to-have-national-security-as-a-top-priority-says-chairman-of-us-gov-committee-on-china-claims-huang-departure-could-have-been-avoided/",
+        "seendate": "2026-11-12T17:27:15.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Bethesda shoots down Elder Scrolls 6: Sentinel announcement rumor on Skyrim's 15th anniversary",
-        "summary": "Sorry, everyone, but Bethesda said it's going to be \"some time\" before more Sentinel news is released, and it meant it.",
+        "title": "'I'm a big Zach Cregger fan': Angela Sant'Albano gushes about the Resident Evil movie and likens Bryan to her own Grace Ashcroft",
+        "summary": "Grace and Bryan—two peas in a very scared pod.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/the-elder-scrolls/bethesda-shoots-down-elder-scrolls-6-sentinel-announcement-rumor-on-skyrims-15th-anniversary/",
-        "seendate": "2026-11-11T20:13:02.000Z",
+        "url": "https://www.pcgamer.com/games/resident-evil/im-a-big-zach-cregger-fan-angela-santalbano-gushes-about-the-resident-evil-movie-and-likens-bryan-to-her-own-grace-ashcroft/",
+        "seendate": "2026-11-12T17:23:11.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
       {
-        "title": "Nvidia and Jensen Huang sued in US over affair with alleged Chinese spy",
-        "summary": "California lawsuit comes as Donald Trump says FBI is investigating tech CEO’s links with Alice HuangNvidia’s board needs to do some succession planning – sharpishNvidia and its chief executive, Jensen Huang, have been accused of misleading shareholders in a lawsuit over the Chinese <a href=\"ht",
+        "title": "Jensen Huang resigns as Nvidia CEO after alleged affairs",
+        "summary": "Move follows admission of affair with woman alleged to be Chinese spy and reported relationships with two employeesNvidia crisis – live updates<a href=\"https://www.theguardian.com/technology/2026/nov/12/rise-and-fall-of-nvidia-ceo-jensen-huang-profi",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi",
-        "seendate": "2026-11-10T12:45:54.000Z",
+        "url": "https://www.theguardian.com/technology/2026/nov/12/nvidia-ceo-jensen-huang-resigns",
+        "seendate": "2026-11-12T22:05:28.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "AI datacentres plan on-site power stations on huge scale despite climate risks, research reveals",
-        "summary": "181GW of gas-fired capacity proposed for sites in US and Europe because of delays in connecting to national grids, says reportDevelopers of AI datacentres plan to build on-site climate-destroying gas power stations on a huge scale to meet their energy demands, research reveals.Datacentres planned across the US, the UK and mainland Europe have proposals to build fossil fuel plants on-site to create 18",
+        "title": "NHS England deletes ‘misleading’ claim 137 trusts benefiting from Palantir AI tools",
+        "summary": "Exclusive: The Guardian revealed 29 hospital trusts were not or hardly using the controversial patient data techNHS England has deleted a claim from its website stating 137 hospital trusts are benefiting from Palantir’s AI health data system after the Guardian revealed 29 of them were not using all or most o",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/nov/11/ai-datacentres-on-site-gas-fired-power-stations",
-        "seendate": "2026-11-11T12:00:48.000Z",
+        "url": "https://www.theguardian.com/technology/2026/nov/12/nhs-england-deletes-misleading-claim-137-trusts-benefiting-from-palantir-ai-tools",
+        "seendate": "2026-11-12T11:00:47.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Germany reportedly bans Chinese drones at military bases over security concerns",
-        "summary": "Western military forces increasingly worried Chinese-made technology ⁠could send ‌sensitive information to BeijingGermany has banned commercially available Chinese-made drones ⁠from its military bases and training grounds due to security concerns, ⁠according to reports.Western military forces have grown increasingly concerned that Chinese-made technology ⁠could pose a security risk and may be ​used t",
+        "title": "US public workers are fighting to protect their jobs from AI – and some are winning",
+        "summary": "As governments adopt AI, workers are gaining ground in how it’s used and securing safeguards against its harmsIn the shadow of Silicon Valley, workers for the city of Oakland, California, worry the region will deploy AI systems that could increase surveillance and inaccurately evaluate their performance. Pushing for protections to ensure workers won’t be laid off or disciplined by AI, their union overwhelmi",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/nov/11/germany-bans-chinese-drones-military-bases-spying-security",
-        "seendate": "2026-11-11T09:41:05.000Z",
+        "url": "https://www.theguardian.com/technology/2026/nov/12/us-workers-governments-unions-ai",
+        "seendate": "2026-11-12T15:00:44.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "UK social media ban expansion for under-16s could cover YouTube Kids",
-        "summary": "Regulations under consideration could affect up to 150 platforms, including LegoPlay, Spotify and eBay, sources sayA substantial expansion of the social media ban for under-16s could inadvertently lead to a ban on YouTube Kids and other sites that had been thought exempt, sources briefed on the government’s proposals have said.One source close to the talks said the regulations now under consideration",
+        "title": "Datacentres are deeply unpopular. Has Sweden made one we can all love?",
+        "summary": "It is built of wood, resembles an Ikea and its power is totally renewable. Plus, it was built with the local community in mind. Is this facility in Falun the best datacentre in the world?‘It was pretty cool, when they were building it. It looked like a very large Ikea,” says John Wernvik, of EcoDataCenter. He is giving me a tour of their facility in Falun, Sweden, which could lay claim to being the world’s",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/uk-news/2026/nov/10/uk-social-media-ban-expansion-for-under-16s-could-cover-youtube-kids",
-        "seendate": "2026-11-10T17:30:15.000Z",
+        "url": "https://www.theguardian.com/environment/2026/nov/12/datacentres-unpopular-sweden-ecodatacenter-falun",
+        "seendate": "2026-11-12T11:00:46.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Anthropic targets valuation of up to $1.4tn in stock market flotation",
-        "summary": "Claude chatbot developer had been reported to be aiming for $2tn IPO on Wall Street before investors cooled on AIAnthropic is seeking a valuation of up to $1.4tn (£1.1tn) in its imminent stock market flotation, short of the $2tn that had been expected before investors started to question the durability of t",
+        "title": "Facial recognition errors put ethnic minorities at risk of wrongful arrest, police watchdog warns",
+        "summary": "Inspectors find some officers acted on potential matches from retrospective searches without making enough checksPolice officers risk arresting innocent people, especially from ethnic minorities, if they treat inaccurate facial recognition data as evidence, an official report has found.Although the technology can help fight crime, the report found it is beset by <a href=\"https://www.theguardian.com/t",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/nov/10/anthropic-valuation-stock-market-flotation-ipo-wall-street-ai",
-        "seendate": "2026-11-10T16:13:13.000Z",
+        "url": "https://www.theguardian.com/technology/2026/nov/12/facial-recognition-errors-put-ethnic-minorities-at-risk-of-wrongful-arrest-police-watchdog-warns",
+        "seendate": "2026-11-12T00:01:03.000Z",
         "domain": "theguardian.com"
       }
     ],
     "climate": [
+      {
+        "title": "Dozens of protesters arrested after staging sit-in at Chuck Schumer’s DC office",
+        "summary": "Protesters with the Sunrise Movement youth climate group push for new Senate leadership and ending the filibuster Dozens of protesters with the Sunrise Movement, a youth climate organization, were arrested after staging a sit-in inside Senate minority leader Chuck Schumer’s Washington DC office ThursdayAccording to the Sunrise Movement, 54 people were arrested, among a few hundred who joined the prot",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/nov/12/protesters-arrested-chuck-schumer-office-dc",
+        "seendate": "2026-11-12T22:12:56.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Be sea-ing you: humpback whale spotted in New York’s Hudson River",
+        "summary": "Sightings of the species are becoming increasingly common as experts worry about danger posed by busy waterwaysA humpback whale was spotted on Thursday swimming in New York’s Hudson River, sparking a social media frenzy.Brad Hoylman-Sigal, president of Manhattan borough, was among those to share a photograph of the whale <a href=\"https://www.facebook.com/bradhoylman/posts/a-humpback-whale-was-spotted",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/nov/12/humpback-whale-new-york-city-hudson-river",
+        "seendate": "2026-11-12T20:53:49.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Trump the ‘biggest loser’ for scrapping climate action, John Kerry says at Cop31",
+        "summary": "Kerry decries president for ceding clean-energy dominance to China and says climate crisis still a key issue for votersDonald Trump is the “biggest loser we’ve seen in a long time” for scrapping action on the climate crisis and ceding the clean energy race to China, former US secretary of state John Kerry has said.Kerry, speaking at the Cop31 climate summit in Turkey, criticized Trump for withdrawing",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/environment/2026/nov/12/trump-loser-john-kerry-cop31",
+        "seendate": "2026-11-12T11:00:48.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Historic US ocean liner sinks near Florida to become world’s largest artificial reef",
         "summary": "SS United States, which set transatlantic speed record during maiden voyage in 1952, is sunk off coast of DestinThe historic SS United States has reached the end of its journey at sea, sinking Wednesday off the coast of Destin, Florida, where it will begin a new life underwater as an artificial reef.The nearly 1,000ft American-made vessel, once the fastest ocean liner in the world, was launched in 19",
@@ -355,33 +379,33 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/us-news/2026/nov/10/jimmy-carter-georgia-farm-conserved-open-to-public",
         "seendate": "2026-11-10T15:01:41.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Senate advances bill to speed up projects from gas pipelines to clean energy",
-        "summary": "Key environmental groups come out against bipartisan Baaja bill over fears it could spur datacenters and ICE jailsThe Senate on Monday advanced bipartisan legislation aimed at speeding up permitting reviews for datacenters and other infrastructure projects, in the first major action since last week’s election that soundly repudiated Donald Trump and congressional <a href=\"https://www.theguardian.com/us-news",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/nov/09/senate-energy-infrastructure-bill-vote",
-        "seendate": "2026-11-10T02:28:00.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Democrats to attend Cop31 climate talks boosted by midterms and eager to make up for Trump-era setbacks",
-        "summary": "US government will have no official presence at UN’s annual climate summit, held this year in Antalya, TurkeyThe US will be absent from key UN climate talks that start on Monday, a further sign of Donald Trump’s scornful dismissal of the climate crisis. But Democrats’ crushing win in the US midterm elections has delivered a timely shot of optimism to countries now looking beyond the Trump era of climate obs",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/2026/nov/09/cop31-climate-democrats-midterms",
-        "seendate": "2026-11-09T06:00:01.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Beef industry quietly squashes part of its own science curriculum after ranchers protest",
-        "summary": "Lesson for teenagers included how cattle’s methane emissions contribute to climate crisis, but it was then scrappedA beef industry-funded effort to teach teenagers about cattle’s climate impact was quietly scrapped following backlash from some ranchers, who disputed the premise that cows contribute to global heating.The episode is the latest example of the livestock industry’s decades-long battle to",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/2026/nov/08/beef-industry-climate-impact-education",
-        "seendate": "2026-11-08T15:00:43.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "science": [
+      {
+        "title": "European survey reveals 900m galaxies – and possibly secrets of ‘dark universe’",
+        "summary": "Unprecedented view of cosmos provided by Euclid mission throws up many more cases of gravitational lensingA mission to create the largest ever 3D map of the universe has revealed more than 900m galaxies in its first major data release together with about 15,000 potential cases of a phenomenon that could help unlock the secrets of the “dark universe”.Launched in July 2023, the European Space Agency’s",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/nov/12/european-euclid-mission-reveals-900m-galaxies-secrets-dark-universe",
+        "seendate": "2026-11-12T11:08:54.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "BMI alternative for identifying obesity ‘could prevent misdiagnosis in millions’",
+        "summary": "Combining body mass index with other measurements and tests would lead to better care and outcomes, experts sayAn alternative to BMI for diagnosing obesity could prevent misdiagnosis in millions of people worldwide, according to doctors who found it more accurately distinguished healthy people from those with harmful excess body fat.Medical experts have long considered body mass index a blunt instrum",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/society/2026/nov/11/bmi-alternative-obesity-diagnosis-body-mass-index",
+        "seendate": "2026-11-11T16:00:53.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Is BMI working? Cop31 latest, the science of great conversation – podcast",
+        "summary": "Madeleine Finlay and co-host Ian Sample discuss the three science stories you need to know about this week, including an alternative to BMI for diagnosing obesity which could ‘prevent misdiagnosis for millions’. Also on the agenda: an update from this year’s Cop climate conference in Turkey, and a study that claims to have found the key to better conversations with the help of a concept from physics",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/audio/2026/nov/12/is-bmi-working-cop31-latest-the-science-of-great-conversation-podcast",
+        "seendate": "2026-11-12T05:00:09.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Molecular signal in blood helps detect early risk for ovarian cancer, study finds",
         "summary": "Researchers discover a potential diagnostic breakthrough for a disease often ⁠discovered after it has already spreadA molecular signal in the blood helps identify microscopic changes that precede development of ovarian cancer, researchers have found, ⁠a potential diagnostic breakthrough for a disease often ⁠discovered after it has already spread.For decades, ​efforts to detect ovarian cancer earlier",
@@ -396,30 +420,6 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/science/video/2026/nov/10/what-happens-to-your-brain-when-the-days-get-darker-video",
         "seendate": "2026-11-10T12:23:54.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Pharma firms’ focus on weight-loss drugs could put insulin supply at risk, experts warn",
-        "summary": "GLP-1 products such as Ozempic and Mounjaro spread but many in poorer countries struggle to get basic diabetes treatmentThe gold rush into GLP-1 weight-loss drugs risks diverting pharmaceutical firms’ attention away from diabetes treatments such as insulin, the head of the Access to Medicine Foundation has warned.GLP-1 blockbuster medications<a href=\"https://www.theguardian.com/news/ng-interactive/20",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/nov/10/pharma-firms-weight-loss-drugs-insulin-glp-1-ozempic-mounjaro",
-        "seendate": "2026-11-10T13:00:53.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Medical breakthrough offers hope to people with same stiff person syndrome as Céline Dion",
-        "summary": "Some patients with autoimmune condition in the trial have been able to return to work and resume hobbiesDoctors have made a potentially significant breakthrough in the hunt for a treatment for stiff person syndrome, the autoimmune condition that affects the singer Céline Dion.Stiff person syndrome (SPS) is a rare disease that attacks the central nervous system and can cause devastating rigidity throu",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/nov/09/medical-breakthrough-offers-hope-to-people-with-same-stiff-person-syndrome-as-celine-dion",
-        "seendate": "2026-11-09T16:42:22.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Ukraine’s new frontier: how space has become critical to balance of the war",
-        "summary": "In a war driven by drones and battlefield sensors, access to space is essential. After Starlink speed restrictions and Russian Oreshnik missile strikes, Kyiv is racing to develop its own space capabilitiesFor people in the Russian industrial city of Samara on the banks of the Volga, the first they knew of the Ukrainian attack were detonations that sent a column of smoke into the air.If the Kremlin wa",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/ng-interactive/2026/nov/08/ukraine-space-critical-war-starlink",
-        "seendate": "2026-11-08T05:00:30.000Z",
         "domain": "theguardian.com"
       }
     ]
