@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T02:46:52.338Z",
+  "generatedAt": "2026-11-15T02:14:18.134Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
@@ -88,19 +88,19 @@
     ],
     "economy": [
       {
+        "title": "‘It’s frustrating’: chaos at US airports as stoppage grinds travel plans to a halt",
+        "summary": "Travelers and crew feeling ‘pissed’ or ‘lucky’ depending on level of upset amid nationwide ground stopThe decision to ground all flights on Friday by the US Federal Aviation Administration (FAA) threw airports and travel plans into chaos across the country, as passengers on planes and in airport terminals were suddenly thrust into limbo.At New York’s John F Kennedy airport, passengers found th",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/nov/13/us-airports-flight-stoppage",
+        "seendate": "2026-11-14T02:49:59.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Microsoft outage shakes up companies, schools and local governments across US",
         "summary": "Local officials warn some services remain unavailable even as Outlook starts to resume normal operations after outageMicrosoft outage – live updatesThe Microsoft Outlook outage has shaken up companies and local government",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-shakes-up-companies-local-governments",
         "seendate": "2026-11-13T21:13:59.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "US aviation agency lifts nationwide ground stop affecting all air travel",
-        "summary": "Sean Duffy, the transportation secretary, said the airspace was now open and the problem had been identifiedFAA grounds thousands of flights – liveThe Federal Aviation Administration (FAA) has lifted a nationwide ground stop t",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights",
-        "seendate": "2026-11-14T02:15:53.000Z",
         "domain": "theguardian.com"
       },
       {
@@ -129,6 +129,14 @@
       }
     ],
     "literature": [
+      {
+        "title": "‘It’s like the wild west’: how AI has rocked the literary world",
+        "summary": "With authors losing lucrative deals and writers removed from prize shortlists, accusations of AI use are sending shock waves through the publishing industry. Is it too late to turn the tide on machine writing?The romance novelist Coral Hart got her break writing books for Mills &amp; Boon, the publisher of bodice-ripper paperbacks. In 2012, she decided to dip her toe in self-publishing. She",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/ng-interactive/2026/nov/14/its-like-the-wild-west-how-ai-has-rocked-the-literary-world",
+        "seendate": "2026-11-14T09:00:40.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "The best books to read in November and December: new paperbacks from Benjamin Myers, Jeanette Winterson and John Updike",
         "summary": "Looking for a new reading recommendation? Here are some must-read new paperbacks, from an experimental novel about a German actor to a study of how the arts can boost our health*** Continue reading...",
@@ -159,14 +167,6 @@
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/books/2026/nov/12/transcription-by-ben-lerner-audiobook-review-a-mediation-on-memory-for-the-smartphone-era",
         "seendate": "2026-11-12T15:00:43.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Does M John Harrison’s Booker win mean science fiction is finally accepted by a ‘snobby’ literary establishment?",
-        "summary": "Kazuo Ishiguro, Jeff VanderMeer, Olivia Laing and other writers weigh in on the publishing world’s genre warsAs M John Harrison was announced as the Booker prize winner on Monday evening, the 81-year-old looked gobsmacked. Decades into his career, and long overlooked by the mainstream literary establishment, he had just won a prize that has never before rewarded a writer known for science fiction, with a de",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/nov/11/m-john-harrison-booker-science-fiction",
-        "seendate": "2026-11-11T16:44:36.000Z",
         "domain": "theguardian.com"
       }
     ],
@@ -214,47 +214,63 @@
     ],
     "f1": [
       {
-        "title": "James Allison reveals the \"very adventurous\" trick behind Kimi Antonelli's F1 title",
-        "summary": "Mercedes technical director James Allison has explained how Kimi Antonelli's bold use of the tools on his steering wheel helped him become Formula 1's youngest world champion.The Italian driver secured the 2026 title at the Mexican Grand Prix at the age of 20, in only his second season in F1, and has won nine grands prix so far this year.Speaking on the NU Silver Arrows Radio Show, Allison ...<a clas",
+        "title": "Oscar Piastri: You've got to \"manhandle\" McLaren's F1 car to find its potential",
+        "summary": "Oscar Piastri says McLaren's 2026 Formula 1 car has to be \"manhandled\" to be quick, describing the MCL40 as a car that punishes drivers the moment they are not at the limit.The Australian driver has endured a difficult campaign after fighting for the title last year. He has two podiums in Japan and Miami, and sits seventh in the drivers' standings with three races to go.While speaking to ...<a class=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/james-allison-reveals-the-very-adventurous-trick-behind-kimi-antonellis-f1-title/10874402/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-13T21:56:05.000Z",
+        "url": "https://www.motorsport.com/f1/news/oscar-piastri-youve-got-to-manhandle-mclarens-f1-car-to-find-its-potential/10874559/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-14T17:39:40.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Guenther Steiner suggests Mark Webber became too involved in Oscar Piastri’s career",
-        "summary": "Former Haas Formula 1 team principal Guenther Steiner believes Mark Webber may have become too involved in Oscar Piastri’s career in the second half of 2025, before the McLaren driver decided he wanted to “do this on my own”.Piastri and Webber announced after the São Paulo Grand Prix that they had mutually agreed to end their management agreement, which began in 2019 and saw the ...<a class='more' href='",
+        "title": "‘Lewis suspected a conspiracy’ – Nico Rosberg explains how Lewis Hamilton F1 rivalry went awry at Mercedes",
+        "summary": "When Lewis Hamilton joined Nico Rosberg at Mercedes for the 2013 Formula 1 season, it was a feel-good story: two long-time friends becoming team-mates.However, their amicable relationship soon turned sour, as Mercedes dominated the world championship’s early turbo hybrid era from 2014 and title battles turned into intra-team duels.The first signs of tension appeared early, and in the ...<a class='mor",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/guenther-steiner-suggests-mark-webber-became-too-involved-in-oscar-piastris-career/10874383/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-13T17:20:10.000Z",
+        "url": "https://www.motorsport.com/f1/news/lewis-suspected-a-conspiracy-nico-rosberg-explains-how-hamilton-f1-rivalry-went-awry-at-mercedes/10874271/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-14T16:30:03.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "“I was getting beat up” – How Daniel Ricciardo burned out on ‘humiliating’ F1 return",
-        "summary": "As Daniel Ricciardo joined the Beyond The Grid podcast last month, he sounded more grounded, almost wiser. Two years away from Formula 1’s limelight have provided the Australian with the time he required for introspection, allowing him to view his final years in the championship from a new angle.Those final years were a struggle. After losing his McLaren seat, Ricciardo returned to his old ...<a class='m",
+        "title": "Topps celebrates Lewis Hamilton’s 400th F1 start with limited NOW card",
+        "summary": "Topps has released a Topps NOW trading card in celebration of Lewis Hamilton's 400th Formula 1 start, which came at the São Paulo Grand Prix last weekend.The Ferrari driver became only the second driver in the championship's history to reach the milestone, after Aston Martin's Fernando Alonso, who got there in 2024.Topps announced the card on Instagram on Friday, saying: \"Lewis Hamilton ...<a class='",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/i-was-getting-beat-up-how-daniel-ricciardo-burned-out-on-humiliating-f1-return/10874248/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-13T17:06:56.000Z",
+        "url": "https://www.motorsport.com/f1/news/topps-celebrates-lewis-hamiltons-400th-f1-start-with-limited-now-card/10874547/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-14T16:24:23.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Damon Hill: Ferrari has a “political problem” as Lewis Hamilton “rebuilt himself”",
-        "summary": "Ferrari team principal Fred Vasseur recently insisted that Lewis Hamilton and Charles Leclerc \"left my room joking together\" following a private meeting in Brazil to clear the air. But 1996 Formula 1 champion Damon Hill is not buying the sudden harmony at Maranello.According to Hill, the Scuderia is actively masking a rift. Analysing the fallout from the recent triple-header, Hill pointed to a ...<a clas",
+        "title": "Mercedes technical director warns F1 teams won’t “lie down” over 2027 downforce cuts",
+        "summary": "Formula 1's transition to the new 2026 engine and chassis regulations completely reshuffled the competitive order, but the rulebook is far from finalised. As teams prepare for their second year under the new formula in 2027, the FIA is pushing to mandate another drop in downforce.Early reports indicate the governing body is targeting a reduction of 20 to 50 points of downforce for the 2027 ...<a class='m",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/damon-hill-ferrari-has-a-political-problem-as-lewis-hamilton-rebuilt-himself-after-abu-dhabi-202/10874278/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-13T16:25:05.000Z",
+        "url": "https://www.motorsport.com/f1/news/mercedes-tech-boss-warns-f1-teams-wont-lie-down-over-massive-2027-downforce-cuts/10874433/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-14T12:14:36.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Las Vegas GP reveals neon sign-inspired trophy design",
-        "summary": "The Las Vegas Grand Prix has unveiled a new trophy design for next weekend’s Formula 1 round, inspired by the city and its neon lights.The 3.6kg, 56cm-tall winners’ trophy took six months to develop and build and emulates the neon signs synonymous with the Las Vegas strip that the circuit is based around.The trophy contains 122 lights puts a new meaning to ‘seeing your name in ...<a class='more' href",
+        "title": "Mercedes and Audi unveil adidas collections for F1 Las Vegas Grand Prix",
+        "summary": "Mercedes and Audi have unveiled special adidas fan collections for the upcoming Formula 1 Las Vegas Grand Prix.Mercedes' range is called \"Neon Lights\", while Audi's is named \"After Hours\". Both collections are available now through adidas.com, and the pieces listed on the brand's US store range in price from $30 to $200.The most expensive items are the outerwear. Mercedes' Las Vegas jacket ...<a clas",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/las-vegas-gp-reveals-neon-sign-inspired-trophy-design/10874361/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-13T16:09:45.000Z",
+        "url": "https://www.motorsport.com/f1/news/mercedes-and-audi-unveil-adidas-collections-for-f1-las-vegas-grand-prix/10874493/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-14T11:32:50.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
+      {
+        "title": "Planeswalker, Netflix's Magic: The Gathering animated series, will have a different art style for each plane",
+        "summary": "\"Each one of these cards is this window into this incredible world. It's not just world building—it's worlds building.\"",
+        "source": "pcgamer.com",
+        "url": "https://www.pcgamer.com/movies-tv/planeswalker-netflixs-magic-the-gathering-animated-series-will-have-a-different-art-style-for-each-plane/",
+        "seendate": "2026-11-14T23:50:31.000Z",
+        "domain": "pcgamer.com"
+      },
+      {
+        "title": "Indiana Jones and the Great Circle once had a Grand Theft Auto-inspired wanted system, because MachineGames was 'afraid' players would kill all the Nazis 'with just guns'",
+        "summary": "\"We penalised shooting so much in that game,\" says design director Jens Andersson.",
+        "source": "pcgamer.com",
+        "url": "https://www.pcgamer.com/games/action/indiana-jones-and-the-great-circle-once-had-a-grand-theft-auto-inspired-wanted-system-because-machinegames-was-afraid-players-would-kill-all-the-nazis-with-just-guns/",
+        "seendate": "2026-11-14T11:26:04.000Z",
+        "domain": "pcgamer.com"
+      },
       {
         "title": "Yes, some brave games are still launching on Steam during GTA 6 week",
         "summary": "Roundabouts, merchant republics, and dark fantasy roguelikes aren't budging their release plans.",
@@ -278,32 +294,16 @@
         "url": "https://www.pcgamer.com/games/fps/a-survival-game-we-once-called-stalker-and-tarkovs-alien-baby-is-closing-down-less-than-a-year-after-launch/",
         "seendate": "2026-11-13T20:37:35.000Z",
         "domain": "pcgamer.com"
-      },
-      {
-        "title": "Microsoft ‘deeply’ apologizes for global service outage, says no AI or hackers are to blame",
-        "summary": "Presumably none of the roughly 30,000 Microsoft employees laid off in the last four years could have prevented this.",
-        "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/software/microsoft-deeply-apologizes-for-global-service-outage-says-no-ai-or-hackers-are-to-blame/",
-        "seendate": "2026-11-13T19:54:20.000Z",
-        "domain": "pcgamer.com"
-      },
-      {
-        "title": "New Grand Theft Auto 6 trailer is for a TV show that exists within Grand Theft Auto 6",
-        "summary": "Macca and Friends is coming to Weazel TV on November 19.",
-        "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/new-grand-theft-auto-6-trailer-is-for-a-tv-show-that-exists-within-grand-theft-auto-6/",
-        "seendate": "2026-11-13T19:30:31.000Z",
-        "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
       {
-        "title": "Microsoft ‘deeply sorry’ for disruption affecting millions and says it’s ‘not related to cyber or AI’ – as it happened",
-        "summary": "This live blog is now closed.Tell us: have you been affected by the Microsoft outage?Microsoft struggles to fix huge outage affecting Outlook and Teams",
+        "title": "Microsoft says services fully restored after global outage hits governments",
+        "summary": "Tech company says operations restored to all customers and regions affected by one of worst IT failures in yearsMicrosoft has said its service has been fully restored after a massive outage that resulted in widespread disruption to governments, businesses and public services around the world.</",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news",
-        "seendate": "2026-11-13T20:37:58.000Z",
+        "url": "https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage",
+        "seendate": "2026-11-14T11:54:31.000Z",
         "domain": "theguardian.com"
       },
       {
@@ -341,6 +341,22 @@
     ],
     "climate": [
       {
+        "title": "Indigenous students retrace Lewis and Clark’s historic journey: ‘We can’t protect what we cannot see’",
+        "summary": "Two centuries after the expedition, Indigenous students are conducting a new wildlife survey along the routeIn 1804, when Thomas Jefferson dispatched Meriwether Lewis and William Clark and their Corps of Discovery to explore the newly acquired land west of the Mississippi, the president’s primary aim was political: Americans needed to establish presence, power and trade routes in these territories before th",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/nov/14/lewis-clark-indigenous-students",
+        "seendate": "2026-11-14T14:00:46.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Underwater salt mine closure in Ohio raises safety and supply concerns for winter",
+        "summary": "Questions remain about reason for leak, safety of drinking water and where salt can be sourced for roads during winterWhen water last month began gushing through a crack in the ceiling of a Morton Salt mine in Ohio, the company had only one option: shut the mine down for good.For locals in and around Fairport Harbor, it means the loss of 77 jobs; but for the wider region, which depends on its salt re",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/nov/14/salt-mine-ohio-flooding-safety-winter",
+        "seendate": "2026-11-14T13:00:45.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Send us your questions about climate crisis and politics for the next Stateside guest: Bill McKibben",
         "summary": "Kai Wright of the Guardian podcast Stateside will speak with author and environmentalist Bill McKibben – and we’d like to hear your questionsWas the climate crisis one of your top political priorities during the midterm elections? We want to hear from you: what do you want political leaders to do about it in 2027?Democrats will contro",
         "source": "theguardian.com",
@@ -363,64 +379,48 @@
         "url": "https://www.theguardian.com/us-news/2026/nov/13/new-york-seneca-meadows-landfill",
         "seendate": "2026-11-13T12:30:18.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "A super El Niño brings startling changes for marine life on California coast: ‘like nothing we’ve ever seen’",
-        "summary": "Water temperatures are climbing the charts, high tides are swallowing the shoreline and vital parts of the food web that feed ocean diversity are disappearingOn a picturesque autumn afternoon last week, the beaches of California’s Monterey Bay were teeming with life and death.A cadre of shorebirds charged and retreated in a synchronized dan",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/2026/nov/13/super-el-nino-california-monterey-bay",
-        "seendate": "2026-11-13T12:00:19.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Dozens of protesters arrested after staging sit-in at Chuck Schumer’s DC office",
-        "summary": "Protesters with the Sunrise Movement youth climate group push for new Senate leadership and ending the filibuster Dozens of protesters with the Sunrise Movement, a youth climate organization, were arrested after staging a sit-in inside Senate minority leader Chuck Schumer’s Washington DC office ThursdayAccording to the Sunrise Movement, 54 people were arrested, among a few hundred who joined the prot",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/nov/12/protesters-arrested-chuck-schumer-office-dc",
-        "seendate": "2026-11-12T22:12:56.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "science": [
       {
-        "title": "Pope Leo XIV , Back in His Former Diocese , Says All Christians Are Called to Be Missionaries",
-        "summary": "About 1.5 million members of his former flock turned out to greet the pontiff.",
-        "source": "ncregister.com",
-        "url": "https://www.ncregister.com/cna/pope-leo-xiv-back-in-his-former-diocese-says-all-christians-are-called-to-be-missionaries",
-        "seendate": "20261113T180000Z",
-        "domain": "ncregister.com"
+        "title": "‘Ahead of his time’: AI helps unlock discoveries hidden in notebooks of man who transformed maths",
+        "summary": "Kurt Gödel left 1,009 pages of densely written text – much of it in an obsolete shorthand – which is now said to contain hundreds of proved theoremsThe Austrian logician Kurt Gödel was one of the most original thinkers of the 20th century. His two incompleteness theorems, published in 1931, transform",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+        "seendate": "2026-11-13T16:38:27.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Democrats are weighing impeachment of Robert F . Kennedy Jr . ",
-        "summary": "His changes to vaccine guidance and cuts to medical research have sparked criticism.",
-        "source": "orlandosentinel.com",
-        "url": "https://www.orlandosentinel.com/2026/11/13/congress-democrats-weighing-impeachment-rfk-jr/",
-        "seendate": "20261113T180000Z",
-        "domain": "orlandosentinel.com"
+        "title": "SpaceX Starship megarocket blasts off before expected return for reuse",
+        "summary": "Flight 15 expected to orbit Earth about 14 times over 22 hours, before company catches it at Starbase, TexasSpaceX’s Starship megarocket blasted off from Texas on Friday afternoon as the aerospace company sought to make history with a double catch of its reusable rocket, but ultimately fell short.Starship, the world’s largest rocket, standing at 407ft, is expected to orbit E",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/nov/13/spacex-starship-megarocket-blasts-off-earth-orbit",
+        "seendate": "2026-11-14T00:53:52.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Lebanon President Reassures Christians As They Remain Under Pressure",
-        "summary": "Lebanese President Joseph Aoun denied there is a danger to the Christian presence in the country, but the faithful there continue to face violence, displacement, and pressure to leave.",
-        "source": "ncregister.com",
-        "url": "https://www.ncregister.com/cna/lebanon-s-president-reassures-christians-as-they-remain-under-pressure",
-        "seendate": "20261113T180000Z",
-        "domain": "ncregister.com"
+        "title": "Hundreds of children in England prescribed weight-loss jabs, figures show",
+        "summary": "Exclusive: investigation finds prescriptions for children under 12, as experts stress need for specialist supervision and long-term monitoringHundreds of children in England are receiving prescriptions for GLP-1 medications, including some younger than 12, the Guardian can reveal.GLP-1 medications were initially developed to help people with type 2 diabetes control their blood sugar levels, but have",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/nov/14/children-iengland-prescribed-weight-loss-jabs",
+        "seendate": "2026-11-14T08:00:39.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Same Nickname , Two Very Different Men Part One",
-        "summary": "AUTHOR&rsquo;S NOTE: A few times each year, someone who knows of my enjoyment of historical research contacts me to see whether I can solve a mystery. Whatever happened to so-and-so? Does such-and-such a business still exist? Who named that lake or that creek? Who was the first to do this or that? And on and on. Sometimes the answers to such questions are relatively easy to find; other times I can find nothing at all",
-        "source": "peninsulaclarion.com",
-        "url": "https://www.peninsulaclarion.com/2026/11/13/same-nickname-two-very-different-men-part-one/",
-        "seendate": "20261113T180000Z",
-        "domain": "peninsulaclarion.com"
+        "title": "What science can tell us about the art of conversation - video",
+        "summary": "Scientists at Dartmouth College in New Hampshire say they have discovered a telltale sign of an enjoyable conversation. Apparently the secret of a mutually satisfying chat is a healthy dose of pink noise. Guardian science editor Ian Sample tells co-host Madeleine Finlay how this concept usually associated with physics can be applied to conversation, and what the secret to pinkifying our chats could be. <a href",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/video/2026/nov/13/what-science-can-tell-us-about-the-art-of-conversation-video",
+        "seendate": "2026-11-13T13:08:49.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Chris Van Hollen eyes Senate Majority Leader post - The Washington Informer",
-        "summary": "Sen. Chris Van Hollen seeks Senate Majority Leader amid Maryland leaders&#039; push for change following Democratic wins.",
-        "source": "washingtoninformer.com",
-        "url": "https://www.washingtoninformer.com/maryland-democrats-congressional-majorities/",
-        "seendate": "20261113T180000Z",
-        "domain": "washingtoninformer.com"
+        "title": "The sinister power of Friday 13th: how this maligned date affects our lives",
+        "summary": "Property sales that complete on this day have a lower median price. Air fares are cheaper. Weddings are non-existent. And motor collisions increase. How did it become so mired in superstition?“I have only worked one Friday 13th wedding in my 14 years in business,” says Caroline Smyth, a photographer and celebrant based in Larne, Northern Ireland. “I definitely think it is down to the fact that it’s a date s",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/nov/13/the-sinister-power-of-friday-13th-how-this-maligned-date-affects-our-lives",
+        "seendate": "2026-11-13T05:00:10.000Z",
+        "domain": "theguardian.com"
       }
     ]
   }
