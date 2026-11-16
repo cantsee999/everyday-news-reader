@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T02:14:18.134Z",
+  "generatedAt": "2026-11-16T02:27:37.600Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
@@ -88,6 +88,14 @@
     ],
     "economy": [
       {
+        "title": "‘Jensen Huang lost his mind’: how AI’s smartest man fell for the world’s oldest trick",
+        "summary": "Jensen Huang’s affair with a suspected spy is Silicon Valley’s worst nightmare come trueThe resignation this week of Nvidia’s founder and CEO Jensen Huang is one of the most astonishing corporate scandals in memory, featuring allegations of international espionage and extramarital affairs involving one of the world’s most powerful men. As investigations mount into what went wrong at the $4tn chip company, t",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/nov/14/jensen-huang-affair-nvidia-nightmare",
+        "seendate": "2026-11-15T06:00:06.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "‘It’s frustrating’: chaos at US airports as stoppage grinds travel plans to a halt",
         "summary": "Travelers and crew feeling ‘pissed’ or ‘lucky’ depending on level of upset amid nationwide ground stopThe decision to ground all flights on Friday by the US Federal Aviation Administration (FAA) threw airports and travel plans into chaos across the country, as passengers on planes and in airport terminals were suddenly thrust into limbo.At New York’s John F Kennedy airport, passengers found th",
         "source": "theguardian.com",
@@ -118,17 +126,33 @@
         "url": "https://www.theguardian.com/us-news/2026/nov/12/starbucks-workers-campus-rally-contract-talks",
         "seendate": "2026-11-12T11:00:48.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Home sales hit 16-year low in October amid soaring mortgage rates",
-        "summary": "Sales of built units fell to 3.75m in October, down by 8.8% from last year, with mortgage rates at nearly three-year highUS existing home sales hit a 16-year low in October as buyers were driven away by high mortgage rates and rising inflation, according to new data released on Wednesday.Sales of already built units dropped to 3.75m in Oc",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/nov/12/home-sales-october-low",
-        "seendate": "2026-11-13T17:20:32.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "literature": [
+      {
+        "title": "‘She was a monster’: the real Patricia Highsmith, by the people who knew her",
+        "summary": "A new film starring Helen Mirren explores the Ripley writer’s later years, but was she really so rude and eccentric? Editors and publishers who worked with her look backPublisher and bookseller Otto Penzler has loved Patricia Highsmith’s work all his life, but their&nbsp;first meeting was a&nbsp;washout. In 1984, she&nbsp;agreed to give a reading at The Mysterious Bookshop, his store on West 56th Street in",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/nov/15/she-was-a-monster-the-real-patricia-highsmith-by-the-people-who-knew-her",
+        "seendate": "2026-11-15T12:00:12.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "The unexpected power of fleeting friendships",
+        "summary": "From Aristotle on, we’ve learned to see long-lasting relationships as more valuable. But what does that leave out?In Russian, a poputchik is a stranger you meet on a journey who you end up confessing everything to because you know you’ll never see them again. Like the English “fellow traveller”, poputchik was repurposed to describe Marxist sympathisers, but the original meaning intrigues m",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/lifeandstyle/2026/nov/15/the-unexpected-power-of-fleeting-friendships",
+        "seendate": "2026-11-15T12:00:14.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Tom Gauld on business and self-improvement books licensed by the JRR Tolkien estate – cartoon",
+        "summary": "Continue reading...",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/picture/2026/nov/15/tom-gauld-on-business-and-self-improvement-books-licensed-by-the-jrr-tolkien-estate-cartoon",
+        "seendate": "2026-11-15T16:00:17.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "‘It’s like the wild west’: how AI has rocked the literary world",
         "summary": "With authors losing lucrative deals and writers removed from prize shortlists, accusations of AI use are sending shock waves through the publishing industry. Is it too late to turn the tide on machine writing?The romance novelist Coral Hart got her break writing books for Mills &amp; Boon, the publisher of bodice-ripper paperbacks. In 2012, she decided to dip her toe in self-publishing. She",
@@ -143,30 +167,6 @@
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/books/ng-interactive/2026/nov/13/the-best-books-to-read-in-november-and-december-new-paperbacks-from-benjamin-myers-jeanette-winterson-and-john-updike",
         "seendate": "2026-11-13T09:30:14.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "This Cursed Beautiful Land by Evan Gershkovich review – jailed in Putin’s Russia",
-        "summary": "The US reporter wrongly imprisoned for espionage writes compellingly about his ordealEvan Gershkovich is the Wall Street Journal reporter who, in&nbsp;the early phase of Putin’s war&nbsp;in Ukraine, was snatched up by the Russian authorities on bogus espionage charges and spent a year and a half in Russian jails (first Lefortovo and then Yekaterinburg) before being released in a prisoner exchange in 2024.</",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/nov/13/this-cursed-beautiful-land-by-evan-gershkovich-review-jailed-in-putins-russia",
-        "seendate": "2026-11-13T07:00:13.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Public Access Afterworld by Jane Schoenbrun review – horror in the TV static",
-        "summary": "The Teenage Sex and Death at Camp Miasma writer-director’s first novel is a wry, hugely fun journey into the dark world behind our screensPublic Access Afterworld is the first novel by Jane Schoenbrun, director of cult-hit horror film I Saw the TV Glow and the more recent Teenage Sex and Death at Camp Miasma; movies in which screens are a&nbsp;permeable barrier and people are menaced by the uncanny realms t",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/nov/12/public-access-afterworld-by-jane-schoenbrun-review-horror-in-the-tv-static",
-        "seendate": "2026-11-12T07:00:12.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Transcription by Ben Lerner audiobook review – a meditation on memory for the smartphone era",
-        "summary": "Actor Seth Numrich vividly captures the neurotic tendencies of a middle-aged man with a digital dependency, in an intense multilayered tale of family and storytellingWe meet the unnamed narrator of Transcription on a train to Providence, Rhode Island. He is going to interview his one-time mentor Thomas, a celebrated German writer and film-maker, who is 90 and who, owing to his age, probably won’t be intervi",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/nov/12/transcription-by-ben-lerner-audiobook-review-a-mediation-on-memory-for-the-smartphone-era",
-        "seendate": "2026-11-12T15:00:43.000Z",
         "domain": "theguardian.com"
       }
     ],
@@ -214,90 +214,122 @@
     ],
     "f1": [
       {
-        "title": "Oscar Piastri: You've got to \"manhandle\" McLaren's F1 car to find its potential",
-        "summary": "Oscar Piastri says McLaren's 2026 Formula 1 car has to be \"manhandled\" to be quick, describing the MCL40 as a car that punishes drivers the moment they are not at the limit.The Australian driver has endured a difficult campaign after fighting for the title last year. He has two podiums in Japan and Miami, and sits seventh in the drivers' standings with three races to go.While speaking to ...<a class=",
+        "title": "Christian Horner admits Red Bull prospects were thrown in against Max Verstappen too soon",
+        "summary": "The second seat at Red Bull Racing has long been viewed as one of the most high-pressure environments in Formula 1. While the Milton Keynes operation frequently cycled through highly rated prospects trying to find a match for Max Verstappen, former team principal Christian Horner is now openly questioning the logic of that ruthless driver pipeline.Speaking on the High Performance podcast ...<a class='mor",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/oscar-piastri-youve-got-to-manhandle-mclarens-f1-car-to-find-its-potential/10874559/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-14T17:39:40.000Z",
+        "url": "https://www.motorsport.com/f1/news/horner-admits-red-bull-broken-pierre-gasly-and-promoted-drivers-too-soon/10874627/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-15T23:30:04.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "‘Lewis suspected a conspiracy’ – Nico Rosberg explains how Lewis Hamilton F1 rivalry went awry at Mercedes",
-        "summary": "When Lewis Hamilton joined Nico Rosberg at Mercedes for the 2013 Formula 1 season, it was a feel-good story: two long-time friends becoming team-mates.However, their amicable relationship soon turned sour, as Mercedes dominated the world championship’s early turbo hybrid era from 2014 and title battles turned into intra-team duels.The first signs of tension appeared early, and in the ...<a class='mor",
+        "title": "Topps reveals Gem Mint 10 Lando Norris card with Coca-Cola suit patch",
+        "summary": "Topps has shared one of its rarest Lando Norris cards: a signed 2024 Dynasty Formula 1 card with two pieces of race suit, one of them cut from the Coca-Cola logo on the sleeve of his McLaren race suit.The Topps Racing account posted a short video of the card on Instagram on Friday, with the caption \"This Lando Norris patch auto goes CRAZY!\"The card comes from the Single Driver Dual Relic ...<a class=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/lewis-suspected-a-conspiracy-nico-rosberg-explains-how-hamilton-f1-rivalry-went-awry-at-mercedes/10874271/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-14T16:30:03.000Z",
+        "url": "https://www.motorsport.com/f1/news/topps-reveals-gem-mint-10-lando-norris-card-with-coca-cola-suit-patch/10874731/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-15T22:47:39.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Topps celebrates Lewis Hamilton’s 400th F1 start with limited NOW card",
-        "summary": "Topps has released a Topps NOW trading card in celebration of Lewis Hamilton's 400th Formula 1 start, which came at the São Paulo Grand Prix last weekend.The Ferrari driver became only the second driver in the championship's history to reach the milestone, after Aston Martin's Fernando Alonso, who got there in 2024.Topps announced the card on Instagram on Friday, saying: \"Lewis Hamilton ...<a class='",
+        "title": "Kimi Antonelli names biggest threat to 2027 title defence as he warns Mercedes advantage may fade",
+        "summary": "2026 Formula 1 champion Kimi Antonelli has chosen Red Bull's Max Verstappen as the driver most likely to stand in the way of his title defence in 2027.In only his second season in the series, the Mercedes driver became F1's youngest world champion at the Mexican Grand Prix, at the age of 20 years and 68 days, and the first Italian to win the title since Alberto Ascari in 1953.But speaking ...<a class",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/topps-celebrates-lewis-hamiltons-400th-f1-start-with-limited-now-card/10874547/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-14T16:24:23.000Z",
+        "url": "https://www.motorsport.com/f1/news/kimi-antonelli-names-biggest-threat-to-2027-title-defence-as-he-warns-mercedes-advantage-may-fade/10874729/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-15T22:26:14.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Mercedes technical director warns F1 teams won’t “lie down” over 2027 downforce cuts",
-        "summary": "Formula 1's transition to the new 2026 engine and chassis regulations completely reshuffled the competitive order, but the rulebook is far from finalised. As teams prepare for their second year under the new formula in 2027, the FIA is pushing to mandate another drop in downforce.Early reports indicate the governing body is targeting a reduction of 20 to 50 points of downforce for the 2027 ...<a class='m",
+        "title": "Lewis Hamilton criticises ex-F1 drivers for \"talking smack\" about young stars",
+        "summary": "Seven-time Formula 1 champion Lewis Hamilton has criticised former drivers for \"talking smack\" about the young stars of the series, saying he has always been determined not to become \"that type of driver\".The Briton was asked at Interlagos whether Kimi Antonelli's title success had made him reflect on his own career. Mercedes signed Antonelli after Hamilton decided to move to Ferrari in 2025 ...<a class=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/mercedes-tech-boss-warns-f1-teams-wont-lie-down-over-massive-2027-downforce-cuts/10874433/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-14T12:14:36.000Z",
+        "url": "https://www.motorsport.com/f1/news/lewis-hamilton-criticises-ex-f1-drivers-for-talking-smack-and-young-stars/10874726/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-15T22:11:44.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Mercedes and Audi unveil adidas collections for F1 Las Vegas Grand Prix",
-        "summary": "Mercedes and Audi have unveiled special adidas fan collections for the upcoming Formula 1 Las Vegas Grand Prix.Mercedes' range is called \"Neon Lights\", while Audi's is named \"After Hours\". Both collections are available now through adidas.com, and the pieces listed on the brand's US store range in price from $30 to $200.The most expensive items are the outerwear. Mercedes' Las Vegas jacket ...<a clas",
+        "title": "Christian Horner explains why Max Verstappen’s “abnormal” driving style destroys his team-mates",
+        "summary": "The narrative surrounding Red Bull Racing over the last half-decade has consistently featured a rotating cast of drivers struggling - and often failing - to survive alongside Max Verstappen.Former team principal Christian Horner recently provided a technical explanation for the phenomenon.Speaking on the High Performance podcast, Horner revealed that the infamous \"curse\" of the second Red ...<a class",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/mercedes-and-audi-unveil-adidas-collections-for-f1-las-vegas-grand-prix/10874493/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-14T11:32:50.000Z",
+        "url": "https://www.motorsport.com/f1/news/horner-explains-why-max-verstappens-abnormal-driving-style-destroys-his-teammates/10874636/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-15T19:00:02.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "Planeswalker, Netflix's Magic: The Gathering animated series, will have a different art style for each plane",
-        "summary": "\"Each one of these cards is this window into this incredible world. It's not just world building—it's worlds building.\"",
+        "title": "Are you more of an ambient music enjoyer or theatrical atmosphere appreciator?",
+        "summary": "Quiet and unassuming, or loud and proud?",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/movies-tv/planeswalker-netflixs-magic-the-gathering-animated-series-will-have-a-different-art-style-for-each-plane/",
-        "seendate": "2026-11-14T23:50:31.000Z",
+        "url": "https://www.pcgamer.com/games/world-of-warcraft/are-you-more-of-an-ambient-music-enjoyer-or-theatrical-atmosphere-appreciator/",
+        "seendate": "2026-11-15T18:00:00.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Indiana Jones and the Great Circle once had a Grand Theft Auto-inspired wanted system, because MachineGames was 'afraid' players would kill all the Nazis 'with just guns'",
-        "summary": "\"We penalised shooting so much in that game,\" says design director Jens Andersson.",
+        "title": "League of Legends will get an overhaul called New Dawn with new visuals, build options, and an updated client",
+        "summary": "\"We want League to stand the test of time.\"",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/action/indiana-jones-and-the-great-circle-once-had-a-grand-theft-auto-inspired-wanted-system-because-machinegames-was-afraid-players-would-kill-all-the-nazis-with-just-guns/",
-        "seendate": "2026-11-14T11:26:04.000Z",
+        "url": "https://www.pcgamer.com/games/moba/league-of-legends-will-get-an-overhaul-called-new-dawn-with-new-visuals-build-options-and-an-updated-client/",
+        "seendate": "2026-11-15T17:45:48.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Yes, some brave games are still launching on Steam during GTA 6 week",
-        "summary": "Roundabouts, merchant republics, and dark fantasy roguelikes aren't budging their release plans.",
+        "title": "The pandemic was transformative for Jackbox: 'We went from a gamer name to a household name'",
+        "summary": "\"People realized how easy it was to just share the screen over a Zoom call and everyone's playing.\"",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/yes-some-brave-games-are-still-launching-on-steam-during-gta-6-launch-week/",
-        "seendate": "2026-11-13T22:28:10.000Z",
+        "url": "https://www.pcgamer.com/games/the-pandemic-was-transformative-for-jackbox-we-went-from-a-gamer-name-to-a-household-name/",
+        "seendate": "2026-11-15T17:30:00.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Don't like AI in games? Crimson Desert studio Pearl Abyss ain't care: it's expanding AI use 'throughout our entire development pipeline'",
-        "summary": "Pearl Abyss apologized for the presence of AI-generated art in Crimson Desert earlier this year, but it's not slowing down.",
+        "title": "YouTuber and comedian Ashens has 1,000 hours in Baldur's Gate 3 and reveals the worst retro game he's ever played: 'By the time you've hacked it to work, it's just no fun whatsoever'",
+        "summary": "The filmmaker and author of Terrible Old Games You've Probably Never Heard Of gives us a tour of his Steam library.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/software/ai/dont-like-ai-in-games-crimson-desert-studio-pearl-abyss-aint-care-its-expanding-ai-use-throughout-our-entire-development-pipeline/",
-        "seendate": "2026-11-13T22:17:06.000Z",
+        "url": "https://www.pcgamer.com/gaming-industry/youtuber-and-comedian-ashens-has-1-000-hours-in-baldurs-gate-3-and-reveals-the-worst-retro-game-hes-ever-played-by-the-time-youve-hacked-it-to-work-its-just-no-fun-whatsoever/",
+        "seendate": "2026-11-15T17:00:00.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "A survival game we once called 'Stalker and Tarkov's alien baby' is closing down less than a year after launch",
-        "summary": "Pioner seemed headed in the right direction when it went into early access in late 2025, but it all went wrong just a few months later.",
+        "title": "Slay the Spire 2 has a new character in testing, and she's really quite busted",
+        "summary": "I won't miss.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/fps/a-survival-game-we-once-called-stalker-and-tarkovs-alien-baby-is-closing-down-less-than-a-year-after-launch/",
-        "seendate": "2026-11-13T20:37:35.000Z",
+        "url": "https://www.pcgamer.com/games/roguelike/slay-the-spire-2-has-a-new-character-in-testing-and-shes-really-quite-busted/",
+        "seendate": "2026-11-15T16:00:00.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
+      {
+        "title": "‘Jensen Huang lost his mind’: how AI’s smartest man fell for the world’s oldest trick",
+        "summary": "Jensen Huang’s affair with a suspected spy is Silicon Valley’s worst nightmare come trueThe resignation this week of Nvidia’s founder and CEO Jensen Huang is one of the most astonishing corporate scandals in memory, featuring allegations of international espionage and extramarital affairs involving one of the world’s most powerful men. As investigations mount into what went wrong at the $4tn chip company, t",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/nov/14/jensen-huang-affair-nvidia-nightmare",
+        "seendate": "2026-11-15T06:00:06.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating",
+        "summary": "Fears for national college entrance exam next week as test taker admits sending photos of questions to AI toolThe marks attained by the top scorer ⁠on South Korea’s national exam for aspiring tax accountants this year seemed too good to be true. On Sunday, sceptics were ⁠proven right when he ⁠confessed to ​using generative AI to cheat.The scandal has followed months of speculation after he scored nea",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam",
+        "seendate": "2026-11-15T08:56:11.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Italy fines Meta $887m for accessing Android users’ photos and videos",
+        "summary": "The fine is among the largest an Italian authority has imposed on a tech giant and Meta says it plans to appeal the decisionItaly’s data protection agency has fined Facebook parent company Meta €805m ($887m) for accessing users’ photos without their specific consent.Through the Facebook application for Android devices, Meta accessed photographs, videos and related metadata belonging to Italian users",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/nov/15/italy-fines-meta-887m-for-accessing-android-users-photos-and-videos",
+        "seendate": "2026-11-15T02:02:01.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "‘Prove you are not a robot’: how the Captcha scam captures your computer",
+        "summary": "Unlike familiar Captcha tests, this con asks you to press a series of keys. And that’s a way in for fraudsters to install malicious softwareYou are looking for some gifts for Christmas and want to support small businesses when you shop. When you visit the site of one you’ve heard good things about you are asked to verify that you are human.Instead of clicking on a series of images, or typing letters",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/money/2026/nov/15/captcha-scam-computer-malicious-software",
+        "seendate": "2026-11-15T07:00:06.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Microsoft says services fully restored after global outage hits governments",
         "summary": "Tech company says operations restored to all customers and regions affected by one of worst IT failures in yearsMicrosoft has said its service has been fully restored after a massive outage that resulted in widespread disruption to governments, businesses and public services around the world.</",
@@ -305,41 +337,17 @@
         "url": "https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage",
         "seendate": "2026-11-14T11:54:31.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Nvidia scandal: US treasury chief blames Lutnick’s commerce department over alleged lack of action",
-        "summary": "US commerce secretary faces sack as questions emerge over senior Trump officials’ knowledge of alleged Chinese spy’s ties to Jensen HuangUS politics – live updatesThe US commerce secretary, Howard Lutnick, is facing growing pr",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
-        "seendate": "2026-11-13T19:51:28.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Farewell, Cybertruck: why the winding down of the ‘Maga hat on wheels’ is a sign of the times",
-        "summary": "Eccentric and overhyped, Tesla’s Cybertruck became a stand-in for Elon Musk during his ascent in the Republican party. It will join the ranks of other vehicles symbolic of their eras – for better or for worseThree days after a historic blue tsunami changed America’s political landscape, Elon Musk announced Tesla would end production of its hulking Cybertruck next year.Was it a coincidence? Maybe. Mus",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/ng-interactive/2026/nov/13/cybertruck-maga-hat-on-wheels-end",
-        "seendate": "2026-11-13T11:00:17.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "NHS England deletes ‘misleading’ claim 137 trusts benefiting from Palantir AI tools",
-        "summary": "Exclusive: The Guardian revealed 29 hospital trusts were not or hardly using the controversial patient data techNHS England has deleted a claim from its website stating 137 hospital trusts are benefiting from Palantir’s AI health data system after the Guardian revealed 29 of them were not using all or most o",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/nov/12/nhs-england-deletes-misleading-claim-137-trusts-benefiting-from-palantir-ai-tools",
-        "seendate": "2026-11-12T11:00:47.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "US public workers are fighting to protect their jobs from AI – and some are winning",
-        "summary": "As governments adopt AI, workers are gaining ground in how it’s used and securing safeguards against its harmsIn the shadow of Silicon Valley, workers for the city of Oakland, California, worry the region will deploy AI systems that could increase surveillance and inaccurately evaluate their performance. Pushing for protections to ensure workers won’t be laid off or disciplined by AI, their union overwhelmi",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/nov/12/us-workers-governments-unions-ai",
-        "seendate": "2026-11-12T15:00:44.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "climate": [
+      {
+        "title": "Huge waves pummel California coast, forcing closure of popular piers",
+        "summary": "Large waves up to 50ft flooded southern California streets and prompted evacuation warning near coastal cityThe California coast was pummeled again on Sunday by huge waves that inundated beaches, flooded local streets and forced the closure of p",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/nov/15/california-coast-waves-piers-closed",
+        "seendate": "2026-11-16T01:00:42.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Indigenous students retrace Lewis and Clark’s historic journey: ‘We can’t protect what we cannot see’",
         "summary": "Two centuries after the expedition, Indigenous students are conducting a new wildlife survey along the routeIn 1804, when Thomas Jefferson dispatched Meriwether Lewis and William Clark and their Corps of Discovery to explore the newly acquired land west of the Mississippi, the president’s primary aim was political: Americans needed to establish presence, power and trade routes in these territories before th",
@@ -371,31 +379,23 @@
         "url": "https://www.theguardian.com/environment/2026/nov/13/california-gavin-newsom-endorses-fossil-fuel-phaseout",
         "seendate": "2026-11-13T16:31:28.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "New York is running out of room for its waste even with Statue of Liberty-sized landfill",
-        "summary": "One company is proposing elongating the life of the dump, pungent smell and all, several more decadesAs a visual representation of how New York is running out of places to put its waste, the largest active landfill in the state is a striking one. The hulking Seneca Meadows landfill is already the height of the Statue of Liberty and its operators are",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/nov/13/new-york-seneca-meadows-landfill",
-        "seendate": "2026-11-13T12:30:18.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "science": [
+      {
+        "title": "SpaceX’s Starship returns to launch pad from orbit in victory for company",
+        "summary": "Although booster exploded, company caught upper stage for first time in campaign to make megarocket reusableSpaceX’s megarocket Starship returned to its Texas launch tower on Saturday, a milestone in the company’s efforts to make the craft suitable for human spaceflight.The 171ft (52-meter)",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/nov/14/spacex-starship-double-catch",
+        "seendate": "2026-11-14T22:35:06.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "‘Ahead of his time’: AI helps unlock discoveries hidden in notebooks of man who transformed maths",
         "summary": "Kurt Gödel left 1,009 pages of densely written text – much of it in an obsolete shorthand – which is now said to contain hundreds of proved theoremsThe Austrian logician Kurt Gödel was one of the most original thinkers of the 20th century. His two incompleteness theorems, published in 1931, transform",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
         "seendate": "2026-11-13T16:38:27.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "SpaceX Starship megarocket blasts off before expected return for reuse",
-        "summary": "Flight 15 expected to orbit Earth about 14 times over 22 hours, before company catches it at Starbase, TexasSpaceX’s Starship megarocket blasted off from Texas on Friday afternoon as the aerospace company sought to make history with a double catch of its reusable rocket, but ultimately fell short.Starship, the world’s largest rocket, standing at 407ft, is expected to orbit E",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/nov/13/spacex-starship-megarocket-blasts-off-earth-orbit",
-        "seendate": "2026-11-14T00:53:52.000Z",
         "domain": "theguardian.com"
       },
       {
