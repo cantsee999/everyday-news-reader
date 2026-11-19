@@ -1,8 +1,24 @@
 window.NEWS_CACHE = {
-  "generatedAt": "2026-11-18T03:55:49.694Z",
+  "generatedAt": "2026-11-19T03:53:47.857Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
+      {
+        "title": "Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling",
+        "summary": "A ruling against Myanmar could set precedent for court’s judgment on Israel’s actions in GazaFears are growing that the US could impose sanctions on judges at the international court of justice, including this year’s Nobel peace prize winner, Navi Pillay, if the <a href=\"https://www.theguardian.com/worl",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
+        "seendate": "2026-11-18T09:58:28.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "European Commission accused of sugarcoating figures to release funds to Egypt",
+        "summary": "Leaked documents raise questions about claims Egypt met welfare targets to qualify for €2.5bn in loansThe European Commission has been accused of sugarcoating figures to enable it to release funds to Egypt under a landmark pact with the authoritarian government of Abdel Fatah al-Sisi.The charge relates to a €7.4bn deal <a href=\"https://www.theguardian.com/world/2024/mar/17/egypt-eu-deal-refugees-medi",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/nov/18/european-commission-accused-sugarcoating-figures-egypt-loans",
+        "seendate": "2026-11-18T05:00:32.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda",
         "summary": "Germany, Austria, Netherlands, Denmark and Greece likely to face challenges to policy criticised as ‘grave moral failing’Five EU member states have announced plans to set up an offshore centre in Rwanda for people with no legal right to stay in Europe, in a pilot scheme that is expected to face legal challenges and has been denounced as “a grave moral failing”.The five countries – Germany, Austria, t",
@@ -25,27 +41,27 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/world/2026/nov/16/cape-town-baboons-relocation-protests",
         "seendate": "2026-11-16T10:19:08.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Zimbabwean author Simbarashe Kundizeza cleared of using AI to write prize-winning story",
-        "summary": "After a month-long investigation it was concluded that Kundizeza’s story The Blue Fighter, which won the £10,000 Caine prize, was ‘human-written’The Zimbabwean author Simbarashe Kundizeza has been cleared of using AI to write a prize-winning short story, after the prestigious Caine prize for African writers concluded that his entry was “human-written” after a month-long investigation.Kundizeza’s stor",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/nov/12/zimbabwean-author-simbarashe-kundizeza-cleared-ai-caine-prize-winning-story",
-        "seendate": "2026-11-12T13:14:38.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities",
-        "summary": "Seven-time F1 world champion tours border area and logistics warehouses operated by Egyptian Red CrescentLewis Hamilton has visited Egypt’s Rafah border crossing with the Gaza Strip to meet organisations sending humanitarian aid to the territory.The seven-time Formula One world champion has spoken out about conflict and humanitarian crises in the region, and has called for peace. He has frequently po",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities",
-        "seendate": "2026-11-10T15:39:26.000Z",
         "domain": "theguardian.com"
       }
     ],
     "conflict": [
       {
+        "title": "Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling",
+        "summary": "A ruling against Myanmar could set precedent for court’s judgment on Israel’s actions in GazaFears are growing that the US could impose sanctions on judges at the international court of justice, including this year’s Nobel peace prize winner, Navi Pillay, if the <a href=\"https://www.theguardian.com/worl",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
+        "seendate": "2026-11-18T09:58:28.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "European Commission accused of sugarcoating figures to release funds to Egypt",
+        "summary": "Leaked documents raise questions about claims Egypt met welfare targets to qualify for €2.5bn in loansThe European Commission has been accused of sugarcoating figures to enable it to release funds to Egypt under a landmark pact with the authoritarian government of Abdel Fatah al-Sisi.The charge relates to a €7.4bn deal <a href=\"https://www.theguardian.com/world/2024/mar/17/egypt-eu-deal-refugees-medi",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/nov/18/european-commission-accused-sugarcoating-figures-egypt-loans",
+        "seendate": "2026-11-18T05:00:32.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda",
         "summary": "Germany, Austria, Netherlands, Denmark and Greece likely to face challenges to policy criticised as ‘grave moral failing’Five EU member states have announced plans to set up an offshore centre in Rwanda for people with no legal right to stay in Europe, in a pilot scheme that is expected to face legal challenges and has been denounced as “a grave moral failing”.The five countries – Germany, Austria, t",
         "source": "theguardian.com",
@@ -68,25 +84,17 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/world/2026/nov/16/cape-town-baboons-relocation-protests",
         "seendate": "2026-11-16T10:19:08.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Zimbabwean author Simbarashe Kundizeza cleared of using AI to write prize-winning story",
-        "summary": "After a month-long investigation it was concluded that Kundizeza’s story The Blue Fighter, which won the £10,000 Caine prize, was ‘human-written’The Zimbabwean author Simbarashe Kundizeza has been cleared of using AI to write a prize-winning short story, after the prestigious Caine prize for African writers concluded that his entry was “human-written” after a month-long investigation.Kundizeza’s stor",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/nov/12/zimbabwean-author-simbarashe-kundizeza-cleared-ai-caine-prize-winning-story",
-        "seendate": "2026-11-12T13:14:38.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities",
-        "summary": "Seven-time F1 world champion tours border area and logistics warehouses operated by Egyptian Red CrescentLewis Hamilton has visited Egypt’s Rafah border crossing with the Gaza Strip to meet organisations sending humanitarian aid to the territory.The seven-time Formula One world champion has spoken out about conflict and humanitarian crises in the region, and has called for peace. He has frequently po",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities",
-        "seendate": "2026-11-10T15:39:26.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "economy": [
+      {
+        "title": "Democrats demand answers from Howard Lutnick about Nvidia and his family’s business",
+        "summary": "Democratic lawmakers ask if commerce secretary favored Nvidia to enrich his adult children and Cantor FitzgeraldThe US commerce secretary, Howard Lutnick, faces mounting questions over his handling of the Nvidia affair as Democratic lawmakers demand answers over his family firm’s vast stake in the tech company.Cantor Fitzgerald, the investme",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/nov/18/howard-lutnick-nvidia-cantor-fitzgerald",
+        "seendate": "2026-11-18T16:48:29.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Nvidia doubles revenue as board says it does not intend to reinstate Jensen Huang",
         "summary": "Company issues first earnings report after ouster of CEO over allegations of affair with suspected Chinese spyNvidia “does not intend to reinstate Jensen as CEO”, the chairman of the company’s board said Tuesday. Harvey Jones made the remark during Nvidia’s first quarterly earnings report since Jensen Huang’s ouster.Nvidia announced the same day that its quarterly revenue beat expectations, coming in",
@@ -118,17 +126,33 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/us-news/2026/nov/16/united-airlines-system-outage",
         "seendate": "2026-11-17T02:57:06.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "People in the US: how are you celebrating Thanksgiving this year amid rising costs in the US?",
-        "summary": "Are you hosting or attending the holiday differently than years past? What are you cutting back on?Thanksgiving is fast approaching, when people traditionally get together to celebrate with family and friends on this US federal holiday.Many Americans who usually host the holiday say they are <a href=\"https://finance.yahoo.com/economy",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/nov/17/americans-celebrating-thanksgiving-costs-callout",
-        "seendate": "2026-11-17T17:04:50.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "literature": [
+      {
+        "title": "The Man Who Broke Reality by Philip Ball review – the inspirational genius of Niels Bohr",
+        "summary": "Scientific discoveries are explained effortlessly in this portrait of a man whose research was driven by pure passionNiels Bohr shares with Albert Einstein pride of place in the pantheon of 20th-century science. The two had much in common. They were not expert mathematicians; they prized physical intuition over mere competence; and they did not shy away from the moral and political implications of their wor",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/nov/18/the-man-who-broke-reality-by-philip-ball-review-the-inspirational-genius-of-niels-bohr",
+        "seendate": "2026-11-18T07:00:34.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Theodore Zeldin obituary",
+        "summary": "Revered historian, author and francophile with a novelistic approach to his subjectOn the website the Oxford Muse, which the francophile Oxford historian Theodore Zeldin set up in 2001 to bring strangers together for mutually liberating conversations, there is a little section on dancing. “Few realise,” he wrote, “how important a part dancing has played in the histor",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/nov/18/theodore-zeldin-obituary",
+        "seendate": "2026-11-18T15:42:17.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Gjak by Dimosthenis Papamarkos review – sensational tales of wartime Greek struggle",
+        "summary": "Translated into English in thrilling style, these interlinked stories of ambushes and vendettas vividly evoke the bitter conflict of the 1919-22 Greco-Turkish warNine interconnected tales about the violence of the 1919-22 Greco-Turkish war, and the struggles of its broken soldiers to reassimilate into civilian life, Gjak is something of a sensation. Originally written in Greek and Arvanitic, a dialect spoke",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/nov/18/gjak-by-dimosthenis-papamarkos-review-sensational-tales-of-wartime-greek-struggle",
+        "seendate": "2026-11-18T09:00:36.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "The Brightness by Chad Harbach review – an ambitious sequel to The Art of Fielding",
         "summary": "Fifteen years on, this expansive follow-up to the campus epic explores female agency, friendship – and the messiness of early adulthoodBack in 2011, Chad Harbach’s debut The Art of Fielding was hailed as the next Great American Novel. Set on the campus of Westish, a fictional midwestern liberal&nbsp;arts college, an",
@@ -144,160 +168,152 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/books/2026/nov/17/belonging-by-sonia-gandhi-review-indias-elder-stateswoman-breaks-her-silence",
         "seendate": "2026-11-17T09:00:08.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "The Sensualist by Gary Shteyngart review – a delectable romp through life’s pleasures",
-        "summary": "From martinis to capybara videos, the novelist celebrates the little things (some more expensive than others) that bring him joyIn 2024, the novelist Gary Shteyngart flew from New York to Milan in search of the perfect midnight-blue suit. There he chose fabric, before flying to Hong Kong to be fitted for four shirts, and on to Tokyo, where he was measured by master tailor Yuhei Yamamoto and master shoe­make",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/nov/16/the-sensualist-by-gary-shteyngart-review-a-delectable-romp-through-lifes-pleasures",
-        "seendate": "2026-11-16T07:00:35.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Michael by Bob Mortimer review – heartwarming quirkiness from the comedian",
-        "summary": "Mortimer’s off-kilter charm energises the story of a troubled teenager in 1970s MiddlesbroughIn comedian Bob Mortimer’s fourth novel, Michael, when we meet him, isn’t an angel; but he’s in a place that he suspects is at least angel-adjacent. He’s dead, or close to&nbsp;it, having come round from an emergency heart bypass in his 52nd year only to find himself sinking into a&nbsp;deep pool of warm gloop with",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/nov/16/michael-by-bob-mortimer-review-heartwarming-quirkiness-from-the-comedian",
-        "seendate": "2026-11-16T11:00:58.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "‘She was a monster’: the real Patricia Highsmith, by the people who knew her",
-        "summary": "A new film starring Helen Mirren explores the Ripley writer’s later years, but was she really so rude and eccentric? Editors and publishers who worked with her look backPublisher and bookseller Otto Penzler has loved Patricia Highsmith’s work all his life, but their&nbsp;first meeting was a&nbsp;washout. In 1984, she&nbsp;agreed to give a reading at The Mysterious Bookshop, his store on West 56th Street in",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/nov/15/she-was-a-monster-the-real-patricia-highsmith-by-the-people-who-knew-her",
-        "seendate": "2026-11-15T12:00:12.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "entertainment": [
       {
-        "title": "Jon Stewart on Trump administration response to air travel crisis: ‘So chaotic and amateurish’",
-        "summary": "Late-night hosts discussed the administration’s unhelpful response to the FAA’s rare ground stop this weekendLate-night hosts responded to the FAA’s sudden, rare ground stop as Donald Trump shirks any responsibility for the transportation crisis. <a",
+        "title": "Madden review – Nicolas Cage is a cartoonish NFL legend in David O Russell’s stinker",
+        "summary": "Oscar-nominated director delivers a thoroughly unserious biopic, wasting Christian Bale and Sienna Miller’s talentsJohn Madden was a beloved American original, the burly football coach who segued easily from Super Bowl burnout to television darling to the last name in gaming as the NFL was overtaking baseball as the national pastime. When he wasn’t crashing into family rooms on football Sundays and Thanksgi",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/culture/2026/nov/17/jon-stewart-late-night-response-faa-trump-air-travel-crisis",
-        "seendate": "2026-11-17T16:25:56.000Z",
+        "url": "https://www.theguardian.com/film/2026/nov/18/madden-review-nicolas-cage",
+        "seendate": "2026-11-18T17:35:57.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘Broke people get screwed’: the shameful history of crime and punishment in America",
-        "summary": "An eight-hour docuseries looks back to explore the many problems and injustices that have helped to further break a broken systemLynn Novick’s new film for PBS is an epic, an eight-hour examination of <a href=\"https://www.pbs.org/show/crime-and-punishment-in-america/?gad_source=1&amp;gad_campaignid=24363257705&amp;gbraid=0AAAAAooDyp1YIk5pBL_mE0mphBIP0dOuG&amp;gclid=Cj0KCQiAnsvXBhCqARIsAHKgGNYSHjiIyltcD4J_5c",
+        "title": "Jimmy Kimmel on mass outages: ‘The US is running like a McDonald’s soft-serve machine’",
+        "summary": "Late-night hosts discussed Trump’s Asian visit, rising cases of measles and Robert Pattinson’s casting as James BondOn late-night shows last night, hosts discussed the US experiencing rising numbers of measles cases, Donald Trump’s proposed meeting with Kim Jong-un and the mass outages that have been sweeping the country. <a href=\"https://www",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/nov/17/crime-punishment-in-america-pbs-docuseries",
-        "seendate": "2026-11-17T12:00:38.000Z",
+        "url": "https://www.theguardian.com/culture/2026/nov/18/jimmy-kimmel-tech-outages",
+        "seendate": "2026-11-18T15:47:14.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘Mick Jagger should fold up his penis and go home’: the caustic genius of music critic Robert Christgau",
-        "summary": "Beloved for his savage takedowns and rhapsodic raves, the legendary Village Voice reviewer opens up in a candid new documentary Rows and rows of CDs, albums, cassettes and books creak and groan on shelves that snake around the walls and choke the halls of an apartment in New York City’s East Village. The clutter that sprawls through its rooms is so dense it suggests the twistiest parts of a Moroccan medina",
+        "title": "Ta-Nehisi Coates on the shocking case that shattered his childhood and inspired new HBO documentary",
+        "summary": "A 36-year fight for justice is explored in the galling HBO documentary When a Witness Recants. The three subjects and producer Coates explain how it unfoldedFor most of his life, the writer Ta-Nehisi Coates would occasionally think of a chilling episode from his childhood in West Baltimore: almost exactly 43 years ago, on 18 November 1983, a 14-year-old boy named DeWitt Duckett was shot and killed in a hall",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/nov/17/music-critic-robert-christgau-documentary",
-        "seendate": "2026-11-17T11:00:36.000Z",
+        "url": "https://www.theguardian.com/film/2026/nov/18/when-a-witness-recants-hbo-documentary",
+        "seendate": "2026-11-18T10:00:47.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Call my (estate) agent! Why celebrities are always buying each other’s homes",
-        "summary": "If you’re seeking a discreet mansion with secluded grounds and plenty of room for your own memorabilia, you may want to remember Joe Pesci’s mistakes before trying the open marketLast year, Austin Butler bought a mansion from Brad Pitt. The month before, Brad Pitt bought a mansion from one of the Killers. In 2022, Adele bought Sylvester Stallone’s old house, but only if he let her keep his Rocky statue. Aar",
+        "title": "‘I hope paramedics are on standby for the sex scenes!’ The wet and wild TV experience leaving fans dizzy",
+        "summary": "From icy squirts to bed-bouncing vibrations, erotic hockey drama Heated Rivalry just got even raunchier in ‘extreme sensory’ 4DX cinema screenings. But one scene proved too much – even for the super fansI’m in the cinema foyer when I first spot them: hockey jerseys. Lots of them. “I’ve no idea what to expect!” giggles Chloe, who is wearing a black and yellow “Rozanov” jersey. Like me, she has never been to",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/nov/17/celebrities-buying-each-others-homes-brad-pitt-sylvester-stallone-joe-pesci",
-        "seendate": "2026-11-17T14:07:58.000Z",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/nov/18/i-hope-paramedics-are-on-standby-for-the-sex-scenes-the-wet-and-wild-tv-experience-leaving-fans-dizzy-heated-rivalry",
+        "seendate": "2026-11-18T13:27:02.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘Sorry, I’m still in love with Daniel Craig’: Ralph Fiennes, Brad Pitt and more react to Robert Pattinson as James Bond",
-        "summary": "Former 007 George Lazenby was supportive while The Lighthouse director Robert Eggers reveals what Pattinson was doing when the news broke• Robert Pattinson is James Bond. What happens next?• <a href=\"https://www.theguardian.com/film/2026/nov/1",
+        "title": "Grand Theft Auto VI review – gaming’s most depraved world is now also its greatest love story",
+        "summary": "With realism that defies belief, this vast game easily accommodates its trademark foulmouthed, OTT chaos – as well as new empathy for the fugitive couple at its centreTell us: are you playing Grand Theft Auto VI?In GTA VI, Rockstar has created the most extraordinarily, indulgently",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/nov/17/brad-pitt-ralph-fiennes-react-to-robert-pattinson-as-james-bond",
-        "seendate": "2026-11-17T13:03:24.000Z",
+        "url": "https://www.theguardian.com/games/2026/nov/18/grand-theft-auto-vi-gta-6-review-playstation-rockstar",
+        "seendate": "2026-11-18T11:00:55.000Z",
         "domain": "theguardian.com"
       }
     ],
     "f1": [
       {
-        "title": "Toto Wolff reveals heartwarming memory of a teenage Kimi Antonelli living at his house",
-        "summary": "The Formula 1 paddock is notoriously cutthroat, but Mercedes team principal Toto Wolff operates his driver management pipeline with a distinctly paternal approach. After guiding Kimi Antonelli from the junior karting ranks all the way to his historic 2026 world championship, Wolff recently shed light on just how deeply the 20-year-old is integrated into his actual family.In a recent exclusive ...<a class",
+        "title": "Lewis Hamilton on his card collection: \"I'm 41 years old, and I love Pokémon\"",
+        "summary": "Lewis Hamilton has admitted that his love of collecting Pokémon cards has survived well into his adult life after a trip to buy packs for the youngest members of his family turned into a car full of collectors.Speaking on stage at PUMA's Under The Lights fan event at its Las Vegas flagship store on Tuesday night ahead of this weekend's grand prix, the seven-time world champion explained how ...<a class='",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/toto-wolff-reveals-heartwarming-memory-of-a-teenage-kimi-antonelli-living-at-his-house/10874978/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-18T01:00:03.000Z",
+        "url": "https://www.motorsport.com/f1/news/im-41-years-old-and-i-love-pokemon-lewis-hamilton-on-his-card-collection/10875423/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-19T03:51:03.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Oscar Piastri set for grid penalty at F1 Las Vegas GP",
-        "summary": "McLaren driver Oscar Piastri is set for a 10-place grid drop at F1's Las Vegas GP for exceeding his engine allowance for the season.Piastri was already on the limit of four internal combustion engines for the year, but will need a fifth Mercedes V6 engine to finish the 2026 season.As it is the first time he is exceeding his ICE allowance, the Australian will be docked 10 places on Las ...<a class='mo",
+        "title": "Fernando Alonso rules out staying in F1 for V8 return: \"16 years of pure racing lost\"",
+        "summary": "Although the FIA's formal confirmation on Tuesday was only online for a few minutes before being temporarily taken down again, it is clear to everyone in the paddock that V8 engines will return to Formula 1.The agreement in principle involves a 2.1-litre turbocharged V8 – with the turbo being particularly important for Audi and Honda – and a significantly smaller electrical component. The ...<a class='mo",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/oscar-piastri-set-for-grid-penalty-at-f1-las-vegas-gp/10875180/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-18T00:21:42.000Z",
+        "url": "https://www.motorsport.com/f1/news/fernando-alonso-rules-out-staying-in-f1-for-v8-return-16-years-of-pure-racing-lost/10875410/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-19T03:50:06.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Toto Wolff details subdued Mercedes F1 celebrations after securing 2026 double",
-        "summary": "Mercedes officially completed its return to the top of Formula 1 at the chaotic 2026 São Paulo Grand Prix, successfully locking down the constructors' world championship one week after Kimi Antonelli secured the drivers' title. But for team principal and CEO Toto Wolff, the historic milestone was not met with an explosive nightclub celebration in Brazil.In a recent interview with the German ...<a class='",
+        "title": "Lando Norris names George Russell as F1's next James Bond",
+        "summary": "Lando Norris thinks George Russell would be the Formula 1 driver best suited to play James Bond, and says the Mercedes driver would even give up racing for the role.The question came days after Amazon MGM Studios confirmed Robert Pattinson as the next actor to play the legendary British spy following a five-movie run from Daniel Craig.Asked in the drivers' press conference in Las Vegas ...<a class='m",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/toto-wolff-celebrated-mercedes-title-with-a-vodka-shot-on-the-plane-with-hamilton-and-russell/10874816/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-18T00:00:22.000Z",
+        "url": "https://www.motorsport.com/f1/news/lando-norris-names-george-russell-as-f1s-next-james-bond/10875421/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-19T03:32:45.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Toto Wolff explains why George Russell won't get Mercedes’ new turbo in Las Vegas",
-        "summary": "Having officially wrapped up both the 2026 constructors' and drivers' world championships in Brazil, Mercedes arrives at the Las Vegas Grand Prix with a dual mandate: test development parts for 2027 and secure the runner-up spot in the drivers' standings for George Russell.To accomplish the first goal, the Silver Arrows are finally introducing a new turbo specification developed under Formula ...<a class",
+        "title": "LISA becomes first artist to design F1 clothing collection",
+        "summary": "LISA has become the first artist to design a Formula 1 clothing range, with her 'Pretty Fast' collection going on sale around the world today.The Thai singer, who made her name in K-pop group BLACKPINK before going solo, designed the capsule with Ceremony of Roses, a creative agency that works on the commercial side of music artists' careers. F1 says the range was put together under LISA's ...<a class='m",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/toto-wolff-explains-why-george-russell-is-being-denied-mercedes-new-turbo-in-las-vegas/10875150/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-17T23:30:27.000Z",
+        "url": "https://www.motorsport.com/f1/news/lisa-becomes-first-artist-to-design-f1-clothing-collection/10875419/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-19T03:30:24.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "“He’s beaten Alpine on his own” - Racing Bulls on why it kept Liam Lawson",
-        "summary": "Racing Bulls Formula 1 chief Alan Permane says Liam Lawson's improved 2026 form has been a \"revelation\", and addressed suggestions of a difference in vision within Red Bull.In a wide-ranging interview with Motorsport.com, Permane addressed why the decision between incumbent Lawson and Red Bull junior Nikola Tsolov to partner Arvid Lindblad had taken so long, and why backing Lawson doesn't ...<a class='mo",
+        "title": "Lando Norris jokes he \"found the limit of a champagne bottle\" in Brazil podium mishap",
+        "summary": "2025 Formula 1 champion Lando Norris has joked about how he \"found the limit of a champagne bottle\" for the first time in his career during his chaotic podium celebrations at the Brazilian Grand Prix.The McLaren driver won from pole at Interlagos, but his trademark celebration went wrong. As he slammed the champagne bottle down on the floor, it shattered in his hands. To make matters worse, he ...<a clas",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/alan-permane-liam-lawson-has-been-a-revelation-as-he-earned-2027-racing-bulls-f1-deal/10875104/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-17T17:02:37.000Z",
+        "url": "https://www.motorsport.com/f1/news/lando-norris-jokes-he-found-the-limit-of-a-champagne-bottle-in-brazil-podium-mishap/10875414/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-19T03:14:46.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "Newzoo analyst expects Grand Theft Auto to turn around a rough year for console gaming: 'without GTA 6 the console market would likely be down year-over-year in 2026'",
-        "summary": "There's a lot riding on Jason and Lucia.",
+        "title": "Not even Walton Goggins knows if Fallout will have a Season 4: 'if we get the opportunity to come back for season four, that would continue to honor how sacred this is to people'",
+        "summary": "Let's ride into the sunset together.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/newzoo-analyst-expects-grand-theft-auto-to-turn-around-a-rough-year-for-console-gaming-without-gta-6-the-console-market-would-likely-be-down-year-over-year-in-2026/",
-        "seendate": "2026-11-18T00:35:59.000Z",
+        "url": "https://www.pcgamer.com/movies-tv/not-even-walton-goggins-knows-if-fallout-will-have-a-season-4-if-we-get-the-opportunity-to-come-back-for-season-four-that-would-continue-to-honor-how-sacred-this-is-to-people/",
+        "seendate": "2026-11-19T03:30:59.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Miami Heat shows off its 'Vice City hardwood' ahead of the big Grand Theft Auto 6 basketball game",
-        "summary": "They've got new uniforms, too. They're pretty cool.",
+        "title": "Over an hour of new Total War: Warhammer 40,000 campaign footage shows gear customization, fleet mechanics, and emphasizes space marines are not always trusted and hard to replace",
+        "summary": "Every space marine is sacred, every space marine is good / every space marine is needed in your neighborhood.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/miami-heat-shows-off-its-vice-city-hardwood-ahead-of-the-big-grand-theft-auto-6-basketball-game/",
-        "seendate": "2026-11-17T23:08:11.000Z",
+        "url": "https://www.pcgamer.com/games/strategy/over-an-hour-of-new-total-war-warhammer-40-000-campaign-footage-shows-gear-customization-fleet-mechanics-and-emphasizes-space-marines-are-not-always-trusted-and-hard-to-replace/",
+        "seendate": "2026-11-19T03:09:13.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Caves of Qud's first DLC is forcing its devs to ask important questions: 'How does a crab get high?'",
-        "summary": "Qud's co-creators discuss dogs with guns, handless tattooing, and the tragedy of a sinning tree.",
+        "title": "GTA 6: Where to find your first plane and helicopter right away",
+        "summary": "Steal your first aircraft close to your GTA 6 starting point.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/roguelike/caves-of-quds-first-dlc-is-forcing-its-devs-to-ask-important-questions-how-does-a-crab-get-high/",
-        "seendate": "2026-11-17T22:35:14.000Z",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-first-plane-and-helicopter/",
+        "seendate": "2026-11-18T22:51:08.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Tomb Raider developer makes fifth round of layoffs in less than 2 years",
-        "summary": "Crystal Dynamics confirmed that eight people have been let go in a \"necessary business decision.\"",
+        "title": "Clair Obscur: Expedition 33 lead writer left Sandfall Interactive last summer: 'We've parted ways'",
+        "summary": "Jennifer Svedberg-Yen says she left the studio in July after finishing up work on the studio's hit RPG.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/gaming-industry/tomb-raider-developer-makes-fifth-round-of-layoffs-in-less-than-2-years/",
-        "seendate": "2026-11-17T20:57:44.000Z",
+        "url": "https://www.pcgamer.com/games/rpg/clair-obscur-expedition-33-lead-writer-left-sandfall-interactive-last-summer-weve-parted-ways/",
+        "seendate": "2026-11-18T22:29:32.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Sci-fi RPG Exodus gets even more Mass Effect-like with its female lead, who they are calling Femjun",
-        "summary": "Yup, it's official.",
+        "title": "GTA 6 airport location: Here's where to earn your wings less than legally",
+        "summary": "Head to the VCIA runway to hop in the cockpit of your commercial jets and utility vehicles of choice.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/rpg/sci-fi-rpg-exodus-gets-even-more-mass-effect-like-with-its-female-lead-who-they-are-calling-femjun/",
-        "seendate": "2026-11-17T18:55:21.000Z",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-airport-location/",
+        "seendate": "2026-11-18T21:52:44.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
+      {
+        "title": "£10m ‘once-in-a-generation’ study to explore effects of children’s social media ban",
+        "summary": "Research to look at whether ban can make meaningful change in mental health and wellbeing for under-16sCountries around the world are considering social media bans for children, but whether this would work in practice has been hotly debated. Now researchers are seeking answers through a major scientific study led by Wellcome, which will be t",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/18/social-media-ban-once-in-a-generation-study",
+        "seendate": "2026-11-18T07:00:36.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Apple outage: iPhone apps suffer disruption days after major Microsoft issues",
+        "summary": "Google’s Gmail also affected after problems reported in technological infrastructure in the US and worldwideThousands reported disruptions to Google’s Gmail and Apple’s iPhone apps, such as Apple Pay and iCloud, on Tuesday, according to Downdetector. Apple confirmed the outages in a statement but said it had resolved them, while Google said it had not seen internal si",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/nov/17/gmail-apple-outage-major-disruption",
+        "seendate": "2026-11-17T22:23:56.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Actors in UK to get more rights over their ‘digital replicas’ in deal on AI protections",
         "summary": "Agreement secured by Equity union gives actors rights over payment and consent when digital replicas are usedActors in the UK are to be given more rights over their “digital replicas” as part of a new agreement on AI protections with TV and film producers, secured after a growing on-set backlash.Under a wide-ranging new deal secured by Equity, the actors’ union, performers will have the rights to be",
@@ -321,25 +337,33 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/business/2026/nov/17/millionaire-factory-anthropic-ipo-set-to-fuel-ai-gold-rush-in-londons-high-end-property-market",
         "seendate": "2026-11-17T07:00:07.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Microsoft identifies months-old bug as a root cause of global outage",
-        "summary": "Report identifies three factors that led to blackout: a bug, malfunctioning internal connections and server capacityMicrosoft has identified the root causes of the global outage that crippled Outlook, Exchange and a host of other vi",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/nov/16/microsoft-global-outage-cause",
-        "seendate": "2026-11-16T20:54:40.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Ministers to end Palantir’s contract with NHS in England in 2029",
-        "summary": "DHSC to extend US tech firm’s contract for two more years to allow time to line up British companies to replace itMinisters will end the NHS’s contract with the controversial tech firm Palantir – but not until 2029, to allow time to line up British companies to replace it.The Department of Health and Social Care (DHSC) has decided to extend Palantir’s contract to provide the federated data platform (",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/society/2026/nov/16/ministers-to-end-palantir-contract-nhs-england-2029",
-        "seendate": "2026-11-16T19:59:31.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "climate": [
+      {
+        "title": "‘Huge experiment in biogeography’: US offshore windfarms are creating artificial reefs",
+        "summary": "Scientists and fishers study how these ‘reefs’ and the creatures living on them are transforming the ocean floor – and what it means for the fishing industryA few years ago, Tony DiLernia, a New York-based charter boat captain, heard rumors of prime fishing near the Block Island windfarm, off the tip of Long Island. So he went with his family to see for himself. Almost immediately after motoring up to one o",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/nov/18/offshore-wind-farms-artificial-reef-experiment-fishing-industry",
+        "seendate": "2026-11-18T14:00:04.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Republicans could expedite bill to make big oil immune to lawsuits, warn experts",
+        "summary": "GOP lawmakers are rushing through high-priority bills before newly elected Democrats are sworn inClimate groups fear lawmakers could pass a bill by the end of the year that would give fossil fuel companies immunity from lawsuits and legislation that aim to hold them accountable for the climate crisis.After the blue wave election, Republican lawmakers are rushing to pass high-priority bills before new",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/nov/18/big-oil-immunity-bill-climate",
+        "seendate": "2026-11-18T13:00:04.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "‘Aarigaa!’: the triumph of Mary Peltola’s historic US Senate win and what it means for Alaska Natives",
+        "summary": "Peltola, the first Alaska Native in the US Senate, ran a campaign that drew universal issues from her own Indigenous politicsLate into the night on 3 November, while the lower 48 states were reeling from the blue wave crashing across the US, Mary Peltola took to the stage in a Sheraton hotel ballroom in Anchorage, Alaska, to greet her supporters.It wasn’t a victory speech as such – there would still",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/nov/18/mary-peltola-alaska-win-analysis",
+        "seendate": "2026-11-18T04:25:29.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Tag team: dual waterspouts appear in San Francisco Bay amid stormy weather",
         "summary": "Phenomenon is not a common occurrence in the Bay area and inclement weather is expected to continue for few daysA pair of waterspouts were recorded recently in the San Francisco Bay area, much to the delight and shock of several observers, as storms pummelled the region.Two waterspouts – <a href=\"https://www.theguardian.com/world/article/2024/aug/19/how-do-waterspouts-form-and-what-risk-do-they-pose\"",
@@ -355,71 +379,47 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/environment/2026/nov/17/fossil-fuel-industry-colorado",
         "seendate": "2026-11-17T19:12:15.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "These US coal plants on the Ohio River shut down years ago. Now, residents say their waste is destroying lives",
-        "summary": "Landfill owner’s data show lithium above groundwater standards near the drinking water source for millionsDown winding roads and past quiet homesteads, all that can be heard in the otherwise bucolic air of rural Clermont county, Ohio, is the roar of dump trucks.The speeding vehicles are headed for a massive, 1,400-acre<a href=\"https://www.aboutzi",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/nov/17/coal-plants-ohio-river-landfill",
-        "seendate": "2026-11-17T13:00:48.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Band of baby sea turtles swims into ocean after historic California nesting",
-        "summary": "Hatchlings emerge after discovery in September of first sea turtle nests ever to have been recorded on US west coastTwo months after the discovery of the first sea turtle nests ever to have been recorded on the US west coast, the eggs have hatched – and California’s first group of 75 native-born olive ridley sea turtles have been released into the Pacific.The eggs incubated at the Aquarium of the Pac",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/nov/16/california-sea-turtle-eggs-hatched",
-        "seendate": "2026-11-16T23:19:11.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Massive wave knocks down onlooker in California – video",
-        "summary": "A large wave knocked down at least one onlooker on a beach in northern California on 14 November as heavy tides battered the west coast over the weekend. Waves reached up to 50ft along the coast as swells supercharged by El Niño slammed into seaside communities Continue reading...",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/video/2026/nov/16/massive-wave-knocks-down-onlooker-in-california-video",
-        "seendate": "2026-11-16T18:52:31.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "science": [
       {
-        "title": "‘Orwellian’: HIV scientist’s ordeal lays bare Trump officials’ interference in grant-making",
-        "summary": "Researchers forced to scrap original studies as NIH rethinks grants not in ‘alignment’ with administration’s prioritiesDr Jade Pagkas-Bather received her first grant from the National Institutes of Health (NIH) in June 2025 – a milestone in any researcher’s career.She planned to study basic income as a medical intervention: her randomized control trial would test whether monthly grants of $500-cash h",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/nov/16/hiv-scientist-nih-grant-making-process",
-        "seendate": "2026-11-16T13:00:01.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Nasa’s Voyager 1 probe in sight of an incredible milestone – podcast",
+        "title": "Nasa’s Voyager 1 just reached a massive milestone in space - video",
         "summary": "Nasa sent the Voyager 1 and 2 probes into space almost 50 years ago to explore the outer reaches of our solar system. Now Voyager 1, the farthest human-made object from Earth, is about to reach a distance of one light-day away from our planet. To find out more about its astonishing journey, Madeleine Finlay hears from Jim Bell, a planetary scientist and professor at Arizona State University’s school of Earth and s",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/audio/2026/nov/17/nasa-voyager-1-probe-incredible-milestone-podcast",
-        "seendate": "2026-11-17T05:00:04.000Z",
+        "url": "https://www.theguardian.com/science/video/2026/nov/18/nasas-voyager-1-just-reached-a-massive-milestone-in-space-video",
+        "seendate": "2026-11-18T10:39:51.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Starwatch: Fleeting brilliance of Leonid meteor shower to hit peak",
-        "summary": "Annual display appears to radiate from constellation of Leo in eastern sky as Earth passes through comet debris streamThe annual Leonid meteor shower reaches its peak this week, offering a chance to count meteors. The shower is expected to be at its most active during the night of 17–18 November. Under ideal conditions, observers may see up to 10–15 meteors an hour.What they lack in numbers, they mak",
+        "title": "After 49 years, Nasa’s Voyager 1 is one light-day away from us. Can we save this ‘pale blue dot’? | Kim Heacox",
+        "summary": "Since the spacecraft’s 1977 launch, our wonderful and terrible species has done great damage to our planet. Voyager has offered us a clear view of ourselvesImagine traveling nonstop for 49 years, alone in the dark with no destination in sight, powered by curiosity and engineering.Further imagine making that journey not at bullet train or jet plane speed, but much faster: at 37,800 miles per hour, fre",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/nov/16/starwatch-fleeting-brilliance-of-leonid-meteor-shower-to-hit-peak",
-        "seendate": "2026-11-16T06:00:36.000Z",
+        "url": "https://www.theguardian.com/commentisfree/2026/nov/18/nasa-voyager-1-pale-blue-dot",
+        "seendate": "2026-11-18T11:00:56.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "SpaceX’s Starship returns to launch pad from orbit in victory for company",
-        "summary": "Although booster exploded, company caught upper stage for first time in campaign to make megarocket reusableSpaceX’s megarocket Starship returned to its Texas launch tower on Saturday,",
+        "title": "Pill that mimics Viagra can slow Alzheimer’s progression, study suggests",
+        "summary": "Experts call trial results of medication that slowed cognitive decline by almost a third ‘very promising’ A pill that mimics Viagra by relaxing blood vessels and increasing blood flow to the brain can slow cognitive decline in people with Alzheimer’s disease by almost a third, a global study suggests.Alzheimer’s is the most common form of dementia, a condition that is forecast to affect 153 million p",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/nov/14/spacex-starship-double-catch",
-        "seendate": "2026-11-14T22:35:06.000Z",
+        "url": "https://www.theguardian.com/science/2026/nov/18/pill-mimics-viagra-can-slow-alzheimers-progression-by-third-study",
+        "seendate": "2026-11-18T05:00:33.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘Ahead of his time’: AI helps unlock discoveries hidden in notebooks of man who transformed maths",
-        "summary": "Kurt Gödel left 1,009 pages of densely written text – much of it in an obsolete shorthand – which is now said to contain hundreds of proved theoremsThe Austrian logician Kurt Gödel was one of the most original thinkers of the 20th century. His two incompleteness theorems, published in 1931, transform",
+        "title": "‘Human’ wins Cambridge dictionary’s word of the year",
+        "summary": "Meaning and use of word has become more important in age of AI chatbot, says dictionaryIn a world where the line between people and machines is more blurred than ever, Cambridge dictionary has sided with natural intelligence for its word of the year: human.Breakthroughs in artificial intelligence – led by the <a href=\"https://www.theguardian.com/technology/2023/feb/02/chatgpt-100-million-users-open-a",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
-        "seendate": "2026-11-13T16:38:27.000Z",
+        "url": "https://www.theguardian.com/science/2026/nov/18/cambridge-word-of-the-year-human",
+        "seendate": "2026-11-18T05:00:34.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Body found in Derry bog decapitated more than 2,000 years ago, coroner finds",
+        "summary": "Inquest-style inquiry concludes iron age remains are of 15- to 22-year-old female who may have been ritually sacrificedA coroner’s investigation into Northern Ireland’s most venerable cold case has concluded that the victim was decapitated more than 2,000 years ago.The inquest-style inquiry determined that Ballymacombs More Woman – the name",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/18/ballymacombs-more-woman-derry-bog-decapitated-2000-years-ago",
+        "seendate": "2026-11-18T08:00:36.000Z",
         "domain": "theguardian.com"
       }
     ]
