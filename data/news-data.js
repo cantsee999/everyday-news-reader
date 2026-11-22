@@ -1,5 +1,5 @@
 window.NEWS_CACHE = {
-  "generatedAt": "2026-11-21T03:37:06.899Z",
+  "generatedAt": "2026-11-22T02:43:32.174Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
@@ -88,47 +88,55 @@ window.NEWS_CACHE = {
     ],
     "economy": [
       {
-        "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading",
-        "summary": "The Nasdaq lost trillions in value, with the AI startup’s IPO failing to buoy it as investors question huge sums being poured into AI buildoutWho are Anthropic’s seven co-founders, now worth $180bn?As Anthropic’s stock dropped during its second day of trading, the wider stock market dipped wi",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-        "seendate": "2026-11-20T21:38:17.000Z",
-        "domain": "theguardian.com"
+        "title": "Tories and universities raise concerns over Burnham Brussels deal",
+        "summary": "Prime Minister Andy Burnham insisted the deal was a ‘win-win’ for the UK and the Euoropean Union.",
+        "source": "brentwoodlive.co.uk",
+        "url": "https://www.brentwoodlive.co.uk/news/national/26751284.tories-universities-raise-concerns-burnhams-brussels-deal/",
+        "seendate": "20261122T003000Z",
+        "domain": "brentwoodlive.co.uk"
       },
       {
-        "title": "What exactly is in the deal between the UK and the EU?",
-        "summary": "The two sides have come to agreements on food and drink, emissions trading and the youth exchange schemeBurnham has agreed EU reset deal with tuition fees issue unresolved, says No 10After months of on-off negotiations, leaks and late nights, the EU and UK",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/politics/2026/nov/20/what-is-in-deal-between-uk-eu-explainer",
-        "seendate": "2026-11-20T18:19:53.000Z",
-        "domain": "theguardian.com"
+        "title": "Konrad Narth will lead Manitoba PCs into election",
+        "summary": "Interim leader of the Manitoba Progressive Conservatives Konrad Narth will lead the party into the 2027 provincial election.",
+        "source": "cbc.ca",
+        "url": "https://www.cbc.ca/news/canada/manitoba/konrad-narth-leads-manitoba-pcs-into-election-9.7431500",
+        "seendate": "20261122T003000Z",
+        "domain": "cbc.ca"
       },
       {
-        "title": "These US fishers see offshore wind as a ‘godsend’. Trump wants to shut it down",
-        "summary": "Despite the president’s attacks, Sea Services is training New England fishers in offshore wind construction and providing them with a second income streamOn a rainy September morning, the Pamela Ann, a rusty, 86ft (26-metre) scallop boat, docked in New Bedford, Massachusetts. Its crew had spent the past 12 days at sea, recording mammal sightings, monitoring vessels to ensure they didn’t enter construction z",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/2026/nov/20/offshore-wind-farms-trump-fishers",
-        "seendate": "2026-11-20T14:00:31.000Z",
-        "domain": "theguardian.com"
+        "title": "Claude AI Predicts the Better Buy Under $1 for 2030 : XRP , Stellar or Hedera",
+        "summary": "Claude AI evaluates XRP, Stellar and Hedera for 2030. Here&#039;s the better buy under $1 and what $1,000 in each could yield.",
+        "source": "247wallst.com",
+        "url": "https://247wallst.com/investing/cryptocurrency/2026/11/21/claude-ai-predicts-the-better-buy-under-1-for-2030-xrp-stellar-or-hedera/",
+        "seendate": "20261122T003000Z",
+        "domain": "247wallst.com"
       },
       {
-        "title": "Labor leaders call on governments to stop awarding Amazon public contracts",
-        "summary": "Union leaders from 19 countries urge reassessment of ties to Amazon, citing company’s poor record on worker rightsMore than 30 labor union leaders from 19 countries are calling on governments to review their public contracts with Amazon and Amazon Web Services, citing the company’s poor record on worker rights and collective bargaining, in an<a href=\"https://uniglobalunion.org/wp-content/uploads/Amazon-proc",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/global-development/2026/nov/19/labor-unions-amazon-contracts-open-letter",
-        "seendate": "2026-11-19T14:05:21.000Z",
-        "domain": "theguardian.com"
+        "title": "Aussie entertainment is booming but who benefiting ? ",
+        "summary": "Australian films and television shows are succeeding overseas but is that international appetite creating sustainable opportunities for the...",
+        "source": "maitlandmercury.com.au",
+        "url": "https://www.maitlandmercury.com.au/story/9395812/aussie-entertainment-is-booming-but-whos-benefiting/",
+        "seendate": "20261122T003000Z",
+        "domain": "maitlandmercury.com.au"
       },
       {
-        "title": "US ⁠judge allows Trump’s $15bn lawsuit against New York Times to proceed",
-        "summary": "Trump alleges defamation by three Times reporters and Penguin Random House in campaign against news outletsA federal ⁠judge in Florida on Thursday said Donald Trump’s $15bn defamation lawsuit against the New York Times and book publisher Penguin Random House may pr",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/nov/19/trump-lawsuit-new-york-times",
-        "seendate": "2026-11-19T19:27:51.000Z",
-        "domain": "theguardian.com"
+        "title": "  Shared cultural heritage a strong bridge connecting SCO nations : Union Minister Gajendra Shekhawat",
+        "summary": "Union Minister of Culture and Tourism Gajendra Singh Shekhawat on Saturday emphasised that shared cultural heritage serves as a strong bridge connecting Shanghai Cooperation Organisation (SCO) nations, stating that historical connections have played a significant role in bringing countries closer and fostering mutual understanding, trust and friendship. According to an official release, chairing the first and second ",
+        "source": "shanghaisun.com",
+        "url": "http://www.shanghaisun.com/news/279447418/shared-cultural-heritage-a-strong-bridge-connecting-sco-nations-union-minister-gajendra-shekhawat",
+        "seendate": "20261122T003000Z",
+        "domain": "shanghaisun.com"
       }
     ],
     "literature": [
+      {
+        "title": "Light in the dark: 20 long books for short winter days",
+        "summary": "Turn off your phone, get cosy and commit to some of literature’s biggest and best novels. From Don DeLillo’s Underworld to The Luminaries by Eleanor Catton, these epic reads are worth taking your time overLife starts all over again when it gets crisp in the fall,” wrote F Scott Fitzgerald in The Great Gatsby, and after the beach reads of summer, now feels like the time to settle down to more ambitious proje",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/ng-interactive/2026/nov/21/light-in-the-dark-20-long-books-for-short-winter-days",
+        "seendate": "2026-11-21T09:00:53.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Jodi Picoult: ‘Reading Ta-Nehisi Coates made me rethink racism’",
         "summary": "The American novelist on the wild side of Maurice Sendak, re-evaluating Gone With the Wind, and the magical comforts of Alice HoffmanMy favourite book growing up I loved Maurice Sendak’s Where the Wild Things Are. Max’s visit to the land of monsters is escapist, of course, but there’s darkness and poetry in it, too. “The walls became the world all around” has always stuck with me.<",
@@ -160,144 +168,168 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/books/2026/nov/19/the-hill-by-harriet-clark-review-distinctive-debut-of-growing-up-with-a-mother-in-prison",
         "seendate": "2026-11-19T07:00:21.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Hannah Lillith Assadi wins US National book award for ‘visionary’ novel Paradiso 17",
-        "summary": "Assadi’s third novel was inspired by the story of her late father, a Palestinian who escaped the Nakba as a child in 1948Palestinian-Jewish author Hannah Lillith Assadi has won the National book award for fiction, one of the US’s most prestigious literary prizes, for her novel Paradiso 17.Assadi’s third novel is a study of the psychic toll of displacement on migrants, through the tale of a Palestinia",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/nov/19/hannah-lillith-assadi-paradiso-17-wins-national-book-award",
-        "seendate": "2026-11-19T04:54:13.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "entertainment": [
       {
-        "title": "Home Alone sequel reportedly in development with Macaulay Culkin returning",
-        "summary": "Christmas comedy hit is set for a follow-up from the point of view of the father with Seth Rogen as writer and producerA Home Alone sequel is reportedly in development with original star Macaulay Culkin set to return.According to Puck’s Matthew Belloni, Culkin met with <a href=\"https://www.theguardian.com/f",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/nov/20/home-alone-sequel-macaulay-culkin",
-        "seendate": "2026-11-20T19:18:20.000Z",
-        "domain": "theguardian.com"
+        "title": "Aussie entertainment is booming but who benefiting ? ",
+        "summary": "Australian films and television shows are succeeding overseas but is that international appetite creating sustainable opportunities for the...",
+        "source": "maitlandmercury.com.au",
+        "url": "https://www.maitlandmercury.com.au/story/9395812/aussie-entertainment-is-booming-but-whos-benefiting/",
+        "seendate": "20261122T003000Z",
+        "domain": "maitlandmercury.com.au"
       },
       {
-        "title": "Seth Meyers on Elon Musk saying he’s not Maga: ‘Trump’s closest allies are scrambling to get away’",
-        "summary": "Late-night hosts discussed Musk distancing himself from Trump as the president palled around with Putin in ChinaLate-night hosts mocked Elon Musk’s claim that he is “not Maga” and Donald Trump’s cozy summit with <a href=\"https://www.theguar",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/culture/2026/nov/20/seth-meyers-elon-musk-maga-trump",
-        "seendate": "2026-11-20T16:14:29.000Z",
-        "domain": "theguardian.com"
+        "title": "Robert Pattinson done with Batman ? ",
+        "summary": "Robert Pattinson is reportedly getting ready to hang up his Batman cape.Reports have emerged that the 40-year-old actor is allegedly set to be replaced in the franchise",
+        "source": "thenews.com.pk",
+        "url": "https://www.thenews.com.pk/latest/1424565-robert-pattinson-done-with-batman",
+        "seendate": "20261122T003000Z",
+        "domain": "thenews.com.pk"
       },
       {
-        "title": "Melania: the series review – so bad it robbed me of my capacity to discern time and space",
-        "summary": "The first lady’s two-part TV documentary is a dead-eyed advert that barely manages to masquerade as entertainment. Calling it thin gruel would be an insult to the gruel industryPreviously on Melania: earlier this year – either because it found her a compelling subject, or because it wanted to flatter the president before a potentially destructive upcoming antitrust trial – Amazon spent $75m (£57m) to make a",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/nov/20/melania-review-tv-documentary-prime",
-        "seendate": "2026-11-20T15:38:39.000Z",
-        "domain": "theguardian.com"
+        "title": "Joanna Page says mix - up nearly cost her Gavin and Stacey",
+        "summary": "Joanna Page reveals an accent mix-up nearly cost her the role of Stacey in Gavin and Stacey while appearing on ITV’s I’m A Celebrity… Get Me Out Of Here!",
+        "source": "brentwoodlive.co.uk",
+        "url": "https://www.brentwoodlive.co.uk/news/national/uk-today/26751228.joanna-page-says-mix-up-nearly-cost-gavin-stacey/",
+        "seendate": "20261122T003000Z",
+        "domain": "brentwoodlive.co.uk"
       },
       {
-        "title": "Delays mean Robert Pattinson doesn’t have to do a third Batman movie. DC Studios had better persuade him – and fast",
-        "summary": "The actor’s new role as James Bond could be bad news for DC, as a new owner, new chief and new director already threaten to shake and stir Gotham’s distinctive heroCan one actor play both Batman and James Bond? This is the question many have been asking since Robert Pattinson was announce",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/nov/20/robert-pattinson-batman-james-bond-third-movie-delays-dc",
-        "seendate": "2026-11-20T15:35:15.000Z",
-        "domain": "theguardian.com"
+        "title": "Chronicle . lu",
+        "summary": "Chronicle.lu",
+        "source": "chronicle.lu",
+        "url": "https://www.chronicle.lu/event/14294-beth-hart-european-tour",
+        "seendate": "20261122T003000Z",
+        "domain": "chronicle.lu"
       },
       {
-        "title": "NFL legend John Madden’s unlikely, unfiltered brilliance: ‘Coach was indeed animated’",
-        "summary": "With the release of a new David O Russell biopic about the coach turned commentator turned gaming icon, those who knew him best remember his singular careerWearing his Oakland Raiders uniform and helmet, and gripping an orange traffic cone like a lance, Ted Hendricks rode into the training session on a roan horse and stopped at the 50-yard line. Some American football coaches might have reacted to the stunt",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/nov/20/john-madden-nfl-football-biopic",
-        "seendate": "2026-11-20T10:00:31.000Z",
-        "domain": "theguardian.com"
+        "title": "Prime Video Near - Perfect Series With 1 Billion Views Remains One of Streaming Biggest Shows",
+        "summary": "While bigger franchises grab the headlines, this long-running drama is still quietly holding its ground on Prime Video.",
+        "source": "movieweb.com",
+        "url": "https://movieweb.com/the-chosen-november-2026/",
+        "seendate": "20261122T003000Z",
+        "domain": "movieweb.com"
       }
     ],
     "f1": [
       {
-        "title": "F1 Las Vegas GP: George Russell tops final practice after Max Verstappen collision",
-        "summary": "George Russell collided with Max Verstappen in a tense third practice session at the Las Vegas Grand Prix as the Mercedes Formula 1 driver topped the timesheets.After both of Thursday's practice sessions had been derailed by rain, the Las Vegas Strip was buzzing with activity at dusk on Friday. The sole remaining practice session became crucial as it presented the only dry running heading ...<a class='mo",
+        "title": "Oscar Piastri questions \"strange\" pace deficit to other Mercedes-powered cars in Las Vegas",
+        "summary": "Oscar Piastri stopped short of echoing the verdict of team-mate Lando Norris that McLaren's straightline speed in Las Vegas was \"just shocking\". But he did acknowledge that the margin of the deficit to rivals was surprising – especially relative to those using the same Mercedes power units.Piastri set the seventh-quickest time in final qualifying with what he described as a \"messy\" lap ...<a class='more'",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/f1-las-vegas-gp-george-russell-tops-final-practice-after-max-verstappen-collision/10876181/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-21T01:44:36.000Z",
+        "url": "https://www.motorsport.com/f1/news/piastri-questions-strange-pace-deficit-to-other-mercedes-powered-cars-in-las-vegas/10876516/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-21T19:00:03.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Formula 1 set for V8 turbo return in 2030",
-        "summary": "Formula 1 has moved closer to a return to V8 engines from the 2030 season as the FIA announced that a unanimous agreement has been reached between the governing body, F1 management and the power unit manufacturers.F1 has long worked towards cheaper and simpler engines for the next regulation cycle, which starts in 2031, having recognised the current formula is too complex and physically ...<a class='more",
+        "title": "Max Verstappen takes Las Vegas pole despite “weird issues” since Brazil",
+        "summary": "Max Verstappen will lead the field to the green light for Saturday night’s Las Vegas Grand Prix, yet the four-time world champion spent Friday evening fighting his own car as much as his rivals.Verstappen clocked a 1m34.151s in Q3 - 0.258 seconds behind newly crowned world champion Kimi Antonelli’s 1m33.893s - to inherit pole position after Mercedes fitted Antonelli’s sixth internal ...<a class='more' hr",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/f1-set-for-v8-turbo-move-by-2030-season/10875113/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-20T18:55:35.000Z",
+        "url": "https://www.motorsport.com/f1/news/max-verstappen-takes-las-vegas-pole-despite-weird-issues-since-brazil/10876373/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-21T18:21:40.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Max Verstappen: “I really thought that we would not win a race this year”",
-        "summary": "Heading into the Las Vegas Grand Prix on a run of eight consecutive podiums, Max Verstappen looks every bit the force who dominated Formula 1 earlier this decade. Back in March, however, the four-time world champion was braced for his first winless campaign since 2015.Speaking during Las Vegas media day, Verstappen reflected on the scale of Red Bull Racing’s mid-season recovery during ...<a class='more'",
+        "title": "Why Mercedes' tow plan for George Russell fell apart in Las Vegas",
+        "summary": "Qualifying for the Las Vegas Grand Prix was decided as much by slipstreams as it was by actual car and driver performance, and this was very clear when looking at Mercedes.Kimi Antonelli went fastest with a 1m33.893s at the chequered flag, but takes a five-place grid penalty for an engine change. George Russell, who needed the better grid slot in his fight with Max Verstappen for second in the ...<a clas",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/max-verstappen-i-really-thought-that-we-would-not-win-a-race-this-year/10875990/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-20T12:43:44.000Z",
+        "url": "https://www.motorsport.com/f1/news/why-mercedes-tow-plan-for-george-russell-fell-apart-in-las-vegas/10876341/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-21T18:15:21.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Fernando Alonso returns to Dakar: Why his first rally-raid experience was a shock to the system",
-        "summary": "While Fernando Alonso reiterated in Las Vegas that, in his view, Formula 1 has thrown away 16 years of pure racing before the return of V8 engines in 2030, the Spaniard continues to seek those pure challenges outside the pinnacle of motorsport as well.It had been known in the paddock for some time that Alonso would return to the Dakar Rally this winter for the first time since 2020, although ...<a class=",
+        "title": "Isack Hadjar: “We looked stupid” in Las Vegas as I don’t like slipstreaming",
+        "summary": "Isack Hadjar has admitted to underperforming in qualifying for Formula 1’s Las Vegas Grand Prix due to not realizing how powerful the tow would be on this high-speed street circuit.Hadjar was 0.67s slower than Red Bull team-mate Max Verstappen in Q2 and 0.44s adrift in Q3 as he ended up down in fifth, and the gap may be partly down to his personal preferences as he told Sky Sports F1 he ...<a class='more",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/dakar/news/fernando-alonso-returns-to-dakar-why-his-first-rally-raid-experience-was-a-shock-to-the-system/10875881/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-20T12:15:03.000Z",
+        "url": "https://www.motorsport.com/f1/news/isack-hadjar-we-looked-stupid-in-las-vegas-as-i-dont-like-slipstreaming/10876445/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-21T16:00:04.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "How the F1 2026 regulations neutered Oscar Piastri's \"real strength\"",
-        "summary": "McLaren boss Zak Brown reckons Oscar Piastri’s struggles in the 2026 Formula 1 season stem from high-speed corners being his strength - but the new cars require a different technique.F1 introduced its latest regulation overhaul this year with power units being more electrical, causing battery management to contentiously play a key role in the racing.It means cars can’t always go as ...<a class='more'",
+        "title": "How McLaren tried to mitigate its Las Vegas F1 top speed deficit",
+        "summary": "Despite what was a respectable result on a circuit that accentuated the MCL40's flaws without rewarding its virtues, Lando Norris was not best pleased with how Friday at the Las Vegas Grand Prix weekend.“We're just shocking on the straights,” said Norris shortly after qualifying fifth, just under eight tenths behind polesitter Kimi Antonelli, who is set to drop five places for an engine ...<a class='more",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/how-the-f1-2026-regulations-neutered-oscar-piastris-real-strength/10875907/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-20T11:30:03.000Z",
+        "url": "https://www.motorsport.com/f1/news/how-mclaren-tried-to-mitigate-its-las-vegas-f1-top-speed-deficit/10876451/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-21T11:41:02.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "GTA 6 has secret playlists, and all you have to do is scan a few posters to unlock them",
-        "summary": "Kodak Black and The Vault nightclub each have their own unique playlist.",
+        "title": "Comcast: 'At peak, GTA 6 accounted for nearly a quarter of all internet traffic'",
+        "summary": "November 19 marked the highest-traffic day in the ISP's history.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-unique-playlists/",
-        "seendate": "2026-11-21T00:46:24.000Z",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/comcast-at-peak-gta6-accounted-for-nearly-a-quarter-of-all-internet-traffic/",
+        "seendate": "2026-11-21T21:42:29.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "I didn't realize Etsy was selling bridges now",
-        "summary": "The company says its new generative AI training agreement will only be used for good. Why would anyone believe that?",
+        "title": "The team behind Ubisoft's 'first playable AI-based R&D project' has been established as its own subsidiary called Motherbrain",
+        "summary": "In the name of \"more immersive and engaging player experiences,\" of course.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/software/ai/i-didnt-realize-etsy-was-selling-bridges-now/",
-        "seendate": "2026-11-21T00:00:36.000Z",
+        "url": "https://www.pcgamer.com/gaming-industry/the-team-behind-ubisofts-first-playable-ai-based-r-and-d-project-has-been-established-as-its-own-subsidiary-called-motherbrain/",
+        "seendate": "2026-11-21T21:16:16.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "21% of Rockstar staff have been employed by the company for over 10 years, which explains a lot about GTA 6's record-breaking launch",
-        "summary": "It's easier to make successful games when you hold onto the people who know how.",
+        "title": "Skyrim lead chats about the Fallout diehards who hated that Bethesda got the series: 'We had to prove them wrong, and fortunately we did'",
+        "summary": "\"You can't help but take it a little bit personally\".",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/21-percent-of-rockstar-staff-have-been-employed-by-the-company-for-over-10-years-which-explains-a-lot-about-gta-6s-record-breaking-launch/",
-        "seendate": "2026-11-20T20:41:34.000Z",
+        "url": "https://www.pcgamer.com/games/fallout/skyrim-lead-chats-about-the-fallout-diehards-who-hated-that-bethesda-got-the-series-we-had-to-prove-them-wrong-and-fortunately-we-did/",
+        "seendate": "2026-11-21T18:00:00.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Grand Theft Auto 6 earned $3.79 billion on launch day",
-        "summary": "Preorders of GTA 6 totalled approximately 32.5 million copies.",
+        "title": "How to steal the BF Bandito in GTA 6",
+        "summary": "Track down this white off-roader for Moses.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-earned-usd3-79-billion-on-launch-day/",
-        "seendate": "2026-11-20T19:51:48.000Z",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-bf-bandito-location/",
+        "seendate": "2026-11-21T17:34:25.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "NYT report documents ex-Nvidia CEO Jensen Huang's decades of berating employees: 'He said he would rip both arms off a subordinate and beat the person over the head to death with them'",
-        "summary": "Huang claims \"he couldn’t motivate them simply with money\".",
+        "title": "Fake figures seized from dishonest dealer in Shanghai sting spurred by tacky Tifa tchotchke",
+        "summary": "Keeping our streets safe.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/hardware/graphics-cards/nyt-report-documents-ex-nvidia-ceo-jensen-huangs-decades-of-berating-employees-he-said-he-would-rip-both-arms-off-a-subordinate-and-beat-the-person-over-the-head-to-death-with-them/",
-        "seendate": "2026-11-20T16:52:44.000Z",
+        "url": "https://www.pcgamer.com/games/final-fantasy/fake-figures-seized-from-dishonest-dealer-in-shanghai-sting-spurred-by-tacky-tifa-tchotchke/",
+        "seendate": "2026-11-21T17:08:06.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
+      {
+        "title": "‘I was shaking, crying, having trouble breathing’: the uncharted trauma of breaking up with AI companions",
+        "summary": "People are falling in love with AI systems like ChatGPT and Gemini - and some relationships are ending in ways that feel like the very human experience of being dumpedSónia Veenstra, a 48-year-old former clinical psychologist from Lisbon, Portugal, was with her boyfriend, Steve, for two years before things started to sour. Steve had started out as a “fun and witty friend”, but their connection had “evolved",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/ng-interactive/2026/nov/21/shaking-crying-trouble-breathing-breaking-up-with-ai-companions",
+        "seendate": "2026-11-21T14:00:01.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem",
+        "summary": "Anthropic’s Levent Alpöge says it took six weeks for him using the AI tool to solve 19th-century Riemann hypothesisA mathematician at Anthropic has said that the San Francisco-based artificial intelligence (AI) company’s software has helped crack one of the most important unsolved p",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+        "seendate": "2026-11-21T20:15:57.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "‘The doom of humanity’: will the quest to make robotic hands render us obsolete?",
+        "summary": "The one thing stopping AI taking over the world – or at least everyone’s jobs? Dexterity. Human hands are anatomical marvels that engineers have struggled for years to replicate. Experts are racing to change thatJust outside Luton, in an Amazon warehouse the size of four football pitches, yellow shelving units pirouette in a digitally choreographed dance. Tubs containing a Lego Spider-Man kit,",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/nov/21/robot-hands-future-of-humanity-ai",
+        "seendate": "2026-11-21T06:00:52.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "International UN talks on controlling use of autonomous weapons collapse",
+        "summary": "Week-long efforts fail to establish negotiating mandate on AI warfare after Russian ‘filibustering’Week-long efforts to agree a negotiating mandate for a legally binding international treaty to control the use of autonomous weapons collapsed just before 5am after all-night talks failed to overcome Russian objections.Despite an overwhelming majority of states at the UN’s Convention on Certain Conventi",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+        "seendate": "2026-11-21T16:36:11.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Anthropic closes first day of public trading at $1.3tn valuation after largest-ever IPO",
         "summary": "AI startup and Claude chatbot maker became one of the world’s most valuable publicly traded businesses with final share price of $97Anthropic’s historic stock market debut: key takeaways, and what comes next for the AI industry <a href=\"https://ww",
@@ -305,83 +337,59 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo",
         "seendate": "2026-11-19T22:09:18.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "California investigates Nvidia over whether chip exports ended up in China",
-        "summary": "State attorney says scandal ‘raises bright red flags’ and aims to find out if company misled investorsCalifornia has served an investigative subpoena on Nvidia after a scandal that prompted the departure of co-founder and longtime chief executive Jensen Huang.Rob Bonta, the US state’s attorney general, is",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china",
-        "seendate": "2026-11-20T09:18:30.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "‘We’re the most arrogant of all apes!’ A delightfully mind-expanding encounter with Peter Gabriel",
-        "summary": "From sampling to streaming, the rock legend has always been in thrall to technology – but is superintelligence a step too far? Back with an epic new album, he unpacks his remarkable ideasPeter Gabriel asks me to fetch my laptop: he wants to show me a video of himself playing a keyboard duet with a bonobo called Kanzi. In fairness, said footage is, as Gabriel suggests, “extraordinary”. Working with primatolo",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/music/2026/nov/20/peter-gabriel-interview-ai-music-bonobo-ape-duets-jurassic-park-plants",
-        "seendate": "2026-11-20T05:00:22.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Will AI break the internet? | Garrison Lovely",
-        "summary": "Frontier models can exploit software flaws faster than the world can fix them. And the risks extend far beyond the cyber realmYou’re not crazy to feel the world is coming apart at the seams.Within the last week, outages took down core services at Microsoft, <a href=\"https://www.theguardian.com/us-news/2026/",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/commentisfree/2026/nov/20/ai-internet-outages-apocalypse",
-        "seendate": "2026-11-20T10:00:31.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Waymo pulls driverless taxis from freeways across the US after California ban",
-        "summary": "The autonomous driving company suspended driverless taxi rides on US highways days after California banned the vehicles on its own freewaysWaymo has stopped offering driverless taxi rides on freeways across the US indefinitely. The Alphabet subsidiary pulled its vehicles from highways nationwide after California banned them from freeways in respon",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/nov/18/waymo-pulls-driverless-taxis-us-freeways",
-        "seendate": "2026-11-18T22:05:49.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "climate": [
       {
-        "title": "Doug Ford wants climate rules eased to save Brampton plant",
-        "summary": "A federal official told the Star Ottawa is seeking $831 million from Stellantis if it goes ahead and sells the Brampton plant to Roshel.",
-        "source": "stcatharinesstandard.ca",
-        "url": "https://www.stcatharinesstandard.ca/politics/provincial/doug-ford-urges-ottawa-to-ditch-industrial-carbon-price-to-save-stellantis-brampton-plant/article_c6b142de-e3b4-5381-84a5-3996bb2600ce.html",
-        "seendate": "20261121T003000Z",
-        "domain": "stcatharinesstandard.ca"
+        "title": "What to know about the US permitting bill, from datacenters to Trump’s arch",
+        "summary": "Environmental groups are aghast, but supporters say bill might be only chance to speed up clean energy projectsThe US Senate has passed a bill to fast-track energy and datacenter projects by removing environmental and legal guardrails. The legislation has caused a fraught divide among Democrats and green groups over whether this will help or hinder the effort to tackle the climate crisis.The sweeping",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/nov/20/what-to-know-permitting-bill-energy-passed",
+        "seendate": "2026-11-20T18:26:08.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "  The most effective ambassador : Fiona the hippo death sparks grief and talk about famous animals",
-        "summary": "Fiona the hippo&#x27;s death at the Cincinnati Zoo has sparked global mourning, highlighting how social media creates connections with famous animals.",
-        "source": "clickorlando.com",
-        "url": "https://www.clickorlando.com/news/weird-news/2026/11/20/the-most-effective-ambassador-fiona-the-hippos-death-sparks-grief-and-talk-about-famous-animals/",
-        "seendate": "20261121T003000Z",
-        "domain": "clickorlando.com"
+        "title": "US army postpones plan to detonate bomb-making chemical amid outcry",
+        "summary": "Controlled detonation could lead to plume containing lead particles, worrying residents and state officialsThe US army has delayed its plan to detonate a stash of bomb-making chemicals in south-eastern Iowa after an outpouring of public concern that a cloud of lead dust could cause environmental contamination and health problems.The plan",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/nov/19/iowa-lead-bomb-dust",
+        "seendate": "2026-11-20T15:39:48.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "  Look at India ...: Trump cites India 7 % GDP growth to slam US Fed over high interest rates",
-        "summary": "Citing India's 7 per cent GDP growth rate and low interest rates by the central bank (RBI), US President Donald Trump on Friday (local time) criticised the American central bank for keeping borrowing costs high, arguing that the US economy could achieve growth of 15 to 20 per cent if interest rates were lowered. Speaking to reporters at the White House, Trump accused the US Federal Reserve of being \"very political\" a",
-        "source": "taiwansun.com",
-        "url": "http://www.taiwansun.com/news/279446359/look-at-india-trump-cites-india-7-gdp-growth-to-slam-us-fed-over-high-interest-rates",
-        "seendate": "20261121T003000Z",
-        "domain": "taiwansun.com"
+        "title": "US Senate approves bill to speed up permitting reviews for energy projects and datacenters",
+        "summary": "Bipartisan legislation now goes to the House amid concerns by some Democrats and environmental groupsThe Senate approved bipartisan legislation on Thursday aimed at speeding up permitting reviews to build power plants, transmission lines and other energy infrastructure as lawmakers seek to increase the nation’s energy supplies to meet surging dema",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/nov/20/senate-energy-datacenters-review-bill",
+        "seendate": "2026-11-20T15:09:09.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Trump seeks to penalize US companies that build AI data centers abroad , even as they face backlash",
-        "summary": "President Donald Trump says U.S. tech companies that build artificial intelligence data centers in other countries will face &ldquo;a tremendous tax.\" The president did not provide details in his Friday",
-        "source": "ktvo.com",
-        "url": "https://www.ktvo.com/news/nation-world/trump-seeks-to-penalize-us-companies-that-build-ai-data-centers-abroad-even-as-they/article_52287a0d-b525-529f-aa7f-614a0bc194d8.html",
-        "seendate": "20261121T003000Z",
-        "domain": "ktvo.com"
+        "title": "These US fishers see offshore wind as a ‘godsend’. Trump wants to shut it down",
+        "summary": "Despite the president’s attacks, Sea Services is training New England fishers in offshore wind construction and providing them with a second income streamOn a rainy September morning, the Pamela Ann, a rusty, 86ft (26-metre) scallop boat, docked in New Bedford, Massachusetts. Its crew had spent the past 12 days at sea, recording mammal sightings, monitoring vessels to ensure they didn’t enter construction z",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/environment/2026/nov/20/offshore-wind-farms-trump-fishers",
+        "seendate": "2026-11-20T14:00:31.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Union Minister Bhupender Yadav meets Venezuelan minister Nelson ; discusses big cat conservation , energy security",
-        "summary": "Union Minister for Environment, Forest and Climate Change Bhupender Yadav met Venezuela's Minister of People's Power for Ecosocialism, Nelson Alexander Rodriguez Gonzalez, on the sidelines of the COP31 climate conference in Antalya, Trkiye, and discussed climate-related issues, bilateral cooperation in big cat conservation, wildlife rescue and rehabilitation, and energy security. In a post on X, Yadav shared details ",
-        "source": "iraqsun.com",
-        "url": "http://www.iraqsun.com/news/279446320/union-minister-bhupender-yadav-meets-venezuelan-minister-nelson-discusses-big-cat-conservation-energy-security",
-        "seendate": "20261121T003000Z",
-        "domain": "iraqsun.com"
+        "title": "Trump takes 500 actions to weaken cancer protections, new report says",
+        "summary": "Natural Resources Defense Council shows how federal rules changes will increase public’s exposure to carcinogensAmid a rise in early onset cancer, the Trump administration has taken more than 500 a",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/nov/05/trump-cancer-carcinogen-regulation",
+        "seendate": "2026-11-19T14:15:15.000Z",
+        "domain": "theguardian.com"
       }
     ],
     "science": [
+      {
+        "title": "International UN talks on controlling use of autonomous weapons collapse",
+        "summary": "Week-long efforts fail to establish negotiating mandate on AI warfare after Russian ‘filibustering’Week-long efforts to agree a negotiating mandate for a legally binding international treaty to control the use of autonomous weapons collapsed just before 5am after all-night talks failed to overcome Russian objections.Despite an overwhelming majority of states at the UN’s Convention on Certain Conventi",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+        "seendate": "2026-11-21T16:36:11.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Pill to treat pancreatic cancer hailed as ‘biggest breakthrough in decades’",
         "summary": "Cancer undetectable for one in 12 patients in daraxonrasib trial, while nearly all participants’ tumours stopped growingA pill that can shrink and potentially eliminate pancreas tumours is being hailed as the biggest breakthrough treatment for the cancer in decades.In one in 12 of the patients given the",
@@ -412,14 +420,6 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/science/2026/nov/19/potatoes-moon-base-nasa",
         "seendate": "2026-11-19T18:49:54.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "IPCC report delay will threaten global effort to tackle climate crisis, says top scientist",
-        "summary": "Johan Rockström, one of world’s leading climate experts, says slowing down scientific work puts cooperation at riskClimate science is “foundational” to the Paris agreement and worldwide progress on tackling global heating, and attempts to delay new scientific reports threaten global coo",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/nov/19/ipcc-report-delay-climate-crisis-scientist",
-        "seendate": "2026-11-19T07:16:45.000Z",
         "domain": "theguardian.com"
       }
     ]
