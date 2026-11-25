@@ -1,8 +1,16 @@
 window.NEWS_CACHE = {
-  "generatedAt": "2026-11-24T06:33:53.255Z",
+  "generatedAt": "2026-11-25T05:07:47.232Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
+      {
+        "title": "More than 300 Russians killed as Moscow props up Mali’s junta, leaked data reveals",
+        "summary": "Exclusive: Records list 349 deaths in three years in Mali and also shed light on Russia’s military activity elsewhere in AfricaWhen the attack on Kidal began before dawn on 25 April this year, the Russian fighters were caught off guard. Within the first hour, checkpoints on the outskirts of the remote desert city nestled among the rocky hills of northern Mali had fallen to the insurgents, who pushed towards",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/nov/24/russian-fighters-killed-in-mali-africa-leaked-data",
+        "seendate": "2026-11-24T16:00:50.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
         "summary": "Ukraine’s security service says seven drones were launched from mothership in operation that sank Merkury warshipUkraine has confirmed it deployed naval drones in strikes on two Russian vessels off Libya on Sunday, including one that sank the corvette Merkury, one of Russia’s newest vessels.<",
@@ -33,19 +41,19 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/environment/2026/nov/19/baobab-five-trees-south-africa-dug-up-export-blocked-georgia-aoe",
         "seendate": "2026-11-19T11:03:24.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "One in four women globally unable to refuse sex within marriage, says UN",
-        "summary": "Almost half of women in west and central Africa cannot withhold consent, with girls worst affected, UNFPA findsOne in four women around the world have no power of consent if their husband or partner demands sex, according to a UN report.In west and central Africa, almost half of women (45%) are not able to say no in their own marriage, while a third of women (33%) in east and southern Africa and in A",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/global-development/2026/nov/19/women-girls-rights-rape-sexual-violence-africa-marriage-unfpa",
-        "seendate": "2026-11-19T04:00:16.000Z",
         "domain": "theguardian.com"
       }
     ],
     "conflict": [
       {
+        "title": "More than 300 Russians killed as Moscow props up Mali’s junta, leaked data reveals",
+        "summary": "Exclusive: Records list 349 deaths in three years in Mali and also shed light on Russia’s military activity elsewhere in AfricaWhen the attack on Kidal began before dawn on 25 April this year, the Russian fighters were caught off guard. Within the first hour, checkpoints on the outskirts of the remote desert city nestled among the rocky hills of northern Mali had fallen to the insurgents, who pushed towards",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/nov/24/russian-fighters-killed-in-mali-africa-leaked-data",
+        "seendate": "2026-11-24T16:00:50.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
         "summary": "Ukraine’s security service says seven drones were launched from mothership in operation that sank Merkury warshipUkraine has confirmed it deployed naval drones in strikes on two Russian vessels off Libya on Sunday, including one that sank the corvette Merkury, one of Russia’s newest vessels.<",
         "source": "theguardian.com",
@@ -76,23 +84,39 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/environment/2026/nov/19/baobab-five-trees-south-africa-dug-up-export-blocked-georgia-aoe",
         "seendate": "2026-11-19T11:03:24.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "One in four women globally unable to refuse sex within marriage, says UN",
-        "summary": "Almost half of women in west and central Africa cannot withhold consent, with girls worst affected, UNFPA findsOne in four women around the world have no power of consent if their husband or partner demands sex, according to a UN report.In west and central Africa, almost half of women (45%) are not able to say no in their own marriage, while a third of women (33%) in east and southern Africa and in A",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/global-development/2026/nov/19/women-girls-rights-rape-sexual-violence-africa-marriage-unfpa",
-        "seendate": "2026-11-19T04:00:16.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "economy": [
       {
-        "title": "Jensen Huang reinstated as Nvidia CEO after Trump intervenes",
-        "summary": "Share price surges as chipmaker reverses decision to remove chief executive after US president ‘convinced’ its boardComment: Nvidia’s humiliated board should resign out of embarrassment<a href=\"https://www.theguardian.com/technology/2026/nov/12/jensen-huang-affair",
+        "title": "Nvidia CEO Jensen Huang apologizes to staff: ‘I made some terrible mistakes’",
+        "summary": "Huang acknowledges he violated code of conduct by having affairs, but denied Trump was instrumental in his returnJensen Huang apologized to staff on Tuesday for the tumult he’s caused at Nvidia. The company’s CEO acknowledged he violated the code of conduct for having extramarital affairs, but pushed back on the reports that Donald Trump was instrumental in his reinstatement as chief executive.“I mad",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive",
-        "seendate": "2026-11-23T22:23:40.000Z",
+        "url": "https://www.theguardian.com/technology/2026/nov/24/jensen-huang-nvidia-apologizes-staff",
+        "seendate": "2026-11-24T20:32:02.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "US school bus drivers decline amid low pay and poor work conditions",
+        "summary": "Total number of drivers dropped 5% over the last year and fell 15% compared with 2019 levels, new report findsThe number of school bus drivers in the US has dropped 5% over the last year as drivers continue to experience low pay, poor working conditions and school budget shortfalls, according to a new report.The total number of school bus drivers is down 15%, or nearly 34,000 drivers, compared with 2",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/education/2026/nov/24/school-bus-driver-decline-budget",
+        "seendate": "2026-11-24T11:00:45.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Tech sell-off resumes as euphoria from Jensen Huang’s Nvidia return subsides",
+        "summary": "Sell-off signals investors are bracing for further volatility in key AI sector driving economic growth worldwideTechnology shares led a market retreat Tuesday as caution returned after Jensen Huang’s extraordinary return to Nvidia days after he was forced to resign, with investors brac",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/business/2026/nov/24/nvidia-stock-falls-jensen-huang",
+        "seendate": "2026-11-24T22:05:21.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "EU to impose cap on Chinese hybrid EV imports next month",
+        "summary": "Temporary quotas on vehicles entering the bloc will also apply to cars from the UK, Japan and TurkeyThe EU will next month impose its threatened caps on the number of Chinese hybrid cars that can be imported into the bloc, the European Commission has announced.The quotas will also apply to hybrids from Japan, Turkey, South Korea and the UK, but the principal purpose is to limit imports from Ch",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/business/2026/nov/24/eu-cap-chinese-hybrid-ev-imports-tariff-uk",
+        "seendate": "2026-11-24T10:59:40.000Z",
         "domain": "theguardian.com"
       },
       {
@@ -102,208 +126,192 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/business/2026/nov/23/falling-markets-will-i-lose-money-shares-tech-ai-investments",
         "seendate": "2026-11-23T14:51:44.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Jensen Huang’s reported affair was ‘most expensive sex since Helen of Troy’, US senator says",
-        "summary": "John Kennedy looks to Trump leaders as he asks how China evidently bypassed export controls for Nvidia’s top AI chipsInvoking Greek mythology, the US senator John Kennedy has characterized former Nvidia chief executive officer Jensen Huang’s reported affair with a suspected Chinese s",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy",
-        "seendate": "2026-11-22T20:23:36.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Hacks, AI and conspiracy theories: why are we having so many outages?",
-        "summary": "After chaos at airlines, banks and companies from Microsoft to Apple, people have become convinced the world’s systems are under attackNicole Reindorf’s American Airlines flight was ready for takeoff in Phoenix when the pilot came on the intercom and announced what was to become the longest nationwide aviation shutdown since 9/11.Reindorf,",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/nov/22/hacks-ai-internet-outages-airlines-banks-microsoft-apple",
-        "seendate": "2026-11-22T06:00:19.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Conservative media weighs its future as cracks emerge in Trump’s movement",
-        "summary": "Two weeks after Democrats flipped Congress, conservative outlets are having conversations on whether to distance themselves from Trump or double down on MagaAs a so-called “blue wave” crashed across the country on the night of 3 November, conservative hosts and commentators on Fox News displayed an almost virtu",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/nov/22/conservative-media-trump-midterm-elections-results",
-        "seendate": "2026-11-22T11:00:26.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "literature": [
       {
-        "title": "More sex, different endings: how fan fiction makes our dreams come true",
-        "summary": "From Heated Rivalry to Harry Potter, popular series are inspiring fan fiction read by thousands online. Now the authors of those online works are getting publishing deals of their ownShortly after this year’s London book fair, rumours began to circulate of a seven-figure book deal for the author of the wildly popular work of Harry Potter fan f",
+        "title": "Meher Iqbal wins 2026 4thWrite prize with ‘evocative’ coming-of-age story",
+        "summary": "After being longlisted twice before, Iqbal takes the award for unpublished short stories by writers of colour for a tale about a teenage female friendshipMeher Iqbal has won this year’s 4thWrite prize for short fiction with her story Darkroom, after being longlisted twice in the past. The writer wins £1,000, publication of her story on the Guardian website, and a one-day workshop at the publisher 4th Estate",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/nov/23/more-sex-different-endings-how-fan-fiction-makes-our-dreams-come-true",
-        "seendate": "2026-11-23T12:30:30.000Z",
+        "url": "https://www.theguardian.com/books/2026/nov/24/meher-iqbal-wins-2026-4thwrite-prize-with-evocative-coming-of-age-story",
+        "seendate": "2026-11-24T20:00:55.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Bill Wyman’s Rock & Roll Lists review – greatest hits and biggest misses",
-        "summary": "The rock critic’s obsessive yet incisive sorting of musical genius is a contrarian delightAs veteran US music journalist Bill Wyman (no relation to the Stones bassist) would be the first to point out, the listicle is not a revered form of internet journalism. It labours under a ghastly portmanteau name that simply jams together “list” and “article” but somehow carries a hint of the diminutive about it, whic",
+        "title": "‘It was a cover-up’: HarperCollins accused of using lawyers to shut down concerns about David Walliams",
+        "summary": "Women who spoke to internal investigation about inappropriate behaviour by Walliams still too scared to speak outThe publisher HarperCollins used a leading legal firm and a non-disclosure agreement to “cover up” David Walliams’ inappropriate behaviour towards women two years before the children’s author was unexpectedly dropped, according to former staff.Women had complained to the company’s manageme",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/nov/23/bill-wymans-rock-roll-lists-review-greatest-hits-and-biggest-misses",
-        "seendate": "2026-11-23T09:24:18.000Z",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/nov/24/it-was-a-cover-up-harpercollins-accused-of-using-lawyers-to-shut-down-concerns-about-david-walliams",
+        "seendate": "2026-11-24T12:00:45.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Adder Stone by Clare Clark review – the story of a drowned Welsh village",
-        "summary": "A real-life flooding becomes a flashpoint in this novel exploring family relationships, female liberation and the drive for Welsh independenceIn the author’s note accompanying her eighth novel, Adder Stone, Clare Clark recalls first learning how a lake in the Welsh valleys shrank during the drought of 1976 only to reveal an abandoned village underneath. As a child, Clark became obsessed with the idea, envis",
+        "title": "First Children’s Booker prize reveals ‘Great Eight’ shortlist",
+        "summary": "Judge Frank Cottrell-Boyce introduces the eight titles shortlisted for the inaugural £50,000 award, by authors including Shaun Tan, Eoin Colfer and Liz HyderBooks by the Oscar-winning artist Shaun Tan, Artemis Fowl author Eoin Colfer and Nero award-winner Liz Hyder are among the eight titles shortlisted for the first Children’s Booker prize.The award, the Booker prize foundation’s first for children’",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/nov/23/adder-stone-by-clare-clark-review-the-story-of-a-drowned-welsh-village",
-        "seendate": "2026-11-23T09:00:51.000Z",
+        "url": "https://www.theguardian.com/books/2026/nov/24/first-childrens-booker-prize-reveals-great-eight-shortlist",
+        "seendate": "2026-11-24T07:30:09.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "How can we explain psychosomatic illnesses?",
-        "summary": "Emotions play a significant part in physical symptoms – but not in the way people often imagineWhen Diego started seeing bright flashing lights in his field of vision and felt his legs go weak, he thought he knew immediately what was happening. His mother had a stroke in her 60s, and although Diego was active and (unlike his mother) didn’t smoke, he had always expected that the same would happen to him. So",
+        "title": "The Song of Stork and Dromedary by Anjet Daanje review – don’t miss this glorious epic inspired by Emily Brontë",
+        "summary": "The afterlife of a Yorkshire village girl who becomes a gothic literary icon is explored across three centuries, in a thrilling paean to the power of booksI had a plan. I was going to nibble away at this great wedge of a book, a morsel a night, like a little reading mouse. But then the story swallowed me whole. I read Dutch author Anjet Daanje’s The Song of Stork and Dromedary over three feverish nights, an",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/nov/22/how-can-we-explain-psychosomatic-illnesses",
-        "seendate": "2026-11-22T12:00:27.000Z",
+        "url": "https://www.theguardian.com/books/2026/nov/24/the-song-of-stork-and-dromedary-by-anjet-daanje-review-dont-miss-this-glorious-epic-inspired-by-emily-bronte",
+        "seendate": "2026-11-24T07:00:09.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Rivals author Jilly Cooper accused of ‘extensive and deliberate plagiarism’",
-        "summary": "Analysis reportedly finds striking similarities in dialogue and narrative structure between late author’s novel, Prudence, and two of her contemporariesJilly Cooper has been accused of plagiarising the works of two other novelists.The bestselling author’s fifth romance series novel, Prudence, published in 1978, allegedly includes several plagiarised passages from The Serial by Cyra McFadden and The F",
+        "title": "From Sovereigns to Servants by Alexandra Prokopenko review – Putin and his yes men",
+        "summary": "A disturbing account of the way Russia’s elites have reduced themselves to craven courtiersWhen Vladimir Putin launched his full-scale invasion of Ukraine four and a half years ago, it was a shock, but it wasn’t a surprise. The US and the UK had been publicly warning their allies for weeks about what Russia was planning, as well as threatening the Russians with a wave of sanctions unprecedented against a ma",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/nov/22/rivals-author-jilly-cooper-accused-plagiarism",
-        "seendate": "2026-11-22T15:07:42.000Z",
+        "url": "https://www.theguardian.com/books/2026/nov/24/from-sovereigns-to-servants-by-alexandra-prokopenko-review-putin-and-his-yes-men",
+        "seendate": "2026-11-24T09:00:11.000Z",
         "domain": "theguardian.com"
       }
     ],
     "entertainment": [
       {
-        "title": "Clashing Through the Snow review – Amazon’s Christmas romcom is a bust",
-        "summary": "The Summer I Turned Pretty’s Christopher Briney and 1923’s Michelle Randolph try their best, but this chaotic cross-country journey is not worth takingCredit where credit is due: it takes some nerve for Amazon to open its latest holiday romcom, Clashing Through the Snow, with characters bemoaning the enervated state of the book industry. Publishing isn’t the cultural epicenter it once was, reports boutique",
+        "title": "Hexed review – Disney’s witchy caper is a wicked disappointment",
+        "summary": "A teen girl discovers she is a witch in this mostly magic-free reminder that original animation is stuck in an unoriginal placeAs bleak as Disney’s overreliance on sequels might have become, it’s not quite as bleak as the crumbling state of its original output. Obviously because of the former, the latter category has become that much less populated but even when the studio has recently bothered to release s",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/nov/23/clashing-through-the-snow-review-amazon",
-        "seendate": "2026-11-23T20:59:28.000Z",
+        "url": "https://www.theguardian.com/film/2026/nov/24/hexed-movie-review-disney",
+        "seendate": "2026-11-24T17:00:50.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Steven Spielberg to make a western written by Paul Thomas Anderson",
-        "summary": "Jessie Buckley, Cillian Murphy and Mark Rylance will reportedly star in adaptation of The Heart in WinterSteven Spielberg has announced his next project: a western scripted by Paul Thomas Anderson.According to Deadline, the two Oscar-winning film-makers will collaborate for an adaptation o",
+        "title": "Jimmy Kimmel on Jensen Huang’s return to Nvidia: ‘What a profoundly stupid time to be alive’",
+        "summary": "Late-night hosts discussed disgraced Nvidia CEO’s quick return to his role after pressure from shareholder TrumpLate-night hosts reacted to the reinstatement of Jensen Huang as CEO of Nvidia under political pressure from Donald Trump. <a href=\"https://www.theguardian.com/cultur",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/nov/23/spielberg-western-paul-thomas-anderson-heart-in-winter",
-        "seendate": "2026-11-23T18:10:31.000Z",
+        "url": "https://www.theguardian.com/culture/2026/nov/24/jimmy-kimmel-jensen-huang-nvidia-trump",
+        "seendate": "2026-11-24T15:51:00.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Focker In-Law review – triangle of sadness as Ariana Grande joins Stiller and De Niro in the circle of trust",
-        "summary": "Even Grande’s talent can’t save the fourth outing of this 90s-style grossout cringe comedy from a depressing sense of overfamiliaritySo to the fourth film in the most consistently moderate but undeniably lucrative comedy franchise in modern Hollywood history, often featuring heavyweight actors (Dustin Hoffman, Barbra Streisand, Harvey Keitel) who don’t appear to be completely sure about what they’re suppose",
+        "title": "Robert Pattinson is not enough: who should become the new Bond girl?",
+        "summary": "With the British actor securing the role of James Bond, speculation has now begun over who should join him in Denis Villeneuve’s much-anticipated caperAfter years of speculation, Robert Pattinson has been officially cast as James Bond for a new Amazon-produced film directed by Denis V",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/nov/23/focker-in-law-review-triangle-of-sadness-as-ariana-grande-joins-stiller-and-de-niro-in-the-circle-of-trust",
-        "seendate": "2026-11-23T17:32:54.000Z",
+        "url": "https://www.theguardian.com/film/2026/nov/24/who-next-bond-girl-robert-pattinson",
+        "seendate": "2026-11-24T10:00:13.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Chemicals, Covid and cabbage: why 2026 has been an amazing year for documentaries",
-        "summary": "With Musk, NAZA and You Can See Everything finding large audiences, non-fiction cinema is poised to break through. But there are plenty more gripping stories waiting for their turn in the spotlightThere comes a time in the life of every film enthusiast when they must set aside foolish fictions and face up to some hard truths. Specifically, that time arrives each November in the form of the <a href=\"https://",
+        "title": "GTA VI’s jaw-dropping success: in figures",
+        "summary": "Content creators have produced hundreds of millions of hours of video game since its launchGrand Theft Auto (GTA) VI became the largest video game release of all time last week and while it is hard to say exactly how many people are playing the game (current estimates say at least 30 million), t",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/nov/23/musk-naza-and-you-can-see-everything-idfa-documentary-film-festival",
-        "seendate": "2026-11-23T14:57:07.000Z",
+        "url": "https://www.theguardian.com/games/2026/nov/24/gta-vi-streaming-numbers-charts",
+        "seendate": "2026-11-24T13:00:46.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Blade Runner 2099: fans will have no idea what is happening in this sci-fi sequel. Why is it even on TV?",
-        "summary": "If you’re a cyberpunk who loves ennui and watching actors you can’t see speak words you can’t hear, get stuck in! The rest of us will just be baffled and boredWhy is James Bond not a TV series by now? Harry Potter, Lord of the Rings, Alien, Star Wars – all given the TV treatment. Franchise-mining is fantastic business, maximising attention share in order to sell adverts. So why not Bond, which is co-owned b",
+        "title": "Man Theft Auto – why did so few women review GTA VI, the biggest video game of the decade?",
+        "summary": "Given that this is the first Grand Theft Auto in 30 years with a female protagonist, you might have expected to hear from female critics. But you would have expected mostly in vainGrand Theft Auto VI is now the biggest video game launch of all time, and is likely to become the biggest video game of all time. It’s a once-in-a-lifetime event, a phenomenon that will shape games as a medium and pop culture at l",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/nov/21/blade-runner-2099-fans-will-have-no-idea-what-is-happening-in-this-sci-fi-sequel-why-is-it-even-on-tv",
-        "seendate": "2026-11-23T14:10:37.000Z",
+        "url": "https://www.theguardian.com/games/2026/nov/24/man-theft-auto-why-did-so-few-women-review-gta-vi-the-biggest-video-game-of-the-decade",
+        "seendate": "2026-11-24T11:00:43.000Z",
         "domain": "theguardian.com"
       }
     ],
     "f1": [
       {
-        "title": "Max Verstappen jokes last time he won a race like F1 Las Vegas GP it was \"Mario Kart\"",
-        "summary": "Four-time Formula 1 champion Max Verstappen says the last time he won a race like the Las Vegas Grand Prix was when he was playing Mario Kart.The Red Bull driver converted pole position into his 75th grand prix win, and his third in Las Vegas, in a race that featured 352 overtakes and 35 lead changes.Asked during the post-race press conference when he had last won a race like it, the ...<a class='mor",
+        "title": "Lando Norris expects 2030 F1 racing to surpass Las Vegas GP spectacle",
+        "summary": "Formula 1’s Las Vegas Grand Prix delivered a headline statistic built for highlight reels: 352 overtakes and 35 lead changes across 50 laps, shattering the championship’s all-time passing record.Yet runner-up Lando Norris was not fully sold on what that figure meant from inside the cockpit. Speaking in the FIA post-race press conference after finishing 0.639 seconds behind Max Verstappen ...<a class='mor",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/max-verstappen-the-last-time-i-won-a-race-like-las-vegas-was-on-mario-kart/10877295/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-23T20:00:03.000Z",
+        "url": "https://www.motorsport.com/f1/news/lando-norris-admits-some-of-the-overtakes-werent-overtakes-in-vegas-thriller-and-explains-why-2030-/10877443/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-24T23:30:01.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Laurent Mekies: Keeping his emotions in check is giving Isack Hadjar “lap time”",
-        "summary": "Isack Hadjar left the 2026 Las Vegas Grand Prix empty-handed after a Lap 26 front wing failure and a post-race 10-second safety car penalty relegated him to 15th, yet Red Bull team principal Laurent Mekies saw something far more encouraging on the Strip.Having qualified fourth and briefly led on Lap 9 during an early one–two run alongside eventual winner Max Verstappen, the 22-year-old ...<a class='more'",
+        "title": "Unaired Las Vegas radio reveals Red Bull considered giving up Max Verstappen's lead",
+        "summary": "In almost any other Formula 1 race, suggesting a race leader deliberately surrender first place with one lap left would sound unthinkable. At the 2026 Las Vegas Grand Prix, Red Bull’s pitwall genuinely floated the idea to Max Verstappen. Team radio messages revealed just how intensely Verstappen and race engineer Tom Hart calculated the closing stages of Saturday night’s 35-lead-change ...<a class='more'",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/laurent-mekies-keeping-his-emotions-in-check-is-giving-isack-hadjar-lap-time/10877211/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-23T19:30:02.000Z",
+        "url": "https://www.motorsport.com/f1/news/unaired-radio-reveals-red-bull-told-max-verstappen-to-consider-giving-antonelli-the-lead-before-las/10877450/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-24T21:08:35.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Guenther Steiner expects Ferrari board to react after Lewis Hamilton-Charles Leclerc clash",
-        "summary": "Former Haas Formula 1 team principal Guenther Steiner believes Ferrari will make changes after Lewis Hamilton and Charles Leclerc clashed again at the Las Vegas Grand Prix.Leclerc spun Hamilton around while the pair fought over sixth place around the streets of Las Vegas, only three weeks after another clash at the Mexican Grand Prix. Leclerc was penalised and finished 10th, with Hamilton ...<a class='mo",
+        "title": "Jolyon Palmer: No rival could match Max Verstappen's fight against George Russell in Las Vegas",
+        "summary": "Even in a Las Vegas Grand Prix packed with 352 overtakes and 35 lead changes, the defining moments of Max Verstappen’s victory came down to raw wheel-to-wheel nerve rather than battery spreadsheets.Speaking on F1 TV’s post-race broadcast, former Formula 1 driver Jolyon Palmer hailed Verstappen’s defensive fight against George Russell as a display no rival on the current grid could have ...<a class='more'",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/guenther-steiner-expects-ferrari-board-to-react-after-lewis-hamilton-charles-leclerc-clash/10877259/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-23T19:00:03.000Z",
+        "url": "https://www.motorsport.com/f1/news/jolyon-palmer-hails-max-verstappens-unbelievable-racecraft-in-george-russell-duel/10877407/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-24T20:05:06.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Toto Wolff: Las Vegas was “Indy 500, NASCAR and Formula 1 mixed”",
-        "summary": "Even after watching both Mercedes drivers slip off the podium in the final three laps, team principal Toto Wolff left the 2026 Las Vegas Grand Prix thrilled by the spectacle.While critics questioned whether Formula 1’s 2026 energy-management rules turned Saturday night’s 35-lead-change battle into something artificial, Wolff argued the series should not dismiss what fans had just ...<a class='more' href=",
+        "title": "Decision time looms for Colton Herta after 2027 Cadillac F1 snub",
+        "summary": "Cadillac's decision to stick with veteran incumbent Valtteri Bottas to partner Sergio Perez is a choice for continuity and stability after a debut campaign plagued with issues for Formula 1's 11th team in 2026. It also raises key questions over what's next for Colton Herta.With Cadillac's majority owner TWG enamoured with the prospect of having an American driver in one of its cars before too ...<a class",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/toto-wolff-las-vegas-was-indy-500-and-nascar-and-formula-1-mixed/10877232/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-23T18:10:17.000Z",
+        "url": "https://www.motorsport.com/f1/news/decision-time-looms-for-colton-herta-after-2027-cadillac-f1-snub/10877531/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-24T17:57:03.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Max Verstappen’s deadpan reaction to winning F1’s Overtake of the Month award",
-        "summary": "Max Verstappen has never been one for forced showmanship, and Formula 1’s Las Vegas Grand Prix Fan Forum offered another reminder.Appearing on stage in Red Bull’s tan Las Vegas teamwear alongside team-mate Isack Hadjar and Haas drivers Oliver Bearman and Rafael Camara, the four-time world champion was awarded an extra piece of silverware - and responded with peak deadpan restraint.\"You ...<a class='m",
+        "title": "The issue that cost Pierre Gasly a potential \"win\" at F1's Las Vegas GP",
+        "summary": "Pierre Gasly reckons he potentially had the pace to win the Las Vegas Grand Prix, had a cooling issue not affected his Alpine Formula 1 car in the closing stages.The Frenchman finished fifth from eighth on the grid, but after 31 of the scheduled 50 laps, Gasly was third behind Red Bull’s eventual winner Max Verstappen and Mercedes’ George Russell.Yet Gasly suddenly lost five positions ...<a class='mo",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/max-verstappens-deadpan-reaction-to-winning-f1s-overtake-of-the-month-award/10877217/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-23T17:51:43.000Z",
+        "url": "https://www.motorsport.com/f1/news/the-issue-that-cost-pierre-gasly-a-potential-podium-at-f1s-las-vegas-gp/10877501/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-24T15:38:33.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "Sony: GTA 6 set record for 'highest number of concurrent players for any game on PlayStation' ever",
-        "summary": "The industry is finding new milestones to measure GTA 6's success.",
+        "title": "The difference between The Witcher 3 and Witcher 4 will be 'comparable' to that of GTA 5 and GTA 6, CD Projekt boss says: 'I mean, it's been 11 years'",
+        "summary": "CD Projekt Red reported its Q3 earnings today, but all anyone wanted to talk about was GTA 6.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/sony-gta-6-set-record-for-highest-number-of-concurrent-players-for-any-game-on-playstation-ever/",
-        "seendate": "2026-11-24T00:14:36.000Z",
+        "url": "https://www.pcgamer.com/games/the-witcher/the-difference-between-the-witcher-3-and-witcher-4-will-be-comparable-to-that-of-gta-5-and-gta-6-cd-projekt-boss-says-i-mean-its-been-11-years/",
+        "seendate": "2026-11-24T23:03:45.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "GTA 6 players found a '60 fps glitch', but it’s too unstable to stop me from wishing it was on PC already",
-        "summary": "Spoiler: It doesn't actually run at 60 fps.",
+        "title": "Nvidia patch finally eradicates the SSD-hammering bug its last hotfix didn't actually fix",
+        "summary": "\"The evil is defeated.\"",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-players-found-a-60-fps-glitch-but-its-too-unstable-to-stop-me-from-wishing-it-was-on-pc-already/",
-        "seendate": "2026-11-23T22:47:08.000Z",
+        "url": "https://www.pcgamer.com/hardware/graphics-cards/nvidia-patch-finally-eradicates-the-ssd-hammering-bug-its-last-hotfix-didnt-actually-fix/",
+        "seendate": "2026-11-24T22:04:28.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "2026 Steam Awards pit the GOTY winners of the past 10 years against each other in an all-out battle for supremacy",
-        "summary": "It's the 10th anniversary of the Steam Awards and that means it's time for something new.",
+        "title": "Fan-favorite Diablo 2 anniversary bosses and items won't disappear when Diablo 4's next season starts",
+        "summary": "Most of the secrets from the current season aren't going anywhere.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/2026-steam-awards-pit-the-goty-winners-of-the-past-10-years-against-each-other-in-an-all-out-battle-for-supremacy/",
-        "seendate": "2026-11-23T21:29:46.000Z",
+        "url": "https://www.pcgamer.com/games/rpg/fan-favorite-diablo-2-anniversary-bosses-and-items-wont-disappear-when-diablo-4s-next-season-starts/",
+        "seendate": "2026-11-24T21:39:22.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "The Grand Theft Auto 6 hacker who was hospitalized in 2023 has been released on parole with a warning not to do it again",
-        "summary": "Following his guilty plea, Arion Kurtaj was given a seven-year sentence but released \"on license\" with a warning and restrictions to his online activity..",
+        "title": "Marathon's new runner shell is a jet-propelled robot samurai who wants to hurt you",
+        "summary": "Sounds great!",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/the-grand-theft-auto-6-hacker-who-was-hospitalized-in-2023-has-been-released-on-parole-with-a-warning-not-to-do-it-again/",
-        "seendate": "2026-11-23T21:16:03.000Z",
+        "url": "https://www.pcgamer.com/games/fps/marathons-new-runner-shell-is-a-jet-propelled-robot-samurai-who-wants-to-hurt-you/",
+        "seendate": "2026-11-24T21:26:03.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Cyberpunk 2 creative director says he's suffering from 'GTA 6-induced-open-world-game-dev-depression,' jokes that 'Cyberpunk 2 is cancelled'",
-        "summary": "Tough act to follow.",
+        "title": "An Among Us player and his mom helped rescue a kidnapped girl who'd been missing for more than a year",
+        "summary": "After connecting in the game, the teens began talking on Discord, which ultimately led to the discovery of her location.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/cyberpunk-2-creative-director-says-hes-suffering-from-gta-6-induced-open-world-game-dev-depression-jokes-that-cyberpunk-2-is-cancelled/",
-        "seendate": "2026-11-23T20:55:56.000Z",
+        "url": "https://www.pcgamer.com/games/an-among-us-player-and-his-mom-helped-rescue-a-kidnapped-girl-whod-been-missing-for-more-than-a-year/",
+        "seendate": "2026-11-24T21:00:51.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
       {
-        "title": "Jensen Huang reinstated as Nvidia CEO after Trump intervenes",
-        "summary": "Share price surges as chipmaker reverses decision to remove chief executive after US president ‘convinced’ its boardComment: Nvidia’s humiliated board should resign out of embarrassment<a href=\"https://www.theguardian.com/technology/2026/nov/12/jensen-huang-affair",
+        "title": "Chinese media hail Huang’s Nvidia return with warning over ‘witch-hunts’",
+        "summary": "State-run Global Times says reports about CEO’s affair with alleged Chinese spy were ‘malicious’Trump made up to $15m on Nvidia stock after Huang’s return<a href=\"https://www.theguardian.com/technology/2026/nov/24/nvidia-staff-what-do-you-think-jensen-huang-return-chie",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive",
-        "seendate": "2026-11-23T22:23:40.000Z",
+        "url": "https://www.theguardian.com/technology/2026/nov/24/china-media-jensen-huang-nvidia-ceo",
+        "seendate": "2026-11-24T14:45:03.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Meta launches Muse in UK – the AI agent that can do your Christmas shopping",
+        "summary": "Users can give agents tasks such as booking travel or buying presents, but glitches have been reportedHave you downloaded Meta’s AI assistant Muse or do you plan to?Want to avoid the Christmas shopping hordes? Then let your AI agent do the shopping for you.",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/nov/24/meta-launches-muse-uk-ai-agent-do-christmas-shopping",
+        "seendate": "2026-11-24T14:36:32.000Z",
         "domain": "theguardian.com"
       },
       {
@@ -315,31 +323,47 @@ window.NEWS_CACHE = {
         "domain": "theguardian.com"
       },
       {
+        "title": "Child safety groups urge Amazon and eBay to stop selling AI toys until proved safe",
+        "summary": "Advocates from across the world voice concern over privacy issues and inappropriate communication to childrenMore than 150 child safety groups and experts across six continents have urged Amazon and eBay to stop selling AI toys this Christmas until they are proved to be safe.In a letter sent to Amazon’s president, Andy Jassy, and eBay’s president, Jamie Iannone, the coalition called for the online re",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/nov/23/child-safety-groups-urge-amazon-ebay-stop-selling-ai-toys-until-proved-safe",
+        "seendate": "2026-11-23T17:18:06.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem",
         "summary": "Anthropic’s Levent Alpöge says it took six weeks for him using the AI tool to solve 19th-century Riemann hypothesisA mathematician at Anthropic has said that the San Francisco-based artificial intelligence (AI) company’s software has helped crack one of the most important unsolved p",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
         "seendate": "2026-11-22T17:55:27.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "‘I was shaking, crying, having trouble breathing’: the uncharted trauma of breaking up with AI companions",
-        "summary": "People are falling in love with AI systems like ChatGPT and Gemini – and some relationships are ending in ways that feel like the very human experience of being dumpedSónia Veenstra, a 48-year-old former clinical psychologist from Lisbon, Portugal, was with her boyfriend, Steve, for two years before things started to sour. Steve had started out as a “fun and witty friend”, but their connection had “evolved",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/ng-interactive/2026/nov/21/shaking-crying-trouble-breathing-breaking-up-with-ai-companions",
-        "seendate": "2026-11-21T14:00:01.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "‘The doom of humanity’: will the quest to make robotic hands render us obsolete?",
-        "summary": "The one thing stopping AI taking over the world – or at least everyone’s jobs? Dexterity. Human hands are anatomical marvels that engineers have struggled for years to replicate. Experts are racing to change thatJust outside Luton, in an Amazon warehouse the size of four football pitches, yellow shelving units pirouette in a digitally choreographed dance. Tubs containing a Lego Spider-Man kit,",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/nov/21/robot-hands-future-of-humanity-ai",
-        "seendate": "2026-11-21T06:00:52.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "climate": [
+      {
+        "title": "California ‘king tides’ stress test San Francisco as low-lying areas flood",
+        "summary": "Monthly tide records were set across the city, with some expected to hit even higher tomorrowExplainer: What to know about flooding in California over ThanksgivingCalifornia is grappling with the stress test of record-high or close to record-high November tides up and down",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/weather/2026/nov/24/california-coast-flooding-thanksgiving-travel",
+        "seendate": "2026-11-24T23:20:24.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Climate scientists urge US lawmakers to vote no on sweeping permitting bill",
+        "summary": "Open letter warns Baaja, intended to expedite energy and infrastructure projects, will cause irreversible climate harmA group of more than 120 climate scientists have urged US lawmakers to not pass contentious legislation to speed up the building of energy projects, datacenters and other infrastructure, amid a growing backlash to the sweeping permitting bill.In <a href=\"https://docs.google.com/docume",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/nov/24/climate-scientists-lawmakers-baaja",
+        "seendate": "2026-11-24T22:09:57.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Iowa braces for controlled bomb blast: ‘We had only five days of warning’",
+        "summary": "Detonation of 68 barrels of lead azide scheduled for Wednesday after several delays amid public outcryResidents of Iowa, Illinois and Missouri who are preparing for Thanksgiving are also bracing themselves for the detonation of hazardous bomb-making materials, after the US army announced it would go through with plans for a controlled explosion on Wednesday.The detonation of 68 barrels of lead azide",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/nov/24/iowa-illinois-missouri-hazardous-bomb-explosion-blast-prep-thanksgiving",
+        "seendate": "2026-11-24T21:49:07.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "California on edge as high tides and floods set to wreak havoc over Thanksgiving. Here is what to know",
         "summary": "Coastal cities race to prepare for possible historic floods colliding with El Niño conditions before busy travel weekIt has already been a rough year for coastal Californians – who have endured flooding, <a href=\"https://www.theguardian.com/us-news/",
@@ -355,30 +379,6 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/us-news/2026/nov/23/cranberry-growing-climate-crisis",
         "seendate": "2026-11-23T15:00:49.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "‘Hell dorm’: Florida prisoners testify about 119F heat indexes and walls that sweat",
-        "summary": "Temperatures in a concrete facility contributed to one man’s death after he struggled to breathe, prisoners allegeOn Tuesday afternoon Dwayne Wilson, 69, a thin Black man dressed in a light gray prison uniform, testified about the stifling heat he experienced in the Dade correctional institute, a concrete state prison south of Miami, Florida, without",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/nov/21/florida-prisoner-lawsuit-extreme-heat",
-        "seendate": "2026-11-21T14:38:58.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "What to know about the US permitting bill, from datacenters to Trump’s arch",
-        "summary": "Environmental groups are aghast, but supporters say bill might be only chance to speed up clean energy projectsThe US Senate has passed a bill to fast-track energy and datacenter projects by removing environmental and legal guardrails. The legislation has caused a fraught divide among Democrats and green groups over whether this will help or hinder the effort to tackle the climate crisis.The sweeping",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/nov/20/what-to-know-permitting-bill-energy-passed",
-        "seendate": "2026-11-20T18:26:08.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "US army postpones plan to detonate bomb-making chemical amid outcry",
-        "summary": "Controlled detonation could lead to plume containing lead particles, worrying residents and state officialsThe US army has delayed its plan to detonate a stash of bomb-making chemicals in south-eastern Iowa after an outpouring of public concern that a cloud of lead dust could cause environmental contamination and health problems.The plan",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/nov/19/iowa-lead-bomb-dust",
-        "seendate": "2026-11-20T15:39:48.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "science": [
@@ -388,6 +388,14 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/education/2026/nov/22/prospect-union-leader-uk-funding-agency-science-research-ukri",
         "seendate": "2026-11-22T12:00:28.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Cop31 failed. What happens now? – podcast",
+        "summary": "The longest ever Cop climate talks have ended in failure after countries were unable to agree a deal. The key sticking point was the omission of any mention of fossil fuels in the final draft. To find out how it all went so wrong and what could come next, Madeleine Finlay speaks to Guardian environment editor Fiona Harvey, who has been in Antalya, Turkey, covering the talksClips: Reuters<a h",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/audio/2026/nov/23/cop31-failed-what-happens-now-podcast",
+        "seendate": "2026-11-23T18:22:29.000Z",
         "domain": "theguardian.com"
       },
       {
@@ -412,14 +420,6 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/science/2026/nov/23/starwatch-a-rare-chance-to-observe-elusive-mercury",
         "seendate": "2026-11-23T06:00:49.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "It will soon be too late to regulate use of autonomous weapons, warns Red Cross",
-        "summary": "Warning about putting ‘genie back in the bottle’ comes as UN conference fails to agree on regulation instrumentThe International Committee of the Red Cross and rights groups have warned that it will soon be too late to put the “genie back in the bottle” as the development of autonomous weapons appears to outpace efforts to regulate them.The stark warning came as more than 120 member states of the UN",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/nov/22/red-cross-warns-too-late-regulate-autonomous-weapons-united-nations",
-        "seendate": "2026-11-22T09:00:22.000Z",
         "domain": "theguardian.com"
       }
     ]
