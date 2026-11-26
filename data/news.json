@@ -1,8 +1,32 @@
 {
-  "generatedAt": "2026-11-25T05:07:47.232Z",
+  "generatedAt": "2026-11-26T04:34:18.939Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
+      {
+        "title": "At least 31 killed as fuel tanker crash ignites large fire on Cairo highway",
+        "summary": "Blaze on ring road surrounding Egyptian capital injures at least 21 people and leaves cars and motorcycles charredA crash involving a fuel tanker ignited a huge fire on a highway surrounding Cairo on Wednesday, killing at least 31 people, Egyptian authorities said.The blaze on the ring road, a key artery that encircles the Egyptian capital, also injured at least 21 people and left more than two dozen",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway",
+        "seendate": "2026-11-26T00:39:10.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Swiss tourist killed and British and Americans injured by elephants in Cameroon",
+        "summary": "Alain Throo, insurance executive based in London, reportedly gored and later died on hike near Mount Cameroon national parkA Swiss tourist has been killed and British and American tourists have been injured when a group of hikers encountered a herd of elephants in Cameroon.The group of six tourists, four British, one Swiss and one American, accompanied by local guides, were hiking near the village of",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/environment/2026/nov/25/swiss-tourist-killed-british-americans-injured-elephants-cameroon",
+        "seendate": "2026-11-25T14:03:18.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Sri Lankan asylum seeker killed himself after being sent by UK to Eswatini",
+        "summary": "Kishanth Peramalya was denied entry due to sexual assault convictions and sent to Africa where he had no connectionsThe UK sent a Sri Lankan asylum seeker who had been convicted of sexual assault to Eswatini, a southern African country to which he had no connection and where he killed himself.Kishanth Peramalya was part of a group that set sail from India hoping to reach Canada and claim asylum there",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/25/sri-lanka-asylum-seeker-convicted-sexual-assault-uk-kills-himself-eswatini",
+        "seendate": "2026-11-25T11:28:05.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "More than 300 Russians killed as Moscow props up Mali’s junta, leaked data reveals",
         "summary": "Exclusive: Records list 349 deaths in three years in Mali and also shed light on Russia’s military activity elsewhere in AfricaWhen the attack on Kidal began before dawn on 25 April this year, the Russian fighters were caught off guard. Within the first hour, checkpoints on the outskirts of the remote desert city nestled among the rocky hills of northern Mali had fallen to the insurgents, who pushed towards",
@@ -17,35 +41,35 @@
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya",
         "seendate": "2026-11-23T11:42:51.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack",
-        "summary": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to RussiaA Russian warship docked in the Libyan port city of Benghazi was struck in the early hours of Sunday in a suspected Ukrainian sea drone attack, causing a dramatic night-time explosion and the sinking of the vessel.The strike severely damaged the Merkury, a Russian navy corvette that had stopped t",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
-        "seendate": "2026-11-22T21:33:44.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "California’s coastal communities on alert as biggest waves in years hit state",
-        "summary": "Hazard warnings issued throughout week after powerful swells and waves of more than 9 metres recordedMultiple coastal hazard warnings were issued this week across California as successive areas of low pressure generated powerful swells and large breaking waves for coastal communities. Beaches and piers were closed last weekend as large waves crashed into California’s coastline. Offshore National Oceanic and",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/nov/20/california-coastal-communities-alert-big-waves-hit-state",
-        "seendate": "2026-11-20T09:03:20.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Race to replant five South African baobabs after export blocked",
-        "summary": "The trees, intended for an unnamed buyer in Georgia, were reportedly dug up without the necessary permitsEnvironmentalists in South Africa are racing to replant five centuries-old baobabs after the 20-tonne trees were dug up by an exporter, who tried to ship them thousands of miles to Georgia.The baobabs arrived at a reserve in Timbavati, in north-eastern South Africa, on Wednesday, where they will b",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/2026/nov/19/baobab-five-trees-south-africa-dug-up-export-blocked-georgia-aoe",
-        "seendate": "2026-11-19T11:03:24.000Z",
         "domain": "theguardian.com"
       }
     ],
     "conflict": [
       {
+        "title": "At least 31 killed as fuel tanker crash ignites large fire on Cairo highway",
+        "summary": "Blaze on ring road surrounding Egyptian capital injures at least 21 people and leaves cars and motorcycles charredA crash involving a fuel tanker ignited a huge fire on a highway surrounding Cairo on Wednesday, killing at least 31 people, Egyptian authorities said.The blaze on the ring road, a key artery that encircles the Egyptian capital, also injured at least 21 people and left more than two dozen",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway",
+        "seendate": "2026-11-26T00:39:10.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Swiss tourist killed and British and Americans injured by elephants in Cameroon",
+        "summary": "Alain Throo, insurance executive based in London, reportedly gored and later died on hike near Mount Cameroon national parkA Swiss tourist has been killed and British and American tourists have been injured when a group of hikers encountered a herd of elephants in Cameroon.The group of six tourists, four British, one Swiss and one American, accompanied by local guides, were hiking near the village of",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/environment/2026/nov/25/swiss-tourist-killed-british-americans-injured-elephants-cameroon",
+        "seendate": "2026-11-25T14:03:18.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Sri Lankan asylum seeker killed himself after being sent by UK to Eswatini",
+        "summary": "Kishanth Peramalya was denied entry due to sexual assault convictions and sent to Africa where he had no connectionsThe UK sent a Sri Lankan asylum seeker who had been convicted of sexual assault to Eswatini, a southern African country to which he had no connection and where he killed himself.Kishanth Peramalya was part of a group that set sail from India hoping to reach Canada and claim asylum there",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/25/sri-lanka-asylum-seeker-convicted-sexual-assault-uk-kills-himself-eswatini",
+        "seendate": "2026-11-25T11:28:05.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "More than 300 Russians killed as Moscow props up Mali’s junta, leaked data reveals",
         "summary": "Exclusive: Records list 349 deaths in three years in Mali and also shed light on Russia’s military activity elsewhere in AfricaWhen the attack on Kidal began before dawn on 25 April this year, the Russian fighters were caught off guard. Within the first hour, checkpoints on the outskirts of the remote desert city nestled among the rocky hills of northern Mali had fallen to the insurgents, who pushed towards",
         "source": "theguardian.com",
@@ -60,36 +84,36 @@
         "url": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya",
         "seendate": "2026-11-23T11:42:51.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack",
-        "summary": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to RussiaA Russian warship docked in the Libyan port city of Benghazi was struck in the early hours of Sunday in a suspected Ukrainian sea drone attack, causing a dramatic night-time explosion and the sinking of the vessel.The strike severely damaged the Merkury, a Russian navy corvette that had stopped t",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
-        "seendate": "2026-11-22T21:33:44.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "California’s coastal communities on alert as biggest waves in years hit state",
-        "summary": "Hazard warnings issued throughout week after powerful swells and waves of more than 9 metres recordedMultiple coastal hazard warnings were issued this week across California as successive areas of low pressure generated powerful swells and large breaking waves for coastal communities. Beaches and piers were closed last weekend as large waves crashed into California’s coastline. Offshore National Oceanic and",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/nov/20/california-coastal-communities-alert-big-waves-hit-state",
-        "seendate": "2026-11-20T09:03:20.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Race to replant five South African baobabs after export blocked",
-        "summary": "The trees, intended for an unnamed buyer in Georgia, were reportedly dug up without the necessary permitsEnvironmentalists in South Africa are racing to replant five centuries-old baobabs after the 20-tonne trees were dug up by an exporter, who tried to ship them thousands of miles to Georgia.The baobabs arrived at a reserve in Timbavati, in north-eastern South Africa, on Wednesday, where they will b",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/2026/nov/19/baobab-five-trees-south-africa-dug-up-export-blocked-georgia-aoe",
-        "seendate": "2026-11-19T11:03:24.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "economy": [
       {
+        "title": "Trump proposing new tariffs on 14 partners including China and EU",
+        "summary": "Administration is suggesting an added 20% tax on Chinese imports, which would bring the total to about 40%US politics live – latest updatesDonald Trump is propos",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/nov/25/trump-new-china-tariffs-europe",
+        "seendate": "2026-11-25T14:59:44.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Judge blocks Brendan Carr-led FCC from taking any further action against ABC’s licenses",
+        "summary": "Federal judge Loren L AliKhan grants preliminary injunction in ABC’s favor after network sued FCC in AugustThe federal judge Loren L AliKhan on Wednesday granted a preliminary injunction blocking the Brendan Carr-led Federal Communications Commission (FCC) from taking any action curbing ABC’s ability to renew its broadcast licenses, after the network <a href=\"https://www.theguardian.com/us-news/2026/aug/18/",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/nov/25/brendan-carr-fcc-abc-licenses",
+        "seendate": "2026-11-26T02:52:47.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "US inflation hits highest since May after prices climb 3.8% over the last year",
+        "summary": "Rise occurs amid soaring energy prices, according to last inflation reading before a crucial Fed board meetingThe sell-off in US tech stocks continued on Wednesday as investors reacted to continued concern over the AI trade and fresh data that showed inflation jumped in October.The tech-heavy <a href=\"https://www.theguardian.com/business/na",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/business/2026/nov/25/consumer-prices-september-october-energy-inflation",
+        "seendate": "2026-11-25T15:46:15.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Nvidia CEO Jensen Huang apologizes to staff: ‘I made some terrible mistakes’",
-        "summary": "Huang acknowledges he violated code of conduct by having affairs, but denied Trump was instrumental in his returnJensen Huang apologized to staff on Tuesday for the tumult he’s caused at Nvidia. The company’s CEO acknowledged he violated the code of conduct for having extramarital affairs, but pushed back on the reports that Donald Trump was instrumental in his reinstatement as chief executive.“I mad",
+        "summary": "Huang acknowledges he violated code of conduct by having affairs, but denied Trump was instrumental in his returnJensen Huang apologized to staff on Tuesday for the tumult he has caused at Nvidia. The company’s CEO acknowledged he violated the code of conduct for having extramarital affairs, but pushed back on the reports that Donald Trump was instrumental in his reinstatement as chief executive.“I m",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/technology/2026/nov/24/jensen-huang-nvidia-apologizes-staff",
         "seendate": "2026-11-24T20:32:02.000Z",
@@ -102,324 +126,300 @@
         "url": "https://www.theguardian.com/education/2026/nov/24/school-bus-driver-decline-budget",
         "seendate": "2026-11-24T11:00:45.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Tech sell-off resumes as euphoria from Jensen Huang’s Nvidia return subsides",
-        "summary": "Sell-off signals investors are bracing for further volatility in key AI sector driving economic growth worldwideTechnology shares led a market retreat Tuesday as caution returned after Jensen Huang’s extraordinary return to Nvidia days after he was forced to resign, with investors brac",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/nov/24/nvidia-stock-falls-jensen-huang",
-        "seendate": "2026-11-24T22:05:21.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "EU to impose cap on Chinese hybrid EV imports next month",
-        "summary": "Temporary quotas on vehicles entering the bloc will also apply to cars from the UK, Japan and TurkeyThe EU will next month impose its threatened caps on the number of Chinese hybrid cars that can be imported into the bloc, the European Commission has announced.The quotas will also apply to hybrids from Japan, Turkey, South Korea and the UK, but the principal purpose is to limit imports from Ch",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/nov/24/eu-cap-chinese-hybrid-ev-imports-tariff-uk",
-        "seendate": "2026-11-24T10:59:40.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Wild stock market swings: will I lose money, and is there anything I can do?",
-        "summary": "Shares are volatile amid jitters over tech and AI – but think carefully before you decide to ditch investments tooIt has been a volatile time on global stock markets, with rapid rallies and punishing sell-offs. There have been signs in recent weeks that investors are getting cold feet over the outlook for AI companies and selling off technology stocks.Last week, the <a href=\"https://www.theguardian.c",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/nov/23/falling-markets-will-i-lose-money-shares-tech-ai-investments",
-        "seendate": "2026-11-23T14:51:44.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "literature": [
       {
-        "title": "Meher Iqbal wins 2026 4thWrite prize with ‘evocative’ coming-of-age story",
-        "summary": "After being longlisted twice before, Iqbal takes the award for unpublished short stories by writers of colour for a tale about a teenage female friendshipMeher Iqbal has won this year’s 4thWrite prize for short fiction with her story Darkroom, after being longlisted twice in the past. The writer wins £1,000, publication of her story on the Guardian website, and a one-day workshop at the publisher 4th Estate",
+        "title": "Patrick Radden Keefe’s London Falling named Waterstones book of the year",
+        "summary": "The word-of-mouth success of the journalist’s investigation into the death of a London teenager is ‘one of the defining features of the literary year’London Falling, Patrick Radden Keefe’s bestselling investigation into the mysterious death of a London teenager, has been named Waterstones book of the year.The book follows the parents of Zac Brettler, a 19-year-old who fell from the balcony of a luxur",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/nov/24/meher-iqbal-wins-2026-4thwrite-prize-with-evocative-coming-of-age-story",
-        "seendate": "2026-11-24T20:00:55.000Z",
+        "url": "https://www.theguardian.com/books/2026/nov/26/patrick-radden-keefes-london-falling-named-waterstones-book-of-the-year",
+        "seendate": "2026-11-26T00:01:39.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "‘It was a cover-up’: HarperCollins accused of using lawyers to shut down concerns about David Walliams",
-        "summary": "Women who spoke to internal investigation about inappropriate behaviour by Walliams still too scared to speak outThe publisher HarperCollins used a leading legal firm and a non-disclosure agreement to “cover up” David Walliams’ inappropriate behaviour towards women two years before the children’s author was unexpectedly dropped, according to former staff.Women had complained to the company’s manageme",
+        "title": "The 4thWrite short story prize winner – a tale of teenage girlhood",
+        "summary": "Read Darkroom by Meher Iqbal – this year’s winner of the Guardian and publisher 4th Estate’s award for unpublished writers of colourMeher Iqbal wins 2026 4thWrite prize with ‘evocative’ coming-of-age story• Content warning: This story includes a des",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/nov/24/it-was-a-cover-up-harpercollins-accused-of-using-lawyers-to-shut-down-concerns-about-david-walliams",
-        "seendate": "2026-11-24T12:00:45.000Z",
+        "url": "https://www.theguardian.com/books/2026/nov/25/the-4thwrite-short-story-prize-winner-a-tale-of-teenage-girlhood",
+        "seendate": "2026-11-25T13:00:27.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "First Children’s Booker prize reveals ‘Great Eight’ shortlist",
-        "summary": "Judge Frank Cottrell-Boyce introduces the eight titles shortlisted for the inaugural £50,000 award, by authors including Shaun Tan, Eoin Colfer and Liz HyderBooks by the Oscar-winning artist Shaun Tan, Artemis Fowl author Eoin Colfer and Nero award-winner Liz Hyder are among the eight titles shortlisted for the first Children’s Booker prize.The award, the Booker prize foundation’s first for children’",
+        "title": "Tell us: what have you been reading this month?",
+        "summary": "We would like to hear about the books you’ve particularly enjoyed this monthAs part of The Guardian’s “what we’re reading” series, we would like to hear about the books you’ve particularly enjoyed this month.Have you read a book in recent weeks – fiction or non-fiction – that you’d recommend? Tell us all about it below. <a",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/nov/24/first-childrens-booker-prize-reveals-great-eight-shortlist",
-        "seendate": "2026-11-24T07:30:09.000Z",
+        "url": "https://www.theguardian.com/books/2022/feb/23/tell-us-what-have-you-been-reading-this-month",
+        "seendate": "2026-11-25T13:02:28.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "The Song of Stork and Dromedary by Anjet Daanje review – don’t miss this glorious epic inspired by Emily Brontë",
-        "summary": "The afterlife of a Yorkshire village girl who becomes a gothic literary icon is explored across three centuries, in a thrilling paean to the power of booksI had a plan. I was going to nibble away at this great wedge of a book, a morsel a night, like a little reading mouse. But then the story swallowed me whole. I read Dutch author Anjet Daanje’s The Song of Stork and Dromedary over three feverish nights, an",
+        "title": "Secrets by Bob Woodward review – the world’s most famous reporter reveals all",
+        "summary": "The journalist who helped bring down Nixon on false starts, Watergate, and the art of cultivating a source‘I have always disliked the term ‘investigative reporter’.” So writes Bob Woodward, one of the most celebrated reporters of our time – the man whose Watergate reporting with Carl Bernstein undoubtedly changed the US presidency and journalism itself for ever. His longtime boss, the Washington Post </",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/nov/24/the-song-of-stork-and-dromedary-by-anjet-daanje-review-dont-miss-this-glorious-epic-inspired-by-emily-bronte",
-        "seendate": "2026-11-24T07:00:09.000Z",
+        "url": "https://www.theguardian.com/books/2026/nov/25/secrets-by-bob-woodward-with-claire-mcmullen-review-the-worlds-most-famous-reporter-reveals-all",
+        "seendate": "2026-11-25T07:00:08.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "From Sovereigns to Servants by Alexandra Prokopenko review – Putin and his yes men",
-        "summary": "A disturbing account of the way Russia’s elites have reduced themselves to craven courtiersWhen Vladimir Putin launched his full-scale invasion of Ukraine four and a half years ago, it was a shock, but it wasn’t a surprise. The US and the UK had been publicly warning their allies for weeks about what Russia was planning, as well as threatening the Russians with a wave of sanctions unprecedented against a ma",
+        "title": "Vaim Hotel by Jon Fosse review – not your typical ghost story",
+        "summary": "The Norwegian Nobel laureate’s sequel to Vaim explores what happens when a man is stripped of everything that tells him who he isVery strange things happen in Jon Fosse’s 2025 novel Vaim. A man meets a woman he secretly loved in his youth while running an errand in a nearby town",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/nov/24/from-sovereigns-to-servants-by-alexandra-prokopenko-review-putin-and-his-yes-men",
-        "seendate": "2026-11-24T09:00:11.000Z",
+        "url": "https://www.theguardian.com/books/2026/nov/25/vaim-hotel-by-jon-fosse-review-not-your-typical-ghost-story",
+        "seendate": "2026-11-25T09:00:10.000Z",
         "domain": "theguardian.com"
       }
     ],
     "entertainment": [
       {
-        "title": "Hexed review – Disney’s witchy caper is a wicked disappointment",
-        "summary": "A teen girl discovers she is a witch in this mostly magic-free reminder that original animation is stuck in an unoriginal placeAs bleak as Disney’s overreliance on sequels might have become, it’s not quite as bleak as the crumbling state of its original output. Obviously because of the former, the latter category has become that much less populated but even when the studio has recently bothered to release s",
+        "title": "Andy Taylor, guitarist in Duran Duran, dies aged 65",
+        "summary": "Musician who had huge 1980s chart success had been diagnosed with prostate cancer in 2018Andy Taylor, the guitarist with 80s pop megastars Duran Duran, has died aged 65.He had been diagnosed with stage four metastatic prostate cancer in 2018, which he disclosed publicly in 2022 when Duran Duran were about to be inducted into the Rock and Roll Hall of Fame. <a href=\"https://www.theguardian.com/mus",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/nov/24/hexed-movie-review-disney",
-        "seendate": "2026-11-24T17:00:50.000Z",
+        "url": "https://www.theguardian.com/music/2026/nov/25/andy-taylor-duran-duran-guitarist-dead",
+        "seendate": "2026-11-25T21:41:34.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Jimmy Kimmel on Jensen Huang’s return to Nvidia: ‘What a profoundly stupid time to be alive’",
-        "summary": "Late-night hosts discussed disgraced Nvidia CEO’s quick return to his role after pressure from shareholder TrumpLate-night hosts reacted to the reinstatement of Jensen Huang as CEO of Nvidia under political pressure from Donald Trump. <a href=\"https://www.theguardian.com/cultur",
+        "title": "Grand Theft Auto VI: The Album review – even GTA sceptics will warm to this zeitgeisty, star-packed soundtrack",
+        "summary": "(Atlantic)Justice bring some 80s nostalgia but this compilation of new material from music’s A-list – from Dua Lipa to Travis Scott and a host of Latin talent – stays at the cutting edgeIt can be hard to ascertain why Grand Theft Auto VI is such a phenomenon from merely watc",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/culture/2026/nov/24/jimmy-kimmel-jensen-huang-nvidia-trump",
-        "seendate": "2026-11-24T15:51:00.000Z",
+        "url": "https://www.theguardian.com/music/2026/nov/25/grand-theft-auto-vi-the-album-review",
+        "seendate": "2026-11-25T17:50:18.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Robert Pattinson is not enough: who should become the new Bond girl?",
-        "summary": "With the British actor securing the role of James Bond, speculation has now begun over who should join him in Denis Villeneuve’s much-anticipated caperAfter years of speculation, Robert Pattinson has been officially cast as James Bond for a new Amazon-produced film directed by Denis V",
+        "title": "Jimmy Kimmel: ‘America is running like the security system at Jurassic Park’",
+        "summary": "Late-night hosts discussed dysfunction in the US while also revisiting the ongoing Nvidia scandalLate-night hosts continued to express confusion over the handling of the Nvidia scandal while looking at the many other problems created by the Trump administration. Continue reading...",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/nov/24/who-next-bond-girl-robert-pattinson",
-        "seendate": "2026-11-24T10:00:13.000Z",
+        "url": "https://www.theguardian.com/culture/2026/nov/25/jimmy-kimmel-nvidia-jensen-huang",
+        "seendate": "2026-11-25T15:59:59.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "GTA VI’s jaw-dropping success: in figures",
-        "summary": "Content creators have produced hundreds of millions of hours of video game since its launchGrand Theft Auto (GTA) VI became the largest video game release of all time last week and while it is hard to say exactly how many people are playing the game (current estimates say at least 30 million), t",
+        "title": "‘I needed to purge it out of me’: the shocking true story behind harrowing drama Josephine",
+        "summary": "Writer-director Beth de Araújo witnessed a brutal sexual assault as a child and has turned her experience into one of the year’s most powerful moviesThe film-maker Beth de Araújo likens the personal experience that inspired Josephine, her disquieting second feature, to a slow-acting poison. Early one Saturday morning when she was eight years old, Araújo and her father were playing soccer in Golden Gate Park",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/games/2026/nov/24/gta-vi-streaming-numbers-charts",
-        "seendate": "2026-11-24T13:00:46.000Z",
+        "url": "https://www.theguardian.com/film/2026/nov/25/josephine-movie-true-story",
+        "seendate": "2026-11-25T10:00:13.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Man Theft Auto – why did so few women review GTA VI, the biggest video game of the decade?",
-        "summary": "Given that this is the first Grand Theft Auto in 30 years with a female protagonist, you might have expected to hear from female critics. But you would have expected mostly in vainGrand Theft Auto VI is now the biggest video game launch of all time, and is likely to become the biggest video game of all time. It’s a once-in-a-lifetime event, a phenomenon that will shape games as a medium and pop culture at l",
+        "title": "The Fox review – talking animals are the least weird thing in this delightfully peculiar comedy",
+        "summary": "Dario Russo’s debut feature is Brothers Grimm meets Yorgos Lanthimos, with a standout cast including Olivia Colman, Sam Neill and Emily BrowningThe vibe of writer-director Dario Russo’s delightfully peculiar feature debut is “messed-up fairytale”, pitched somewhere between the Brothers Grimm and Yorgos Lanthimos, with a distinctly Australian je ne sais quoi.Russo is perhaps best known for co",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/games/2026/nov/24/man-theft-auto-why-did-so-few-women-review-gta-vi-the-biggest-video-game-of-the-decade",
-        "seendate": "2026-11-24T11:00:43.000Z",
+        "url": "https://www.theguardian.com/film/2026/nov/26/the-fox-australian-movie-review-olivia-colman-sam-neill-dario-russo-emily-browning-jai-courtney",
+        "seendate": "2026-11-25T14:00:29.000Z",
         "domain": "theguardian.com"
       }
     ],
     "f1": [
       {
-        "title": "Lando Norris expects 2030 F1 racing to surpass Las Vegas GP spectacle",
-        "summary": "Formula 1’s Las Vegas Grand Prix delivered a headline statistic built for highlight reels: 352 overtakes and 35 lead changes across 50 laps, shattering the championship’s all-time passing record.Yet runner-up Lando Norris was not fully sold on what that figure meant from inside the cockpit. Speaking in the FIA post-race press conference after finishing 0.639 seconds behind Max Verstappen ...<a class='mor",
+        "title": "Fred Vasseur backs FIA ruling after Charles Leclerc's Las Vegas clash with Lewis Hamilton",
+        "summary": "Formula 1 team bosses usually rush to soften the blow when stewards penalise one of their drivers. After Charles Leclerc clipped Lewis Hamilton into a spin at Turn 7 during the 2026 Las Vegas Grand Prix, Ferrari team principal Fred Vasseur took the opposite approach - endorsing the FIA’s ruling and leaving no doubt over where responsibility lay. Speaking to F1 TV after a bruised night in ...<a class='mor",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/lando-norris-admits-some-of-the-overtakes-werent-overtakes-in-vegas-thriller-and-explains-why-2030-/10877443/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-24T23:30:01.000Z",
+        "url": "https://www.motorsport.com/f1/news/fred-vasseur-refuses-to-shield-leclerc-over-hamilton-collision-the-decision-of-the-fia-was-quite-cl/10877483/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-26T01:30:02.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Unaired Las Vegas radio reveals Red Bull considered giving up Max Verstappen's lead",
-        "summary": "In almost any other Formula 1 race, suggesting a race leader deliberately surrender first place with one lap left would sound unthinkable. At the 2026 Las Vegas Grand Prix, Red Bull’s pitwall genuinely floated the idea to Max Verstappen. Team radio messages revealed just how intensely Verstappen and race engineer Tom Hart calculated the closing stages of Saturday night’s 35-lead-change ...<a class='more'",
+        "title": "Nico Rosberg rules George Russell out of 2027 F1 title fight: “Dug himself into a mental hole”",
+        "summary": "George Russell entered the 2026 Formula 1 campaign looking every bit like Mercedes’ undisputed leader. Nine months later, former Silver Arrows world champion Nico Rosberg does not even consider the 28-year-old a championship contender for next season. Speaking to German outlet Sport Bild, Rosberg predicted no quick rebound for Russell in 2027 - placing defending champion Kimi Antonelli, Max ...<a class='",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/unaired-radio-reveals-red-bull-told-max-verstappen-to-consider-giving-antonelli-the-lead-before-las/10877450/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-24T21:08:35.000Z",
+        "url": "https://www.motorsport.com/f1/news/nico-rosberg-rules-george-russell-out-of-2027-f1-title-fight-he-dug-himself-into-a-mental-hole/10877719/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-26T00:30:03.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Jolyon Palmer: No rival could match Max Verstappen's fight against George Russell in Las Vegas",
-        "summary": "Even in a Las Vegas Grand Prix packed with 352 overtakes and 35 lead changes, the defining moments of Max Verstappen’s victory came down to raw wheel-to-wheel nerve rather than battery spreadsheets.Speaking on F1 TV’s post-race broadcast, former Formula 1 driver Jolyon Palmer hailed Verstappen’s defensive fight against George Russell as a display no rival on the current grid could have ...<a class='more'",
+        "title": "Ralf Schumacher sees echoes of Lewis Hamilton's Nico Rosberg \"mind games\" after Las Vegas",
+        "summary": "Stewards and Ferrari team principal Fred Vasseur placed the blame for the Scuderia’s latest intra-team collision on Charles Leclerc. Former Formula 1 driver Ralf Schumacher, however, believes the real power play at Maranello is coming from the other side of the garage. Speaking on Sky Sports Germany’s Backstage Boxengasse podcast, as reported by German outlet sport.de, the 51-year-old ...<a class='more'",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/jolyon-palmer-hails-max-verstappens-unbelievable-racecraft-in-george-russell-duel/10877407/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-24T20:05:06.000Z",
+        "url": "https://www.motorsport.com/f1/news/ralf-schumacher-says-lewis-hamilton-wants-ferraris-no-1-power-by-any-means-necessary-after-leclerc-/10877712/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-25T23:30:05.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Decision time looms for Colton Herta after 2027 Cadillac F1 snub",
-        "summary": "Cadillac's decision to stick with veteran incumbent Valtteri Bottas to partner Sergio Perez is a choice for continuity and stability after a debut campaign plagued with issues for Formula 1's 11th team in 2026. It also raises key questions over what's next for Colton Herta.With Cadillac's majority owner TWG enamoured with the prospect of having an American driver in one of its cars before too ...<a class",
+        "title": "Max Verstappen admits he would “rather stay at home” ahead of Qatar and Abu Dhabi",
+        "summary": "Formula 1’s paddock is touching down in Doha for the penultimate round of the 2026 championship, yet Max Verstappen is not pretending the trip sits easily with him.Speaking to Dutch outlet De Telegraaf, the four-time world champion delivered a blunt assessment of finishing the 23-race calendar in Qatar and Abu Dhabi amid ongoing regional hostilities. \"Do I feel comfortable with it? No ...<a class='mo",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/decision-time-looms-for-colton-herta-after-2027-cadillac-f1-snub/10877531/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-24T17:57:03.000Z",
+        "url": "https://www.motorsport.com/f1/news/verstappen-admits-he-would-rather-stay-at-home-ahead-of-qatar-and-abu-dhabi-despite-f1-safety-guara/10877645/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-25T21:25:17.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "The issue that cost Pierre Gasly a potential \"win\" at F1's Las Vegas GP",
-        "summary": "Pierre Gasly reckons he potentially had the pace to win the Las Vegas Grand Prix, had a cooling issue not affected his Alpine Formula 1 car in the closing stages.The Frenchman finished fifth from eighth on the grid, but after 31 of the scheduled 50 laps, Gasly was third behind Red Bull’s eventual winner Max Verstappen and Mercedes’ George Russell.Yet Gasly suddenly lost five positions ...<a class='mo",
+        "title": "FIA filings reveal the Red Bull aero update behind Max Verstappen’s Las Vegas GP win",
+        "summary": "Max Verstappen’s Las Vegas Grand Prix victory played out like a high-speed chess match on battery deployment, yet the race-winning foundation rested on a much quieter aerodynamic fix.As Formula1.com’s Tech Weekly contributors Mark Hughes and Giorgio Piola highlighted, Red Bull paired a subtle front wing endplate tweak in Nevada with an ongoing sidepod rework - refining airflow from nose to ...<a class='m",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/the-issue-that-cost-pierre-gasly-a-potential-podium-at-f1s-las-vegas-gp/10877501/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-24T15:38:33.000Z",
+        "url": "https://www.motorsport.com/f1/news/fia-filings-reveal-the-lone-rb22-aero-update-behind-max-verstappens-las-vegas-gp-win/10877619/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-25T20:31:23.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "The difference between The Witcher 3 and Witcher 4 will be 'comparable' to that of GTA 5 and GTA 6, CD Projekt boss says: 'I mean, it's been 11 years'",
-        "summary": "CD Projekt Red reported its Q3 earnings today, but all anyone wanted to talk about was GTA 6.",
+        "title": "GTA 6 has weird purple streetlights because actual Florida screwed up its streetlights",
+        "summary": "Rockstar recreated an embarrassing mishap in Florida infrastructure.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/the-witcher/the-difference-between-the-witcher-3-and-witcher-4-will-be-comparable-to-that-of-gta-5-and-gta-6-cd-projekt-boss-says-i-mean-its-been-11-years/",
-        "seendate": "2026-11-24T23:03:45.000Z",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-has-weird-purple-streetlights-because-actual-florida-screwed-up-its-streetlights/",
+        "seendate": "2026-11-25T22:36:12.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Nvidia patch finally eradicates the SSD-hammering bug its last hotfix didn't actually fix",
-        "summary": "\"The evil is defeated.\"",
+        "title": "Warhammer Survivors update buffs XP and weapons, nerfs those damn Beasts of Nurgle",
+        "summary": "I hate those guys.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/hardware/graphics-cards/nvidia-patch-finally-eradicates-the-ssd-hammering-bug-its-last-hotfix-didnt-actually-fix/",
-        "seendate": "2026-11-24T22:04:28.000Z",
+        "url": "https://www.pcgamer.com/games/roguelike/warhammer-survivors-update-buffs-xp-and-weapons-nerfs-those-damn-beasts-of-nurgle/",
+        "seendate": "2026-11-25T22:32:23.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Fan-favorite Diablo 2 anniversary bosses and items won't disappear when Diablo 4's next season starts",
-        "summary": "Most of the secrets from the current season aren't going anywhere.",
+        "title": "Trump admin didn't investigate Jensen Huang before pushing Nvidia to bring him back: 'What does that mean, had Huang been investigated? For what?'",
+        "summary": "Nvidia is also not under investigation, according to US Attorney General Todd Blanche.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/rpg/fan-favorite-diablo-2-anniversary-bosses-and-items-wont-disappear-when-diablo-4s-next-season-starts/",
-        "seendate": "2026-11-24T21:39:22.000Z",
+        "url": "https://www.pcgamer.com/software/ai/trump-admin-didnt-investigate-jensen-huang-before-pushing-nvidia-to-bring-him-back-what-does-that-mean-had-huang-been-investigated-for-what/",
+        "seendate": "2026-11-25T21:31:41.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Marathon's new runner shell is a jet-propelled robot samurai who wants to hurt you",
-        "summary": "Sounds great!",
+        "title": "Deceased BBC football commentator resurrected with AI for EA Sports FC: The family says it's a 'touching tribute' but some fans call it 'gross' and 'bleak'",
+        "summary": "Legendary football pundit John Motson will return to the series, in AI form, in today's EA FC 27 title update.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/fps/marathons-new-runner-shell-is-a-jet-propelled-robot-samurai-who-wants-to-hurt-you/",
-        "seendate": "2026-11-24T21:26:03.000Z",
+        "url": "https://www.pcgamer.com/software/ai/deceased-bbc-football-commentator-resurrected-with-ai-for-ea-sports-fc-the-family-says-its-a-touching-tribute-but-some-fans-call-it-gross-and-bleak/",
+        "seendate": "2026-11-25T20:23:51.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "An Among Us player and his mom helped rescue a kidnapped girl who'd been missing for more than a year",
-        "summary": "After connecting in the game, the teens began talking on Discord, which ultimately led to the discovery of her location.",
+        "title": "As the US Treasury suffers a cybersecurity breach, its chief tech guy is vibecoding a Civilization clone",
+        "summary": "The DOGE alum Treasury CIO says his passion project is \"so cool.\"",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/an-among-us-player-and-his-mom-helped-rescue-a-kidnapped-girl-whod-been-missing-for-more-than-a-year/",
-        "seendate": "2026-11-24T21:00:51.000Z",
+        "url": "https://www.pcgamer.com/software/ai/as-the-us-treasury-suffers-a-cybersecurity-breach-its-chief-tech-guy-is-vibecoding-a-civilization-clone/",
+        "seendate": "2026-11-25T19:00:25.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
       {
-        "title": "Chinese media hail Huang’s Nvidia return with warning over ‘witch-hunts’",
-        "summary": "State-run Global Times says reports about CEO’s affair with alleged Chinese spy were ‘malicious’Trump made up to $15m on Nvidia stock after Huang’s return<a href=\"https://www.theguardian.com/technology/2026/nov/24/nvidia-staff-what-do-you-think-jensen-huang-return-chie",
+        "title": "‘It’s been really a mess’: Meta insiders concerned over push to AI content moderation",
+        "summary": "Several employees say rapid speed at which algorithms work means mistakes can happen at greater scaleMeta employees have expressed concern at the company’s push to replace human moderators with artificial intelligence, claiming the technology is leading to mistakes with the potential for sweeping political consequences.The social media company, which owns Facebook and Instagram, has been experimentin",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/nov/24/china-media-jensen-huang-nvidia-ceo",
-        "seendate": "2026-11-24T14:45:03.000Z",
+        "url": "https://www.theguardian.com/technology/2026/nov/25/meta-insiders-concerned-push-to-ai-content-moderation",
+        "seendate": "2026-11-25T07:00:08.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Meta launches Muse in UK – the AI agent that can do your Christmas shopping",
-        "summary": "Users can give agents tasks such as booking travel or buying presents, but glitches have been reportedHave you downloaded Meta’s AI assistant Muse or do you plan to?Want to avoid the Christmas shopping hordes? Then let your AI agent do the shopping for you.",
+        "title": "Amazon to start selling cars in the UK next year",
+        "summary": "US retail giant links up with Hyundai in attempt to crack £200bn British marketAmazon is planning to sell cars in the UK from early next year, in a move that threatens to disrupt the vehicle retail market.The Amazon Autos service will be launched in “early 2027”, starting with cars from the Korean manufacturer Hyundai. It will be the first time the US tech company has sold cars outside its home count",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/nov/24/meta-launches-muse-uk-ai-agent-do-christmas-shopping",
-        "seendate": "2026-11-24T14:36:32.000Z",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/25/amazon-motors-into-uk-car-market",
+        "seendate": "2026-11-25T14:37:26.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Apple iPhone Duo review: the most novel and interesting iPhone in almost a decade",
-        "summary": "The folding iPhone is early-adopter gold, changing the way iOS works and successfully condensing a tablet into your pocket, but it is not for everyoneApple’s first folding phone has upended the usual order of things with some interesting choices about how you use a iPhone – for better or worse.The Duo sits atop the pile as Apple’s most expensive smartphone – at £1,999 (€2,299/$1,999/A$3,499) it costs",
+        "title": "Nvidia CEO Jensen Huang apologizes to staff: ‘I made some terrible mistakes’",
+        "summary": "Huang acknowledges he violated code of conduct by having affairs, but denied Trump was instrumental in his returnJensen Huang apologized to staff on Tuesday for the tumult he has caused at Nvidia. The company’s CEO acknowledged he violated the code of conduct for having extramarital affairs, but pushed back on the reports that Donald Trump was instrumental in his reinstatement as chief executive.“I m",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/nov/23/apple-iphone-duo-review-most-novel-interesting-iphone-in-almost-a-decade",
-        "seendate": "2026-11-23T07:00:49.000Z",
+        "url": "https://www.theguardian.com/technology/2026/nov/24/jensen-huang-nvidia-apologizes-staff",
+        "seendate": "2026-11-24T20:32:02.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Child safety groups urge Amazon and eBay to stop selling AI toys until proved safe",
-        "summary": "Advocates from across the world voice concern over privacy issues and inappropriate communication to childrenMore than 150 child safety groups and experts across six continents have urged Amazon and eBay to stop selling AI toys this Christmas until they are proved to be safe.In a letter sent to Amazon’s president, Andy Jassy, and eBay’s president, Jamie Iannone, the coalition called for the online re",
+        "title": "China’s Huawei convicted of stealing US trade secrets",
+        "summary": "US attorney general Todd Blanche says ‘No person or company is above the law’ after tech giant found guilty on 10 of 12 criminal counts The Chinese telecommunications equipment maker Huawei was convicted on Tuesday in a sprawling US criminal case on charges that it stole ⁠trade secrets from US companies and deceived banks about ⁠its business in Iran.Huawei, the world’s leading telecom equipment manuf",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/nov/23/child-safety-groups-urge-amazon-ebay-stop-selling-ai-toys-until-proved-safe",
-        "seendate": "2026-11-23T17:18:06.000Z",
+        "url": "https://www.theguardian.com/technology/2026/nov/24/huawei-china-convicted-deceiving-banks-stealing-us-trade-secrets",
+        "seendate": "2026-11-24T21:11:44.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem",
-        "summary": "Anthropic’s Levent Alpöge says it took six weeks for him using the AI tool to solve 19th-century Riemann hypothesisA mathematician at Anthropic has said that the San Francisco-based artificial intelligence (AI) company’s software has helped crack one of the most important unsolved p",
+        "title": "Our ‘Paris manifesto’ proposes how to deal with extreme wealth in the AI age | Open letter",
+        "summary": "It is possible for democracy to reverse the dynamic of oligarchy. But we must act nowThe explosion of extreme wealth in the world is the defining social fact of our times.When Forbes magazine began ranking the world’s largest fortunes in 1987, the wealth of the richest 0.0001% of our planet’s population equaled 3% of global GDP. Since that time, the wealth held by this tiny group of people – just 3,",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
-        "seendate": "2026-11-22T17:55:27.000Z",
+        "url": "https://www.theguardian.com/commentisfree/2026/nov/25/paris-manifesto-open-letter-ai-oligarchy",
+        "seendate": "2026-11-25T11:00:47.000Z",
         "domain": "theguardian.com"
       }
     ],
     "climate": [
       {
-        "title": "California ‘king tides’ stress test San Francisco as low-lying areas flood",
-        "summary": "Monthly tide records were set across the city, with some expected to hit even higher tomorrowExplainer: What to know about flooding in California over ThanksgivingCalifornia is grappling with the stress test of record-high or close to record-high November tides up and down",
+        "title": "Record-breaking California tides cause major flooding of roads and businesses",
+        "summary": "Beaches close as Los Angeles and La Jolla see all-time high tides and big waves batter landmark pier in PacificaSuper El Niño weather brought record-breaking high tides up and down the California coast on Wednesday, sending seawater rushing into beachside communities and flooding roads and businesses.As big waves battered the coast, the tip of a landmark pier in Pacifica, south of San Francisco, was",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/weather/2026/nov/24/california-coast-flooding-thanksgiving-travel",
-        "seendate": "2026-11-24T23:20:24.000Z",
+        "url": "https://www.theguardian.com/us-news/2026/nov/25/california-flooding-high-tides",
+        "seendate": "2026-11-25T22:56:36.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Climate scientists urge US lawmakers to vote no on sweeping permitting bill",
-        "summary": "Open letter warns Baaja, intended to expedite energy and infrastructure projects, will cause irreversible climate harmA group of more than 120 climate scientists have urged US lawmakers to not pass contentious legislation to speed up the building of energy projects, datacenters and other infrastructure, amid a growing backlash to the sweeping permitting bill.In <a href=\"https://docs.google.com/docume",
+        "title": "High levels of salmonella found in some products from nation’s biggest turkey producer",
+        "summary": "Two years of inspections at four Butterball plants show rates far exceeding US averages in ground or chopped meatInspectors found salmonella bacteria in more than a third of ground or chopped turkey samples at slaughterhouses owned by Butterball, the US’s biggest turkey company, data shows.The US Department of Agriculture’s (USDA) food safety and inspection service (FSIS) and some states conduct regu",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/nov/24/climate-scientists-lawmakers-baaja",
-        "seendate": "2026-11-24T22:09:57.000Z",
+        "url": "https://www.theguardian.com/environment/2026/nov/25/turkey-salmonella-butterball",
+        "seendate": "2026-11-25T20:00:34.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Iowa braces for controlled bomb blast: ‘We had only five days of warning’",
-        "summary": "Detonation of 68 barrels of lead azide scheduled for Wednesday after several delays amid public outcryResidents of Iowa, Illinois and Missouri who are preparing for Thanksgiving are also bracing themselves for the detonation of hazardous bomb-making materials, after the US army announced it would go through with plans for a controlled explosion on Wednesday.The detonation of 68 barrels of lead azide",
+        "title": "Cloud of smoke seen after US army detonates bomb-making chemicals in Iowa – video",
+        "summary": "A large cloud of smoke was seen in Middleton, Iowa, after the army detonated the nation’s entire stockpile of lead azide used for making bombs on Wednesday morning, despite an outpouring of public concern about potential health and environmental effectsSmoke seen from a mile away as army detonates US s",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/nov/24/iowa-illinois-missouri-hazardous-bomb-explosion-blast-prep-thanksgiving",
-        "seendate": "2026-11-24T21:49:07.000Z",
+        "url": "https://www.theguardian.com/us-news/video/2026/nov/25/cloud-of-smoke-seen-after-us-army-detonates-bomb-making-chemicals-in-iowa-video",
+        "seendate": "2026-11-25T18:30:56.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "California on edge as high tides and floods set to wreak havoc over Thanksgiving. Here is what to know",
-        "summary": "Coastal cities race to prepare for possible historic floods colliding with El Niño conditions before busy travel weekIt has already been a rough year for coastal Californians – who have endured flooding, <a href=\"https://www.theguardian.com/us-news/",
+        "title": "Smoke seen from a mile away as army detonates US stockpile of bomb-making chemicals in Iowa",
+        "summary": "Controlled blast to dispose of lead azide risks releasing plumes of toxic chemicals in 100-mile radiusThe US army detonated the nation’s entire stockpile of the the bomb-making material lead azide in Iowa on Wednesday morning, despite an outpouring of public concern about potential health and environmental effects.The controlled blast, which took",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/nov/23/california-high-tides-floods-weather-thanksgiving",
-        "seendate": "2026-11-23T15:43:23.000Z",
+        "url": "https://www.theguardian.com/us-news/2026/nov/25/iowa-controlled-blast-lead-azide",
+        "seendate": "2026-11-25T18:24:48.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Cranberry jam: warming winters and extreme weather threaten a traditional holiday fruit",
-        "summary": "Scientists are racing to identify and breed new berry varieties that can thrive on an increasingly warmer planetIt is harvest time in rural Wisconsin, and the Badger state’s most vibrant crop is painting the rolling countryside a brilliant, unmistakable red.For nearly three decades, Nicole Hansen has been farming cranberries here. Wisconsin pr",
+        "title": "US Army calls Iowa lead detonation a ‘huge success’ and says threat of spontaneous explosions has been ‘eliminated’ – as it happened",
+        "summary": "This live blog is now closed. For the latest news on this detonation in Iowa, read our full story:Smoke seen from a mile away as army detonates bomb-making chemicalsThe United States Centers for Disease Control and Preventio",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/nov/23/cranberry-growing-climate-crisis",
-        "seendate": "2026-11-23T15:00:49.000Z",
+        "url": "https://www.theguardian.com/us-news/live/2026/nov/25/iowa-lead-azide-detonation-army-explosion-bomb-live-updates",
+        "seendate": "2026-11-25T17:20:49.000Z",
         "domain": "theguardian.com"
       }
     ],
     "science": [
       {
-        "title": "CEO of funding agency for UK science and research criticised by union over cuts",
-        "summary": "Exclusive: Prospect’s Mike Clancy tells Ian Chapman at UKRI that union has ‘lost confidence’ in his leadershipA trade union that counts scientists and engineers among its members says it has lost confidence in the leader of the UK’s national funding agency for science and research, citing concerns about plans for major cuts.The letter from Mike Clancy, the general secretary of Prospect, to Ian Chapma",
+        "title": "Nasa knocked an asteroid off course. New closeup photos shed light on aftermath",
+        "summary": "Images of Dimorphos four years on from crash could help scientists design potential planetary defence systemHumanity may not yet have a means of fending off a Vogon constructor fleet – the destroyers of Earth in The Hitchhiker’s Guide to the Galaxy – but its prospects of surviving an encounter with a rogue asteroid are looking considerably brighter.Four years after Nasa <a href=\"https://www.theguardi",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/education/2026/nov/22/prospect-union-leader-uk-funding-agency-science-research-ukri",
-        "seendate": "2026-11-22T12:00:28.000Z",
+        "url": "https://www.theguardian.com/science/2026/nov/25/dimorphos-asteroid-spacecraft-crash-closeup-images",
+        "seendate": "2026-11-25T18:48:33.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Cop31 failed. What happens now? – podcast",
-        "summary": "The longest ever Cop climate talks have ended in failure after countries were unable to agree a deal. The key sticking point was the omission of any mention of fossil fuels in the final draft. To find out how it all went so wrong and what could come next, Madeleine Finlay speaks to Guardian environment editor Fiona Harvey, who has been in Antalya, Turkey, covering the talksClips: Reuters<a h",
+        "title": "Beaver supermoon lights up skylines around the world – video",
+        "summary": "A stunning supermoon rose over skylines around the world. Supermoons occur when the full moon coincides with the moon being at or near its closest point to Earth, making it appear larger than usual. The November full moon is also known as the beaver moon, a name thought to date to when hunters traditionally set traps for beavers in autumn to secure a supply of warm fur for the winter <a href=\"https://www.t",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/audio/2026/nov/23/cop31-failed-what-happens-now-podcast",
-        "seendate": "2026-11-23T18:22:29.000Z",
+        "url": "https://www.theguardian.com/science/video/2026/nov/25/beaver-supermoon-lights-up-skylines-around-the-world-video",
+        "seendate": "2026-11-25T10:59:18.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Is it true that … we only use 10% of our brains?",
-        "summary": "The idea that we access a fraction of our cognitive potential goes back decades, but does medical science agree?This idea really bugs Dr Mary Spiller, senior lecturer in the University of East London’s Department of Psychology and Human Development, who’s shocked by how prevalent it remains, despite being untrue.Spiller says the myth’s",
+        "title": "How a new way of measuring tides could make flood forecasts more accurate",
+        "summary": "Analysis of differences in tidal height across beaches could lead to more localised tide and flood forecastsThe sea might look level, but it turns out tidal height can vary by as much as a metre across the length of a single beach, new research shows. This development is important when it comes to flood predictions and when forecasting which locations are most vulnerable to storm surges.Up until now,",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/lifeandstyle/2026/nov/23/is-it-true-we-only-use-10-per-cent-brain",
-        "seendate": "2026-11-23T08:00:51.000Z",
+        "url": "https://www.theguardian.com/science/2026/nov/25/new-way-of-measuring-tides-flood-forecasts-accurate",
+        "seendate": "2026-11-25T06:00:08.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "How can we explain psychosomatic illnesses?",
-        "summary": "Emotions play a significant part in physical symptoms – but not in the way people often imagineWhen Diego started seeing bright flashing lights in his field of vision and felt his legs go weak, he thought he knew immediately what was happening. His mother had a stroke in her 60s, and although Diego was active and (unlike his mother) didn’t smoke, he had always expected that the same would happen to him. So",
+        "title": "China sends first foreign astronaut to ISS rival as it globalises space operations",
+        "summary": "Muhammad Zeeshan Ali – the first Pakistani to reach orbit – greeted with Chinese ‘space handshake’ at Tiangong stationChina has flown the first foreign astronaut to its Tiangong space station, starting what it says will be the globalisation of its space operations as the US-led International Space Station (ISS) enters its final years of operation.Floating through a hatch to enter Tiangong, Pakistan’s",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/nov/22/how-can-we-explain-psychosomatic-illnesses",
-        "seendate": "2026-11-22T12:00:27.000Z",
+        "url": "https://www.theguardian.com/science/2026/nov/25/china-sends-first-pakistani-astronaut-into-space",
+        "seendate": "2026-11-25T14:18:29.000Z",
         "domain": "theguardian.com"
       },
       {
-        "title": "Starwatch: a rare chance to observe elusive Mercury",
-        "summary": "Being so close to the sun, the smallest planet in the solar system is also one of the most difficult to spotThis week offers a good opportunity to spot Mercury, the smallest planet in the solar system and one of the most difficult to observe. On 20 November, it reached “greatest western elongation”, the point at which it appears farthest from the sun in the morning sky. The planet remains well placed for ob",
+        "title": "Dolphins with active social lives and big friendship groups live longer, Australian researchers discover",
+        "summary": "Decades of data collected at WA’s Shark Bay shows level of socialising may affect longevity for Indo-Pacific bottlenose dolphinsDolphins who spend time socialising in large and consistently sized social groups tend to live longer, new research has found.Indo-Pacific bottlenose dolphins are marine mammals that can live for more than 50 years and have complex social lives. They spend time socialising i",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/nov/23/starwatch-a-rare-chance-to-observe-elusive-mercury",
-        "seendate": "2026-11-23T06:00:49.000Z",
+        "url": "https://www.theguardian.com/environment/2026/nov/25/dolphins-with-active-social-lives-and-big-friendship-groups-live-longer",
+        "seendate": "2026-11-25T06:02:05.000Z",
         "domain": "theguardian.com"
       }
     ]
