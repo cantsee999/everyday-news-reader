@@ -1,8 +1,16 @@
 window.NEWS_CACHE = {
-  "generatedAt": "2026-11-26T04:34:18.939Z",
+  "generatedAt": "2026-11-27T04:38:11.928Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
+      {
+        "title": "‘I’m no longer a UAE official’: UN hopeful Lana Nusseibeh tries to shake off Sudan record",
+        "summary": "The US and Russia’s candidate for secretary general is on a charm offensive. Can she overcome London’s resistance to her bid?Lana Nusseibeh is in Britain this week, attempting to present herself as a potential future UN secretary general, and shift the focus from her past as a United Arab Emirates diplomat who denied the country’s role in arming a militia accused of war crimes and genocide in Sudan’s four-y",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/nov/26/lana-nusseibeh-uae-sudan-un-secretary-general",
+        "seendate": "2026-11-26T12:37:42.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "At least 31 killed as fuel tanker crash ignites large fire on Cairo highway",
         "summary": "Blaze on ring road surrounding Egyptian capital injures at least 21 people and leaves cars and motorcycles charredA crash involving a fuel tanker ignited a huge fire on a highway surrounding Cairo on Wednesday, killing at least 31 people, Egyptian authorities said.The blaze on the ring road, a key artery that encircles the Egyptian capital, also injured at least 21 people and left more than two dozen",
@@ -33,19 +41,19 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/world/2026/nov/24/russian-fighters-killed-in-mali-africa-leaked-data",
         "seendate": "2026-11-24T16:00:50.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
-        "summary": "Ukraine’s security service says seven drones were launched from mothership in operation that sank Merkury warshipUkraine has confirmed it deployed naval drones in strikes on two Russian vessels off Libya on Sunday, including one that sank the corvette Merkury, one of Russia’s newest vessels.<",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya",
-        "seendate": "2026-11-23T11:42:51.000Z",
         "domain": "theguardian.com"
       }
     ],
     "conflict": [
       {
+        "title": "‘I’m no longer a UAE official’: UN hopeful Lana Nusseibeh tries to shake off Sudan record",
+        "summary": "The US and Russia’s candidate for secretary general is on a charm offensive. Can she overcome London’s resistance to her bid?Lana Nusseibeh is in Britain this week, attempting to present herself as a potential future UN secretary general, and shift the focus from her past as a United Arab Emirates diplomat who denied the country’s role in arming a militia accused of war crimes and genocide in Sudan’s four-y",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/nov/26/lana-nusseibeh-uae-sudan-un-secretary-general",
+        "seendate": "2026-11-26T12:37:42.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "At least 31 killed as fuel tanker crash ignites large fire on Cairo highway",
         "summary": "Blaze on ring road surrounding Egyptian capital injures at least 21 people and leaves cars and motorcycles charredA crash involving a fuel tanker ignited a huge fire on a highway surrounding Cairo on Wednesday, killing at least 31 people, Egyptian authorities said.The blaze on the ring road, a key artery that encircles the Egyptian capital, also injured at least 21 people and left more than two dozen",
         "source": "theguardian.com",
@@ -76,73 +84,73 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/world/2026/nov/24/russian-fighters-killed-in-mali-africa-leaked-data",
         "seendate": "2026-11-24T16:00:50.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
-        "summary": "Ukraine’s security service says seven drones were launched from mothership in operation that sank Merkury warshipUkraine has confirmed it deployed naval drones in strikes on two Russian vessels off Libya on Sunday, including one that sank the corvette Merkury, one of Russia’s newest vessels.<",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya",
-        "seendate": "2026-11-23T11:42:51.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "economy": [
       {
-        "title": "Trump proposing new tariffs on 14 partners including China and EU",
-        "summary": "Administration is suggesting an added 20% tax on Chinese imports, which would bring the total to about 40%US politics live – latest updatesDonald Trump is propos",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/nov/25/trump-new-china-tariffs-europe",
-        "seendate": "2026-11-25T14:59:44.000Z",
-        "domain": "theguardian.com"
+        "title": "  Not good enough : weak enforcement of sanctions lashed",
+        "summary": "Australia&#x27;s sanctions regime has been savaged in an audit for overwhelmingly relying on stern letters to warn rogue...",
+        "source": "areanews.com.au",
+        "url": "https://www.areanews.com.au/story/9399213/not-good-enough-weak-enforcement-of-sanctions-lashed/",
+        "seendate": "20261127T043000Z",
+        "domain": "areanews.com.au"
       },
       {
-        "title": "Judge blocks Brendan Carr-led FCC from taking any further action against ABC’s licenses",
-        "summary": "Federal judge Loren L AliKhan grants preliminary injunction in ABC’s favor after network sued FCC in AugustThe federal judge Loren L AliKhan on Wednesday granted a preliminary injunction blocking the Brendan Carr-led Federal Communications Commission (FCC) from taking any action curbing ABC’s ability to renew its broadcast licenses, after the network <a href=\"https://www.theguardian.com/us-news/2026/aug/18/",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/nov/25/brendan-carr-fcc-abc-licenses",
-        "seendate": "2026-11-26T02:52:47.000Z",
-        "domain": "theguardian.com"
+        "title": "Trump calls GDP figures  fake  ",
+        "summary": "The president&#x27;s complaint concerns data that revised gross domestic product in the third quarter to 4.3% on an annual basis, up from a prior estimate of 3.4%.",
+        "source": "wyff4.com",
+        "url": "https://www.wyff4.com/article/trump-demands-investigation-of-commerce-department/74544791",
+        "seendate": "20261127T043000Z",
+        "domain": "wyff4.com"
       },
       {
-        "title": "US inflation hits highest since May after prices climb 3.8% over the last year",
-        "summary": "Rise occurs amid soaring energy prices, according to last inflation reading before a crucial Fed board meetingThe sell-off in US tech stocks continued on Wednesday as investors reacted to continued concern over the AI trade and fresh data that showed inflation jumped in October.The tech-heavy <a href=\"https://www.theguardian.com/business/na",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/nov/25/consumer-prices-september-october-energy-inflation",
-        "seendate": "2026-11-25T15:46:15.000Z",
-        "domain": "theguardian.com"
+        "title": "BQE Water Reports Q3 2026 Results",
+        "summary": "Vancouver, British Columbia--(Newsfile Corp. - November 26, 2026) - BQE Water Inc. (TSXV: BQE), a leader in the treatment and management of mine impacted",
+        "source": "chathamdailynews.ca",
+        "url": "https://www.chathamdailynews.ca/press-releases/newsfile/bqe-water-reports-q3-2026-results/",
+        "seendate": "20261127T043000Z",
+        "domain": "chathamdailynews.ca"
       },
       {
-        "title": "Nvidia CEO Jensen Huang apologizes to staff: ‘I made some terrible mistakes’",
-        "summary": "Huang acknowledges he violated code of conduct by having affairs, but denied Trump was instrumental in his returnJensen Huang apologized to staff on Tuesday for the tumult he has caused at Nvidia. The company’s CEO acknowledged he violated the code of conduct for having extramarital affairs, but pushed back on the reports that Donald Trump was instrumental in his reinstatement as chief executive.“I m",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/nov/24/jensen-huang-nvidia-apologizes-staff",
-        "seendate": "2026-11-24T20:32:02.000Z",
-        "domain": "theguardian.com"
+        "title": "Bank of Japan calls on policy makers to create  anchor of trust  amid cybersecurity risks",
+        "summary": "Bank of Japan Executive Director Kazushige Kamiyama has just stepped forward to challenge the status quo and has even begun urging policymakers to strengthen defences against the rising fears...",
+        "source": "thenews.com.pk",
+        "url": "https://www.thenews.com.pk/latest/1425338-bank-of-japan-calls-on-policy-makers-to-create-anchor-of-trust-amid-cybersecurity-risks",
+        "seendate": "20261127T043000Z",
+        "domain": "thenews.com.pk"
       },
       {
-        "title": "US school bus drivers decline amid low pay and poor work conditions",
-        "summary": "Total number of drivers dropped 5% over the last year and fell 15% compared with 2019 levels, new report findsThe number of school bus drivers in the US has dropped 5% over the last year as drivers continue to experience low pay, poor working conditions and school budget shortfalls, according to a new report.The total number of school bus drivers is down 15%, or nearly 34,000 drivers, compared with 2",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/education/2026/nov/24/school-bus-driver-decline-budget",
-        "seendate": "2026-11-24T11:00:45.000Z",
-        "domain": "theguardian.com"
+        "title": "Trump says US has",
+        "summary": "US President Donald Trump has said that America has \"victory at hand\" in its war on Iran, while indicating that Washington is allowing Tehran to reach an agreement to prevent further loss of life. Speaking during a Thanksgiving call alongside First Lady Melania Trump, with US military personnel from his Mar-a-Lago residence in Florida on Thursday (local time), Trump said that the timing of the victory would be his de",
+        "source": "malaysiasun.com",
+        "url": "http://www.malaysiasun.com/news/279463498/trump-says-us-has-victory-at-hand-in-iran-war-offers-tehran-chance-for-deal",
+        "seendate": "20261127T043000Z",
+        "domain": "malaysiasun.com"
       }
     ],
     "literature": [
+      {
+        "title": "Honey by Elizabeth Jenkins review – a rediscovered 60s classic of sex, money and power",
+        "summary": "The beautiful and mercenary Honey is a monstrously compelling character, in a novel with the ruthlessness of Richard Yates but more wit‘A sweet white grape of a book” is how Virginia Woolf described Elizabeth Jenkins’s first novel, Virginia Water, published in 1929 when Jenkins was 24. Jenkins may have detected a condescending note. She was wary of Woolf, having been invited into the Bloomsbury inner circle",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/nov/26/honey-by-elizabeth-jenkins-review-a-rediscovered-60s-classic-of-sex-money-and-power",
+        "seendate": "2026-11-26T07:00:48.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Tonight the Music Seems So Loud by Sathnam Sanghera audiobook review – in praise of George Michael",
+        "summary": "The author blends teen memories and biographical details for a very personal tribute to the late singerWhen Sathnam Sanghera was a child, his older sisters fell under the spell of Wham!, the pop duo behind hits including Last Christmas and Young Guns (Go for It). Their brother soon caught the bug, becoming a diehard Wham! fan and following the career of singer <a href=\"https://www.theguardian.com/music/geor",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/nov/26/tonight-the-music-seems-so-loud-by-sathnam-sanghera-audiobook-review-in-praise-of-george-michael",
+        "seendate": "2026-11-26T15:00:38.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Patrick Radden Keefe’s London Falling named Waterstones book of the year",
         "summary": "The word-of-mouth success of the journalist’s investigation into the death of a London teenager is ‘one of the defining features of the literary year’London Falling, Patrick Radden Keefe’s bestselling investigation into the mysterious death of a London teenager, has been named Waterstones book of the year.The book follows the parents of Zac Brettler, a 19-year-old who fell from the balcony of a luxur",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/books/2026/nov/26/patrick-radden-keefes-london-falling-named-waterstones-book-of-the-year",
         "seendate": "2026-11-26T00:01:39.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "The 4thWrite short story prize winner – a tale of teenage girlhood",
-        "summary": "Read Darkroom by Meher Iqbal – this year’s winner of the Guardian and publisher 4th Estate’s award for unpublished writers of colourMeher Iqbal wins 2026 4thWrite prize with ‘evocative’ coming-of-age story• Content warning: This story includes a des",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/nov/25/the-4thwrite-short-story-prize-winner-a-tale-of-teenage-girlhood",
-        "seendate": "2026-11-25T13:00:27.000Z",
         "domain": "theguardian.com"
       },
       {
@@ -154,26 +162,34 @@ window.NEWS_CACHE = {
         "domain": "theguardian.com"
       },
       {
-        "title": "Secrets by Bob Woodward review – the world’s most famous reporter reveals all",
-        "summary": "The journalist who helped bring down Nixon on false starts, Watergate, and the art of cultivating a source‘I have always disliked the term ‘investigative reporter’.” So writes Bob Woodward, one of the most celebrated reporters of our time – the man whose Watergate reporting with Carl Bernstein undoubtedly changed the US presidency and journalism itself for ever. His longtime boss, the Washington Post </",
+        "title": "The 4thWrite short story prize winner – a tale of teenage girlhood",
+        "summary": "Read Darkroom by Meher Iqbal – this year’s winner of the Guardian and publisher 4th Estate’s award for unpublished writers of colourMeher Iqbal wins 2026 4thWrite prize with ‘evocative’ coming-of-age story• Content warning: This story includes a des",
         "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/nov/25/secrets-by-bob-woodward-with-claire-mcmullen-review-the-worlds-most-famous-reporter-reveals-all",
-        "seendate": "2026-11-25T07:00:08.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Vaim Hotel by Jon Fosse review – not your typical ghost story",
-        "summary": "The Norwegian Nobel laureate’s sequel to Vaim explores what happens when a man is stripped of everything that tells him who he isVery strange things happen in Jon Fosse’s 2025 novel Vaim. A man meets a woman he secretly loved in his youth while running an errand in a nearby town",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/nov/25/vaim-hotel-by-jon-fosse-review-not-your-typical-ghost-story",
-        "seendate": "2026-11-25T09:00:10.000Z",
+        "url": "https://www.theguardian.com/books/2026/nov/25/the-4thwrite-short-story-prize-winner-a-tale-of-teenage-girlhood",
+        "seendate": "2026-11-25T13:00:27.000Z",
         "domain": "theguardian.com"
       }
     ],
     "entertainment": [
       {
+        "title": "‘I was very aggressive. They threw me out of every school’ … Julie Delpy on acting, anger and predatory directors",
+        "summary": "Thirty years after the roles that made her famous, the star of Three Colours: White and the Before trilogy is busier than ever – as a screenwriter and director. But, she says, a lot of people have tried to keep her downTo listen to Julie Delpy talk about her workload is to feel the need for a nap coming on. She is writing six screenplays at the mom",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/film/2026/nov/26/julie-delpy-acting-anger-predatory-directors",
+        "seendate": "2026-11-26T10:00:52.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "‘A window into imagination’: the magic of Macy’s Thanksgiving Day Parade – in pictures",
+        "summary": "Between the Balloons: My Thanksgiving Parade is the first book from Aperture Kids, which aims to create community and understanding through photography. The book celebrates the historic 100th anniversary of Macy’s Thanksgiving Day Parade with images by EA Kahane, illustrations by The New Yorker cartoonist Tom Toro and a s",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/artanddesign/gallery/2026/nov/26/thanksgiving-day-parade-pictures-between-the-balloons",
+        "seendate": "2026-11-26T13:14:53.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "Andy Taylor, guitarist in Duran Duran, dies aged 65",
-        "summary": "Musician who had huge 1980s chart success had been diagnosed with prostate cancer in 2018Andy Taylor, the guitarist with 80s pop megastars Duran Duran, has died aged 65.He had been diagnosed with stage four metastatic prostate cancer in 2018, which he disclosed publicly in 2022 when Duran Duran were about to be inducted into the Rock and Roll Hall of Fame. <a href=\"https://www.theguardian.com/mus",
+        "summary": "Musician who had huge 1980s chart success had been diagnosed with prostate cancer in 2018Duran Duran was transformed by Andy Taylor’s rock edge – and never quite the same without him<a href=\"https://www.theguardian.com/music/gallery/2026/nov/26/andy-taylor-dea",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/music/2026/nov/25/andy-taylor-duran-duran-guitarist-dead",
         "seendate": "2026-11-25T21:41:34.000Z",
@@ -194,110 +210,118 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/culture/2026/nov/25/jimmy-kimmel-nvidia-jensen-huang",
         "seendate": "2026-11-25T15:59:59.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "‘I needed to purge it out of me’: the shocking true story behind harrowing drama Josephine",
-        "summary": "Writer-director Beth de Araújo witnessed a brutal sexual assault as a child and has turned her experience into one of the year’s most powerful moviesThe film-maker Beth de Araújo likens the personal experience that inspired Josephine, her disquieting second feature, to a slow-acting poison. Early one Saturday morning when she was eight years old, Araújo and her father were playing soccer in Golden Gate Park",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/nov/25/josephine-movie-true-story",
-        "seendate": "2026-11-25T10:00:13.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "The Fox review – talking animals are the least weird thing in this delightfully peculiar comedy",
-        "summary": "Dario Russo’s debut feature is Brothers Grimm meets Yorgos Lanthimos, with a standout cast including Olivia Colman, Sam Neill and Emily BrowningThe vibe of writer-director Dario Russo’s delightfully peculiar feature debut is “messed-up fairytale”, pitched somewhere between the Brothers Grimm and Yorgos Lanthimos, with a distinctly Australian je ne sais quoi.Russo is perhaps best known for co",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/nov/26/the-fox-australian-movie-review-olivia-colman-sam-neill-dario-russo-emily-browning-jai-courtney",
-        "seendate": "2026-11-25T14:00:29.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "f1": [
       {
-        "title": "Fred Vasseur backs FIA ruling after Charles Leclerc's Las Vegas clash with Lewis Hamilton",
-        "summary": "Formula 1 team bosses usually rush to soften the blow when stewards penalise one of their drivers. After Charles Leclerc clipped Lewis Hamilton into a spin at Turn 7 during the 2026 Las Vegas Grand Prix, Ferrari team principal Fred Vasseur took the opposite approach - endorsing the FIA’s ruling and leaving no doubt over where responsibility lay. Speaking to F1 TV after a bruised night in ...<a class='mor",
+        "title": "Mercedes boss Toto Wolff reveals why rival F1 teams never try to hire him",
+        "summary": "Toto Wolff has just added to his legendary resume by securing Mercedes' return to the top of Formula 1 in 2026, officially tying former McLaren boss Ron Dennis with a record 17 world championship titles across drivers' and constructors' campaigns. With that level of historical dominance, logic dictates that rival constructors and corporate conglomerates would be throwing blank cheques at the ...<a class=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/fred-vasseur-refuses-to-shield-leclerc-over-hamilton-collision-the-decision-of-the-fia-was-quite-cl/10877483/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-26T01:30:02.000Z",
+        "url": "https://www.motorsport.com/f1/news/mercedes-boss-toto-wolff-reveals-why-rival-f1-teams-never-try-to-hire-him/10874986/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-27T00:30:04.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Nico Rosberg rules George Russell out of 2027 F1 title fight: “Dug himself into a mental hole”",
-        "summary": "George Russell entered the 2026 Formula 1 campaign looking every bit like Mercedes’ undisputed leader. Nine months later, former Silver Arrows world champion Nico Rosberg does not even consider the 28-year-old a championship contender for next season. Speaking to German outlet Sport Bild, Rosberg predicted no quick rebound for Russell in 2027 - placing defending champion Kimi Antonelli, Max ...<a class='",
+        "title": "Toto Wolff responds to Kimi Antonelli salary questions after F1 title success",
+        "summary": "When a Formula 1 team elevates a teenager from Formula 2 directly into a top-tier factory seat, the initial contract is rarely structured like a blockbuster superstar deal. But when that kid wins the drivers' world championship in his sophomore season, the original financial terms quickly become drastically outdated.That is exactly the scenario currently playing out at Mercedes with ...<a class='more' hr",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/nico-rosberg-rules-george-russell-out-of-2027-f1-title-fight-he-dug-himself-into-a-mental-hole/10877719/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-26T00:30:03.000Z",
+        "url": "https://www.motorsport.com/f1/news/toto-wolff-says-the-world-champion-should-be-rewarded-after-bild-puts-antonellis-pay-at-about-46-mi/10874830/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-26T23:00:02.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Ralf Schumacher sees echoes of Lewis Hamilton's Nico Rosberg \"mind games\" after Las Vegas",
-        "summary": "Stewards and Ferrari team principal Fred Vasseur placed the blame for the Scuderia’s latest intra-team collision on Charles Leclerc. Former Formula 1 driver Ralf Schumacher, however, believes the real power play at Maranello is coming from the other side of the garage. Speaking on Sky Sports Germany’s Backstage Boxengasse podcast, as reported by German outlet sport.de, the 51-year-old ...<a class='more'",
+        "title": "Max Verstappen details his ideal 2030 F1 Formula",
+        "summary": "Fresh off winning a chaotic, 352-overtake Las Vegas Grand Prix that he bluntly dismissed as feeling like \"playing Mario Kart\", Max Verstappen has laid out what he believes Formula 1 should actually chase when its next major regulation overhaul arrives in 2030.Speaking to the media ahead of the Qatar Grand Prix at Losail, the four-time world champion was asked what a \"pure\" Formula 1 looks like ...<a clas",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/ralf-schumacher-says-lewis-hamilton-wants-ferraris-no-1-power-by-any-means-necessary-after-leclerc-/10877712/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-25T23:30:05.000Z",
+        "url": "https://www.motorsport.com/f1/news/verstappen-outlines-his-ideal-2030-f1-formula-lighter-cars-simpler-engines-and-push-to-pass-over-en/10878035/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-26T22:13:25.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Max Verstappen admits he would “rather stay at home” ahead of Qatar and Abu Dhabi",
-        "summary": "Formula 1’s paddock is touching down in Doha for the penultimate round of the 2026 championship, yet Max Verstappen is not pretending the trip sits easily with him.Speaking to Dutch outlet De Telegraaf, the four-time world champion delivered a blunt assessment of finishing the 23-race calendar in Qatar and Abu Dhabi amid ongoing regional hostilities. \"Do I feel comfortable with it? No ...<a class='mo",
+        "title": "Kimi Antonelli teases Nordschleife race with Max Verstappen, but there is one condition",
+        "summary": "2026 Formula 1 champion Kimi Antonelli says he would love to race alongside four-time champion Max Verstappen at the Nordschleife, but admits he would first have to win the support of Mercedes team principal Toto Wolff.Verstappen has made no secret of his love of endurance racing, and has raced GT3 cars at the Nurburgring alongside his F1 commitments.While speaking to the media ahead of ...<a class='",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/verstappen-admits-he-would-rather-stay-at-home-ahead-of-qatar-and-abu-dhabi-despite-f1-safety-guara/10877645/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-25T21:25:17.000Z",
+        "url": "https://www.motorsport.com/f1/news/kimi-antonelli-teases-nordschleife-race-with-max-verstappen-but-there-is-one-condition/10878047/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-26T20:56:51.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "FIA filings reveal the Red Bull aero update behind Max Verstappen’s Las Vegas GP win",
-        "summary": "Max Verstappen’s Las Vegas Grand Prix victory played out like a high-speed chess match on battery deployment, yet the race-winning foundation rested on a much quieter aerodynamic fix.As Formula1.com’s Tech Weekly contributors Mark Hughes and Giorgio Piola highlighted, Red Bull paired a subtle front wing endplate tweak in Nevada with an ongoing sidepod rework - refining airflow from nose to ...<a class='m",
+        "title": "Max Verstappen without Gianpiero Lambiase at Qatar GP as Tom Hart steps in",
+        "summary": "Max Verstappen will be without his regular right-hand man Gianpiero Lambiase this weekend at the Lusail International Circuit. Red Bull had already opted for a rotation system for the latter part of this Formula 1 season, primarily to allow Tom Hart to settle into the role ahead of his expected permanent appointment while Lambiase is still with the team.The initial plan was for Lambiase to ...<a class='m",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/fia-filings-reveal-the-lone-rb22-aero-update-behind-max-verstappens-las-vegas-gp-win/10877619/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-25T20:31:23.000Z",
+        "url": "https://www.motorsport.com/f1/news/max-verstappen-without-gianpiero-lambiase-at-qatar-gp-as-tom-hart-steps-in/10878042/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-26T19:55:34.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "GTA 6 has weird purple streetlights because actual Florida screwed up its streetlights",
-        "summary": "Rockstar recreated an embarrassing mishap in Florida infrastructure.",
+        "title": "Witcher 3 Remastered patch has lighting fixes, sign nerfs, and gets rid of a nasty werewolf bug",
+        "summary": "Turns out they weren't meant to be that hard to kill after all.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-has-weird-purple-streetlights-because-actual-florida-screwed-up-its-streetlights/",
-        "seendate": "2026-11-25T22:36:12.000Z",
+        "url": "https://www.pcgamer.com/games/the-witcher/witcher-3-remastered-patch-has-lighting-fixes-sign-nerfs-and-gets-rid-of-a-nasty-werewolf-bug/",
+        "seendate": "2026-11-27T04:27:55.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Warhammer Survivors update buffs XP and weapons, nerfs those damn Beasts of Nurgle",
-        "summary": "I hate those guys.",
+        "title": "Vermintide 2 mod tools get a public release, and the game's 90% off on Steam too",
+        "summary": "Holy Sigmar, bless this ravaged body.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/roguelike/warhammer-survivors-update-buffs-xp-and-weapons-nerfs-those-damn-beasts-of-nurgle/",
-        "seendate": "2026-11-25T22:32:23.000Z",
+        "url": "https://www.pcgamer.com/games/fps/vermintide-2-mod-tools-get-a-public-release-and-the-games-90-percent-off-on-steam-too/",
+        "seendate": "2026-11-27T01:28:24.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Trump admin didn't investigate Jensen Huang before pushing Nvidia to bring him back: 'What does that mean, had Huang been investigated? For what?'",
-        "summary": "Nvidia is also not under investigation, according to US Attorney General Todd Blanche.",
+        "title": "'Blizzard I'm looking at you': Path of Exile 2 boss criticizes 'truly terrible' game announcements that hold the juiciest details until the end",
+        "summary": "Grinding Gear Games' Jonathan Rogers urges devs to lead with their best stuff.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/software/ai/trump-admin-didnt-investigate-jensen-huang-before-pushing-nvidia-to-bring-him-back-what-does-that-mean-had-huang-been-investigated-for-what/",
-        "seendate": "2026-11-25T21:31:41.000Z",
+        "url": "https://www.pcgamer.com/games/rpg/blizzard-im-looking-at-you-path-of-exile-2-boss-criticizes-truly-terrible-game-announcements-that-hold-the-juiciest-details-until-the-end/",
+        "seendate": "2026-11-26T23:00:00.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Deceased BBC football commentator resurrected with AI for EA Sports FC: The family says it's a 'touching tribute' but some fans call it 'gross' and 'bleak'",
-        "summary": "Legendary football pundit John Motson will return to the series, in AI form, in today's EA FC 27 title update.",
+        "title": "Dawn of War 4's campaigns differ based on your choices: 'which character you choose and what decisions you make with them lead down different experiences of an overlapping story'",
+        "summary": "Dawn of War 4 writer John French lays out how it works.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/software/ai/deceased-bbc-football-commentator-resurrected-with-ai-for-ea-sports-fc-the-family-says-its-a-touching-tribute-but-some-fans-call-it-gross-and-bleak/",
-        "seendate": "2026-11-25T20:23:51.000Z",
+        "url": "https://www.pcgamer.com/games/rts/dawn-of-war-4s-campaigns-differ-based-on-your-choices-which-character-you-choose-and-what-decisions-you-make-with-them-lead-down-different-experiences-of-an-overlapping-story/",
+        "seendate": "2026-11-26T22:30:59.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "As the US Treasury suffers a cybersecurity breach, its chief tech guy is vibecoding a Civilization clone",
-        "summary": "The DOGE alum Treasury CIO says his passion project is \"so cool.\"",
+        "title": "Steam isn't doing 'an official Black Friday fest,' but it does have a page with hundreds of discounts and 'Black Friday' splashed across the top so you might want to check it out anyway",
+        "summary": "Updates to Steam's 'Discounts and Events' page are now live, and Valve wants to show them off.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/software/ai/as-the-us-treasury-suffers-a-cybersecurity-breach-its-chief-tech-guy-is-vibecoding-a-civilization-clone/",
-        "seendate": "2026-11-25T19:00:25.000Z",
+        "url": "https://www.pcgamer.com/games/steam-isnt-doing-an-official-black-friday-fest-but-it-does-have-a-page-with-hundreds-of-discounts-and-black-friday-splashed-across-the-top-so-you-might-want-to-check-it-out-anyway/",
+        "seendate": "2026-11-26T20:20:02.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
+      {
+        "title": "A vocal cohort of tech leaders celebrates Huang’s Nvidia return, but others are keeping quiet",
+        "summary": "Elon Musk and Sam Altman among those rejoicing but Google, Meta and Apple chiefs have declined to weigh inThe phrase “return of the king” rippled across social media on Monday. A vocal subsection of the tech industry was celebrating the resurrection of Jensen Huang as Nvidia’s CEO. Some called him the “imperial and royal majesty”, others anointed him as “our Jesus” and several simply posted a crown emoji.</",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/nov/26/jensen-huang-nvidia-tech",
+        "seendate": "2026-11-26T10:00:52.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Dozens of court cases in England and Wales affected by undisclosed AI use in 2026",
+        "summary": "Exclusive: Investigation finds at least 25 cases affected by AI-generated witness statements, fictitious case law and nonexistent statutes Undisclosed AI use has affected more than two dozen court cases this year, prompting judges to complain about AI-generated witness statements, fictitious case law and nonexistent statutes, an investigation has revealed.Proceedings where judges have been forced to",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/nov/26/dozens-of-court-cases-in-england-and-wales-affected-by-undisclosed-ai-use-in-2026",
+        "seendate": "2026-11-26T12:19:37.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Elon Musk pledges to give two SpaceX shares to every child in the US",
+        "summary": "The total value of the shares could reach almost $18bn and comes as tech companies debate how to share the spoils of the AI boomElon Musk, the world’s richest person, has pledged to give every child in the US two shares in SpaceX, the space ⁠and AI company he ​runs, worth a total of almost $18bn.In a brief post on X, the social media platform that he owns, Musk said children will receive one share fr",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/nov/26/elon-musk-pledges-to-give-two-spacex-shares-to-every-child-in-the-us",
+        "seendate": "2026-11-26T07:02:37.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "‘It’s been really a mess’: Meta insiders concerned over push to AI content moderation",
         "summary": "Several employees say rapid speed at which algorithms work means mistakes can happen at greater scaleMeta employees have expressed concern at the company’s push to replace human moderators with artificial intelligence, claiming the technology is leading to mistakes with the potential for sweeping political consequences.The social media company, which owns Facebook and Instagram, has been experimentin",
@@ -313,33 +337,17 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/uk-news/2026/nov/25/amazon-motors-into-uk-car-market",
         "seendate": "2026-11-25T14:37:26.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Nvidia CEO Jensen Huang apologizes to staff: ‘I made some terrible mistakes’",
-        "summary": "Huang acknowledges he violated code of conduct by having affairs, but denied Trump was instrumental in his returnJensen Huang apologized to staff on Tuesday for the tumult he has caused at Nvidia. The company’s CEO acknowledged he violated the code of conduct for having extramarital affairs, but pushed back on the reports that Donald Trump was instrumental in his reinstatement as chief executive.“I m",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/nov/24/jensen-huang-nvidia-apologizes-staff",
-        "seendate": "2026-11-24T20:32:02.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "China’s Huawei convicted of stealing US trade secrets",
-        "summary": "US attorney general Todd Blanche says ‘No person or company is above the law’ after tech giant found guilty on 10 of 12 criminal counts The Chinese telecommunications equipment maker Huawei was convicted on Tuesday in a sprawling US criminal case on charges that it stole ⁠trade secrets from US companies and deceived banks about ⁠its business in Iran.Huawei, the world’s leading telecom equipment manuf",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/nov/24/huawei-china-convicted-deceiving-banks-stealing-us-trade-secrets",
-        "seendate": "2026-11-24T21:11:44.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Our ‘Paris manifesto’ proposes how to deal with extreme wealth in the AI age | Open letter",
-        "summary": "It is possible for democracy to reverse the dynamic of oligarchy. But we must act nowThe explosion of extreme wealth in the world is the defining social fact of our times.When Forbes magazine began ranking the world’s largest fortunes in 1987, the wealth of the richest 0.0001% of our planet’s population equaled 3% of global GDP. Since that time, the wealth held by this tiny group of people – just 3,",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/commentisfree/2026/nov/25/paris-manifesto-open-letter-ai-oligarchy",
-        "seendate": "2026-11-25T11:00:47.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "climate": [
+      {
+        "title": "Suit alleges Louisiana land deal between SpaceX and ExxonMobil violates open meetings law",
+        "summary": "Suit says parish board was manipulated to allow deal to go through and settlement agreement hidden from publicAfter ending a lawsuit over ExxonMobil’s damage to wetlands, Louisiana officials moved quickly to approve a deal giving Space",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/nov/26/louisiana-spacex-exxonmobil-land-deal-lawsuit",
+        "seendate": "2026-11-26T12:00:33.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Record-breaking California tides cause major flooding of roads and businesses",
         "summary": "Beaches close as Los Angeles and La Jolla see all-time high tides and big waves batter landmark pier in PacificaSuper El Niño weather brought record-breaking high tides up and down the California coast on Wednesday, sending seawater rushing into beachside communities and flooding roads and businesses.As big waves battered the coast, the tip of a landmark pier in Pacifica, south of San Francisco, was",
@@ -349,7 +357,7 @@ window.NEWS_CACHE = {
         "domain": "theguardian.com"
       },
       {
-        "title": "High levels of salmonella found in some products from nation’s biggest turkey producer",
+        "title": "High levels of salmonella found in some products from biggest US turkey producer",
         "summary": "Two years of inspections at four Butterball plants show rates far exceeding US averages in ground or chopped meatInspectors found salmonella bacteria in more than a third of ground or chopped turkey samples at slaughterhouses owned by Butterball, the US’s biggest turkey company, data shows.The US Department of Agriculture’s (USDA) food safety and inspection service (FSIS) and some states conduct regu",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/environment/2026/nov/25/turkey-salmonella-butterball",
@@ -371,17 +379,25 @@ window.NEWS_CACHE = {
         "url": "https://www.theguardian.com/us-news/2026/nov/25/iowa-controlled-blast-lead-azide",
         "seendate": "2026-11-25T18:24:48.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "US Army calls Iowa lead detonation a ‘huge success’ and says threat of spontaneous explosions has been ‘eliminated’ – as it happened",
-        "summary": "This live blog is now closed. For the latest news on this detonation in Iowa, read our full story:Smoke seen from a mile away as army detonates bomb-making chemicalsThe United States Centers for Disease Control and Preventio",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/live/2026/nov/25/iowa-lead-azide-detonation-army-explosion-bomb-live-updates",
-        "seendate": "2026-11-25T17:20:49.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "science": [
+      {
+        "title": "Young people are having less sex. What's going on? - video",
+        "summary": "Sex among British adults has slumped in recent decades, with under-45s having half as many monthly encounters as in 1990 and one in three under-25s reporting that they have never had sexual intercourse. To unpick some of the possible reasons behind these declines, Madeleine Finlay hears from science editor and co-host Ian Sample. He tells her why young people might be having sex later, and what could account for t",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/video/2026/nov/26/young-people-are-having-less-sex-than-ever-whats-going-on-video",
+        "seendate": "2026-11-26T11:35:55.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Contraceptive pill usage in Great Britain fell drastically in last decade, research finds",
+        "summary": "Survey published in Lancet reveals ‘hormonal hesitancy’ on the rise – with implants and injections also increasingly spurnedThe number of young women using hormonal contraception fell drastically in the past decade, with social media fuelling the “hormonal hesitancy” phenomenon.New findings from the fourth National Survey of Sexual Attitudes and Lifestyles (Natsal-4), published in The Lancet, found t",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/society/2026/nov/26/contraceptive-pill-usage-in-great-britain-fell-drastically-in-last-decade-research-finds",
+        "seendate": "2026-11-26T13:00:51.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Nasa knocked an asteroid off course. New closeup photos shed light on aftermath",
         "summary": "Images of Dimorphos four years on from crash could help scientists design potential planetary defence systemHumanity may not yet have a means of fending off a Vogon constructor fleet – the destroyers of Earth in The Hitchhiker’s Guide to the Galaxy – but its prospects of surviving an encounter with a rogue asteroid are looking considerably brighter.Four years after Nasa <a href=\"https://www.theguardi",
@@ -404,22 +420,6 @@ window.NEWS_CACHE = {
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/science/2026/nov/25/new-way-of-measuring-tides-flood-forecasts-accurate",
         "seendate": "2026-11-25T06:00:08.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "China sends first foreign astronaut to ISS rival as it globalises space operations",
-        "summary": "Muhammad Zeeshan Ali – the first Pakistani to reach orbit – greeted with Chinese ‘space handshake’ at Tiangong stationChina has flown the first foreign astronaut to its Tiangong space station, starting what it says will be the globalisation of its space operations as the US-led International Space Station (ISS) enters its final years of operation.Floating through a hatch to enter Tiangong, Pakistan’s",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/nov/25/china-sends-first-pakistani-astronaut-into-space",
-        "seendate": "2026-11-25T14:18:29.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Dolphins with active social lives and big friendship groups live longer, Australian researchers discover",
-        "summary": "Decades of data collected at WA’s Shark Bay shows level of socialising may affect longevity for Indo-Pacific bottlenose dolphinsDolphins who spend time socialising in large and consistently sized social groups tend to live longer, new research has found.Indo-Pacific bottlenose dolphins are marine mammals that can live for more than 50 years and have complex social lives. They spend time socialising i",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/environment/2026/nov/25/dolphins-with-active-social-lives-and-big-friendship-groups-live-longer",
-        "seendate": "2026-11-25T06:02:05.000Z",
         "domain": "theguardian.com"
       }
     ]
