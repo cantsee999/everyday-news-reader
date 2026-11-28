@@ -1,8 +1,16 @@
 {
-  "generatedAt": "2026-11-27T04:38:11.928Z",
+  "generatedAt": "2026-11-28T04:22:54.831Z",
   "source": "GDELT article list + publisher meta descriptions",
   "categories": {
     "politics": [
+      {
+        "title": "Mad about mara: the DIY dance movement helping young Nigerians escape the daily grind",
+        "summary": "What started as one artist’s response to being cut out of a music video has exploded, becoming a driving force in Nigeria’s cultural landscapeAs a student in the central Nigerian city of Ilorin, Lawal Habeeb Kola loved staying in his hostel room to produce beats rather than returning to his family house in Lagos, the more frenetic city of his birth.In 2022, one of his beats became popular on TikTok,",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/nov/27/mad-about-mara-the-diy-dance-movement-helping-young-nigerians-escape-the-daily-grind",
+        "seendate": "2026-11-27T06:00:56.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "‘I’m no longer a UAE official’: UN hopeful Lana Nusseibeh tries to shake off Sudan record",
         "summary": "The US and Russia’s candidate for secretary general is on a charm offensive. Can she overcome London’s resistance to her bid?Lana Nusseibeh is in Britain this week, attempting to present herself as a potential future UN secretary general, and shift the focus from her past as a United Arab Emirates diplomat who denied the country’s role in arming a militia accused of war crimes and genocide in Sudan’s four-y",
@@ -33,19 +41,19 @@
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/uk-news/2026/nov/25/sri-lanka-asylum-seeker-convicted-sexual-assault-uk-kills-himself-eswatini",
         "seendate": "2026-11-25T11:28:05.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "More than 300 Russians killed as Moscow props up Mali’s junta, leaked data reveals",
-        "summary": "Exclusive: Records list 349 deaths in three years in Mali and also shed light on Russia’s military activity elsewhere in AfricaWhen the attack on Kidal began before dawn on 25 April this year, the Russian fighters were caught off guard. Within the first hour, checkpoints on the outskirts of the remote desert city nestled among the rocky hills of northern Mali had fallen to the insurgents, who pushed towards",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/nov/24/russian-fighters-killed-in-mali-africa-leaked-data",
-        "seendate": "2026-11-24T16:00:50.000Z",
         "domain": "theguardian.com"
       }
     ],
     "conflict": [
       {
+        "title": "Mad about mara: the DIY dance movement helping young Nigerians escape the daily grind",
+        "summary": "What started as one artist’s response to being cut out of a music video has exploded, becoming a driving force in Nigeria’s cultural landscapeAs a student in the central Nigerian city of Ilorin, Lawal Habeeb Kola loved staying in his hostel room to produce beats rather than returning to his family house in Lagos, the more frenetic city of his birth.In 2022, one of his beats became popular on TikTok,",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/nov/27/mad-about-mara-the-diy-dance-movement-helping-young-nigerians-escape-the-daily-grind",
+        "seendate": "2026-11-27T06:00:56.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "‘I’m no longer a UAE official’: UN hopeful Lana Nusseibeh tries to shake off Sudan record",
         "summary": "The US and Russia’s candidate for secretary general is on a charm offensive. Can she overcome London’s resistance to her bid?Lana Nusseibeh is in Britain this week, attempting to present herself as a potential future UN secretary general, and shift the focus from her past as a United Arab Emirates diplomat who denied the country’s role in arming a militia accused of war crimes and genocide in Sudan’s four-y",
         "source": "theguardian.com",
@@ -76,59 +84,75 @@
         "url": "https://www.theguardian.com/uk-news/2026/nov/25/sri-lanka-asylum-seeker-convicted-sexual-assault-uk-kills-himself-eswatini",
         "seendate": "2026-11-25T11:28:05.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "More than 300 Russians killed as Moscow props up Mali’s junta, leaked data reveals",
-        "summary": "Exclusive: Records list 349 deaths in three years in Mali and also shed light on Russia’s military activity elsewhere in AfricaWhen the attack on Kidal began before dawn on 25 April this year, the Russian fighters were caught off guard. Within the first hour, checkpoints on the outskirts of the remote desert city nestled among the rocky hills of northern Mali had fallen to the insurgents, who pushed towards",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/world/2026/nov/24/russian-fighters-killed-in-mali-africa-leaked-data",
-        "seendate": "2026-11-24T16:00:50.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "economy": [
       {
-        "title": "  Not good enough : weak enforcement of sanctions lashed",
-        "summary": "Australia&#x27;s sanctions regime has been savaged in an audit for overwhelmingly relying on stern letters to warn rogue...",
-        "source": "areanews.com.au",
-        "url": "https://www.areanews.com.au/story/9399213/not-good-enough-weak-enforcement-of-sanctions-lashed/",
-        "seendate": "20261127T043000Z",
-        "domain": "areanews.com.au"
+        "title": "‘It’s not helping’: calls for guardrails and regulations as AI use rises at US retailers",
+        "summary": "Labor leaders and advocates urge protections for workers and consumers as AI use becomes more commonplaceAs millions of Americans begin holiday shopping this Black Friday, consumers and workers alike are already seeing how artificial intelligence is reshaping the retail landscape.Anna, a cashier in a southern Oregon Walmart and leader with United for Respect, who requested to remain anonymous for fea",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/nov/27/ai-retailer-consumer-guardrails",
+        "seendate": "2026-11-27T10:00:02.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Trump calls GDP figures  fake  ",
-        "summary": "The president&#x27;s complaint concerns data that revised gross domestic product in the third quarter to 4.3% on an annual basis, up from a prior estimate of 3.4%.",
-        "source": "wyff4.com",
-        "url": "https://www.wyff4.com/article/trump-demands-investigation-of-commerce-department/74544791",
-        "seendate": "20261127T043000Z",
-        "domain": "wyff4.com"
+        "title": "Amazon’s sale deals deceive customers, thinktank alleges",
+        "summary": "Two-thirds of Black Friday and Cyber Monday sale products were priced the same or lower in previous months Groundwork Collaborative finds, a claim Amazon disputesAn Apple Watch on sale for $680. A pair of women’s Hunter yellow rainboots discounted for $127, and a pair of men’s UGG boots, $180. A Carhartt beanie just shy of $20.These discounts – all reportedly featured last year on Amazon’s own curati",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/global/2026/nov/27/amazon-sale-deals-deceive-customers-black-friday-cyber-monday",
+        "seendate": "2026-11-27T14:00:12.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "BQE Water Reports Q3 2026 Results",
-        "summary": "Vancouver, British Columbia--(Newsfile Corp. - November 26, 2026) - BQE Water Inc. (TSXV: BQE), a leader in the treatment and management of mine impacted",
-        "source": "chathamdailynews.ca",
-        "url": "https://www.chathamdailynews.ca/press-releases/newsfile/bqe-water-reports-q3-2026-results/",
-        "seendate": "20261127T043000Z",
-        "domain": "chathamdailynews.ca"
+        "title": "China reserves right to take ‘necessary measures’ after Trump’s new tariff proposals",
+        "summary": "Beijing says new levies amount to ‘political manipulation’, while Brazil ‘will not yield to this type of threat’Trump proposing new tariffs on 14 partners including China and EUBeijing has said it reserves the right to take “necessary measures” after Donald Trump’s administration proposed ne",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
+        "seendate": "2026-11-26T12:00:22.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Bank of Japan calls on policy makers to create  anchor of trust  amid cybersecurity risks",
-        "summary": "Bank of Japan Executive Director Kazushige Kamiyama has just stepped forward to challenge the status quo and has even begun urging policymakers to strengthen defences against the rising fears...",
-        "source": "thenews.com.pk",
-        "url": "https://www.thenews.com.pk/latest/1425338-bank-of-japan-calls-on-policy-makers-to-create-anchor-of-trust-amid-cybersecurity-risks",
-        "seendate": "20261127T043000Z",
-        "domain": "thenews.com.pk"
+        "title": "Judge blocks Brendan Carr-led FCC from taking any further action against ABC’s licenses",
+        "summary": "Federal judge Loren L AliKhan grants preliminary injunction in ABC’s favor after network sued FCC in AugustThe federal judge Loren L AliKhan on Wednesday granted a preliminary injunction blocking the Brendan Carr-led Federal Communications Commission (FCC) from taking any action curbing ABC’s ability to renew its broadcast licenses, after the network <a href=\"https://www.theguardian.com/us-news/2026/aug/18/",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/nov/25/brendan-carr-fcc-abc-licenses",
+        "seendate": "2026-11-26T02:52:47.000Z",
+        "domain": "theguardian.com"
       },
       {
-        "title": "Trump says US has",
-        "summary": "US President Donald Trump has said that America has \"victory at hand\" in its war on Iran, while indicating that Washington is allowing Tehran to reach an agreement to prevent further loss of life. Speaking during a Thanksgiving call alongside First Lady Melania Trump, with US military personnel from his Mar-a-Lago residence in Florida on Thursday (local time), Trump said that the timing of the victory would be his de",
-        "source": "malaysiasun.com",
-        "url": "http://www.malaysiasun.com/news/279463498/trump-says-us-has-victory-at-hand-in-iran-war-offers-tehran-chance-for-deal",
-        "seendate": "20261127T043000Z",
-        "domain": "malaysiasun.com"
+        "title": "US inflation hits highest since May after prices climb 3.8% over the last year",
+        "summary": "Rise occurs amid soaring energy prices, according to last inflation reading before a crucial Fed board meetingThe sell-off in US tech stocks continued on Wednesday as investors reacted to continued concern over the AI trade and fresh data that showed inflation jumped in October.The tech-heavy <a href=\"https://www.theguardian.com/business/na",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/business/2026/nov/25/consumer-prices-september-october-energy-inflation",
+        "seendate": "2026-11-25T15:46:15.000Z",
+        "domain": "theguardian.com"
       }
     ],
     "literature": [
+      {
+        "title": "‘I am scared’: Careless People author Sarah Wynn-Williams on living under a gag order - and why it’s time to speak out against big tech",
+        "summary": "Since writing her bestselling exposé, the former employee has been forbidden from speaking publicly about Meta. In an exclusive extract from her Orwell lecture, she talks about corporate lawfare, and the growing backlash against NDAs George Orwell understood that what is missing often tells you more than what is there. In Nineteen Eighty-Four, there is a slot in the wall&nbsp;covered by a wire grat",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/nov/27/careless-people-author-sarah-wynn-williams-the-silence-is-mine-it-doesnt-have-to-be-yours",
+        "seendate": "2026-11-27T10:00:01.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Children’s and teens roundup – the best new picture books and novels",
+        "summary": "A countdown to Christmas; musical mice; archeological treasure; a disgraced magician; a terrifying curse and moreAnd a Partridge in a Pear Tree by Fay Evans, illustrated by Jono Ganz, Flying Eye, £8.99<stron",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/nov/27/childrens-and-teens-roundup-the-best-new-picture-books-and-novels",
+        "seendate": "2026-11-27T12:00:12.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "The Metaphor Zoo by Jeremy Butterfield review – how animals influence our language",
+        "summary": "A lexicographer reveals the surprising origins of common zoological turns of phrase, from fat cats to fur babiesAnyone who has grown up in the country knows that cows come home. They do it at tea time, like clockwork, because an unmilked cow is an uncomfortable cow. So how did “till the cows come home” come to mean never? Stranger still, when the phrase first appears in a 1587 commentary on St Paul’s epistl",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/books/2026/nov/27/the-metaphor-zoo-by-jeremy-butterfield-review-how-animals-influence-our-language",
+        "seendate": "2026-11-27T07:00:56.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Honey by Elizabeth Jenkins review – a rediscovered 60s classic of sex, money and power",
         "summary": "The beautiful and mercenary Honey is a monstrously compelling character, in a novel with the ruthlessness of Richard Yates but more wit‘A sweet white grape of a book” is how Virginia Woolf described Elizabeth Jenkins’s first novel, Virginia Water, published in 1929 when Jenkins was 24. Jenkins may have detected a condescending note. She was wary of Woolf, having been invited into the Bloomsbury inner circle",
@@ -144,166 +168,158 @@
         "url": "https://www.theguardian.com/books/2026/nov/26/tonight-the-music-seems-so-loud-by-sathnam-sanghera-audiobook-review-in-praise-of-george-michael",
         "seendate": "2026-11-26T15:00:38.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Patrick Radden Keefe’s London Falling named Waterstones book of the year",
-        "summary": "The word-of-mouth success of the journalist’s investigation into the death of a London teenager is ‘one of the defining features of the literary year’London Falling, Patrick Radden Keefe’s bestselling investigation into the mysterious death of a London teenager, has been named Waterstones book of the year.The book follows the parents of Zac Brettler, a 19-year-old who fell from the balcony of a luxur",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/nov/26/patrick-radden-keefes-london-falling-named-waterstones-book-of-the-year",
-        "seendate": "2026-11-26T00:01:39.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Tell us: what have you been reading this month?",
-        "summary": "We would like to hear about the books you’ve particularly enjoyed this monthAs part of The Guardian’s “what we’re reading” series, we would like to hear about the books you’ve particularly enjoyed this month.Have you read a book in recent weeks – fiction or non-fiction – that you’d recommend? Tell us all about it below. <a",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2022/feb/23/tell-us-what-have-you-been-reading-this-month",
-        "seendate": "2026-11-25T13:02:28.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "The 4thWrite short story prize winner – a tale of teenage girlhood",
-        "summary": "Read Darkroom by Meher Iqbal – this year’s winner of the Guardian and publisher 4th Estate’s award for unpublished writers of colourMeher Iqbal wins 2026 4thWrite prize with ‘evocative’ coming-of-age story• Content warning: This story includes a des",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/books/2026/nov/25/the-4thwrite-short-story-prize-winner-a-tale-of-teenage-girlhood",
-        "seendate": "2026-11-25T13:00:27.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "entertainment": [
       {
-        "title": "‘I was very aggressive. They threw me out of every school’ … Julie Delpy on acting, anger and predatory directors",
-        "summary": "Thirty years after the roles that made her famous, the star of Three Colours: White and the Before trilogy is busier than ever – as a screenwriter and director. But, she says, a lot of people have tried to keep her downTo listen to Julie Delpy talk about her workload is to feel the need for a nap coming on. She is writing six screenplays at the mom",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/film/2026/nov/26/julie-delpy-acting-anger-predatory-directors",
-        "seendate": "2026-11-26T10:00:52.000Z",
-        "domain": "theguardian.com"
+        "title": "Pearl Jam Respond to  Inhumane  ICE Incident in Seattle Airport",
+        "summary": "The band weighed in after witnessing viral footage of ICE agents detaining a father and daughter before boarding a flight.",
+        "source": "95rockfm.com",
+        "url": "https://95rockfm.com/ixp/366/p/pearl-jam-respond-ice-arrest-seattle/",
+        "seendate": "20261128T023000Z",
+        "domain": "95rockfm.com"
       },
       {
-        "title": "‘A window into imagination’: the magic of Macy’s Thanksgiving Day Parade – in pictures",
-        "summary": "Between the Balloons: My Thanksgiving Parade is the first book from Aperture Kids, which aims to create community and understanding through photography. The book celebrates the historic 100th anniversary of Macy’s Thanksgiving Day Parade with images by EA Kahane, illustrations by The New Yorker cartoonist Tom Toro and a s",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/artanddesign/gallery/2026/nov/26/thanksgiving-day-parade-pictures-between-the-balloons",
-        "seendate": "2026-11-26T13:14:53.000Z",
-        "domain": "theguardian.com"
+        "title": "Delhi govt spent 37 . 4 % of budget in first 7 months of 2026 - 27",
+        "summary": "The figures show variations in spending across departments, with some having used more than three-fourths of their allocations while others had barely begun. | Latest News Delhi",
+        "source": "hindustantimes.com",
+        "url": "https://www.hindustantimes.com/cities/delhi-news/delhi-govt-spent-37-4-of-budget-in-first-7-months-of-202627-101795801734794.html",
+        "seendate": "20261128T023000Z",
+        "domain": "hindustantimes.com"
       },
       {
-        "title": "Andy Taylor, guitarist in Duran Duran, dies aged 65",
-        "summary": "Musician who had huge 1980s chart success had been diagnosed with prostate cancer in 2018Duran Duran was transformed by Andy Taylor’s rock edge – and never quite the same without him<a href=\"https://www.theguardian.com/music/gallery/2026/nov/26/andy-taylor-dea",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/music/2026/nov/25/andy-taylor-duran-duran-guitarist-dead",
-        "seendate": "2026-11-25T21:41:34.000Z",
-        "domain": "theguardian.com"
+        "title": "  Yeh Prem Mol Liya  box office collection Day 1 : Ayushmann Khurrana and Sharvari film opens at Rs 4 crore ; takes on  Ramayana  and  Gunmaaster G9  |",
+        "summary": "Sooraj Barjatya&#x27;s latest directorial venture, ‘Yeh Prem Mol Liya’, starring Ayushmann Khurrana and Sharvari in lead roles, has opened to a modest response at the box office.",
+        "source": "timesofindia.indiatimes.com",
+        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/yeh-prem-mol-liya-box-office-collection-day-1-ayushmann-khurrana-and-sharvaris-film-opens-at-rs-4-crore-takes-on-ramayana-and-gunmaaster-g9/articleshow/136236329.cms",
+        "seendate": "20261128T023000Z",
+        "domain": "timesofindia.indiatimes.com"
       },
       {
-        "title": "Grand Theft Auto VI: The Album review – even GTA sceptics will warm to this zeitgeisty, star-packed soundtrack",
-        "summary": "(Atlantic)Justice bring some 80s nostalgia but this compilation of new material from music’s A-list – from Dua Lipa to Travis Scott and a host of Latin talent – stays at the cutting edgeIt can be hard to ascertain why Grand Theft Auto VI is such a phenomenon from merely watc",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/music/2026/nov/25/grand-theft-auto-vi-the-album-review",
-        "seendate": "2026-11-25T17:50:18.000Z",
-        "domain": "theguardian.com"
+        "title": "Postponed Macy 100th Thanksgiving parade mostly the same , but now with LL Cool J and Gloria Gaynor",
+        "summary": "Macy",
+        "source": "nvdaily.com",
+        "url": "https://www.nvdaily.com/associated_press_national/postponed-macys-100th-thanksgiving-parade-mostly-the-same-but-now-with-ll-cool-j-and/article_88810c4a-bdbe-5ca6-8168-3cb14dc913b7.html",
+        "seendate": "20261128T023000Z",
+        "domain": "nvdaily.com"
       },
       {
-        "title": "Jimmy Kimmel: ‘America is running like the security system at Jurassic Park’",
-        "summary": "Late-night hosts discussed dysfunction in the US while also revisiting the ongoing Nvidia scandalLate-night hosts continued to express confusion over the handling of the Nvidia scandal while looking at the many other problems created by the Trump administration. Continue reading...",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/culture/2026/nov/25/jimmy-kimmel-nvidia-jensen-huang",
-        "seendate": "2026-11-25T15:59:59.000Z",
-        "domain": "theguardian.com"
+        "title": "Hollywood hardman could play Robert Pattinson Bond villain",
+        "summary": "An Oscar-nominated Hollywood hardman could be lined up to play the villain in Robert Pattinson",
+        "source": "malverngazette.co.uk",
+        "url": "https://www.malverngazette.co.uk/news/26771064.hollywood-hardman-play-robert-pattinsons-bond-villain/",
+        "seendate": "20261128T023000Z",
+        "domain": "malverngazette.co.uk"
       }
     ],
     "f1": [
       {
-        "title": "Mercedes boss Toto Wolff reveals why rival F1 teams never try to hire him",
-        "summary": "Toto Wolff has just added to his legendary resume by securing Mercedes' return to the top of Formula 1 in 2026, officially tying former McLaren boss Ron Dennis with a record 17 world championship titles across drivers' and constructors' campaigns. With that level of historical dominance, logic dictates that rival constructors and corporate conglomerates would be throwing blank cheques at the ...<a class=",
+        "title": "George Russell drops cryptic hint over where Toto Wolff “stands off the record” on Max Verstappen",
+        "summary": "Toto Wolff has spent the past week sounding remarkably unfazed by Formula 1’s fiercest driver feud. George Russell, however, just hinted that Mercedes’ team principal sounds rather different once the microphones are switched off.Speaking exclusively to Martin Brundle for Sky Sports F1 - in an interview previewed Friday ahead of its full broadcast before Sunday’s Qatar Grand Prix - ...<a class='more' href",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/mercedes-boss-toto-wolff-reveals-why-rival-f1-teams-never-try-to-hire-him/10874986/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-27T00:30:04.000Z",
+        "url": "https://www.motorsport.com/f1/news/george-russell-drops-cryptic-hint-over-where-toto-wolff-stands-off-the-record-on-max-verstappen/10878290/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-28T02:38:16.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Toto Wolff responds to Kimi Antonelli salary questions after F1 title success",
-        "summary": "When a Formula 1 team elevates a teenager from Formula 2 directly into a top-tier factory seat, the initial contract is rarely structured like a blockbuster superstar deal. But when that kid wins the drivers' world championship in his sophomore season, the original financial terms quickly become drastically outdated.That is exactly the scenario currently playing out at Mercedes with ...<a class='more' hr",
+        "title": "F1 Qatar GP long runs: Kimi Antonelli nearly a second clear of Max Verstappen on Friday",
+        "summary": "Kimi Antonelli heads into the penultimate race weekend of the 2026 Formula 1 season in Qatar as the early favourite. The reigning world champion dominated Friday practice at the Lusail International Circuit, both over a single lap and in the race simulations. His advantage on the long runs was particularly impressive: his closest challenger, Max Verstappen, was on average 0.83s per lap slower in ...<a class=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/toto-wolff-says-the-world-champion-should-be-rewarded-after-bild-puts-antonellis-pay-at-about-46-mi/10874830/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-26T23:00:02.000Z",
+        "url": "https://www.motorsport.com/f1/news/f1-qatar-gp-practice-analysis-antonelli-nearly-a-second-clear-of-verstappen-on-long-runs/10878464/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-27T22:10:24.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Max Verstappen details his ideal 2030 F1 Formula",
-        "summary": "Fresh off winning a chaotic, 352-overtake Las Vegas Grand Prix that he bluntly dismissed as feeling like \"playing Mario Kart\", Max Verstappen has laid out what he believes Formula 1 should actually chase when its next major regulation overhaul arrives in 2030.Speaking to the media ahead of the Qatar Grand Prix at Losail, the four-time world champion was asked what a \"pure\" Formula 1 looks like ...<a clas",
+        "title": "Charles Leclerc explains Qatar GP practice spin after painfully \"slow\" day for Ferrari",
+        "summary": "Charles Leclerc rued a \"very, very difficult\" FP2 for Ferrari at the Formula 1 Qatar Grand Prix, with his early spin the symptom of a general lack of grip in the SF-26.Having already gotten off to a quiet start in FP1, Leclerc and team-mate Lewis Hamilton could only manage seventh and eighth in FP2, a full second adrift of Mercedes' leader Kimi Antonelli.Read Also:Formula 1F1 ...<a class=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/verstappen-outlines-his-ideal-2030-f1-formula-lighter-cars-simpler-engines-and-push-to-pass-over-en/10878035/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-26T22:13:25.000Z",
+        "url": "https://www.motorsport.com/f1/news/charles-leclerc-explains-qatar-spin-after-painfully-slow-day-for-ferrari/10878445/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-27T20:52:17.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Kimi Antonelli teases Nordschleife race with Max Verstappen, but there is one condition",
-        "summary": "2026 Formula 1 champion Kimi Antonelli says he would love to race alongside four-time champion Max Verstappen at the Nordschleife, but admits he would first have to win the support of Mercedes team principal Toto Wolff.Verstappen has made no secret of his love of endurance racing, and has raced GT3 cars at the Nurburgring alongside his F1 commitments.While speaking to the media ahead of ...<a class='",
+        "title": "Max Verstappen feels a “disconnect” as Red Bull looks to solve “massive limitation” in Qatar GP practice",
+        "summary": "A week after Max Verstappen's victory in Las Vegas, a completely different challenge awaits this weekend. While the street circuit along the Strip was characterised by long straights interspersed with slow corners, the Lusail International Circuit is almost the exact opposite.Apart from Turn 6 – the only slow corner on the circuit – the track predominantly features high-speed corners, and ...<a class='mo",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/kimi-antonelli-teases-nordschleife-race-with-max-verstappen-but-there-is-one-condition/10878047/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-26T20:56:51.000Z",
+        "url": "https://www.motorsport.com/f1/news/max-verstappen-feels-a-disconnect-as-red-bull-looks-to-solve-massive-limitation-in-qatar-gp-practice/10878436/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-27T20:13:38.000Z",
         "domain": "motorsport.com"
       },
       {
-        "title": "Max Verstappen without Gianpiero Lambiase at Qatar GP as Tom Hart steps in",
-        "summary": "Max Verstappen will be without his regular right-hand man Gianpiero Lambiase this weekend at the Lusail International Circuit. Red Bull had already opted for a rotation system for the latter part of this Formula 1 season, primarily to allow Tom Hart to settle into the role ahead of his expected permanent appointment while Lambiase is still with the team.The initial plan was for Lambiase to ...<a class='m",
+        "title": "Lando Norris: Mercedes “at a different level” in Qatar",
+        "summary": "Both practice sessions on Friday at the Formula 1 Qatar Grand Prix ended with new world champion Kimi Antonelli and his Mercedes team-mate George Russell in a closely matched 1-2, but nobody else could match their blistering pace around this high-speed circuit.Russell was half a second off Antonelli in the less representative first session, held during hotter daylight hours, but he found the ...<a class=",
         "source": "motorsport.com",
-        "url": "https://www.motorsport.com/f1/news/max-verstappen-without-gianpiero-lambiase-at-qatar-gp-as-tom-hart-steps-in/10878042/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-        "seendate": "2026-11-26T19:55:34.000Z",
+        "url": "https://www.motorsport.com/f1/news/lando-norris-mercedes-at-a-different-level-in-qatar/10878432/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+        "seendate": "2026-11-27T20:04:37.000Z",
         "domain": "motorsport.com"
       }
     ],
     "sims": [
       {
-        "title": "Witcher 3 Remastered patch has lighting fixes, sign nerfs, and gets rid of a nasty werewolf bug",
-        "summary": "Turns out they weren't meant to be that hard to kill after all.",
+        "title": "The better version of the wireless headset I love is $40 off right now",
+        "summary": "I don't see much talk about Sony's new-ish gaming cans, but they're quite good.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/the-witcher/witcher-3-remastered-patch-has-lighting-fixes-sign-nerfs-and-gets-rid-of-a-nasty-werewolf-bug/",
-        "seendate": "2026-11-27T04:27:55.000Z",
+        "url": "https://www.pcgamer.com/hardware/the-better-version-of-the-wireless-headset-i-love-is-usd40-off-right-now/",
+        "seendate": "2026-11-28T00:01:20.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Vermintide 2 mod tools get a public release, and the game's 90% off on Steam too",
-        "summary": "Holy Sigmar, bless this ravaged body.",
+        "title": "The canonical USB microphone is still great, and now a total steal for $70",
+        "summary": "The Blue Yeti is a household name in microphones for a reason.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/fps/vermintide-2-mod-tools-get-a-public-release-and-the-games-90-percent-off-on-steam-too/",
-        "seendate": "2026-11-27T01:28:24.000Z",
+        "url": "https://www.pcgamer.com/hardware/the-canonical-usb-microphone-is-still-great-and-now-a-total-steal-for-usd70/",
+        "seendate": "2026-11-27T23:00:01.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "'Blizzard I'm looking at you': Path of Exile 2 boss criticizes 'truly terrible' game announcements that hold the juiciest details until the end",
-        "summary": "Grinding Gear Games' Jonathan Rogers urges devs to lead with their best stuff.",
+        "title": "Skate is dropping seasons and season passes in favor of 'regular, agile content updates'",
+        "summary": "The fifth season of Skate will be its last as developer Full Circle looks to try something new.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/rpg/blizzard-im-looking-at-you-path-of-exile-2-boss-criticizes-truly-terrible-game-announcements-that-hold-the-juiciest-details-until-the-end/",
-        "seendate": "2026-11-26T23:00:00.000Z",
+        "url": "https://www.pcgamer.com/games/sports/skate-is-dropping-seasons-and-season-passes-in-favor-of-regular-agile-content-updates/",
+        "seendate": "2026-11-27T22:13:12.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Dawn of War 4's campaigns differ based on your choices: 'which character you choose and what decisions you make with them lead down different experiences of an overlapping story'",
-        "summary": "Dawn of War 4 writer John French lays out how it works.",
+        "title": "I went completely cordless and for $185 you can get better prices on better products than I did with these Black Friday PC peripheral deals",
+        "summary": "I finally went 100% wireless this year and you can get your desk looking equally fresh at a fraction of the cost this weekend.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/rts/dawn-of-war-4s-campaigns-differ-based-on-your-choices-which-character-you-choose-and-what-decisions-you-make-with-them-lead-down-different-experiences-of-an-overlapping-story/",
-        "seendate": "2026-11-26T22:30:59.000Z",
+        "url": "https://www.pcgamer.com/hardware/i-went-completely-cordless-and-for-usd185-you-can-get-better-prices-on-better-products-than-i-did-with-these-black-friday-pc-peripheral-deals/",
+        "seendate": "2026-11-27T20:57:32.000Z",
         "domain": "pcgamer.com"
       },
       {
-        "title": "Steam isn't doing 'an official Black Friday fest,' but it does have a page with hundreds of discounts and 'Black Friday' splashed across the top so you might want to check it out anyway",
-        "summary": "Updates to Steam's 'Discounts and Events' page are now live, and Valve wants to show them off.",
+        "title": "After falling in love with PS5 haptic feedback in GTA 6, I'm eyeing these Black Friday deals on DualSense controllers",
+        "summary": "Adaptive triggers are my new best friends.",
         "source": "pcgamer.com",
-        "url": "https://www.pcgamer.com/games/steam-isnt-doing-an-official-black-friday-fest-but-it-does-have-a-page-with-hundreds-of-discounts-and-black-friday-splashed-across-the-top-so-you-might-want-to-check-it-out-anyway/",
-        "seendate": "2026-11-26T20:20:02.000Z",
+        "url": "https://www.pcgamer.com/hardware/controllers/after-falling-in-love-with-ps5-haptic-feedback-in-gta-6-im-eyeing-these-black-friday-deals-on-dualsense-controllers/",
+        "seendate": "2026-11-27T19:40:21.000Z",
         "domain": "pcgamer.com"
       }
     ],
     "new-tech-products": [],
     "technology": [
       {
+        "title": "Meta whistleblower calls on Burnham to go further with ban on NDAs",
+        "summary": "Sarah Wynn-Williams says tech insiders with concerns about AI are being silenced in system reminiscent of George Orwell’s 1984The Meta whistleblower who made allegations about the social media company’s treatment of teenagers has urged Andy Burnham to go further in banning non-disclosure agreements, warning that tech insiders with concerns about AI d",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/nov/27/meta-whistleblower-sarah-wynn-williams-calls-on-burnham-to-go-further-with-ban-on-non-disclosure-agreements",
+        "seendate": "2026-11-27T12:30:08.000Z",
+        "domain": "theguardian.com"
+      },
+      {
         "title": "A vocal cohort of tech leaders celebrates Huang’s Nvidia return, but others are keeping quiet",
         "summary": "Elon Musk and Sam Altman among those rejoicing but Google, Meta and Apple chiefs have declined to weigh inThe phrase “return of the king” rippled across social media on Monday. A vocal subsection of the tech industry was celebrating the resurrection of Jensen Huang as Nvidia’s CEO. Some called him the “imperial and royal majesty”, others anointed him as “our Jesus” and several simply posted a crown emoji.</",
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/technology/2026/nov/26/jensen-huang-nvidia-tech",
         "seendate": "2026-11-26T10:00:52.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Hackers reportedly breach US air force’s flagship cloud computing platform",
+        "summary": "Intrusion into Cloud One platform could jeopardize security of sensitive tactical, personnel and logistics dataHackers are reported to have breached the US air force’s flagship cloud computing platform, a break-in that comes days after reports that a CIA database was accessed.Reuters",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/technology/2026/nov/27/hackers-breach-us-air-force-cloud-computing",
+        "seendate": "2026-11-27T14:50:15.000Z",
         "domain": "theguardian.com"
       },
       {
@@ -321,25 +337,25 @@
         "url": "https://www.theguardian.com/technology/2026/nov/26/elon-musk-pledges-to-give-two-spacex-shares-to-every-child-in-the-us",
         "seendate": "2026-11-26T07:02:37.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "‘It’s been really a mess’: Meta insiders concerned over push to AI content moderation",
-        "summary": "Several employees say rapid speed at which algorithms work means mistakes can happen at greater scaleMeta employees have expressed concern at the company’s push to replace human moderators with artificial intelligence, claiming the technology is leading to mistakes with the potential for sweeping political consequences.The social media company, which owns Facebook and Instagram, has been experimentin",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/technology/2026/nov/25/meta-insiders-concerned-push-to-ai-content-moderation",
-        "seendate": "2026-11-25T07:00:08.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Amazon to start selling cars in the UK next year",
-        "summary": "US retail giant links up with Hyundai in attempt to crack £200bn British marketAmazon is planning to sell cars in the UK from early next year, in a move that threatens to disrupt the vehicle retail market.The Amazon Autos service will be launched in “early 2027”, starting with cars from the Korean manufacturer Hyundai. It will be the first time the US tech company has sold cars outside its home count",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/uk-news/2026/nov/25/amazon-motors-into-uk-car-market",
-        "seendate": "2026-11-25T14:37:26.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "climate": [
+      {
+        "title": "The US army just detonated a poison bomb over Iowa | Steven Donziger",
+        "summary": "The shocking situation in Iowa is a metaphor for much of what is wrong with the United StatesThere’s no way to hide it: the US government just deliberately detonated a poison bomb of lead azide over the state of Iowa when a totally safe alternative was available.The problem in Iowa was relatively simple to solve. The army for decades had stored lead underground at a munitions facility. As far back as",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/commentisfree/2026/nov/27/army-lead-poison-bomb-iowa",
+        "seendate": "2026-11-27T19:30:18.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "Three studies link glyphosate to cancer, contradicting claims of Trump EPA",
+        "summary": "Experts say NIH research raises concerns about chemical companies’ influence on US agency’s pesticide divisionThe US government’s top medical research agency has released three new studies linking glyphosate, the world’s most widely used pesticide and an active ingredient in Roundup, <a href=\"https://zenodo.o",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/nov/27/glyphosate-cancer-studies-trump-epa",
+        "seendate": "2026-11-27T15:00:13.000Z",
+        "domain": "theguardian.com"
+      },
       {
         "title": "Suit alleges Louisiana land deal between SpaceX and ExxonMobil violates open meetings law",
         "summary": "Suit says parish board was manipulated to allow deal to go through and settlement agreement hidden from publicAfter ending a lawsuit over ExxonMobil’s damage to wetlands, Louisiana officials moved quickly to approve a deal giving Space",
@@ -363,22 +379,6 @@
         "url": "https://www.theguardian.com/environment/2026/nov/25/turkey-salmonella-butterball",
         "seendate": "2026-11-25T20:00:34.000Z",
         "domain": "theguardian.com"
-      },
-      {
-        "title": "Cloud of smoke seen after US army detonates bomb-making chemicals in Iowa – video",
-        "summary": "A large cloud of smoke was seen in Middleton, Iowa, after the army detonated the nation’s entire stockpile of lead azide used for making bombs on Wednesday morning, despite an outpouring of public concern about potential health and environmental effectsSmoke seen from a mile away as army detonates US s",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/video/2026/nov/25/cloud-of-smoke-seen-after-us-army-detonates-bomb-making-chemicals-in-iowa-video",
-        "seendate": "2026-11-25T18:30:56.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "Smoke seen from a mile away as army detonates US stockpile of bomb-making chemicals in Iowa",
-        "summary": "Controlled blast to dispose of lead azide risks releasing plumes of toxic chemicals in 100-mile radiusThe US army detonated the nation’s entire stockpile of the the bomb-making material lead azide in Iowa on Wednesday morning, despite an outpouring of public concern about potential health and environmental effects.The controlled blast, which took",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/nov/25/iowa-controlled-blast-lead-azide",
-        "seendate": "2026-11-25T18:24:48.000Z",
-        "domain": "theguardian.com"
       }
     ],
     "science": [
@@ -388,6 +388,14 @@
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/science/video/2026/nov/26/young-people-are-having-less-sex-than-ever-whats-going-on-video",
         "seendate": "2026-11-26T11:35:55.000Z",
+        "domain": "theguardian.com"
+      },
+      {
+        "title": "‘I felt a zap race through my body’: what happens when someone is hit by lightning?",
+        "summary": "Tens of thousands of people experience strikes each year. What are the effects of a current five times hotter than the sun – and how can you keep safe?Caitlin Thomas recalls knowing that something terrible had happened but not fully understanding what.She and her partner had arrived at a music festival some 270km north of Melbourne in the early afternoon and began setting up their tents and a gazebo",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/nov/28/what-happens-when-someone-is-hit-by-lightning",
+        "seendate": "2026-11-27T14:00:12.000Z",
         "domain": "theguardian.com"
       },
       {
@@ -412,14 +420,6 @@
         "source": "theguardian.com",
         "url": "https://www.theguardian.com/science/video/2026/nov/25/beaver-supermoon-lights-up-skylines-around-the-world-video",
         "seendate": "2026-11-25T10:59:18.000Z",
-        "domain": "theguardian.com"
-      },
-      {
-        "title": "How a new way of measuring tides could make flood forecasts more accurate",
-        "summary": "Analysis of differences in tidal height across beaches could lead to more localised tide and flood forecastsThe sea might look level, but it turns out tidal height can vary by as much as a metre across the length of a single beach, new research shows. This development is important when it comes to flood predictions and when forecasting which locations are most vulnerable to storm surges.Up until now,",
-        "source": "theguardian.com",
-        "url": "https://www.theguardian.com/science/2026/nov/25/new-way-of-measuring-tides-flood-forecasts-accurate",
-        "seendate": "2026-11-25T06:00:08.000Z",
         "domain": "theguardian.com"
       }
     ]
